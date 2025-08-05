@@ -1,12 +1,15 @@
 ---
-title: "A devilish hack and slash gacha grindfest | Final CBT Review - DMC: Peak of Combat"
-description: "Devil May Cry: Peak of CombatGlobal"
-pubDate: 2023-10-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "devil-may-cry-4-special-edition"]
+author: lyndonguitar
+category: Review
+description: 'Devil May Cry: Peak of CombatGlobal'
 featured: false
-thumb: "/images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-0.avif"
+pubDate: 2023-10-11
+tags:
+- taptap
+- devil-may-cry-4-special-edition
+thumb: /images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-0.avif
+title: 'A devilish hack and slash gacha grindfest | Final CBT Review - DMC: Peak of
+  Combat'
 ---
 
 <div class="gallery">

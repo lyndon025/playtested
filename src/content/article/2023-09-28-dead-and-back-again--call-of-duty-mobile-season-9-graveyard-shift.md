@@ -1,12 +1,16 @@
 ---
-title: "Dead and back again | Call of Duty Mobile Season 9: Graveyard Shift"
-description: "With Halloween just around the corner, Call of Duty Mobile is now coming with a new update set to bring an eerie and action-packed experience to CODM players, with a recent trailer glimpsing of what's to come."
-pubDate: 2023-09-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "call-of-duty:-mobile-season-3"]
+author: lyndonguitar
+category: Review
+description: With Halloween just around the corner, Call of Duty Mobile is now coming
+  with a new update set to bring an eerie and action-packed experience to CODM players,
+  with a recent trailer glimpsing of what's to come.
 featured: false
-thumb: ""
+pubDate: 2023-09-28
+tags:
+- taptap
+- call-of-duty:-mobile-season-3
+thumb: ''
+title: 'Dead and back again | Call of Duty Mobile Season 9: Graveyard Shift'
 ---
 
 With Halloween just around the corner, Call of Duty Mobile is now coming with a new update set to bring an eerie and action-packed experience to CODM players, with a recent trailer glimpsing of what's to come.

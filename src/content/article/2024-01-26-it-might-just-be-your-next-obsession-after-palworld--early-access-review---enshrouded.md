@@ -1,12 +1,16 @@
 ---
-title: "It might just be your next obsession after Palworld | Early Access Review - Enshrouded"
-description: "Enshrouded"
-pubDate: 2024-01-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "valheim-(pc)"]
+author: lyndonguitar
+category: Review
+description: Enshrouded
 featured: false
-thumb: "/images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-0.avif"
+pubDate: 2024-01-26
+score: 8.0
+tags:
+- taptap
+- valheim-(pc)
+thumb: /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-0.avif
+title: It might just be your next obsession after Palworld | Early Access Review -
+  Enshrouded
 ---
 
 <div class="gallery">

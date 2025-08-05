@@ -1,12 +1,15 @@
 ---
-title: "Would you like to know more? | Early Access Impressions - Starship Troopers: Extermination"
-description: "Starship Troopers: Extermination"
-pubDate: 2023-05-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "starship-troopers:-extermination"]
+author: lyndonguitar
+category: Review
+description: 'Starship Troopers: Extermination'
 featured: false
-thumb: "/images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-0.avif"
+pubDate: 2023-05-21
+tags:
+- taptap
+- starship-troopers:-extermination
+thumb: /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-0.avif
+title: 'Would you like to know more? | Early Access Impressions - Starship Troopers:
+  Extermination'
 ---
 
 <div class="gallery">

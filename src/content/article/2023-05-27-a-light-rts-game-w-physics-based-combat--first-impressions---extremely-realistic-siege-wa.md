@@ -1,12 +1,20 @@
 ---
-title: "A light RTS game w/ physics-based combat | First Impressions - Extremely Realistic Siege Warfare Sim"
-description: "With its physics-based combat, humorous tone, and challenging scenarios, Extremely Realistic Siege Warfare Simulator offers a combination of strategy, puzzle solving, and sandbox entertainment. Prepare to build your army, construct siege equipment, and lead epic battles in this medieval world of strategic conquest. Originally a PC game (which is still in Early Access on Steam), I was able to play the Android demo version of Extremely Realistic Siege Warfare Simulator, which is coming soon."
-pubDate: 2023-05-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "extremely-realistic-siege-warfare-simulator"]
+author: lyndonguitar
+category: Review
+description: With its physics-based combat, humorous tone, and challenging scenarios,
+  Extremely Realistic Siege Warfare Simulator offers a combination of strategy, puzzle
+  solving, and sandbox entertainment. Prepare to build your army, construct siege
+  equipment, and lead epic battles in this medieval world of strategic conquest. Originally
+  a PC game (which is still in Early Access on Steam), I was able to play the Android
+  demo version of Extremely Realistic Siege Warfare Simulator, which is coming soon.
 featured: false
-thumb: ""
+pubDate: 2023-05-27
+tags:
+- taptap
+- extremely-realistic-siege-warfare-simulator
+thumb: ''
+title: A light RTS game w/ physics-based combat | First Impressions - Extremely Realistic
+  Siege Warfare Sim
 ---
 
 With its physics-based combat, humorous tone, and challenging scenarios, Extremely Realistic Siege Warfare Simulator offers a combination of strategy, puzzle solving, and sandbox entertainment. Prepare to build your army, construct siege equipment, and lead epic battles in this medieval world of strategic conquest. Originally a PC game (which is still in Early Access on Steam), I was able to play the Android demo version of Extremely Realistic Siege Warfare Simulator, which is coming soon.

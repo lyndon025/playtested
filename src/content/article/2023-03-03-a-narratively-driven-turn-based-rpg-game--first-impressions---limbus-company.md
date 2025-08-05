@@ -1,12 +1,15 @@
 ---
-title: "A narratively driven turn-based RPG game | First Impressions - Limbus Company"
-description: "Limbus Company is a free-to-play turn-based RPG game with a focus on storytelling, available for Mobile and PC platforms."
-pubDate: 2023-03-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "limbus-company"]
+author: lyndonguitar
+category: Review
+description: Limbus Company is a free-to-play turn-based RPG game with a focus on
+  storytelling, available for Mobile and PC platforms.
 featured: false
-thumb: "/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-0.avif"
+pubDate: 2023-03-03
+tags:
+- taptap
+- limbus-company
+thumb: /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-0.avif
+title: A narratively driven turn-based RPG game | First Impressions - Limbus Company
 ---
 
 <div class="gallery">

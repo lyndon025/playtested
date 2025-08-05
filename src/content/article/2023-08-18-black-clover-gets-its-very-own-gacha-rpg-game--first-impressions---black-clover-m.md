@@ -1,12 +1,20 @@
 ---
-title: "Black Clover gets its very own gacha RPG game | First Impressions - Black Clover M"
-description: "Drawing inspiration from the beloved anime and manga series, Black Clover M presents players with a high-quality adaptation that seamlessly integrates iconic scenes into the gameplay. The exceptional quality of animation brings the Manga and Anime into life, creating a visually striking experience. With cel-shaded graphics characteristic of anime adaptations, the game does justice to the visual aesthetics of the anime."
-pubDate: 2023-08-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "black-clover-m"]
+author: lyndonguitar
+category: Review
+description: Drawing inspiration from the beloved anime and manga series, Black Clover
+  M presents players with a high-quality adaptation that seamlessly integrates iconic
+  scenes into the gameplay. The exceptional quality of animation brings the Manga
+  and Anime into life, creating a visually striking experience. With cel-shaded graphics
+  characteristic of anime adaptations, the game does justice to the visual aesthetics
+  of the anime.
 featured: false
-thumb: ""
+pubDate: 2023-08-18
+tags:
+- taptap
+- black-clover-m
+thumb: ''
+title: Black Clover gets its very own gacha RPG game | First Impressions - Black Clover
+  M
 ---
 
 Drawing inspiration from the beloved anime and manga series, Black Clover M presents players with a high-quality adaptation that seamlessly integrates iconic scenes into the gameplay. The exceptional quality of animation brings the Manga and Anime into life, creating a visually striking experience. With cel-shaded graphics characteristic of anime adaptations, the game does justice to the visual aesthetics of the anime.

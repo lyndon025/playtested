@@ -1,12 +1,14 @@
 ---
-title: "The next big MMO for PC and Mobile? | CBT Review - Tarisland"
-description: "Tarisland"
-pubDate: 2023-11-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tarisland"]
+author: lyndonguitar
+category: Review
+description: Tarisland
 featured: false
-thumb: "/images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-0.avif"
+pubDate: 2023-11-16
+tags:
+- taptap
+- tarisland
+thumb: /images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-0.avif
+title: The next big MMO for PC and Mobile? | CBT Review - Tarisland
 ---
 
 <div class="gallery">

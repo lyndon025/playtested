@@ -1,12 +1,16 @@
 ---
-title: "Behind this flawed “Souls-lite” lies a decent game | Full Review - Lords of the Fallen"
-description: "Lords of the Fallen"
-pubDate: 2023-10-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lords-of-the-fallen"]
+author: lyndonguitar
+category: Review
+description: Lords of the Fallen
 featured: false
-thumb: "/images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-0.avif"
+pubDate: 2023-10-16
+score: 6.0
+tags:
+- taptap
+- lords-of-the-fallen
+thumb: /images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-0.avif
+title: Behind this flawed “Souls-lite” lies a decent game | Full Review - Lords of
+  the Fallen
 ---
 
 <div class="gallery">

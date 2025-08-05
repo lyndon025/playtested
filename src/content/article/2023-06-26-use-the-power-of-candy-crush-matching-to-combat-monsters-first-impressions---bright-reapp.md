@@ -1,12 +1,18 @@
 ---
-title: "Use the power of candy crush matching to combat monsters| First Impressions - Bright Reappear"
-description: "Bright Reappear is an intriguing fusion of the popular Candy Crush match-three puzzle system and retro-style turn-based RPG gameplay. While these both addicting genres have rarely been combined in the past, this game brings its own unique twists to the table."
-pubDate: 2023-06-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "bright-reappear"]
+author: lyndonguitar
+category: Review
+description: Bright Reappear is an intriguing fusion of the popular Candy Crush match-three
+  puzzle system and retro-style turn-based RPG gameplay. While these both addicting
+  genres have rarely been combined in the past, this game brings its own unique twists
+  to the table.
 featured: false
-thumb: ""
+pubDate: 2023-06-26
+tags:
+- taptap
+- bright-reappear
+thumb: ''
+title: Use the power of candy crush matching to combat monsters| First Impressions
+  - Bright Reappear
 ---
 
 Bright Reappear is an intriguing fusion of the popular Candy Crush match-three puzzle system and retro-style turn-based RPG gameplay. While these both addicting genres have rarely been combined in the past, this game brings its own unique twists to the table.

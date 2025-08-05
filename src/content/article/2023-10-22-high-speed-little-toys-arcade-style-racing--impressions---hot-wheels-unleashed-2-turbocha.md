@@ -1,12 +1,18 @@
 ---
-title: "High-speed, little toys arcade-style racing | Impressions - Hot Wheels Unleashed 2: Turbocharged"
-description: "The first game was one of my lowkey go-to racing games to play on the Steam Deck. Now it gets a sequel which honestly flew under my radar until its release recently. Hot Wheels Unleashed 2: Turbocharged is continuation of the original game with some noticeable improvements, especially in the gameplay and content."
-pubDate: 2023-10-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "turbocharged"]
+author: lyndonguitar
+category: Review
+description: 'The first game was one of my lowkey go-to racing games to play on the
+  Steam Deck. Now it gets a sequel which honestly flew under my radar until its release
+  recently. Hot Wheels Unleashed 2: Turbocharged is continuation of the original game
+  with some noticeable improvements, especially in the gameplay and content.'
 featured: false
-thumb: ""
+pubDate: 2023-10-22
+tags:
+- taptap
+- turbocharged
+thumb: ''
+title: 'High-speed, little toys arcade-style racing | Impressions - Hot Wheels Unleashed
+  2: Turbocharged'
 ---
 
 The first game was one of my lowkey go-to racing games to play on the Steam Deck. Now it gets a sequel which honestly flew under my radar until its release recently. Hot Wheels Unleashed 2: Turbocharged is continuation of the original game with some noticeable improvements, especially in the gameplay and content.

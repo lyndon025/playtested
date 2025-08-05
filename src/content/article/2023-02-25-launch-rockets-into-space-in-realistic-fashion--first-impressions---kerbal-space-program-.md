@@ -1,12 +1,18 @@
 ---
-title: "Launch rockets into space, in realistic fashion | First Impressions - Kerbal Space Program 2"
-description: "Kerbal Space Program 2, or KSP2, is essentially a space flight simulator that offers players the opportunity to design, engineer, build, and launch their own rockets, spacecraft, and planes as they attempt to explore the vast reaches of the fictional Kerbol System and beyond."
-pubDate: 2023-02-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kerbal-space-program-2"]
+author: lyndonguitar
+category: Review
+description: Kerbal Space Program 2, or KSP2, is essentially a space flight simulator
+  that offers players the opportunity to design, engineer, build, and launch their
+  own rockets, spacecraft, and planes as they attempt to explore the vast reaches
+  of the fictional Kerbol System and beyond.
 featured: false
-thumb: "/images/reviews/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--0.avif"
+pubDate: 2023-02-25
+tags:
+- taptap
+- kerbal-space-program-2
+thumb: /images/reviews/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--0.avif
+title: Launch rockets into space, in realistic fashion | First Impressions - Kerbal
+  Space Program 2
 ---
 
 <div class="gallery">

@@ -1,12 +1,18 @@
 ---
-title: "Still in Early Access, but the concept looks neat | Depersonalization - First Impressions"
-description: "At face value, Depersonalization’s aesthetic and general feeling unquestionably reminded me of the many anime visual novel games I’ve played before: the chilling soundtrack, the eerie anime art, the intriguing story elements, and the various choices you are presented in the game."
-pubDate: 2022-12-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "depersonalization"]
+author: lyndonguitar
+category: Review
+description: 'At face value, Depersonalization’s aesthetic and general feeling unquestionably
+  reminded me of the many anime visual novel games I’ve played before: the chilling
+  soundtrack, the eerie anime art, the intriguing story elements, and the various
+  choices you are presented in the game.'
 featured: false
-thumb: "/images/reviews/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-0.avif"
+pubDate: 2022-12-21
+tags:
+- taptap
+- depersonalization
+thumb: /images/reviews/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-0.avif
+title: Still in Early Access, but the concept looks neat | Depersonalization - First
+  Impressions
 ---
 
 <div class="gallery">

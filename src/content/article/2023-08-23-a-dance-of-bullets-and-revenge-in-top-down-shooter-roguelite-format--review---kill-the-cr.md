@@ -1,12 +1,15 @@
 ---
-title: "A dance of bullets and revenge, in top-down shooter roguelite format | Review - Kill the Crows"
-description: "Kill The Crows"
-pubDate: 2023-08-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kill-the-crows"]
+author: lyndonguitar
+category: Review
+description: Kill The Crows
 featured: false
-thumb: "/images/reviews/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-0.avif"
+pubDate: 2023-08-23
+tags:
+- taptap
+- kill-the-crows
+thumb: /images/reviews/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-0.avif
+title: A dance of bullets and revenge, in top-down shooter roguelite format | Review
+  - Kill the Crows
 ---
 
 <div class="gallery">

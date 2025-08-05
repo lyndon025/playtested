@@ -1,12 +1,14 @@
 ---
-title: "Charming, albeit very short, 'card-off' extravaganza | Dancing Duelists"
-description: "Dancing Duelists"
-pubDate: 2023-10-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dancing-duelists"]
+author: lyndonguitar
+category: Review
+description: Dancing Duelists
 featured: false
-thumb: "/images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-0.avif"
+pubDate: 2023-10-21
+tags:
+- taptap
+- dancing-duelists
+thumb: /images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-0.avif
+title: Charming, albeit very short, 'card-off' extravaganza | Dancing Duelists
 ---
 
 <div class="gallery">

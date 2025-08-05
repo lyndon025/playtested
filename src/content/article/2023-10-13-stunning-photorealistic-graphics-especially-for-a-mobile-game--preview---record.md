@@ -1,12 +1,15 @@
 ---
-title: "Stunning photorealistic graphics, especially for a mobile game | Preview - REC.O.R.D."
-description: "REC.O.R.D"
-pubDate: 2023-10-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "unrecord"]
+author: lyndonguitar
+category: Review
+description: REC.O.R.D
 featured: false
-thumb: "/images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-0.avif"
+pubDate: 2023-10-13
+tags:
+- taptap
+- unrecord
+thumb: /images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-0.avif
+title: Stunning photorealistic graphics, especially for a mobile game | Preview -
+  REC.O.R.D.
 ---
 
 <div class="gallery">

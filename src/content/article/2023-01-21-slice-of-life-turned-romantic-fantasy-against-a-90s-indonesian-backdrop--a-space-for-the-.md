@@ -1,12 +1,19 @@
 ---
-title: "Slice-of-life turned romantic fantasy against a 90’s Indonesian backdrop | A Space for the Unbound"
-description: "A Space for the Unbound is the story of a boy and a girl — both with supernatural powers — in a slice-of-life turned fantasy romance adventure against a 90’s Indonesian backdrop. A nice change of setting from the usual Japanese-themed similar works of art, like the popular Makoto Shinkai Anime movies Your Name and Weathering with You, all embodied in video game format."
-pubDate: 2023-01-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "a-space-for-the-unbound"]
+author: lyndonguitar
+category: Review
+description: A Space for the Unbound is the story of a boy and a girl — both with
+  supernatural powers — in a slice-of-life turned fantasy romance adventure against
+  a 90’s Indonesian backdrop. A nice change of setting from the usual Japanese-themed
+  similar works of art, like the popular Makoto Shinkai Anime movies Your Name and
+  Weathering with You, all embodied in video game format.
 featured: false
-thumb: "/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--0.avif"
+pubDate: 2023-01-21
+tags:
+- taptap
+- a-space-for-the-unbound
+thumb: /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--0.avif
+title: Slice-of-life turned romantic fantasy against a 90’s Indonesian backdrop |
+  A Space for the Unbound
 ---
 
 <div class="gallery">

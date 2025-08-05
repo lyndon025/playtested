@@ -1,12 +1,16 @@
 ---
-title: "A modern yet conservative and impressive remaster | Review - Tomb Raider I-III Remastered"
-description: "Tomb Raider I-III Remastered Starring Lara Croft"
-pubDate: 2024-02-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tomb-raider-i-iii-remastered-starring-lara-croft"]
+author: lyndonguitar
+category: Review
+description: Tomb Raider I-III Remastered Starring Lara Croft
 featured: false
-thumb: "/images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-0.avif"
+pubDate: 2024-02-15
+score: 8.0
+tags:
+- taptap
+- tomb-raider-i-iii-remastered-starring-lara-croft
+thumb: /images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-0.avif
+title: A modern yet conservative and impressive remaster | Review - Tomb Raider I-III
+  Remastered
 ---
 
 <div class="gallery">

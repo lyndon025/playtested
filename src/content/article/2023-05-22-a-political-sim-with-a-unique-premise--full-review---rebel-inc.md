@@ -1,12 +1,14 @@
 ---
-title: "A political sim with a unique premise | Full Review - Rebel Inc."
-description: "Rebel Inc."
-pubDate: 2023-05-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rebel-inc."]
+author: lyndonguitar
+category: Review
+description: Rebel Inc.
 featured: false
-thumb: "/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif"
+pubDate: 2023-05-22
+tags:
+- taptap
+- rebel-inc.
+thumb: /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif
+title: A political sim with a unique premise | Full Review - Rebel Inc.
 ---
 
 <div class="gallery">

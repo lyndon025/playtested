@@ -1,12 +1,18 @@
 ---
-title: "A narrative-driven game that feels like an interactive 3D visual novel | Impressions - The Wreck"
-description: "Immediately upon starting The Wreck, I can already sense the vibe that it's going to be a fantastic narrative-driven slice-of-life experience, the gameplay is not its strong point, and is just simple occasional taps to the screen whenever there is a prompt for dialogue or interactions."
-pubDate: 2023-09-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-wreck"]
+author: lyndonguitar
+category: Review
+description: Immediately upon starting The Wreck, I can already sense the vibe that
+  it's going to be a fantastic narrative-driven slice-of-life experience, the gameplay
+  is not its strong point, and is just simple occasional taps to the screen whenever
+  there is a prompt for dialogue or interactions.
 featured: false
-thumb: ""
+pubDate: 2023-09-27
+tags:
+- taptap
+- the-wreck
+thumb: ''
+title: A narrative-driven game that feels like an interactive 3D visual novel | Impressions
+  - The Wreck
 ---
 
 Immediately upon starting The Wreck, I can already sense the vibe that it's going to be a fantastic narrative-driven slice-of-life experience, the gameplay is not its strong point, and is just simple occasional taps to the screen whenever there is a prompt for dialogue or interactions.

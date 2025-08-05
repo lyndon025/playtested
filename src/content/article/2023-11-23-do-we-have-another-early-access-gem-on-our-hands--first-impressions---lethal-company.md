@@ -1,12 +1,18 @@
 ---
-title: "Do we have another Early Access gem on our hands? | First Impressions - Lethal Company"
-description: "As a contracted worker for a mysterious space-faring company, players are tasked with scavenging random scrap from abandoned, industrialized moons.  This is you and your friends in Lethal Company, a first-person survival co-op game with a unique combination of survival, cooperation, and resource management"
-pubDate: 2023-11-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lethal-company"]
+author: lyndonguitar
+category: Review
+description: As a contracted worker for a mysterious space-faring company, players
+  are tasked with scavenging random scrap from abandoned, industrialized moons.  This
+  is you and your friends in Lethal Company, a first-person survival co-op game with
+  a unique combination of survival, cooperation, and resource management
 featured: false
-thumb: ""
+pubDate: 2023-11-23
+tags:
+- taptap
+- lethal-company
+thumb: ''
+title: Do we have another Early Access gem on our hands? | First Impressions - Lethal
+  Company
 ---
 
 As a contracted worker for a mysterious space-faring company, players are tasked with scavenging random scrap from abandoned, industrialized moons.  This is you and your friends in Lethal Company, a first-person survival co-op game with a unique combination of survival, cooperation, and resource management

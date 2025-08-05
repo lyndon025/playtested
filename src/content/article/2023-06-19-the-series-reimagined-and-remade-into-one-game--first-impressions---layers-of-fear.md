@@ -1,12 +1,18 @@
 ---
-title: "The series reimagined and remade into one game | First Impressions - Layers of Fear"
-description: "Layers of Fear (2023) is a remake of the original two games plus its DLC introduces a reimagined story, stunning visuals, and a comprehensive package that will captivate fans of the series, while serving as a good entry point for newcomers.."
-pubDate: 2023-06-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "layers-of-fear"]
+author: lyndonguitar
+category: Review
+description: Layers of Fear (2023) is a remake of the original two games plus its
+  DLC introduces a reimagined story, stunning visuals, and a comprehensive package
+  that will captivate fans of the series, while serving as a good entry point for
+  newcomers..
 featured: false
-thumb: ""
+pubDate: 2023-06-19
+tags:
+- taptap
+- layers-of-fear
+thumb: ''
+title: The series reimagined and remade into one game | First Impressions - Layers
+  of Fear
 ---
 
 Layers of Fear (2023) is a remake of the original two games plus its DLC introduces a reimagined story, stunning visuals, and a comprehensive package that will captivate fans of the series, while serving as a good entry point for newcomers..

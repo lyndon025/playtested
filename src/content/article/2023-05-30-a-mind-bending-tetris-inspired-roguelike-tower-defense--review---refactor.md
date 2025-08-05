@@ -1,12 +1,14 @@
 ---
-title: "A mind-bending Tetris-inspired roguelike Tower Defense | Review - Refactor"
-description: "Refactor"
-pubDate: 2023-05-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "refactor"]
+author: lyndonguitar
+category: Review
+description: Refactor
 featured: false
-thumb: "/images/reviews/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-0.avif"
+pubDate: 2023-05-30
+tags:
+- taptap
+- refactor
+thumb: /images/reviews/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-0.avif
+title: A mind-bending Tetris-inspired roguelike Tower Defense | Review - Refactor
 ---
 
 <div class="gallery">

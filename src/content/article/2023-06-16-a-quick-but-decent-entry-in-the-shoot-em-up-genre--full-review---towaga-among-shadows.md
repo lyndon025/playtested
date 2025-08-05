@@ -1,12 +1,15 @@
 ---
-title: "A quick but decent entry in the shoot 'em up genre | Full Review - Towaga Among Shadows"
-description: "Towaga: Among Shadows"
-pubDate: 2023-06-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "towaga:-among-shadows"]
+author: lyndonguitar
+category: Review
+description: 'Towaga: Among Shadows'
 featured: false
-thumb: "/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-0.avif"
+pubDate: 2023-06-16
+tags:
+- taptap
+- towaga:-among-shadows
+thumb: /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-0.avif
+title: A quick but decent entry in the shoot 'em up genre | Full Review - Towaga Among
+  Shadows
 ---
 
 <div class="gallery">

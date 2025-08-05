@@ -1,12 +1,15 @@
 ---
-title: "A grander HD-2D RPG journey across a variety of storylines | Full Review - Brown Dust 2"
-description: "BrownDust2 - Adventure RPG"
-pubDate: 2023-06-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "adventure-rpg"]
+author: lyndonguitar
+category: Review
+description: BrownDust2 - Adventure RPG
 featured: false
-thumb: "/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-0.avif"
+pubDate: 2023-06-26
+tags:
+- taptap
+- adventure-rpg
+thumb: /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-0.avif
+title: A grander HD-2D RPG journey across a variety of storylines | Full Review -
+  Brown Dust 2
 ---
 
 <div class="gallery">

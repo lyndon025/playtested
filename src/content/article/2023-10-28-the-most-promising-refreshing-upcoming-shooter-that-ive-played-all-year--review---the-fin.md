@@ -1,12 +1,15 @@
 ---
-title: "The most promising, refreshing, upcoming shooter that I’ve played all year | Review - THE FINALS"
-description: "THE FINALS"
-pubDate: 2023-10-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-finals"]
+author: lyndonguitar
+category: Review
+description: THE FINALS
 featured: false
-thumb: "/images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-0.avif"
+pubDate: 2023-10-28
+tags:
+- taptap
+- the-finals
+thumb: /images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-0.avif
+title: The most promising, refreshing, upcoming shooter that I’ve played all year
+  | Review - THE FINALS
 ---
 
 <div class="gallery">

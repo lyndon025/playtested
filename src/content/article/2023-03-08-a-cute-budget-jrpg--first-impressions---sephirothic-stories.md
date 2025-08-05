@@ -1,12 +1,17 @@
 ---
-title: "A cute budget JRPG | First Impressions - Sephirothic Stories"
-description: "Sephirothic Stories is a mobile game developed by KEMCO, a well known JRPG developer for the mobile platform, and it is another addition to their fast growing roster. As a japanese role-playing game, it features a turn-based combat experience, exploration with some unique mechanics, and a cute art-style."
-pubDate: 2023-03-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "[premium]-sephirothic-stories"]
+author: lyndonguitar
+category: Review
+description: Sephirothic Stories is a mobile game developed by KEMCO, a well known
+  JRPG developer for the mobile platform, and it is another addition to their fast
+  growing roster. As a japanese role-playing game, it features a turn-based combat
+  experience, exploration with some unique mechanics, and a cute art-style.
 featured: false
-thumb: "/images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-0.avif"
+pubDate: 2023-03-08
+tags:
+- taptap
+- '[premium]-sephirothic-stories'
+thumb: /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-0.avif
+title: A cute budget JRPG | First Impressions - Sephirothic Stories
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "Hunt vampires, with style | Evil West - Short Review"
-description: "Welcome to Evil West. A third person twisted mashup of all the gritty genres that we all hate to love. Steampunk, Western, Supernatural Horror, Gothic, Souls-like, Shooter; you name it, Evil West has got it."
-pubDate: 2022-11-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "evil-west"]
+author: lyndonguitar
+category: Review
+description: Welcome to Evil West. A third person twisted mashup of all the gritty
+  genres that we all hate to love. Steampunk, Western, Supernatural Horror, Gothic,
+  Souls-like, Shooter; you name it, Evil West has got it.
 featured: false
-thumb: "/images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-0.avif"
+pubDate: 2022-11-22
+tags:
+- taptap
+- evil-west
+thumb: /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-0.avif
+title: Hunt vampires, with style | Evil West - Short Review
 ---
 
 <div class="gallery">

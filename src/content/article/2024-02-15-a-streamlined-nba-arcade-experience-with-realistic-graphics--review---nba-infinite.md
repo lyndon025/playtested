@@ -1,12 +1,16 @@
 ---
-title: "A streamlined NBA arcade experience with realistic graphics | Review - NBA Infinite"
-description: "NBA Infinite - PvP Basketball"
-pubDate: 2024-02-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "pvp-basketball"]
+author: lyndonguitar
+category: Review
+description: NBA Infinite - PvP Basketball
 featured: false
-thumb: "/images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-0.avif"
+pubDate: 2024-02-15
+score: 7.0
+tags:
+- taptap
+- pvp-basketball
+thumb: /images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-0.avif
+title: A streamlined NBA arcade experience with realistic graphics | Review - NBA
+  Infinite
 ---
 
 <div class="gallery">

@@ -1,12 +1,19 @@
 ---
-title: "HD-2D’s growing popularity in mobile gaming continues | First Impressions - Knightingale"
-description: "Knightingale revolves around forming a party of five combatants from the player's available heroes, progressing through the story, and encountering formidable opponents. The game offers a degree of openness, enabling players to explore towns, interact with NPCs, engage in trading, and partake in side activities like bulletin board or dungeon crawling."
-pubDate: 2023-07-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "knightingale"]
+author: lyndonguitar
+category: Review
+description: Knightingale revolves around forming a party of five combatants from
+  the player's available heroes, progressing through the story, and encountering formidable
+  opponents. The game offers a degree of openness, enabling players to explore towns,
+  interact with NPCs, engage in trading, and partake in side activities like bulletin
+  board or dungeon crawling.
 featured: false
-thumb: ""
+pubDate: 2023-07-12
+tags:
+- taptap
+- knightingale
+thumb: ''
+title: HD-2D’s growing popularity in mobile gaming continues | First Impressions -
+  Knightingale
 ---
 
 Knightingale revolves around forming a party of five combatants from the player's available heroes, progressing through the story, and encountering formidable opponents. The game offers a degree of openness, enabling players to explore towns, interact with NPCs, engage in trading, and partake in side activities like bulletin board or dungeon crawling.

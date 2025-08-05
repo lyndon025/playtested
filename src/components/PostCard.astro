@@ -1,6 +1,7 @@
 ---
 import { type CollectionEntry } from "astro:content"
 import SiteOptions from "../site.config.mjs"
+import ScoreBadge from "./ScoreBadge.astro"
 
 export interface Props {
   post: CollectionEntry<"article">
@@ -20,24 +21,11 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 
 <li class="flex flex-row gap-6 py-4 border-b border-gray-100 dark:border-gray-800 items-start">
   {showImage && thumb && (
-    <a href={`/article/${post.slug}`} class="block shrink-0 w-56 h-32 relative post-card-thumb">
-      <img
-        src={thumb}
-        alt={title}
-        class="w-56 h-32 object-cover rounded-md border border-gray-200 dark:border-gray-700"
-        loading="lazy"
-      />
-      {score && (
-        <div class={`score-badge ${
-          score >= 9 ? 'score-green' :
-          score >= 7 ? 'score-yellow' :
-          'score-red'
-        }`}>
-          {score}/10
-        </div>
-      )}
-    </a>
-  )}
+  <a href={`/article/${post.slug}`} class="block shrink-0 w-56 h-32 relative post-card-thumb">
+    <img src={thumb} alt={title} class="w-56 h-32 object-cover rounded-md border border-gray-200 dark:border-gray-700" loading="lazy" />
+    <ScoreBadge score={score} small={true} />
+  </a>
+)}
 
   <div class="flex-1 flex flex-col min-w-0">
     <div class="flex items-center justify-between gap-2">

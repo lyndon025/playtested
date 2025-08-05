@@ -1,12 +1,15 @@
 ---
-title: "[Indie Spotlight] A charming pixel rogue-lite for PC and soon Mobile! | Review - Metal Mind"
-description: "Metal Mind"
-pubDate: 2023-09-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "metal-mind"]
+author: lyndonguitar
+category: Review
+description: Metal Mind
 featured: false
-thumb: "/images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-0.avif"
+pubDate: 2023-09-23
+tags:
+- taptap
+- metal-mind
+thumb: /images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-0.avif
+title: '[Indie Spotlight] A charming pixel rogue-lite for PC and soon Mobile! | Review
+  - Metal Mind'
 ---
 
 <div class="gallery">

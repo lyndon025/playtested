@@ -1,12 +1,19 @@
 ---
-title: "A low-poly Call of Duty challenger appears! | Beta Impressions - Polygon Arena: Online Shooter"
-description: "Polygon Arena: Online Shooter is a low-poly mobile shooter that's easy to pick up, and designed for casual play with room for some competitiveness. It pits players of up to 8 vs 8 across various Arenas (currently four as of the Open Beta Test). The game is still in heavy development but an Open Beta Test is currently underway for everyone to try."
-pubDate: 2023-10-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "polygun-arena:-online-shooter"]
+author: lyndonguitar
+category: Review
+description: 'Polygon Arena: Online Shooter is a low-poly mobile shooter that''s easy
+  to pick up, and designed for casual play with room for some competitiveness. It
+  pits players of up to 8 vs 8 across various Arenas (currently four as of the Open
+  Beta Test). The game is still in heavy development but an Open Beta Test is currently
+  underway for everyone to try.'
 featured: false
-thumb: ""
+pubDate: 2023-10-12
+tags:
+- taptap
+- polygun-arena:-online-shooter
+thumb: ''
+title: 'A low-poly Call of Duty challenger appears! | Beta Impressions - Polygon Arena:
+  Online Shooter'
 ---
 
 Polygon Arena: Online Shooter is a low-poly mobile shooter that's easy to pick up, and designed for casual play with room for some competitiveness. It pits players of up to 8 vs 8 across various Arenas (currently four as of the Open Beta Test). The game is still in heavy development but an Open Beta Test is currently underway for everyone to try.

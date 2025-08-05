@@ -1,12 +1,14 @@
 ---
-title: "A PvP shooter that isn’t exactly PvP | Full Review - Protectors: Shooter Legends"
-description: "Protectors: Shooter Legends"
-pubDate: 2023-08-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "protectors:-shooter-legends"]
+author: lyndonguitar
+category: Review
+description: 'Protectors: Shooter Legends'
 featured: false
-thumb: "/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif"
+pubDate: 2023-08-15
+tags:
+- taptap
+- protectors:-shooter-legends
+thumb: /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif
+title: 'A PvP shooter that isn’t exactly PvP | Full Review - Protectors: Shooter Legends'
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "Revives a beloved franchise and then kills it at the same time | Review - Silent Hill Ascension"
-description: "SILENT HILL: Ascension"
-pubDate: 2023-11-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-dark-pictures-anthology:-little-hope"]
+author: lyndonguitar
+category: Review
+description: 'SILENT HILL: Ascension'
 featured: false
-thumb: "/images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-0.avif"
+pubDate: 2023-11-06
+score: 2.0
+tags:
+- taptap
+- the-dark-pictures-anthology:-little-hope
+thumb: /images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-0.avif
+title: Revives a beloved franchise and then kills it at the same time | Review - Silent
+  Hill Ascension
 ---
 
 <div class="gallery">

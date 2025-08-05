@@ -1,12 +1,20 @@
 ---
-title: "Tarot card personalization & thought-provoking themes | Impressions - The Cosmic Wheel Sisterhood"
-description: "The Cosmic Wheel Sisterhood allows players to assume the role of Fortuna, a Witch exiled for a thousand years who forms a forbidden pact with a godlike otherworldly creature to regain her freedom. Players will assume control of Fortuna 200 years into her exile, what will happen is up to the players, reconnect with fellow Witches, forge new relationships, and utilize the Tarot cards you've customized to unveil their pasts and futures."
-pubDate: 2023-08-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-cosmic-wheel-sisterhood"]
+author: lyndonguitar
+category: Review
+description: The Cosmic Wheel Sisterhood allows players to assume the role of Fortuna,
+  a Witch exiled for a thousand years who forms a forbidden pact with a godlike otherworldly
+  creature to regain her freedom. Players will assume control of Fortuna 200 years
+  into her exile, what will happen is up to the players, reconnect with fellow Witches,
+  forge new relationships, and utilize the Tarot cards you've customized to unveil
+  their pasts and futures.
 featured: false
-thumb: ""
+pubDate: 2023-08-21
+tags:
+- taptap
+- the-cosmic-wheel-sisterhood
+thumb: ''
+title: Tarot card personalization & thought-provoking themes | Impressions - The Cosmic
+  Wheel Sisterhood
 ---
 
 The Cosmic Wheel Sisterhood allows players to assume the role of Fortuna, a Witch exiled for a thousand years who forms a forbidden pact with a godlike otherworldly creature to regain her freedom. Players will assume control of Fortuna 200 years into her exile, what will happen is up to the players, reconnect with fellow Witches, forge new relationships, and utilize the Tarot cards you've customized to unveil their pasts and futures.

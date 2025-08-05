@@ -1,0 +1,15 @@
+---
+export interface Props {
+  score: number;
+  small?: boolean;
+}
+
+const { score, small = false } = Astro.props;
+const rounded = Math.round(score);
+---
+
+{score && (
+  <div class={`score-badge score-outline-${rounded} ${small ? 'small-score' : ''}`}>
+    {score}/10
+  </div>
+)}

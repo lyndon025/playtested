@@ -1,12 +1,15 @@
 ---
-title: "A top-down view Palworld but with Zombies | Demo Review - Welcome to ParadiZe"
-description: "Welcome to ParadiZe"
-pubDate: 2024-01-31
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "how-to-survive"]
+author: lyndonguitar
+category: Review
+description: Welcome to ParadiZe
 featured: false
-thumb: "/images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-0.avif"
+pubDate: 2024-01-31
+score: 8.0
+tags:
+- taptap
+- how-to-survive
+thumb: /images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-0.avif
+title: A top-down view Palworld but with Zombies | Demo Review - Welcome to ParadiZe
 ---
 
 <div class="gallery">

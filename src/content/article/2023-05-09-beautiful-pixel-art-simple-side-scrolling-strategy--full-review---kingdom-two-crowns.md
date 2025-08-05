@@ -1,12 +1,15 @@
 ---
-title: "Beautiful pixel art, simple side scrolling strategy | Full Review - Kingdom Two Crowns+"
-description: "Kingdom Two Crowns+"
-pubDate: 2023-05-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kingdom-two-crowns+"]
+author: lyndonguitar
+category: Review
+description: Kingdom Two Crowns+
 featured: false
-thumb: "/images/reviews/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-0.avif"
+pubDate: 2023-05-09
+tags:
+- taptap
+- kingdom-two-crowns+
+thumb: /images/reviews/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-0.avif
+title: Beautiful pixel art, simple side scrolling strategy | Full Review - Kingdom
+  Two Crowns+
 ---
 
 <div class="gallery">

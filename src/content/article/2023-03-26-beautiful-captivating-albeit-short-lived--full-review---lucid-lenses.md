@@ -1,12 +1,16 @@
 ---
-title: "Beautiful, captivating, albeit short-lived | Full Review - Lucid Lenses"
-description: "Lucid Lenses is a narratively-driven romantic adventure game featuring mesmerizing puzzles and clever interactions, bolstered by a nice soft vibrant painting-like artwork."
-pubDate: 2023-03-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lucid-lenses"]
+author: lyndonguitar
+category: Review
+description: Lucid Lenses is a narratively-driven romantic adventure game featuring
+  mesmerizing puzzles and clever interactions, bolstered by a nice soft vibrant painting-like
+  artwork.
 featured: false
-thumb: "/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif"
+pubDate: 2023-03-26
+tags:
+- taptap
+- lucid-lenses
+thumb: /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif
+title: Beautiful, captivating, albeit short-lived | Full Review - Lucid Lenses
 ---
 
 <div class="gallery">

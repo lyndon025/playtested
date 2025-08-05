@@ -1,12 +1,15 @@
 ---
-title: "A charming pixelated ARPG goodness | Review - Soul Knight Prequel"
-description: "Soul Knight Prequel"
-pubDate: 2023-11-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "soul-knight"]
+author: lyndonguitar
+category: Review
+description: Soul Knight Prequel
 featured: false
-thumb: "/images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-0.avif"
+pubDate: 2023-11-24
+score: 7.0
+tags:
+- taptap
+- soul-knight
+thumb: /images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-0.avif
+title: A charming pixelated ARPG goodness | Review - Soul Knight Prequel
 ---
 
 <div class="gallery">

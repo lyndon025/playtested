@@ -1,12 +1,18 @@
 ---
-title: "One of the best arcade racing games has just entered its Season 3 | First Impressions - Ace Racer"
-description: "Ace Racer, developed and published by NetEase, is a mobile arcade racing game that aims to combine simple controls, high-octane street racing, and arcade-style abilities that vary from vehicle to vehicle. Featuring AAA levels of graphics, dynamic races, and a plethora of customization options."
-pubDate: 2023-06-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ace-racer"]
+author: lyndonguitar
+category: Review
+description: Ace Racer, developed and published by NetEase, is a mobile arcade racing
+  game that aims to combine simple controls, high-octane street racing, and arcade-style
+  abilities that vary from vehicle to vehicle. Featuring AAA levels of graphics, dynamic
+  races, and a plethora of customization options.
 featured: false
-thumb: ""
+pubDate: 2023-06-19
+tags:
+- taptap
+- ace-racer
+thumb: ''
+title: One of the best arcade racing games has just entered its Season 3 | First Impressions
+  - Ace Racer
 ---
 
 Ace Racer, developed and published by NetEase, is a mobile arcade racing game that aims to combine simple controls, high-octane street racing, and arcade-style abilities that vary from vehicle to vehicle. Featuring AAA levels of graphics, dynamic races, and a plethora of customization options.

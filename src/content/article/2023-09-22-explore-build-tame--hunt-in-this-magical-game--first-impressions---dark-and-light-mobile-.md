@@ -1,12 +1,19 @@
 ---
-title: "Explore, Build, Tame, & Hunt in this magical game | First Impressions - Dark and Light Mobile (Beta)"
-description: "Dark and Light Mobile provides players with a vast and open world to explore, featuring diverse landscapes and environments, from lush forests to desolate deserts. Players can gather resources from the world, and then craft weapons, gear, items; build houses and bases; and capture variety of magical creatures, which can then become your loyal companions or mounts"
-pubDate: 2023-09-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dark-and-light-mobile"]
+author: lyndonguitar
+category: Review
+description: Dark and Light Mobile provides players with a vast and open world to
+  explore, featuring diverse landscapes and environments, from lush forests to desolate
+  deserts. Players can gather resources from the world, and then craft weapons, gear,
+  items; build houses and bases; and capture variety of magical creatures, which can
+  then become your loyal companions or mounts
 featured: false
-thumb: ""
+pubDate: 2023-09-22
+tags:
+- taptap
+- dark-and-light-mobile
+thumb: ''
+title: Explore, Build, Tame, & Hunt in this magical game | First Impressions - Dark
+  and Light Mobile (Beta)
 ---
 
 Dark and Light Mobile provides players with a vast and open world to explore, featuring diverse landscapes and environments, from lush forests to desolate deserts. Players can gather resources from the world, and then craft weapons, gear, items; build houses and bases; and capture variety of magical creatures, which can then become your loyal companions or mounts

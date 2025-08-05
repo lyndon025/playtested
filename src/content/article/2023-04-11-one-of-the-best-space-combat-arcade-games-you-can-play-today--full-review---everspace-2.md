@@ -1,12 +1,18 @@
 ---
-title: "One of the best space combat arcade games you can play today | Full Review - Everspace 2"
-description: "Everspace 2 takes place in a vast, open-world space environment. Players take on the role of a clone pilot — the “same” pilot from the first game — who must explore different star systems, battle hostile forces, take on missions, and uncover the mysteries of the universe via story campaign."
-pubDate: 2023-04-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "everspace™-2"]
+author: lyndonguitar
+category: Review
+description: Everspace 2 takes place in a vast, open-world space environment. Players
+  take on the role of a clone pilot — the “same” pilot from the first game — who must
+  explore different star systems, battle hostile forces, take on missions, and uncover
+  the mysteries of the universe via story campaign.
 featured: false
-thumb: "/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-0.avif"
+pubDate: 2023-04-11
+tags:
+- taptap
+- everspace™-2
+thumb: /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-0.avif
+title: One of the best space combat arcade games you can play today | Full Review
+  - Everspace 2
 ---
 
 <div class="gallery">

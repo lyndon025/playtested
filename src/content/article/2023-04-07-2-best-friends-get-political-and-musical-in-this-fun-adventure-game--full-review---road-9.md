@@ -1,12 +1,16 @@
 ---
-title: "2 best friends get political, and musical in this fun adventure game | Full Review - Road 96: Mile 0"
-description: "Road 96: Mile 0 is a narratively-driven first-person adventure game with political commentary and dystopian themes."
-pubDate: 2023-04-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "road-96:-mile-0"]
+author: lyndonguitar
+category: Review
+description: 'Road 96: Mile 0 is a narratively-driven first-person adventure game
+  with political commentary and dystopian themes.'
 featured: false
-thumb: "/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-0.avif"
+pubDate: 2023-04-07
+tags:
+- taptap
+- road-96:-mile-0
+thumb: /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-0.avif
+title: '2 best friends get political, and musical in this fun adventure game | Full
+  Review - Road 96: Mile 0'
 ---
 
 <div class="gallery">

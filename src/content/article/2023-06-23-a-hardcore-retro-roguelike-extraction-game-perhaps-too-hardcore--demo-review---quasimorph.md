@@ -1,12 +1,15 @@
 ---
-title: "A Hardcore retro roguelike extraction game, perhaps too hardcore | Demo Review - Quasimorph"
-description: "Quasimorphosis"
-pubDate: 2023-06-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "quasimorphosis"]
+author: lyndonguitar
+category: Review
+description: Quasimorphosis
 featured: false
-thumb: "/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-0.avif"
+pubDate: 2023-06-23
+tags:
+- taptap
+- quasimorphosis
+thumb: /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-0.avif
+title: A Hardcore retro roguelike extraction game, perhaps too hardcore | Demo Review
+  - Quasimorph
 ---
 
 <div class="gallery">

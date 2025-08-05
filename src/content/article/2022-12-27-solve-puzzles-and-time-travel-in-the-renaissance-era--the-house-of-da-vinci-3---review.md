@@ -1,12 +1,18 @@
 ---
-title: "Solve puzzles and time travel in the Renaissance era | The House of Da Vinci 3 - Review"
-description: "The House of Da Vinci 3 has come to PC and it is an impressive port of a mobile escape room game. Set in the Renaissance era, you play as Giacomo, series protagonist and a friend of Leonardo Da Vinci in a puzzle solving adventure across space… as well as time."
-pubDate: 2022-12-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-house-of-da-vinci-3-(pc)"]
+author: lyndonguitar
+category: Review
+description: The House of Da Vinci 3 has come to PC and it is an impressive port of
+  a mobile escape room game. Set in the Renaissance era, you play as Giacomo, series
+  protagonist and a friend of Leonardo Da Vinci in a puzzle solving adventure across
+  space… as well as time.
 featured: false
-thumb: "/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-0.avif"
+pubDate: 2022-12-27
+tags:
+- taptap
+- the-house-of-da-vinci-3-(pc)
+thumb: /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-0.avif
+title: Solve puzzles and time travel in the Renaissance era | The House of Da Vinci
+  3 - Review
 ---
 
 <div class="gallery">

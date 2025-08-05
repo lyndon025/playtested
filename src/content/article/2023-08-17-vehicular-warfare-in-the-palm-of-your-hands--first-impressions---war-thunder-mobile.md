@@ -1,12 +1,17 @@
 ---
-title: "Vehicular warfare in the palm of your hands | First Impressions - War Thunder Mobile"
-description: "War Thunder Mobile brings the high-octane world of vehicular combat to the palm of your hand with smooth gameplay and impressive AAA graphics. Ground and naval warfare take center stage, without any dedicated aircraft warfare modes."
-pubDate: 2023-08-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "war-thunder-mobile"]
+author: lyndonguitar
+category: Review
+description: War Thunder Mobile brings the high-octane world of vehicular combat to
+  the palm of your hand with smooth gameplay and impressive AAA graphics. Ground and
+  naval warfare take center stage, without any dedicated aircraft warfare modes.
 featured: false
-thumb: ""
+pubDate: 2023-08-17
+tags:
+- taptap
+- war-thunder-mobile
+thumb: ''
+title: Vehicular warfare in the palm of your hands | First Impressions - War Thunder
+  Mobile
 ---
 
 War Thunder Mobile brings the high-octane world of vehicular combat to the palm of your hand with smooth gameplay and impressive AAA graphics. Ground and naval warfare take center stage, without any dedicated aircraft warfare modes.

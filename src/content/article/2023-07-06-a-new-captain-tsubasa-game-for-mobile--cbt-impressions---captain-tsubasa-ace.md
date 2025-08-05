@@ -1,12 +1,18 @@
 ---
-title: "A new Captain Tsubasa game for mobile! | CBT Impressions - CAPTAIN TSUBASA: ACE"
-description: "CAPTAIN TSUBASA: ACE is centered around participating in soccer matches wherein you control the entire team: Making passes, tackling, defending, and trying to score a goal. Just a typical soccer video game like FIFA with a touch of anime action, arcadeyness, and simplicity to it."
-pubDate: 2023-07-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "captain-tsubasa:-ace"]
+author: lyndonguitar
+category: Review
+description: 'CAPTAIN TSUBASA: ACE is centered around participating in soccer matches
+  wherein you control the entire team: Making passes, tackling, defending, and trying
+  to score a goal. Just a typical soccer video game like FIFA with a touch of anime
+  action, arcadeyness, and simplicity to it.'
 featured: false
-thumb: ""
+pubDate: 2023-07-06
+tags:
+- taptap
+- captain-tsubasa:-ace
+thumb: ''
+title: 'A new Captain Tsubasa game for mobile! | CBT Impressions - CAPTAIN TSUBASA:
+  ACE'
 ---
 
 CAPTAIN TSUBASA: ACE is centered around participating in soccer matches wherein you control the entire team: Making passes, tackling, defending, and trying to score a goal. Just a typical soccer video game like FIFA with a touch of anime action, arcadeyness, and simplicity to it.

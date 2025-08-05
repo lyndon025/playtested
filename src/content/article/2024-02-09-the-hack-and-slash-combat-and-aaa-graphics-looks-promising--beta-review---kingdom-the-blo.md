@@ -1,12 +1,16 @@
 ---
-title: "The hack-and-slash combat and AAA graphics looks promising | Beta Review - Kingdom: The Blood"
-description: "[BETA] Kingdom: The BloodTest Global"
-pubDate: 2024-02-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "[beta]-kingdom:-the-blood"]
+author: lyndonguitar
+category: Review
+description: '[BETA] Kingdom: The BloodTest Global'
 featured: false
-thumb: "/images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-0.avif"
+pubDate: 2024-02-09
+score: 7.0
+tags:
+- taptap
+- '[beta]-kingdom:-the-blood'
+thumb: /images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-0.avif
+title: 'The hack-and-slash combat and AAA graphics looks promising | Beta Review -
+  Kingdom: The Blood'
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "Feels like the spiritual successor to Bloodborne | Full Review - Lies of P"
-description: "Lies of P"
-pubDate: 2023-09-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lies-of-p"]
+author: lyndonguitar
+category: Review
+description: Lies of P
 featured: false
-thumb: "/images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-0.avif"
+pubDate: 2023-09-17
+tags:
+- taptap
+- lies-of-p
+thumb: /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-0.avif
+title: Feels like the spiritual successor to Bloodborne | Full Review - Lies of P
 ---
 
 <div class="gallery">

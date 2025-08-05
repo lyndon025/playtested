@@ -1,12 +1,16 @@
 ---
-title: "PAYDAY Mobile is now a PvE experience | Full Review - PAYDAY: Crime War"
-description: "PAYDAY: Crime War is an upcoming Mobile first-person shooter game that allows players to plan and execute high-stakes heists in a cooperative multiplayer setting."
-pubDate: 2023-02-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "payday:-crime-war"]
+author: lyndonguitar
+category: Review
+description: 'PAYDAY: Crime War is an upcoming Mobile first-person shooter game that
+  allows players to plan and execute high-stakes heists in a cooperative multiplayer
+  setting.'
 featured: false
-thumb: "/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-0.avif"
+pubDate: 2023-02-27
+tags:
+- taptap
+- payday:-crime-war
+thumb: /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-0.avif
+title: 'PAYDAY Mobile is now a PvE experience | Full Review - PAYDAY: Crime War'
 ---
 
 <div class="gallery">

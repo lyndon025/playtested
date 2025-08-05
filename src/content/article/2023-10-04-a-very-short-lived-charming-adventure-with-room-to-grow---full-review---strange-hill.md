@@ -1,12 +1,15 @@
 ---
-title: "A very short-lived charming adventure with room to grow | | Full Review - Strange Hill"
-description: "Strange Hill"
-pubDate: 2023-10-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "strange-hill"]
+author: lyndonguitar
+category: Review
+description: Strange Hill
 featured: false
-thumb: "/images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-0.avif"
+pubDate: 2023-10-04
+tags:
+- taptap
+- strange-hill
+thumb: /images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-0.avif
+title: A very short-lived charming adventure with room to grow | | Full Review - Strange
+  Hill
 ---
 
 <div class="gallery">

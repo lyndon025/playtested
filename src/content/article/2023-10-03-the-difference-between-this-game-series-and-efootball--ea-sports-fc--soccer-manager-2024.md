@@ -1,12 +1,20 @@
 ---
-title: "The difference between this game series and eFootball / EA Sports FC | Soccer Manager 2024"
-description: "Soccer Manager 2024 proudly stands apart from FIFA and eFootball in its approach to soccer simulation in video games. While FIFA (Now called EA Sports FC) and eFootball prioritize offering an authentic soccer experience, Soccer Manager 2024 takes a more strategic and management-focused route. Sounds familiar? It might be because this concept is reminiscent of other popular 'manager' games like Football Manager 2023 or Basketball Manager 2023."
-pubDate: 2023-10-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "football-manager-2024-mobile"]
+author: lyndonguitar
+category: Review
+description: Soccer Manager 2024 proudly stands apart from FIFA and eFootball in its
+  approach to soccer simulation in video games. While FIFA (Now called EA Sports FC)
+  and eFootball prioritize offering an authentic soccer experience, Soccer Manager
+  2024 takes a more strategic and management-focused route. Sounds familiar? It might
+  be because this concept is reminiscent of other popular 'manager' games like Football
+  Manager 2023 or Basketball Manager 2023.
 featured: false
-thumb: ""
+pubDate: 2023-10-03
+tags:
+- taptap
+- football-manager-2024-mobile
+thumb: ''
+title: The difference between this game series and eFootball / EA Sports FC | Soccer
+  Manager 2024
 ---
 
 Soccer Manager 2024 proudly stands apart from FIFA and eFootball in its approach to soccer simulation in video games. While FIFA (Now called EA Sports FC) and eFootball prioritize offering an authentic soccer experience, Soccer Manager 2024 takes a more strategic and management-focused route. Sounds familiar? It might be because this concept is reminiscent of other popular 'manager' games like Football Manager 2023 or Basketball Manager 2023.

@@ -1,12 +1,15 @@
 ---
-title: "An ambitious Dark Souls-looking ARPG game | Beta Test Preview - Blade of God II: Orisols"
-description: "Blade of God X: OrisolsGlobal"
-pubDate: 2023-10-31
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "blade-of-god-:-vargr-souls"]
+author: lyndonguitar
+category: Review
+description: 'Blade of God X: OrisolsGlobal'
 featured: false
-thumb: "/images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-0.avif"
+pubDate: 2023-10-31
+tags:
+- taptap
+- blade-of-god-:-vargr-souls
+thumb: /images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-0.avif
+title: 'An ambitious Dark Souls-looking ARPG game | Beta Test Preview - Blade of God
+  II: Orisols'
 ---
 
 <div class="gallery">

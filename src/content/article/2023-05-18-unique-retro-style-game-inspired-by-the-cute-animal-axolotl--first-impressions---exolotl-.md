@@ -1,12 +1,15 @@
 ---
-title: "Unique retro-style game inspired by the cute animal axolotl | First Impressions - Exolotl : Zian"
-description: "Exolotl : Zian"
-pubDate: 2023-05-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "exolotl-:-zian"]
+author: lyndonguitar
+category: Review
+description: 'Exolotl : Zian'
 featured: false
-thumb: "/images/reviews/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--0.avif"
+pubDate: 2023-05-18
+tags:
+- taptap
+- exolotl-:-zian
+thumb: /images/reviews/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--0.avif
+title: 'Unique retro-style game inspired by the cute animal axolotl | First Impressions
+  - Exolotl : Zian'
 ---
 
 <div class="gallery">

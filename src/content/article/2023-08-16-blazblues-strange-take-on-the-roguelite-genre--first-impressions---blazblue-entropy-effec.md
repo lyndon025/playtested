@@ -1,12 +1,18 @@
 ---
-title: "BlazBlue’s strange take on the roguelite genre | First Impressions - BlazBlue Entropy Effect"
-description: "In a surprising departure from the series' established norm of being known for its renowned fighting games, BlazBlue Entropy Effect boldly ventures into uncharted territory with its unique take on the roguelite genre, albeit a bit strangely done."
-pubDate: 2023-08-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "blazblue-entropy-effect"]
+author: lyndonguitar
+category: Review
+description: In a surprising departure from the series' established norm of being
+  known for its renowned fighting games, BlazBlue Entropy Effect boldly ventures into
+  uncharted territory with its unique take on the roguelite genre, albeit a bit strangely
+  done.
 featured: false
-thumb: ""
+pubDate: 2023-08-16
+tags:
+- taptap
+- blazblue-entropy-effect
+thumb: ''
+title: BlazBlue’s strange take on the roguelite genre | First Impressions - BlazBlue
+  Entropy Effect
 ---
 
 In a surprising departure from the series' established norm of being known for its renowned fighting games, BlazBlue Entropy Effect boldly ventures into uncharted territory with its unique take on the roguelite genre, albeit a bit strangely done.

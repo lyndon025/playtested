@@ -1,12 +1,18 @@
 ---
-title: "Dynasty Warriors experience on mobile! | Impressions - Dynasty Warriors M"
-description: "I used to play a lot of Dynasty Warriors and Romance: of the Three Kingdoms on my PS2 backthen in my childhood days, so it’s a delight to see that the franchise is still alive and kicking. Now, we are getting a full-on Dynasty Warriors experience on mobile with Dynasty Warriors M, and it features console-level of visuals and gameplay! it is even on par with Dynasty Warriors 9."
-pubDate: 2023-10-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dynasty-warriors:-overlords"]
+author: lyndonguitar
+category: Review
+description: 'I used to play a lot of Dynasty Warriors and Romance: of the Three Kingdoms
+  on my PS2 backthen in my childhood days, so it’s a delight to see that the franchise
+  is still alive and kicking. Now, we are getting a full-on Dynasty Warriors experience
+  on mobile with Dynasty Warriors M, and it features console-level of visuals and
+  gameplay! it is even on par with Dynasty Warriors 9.'
 featured: false
-thumb: ""
+pubDate: 2023-10-26
+tags:
+- taptap
+- dynasty-warriors:-overlords
+thumb: ''
+title: Dynasty Warriors experience on mobile! | Impressions - Dynasty Warriors M
 ---
 
 I used to play a lot of Dynasty Warriors and Romance: of the Three Kingdoms on my PS2 backthen in my childhood days, so it’s a delight to see that the franchise is still alive and kicking. Now, we are getting a full-on Dynasty Warriors experience on mobile with Dynasty Warriors M, and it features console-level of visuals and gameplay! it is even on par with Dynasty Warriors 9.

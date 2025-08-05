@@ -1,12 +1,15 @@
 ---
-title: "Highly addictive, but its difficulty is not for everyone | Full Review - Getting Over It+"
-description: "Getting Over It+"
-pubDate: 2023-05-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "getting-over-it+"]
+author: lyndonguitar
+category: Review
+description: Getting Over It+
 featured: false
-thumb: "/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-0.avif"
+pubDate: 2023-05-09
+tags:
+- taptap
+- getting-over-it+
+thumb: /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-0.avif
+title: Highly addictive, but its difficulty is not for everyone | Full Review - Getting
+  Over It+
 ---
 
 <div class="gallery">

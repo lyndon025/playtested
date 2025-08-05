@@ -1,12 +1,19 @@
 ---
-title: "Cool Monster Hunter inspired game, abysmal performance | First Impressions - Wild Hearts"
-description: "Wild Hearts is a new game that offers a unique blend of Monster Hunter-style gameplay and Fortnite building mechanics: an ancient technology called Karakuri magic. Players take on the role of a customizable hunter tasked with tracking down and defeating massive monsters known as Kemono, which are negatively affecting the world of Azuma and its inhabitants."
-pubDate: 2023-02-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wild-hearts™"]
+author: lyndonguitar
+category: Review
+description: 'Wild Hearts is a new game that offers a unique blend of Monster Hunter-style
+  gameplay and Fortnite building mechanics: an ancient technology called Karakuri
+  magic. Players take on the role of a customizable hunter tasked with tracking down
+  and defeating massive monsters known as Kemono, which are negatively affecting the
+  world of Azuma and its inhabitants.'
 featured: false
-thumb: "/images/reviews/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-0.avif"
+pubDate: 2023-02-17
+tags:
+- taptap
+- wild-hearts™
+thumb: /images/reviews/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-0.avif
+title: Cool Monster Hunter inspired game, abysmal performance | First Impressions
+  - Wild Hearts
 ---
 
 <div class="gallery">

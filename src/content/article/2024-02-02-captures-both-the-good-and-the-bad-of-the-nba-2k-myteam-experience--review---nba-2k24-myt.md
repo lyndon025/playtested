@@ -1,12 +1,16 @@
 ---
-title: "Captures both the good and the bad of the NBA 2K MyTEAM experience | Review - NBA 2K24 MyTEAM"
-description: "NBA 2K24 MyTEAM"
-pubDate: 2024-02-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "nba-2k24-kobe-bryant-edition-for-ps5™"]
+author: lyndonguitar
+category: Review
+description: NBA 2K24 MyTEAM
 featured: false
-thumb: "/images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-0.avif"
+pubDate: 2024-02-02
+score: 7.0
+tags:
+- taptap
+- nba-2k24-kobe-bryant-edition-for-ps5™
+thumb: /images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-0.avif
+title: Captures both the good and the bad of the NBA 2K MyTEAM experience | Review
+  - NBA 2K24 MyTEAM
 ---
 
 <div class="gallery">

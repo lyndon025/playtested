@@ -1,12 +1,14 @@
 ---
-title: "A promising anime steampunk gacha | Beta Review - Grand Quest"
-description: "Grand Quest"
-pubDate: 2023-05-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "grand-quest"]
+author: lyndonguitar
+category: Review
+description: Grand Quest
 featured: false
-thumb: "/images/reviews/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-0.avif"
+pubDate: 2023-05-02
+tags:
+- taptap
+- grand-quest
+thumb: /images/reviews/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-0.avif
+title: A promising anime steampunk gacha | Beta Review - Grand Quest
 ---
 
 <div class="gallery">

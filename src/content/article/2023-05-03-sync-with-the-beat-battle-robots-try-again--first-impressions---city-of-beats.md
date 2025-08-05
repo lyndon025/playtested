@@ -1,12 +1,15 @@
 ---
-title: "Sync with the beat, battle robots, try again | First Impressions - City of Beats"
-description: "City of Beats"
-pubDate: 2023-05-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "city-of-beats"]
+author: lyndonguitar
+category: Review
+description: City of Beats
 featured: false
-thumb: "/images/reviews/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-0.avif"
+pubDate: 2023-05-03
+tags:
+- taptap
+- city-of-beats
+thumb: /images/reviews/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-0.avif
+title: Sync with the beat, battle robots, try again | First Impressions - City of
+  Beats
 ---
 
 <div class="gallery">

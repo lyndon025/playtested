@@ -1,12 +1,18 @@
 ---
-title: "This 3D cyberpunk ninja simulator gets a sequel | First Impressions - Ghostrunner 2"
-description: "Ghostrunner 2 is an exciting sequel to the original Ghostrunner released in 2020, which kind a took some spotlight out of Cyberpunk 2077 especially with its similar themes, the sequel builds on the elements that made the first game great while introducing new features and gameplay mechanics."
-pubDate: 2023-10-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ghostrunner"]
+author: lyndonguitar
+category: Review
+description: Ghostrunner 2 is an exciting sequel to the original Ghostrunner released
+  in 2020, which kind a took some spotlight out of Cyberpunk 2077 especially with
+  its similar themes, the sequel builds on the elements that made the first game great
+  while introducing new features and gameplay mechanics.
 featured: false
-thumb: ""
+pubDate: 2023-10-27
+tags:
+- taptap
+- ghostrunner
+thumb: ''
+title: This 3D cyberpunk ninja simulator gets a sequel | First Impressions - Ghostrunner
+  2
 ---
 
 Ghostrunner 2 is an exciting sequel to the original Ghostrunner released in 2020, which kind a took some spotlight out of Cyberpunk 2077 especially with its similar themes, the sequel builds on the elements that made the first game great while introducing new features and gameplay mechanics.

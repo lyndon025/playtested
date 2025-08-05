@@ -1,12 +1,16 @@
 ---
-title: "Channel your inner detective, or get frustrated trying | Review - CaseCracker"
-description: "CaseCracker is an investigative crime-deduction game where players are put in a highly immersive experience of solving crimes via an experimental test system. It is currently available for PC and mobile devices."
-pubDate: 2023-04-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "casecracker"]
+author: lyndonguitar
+category: Review
+description: CaseCracker is an investigative crime-deduction game where players are
+  put in a highly immersive experience of solving crimes via an experimental test
+  system. It is currently available for PC and mobile devices.
 featured: false
-thumb: "/images/reviews/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-0.avif"
+pubDate: 2023-04-17
+tags:
+- taptap
+- casecracker
+thumb: /images/reviews/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-0.avif
+title: Channel your inner detective, or get frustrated trying | Review - CaseCracker
 ---
 
 <div class="gallery">

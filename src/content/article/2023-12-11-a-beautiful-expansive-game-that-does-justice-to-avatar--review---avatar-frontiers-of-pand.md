@@ -1,12 +1,16 @@
 ---
-title: "A beautiful expansive game that does justice to Avatar | Review - Avatar: Frontiers of Pandora"
-description: "✨Overview"
-pubDate: 2023-12-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "avatar:-frontiers-of-pandora"]
+author: lyndonguitar
+category: Review
+description: ✨Overview
 featured: false
-thumb: "/images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-0.avif"
+pubDate: 2023-12-11
+score: 7.0
+tags:
+- taptap
+- avatar:-frontiers-of-pandora
+thumb: /images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-0.avif
+title: 'A beautiful expansive game that does justice to Avatar | Review - Avatar:
+  Frontiers of Pandora'
 ---
 
 <div class="gallery">

@@ -1,12 +1,17 @@
 ---
-title: "If Hearthstone and Auto Chess had a baby | First Impressions - Tavern Brawls"
-description: "Not to be confused with Hearthstone's Tavern Brawl game mode, Tavern Brawls is an unrelated brand-new mobile game that combines elements of Hearthstone's card gameplay and Auto Chess's automated resolution of battles into one engaging mash-up. It has recently been released on a soft launch for Android and iOS."
-pubDate: 2023-07-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "arcane-rush:-auto-battler"]
+author: lyndonguitar
+category: Review
+description: Not to be confused with Hearthstone's Tavern Brawl game mode, Tavern
+  Brawls is an unrelated brand-new mobile game that combines elements of Hearthstone's
+  card gameplay and Auto Chess's automated resolution of battles into one engaging
+  mash-up. It has recently been released on a soft launch for Android and iOS.
 featured: false
-thumb: ""
+pubDate: 2023-07-12
+tags:
+- taptap
+- arcane-rush:-auto-battler
+thumb: ''
+title: If Hearthstone and Auto Chess had a baby | First Impressions - Tavern Brawls
 ---
 
 Not to be confused with Hearthstone's Tavern Brawl game mode, Tavern Brawls is an unrelated brand-new mobile game that combines elements of Hearthstone's card gameplay and Auto Chess's automated resolution of battles into one engaging mash-up. It has recently been released on a soft launch for Android and iOS.

@@ -1,12 +1,14 @@
 ---
-title: "A creepy isometric puzzle platformer | First Impressions - Very Little Nightmares+"
-description: "Very Little Nightmares+"
-pubDate: 2023-05-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "very-little-nightmares+"]
+author: lyndonguitar
+category: Review
+description: Very Little Nightmares+
 featured: false
-thumb: "/images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-0.avif"
+pubDate: 2023-05-09
+tags:
+- taptap
+- very-little-nightmares+
+thumb: /images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-0.avif
+title: A creepy isometric puzzle platformer | First Impressions - Very Little Nightmares+
 ---
 
 <div class="gallery">

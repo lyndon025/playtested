@@ -1,12 +1,15 @@
 ---
-title: "A new hack and slash shooter! | First Impressions - Wanted: Dead"
-description: "Wanted: Dead a new action-packed game that blends the fast-paced gameplay of a hack and slash game with the excitement of a third-person shooter."
-pubDate: 2023-02-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wanted:-dead"]
+author: lyndonguitar
+category: Review
+description: 'Wanted: Dead a new action-packed game that blends the fast-paced gameplay
+  of a hack and slash game with the excitement of a third-person shooter.'
 featured: false
-thumb: "/images/reviews/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-0.avif"
+pubDate: 2023-02-15
+tags:
+- taptap
+- wanted:-dead
+thumb: /images/reviews/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-0.avif
+title: 'A new hack and slash shooter! | First Impressions - Wanted: Dead'
 ---
 
 <div class="gallery">

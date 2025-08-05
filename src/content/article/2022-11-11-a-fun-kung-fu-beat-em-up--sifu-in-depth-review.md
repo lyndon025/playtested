@@ -1,12 +1,14 @@
 ---
-title: "A fun Kung fu beat' em up | SIFU: In-Depth Review"
-description: "SIFU (Nintendo Switch) - In-Depth Review"
-pubDate: 2022-11-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "sifu(pc,ps4,ps5,ns)"]
+author: lyndonguitar
+category: Review
+description: SIFU (Nintendo Switch) - In-Depth Review
 featured: false
-thumb: "/images/reviews/2022-11-11-a-fun-kung-fu-beat-em-up--sifu-in-depth-review-0.avif"
+pubDate: 2022-11-11
+tags:
+- taptap
+- sifu(pc,ps4,ps5,ns)
+thumb: /images/reviews/2022-11-11-a-fun-kung-fu-beat-em-up--sifu-in-depth-review-0.avif
+title: 'A fun Kung fu beat'' em up | SIFU: In-Depth Review'
 ---
 
 <div class="gallery">

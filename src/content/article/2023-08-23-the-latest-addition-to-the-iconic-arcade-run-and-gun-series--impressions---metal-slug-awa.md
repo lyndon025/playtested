@@ -1,12 +1,19 @@
 ---
-title: "The latest addition to the iconic arcade run-and-gun series | Impressions - Metal Slug: Awakening"
-description: "Metal Slug: Awakening, the latest addition to the Metal Slug series, combines nostalgia with modern mobile gaming dynamics. While adhering to the classic run-and-gun formula that fans adore, the game introduces a control scheme tailored to touch controls, offering accessibility for players of all levels.  It even includes an auto-target feature."
-pubDate: 2023-08-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "metal-slug:-awakening"]
+author: lyndonguitar
+category: Review
+description: 'Metal Slug: Awakening, the latest addition to the Metal Slug series,
+  combines nostalgia with modern mobile gaming dynamics. While adhering to the classic
+  run-and-gun formula that fans adore, the game introduces a control scheme tailored
+  to touch controls, offering accessibility for players of all levels.  It even includes
+  an auto-target feature.'
 featured: false
-thumb: ""
+pubDate: 2023-08-23
+tags:
+- taptap
+- metal-slug:-awakening
+thumb: ''
+title: 'The latest addition to the iconic arcade run-and-gun series | Impressions
+  - Metal Slug: Awakening'
 ---
 
 Metal Slug: Awakening, the latest addition to the Metal Slug series, combines nostalgia with modern mobile gaming dynamics. While adhering to the classic run-and-gun formula that fans adore, the game introduces a control scheme tailored to touch controls, offering accessibility for players of all levels.  It even includes an auto-target feature.

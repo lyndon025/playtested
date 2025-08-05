@@ -1,12 +1,18 @@
 ---
-title: "Yet another uninspired Slender Man experience | Full Review - Slenderman RE: Light Edition"
-description: "Slenderman RE: Light Edition is an adventure horror mobile game based on the Slender Man supernatural character. It is played in first person view and plays like an adventure game where you are to interact with the environment in order to progress."
-pubDate: 2023-03-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "slenderman-re:-light-edition"]
+author: lyndonguitar
+category: Review
+description: 'Slenderman RE: Light Edition is an adventure horror mobile game based
+  on the Slender Man supernatural character. It is played in first person view and
+  plays like an adventure game where you are to interact with the environment in order
+  to progress.'
 featured: false
-thumb: "/images/reviews/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-0.avif"
+pubDate: 2023-03-24
+tags:
+- taptap
+- slenderman-re:-light-edition
+thumb: /images/reviews/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-0.avif
+title: 'Yet another uninspired Slender Man experience | Full Review - Slenderman RE:
+  Light Edition'
 ---
 
 <div class="gallery">

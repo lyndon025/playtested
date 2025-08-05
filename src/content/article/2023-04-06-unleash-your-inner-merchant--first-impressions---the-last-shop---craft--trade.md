@@ -1,12 +1,19 @@
 ---
-title: "Unleash your inner merchant | First Impressions - The Last Shop - Craft & Trade"
-description: "Have you ever wondered how it is like on the other side? On the side of the merchant selling goods to heroes and adventurers? The Last Shop - Craft & Trade will exactly let you experience being one. Build a store, receive raw materials, commission goods like weapons and armor to display at your shop. Heroes and adventurers will flock to your store looking for valuable goods to purchase, and it’s up to the player to sell and earn money."
-pubDate: 2023-04-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "craft-&-trade"]
+author: lyndonguitar
+category: Review
+description: Have you ever wondered how it is like on the other side? On the side
+  of the merchant selling goods to heroes and adventurers? The Last Shop - Craft &
+  Trade will exactly let you experience being one. Build a store, receive raw materials,
+  commission goods like weapons and armor to display at your shop. Heroes and adventurers
+  will flock to your store looking for valuable goods to purchase, and it’s up to
+  the player to sell and earn money.
 featured: false
-thumb: "/images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif"
+pubDate: 2023-04-06
+tags:
+- taptap
+- craft-&-trade
+thumb: /images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif
+title: Unleash your inner merchant | First Impressions - The Last Shop - Craft & Trade
 ---
 
 <div class="gallery">

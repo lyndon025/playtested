@@ -1,12 +1,14 @@
 ---
-title: "This feels like an Early Access title | Ethyrial: Echoes of Yore - First Impressions"
-description: "Ethyrial: Echoes of Yore"
-pubDate: 2023-05-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ethyrial:-echoes-of-yore"]
+author: lyndonguitar
+category: Review
+description: 'Ethyrial: Echoes of Yore'
 featured: false
-thumb: "/images/reviews/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-0.avif"
+pubDate: 2023-05-06
+tags:
+- taptap
+- ethyrial:-echoes-of-yore
+thumb: /images/reviews/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-0.avif
+title: 'This feels like an Early Access title | Ethyrial: Echoes of Yore - First Impressions'
 ---
 
 <div class="gallery">

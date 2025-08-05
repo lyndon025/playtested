@@ -1,12 +1,16 @@
 ---
-title: "Not what I was expecting for the Rainbow Six franchise, but WOW! | Review - Rainbow Six SMOL"
-description: "Rainbow Six: SMOL - NETFLIX"
-pubDate: 2024-02-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tom-clancy’s-rainbow-six®-extraction"]
+author: lyndonguitar
+category: Review
+description: 'Rainbow Six: SMOL - NETFLIX'
 featured: false
-thumb: "/images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-0.avif"
+pubDate: 2024-02-22
+score: 8.0
+tags:
+- taptap
+- tom-clancy’s-rainbow-six®-extraction
+thumb: /images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-0.avif
+title: Not what I was expecting for the Rainbow Six franchise, but WOW! | Review -
+  Rainbow Six SMOL
 ---
 
 <div class="gallery">

@@ -1,12 +1,19 @@
 ---
-title: "New bosses, new challenges! | First Impressions - Hollow Knight: Pale Court"
-description: "Over six years later and crafted over the course of more than three years by a collaborative effort of over 50 dedicated modders, a new fan-made DLC called Pale Court breathes new life into the immersive world of Hollow Knight. With its stunning new boss fights, captivating music, expanded charms, faithful art direction, and some bonus secrets, Pale Court promises to capture the essence of the base game while offering a challenging and memorable extension of the Hollow Knight experience."
-pubDate: 2023-07-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hollow-knight"]
+author: lyndonguitar
+category: Review
+description: Over six years later and crafted over the course of more than three years
+  by a collaborative effort of over 50 dedicated modders, a new fan-made DLC called
+  Pale Court breathes new life into the immersive world of Hollow Knight. With its
+  stunning new boss fights, captivating music, expanded charms, faithful art direction,
+  and some bonus secrets, Pale Court promises to capture the essence of the base game
+  while offering a challenging and memorable extension of the Hollow Knight experience.
 featured: false
-thumb: ""
+pubDate: 2023-07-06
+tags:
+- taptap
+- hollow-knight
+thumb: ''
+title: 'New bosses, new challenges! | First Impressions - Hollow Knight: Pale Court'
 ---
 
 Over six years later and crafted over the course of more than three years by a collaborative effort of over 50 dedicated modders, a new fan-made DLC called Pale Court breathes new life into the immersive world of Hollow Knight. With its stunning new boss fights, captivating music, expanded charms, faithful art direction, and some bonus secrets, Pale Court promises to capture the essence of the base game while offering a challenging and memorable extension of the Hollow Knight experience.

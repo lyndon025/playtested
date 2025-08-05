@@ -1,12 +1,16 @@
 ---
-title: "A great concept yet unpolished PvP/PvE adventure | Review - Wonderers:Eternal World"
-description: "Wonderers:Eternal WorldGlobal"
-pubDate: 2024-01-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wonderers:eternal-world"]
+author: lyndonguitar
+category: Review
+description: Wonderers:Eternal WorldGlobal
 featured: false
-thumb: "/images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-0.avif"
+pubDate: 2024-01-09
+score: 4.0
+tags:
+- taptap
+- wonderers:eternal-world
+thumb: /images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-0.avif
+title: A great concept yet unpolished PvP/PvE adventure | Review - Wonderers:Eternal
+  World
 ---
 
 <div class="gallery">

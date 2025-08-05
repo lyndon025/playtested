@@ -1,12 +1,15 @@
 ---
-title: "Charmingly combines merge mechanics with culinary creativity | Review - Cats & Soup : Magic Recipe"
-description: "Cats & Soup : Magic Recipe"
-pubDate: 2023-08-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cats-&-soup-:-magic-recipe"]
+author: lyndonguitar
+category: Review
+description: 'Cats & Soup : Magic Recipe'
 featured: false
-thumb: "/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--0.avif"
+pubDate: 2023-08-23
+tags:
+- taptap
+- cats-&-soup-:-magic-recipe
+thumb: /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--0.avif
+title: 'Charmingly combines merge mechanics with culinary creativity | Review - Cats
+  & Soup : Magic Recipe'
 ---
 
 <div class="gallery">

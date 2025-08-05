@@ -1,12 +1,17 @@
 ---
-title: "THE FINALS' open beta now open! one step closer to release | First Impressions - THE FINALS"
-description: "THE FINALS is currently in an open beta test on Steam that started last October 26 and will run up to November 5, available for PC (Steam), Xbox Series X/S, and PS5."
-pubDate: 2023-10-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-finals"]
+author: lyndonguitar
+category: Review
+description: THE FINALS is currently in an open beta test on Steam that started last
+  October 26 and will run up to November 5, available for PC (Steam), Xbox Series
+  X/S, and PS5.
 featured: false
-thumb: ""
+pubDate: 2023-10-28
+tags:
+- taptap
+- the-finals
+thumb: ''
+title: THE FINALS' open beta now open! one step closer to release | First Impressions
+  - THE FINALS
 ---
 
 THE FINALS is currently in an open beta test on Steam that started last October 26 and will run up to November 5, available for PC (Steam), Xbox Series X/S, and PS5.

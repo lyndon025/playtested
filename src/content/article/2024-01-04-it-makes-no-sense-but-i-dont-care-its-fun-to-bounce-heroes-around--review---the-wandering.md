@@ -1,12 +1,16 @@
 ---
-title: "It makes no sense, but I don’t care: it's fun to bounce heroes around | Review - The Wandering Ark"
-description: "The Wandering ArkUS"
-pubDate: 2024-01-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-wandering-ark"]
+author: lyndonguitar
+category: Review
+description: The Wandering ArkUS
 featured: false
-thumb: "/images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-0.avif"
+pubDate: 2024-01-04
+score: 7.0
+tags:
+- taptap
+- the-wandering-ark
+thumb: /images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-0.avif
+title: 'It makes no sense, but I don’t care: it''s fun to bounce heroes around | Review
+  - The Wandering Ark'
 ---
 
 <div class="gallery">

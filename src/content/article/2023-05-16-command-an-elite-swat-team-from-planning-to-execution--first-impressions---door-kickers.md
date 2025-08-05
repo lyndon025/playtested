@@ -1,12 +1,15 @@
 ---
-title: "Command an elite SWAT team from planning to execution | First Impressions - Door Kickers"
-description: "Door Kickers"
-pubDate: 2023-05-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "door-kickers"]
+author: lyndonguitar
+category: Review
+description: Door Kickers
 featured: false
-thumb: "/images/reviews/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-0.avif"
+pubDate: 2023-05-16
+tags:
+- taptap
+- door-kickers
+thumb: /images/reviews/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-0.avif
+title: Command an elite SWAT team from planning to execution | First Impressions -
+  Door Kickers
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "An interesting blend of Battle Royale and MOBA | Review - Battle Crush Beta"
-description: "BATTLE CRUSH"
-pubDate: 2023-10-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "battle-crush"]
+author: lyndonguitar
+category: Review
+description: BATTLE CRUSH
 featured: false
-thumb: "/images/reviews/2023-10-24-an-interesting-blend-of-battle-royale-and-moba--review---battle-crush-beta-0.avif"
+pubDate: 2023-10-24
+tags:
+- taptap
+- battle-crush
+thumb: /images/reviews/2023-10-24-an-interesting-blend-of-battle-royale-and-moba--review---battle-crush-beta-0.avif
+title: An interesting blend of Battle Royale and MOBA | Review - Battle Crush Beta
 ---
 
 <div class="gallery">

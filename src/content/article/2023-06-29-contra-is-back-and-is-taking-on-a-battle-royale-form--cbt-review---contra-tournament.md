@@ -1,12 +1,15 @@
 ---
-title: "Contra is back and is taking on a battle royale form | CBT Review - Contra: Tournament"
-description: "Contra: Tournament"
-pubDate: 2023-06-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "contra: tournament"]
+author: lyndonguitar
+category: Review
+description: 'Contra: Tournament'
 featured: false
-thumb: ""
+pubDate: 2023-06-29
+tags:
+- taptap
+- contra: tournament
+thumb: ''
+title: 'Contra is back and is taking on a battle royale form | CBT Review - Contra:
+  Tournament'
 ---
 
 Contra: Tournament

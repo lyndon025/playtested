@@ -1,12 +1,14 @@
 ---
-title: "Mind-boggling time travel 2D puzzle game | Full Review - Cat of Khronos"
-description: "Cat of Khronos"
-pubDate: 2023-05-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cat-of-khronos"]
+author: lyndonguitar
+category: Review
+description: Cat of Khronos
 featured: false
-thumb: "/images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif"
+pubDate: 2023-05-27
+tags:
+- taptap
+- cat-of-khronos
+thumb: /images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif
+title: Mind-boggling time travel 2D puzzle game | Full Review - Cat of Khronos
 ---
 
 <div class="gallery">

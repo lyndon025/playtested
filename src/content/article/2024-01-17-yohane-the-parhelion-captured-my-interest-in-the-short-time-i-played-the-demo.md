@@ -1,12 +1,14 @@
 ---
-title: "Yohane the Parhelion captured my interest in the short time I played the demo"
-description: "Yohane the Parhelion - NUMAZU in the MIRAGE -"
-pubDate: 2024-01-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "--yohane-the-parhelion--blaze-in-the-deepblue-"]
+author: lyndonguitar
+category: Review
+description: Yohane the Parhelion - NUMAZU in the MIRAGE -
 featured: false
-thumb: "/images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-0.avif"
+pubDate: 2024-01-17
+tags:
+- taptap
+- --yohane-the-parhelion--blaze-in-the-deepblue-
+thumb: /images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-0.avif
+title: Yohane the Parhelion captured my interest in the short time I played the demo
 ---
 
 <div class="gallery">

@@ -1,12 +1,18 @@
 ---
-title: "Is this release the game’s final form? | Impressions - Titan Quest: Ultimate Edition"
-description: "Titan Quest: Ultimate Edition serves as a complete compilation of the whole Titan Quest saga, and has all the updates and DLCs included. A classic ARPG title that has stood the test of time and continues to captivate audiences across different platforms."
-pubDate: 2023-11-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "titan-quest"]
+author: lyndonguitar
+category: Review
+description: 'Titan Quest: Ultimate Edition serves as a complete compilation of the
+  whole Titan Quest saga, and has all the updates and DLCs included. A classic ARPG
+  title that has stood the test of time and continues to captivate audiences across
+  different platforms.'
 featured: false
-thumb: ""
+pubDate: 2023-11-30
+tags:
+- taptap
+- titan-quest
+thumb: ''
+title: 'Is this release the game’s final form? | Impressions - Titan Quest: Ultimate
+  Edition'
 ---
 
 Titan Quest: Ultimate Edition serves as a complete compilation of the whole Titan Quest saga, and has all the updates and DLCs included. A classic ARPG title that has stood the test of time and continues to captivate audiences across different platforms.

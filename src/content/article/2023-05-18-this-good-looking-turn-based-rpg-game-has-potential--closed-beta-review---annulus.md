@@ -1,12 +1,15 @@
 ---
-title: "This good looking turn-based RPG game has potential | Closed Beta Review - ANNULUS"
-description: "Eldritch Cycle"
-pubDate: 2023-05-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "annulus"]
+author: lyndonguitar
+category: Review
+description: Eldritch Cycle
 featured: false
-thumb: "/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-0.avif"
+pubDate: 2023-05-18
+tags:
+- taptap
+- annulus
+thumb: /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-0.avif
+title: This good looking turn-based RPG game has potential | Closed Beta Review -
+  ANNULUS
 ---
 
 <div class="gallery">

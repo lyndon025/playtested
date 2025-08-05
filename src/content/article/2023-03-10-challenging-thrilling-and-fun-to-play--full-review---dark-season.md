@@ -1,12 +1,15 @@
 ---
-title: "Challenging, thrilling, and fun to play | Full Review - Dark Season"
-description: "Dark Season is an RPG mobile game with a mix of dungeon crawling, rogue-lite, and bullet-hell elements, sprinkled with a bit of gacha gaming."
-pubDate: 2023-03-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dark-season-:-last-hunting"]
+author: lyndonguitar
+category: Review
+description: Dark Season is an RPG mobile game with a mix of dungeon crawling, rogue-lite,
+  and bullet-hell elements, sprinkled with a bit of gacha gaming.
 featured: false
-thumb: "/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-0.avif"
+pubDate: 2023-03-10
+tags:
+- taptap
+- dark-season-:-last-hunting
+thumb: /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-0.avif
+title: Challenging, thrilling, and fun to play | Full Review - Dark Season
 ---
 
 <div class="gallery">

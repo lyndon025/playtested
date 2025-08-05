@@ -1,12 +1,14 @@
 ---
-title: "A refreshing zombie survival crafting game for mobile | Full Review - Dysmantle"
-description: "DYSMANTLE"
-pubDate: 2023-04-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dysmantle"]
+author: lyndonguitar
+category: Review
+description: DYSMANTLE
 featured: false
-thumb: "/images/reviews/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-0.avif"
+pubDate: 2023-04-25
+tags:
+- taptap
+- dysmantle
+thumb: /images/reviews/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-0.avif
+title: A refreshing zombie survival crafting game for mobile | Full Review - Dysmantle
 ---
 
 <div class="gallery">

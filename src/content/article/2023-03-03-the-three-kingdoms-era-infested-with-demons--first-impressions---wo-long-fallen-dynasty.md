@@ -1,12 +1,17 @@
 ---
-title: "The Three Kingdoms era, infested with demons | First Impressions - Wo Long: Fallen Dynasty"
-description: "Wo Long: Fallen Dynasty is a fast-paced, action-packed RPG that draws inspiration from the Souls-like genre popularized by Dark Souls and recently, Elden Ring."
-pubDate: 2023-03-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wo-long:-fallen-dynasty"]
+author: lyndonguitar
+category: Review
+description: 'Wo Long: Fallen Dynasty is a fast-paced, action-packed RPG that draws
+  inspiration from the Souls-like genre popularized by Dark Souls and recently, Elden
+  Ring.'
 featured: false
-thumb: "/images/reviews/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-0.avif"
+pubDate: 2023-03-03
+tags:
+- taptap
+- wo-long:-fallen-dynasty
+thumb: /images/reviews/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-0.avif
+title: 'The Three Kingdoms era, infested with demons | First Impressions - Wo Long:
+  Fallen Dynasty'
 ---
 
 <div class="gallery">

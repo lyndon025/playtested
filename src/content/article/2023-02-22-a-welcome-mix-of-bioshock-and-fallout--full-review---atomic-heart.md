@@ -1,12 +1,15 @@
 ---
-title: "A welcome mix of Bioshock and Fallout | Full Review - Atomic Heart"
-description: "Atomic Heart is a new Action-FPS game with RPG, Open World, and horror elements, set in a utopian soviet-era society gone wrong."
-pubDate: 2023-02-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "atomic-heart"]
+author: lyndonguitar
+category: Review
+description: Atomic Heart is a new Action-FPS game with RPG, Open World, and horror
+  elements, set in a utopian soviet-era society gone wrong.
 featured: false
-thumb: "/images/reviews/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-0.avif"
+pubDate: 2023-02-22
+tags:
+- taptap
+- atomic-heart
+thumb: /images/reviews/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-0.avif
+title: A welcome mix of Bioshock and Fallout | Full Review - Atomic Heart
 ---
 
 <div class="gallery">

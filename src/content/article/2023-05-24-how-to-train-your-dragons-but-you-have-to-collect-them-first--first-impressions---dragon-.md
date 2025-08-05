@@ -1,12 +1,19 @@
 ---
-title: "How to train your dragons, but you have to collect them first | First Impressions - Dragon Arise"
-description: "Dragon Arise is a dragon-themed RPG that features the player taking on the role of the main character who is transported into a dragon world in yet another Isekai-esque premise. As the prophesied savior of the Dragon Islands, your mission is to lead a legion of dragons against the encroaching curse and restore balance to the lands."
-pubDate: 2023-05-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dragon-arise"]
+author: lyndonguitar
+category: Review
+description: Dragon Arise is a dragon-themed RPG that features the player taking on
+  the role of the main character who is transported into a dragon world in yet another
+  Isekai-esque premise. As the prophesied savior of the Dragon Islands, your mission
+  is to lead a legion of dragons against the encroaching curse and restore balance
+  to the lands.
 featured: false
-thumb: ""
+pubDate: 2023-05-24
+tags:
+- taptap
+- dragon-arise
+thumb: ''
+title: How to train your dragons, but you have to collect them first | First Impressions
+  - Dragon Arise
 ---
 
 Dragon Arise is a dragon-themed RPG that features the player taking on the role of the main character who is transported into a dragon world in yet another Isekai-esque premise. As the prophesied savior of the Dragon Islands, your mission is to lead a legion of dragons against the encroaching curse and restore balance to the lands.

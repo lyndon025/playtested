@@ -1,12 +1,16 @@
 ---
-title: "Need for Speed goes Anime style | Need for Speed: Unbound - Review"
-description: "Need for Speed is back, and it's back in style. Its newest game, Need for Speed: Unbound takes us to Lakeshore City. Here, street racing, drifting, and NOS usage reign supreme, in which the local cops are actively trying to stop."
-pubDate: 2022-12-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "need-for-speed™-unbound"]
+author: lyndonguitar
+category: Review
+description: 'Need for Speed is back, and it''s back in style. Its newest game, Need
+  for Speed: Unbound takes us to Lakeshore City. Here, street racing, drifting, and
+  NOS usage reign supreme, in which the local cops are actively trying to stop.'
 featured: false
-thumb: "/images/reviews/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-0.avif"
+pubDate: 2022-12-04
+tags:
+- taptap
+- need-for-speed™-unbound
+thumb: /images/reviews/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-0.avif
+title: 'Need for Speed goes Anime style | Need for Speed: Unbound - Review'
 ---
 
 <div class="gallery">

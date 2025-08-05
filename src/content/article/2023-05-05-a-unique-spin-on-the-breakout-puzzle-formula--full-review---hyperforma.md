@@ -1,12 +1,14 @@
 ---
-title: "A unique spin on the 'Breakout' puzzle formula | Full Review - Hyperforma"
-description: "Hyperforma"
-pubDate: 2023-05-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hyperforma"]
+author: lyndonguitar
+category: Review
+description: Hyperforma
 featured: false
-thumb: "/images/reviews/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-0.avif"
+pubDate: 2023-05-05
+tags:
+- taptap
+- hyperforma
+thumb: /images/reviews/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-0.avif
+title: A unique spin on the 'Breakout' puzzle formula | Full Review - Hyperforma
 ---
 
 <div class="gallery">

@@ -1,12 +1,18 @@
 ---
-title: "EA Sports FC 24 and EA Sports FC Mobile Announced for September this year!"
-description: "EA Sports has recently unveiled the highly anticipated global launch date for EA Sports FC 24, the new rebranded version of the beloved FIFA series. Football enthusiasts worldwide can mark their calendars for September 29, 2023, as EA Sports FC 24 promises to deliver yet another exhilarating and authentic football gaming experience, powered by EA’s Frostbite engine.."
-pubDate: 2023-07-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ea-sports™-fifa-23"]
+author: lyndonguitar
+category: Review
+description: EA Sports has recently unveiled the highly anticipated global launch
+  date for EA Sports FC 24, the new rebranded version of the beloved FIFA series.
+  Football enthusiasts worldwide can mark their calendars for September 29, 2023,
+  as EA Sports FC 24 promises to deliver yet another exhilarating and authentic football
+  gaming experience, powered by EA’s Frostbite engine..
 featured: false
-thumb: ""
+pubDate: 2023-07-18
+tags:
+- taptap
+- ea-sports™-fifa-23
+thumb: ''
+title: EA Sports FC 24 and EA Sports FC Mobile Announced for September this year!
 ---
 
 EA Sports has recently unveiled the highly anticipated global launch date for EA Sports FC 24, the new rebranded version of the beloved FIFA series. Football enthusiasts worldwide can mark their calendars for September 29, 2023, as EA Sports FC 24 promises to deliver yet another exhilarating and authentic football gaming experience, powered by EA’s Frostbite engine..

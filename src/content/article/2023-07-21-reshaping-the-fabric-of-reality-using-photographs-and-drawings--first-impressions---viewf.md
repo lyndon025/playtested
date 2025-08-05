@@ -1,12 +1,18 @@
 ---
-title: "Reshaping the fabric of reality using photographs and drawings | First Impressions - Viewfinder"
-description: "Viewfinder is a first-person adventure game that offers players an extraordinary experience of mind bending perceptions and reshaping the fabric of reality. The game introduces players to a world where photography becomes their key to manipulating the environment, solving puzzles, and finding answers to solving an impossible question."
-pubDate: 2023-07-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "viewfinder"]
+author: lyndonguitar
+category: Review
+description: Viewfinder is a first-person adventure game that offers players an extraordinary
+  experience of mind bending perceptions and reshaping the fabric of reality. The
+  game introduces players to a world where photography becomes their key to manipulating
+  the environment, solving puzzles, and finding answers to solving an impossible question.
 featured: false
-thumb: ""
+pubDate: 2023-07-21
+tags:
+- taptap
+- viewfinder
+thumb: ''
+title: Reshaping the fabric of reality using photographs and drawings | First Impressions
+  - Viewfinder
 ---
 
 Viewfinder is a first-person adventure game that offers players an extraordinary experience of mind bending perceptions and reshaping the fabric of reality. The game introduces players to a world where photography becomes their key to manipulating the environment, solving puzzles, and finding answers to solving an impossible question.

@@ -1,12 +1,15 @@
 ---
-title: "Still in Early Access, but already more fun than Battlefield 2042 | Review: BattleBit Remastered"
-description: "BattleBit Remastered"
-pubDate: 2023-06-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "battlebit-remastered"]
+author: lyndonguitar
+category: Review
+description: BattleBit Remastered
 featured: false
-thumb: "/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-0.avif"
+pubDate: 2023-06-20
+tags:
+- taptap
+- battlebit-remastered
+thumb: /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-0.avif
+title: 'Still in Early Access, but already more fun than Battlefield 2042 | Review:
+  BattleBit Remastered'
 ---
 
 <div class="gallery">

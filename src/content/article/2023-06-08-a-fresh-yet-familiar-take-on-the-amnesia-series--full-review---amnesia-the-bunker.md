@@ -1,12 +1,15 @@
 ---
-title: "A fresh yet familiar take on the Amnesia series | Full Review - Amnesia: The Bunker"
-description: "Amnesia: The Bunker"
-pubDate: 2023-06-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "amnesia:-the-bunker"]
+author: lyndonguitar
+category: Review
+description: 'Amnesia: The Bunker'
 featured: false
-thumb: "/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-0.avif"
+pubDate: 2023-06-08
+tags:
+- taptap
+- amnesia:-the-bunker
+thumb: /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-0.avif
+title: 'A fresh yet familiar take on the Amnesia series | Full Review - Amnesia: The
+  Bunker'
 ---
 
 <div class="gallery">

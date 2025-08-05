@@ -1,12 +1,16 @@
 ---
-title: "A slick mobile RPG fighting game! | Full Review - N-INNOCENCE"
-description: "N-INNOCENCE is an upcoming brawler RPG game set in a fantasy world full of familiar heroes and legends. An English version is currently out now at a limited capacity, for North American Regions only on both Android and iOS."
-pubDate: 2023-03-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "n-innocence-"]
+author: lyndonguitar
+category: Review
+description: N-INNOCENCE is an upcoming brawler RPG game set in a fantasy world full
+  of familiar heroes and legends. An English version is currently out now at a limited
+  capacity, for North American Regions only on both Android and iOS.
 featured: false
-thumb: "/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif"
+pubDate: 2023-03-06
+tags:
+- taptap
+- n-innocence-
+thumb: /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif
+title: A slick mobile RPG fighting game! | Full Review - N-INNOCENCE
 ---
 
 <div class="gallery">

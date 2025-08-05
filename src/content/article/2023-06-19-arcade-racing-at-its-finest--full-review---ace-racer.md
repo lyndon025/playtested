@@ -1,12 +1,14 @@
 ---
-title: "Arcade Racing at its Finest | Full Review - Ace Racer"
-description: "Ace RacerGlobal"
-pubDate: 2023-06-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ace-racer"]
+author: lyndonguitar
+category: Review
+description: Ace RacerGlobal
 featured: false
-thumb: "/images/reviews/2023-06-19-arcade-racing-at-its-finest--full-review---ace-racer-0.avif"
+pubDate: 2023-06-19
+tags:
+- taptap
+- ace-racer
+thumb: /images/reviews/2023-06-19-arcade-racing-at-its-finest--full-review---ace-racer-0.avif
+title: Arcade Racing at its Finest | Full Review - Ace Racer
 ---
 
 <div class="gallery">

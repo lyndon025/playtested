@@ -1,12 +1,19 @@
 ---
-title: "Martial arts focused battle royale, now free to play! | First Impressions - NARAKA: BLADEPOINT"
-description: "NARAKA: BLADEPOINT is a online multiplayer game offers a fresh take on the battle royale formula, introducing unique martial arts-based mechanics that set it apart from its competitors. Players take on the role of powerful heroes, each with their own unique abilities and playstyles. The game is available for PC, Xbox, and PlayStation, with an official mobile version coming soon as well."
-pubDate: 2023-07-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "naraka:-bladepoint"]
+author: lyndonguitar
+category: Review
+description: 'NARAKA: BLADEPOINT is a online multiplayer game offers a fresh take
+  on the battle royale formula, introducing unique martial arts-based mechanics that
+  set it apart from its competitors. Players take on the role of powerful heroes,
+  each with their own unique abilities and playstyles. The game is available for PC,
+  Xbox, and PlayStation, with an official mobile version coming soon as well.'
 featured: false
-thumb: ""
+pubDate: 2023-07-17
+tags:
+- taptap
+- naraka:-bladepoint
+thumb: ''
+title: 'Martial arts focused battle royale, now free to play! | First Impressions
+  - NARAKA: BLADEPOINT'
 ---
 
 NARAKA: BLADEPOINT is a online multiplayer game offers a fresh take on the battle royale formula, introducing unique martial arts-based mechanics that set it apart from its competitors. Players take on the role of powerful heroes, each with their own unique abilities and playstyles. The game is available for PC, Xbox, and PlayStation, with an official mobile version coming soon as well.

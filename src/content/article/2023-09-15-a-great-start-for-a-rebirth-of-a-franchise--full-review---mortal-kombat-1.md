@@ -1,12 +1,14 @@
 ---
-title: "A great start for a rebirth of a franchise | Full Review - Mortal Kombat 1"
-description: "Mortal Kombat™ 1"
-pubDate: 2023-09-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mortal-kombat™-1"]
+author: lyndonguitar
+category: Review
+description: Mortal Kombat™ 1
 featured: false
-thumb: "/images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-0.avif"
+pubDate: 2023-09-15
+tags:
+- taptap
+- mortal-kombat™-1
+thumb: /images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-0.avif
+title: A great start for a rebirth of a franchise | Full Review - Mortal Kombat 1
 ---
 
 <div class="gallery">

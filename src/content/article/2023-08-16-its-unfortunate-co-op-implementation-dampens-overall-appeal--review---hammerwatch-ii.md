@@ -1,12 +1,15 @@
 ---
-title: "It's unfortunate co-op implementation dampens overall appeal | Review - Hammerwatch II"
-description: "Hammerwatch II"
-pubDate: 2023-08-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hammerwatch-ii"]
+author: lyndonguitar
+category: Review
+description: Hammerwatch II
 featured: false
-thumb: "/images/reviews/2023-08-16-its-unfortunate-co-op-implementation-dampens-overall-appeal--review---hammerwatch-ii-0.avif"
+pubDate: 2023-08-16
+tags:
+- taptap
+- hammerwatch-ii
+thumb: /images/reviews/2023-08-16-its-unfortunate-co-op-implementation-dampens-overall-appeal--review---hammerwatch-ii-0.avif
+title: It's unfortunate co-op implementation dampens overall appeal | Review - Hammerwatch
+  II
 ---
 
 <div class="gallery">

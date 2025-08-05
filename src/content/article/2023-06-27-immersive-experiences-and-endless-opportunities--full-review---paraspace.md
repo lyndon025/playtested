@@ -1,12 +1,14 @@
 ---
-title: "Immersive experiences and endless opportunities | Full Review - ParaSpace"
-description: "ParaSpace"
-pubDate: 2023-06-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "paraspace"]
+author: lyndonguitar
+category: Review
+description: ParaSpace
 featured: false
-thumb: "/images/reviews/2023-06-27-immersive-experiences-and-endless-opportunities--full-review---paraspace-0.avif"
+pubDate: 2023-06-27
+tags:
+- taptap
+- paraspace
+thumb: /images/reviews/2023-06-27-immersive-experiences-and-endless-opportunities--full-review---paraspace-0.avif
+title: Immersive experiences and endless opportunities | Full Review - ParaSpace
 ---
 
 <div class="gallery">

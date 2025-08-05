@@ -1,12 +1,19 @@
 ---
-title: "TFT mobile finally comes to Asia! | Impressions - Teamfight Tactics"
-description: "Teamfight Tactics Mobile is set to release in two days (November 22) for the Asia-Pacific (APAC) region. This expansion brings one of the best auto-battler experiences to players in countries like The Philippines, Malaysia, Singapore, Thailand, Vietnam, Taiwan, Hong Kong, and Macau. With a focus on crossplay and cross-progression, TFT Mobile allows gamers across various platforms to compete whether you're on PC or mobile."
-pubDate: 2023-11-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tft:-teamfight-tactics"]
+author: lyndonguitar
+category: Review
+description: Teamfight Tactics Mobile is set to release in two days (November 22)
+  for the Asia-Pacific (APAC) region. This expansion brings one of the best auto-battler
+  experiences to players in countries like The Philippines, Malaysia, Singapore, Thailand,
+  Vietnam, Taiwan, Hong Kong, and Macau. With a focus on crossplay and cross-progression,
+  TFT Mobile allows gamers across various platforms to compete whether you're on PC
+  or mobile.
 featured: false
-thumb: ""
+pubDate: 2023-11-20
+tags:
+- taptap
+- tft:-teamfight-tactics
+thumb: ''
+title: TFT mobile finally comes to Asia! | Impressions - Teamfight Tactics
 ---
 
 Teamfight Tactics Mobile is set to release in two days (November 22) for the Asia-Pacific (APAC) region. This expansion brings one of the best auto-battler experiences to players in countries like The Philippines, Malaysia, Singapore, Thailand, Vietnam, Taiwan, Hong Kong, and Macau. With a focus on crossplay and cross-progression, TFT Mobile allows gamers across various platforms to compete whether you're on PC or mobile.

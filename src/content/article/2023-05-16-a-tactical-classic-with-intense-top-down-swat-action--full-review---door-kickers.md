@@ -1,12 +1,14 @@
 ---
-title: "A tactical classic with intense top-down SWAT action | Full Review - Door Kickers"
-description: "Door Kickers"
-pubDate: 2023-05-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "door-kickers"]
+author: lyndonguitar
+category: Review
+description: Door Kickers
 featured: false
-thumb: "/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-0.avif"
+pubDate: 2023-05-16
+tags:
+- taptap
+- door-kickers
+thumb: /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-0.avif
+title: A tactical classic with intense top-down SWAT action | Full Review - Door Kickers
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "Looks so good that you might mistake it for an anime episode | Beta Review - One Punch Man: World"
-description: "One Punch Man: WorldSEA"
-pubDate: 2023-10-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "aether-gazer"]
+author: lyndonguitar
+category: Review
+description: 'One Punch Man: WorldSEA'
 featured: false
-thumb: "/images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-0.avif"
+pubDate: 2023-10-19
+tags:
+- taptap
+- aether-gazer
+thumb: /images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-0.avif
+title: 'Looks so good that you might mistake it for an anime episode | Beta Review
+  - One Punch Man: World'
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "Quick intense battles that follows the Clash Royale formula |Review - Rebel Bots: Epic War PvP Clash"
-description: "Rebel Bots: Epic War PvP RTS"
-pubDate: 2023-11-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rebel-bots:-epic-war-pvp-rts"]
+author: lyndonguitar
+category: Review
+description: 'Rebel Bots: Epic War PvP RTS'
 featured: false
-thumb: "/images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--0.avif"
+pubDate: 2023-11-28
+score: 6.0
+tags:
+- taptap
+- rebel-bots:-epic-war-pvp-rts
+thumb: /images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--0.avif
+title: 'Quick intense battles that follows the Clash Royale formula |Review - Rebel
+  Bots: Epic War PvP Clash'
 ---
 
 <div class="gallery">

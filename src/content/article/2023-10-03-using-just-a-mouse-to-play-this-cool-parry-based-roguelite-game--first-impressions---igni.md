@@ -1,12 +1,19 @@
 ---
-title: "Using just a mouse to play this cool parry-based Roguelite game | First Impressions - IGNISTONE"
-description: "Ignistone invites players to embark on a treacherous but captivating journey into the mysterious Mines below the surface, as they seek to recover the stolen Ignistone. In this roguelite adventure, players engage in head-on 1v1 combat against thieving adversaries, utilizing a variety of swords and amulets to enhance their character's abilities."
-pubDate: 2023-10-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ignistone"]
+author: lyndonguitar
+category: Review
+description: Ignistone invites players to embark on a treacherous but captivating
+  journey into the mysterious Mines below the surface, as they seek to recover the
+  stolen Ignistone. In this roguelite adventure, players engage in head-on 1v1 combat
+  against thieving adversaries, utilizing a variety of swords and amulets to enhance
+  their character's abilities.
 featured: false
-thumb: ""
+pubDate: 2023-10-03
+tags:
+- taptap
+- ignistone
+thumb: ''
+title: Using just a mouse to play this cool parry-based Roguelite game | First Impressions
+  - IGNISTONE
 ---
 
 Ignistone invites players to embark on a treacherous but captivating journey into the mysterious Mines below the surface, as they seek to recover the stolen Ignistone. In this roguelite adventure, players engage in head-on 1v1 combat against thieving adversaries, utilizing a variety of swords and amulets to enhance their character's abilities.

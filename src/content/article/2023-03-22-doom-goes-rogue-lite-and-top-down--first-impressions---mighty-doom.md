@@ -1,12 +1,17 @@
 ---
-title: "DOOM goes rogue-lite and top-down | First Impressions - Mighty DOOM"
-description: "It looks like DOOM is joining the single touch craze these days by releasing their newest title for the mobile platform — Mighty DOOM. A top down action shooter where players control the mini Slayer, battling mini Demons in an arcade style combat with rogue-lite progression and mission structure."
-pubDate: 2023-03-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mighty-doom"]
+author: lyndonguitar
+category: Review
+description: It looks like DOOM is joining the single touch craze these days by releasing
+  their newest title for the mobile platform — Mighty DOOM. A top down action shooter
+  where players control the mini Slayer, battling mini Demons in an arcade style combat
+  with rogue-lite progression and mission structure.
 featured: false
-thumb: "/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-0.avif"
+pubDate: 2023-03-22
+tags:
+- taptap
+- mighty-doom
+thumb: /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-0.avif
+title: DOOM goes rogue-lite and top-down | First Impressions - Mighty DOOM
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "A dark fantasy-themed tactics squad RPG game | Closed Beta Impressions - ANNULUS"
-description: "Eldritch Cycle"
-pubDate: 2023-05-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "annulus"]
+author: lyndonguitar
+category: Review
+description: Eldritch Cycle
 featured: false
-thumb: "/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif"
+pubDate: 2023-05-18
+tags:
+- taptap
+- annulus
+thumb: /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif
+title: A dark fantasy-themed tactics squad RPG game | Closed Beta Impressions - ANNULUS
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "A perfectly brewed continuation | Full Review - Coffee Talk Episode 2: Hibiscus & Butterfly"
-description: "Coffee Talk Episode 2: Hibiscus & Butterfly"
-pubDate: 2023-04-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "coffee-talk-episode-2:-hibiscus-&-butterfly"]
+author: lyndonguitar
+category: Review
+description: 'Coffee Talk Episode 2: Hibiscus & Butterfly'
 featured: false
-thumb: "/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-0.avif"
+pubDate: 2023-04-23
+tags:
+- taptap
+- coffee-talk-episode-2:-hibiscus-&-butterfly
+thumb: /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-0.avif
+title: 'A perfectly brewed continuation | Full Review - Coffee Talk Episode 2: Hibiscus
+  & Butterfly'
 ---
 
 <div class="gallery">

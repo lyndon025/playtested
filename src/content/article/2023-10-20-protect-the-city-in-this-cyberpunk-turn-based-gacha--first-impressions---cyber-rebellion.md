@@ -1,12 +1,19 @@
 ---
-title: "Protect the city in this cyberpunk turn-based gacha | First Impressions - Cyber Rebellion"
-description: "In the not-so-distant future of 2177, humanity faces an existential threat in the form of a cataclysmic event. It's in this dystopian setting that Cyber Rebellion takes center stage,  a mobile game poised for a soft launch on October 25, 2023, offering players a glimpse into a world on the brink of destruction, where advanced machines and robots have turned against their creators."
-pubDate: 2023-10-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cyber-rebellion"]
+author: lyndonguitar
+category: Review
+description: In the not-so-distant future of 2177, humanity faces an existential threat
+  in the form of a cataclysmic event. It's in this dystopian setting that Cyber Rebellion
+  takes center stage,  a mobile game poised for a soft launch on October 25, 2023,
+  offering players a glimpse into a world on the brink of destruction, where advanced
+  machines and robots have turned against their creators.
 featured: false
-thumb: ""
+pubDate: 2023-10-20
+tags:
+- taptap
+- cyber-rebellion
+thumb: ''
+title: Protect the city in this cyberpunk turn-based gacha | First Impressions - Cyber
+  Rebellion
 ---
 
 In the not-so-distant future of 2177, humanity faces an existential threat in the form of a cataclysmic event. It's in this dystopian setting that Cyber Rebellion takes center stage,  a mobile game poised for a soft launch on October 25, 2023, offering players a glimpse into a world on the brink of destruction, where advanced machines and robots have turned against their creators.

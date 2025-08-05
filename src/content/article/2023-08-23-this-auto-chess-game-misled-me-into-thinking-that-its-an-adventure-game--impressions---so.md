@@ -1,12 +1,19 @@
 ---
-title: "This auto-chess game misled me into thinking that it's an adventure game | Impressions - SOULS"
-description: "Contrary my initial impressions from browsing the Google Play Store page, SOULS is not an adventure game in the vein of titles like Journey, Abzu, and Sky: Children of the Light . Instead, it is a traditional auto-chess gacha game tailored for mobile platforms. Nonetheless, its visual appeal remains as stunning as depicted in the promotional images and trailers."
-pubDate: 2023-08-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "souls"]
+author: lyndonguitar
+category: Review
+description: 'Contrary my initial impressions from browsing the Google Play Store
+  page, SOULS is not an adventure game in the vein of titles like Journey, Abzu, and
+  Sky: Children of the Light . Instead, it is a traditional auto-chess gacha game
+  tailored for mobile platforms. Nonetheless, its visual appeal remains as stunning
+  as depicted in the promotional images and trailers.'
 featured: false
-thumb: ""
+pubDate: 2023-08-23
+tags:
+- taptap
+- souls
+thumb: ''
+title: This auto-chess game misled me into thinking that it's an adventure game |
+  Impressions - SOULS
 ---
 
 Contrary my initial impressions from browsing the Google Play Store page, SOULS is not an adventure game in the vein of titles like Journey, Abzu, and Sky: Children of the Light . Instead, it is a traditional auto-chess gacha game tailored for mobile platforms. Nonetheless, its visual appeal remains as stunning as depicted in the promotional images and trailers.

@@ -1,12 +1,15 @@
 ---
-title: "A mixed bag of delights and frustrations | Full Review - ﻿Monster Menu: The Scavenger's Cookbook"
-description: "Monster Menu (NS, PS4, PS5)"
-pubDate: 2023-05-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "monster-menu-(ns,-ps4,-ps5)"]
+author: lyndonguitar
+category: Review
+description: Monster Menu (NS, PS4, PS5)
 featured: false
-thumb: "/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-0.avif"
+pubDate: 2023-05-25
+tags:
+- taptap
+- monster-menu-(ns,-ps4,-ps5)
+thumb: /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-0.avif
+title: "A mixed bag of delights and frustrations | Full Review - \uFEFFMonster Menu:
+  The Scavenger's Cookbook"
 ---
 
 <div class="gallery">

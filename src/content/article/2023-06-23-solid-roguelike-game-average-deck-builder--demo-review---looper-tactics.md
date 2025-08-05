@@ -1,12 +1,14 @@
 ---
-title: "Solid roguelike game, average deck builder | Demo Review - Looper Tactics"
-description: "Looper Tactics"
-pubDate: 2023-06-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "looper-tactics"]
+author: lyndonguitar
+category: Review
+description: Looper Tactics
 featured: false
-thumb: "/images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif"
+pubDate: 2023-06-23
+tags:
+- taptap
+- looper-tactics
+thumb: /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif
+title: Solid roguelike game, average deck builder | Demo Review - Looper Tactics
 ---
 
 <div class="gallery">

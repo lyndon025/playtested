@@ -1,12 +1,15 @@
 ---
-title: "Valorant coming with a new update! Team Deathmatch? Mobile version? | Valorant Update 7.0"
-description: "VALORANT Mobile"
-pubDate: 2023-06-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "valorant-mobile"]
+author: lyndonguitar
+category: Review
+description: VALORANT Mobile
 featured: false
-thumb: "/images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-0.avif"
+pubDate: 2023-06-21
+tags:
+- taptap
+- valorant-mobile
+thumb: /images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-0.avif
+title: Valorant coming with a new update! Team Deathmatch? Mobile version? | Valorant
+  Update 7.0
 ---
 
 <div class="gallery">

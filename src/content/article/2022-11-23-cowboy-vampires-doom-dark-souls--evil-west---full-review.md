@@ -1,12 +1,14 @@
 ---
-title: "Cowboy, Vampires, Doom, Dark Souls | Evil West - Full Review"
-description: "**Pros:**"
-pubDate: 2022-11-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "evil-west"]
+author: lyndonguitar
+category: Review
+description: '**Pros:**'
 featured: false
-thumb: "/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif"
+pubDate: 2022-11-23
+tags:
+- taptap
+- evil-west
+thumb: /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif
+title: Cowboy, Vampires, Doom, Dark Souls | Evil West - Full Review
 ---
 
 <div class="gallery">

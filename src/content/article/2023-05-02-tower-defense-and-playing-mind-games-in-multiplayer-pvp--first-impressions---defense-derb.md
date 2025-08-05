@@ -1,12 +1,15 @@
 ---
-title: "Tower Defense and playing mind games in multiplayer PvP | First Impressions - Defense Derby"
-description: "Defense Derby"
-pubDate: 2023-05-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "defense-derby"]
+author: lyndonguitar
+category: Review
+description: Defense Derby
 featured: false
-thumb: "/images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-0.avif"
+pubDate: 2023-05-02
+tags:
+- taptap
+- defense-derby
+thumb: /images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-0.avif
+title: Tower Defense and playing mind games in multiplayer PvP | First Impressions
+  - Defense Derby
 ---
 
 <div class="gallery">

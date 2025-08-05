@@ -1,12 +1,15 @@
 ---
-title: "A witchcraft-themed role-playing adventure game | Full Review - Black Book RPG"
-description: "Black Book RPG"
-pubDate: 2023-04-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "black-book-rpg"]
+author: lyndonguitar
+category: Review
+description: Black Book RPG
 featured: false
-thumb: "/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-0.avif"
+pubDate: 2023-04-28
+tags:
+- taptap
+- black-book-rpg
+thumb: /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-0.avif
+title: A witchcraft-themed role-playing adventure game | Full Review - Black Book
+  RPG
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "Fairy tales and Idle RPG combined | First Impressions - Madtale: Idle RPG"
-description: "With its unique art style, engaging narratives, and various gameplay features, Madtale aims to offer an enjoyable idle RPG gaming experience for players on iOS and Android devices with its recent release last July 12."
-pubDate: 2023-07-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "madtale:-idle-rpg"]
+author: lyndonguitar
+category: Review
+description: With its unique art style, engaging narratives, and various gameplay
+  features, Madtale aims to offer an enjoyable idle RPG gaming experience for players
+  on iOS and Android devices with its recent release last July 12.
 featured: false
-thumb: ""
+pubDate: 2023-07-13
+tags:
+- taptap
+- madtale:-idle-rpg
+thumb: ''
+title: 'Fairy tales and Idle RPG combined | First Impressions - Madtale: Idle RPG'
 ---
 
 With its unique art style, engaging narratives, and various gameplay features, Madtale aims to offer an enjoyable idle RPG gaming experience for players on iOS and Android devices with its recent release last July 12.

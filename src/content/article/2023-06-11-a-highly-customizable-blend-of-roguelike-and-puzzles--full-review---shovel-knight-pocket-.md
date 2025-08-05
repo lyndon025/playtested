@@ -1,12 +1,15 @@
 ---
-title: "A highly customizable blend of roguelike and puzzles | Full Review - Shovel Knight Pocket Dungeon"
-description: "Shovel Knight Pocket Dungeon"
-pubDate: 2023-06-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "shovel-knight-pocket-dungeon"]
+author: lyndonguitar
+category: Review
+description: Shovel Knight Pocket Dungeon
 featured: false
-thumb: "/images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--0.avif"
+pubDate: 2023-06-11
+tags:
+- taptap
+- shovel-knight-pocket-dungeon
+thumb: /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--0.avif
+title: A highly customizable blend of roguelike and puzzles | Full Review - Shovel
+  Knight Pocket Dungeon
 ---
 
 <div class="gallery">

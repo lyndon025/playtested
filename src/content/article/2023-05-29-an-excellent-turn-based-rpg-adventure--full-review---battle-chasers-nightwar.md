@@ -1,12 +1,14 @@
 ---
-title: "An excellent turn-based RPG adventure | Full Review - Battle Chasers: Nightwar"
-description: "Battle Chasers: Nightwar"
-pubDate: 2023-05-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "battle-chasers:-nightwar"]
+author: lyndonguitar
+category: Review
+description: 'Battle Chasers: Nightwar'
 featured: false
-thumb: "/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif"
+pubDate: 2023-05-29
+tags:
+- taptap
+- battle-chasers:-nightwar
+thumb: /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif
+title: 'An excellent turn-based RPG adventure | Full Review - Battle Chasers: Nightwar'
 ---
 
 <div class="gallery">

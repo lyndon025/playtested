@@ -1,12 +1,20 @@
 ---
-title: "Another quality mobile roguelite you should probably play! | Dungreed - Full Review"
-description: "In the indie-games industry, production costs are limited. Usually, game creators cannot always afford to create photorealistic graphics and an expansive combination of story and gameplay. This usually leads to popular common denominators, such as retro art-style, and rogue-like gameplay, and Dungreed is one such example. The only difference now lies in the gameplay, does Dungreed have what it takes to get your attention?"
-pubDate: 2023-02-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dungreed"]
+author: lyndonguitar
+category: Review
+description: In the indie-games industry, production costs are limited. Usually, game
+  creators cannot always afford to create photorealistic graphics and an expansive
+  combination of story and gameplay. This usually leads to popular common denominators,
+  such as retro art-style, and rogue-like gameplay, and Dungreed is one such example.
+  The only difference now lies in the gameplay, does Dungreed have what it takes to
+  get your attention?
 featured: false
-thumb: "/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-0.avif"
+pubDate: 2023-02-10
+tags:
+- taptap
+- dungreed
+thumb: /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-0.avif
+title: Another quality mobile roguelite you should probably play! | Dungreed - Full
+  Review
 ---
 
 <div class="gallery">

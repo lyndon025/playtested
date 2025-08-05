@@ -1,12 +1,16 @@
 ---
-title: "A pirate idle gacha game with a refreshing story and waifu heroes | Full Review - Demian Saga"
-description: "Demian Saga is a pirate-themed gacha game with charming visuals and filled with lots of  waifu characters to collect."
-pubDate: 2023-04-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "demian-saga"]
+author: lyndonguitar
+category: Review
+description: Demian Saga is a pirate-themed gacha game with charming visuals and filled
+  with lots of  waifu characters to collect.
 featured: false
-thumb: "/images/reviews/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-0.avif"
+pubDate: 2023-04-18
+tags:
+- taptap
+- demian-saga
+thumb: /images/reviews/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-0.avif
+title: A pirate idle gacha game with a refreshing story and waifu heroes | Full Review
+  - Demian Saga
 ---
 
 <div class="gallery">

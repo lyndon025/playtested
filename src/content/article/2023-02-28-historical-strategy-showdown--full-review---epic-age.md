@@ -1,12 +1,15 @@
 ---
-title: "Historical strategy showdown | Full Review - Epic Age"
-description: "Hero collecting, empire management, politics, tactical warfare, and role playing, Epic Age is all of these things combined, and it's playable on Mobile devices!"
-pubDate: 2023-02-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "epic-age"]
+author: lyndonguitar
+category: Review
+description: Hero collecting, empire management, politics, tactical warfare, and role
+  playing, Epic Age is all of these things combined, and it's playable on Mobile devices!
 featured: false
-thumb: "/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif"
+pubDate: 2023-02-28
+tags:
+- taptap
+- epic-age
+thumb: /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif
+title: Historical strategy showdown | Full Review - Epic Age
 ---
 
 <div class="gallery">

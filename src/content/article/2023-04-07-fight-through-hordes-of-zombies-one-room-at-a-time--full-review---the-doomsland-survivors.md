@@ -1,12 +1,16 @@
 ---
-title: "Fight through hordes of zombies, one room at a time | Full Review - The Doomsland: Survivors"
-description: "The Doomsland: Survivors is a top down zombie shooter with rogue-lite elements."
-pubDate: 2023-04-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dark-season-:-last-hunting"]
+author: lyndonguitar
+category: Review
+description: 'The Doomsland: Survivors is a top down zombie shooter with rogue-lite
+  elements.'
 featured: false
-thumb: "/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-0.avif"
+pubDate: 2023-04-07
+tags:
+- taptap
+- dark-season-:-last-hunting
+thumb: /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-0.avif
+title: 'Fight through hordes of zombies, one room at a time | Full Review - The Doomsland:
+  Survivors'
 ---
 
 <div class="gallery">

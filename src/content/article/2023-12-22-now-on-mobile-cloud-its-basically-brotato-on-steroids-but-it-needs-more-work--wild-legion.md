@@ -1,12 +1,16 @@
 ---
-title: "Now on Mobile (Cloud), It’s basically Brotato on steroids, but it needs more work | Wild Legion"
-description: "Wild Legion"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "don't-starve"]
+author: lyndonguitar
+category: Review
+description: Wild Legion
 featured: false
-thumb: "/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-0.avif"
+pubDate: 2023-12-22
+score: 7.0
+tags:
+- taptap
+- don't-starve
+thumb: /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-0.avif
+title: Now on Mobile (Cloud), It’s basically Brotato on steroids, but it needs more
+  work | Wild Legion
 ---
 
 <div class="gallery">

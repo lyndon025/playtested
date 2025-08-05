@@ -1,12 +1,15 @@
 ---
-title: "This is what a TRUE sandbox detective game is like | Early Access Impressions - Shadows of Doubt"
-description: "Shadows of Doubt"
-pubDate: 2023-04-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "shadows-of-doubt"]
+author: lyndonguitar
+category: Review
+description: Shadows of Doubt
 featured: false
-thumb: "/images/reviews/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-0.avif"
+pubDate: 2023-04-27
+tags:
+- taptap
+- shadows-of-doubt
+thumb: /images/reviews/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-0.avif
+title: This is what a TRUE sandbox detective game is like | Early Access Impressions
+  - Shadows of Doubt
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "A worthy sequel to the stellar murder mystery visual novel | Full Review - Danganronpa 2"
-description: "Danganronpa 2: Goodbye Despair"
-pubDate: 2023-05-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "danganronpa-2:-goodbye-despair"]
+author: lyndonguitar
+category: Review
+description: 'Danganronpa 2: Goodbye Despair'
 featured: false
-thumb: "/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-0.avif"
+pubDate: 2023-05-02
+tags:
+- taptap
+- danganronpa-2:-goodbye-despair
+thumb: /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-0.avif
+title: A worthy sequel to the stellar murder mystery visual novel | Full Review -
+  Danganronpa 2
 ---
 
 <div class="gallery">

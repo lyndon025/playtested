@@ -1,12 +1,15 @@
 ---
-title: "This non-P2W MMORPG looks promising! beta sign-ups starts now | Tarisland - Mystery of the Hollows"
-description: "Tarisland"
-pubDate: 2023-04-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tarisland"]
+author: lyndonguitar
+category: Review
+description: Tarisland
 featured: false
-thumb: "/images/reviews/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--0.avif"
+pubDate: 2023-04-25
+tags:
+- taptap
+- tarisland
+thumb: /images/reviews/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--0.avif
+title: This non-P2W MMORPG looks promising! beta sign-ups starts now | Tarisland -
+  Mystery of the Hollows
 ---
 
 <div class="gallery">

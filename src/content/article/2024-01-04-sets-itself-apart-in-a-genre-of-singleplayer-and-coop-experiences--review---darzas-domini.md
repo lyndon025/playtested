@@ -1,12 +1,16 @@
 ---
-title: "Sets itself apart in a genre of singleplayer and coop experiences | Review - Darza's Dominion"
-description: "Darza's Dominion"
-pubDate: 2024-01-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "darza's-dominion"]
+author: lyndonguitar
+category: Review
+description: Darza's Dominion
 featured: false
-thumb: "/images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-0.avif"
+pubDate: 2024-01-04
+score: 7.0
+tags:
+- taptap
+- darza's-dominion
+thumb: /images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-0.avif
+title: Sets itself apart in a genre of singleplayer and coop experiences | Review
+  - Darza's Dominion
 ---
 
 <div class="gallery">

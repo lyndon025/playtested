@@ -1,12 +1,19 @@
 ---
-title: "Restore the planet, one step at a time | First Impressions - Terra Nil"
-description: "What if the idea of a city building game is turned on its head? Whereas the main objective of the game is not to build a huge bustling city, but instead to build a natural living world without any trace of technology or artificiality? Terra Nil is exactly that game for a change. A strategy game where players construct and deconstruct terraforming structures with the ultimate goal of restoring the land."
-pubDate: 2023-03-31
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "terra-nil"]
+author: lyndonguitar
+category: Review
+description: What if the idea of a city building game is turned on its head? Whereas
+  the main objective of the game is not to build a huge bustling city, but instead
+  to build a natural living world without any trace of technology or artificiality?
+  Terra Nil is exactly that game for a change. A strategy game where players construct
+  and deconstruct terraforming structures with the ultimate goal of restoring the
+  land.
 featured: false
-thumb: "/images/reviews/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-0.avif"
+pubDate: 2023-03-31
+tags:
+- taptap
+- terra-nil
+thumb: /images/reviews/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-0.avif
+title: Restore the planet, one step at a time | First Impressions - Terra Nil
 ---
 
 <div class="gallery">

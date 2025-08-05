@@ -1,12 +1,15 @@
 ---
-title: "Bring color to the desaturated land and save the world | First Impressions - Arto"
-description: "Arto"
-pubDate: 2023-05-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "arto"]
+author: lyndonguitar
+category: Review
+description: Arto
 featured: false
-thumb: "/images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-0.avif"
+pubDate: 2023-05-03
+tags:
+- taptap
+- arto
+thumb: /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-0.avif
+title: Bring color to the desaturated land and save the world | First Impressions
+  - Arto
 ---
 
 <div class="gallery">

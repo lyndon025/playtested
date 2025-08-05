@@ -1,12 +1,15 @@
 ---
-title: "Is it worth it? Is this the content that was promised? | Review - Overwatch 2: Invasion"
-description: "Overwatch Mobile"
-pubDate: 2023-08-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "overwatch-mobile"]
+author: lyndonguitar
+category: Review
+description: Overwatch Mobile
 featured: false
-thumb: "/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-0.avif"
+pubDate: 2023-08-11
+tags:
+- taptap
+- overwatch-mobile
+thumb: /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-0.avif
+title: 'Is it worth it? Is this the content that was promised? | Review - Overwatch
+  2: Invasion'
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "New Southeast Asian Servers! | Impressions - Cat Fantasy"
-description: "NEW UPDATE"
-pubDate: 2023-08-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cat-fantasy:ph"]
+author: lyndonguitar
+category: Review
+description: NEW UPDATE
 featured: false
-thumb: ""
+pubDate: 2023-08-25
+tags:
+- taptap
+- cat-fantasy:ph
+thumb: ''
+title: New Southeast Asian Servers! | Impressions - Cat Fantasy
 ---
 
 NEW UPDATE

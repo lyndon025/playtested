@@ -1,12 +1,14 @@
 ---
-title: "A 2D side scrolling strategy game? | First Impressions - Kingdom Two Crowns+"
-description: "Kingdom Two Crowns+"
-pubDate: 2023-05-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kingdom-two-crowns+"]
+author: lyndonguitar
+category: Review
+description: Kingdom Two Crowns+
 featured: false
-thumb: "/images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif"
+pubDate: 2023-05-09
+tags:
+- taptap
+- kingdom-two-crowns+
+thumb: /images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif
+title: A 2D side scrolling strategy game? | First Impressions - Kingdom Two Crowns+
 ---
 
 <div class="gallery">

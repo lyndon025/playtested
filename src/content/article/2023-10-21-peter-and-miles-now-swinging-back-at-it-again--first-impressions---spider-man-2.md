@@ -1,12 +1,21 @@
 ---
-title: "Peter and Miles now swinging back at it again | First Impressions - Spider-Man 2"
-description: "Spider-Man 2 is finally here and it's kicking ass. Even with the introduction sequence, it is immediately action-packed and doesn't skip a beat. I literally got goosebumps while playing through the initial set piece, which could even pass as a climax in other games. (which I'm not going to spoil, the gameplay shown above is a random snippet taken from my playthrough). Immediately, It also clearly showcases the power of the PS5's SSD with the amount of city panning and fast traversal it seamlessly executes."
-pubDate: 2023-10-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "marvel’s-spider-man-remastered"]
+author: lyndonguitar
+category: Review
+description: Spider-Man 2 is finally here and it's kicking ass. Even with the introduction
+  sequence, it is immediately action-packed and doesn't skip a beat. I literally got
+  goosebumps while playing through the initial set piece, which could even pass as
+  a climax in other games. (which I'm not going to spoil, the gameplay shown above
+  is a random snippet taken from my playthrough). Immediately, It also clearly showcases
+  the power of the PS5's SSD with the amount of city panning and fast traversal it
+  seamlessly executes.
 featured: false
-thumb: ""
+pubDate: 2023-10-21
+tags:
+- taptap
+- marvel’s-spider-man-remastered
+thumb: ''
+title: Peter and Miles now swinging back at it again | First Impressions - Spider-Man
+  2
 ---
 
 Spider-Man 2 is finally here and it's kicking ass. Even with the introduction sequence, it is immediately action-packed and doesn't skip a beat. I literally got goosebumps while playing through the initial set piece, which could even pass as a climax in other games. (which I'm not going to spoil, the gameplay shown above is a random snippet taken from my playthrough). Immediately, It also clearly showcases the power of the PS5's SSD with the amount of city panning and fast traversal it seamlessly executes.

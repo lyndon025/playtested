@@ -1,12 +1,20 @@
 ---
-title: "It has simple graphics but offers a decent survival horror experience | 1 Bit Survivor - Full Review"
-description: "1 Bit Survivor is a rogue-lite survival horror with simplistic 1-bit graphics but an artistic stylized presentation. The atmosphere is definitely classic Resident Evil 2 and 3-style, an obvious inspiration especially with sound bits when starting a session complete with typewriter sounds to tell the story, and the menacing sound effects that you hear. The comparison however ends there as the gameplay features a 1-bit retro game design and monochromatic graphics."
-pubDate: 2023-02-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "1-bit-survivor-(roguelike)"]
+author: lyndonguitar
+category: Review
+description: 1 Bit Survivor is a rogue-lite survival horror with simplistic 1-bit
+  graphics but an artistic stylized presentation. The atmosphere is definitely classic
+  Resident Evil 2 and 3-style, an obvious inspiration especially with sound bits when
+  starting a session complete with typewriter sounds to tell the story, and the menacing
+  sound effects that you hear. The comparison however ends there as the gameplay features
+  a 1-bit retro game design and monochromatic graphics.
 featured: false
-thumb: "/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-0.avif"
+pubDate: 2023-02-10
+tags:
+- taptap
+- 1-bit-survivor-(roguelike)
+thumb: /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-0.avif
+title: It has simple graphics but offers a decent survival horror experience | 1 Bit
+  Survivor - Full Review
 ---
 
 <div class="gallery">

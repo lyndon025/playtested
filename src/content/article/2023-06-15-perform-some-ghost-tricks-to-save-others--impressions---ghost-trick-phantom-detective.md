@@ -1,12 +1,21 @@
 ---
-title: "Perform some ghost tricks to save others | Impressions - Ghost Trick: Phantom Detective"
-description: "Ghost Trick: Phantom Detective has been revitalized with completely HD graphics and flawless animations, breathing new life into its charming world. The game is set to be released on June 30, 2023, but there is a demo on Steam already available for players to try. I was able to play the demo version that allows players to experience the story up to Chapter 2. Notably, any saved data from the demo can be seamlessly transferred to the full version of the game once players purchase it."
-pubDate: 2023-06-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ghost-trick:-phantom-detective"]
+author: lyndonguitar
+category: Review
+description: 'Ghost Trick: Phantom Detective has been revitalized with completely
+  HD graphics and flawless animations, breathing new life into its charming world.
+  The game is set to be released on June 30, 2023, but there is a demo on Steam already
+  available for players to try. I was able to play the demo version that allows players
+  to experience the story up to Chapter 2. Notably, any saved data from the demo can
+  be seamlessly transferred to the full version of the game once players purchase
+  it.'
 featured: false
-thumb: ""
+pubDate: 2023-06-15
+tags:
+- taptap
+- ghost-trick:-phantom-detective
+thumb: ''
+title: 'Perform some ghost tricks to save others | Impressions - Ghost Trick: Phantom
+  Detective'
 ---
 
 Ghost Trick: Phantom Detective has been revitalized with completely HD graphics and flawless animations, breathing new life into its charming world. The game is set to be released on June 30, 2023, but there is a demo on Steam already available for players to try. I was able to play the demo version that allows players to experience the story up to Chapter 2. Notably, any saved data from the demo can be seamlessly transferred to the full version of the game once players purchase it.

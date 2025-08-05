@@ -1,12 +1,18 @@
 ---
-title: "Breathe new life into your grandparents' neglected farm | First Impressions - Everdream Valley"
-description: "Everdream Valley is a delightful and lighthearted farming adventure game that combines the joys of tending to a homestead with farming, animals, and magic. Following in the footsteps of farming games like Dinkum and Stardew Valley; Everdream Valley promises to be another solid addition to the farming sim genre."
-pubDate: 2023-06-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "everdream-valley"]
+author: lyndonguitar
+category: Review
+description: Everdream Valley is a delightful and lighthearted farming adventure game
+  that combines the joys of tending to a homestead with farming, animals, and magic.
+  Following in the footsteps of farming games like Dinkum and Stardew Valley; Everdream
+  Valley promises to be another solid addition to the farming sim genre.
 featured: false
-thumb: ""
+pubDate: 2023-06-04
+tags:
+- taptap
+- everdream-valley
+thumb: ''
+title: Breathe new life into your grandparents' neglected farm | First Impressions
+  - Everdream Valley
 ---
 
 Everdream Valley is a delightful and lighthearted farming adventure game that combines the joys of tending to a homestead with farming, animals, and magic. Following in the footsteps of farming games like Dinkum and Stardew Valley; Everdream Valley promises to be another solid addition to the farming sim genre.

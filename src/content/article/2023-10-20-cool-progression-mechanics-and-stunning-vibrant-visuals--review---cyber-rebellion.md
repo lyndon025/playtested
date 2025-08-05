@@ -1,12 +1,15 @@
 ---
-title: "Cool progression mechanics and stunning vibrant visuals | Review - Cyber Rebellion"
-description: "Cyber Rebellion"
-pubDate: 2023-10-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cyber-rebellion"]
+author: lyndonguitar
+category: Review
+description: Cyber Rebellion
 featured: false
-thumb: "/images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-0.avif"
+pubDate: 2023-10-20
+score: 7.0
+tags:
+- taptap
+- cyber-rebellion
+thumb: /images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-0.avif
+title: Cool progression mechanics and stunning vibrant visuals | Review - Cyber Rebellion
 ---
 
 <div class="gallery">

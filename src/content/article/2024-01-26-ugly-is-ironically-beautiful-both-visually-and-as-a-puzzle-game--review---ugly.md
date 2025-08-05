@@ -1,12 +1,16 @@
 ---
-title: "Ugly is ironically Beautiful both visually and as a puzzle game | Review - Ugly"
-description: "Ugly"
-pubDate: 2024-01-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ugly"]
+author: lyndonguitar
+category: Review
+description: Ugly
 featured: false
-thumb: "/images/reviews/2024-01-26-ugly-is-ironically-beautiful-both-visually-and-as-a-puzzle-game--review---ugly-0.avif"
+pubDate: 2024-01-26
+score: 8.0
+tags:
+- taptap
+- ugly
+thumb: /images/reviews/2024-01-26-ugly-is-ironically-beautiful-both-visually-and-as-a-puzzle-game--review---ugly-0.avif
+title: Ugly is ironically Beautiful both visually and as a puzzle game | Review -
+  Ugly
 ---
 
 <div class="gallery">

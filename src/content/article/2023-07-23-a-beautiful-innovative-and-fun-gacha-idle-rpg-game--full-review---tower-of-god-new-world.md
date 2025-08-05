@@ -1,12 +1,15 @@
 ---
-title: "A beautiful, innovative, and fun gacha idle RPG game | Full Review - Tower of God: New World"
-description: "Tower of God: NEW WORLD"
-pubDate: 2023-07-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tower-of-god:-new-world"]
+author: lyndonguitar
+category: Review
+description: 'Tower of God: NEW WORLD'
 featured: false
-thumb: "/images/reviews/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-0.avif"
+pubDate: 2023-07-23
+tags:
+- taptap
+- tower-of-god:-new-world
+thumb: /images/reviews/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-0.avif
+title: 'A beautiful, innovative, and fun gacha idle RPG game | Full Review - Tower
+  of God: New World'
 ---
 
 <div class="gallery">

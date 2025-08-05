@@ -1,12 +1,14 @@
 ---
-title: "This unique card-crafting RPG can be overwhelming | Review - Book of Hours"
-description: "BOOK OF HOURS"
-pubDate: 2023-08-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "book-of-hours"]
+author: lyndonguitar
+category: Review
+description: BOOK OF HOURS
 featured: false
-thumb: "/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif"
+pubDate: 2023-08-21
+tags:
+- taptap
+- book-of-hours
+thumb: /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif
+title: This unique card-crafting RPG can be overwhelming | Review - Book of Hours
 ---
 
 <div class="gallery">

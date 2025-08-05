@@ -1,12 +1,19 @@
 ---
-title: "The mobile version is finally out... how is it? | Impressions - Resident Evil Village"
-description: "The eighth main installment in the iconic Resident Evil series is now available to play on iPhone 15 Pro and supported iPad models with an M1 chipset or better. The game is available as a free demo, with in-app purchases allowing players to unlock the full game, and its DLCs. Currently at a discounted price of $15.99 for the base game."
-pubDate: 2023-10-31
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "resident-evil-village"]
+author: lyndonguitar
+category: Review
+description: The eighth main installment in the iconic Resident Evil series is now
+  available to play on iPhone 15 Pro and supported iPad models with an M1 chipset
+  or better. The game is available as a free demo, with in-app purchases allowing
+  players to unlock the full game, and its DLCs. Currently at a discounted price of
+  $15.99 for the base game.
 featured: false
-thumb: ""
+pubDate: 2023-10-31
+tags:
+- taptap
+- resident-evil-village
+thumb: ''
+title: The mobile version is finally out... how is it? | Impressions - Resident Evil
+  Village
 ---
 
 The eighth main installment in the iconic Resident Evil series is now available to play on iPhone 15 Pro and supported iPad models with an M1 chipset or better. The game is available as a free demo, with in-app purchases allowing players to unlock the full game, and its DLCs. Currently at a discounted price of $15.99 for the base game.

@@ -1,12 +1,16 @@
 ---
-title: "A rich post-apocalyptic setting overrun by zombies and 'bugs' | Review - Lost Future"
-description: "Lost Future: Zombie Survival"
-pubDate: 2023-11-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lost-future:-zombie-survival"]
+author: lyndonguitar
+category: Review
+description: 'Lost Future: Zombie Survival'
 featured: false
-thumb: "/images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-0.avif"
+pubDate: 2023-11-09
+score: 6.0
+tags:
+- taptap
+- lost-future:-zombie-survival
+thumb: /images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-0.avif
+title: A rich post-apocalyptic setting overrun by zombies and 'bugs' | Review - Lost
+  Future
 ---
 
 <div class="gallery">

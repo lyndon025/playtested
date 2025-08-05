@@ -1,12 +1,15 @@
 ---
-title: "Bold new era, same classic Total War | Full Review - Total War: PHAROAH"
-description: "Total War: PHARAOH"
-pubDate: 2023-10-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "total-war:-medieval-ii"]
+author: lyndonguitar
+category: Review
+description: 'Total War: PHARAOH'
 featured: false
-thumb: "/images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-0.avif"
+pubDate: 2023-10-16
+score: 7.0
+tags:
+- taptap
+- total-war:-medieval-ii
+thumb: /images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-0.avif
+title: 'Bold new era, same classic Total War | Full Review - Total War: PHAROAH'
 ---
 
 <div class="gallery">

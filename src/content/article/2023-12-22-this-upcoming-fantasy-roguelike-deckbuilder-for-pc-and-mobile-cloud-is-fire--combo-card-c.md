@@ -1,12 +1,16 @@
 ---
-title: "This upcoming fantasy roguelike deckbuilder for PC and Mobile (Cloud) is fire | Combo Card Clashers"
-description: "Combo Card Clashers"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "combo-card-clashers"]
+author: lyndonguitar
+category: Review
+description: Combo Card Clashers
 featured: false
-thumb: "/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-0.avif"
+pubDate: 2023-12-22
+score: 8.0
+tags:
+- taptap
+- combo-card-clashers
+thumb: /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-0.avif
+title: This upcoming fantasy roguelike deckbuilder for PC and Mobile (Cloud) is fire
+  | Combo Card Clashers
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "Everything you need to know about Valorant’s new update feat. Team Deathmatch!"
-description: "VALORANT Mobile"
-pubDate: 2023-06-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "valorant-mobile"]
+author: lyndonguitar
+category: Review
+description: VALORANT Mobile
 featured: false
-thumb: "/images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-0.avif"
+pubDate: 2023-06-28
+tags:
+- taptap
+- valorant-mobile
+thumb: /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-0.avif
+title: Everything you need to know about Valorant’s new update feat. Team Deathmatch!
 ---
 
 <div class="gallery">

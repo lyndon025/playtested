@@ -1,12 +1,15 @@
 ---
-title: "A world suddenly invaded by Orcs | First Impressions - Redemption Reapers"
-description: "Redemption Reapers is a dark fantasy RPG game that promises a gripping story and a challenging turn-based tactics gameplay."
-pubDate: 2023-02-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "redemption-reapers"]
+author: lyndonguitar
+category: Review
+description: Redemption Reapers is a dark fantasy RPG game that promises a gripping
+  story and a challenging turn-based tactics gameplay.
 featured: false
-thumb: "/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-0.avif"
+pubDate: 2023-02-24
+tags:
+- taptap
+- redemption-reapers
+thumb: /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-0.avif
+title: A world suddenly invaded by Orcs | First Impressions - Redemption Reapers
 ---
 
 <div class="gallery">

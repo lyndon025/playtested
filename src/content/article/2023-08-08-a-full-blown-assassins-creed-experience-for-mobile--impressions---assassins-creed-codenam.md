@@ -1,12 +1,15 @@
 ---
-title: "A full-blown Assassin’s Creed experience for mobile | Impressions - Assassin's Creed Codename Jade"
-description: "Assassin's Creed Jade"
-pubDate: 2023-08-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "assassin's-creed-jade"]
+author: lyndonguitar
+category: Review
+description: Assassin's Creed Jade
 featured: false
-thumb: "/images/reviews/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-0.avif"
+pubDate: 2023-08-08
+tags:
+- taptap
+- assassin's-creed-jade
+thumb: /images/reviews/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-0.avif
+title: A full-blown Assassin’s Creed experience for mobile | Impressions - Assassin's
+  Creed Codename Jade
 ---
 
 <div class="gallery">

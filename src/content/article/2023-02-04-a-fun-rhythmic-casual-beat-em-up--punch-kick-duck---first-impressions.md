@@ -1,12 +1,18 @@
 ---
-title: "A fun rhythmic casual beat’ em up | Punch Kick Duck - First Impressions"
-description: "You are imprisoned at the bottom of a tower and have escaped. Your fellow animals are out to stop you from going up and escaping. As luck would have it, you can do three simple moves; Punch Kick Duck, and that’s the title of the game. That’s all you need really, to stop them from stopping you in this fun and lovely rhythmic beat ‘em up made specifically for mobile phones."
-pubDate: 2023-02-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "punch-kick-duck"]
+author: lyndonguitar
+category: Review
+description: You are imprisoned at the bottom of a tower and have escaped. Your fellow
+  animals are out to stop you from going up and escaping. As luck would have it, you
+  can do three simple moves; Punch Kick Duck, and that’s the title of the game. That’s
+  all you need really, to stop them from stopping you in this fun and lovely rhythmic
+  beat ‘em up made specifically for mobile phones.
 featured: false
-thumb: "/images/reviews/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-0.avif"
+pubDate: 2023-02-04
+tags:
+- taptap
+- punch-kick-duck
+thumb: /images/reviews/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-0.avif
+title: A fun rhythmic casual beat’ em up | Punch Kick Duck - First Impressions
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "A middle ground between Call of Duty: Warzone and Apex Legends | Soft Launch Review - Blood Strike"
-description: "Blood Strike - FPS for allGlobal"
-pubDate: 2023-09-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "fps-for-all"]
+author: lyndonguitar
+category: Review
+description: Blood Strike - FPS for allGlobal
 featured: false
-thumb: "/images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-0.avif"
+pubDate: 2023-09-18
+tags:
+- taptap
+- fps-for-all
+thumb: /images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-0.avif
+title: 'A middle ground between Call of Duty: Warzone and Apex Legends | Soft Launch
+  Review - Blood Strike'
 ---
 
 <div class="gallery">

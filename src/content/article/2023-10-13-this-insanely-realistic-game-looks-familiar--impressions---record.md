@@ -1,12 +1,16 @@
 ---
-title: "This insanely realistic game looks familiar? | Impressions - REC.O.R.D."
-description: "REC.O.R.D. is a mobile FPS game with ultra-realistic graphics, it use body cam-style first-person perspective, blending seamlessly with photorealistic visuals and animations resulting in terrifyingly lifelike visuals."
-pubDate: 2023-10-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "unrecord"]
+author: lyndonguitar
+category: Review
+description: REC.O.R.D. is a mobile FPS game with ultra-realistic graphics, it use
+  body cam-style first-person perspective, blending seamlessly with photorealistic
+  visuals and animations resulting in terrifyingly lifelike visuals.
 featured: false
-thumb: ""
+pubDate: 2023-10-13
+tags:
+- taptap
+- unrecord
+thumb: ''
+title: This insanely realistic game looks familiar? | Impressions - REC.O.R.D.
 ---
 
 REC.O.R.D. is a mobile FPS game with ultra-realistic graphics, it use body cam-style first-person perspective, blending seamlessly with photorealistic visuals and animations resulting in terrifyingly lifelike visuals.

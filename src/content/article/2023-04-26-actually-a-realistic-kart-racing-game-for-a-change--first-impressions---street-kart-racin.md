@@ -1,12 +1,15 @@
 ---
-title: "Actually a realistic Kart Racing game for a change | First Impressions - Street Kart Racing"
-description: "Street Kart Racing"
-pubDate: 2023-04-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "street-kart-racing"]
+author: lyndonguitar
+category: Review
+description: Street Kart Racing
 featured: false
-thumb: "/images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-0.avif"
+pubDate: 2023-04-26
+tags:
+- taptap
+- street-kart-racing
+thumb: /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-0.avif
+title: Actually a realistic Kart Racing game for a change | First Impressions - Street
+  Kart Racing
 ---
 
 <div class="gallery">

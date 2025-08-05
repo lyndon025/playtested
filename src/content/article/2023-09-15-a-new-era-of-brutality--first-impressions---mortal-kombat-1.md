@@ -1,12 +1,19 @@
 ---
-title: "A new era of Brutality | First Impressions - Mortal Kombat 1"
-description: "When it comes to fighting games, there are three distinct types of players - those who crave for an immersive story, the folks, friends, and families who gather for local multiplayer showdowns, and the competitive souls who venture into the online arena. Well, personally, I fall into the first two categories, and I can confidently say that Mortal Kombat 1 delivers a fatal knockout punch of fun for both camps."
-pubDate: 2023-09-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mortal-kombat™-1"]
+author: lyndonguitar
+category: Review
+description: When it comes to fighting games, there are three distinct types of players
+  - those who crave for an immersive story, the folks, friends, and families who gather
+  for local multiplayer showdowns, and the competitive souls who venture into the
+  online arena. Well, personally, I fall into the first two categories, and I can
+  confidently say that Mortal Kombat 1 delivers a fatal knockout punch of fun for
+  both camps.
 featured: false
-thumb: ""
+pubDate: 2023-09-15
+tags:
+- taptap
+- mortal-kombat™-1
+thumb: ''
+title: A new era of Brutality | First Impressions - Mortal Kombat 1
 ---
 
 When it comes to fighting games, there are three distinct types of players - those who crave for an immersive story, the folks, friends, and families who gather for local multiplayer showdowns, and the competitive souls who venture into the online arena. Well, personally, I fall into the first two categories, and I can confidently say that Mortal Kombat 1 delivers a fatal knockout punch of fun for both camps.

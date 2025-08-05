@@ -1,12 +1,15 @@
 ---
-title: "Plenty of game modes, plenty of fun | Review - Brawl Stars"
-description: "Brawl StarsGlobal"
-pubDate: 2023-10-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "brawl-stars"]
+author: lyndonguitar
+category: Review
+description: Brawl StarsGlobal
 featured: false
-thumb: "/images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-0.avif"
+pubDate: 2023-10-24
+score: 8.0
+tags:
+- taptap
+- brawl-stars
+thumb: /images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-0.avif
+title: Plenty of game modes, plenty of fun | Review - Brawl Stars
 ---
 
 <div class="gallery">

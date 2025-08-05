@@ -1,12 +1,14 @@
 ---
-title: "Modern but retro, simple yet refreshing | Review - Roto Force"
-description: "Roto Force"
-pubDate: 2023-07-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "roto-force"]
+author: lyndonguitar
+category: Review
+description: Roto Force
 featured: false
-thumb: "/images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-0.avif"
+pubDate: 2023-07-17
+tags:
+- taptap
+- roto-force
+thumb: /images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-0.avif
+title: Modern but retro, simple yet refreshing | Review - Roto Force
 ---
 
 <div class="gallery">

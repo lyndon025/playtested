@@ -1,12 +1,15 @@
 ---
-title: "Only for those looking to punish and frustrate themselves | Review - Dumb Ways to Climb"
-description: "Dumb Ways to Climb"
-pubDate: 2023-07-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dumb-ways-to-climb"]
+author: lyndonguitar
+category: Review
+description: Dumb Ways to Climb
 featured: false
-thumb: "/images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-0.avif"
+pubDate: 2023-07-18
+tags:
+- taptap
+- dumb-ways-to-climb
+thumb: /images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-0.avif
+title: Only for those looking to punish and frustrate themselves | Review - Dumb Ways
+  to Climb
 ---
 
 <div class="gallery">

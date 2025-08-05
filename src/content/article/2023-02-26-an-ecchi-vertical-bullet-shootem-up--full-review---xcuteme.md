@@ -1,12 +1,15 @@
 ---
-title: "An Ecchi vertical bullet shoot’em up | Full Review - XCUTE(me)"
-description: "XCUTE(me) is a vertical scrolling bullet-hell shoot'em up game (AKA “shmups”), featuring cell-shaded graphics and anime-inspired female ecchi characters."
-pubDate: 2023-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "xcute(me)"]
+author: lyndonguitar
+category: Review
+description: XCUTE(me) is a vertical scrolling bullet-hell shoot'em up game (AKA “shmups”),
+  featuring cell-shaded graphics and anime-inspired female ecchi characters.
 featured: false
-thumb: "/images/reviews/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-0.avif"
+pubDate: 2023-02-26
+tags:
+- taptap
+- xcute(me)
+thumb: /images/reviews/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-0.avif
+title: An Ecchi vertical bullet shoot’em up | Full Review - XCUTE(me)
 ---
 
 <div class="gallery">

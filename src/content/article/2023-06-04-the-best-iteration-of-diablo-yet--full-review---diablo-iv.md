@@ -1,12 +1,14 @@
 ---
-title: "The best iteration of Diablo yet | Full Review - Diablo IV"
-description: "Diablo® IV"
-pubDate: 2023-06-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "diablo®-iv"]
+author: lyndonguitar
+category: Review
+description: Diablo® IV
 featured: false
-thumb: "/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif"
+pubDate: 2023-06-04
+tags:
+- taptap
+- diablo®-iv
+thumb: /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif
+title: The best iteration of Diablo yet | Full Review - Diablo IV
 ---
 
 <div class="gallery">

@@ -1,12 +1,17 @@
 ---
-title: "This spellcasting rogue-lite hit is now on mobile | Impressions - Wizard of Legend Mobile"
-description: "Recently, I had the opportunity to try Wizard of Legend Mobile, the mobile port of the popular Wizard of Legend originally released on PC in 2018 and on other consoles.  Well, it's basically the same game just on your mobile phone."
-pubDate: 2023-10-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wizard-of-legend"]
+author: lyndonguitar
+category: Review
+description: Recently, I had the opportunity to try Wizard of Legend Mobile, the mobile
+  port of the popular Wizard of Legend originally released on PC in 2018 and on other
+  consoles.  Well, it's basically the same game just on your mobile phone.
 featured: false
-thumb: ""
+pubDate: 2023-10-27
+tags:
+- taptap
+- wizard-of-legend
+thumb: ''
+title: This spellcasting rogue-lite hit is now on mobile | Impressions - Wizard of
+  Legend Mobile
 ---
 
 Recently, I had the opportunity to try Wizard of Legend Mobile, the mobile port of the popular Wizard of Legend originally released on PC in 2018 and on other consoles.  Well, it's basically the same game just on your mobile phone.

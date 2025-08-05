@@ -1,12 +1,16 @@
 ---
-title: "Faithful to what made the first game great while introducing new features | Review - Ghostrunner 2"
-description: "Ghostrunner 2"
-pubDate: 2023-10-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ghostrunner"]
+author: lyndonguitar
+category: Review
+description: Ghostrunner 2
 featured: false
-thumb: "/images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-0.avif"
+pubDate: 2023-10-27
+score: 8.0
+tags:
+- taptap
+- ghostrunner
+thumb: /images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-0.avif
+title: Faithful to what made the first game great while introducing new features |
+  Review - Ghostrunner 2
 ---
 
 <div class="gallery">

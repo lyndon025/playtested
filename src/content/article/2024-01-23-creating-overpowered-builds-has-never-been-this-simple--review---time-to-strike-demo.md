@@ -1,12 +1,16 @@
 ---
-title: "Creating overpowered builds has never been this simple | Review - Time to Strike (Demo)"
-description: "Time to Strike"
-pubDate: 2024-01-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "time-to-strike"]
+author: lyndonguitar
+category: Review
+description: Time to Strike
 featured: false
-thumb: "/images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-0.avif"
+pubDate: 2024-01-23
+score: 7.0
+tags:
+- taptap
+- time-to-strike
+thumb: /images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-0.avif
+title: Creating overpowered builds has never been this simple | Review - Time to Strike
+  (Demo)
 ---
 
 <div class="gallery">

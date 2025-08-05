@@ -1,12 +1,14 @@
 ---
-title: "A contender for WGOTY | Review - The Walking Dead: Destinies"
-description: "The Walking Dead: Destinies"
-pubDate: 2023-11-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-walking-dead:-destinies"]
+author: lyndonguitar
+category: Review
+description: 'The Walking Dead: Destinies'
 featured: false
-thumb: "/images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-0.avif"
+pubDate: 2023-11-20
+tags:
+- taptap
+- the-walking-dead:-destinies
+thumb: /images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-0.avif
+title: 'A contender for WGOTY | Review - The Walking Dead: Destinies'
 ---
 
 <div class="gallery">

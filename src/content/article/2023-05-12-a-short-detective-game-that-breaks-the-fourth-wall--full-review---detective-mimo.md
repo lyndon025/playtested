@@ -1,12 +1,15 @@
 ---
-title: "A short detective game that breaks the fourth wall | Full Review - Detective Mimo"
-description: "Detective Mimo"
-pubDate: 2023-05-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "detective-mimo"]
+author: lyndonguitar
+category: Review
+description: Detective Mimo
 featured: false
-thumb: "/images/reviews/2023-05-12-a-short-detective-game-that-breaks-the-fourth-wall--full-review---detective-mimo-0.avif"
+pubDate: 2023-05-12
+tags:
+- taptap
+- detective-mimo
+thumb: /images/reviews/2023-05-12-a-short-detective-game-that-breaks-the-fourth-wall--full-review---detective-mimo-0.avif
+title: A short detective game that breaks the fourth wall | Full Review - Detective
+  Mimo
 ---
 
 <div class="gallery">

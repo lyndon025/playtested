@@ -1,12 +1,17 @@
 ---
-title: "An adventurous table-top inspired RPG card game | Review - Voice of Cards: The Forsaken Maiden"
-description: "Voice of Cards: The Forsaken Maiden is a table-top RPG game in video game format. It has recently been ported to the Android and iOS Mobile platforms, after first releasing back in 2022 for Playstation 4, Nintendo Switch, and PC."
-pubDate: 2023-03-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "voc:-the-forsaken-maiden"]
+author: lyndonguitar
+category: Review
+description: 'Voice of Cards: The Forsaken Maiden is a table-top RPG game in video
+  game format. It has recently been ported to the Android and iOS Mobile platforms,
+  after first releasing back in 2022 for Playstation 4, Nintendo Switch, and PC.'
 featured: false
-thumb: "/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-0.avif"
+pubDate: 2023-03-26
+tags:
+- taptap
+- voc:-the-forsaken-maiden
+thumb: /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-0.avif
+title: 'An adventurous table-top inspired RPG card game | Review - Voice of Cards:
+  The Forsaken Maiden'
 ---
 
 <div class="gallery">

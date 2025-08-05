@@ -1,12 +1,16 @@
 ---
-title: "The worst campaign in perhaps all of COD? | Review - Call of Duty: Modern Warfare III Campaign"
-description: "✨Overview"
-pubDate: 2023-11-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "call-of-duty®:-warzone™"]
+author: lyndonguitar
+category: Review
+description: ✨Overview
 featured: false
-thumb: "/images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-0.avif"
+pubDate: 2023-11-07
+score: 3.0
+tags:
+- taptap
+- call-of-duty®:-warzone™
+thumb: /images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-0.avif
+title: 'The worst campaign in perhaps all of COD? | Review - Call of Duty: Modern
+  Warfare III Campaign'
 ---
 
 <div class="gallery">

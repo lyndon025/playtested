@@ -1,20 +1,26 @@
 ---
-title: "One of the most naturally cinematic games I've played in recent years | Helldivers 2 - Review"
-description: "For the past few months, there is only one game that has mostly kept me busy playing throughout sleepness nights and weekends, and you're probably tired of hearing about it. Helldivers 2. A coop shooter with hardcore elements and action-packed cinematic gameplay."
-pubDate: 2024-07-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "Helldivers 2"]
+author: lyndonguitar
+category: Review
+description: For the past few months, there is only one game that has mostly kept
+  me busy playing throughout sleepness nights and weekends, and you're probably tired
+  of hearing about it. Helldivers 2. A coop shooter with hardcore elements and action-packed
+  cinematic gameplay.
 featured: true
-score: 9
-thumb: "/images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-0.avif"
 gallery:
-  - /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-0.avif
-  - /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-1.avif
-  - /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-2.avif
-  - /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-3.avif
-  - /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-4.avif
-  - /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-5.avif
+- /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-0.avif
+- /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-1.avif
+- /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-2.avif
+- /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-3.avif
+- /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-4.avif
+- /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-5.avif
+pubDate: 2024-07-26
+score: 9.0
+tags:
+- taptap
+- Helldivers 2
+thumb: /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-0.avif
+title: One of the most naturally cinematic games I've played in recent years | Helldivers
+  2 - Review
 ---
 
 <div class="gallery">

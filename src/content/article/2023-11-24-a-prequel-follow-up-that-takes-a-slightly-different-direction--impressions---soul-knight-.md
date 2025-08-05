@@ -1,12 +1,19 @@
 ---
-title: "A prequel follow-up that takes a slightly different direction | Impressions - Soul Knight Prequel"
-description: "Soul Knight Prequel marks a departure from the rogue-lite roots of its predecessor, introducing players to an adjacent genre: ARPGs. Boasting its own narrative set before the events of the original Soul Knight, unique characters, and a blend of pixel art and 3D graphics, Soul Knight Prequel aims to captivate both fans of the original and newcomers alike."
-pubDate: 2023-11-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "soul-knight"]
+author: lyndonguitar
+category: Review
+description: 'Soul Knight Prequel marks a departure from the rogue-lite roots of its
+  predecessor, introducing players to an adjacent genre: ARPGs. Boasting its own narrative
+  set before the events of the original Soul Knight, unique characters, and a blend
+  of pixel art and 3D graphics, Soul Knight Prequel aims to captivate both fans of
+  the original and newcomers alike.'
 featured: false
-thumb: ""
+pubDate: 2023-11-24
+tags:
+- taptap
+- soul-knight
+thumb: ''
+title: A prequel follow-up that takes a slightly different direction | Impressions
+  - Soul Knight Prequel
 ---
 
 Soul Knight Prequel marks a departure from the rogue-lite roots of its predecessor, introducing players to an adjacent genre: ARPGs. Boasting its own narrative set before the events of the original Soul Knight, unique characters, and a blend of pixel art and 3D graphics, Soul Knight Prequel aims to captivate both fans of the original and newcomers alike.

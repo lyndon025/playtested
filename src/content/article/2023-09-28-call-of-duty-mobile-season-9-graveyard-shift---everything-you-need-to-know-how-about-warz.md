@@ -1,12 +1,15 @@
 ---
-title: "Call of Duty Mobile Season 9: Graveyard Shift - Everything you need to know (How about Warzone?)"
-description: "Call of Duty: Mobile Season 7US"
-pubDate: 2023-09-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "garena"]
+author: lyndonguitar
+category: Review
+description: 'Call of Duty: Mobile Season 7US'
 featured: false
-thumb: "/images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-0.avif"
+pubDate: 2023-09-28
+tags:
+- taptap
+- garena
+thumb: /images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-0.avif
+title: 'Call of Duty Mobile Season 9: Graveyard Shift - Everything you need to know
+  (How about Warzone?)'
 ---
 
 <div class="gallery">

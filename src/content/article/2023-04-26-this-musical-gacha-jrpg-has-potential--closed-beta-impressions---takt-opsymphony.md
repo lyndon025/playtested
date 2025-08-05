@@ -1,12 +1,14 @@
 ---
-title: "This musical gacha JRPG has potential | Closed Beta Impressions - Takt Op.Symphony"
-description: "takt op. SymphonyGlobal"
-pubDate: 2023-04-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "takt-op.-symphony"]
+author: lyndonguitar
+category: Review
+description: takt op. SymphonyGlobal
 featured: false
-thumb: "/images/reviews/2023-04-26-this-musical-gacha-jrpg-has-potential--closed-beta-impressions---takt-opsymphony-0.avif"
+pubDate: 2023-04-26
+tags:
+- taptap
+- takt-op.-symphony
+thumb: /images/reviews/2023-04-26-this-musical-gacha-jrpg-has-potential--closed-beta-impressions---takt-opsymphony-0.avif
+title: This musical gacha JRPG has potential | Closed Beta Impressions - Takt Op.Symphony
 ---
 
 <div class="gallery">

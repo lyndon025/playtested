@@ -1,12 +1,15 @@
 ---
-title: "[Indie Spotlight] Rhythm and Storytelling for your ears | Review - Concerto on White (Demo)"
-description: "Concerto on White"
-pubDate: 2023-09-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "concerto-on-white"]
+author: lyndonguitar
+category: Review
+description: Concerto on White
 featured: false
-thumb: "/images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-0.avif"
+pubDate: 2023-09-23
+tags:
+- taptap
+- concerto-on-white
+thumb: /images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-0.avif
+title: '[Indie Spotlight] Rhythm and Storytelling for your ears | Review - Concerto
+  on White (Demo)'
 ---
 
 <div class="gallery">

@@ -1,12 +1,17 @@
 ---
-title: "Retro Dead Redemption?? | First Impressions - Kill the Crows"
-description: "Kill the Crows thrusts players into a world fraught with danger and overwhelming vengeance. The story follows a gunslinger consumed by the fire of retribution, wandering through the ruins of a forsaken wild west town and attacked by an onslaught of enemies, both regular goons and those with supernatural abilities."
-pubDate: 2023-08-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kill-the-crows"]
+author: lyndonguitar
+category: Review
+description: Kill the Crows thrusts players into a world fraught with danger and overwhelming
+  vengeance. The story follows a gunslinger consumed by the fire of retribution, wandering
+  through the ruins of a forsaken wild west town and attacked by an onslaught of enemies,
+  both regular goons and those with supernatural abilities.
 featured: false
-thumb: ""
+pubDate: 2023-08-23
+tags:
+- taptap
+- kill-the-crows
+thumb: ''
+title: Retro Dead Redemption?? | First Impressions - Kill the Crows
 ---
 
 Kill the Crows thrusts players into a world fraught with danger and overwhelming vengeance. The story follows a gunslinger consumed by the fire of retribution, wandering through the ruins of a forsaken wild west town and attacked by an onslaught of enemies, both regular goons and those with supernatural abilities.

@@ -1,12 +1,19 @@
 ---
-title: "It could give Hogwarts: Legacy a run for its money | Impressions - Harry Potter: Magic Awakened"
-description: "Harry Potter: Magic Awakened re-introduces us to the world of wizarding once again, following a similar path to the one Harry Potter took, with Hagrid guiding us and leading us through Diagon Alley for school supplies. It allows us to customize our appearance and attire, introduces us to the deck-based combat system, and lets us choose owls as companions, among many other features."
-pubDate: 2023-06-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "harry-potter:-magic-awakened"]
+author: lyndonguitar
+category: Review
+description: 'Harry Potter: Magic Awakened re-introduces us to the world of wizarding
+  once again, following a similar path to the one Harry Potter took, with Hagrid guiding
+  us and leading us through Diagon Alley for school supplies. It allows us to customize
+  our appearance and attire, introduces us to the deck-based combat system, and lets
+  us choose owls as companions, among many other features.'
 featured: false
-thumb: ""
+pubDate: 2023-06-06
+tags:
+- taptap
+- harry-potter:-magic-awakened
+thumb: ''
+title: 'It could give Hogwarts: Legacy a run for its money | Impressions - Harry Potter:
+  Magic Awakened'
 ---
 
 Harry Potter: Magic Awakened re-introduces us to the world of wizarding once again, following a similar path to the one Harry Potter took, with Hagrid guiding us and leading us through Diagon Alley for school supplies. It allows us to customize our appearance and attire, introduces us to the deck-based combat system, and lets us choose owls as companions, among many other features.

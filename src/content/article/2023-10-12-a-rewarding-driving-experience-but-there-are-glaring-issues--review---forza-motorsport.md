@@ -1,12 +1,16 @@
 ---
-title: "A rewarding driving experience, but there are glaring issues | Review - Forza Motorsport"
-description: "Forza Motorsport"
-pubDate: 2023-10-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "forza-motorsport"]
+author: lyndonguitar
+category: Review
+description: Forza Motorsport
 featured: false
-thumb: "/images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-0.avif"
+pubDate: 2023-10-12
+score: 6.0
+tags:
+- taptap
+- forza-motorsport
+thumb: /images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-0.avif
+title: A rewarding driving experience, but there are glaring issues | Review - Forza
+  Motorsport
 ---
 
 <div class="gallery">

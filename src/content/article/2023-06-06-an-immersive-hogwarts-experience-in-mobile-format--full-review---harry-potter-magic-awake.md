@@ -1,12 +1,15 @@
 ---
-title: "An immersive Hogwarts experience in mobile format | Full Review - Harry Potter: Magic Awakened"
-description: "Harry Potter: Magic AwakenedUS"
-pubDate: 2023-06-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "harry-potter:-magic-awakened"]
+author: lyndonguitar
+category: Review
+description: 'Harry Potter: Magic AwakenedUS'
 featured: false
-thumb: "/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-0.avif"
+pubDate: 2023-06-06
+tags:
+- taptap
+- harry-potter:-magic-awakened
+thumb: /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-0.avif
+title: 'An immersive Hogwarts experience in mobile format | Full Review - Harry Potter:
+  Magic Awakened'
 ---
 
 <div class="gallery">

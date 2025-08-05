@@ -1,12 +1,14 @@
 ---
-title: "A reskinned FIFA Mobile or much more? | EA Sports FC Mobile Beta - First Impressions"
-description: "EA Sports FC 24"
-pubDate: 2023-08-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ea-sports-fc-24"]
+author: lyndonguitar
+category: Review
+description: EA Sports FC 24
 featured: false
-thumb: "/images/reviews/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-0.avif"
+pubDate: 2023-08-06
+tags:
+- taptap
+- ea-sports-fc-24
+thumb: /images/reviews/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-0.avif
+title: A reskinned FIFA Mobile or much more? | EA Sports FC Mobile Beta - First Impressions
 ---
 
 <div class="gallery">

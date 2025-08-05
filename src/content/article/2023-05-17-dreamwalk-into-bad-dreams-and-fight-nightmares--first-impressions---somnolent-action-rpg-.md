@@ -1,12 +1,15 @@
 ---
-title: "Dreamwalk into bad dreams and fight nightmares | First Impressions - Somnolent: Action RPG Fantasy"
-description: "Somnolent: Action RPG Fantasy"
-pubDate: 2023-05-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "somnolent:-action-rpg-fantasy"]
+author: lyndonguitar
+category: Review
+description: 'Somnolent: Action RPG Fantasy'
 featured: false
-thumb: "/images/reviews/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--0.avif"
+pubDate: 2023-05-17
+tags:
+- taptap
+- somnolent:-action-rpg-fantasy
+thumb: /images/reviews/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--0.avif
+title: 'Dreamwalk into bad dreams and fight nightmares | First Impressions - Somnolent:
+  Action RPG Fantasy'
 ---
 
 <div class="gallery">

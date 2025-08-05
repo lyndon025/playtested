@@ -1,12 +1,14 @@
 ---
-title: "A dreamy puzzle game with a unique concept | Full Review - HUMANITY"
-description: "HUMANITY"
-pubDate: 2023-05-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "humanity"]
+author: lyndonguitar
+category: Review
+description: HUMANITY
 featured: false
-thumb: "/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif"
+pubDate: 2023-05-19
+tags:
+- taptap
+- humanity
+thumb: /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif
+title: A dreamy puzzle game with a unique concept | Full Review - HUMANITY
 ---
 
 <div class="gallery">

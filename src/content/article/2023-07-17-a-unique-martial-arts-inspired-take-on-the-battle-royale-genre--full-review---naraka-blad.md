@@ -1,12 +1,15 @@
 ---
-title: "A unique martial arts-inspired take on the battle royale genre | Full Review - NARAKA: BLADEPOINT"
-description: "NARAKA: BLADEPOINT"
-pubDate: 2023-07-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "naraka:-bladepoint"]
+author: lyndonguitar
+category: Review
+description: 'NARAKA: BLADEPOINT'
 featured: false
-thumb: "/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-0.avif"
+pubDate: 2023-07-17
+tags:
+- taptap
+- naraka:-bladepoint
+thumb: /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-0.avif
+title: 'A unique martial arts-inspired take on the battle royale genre | Full Review
+  - NARAKA: BLADEPOINT'
 ---
 
 <div class="gallery">

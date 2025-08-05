@@ -1,12 +1,16 @@
 ---
-title: "A potential 2023 GOTY? | Trailer Impressions - Zelda: Tears of the Kingdom"
-description: "This is it. Another trailer for The Legend of Zelda: Tears of the Kingdom has finally dropped, one month before the release date, and I am very, very excited from what I've seen so far."
-pubDate: 2023-04-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-legend-of-zelda:-tears-of-the-kingdom-(ns)"]
+author: lyndonguitar
+category: Review
+description: 'This is it. Another trailer for The Legend of Zelda: Tears of the Kingdom
+  has finally dropped, one month before the release date, and I am very, very excited
+  from what I''ve seen so far.'
 featured: false
-thumb: "/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-0.avif"
+pubDate: 2023-04-15
+tags:
+- taptap
+- the-legend-of-zelda:-tears-of-the-kingdom-(ns)
+thumb: /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-0.avif
+title: 'A potential 2023 GOTY? | Trailer Impressions - Zelda: Tears of the Kingdom'
 ---
 
 <div class="gallery">

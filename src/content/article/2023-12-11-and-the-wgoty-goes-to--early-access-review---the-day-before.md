@@ -1,12 +1,15 @@
 ---
-title: "And the WGOTY goes to… | Early Access Review - The Day Before"
-description: "The Day Before"
-pubDate: 2023-12-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-day-before"]
+author: lyndonguitar
+category: Review
+description: The Day Before
 featured: false
-thumb: "/images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-0.avif"
+pubDate: 2023-12-11
+score: 1.0
+tags:
+- taptap
+- the-day-before
+thumb: /images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-0.avif
+title: And the WGOTY goes to… | Early Access Review - The Day Before
 ---
 
 <div class="gallery">

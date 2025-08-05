@@ -1,12 +1,15 @@
 ---
-title: "A disjointed, slow, and disappointing experience | Review - Disney Realm Breakers"
-description: "Disney Realm Breakers"
-pubDate: 2024-02-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "disney-realm-breakers"]
+author: lyndonguitar
+category: Review
+description: Disney Realm Breakers
 featured: false
-thumb: "/images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-0.avif"
+pubDate: 2024-02-16
+score: 3.0
+tags:
+- taptap
+- disney-realm-breakers
+thumb: /images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-0.avif
+title: A disjointed, slow, and disappointing experience | Review - Disney Realm Breakers
 ---
 
 <div class="gallery">

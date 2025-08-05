@@ -1,12 +1,16 @@
 ---
-title: "A must-play for Mecha and Strategy fans | Full Review - Phantom Brigade"
-description: "Phantom Brigade is turn-based tactical RPG puts players in charge of the Phantom Brigade, a band of mech pilots trying to liberate its land from its oppressive invaders."
-pubDate: 2023-03-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "phantom-brigade"]
+author: lyndonguitar
+category: Review
+description: Phantom Brigade is turn-based tactical RPG puts players in charge of
+  the Phantom Brigade, a band of mech pilots trying to liberate its land from its
+  oppressive invaders.
 featured: false
-thumb: "/images/reviews/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-0.avif"
+pubDate: 2023-03-01
+tags:
+- taptap
+- phantom-brigade
+thumb: /images/reviews/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-0.avif
+title: A must-play for Mecha and Strategy fans | Full Review - Phantom Brigade
 ---
 
 <div class="gallery">

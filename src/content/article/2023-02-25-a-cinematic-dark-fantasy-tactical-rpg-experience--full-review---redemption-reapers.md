@@ -1,12 +1,16 @@
 ---
-title: "A cinematic dark fantasy Tactical RPG experience | Full Review - Redemption Reapers"
-description: "Redemption Reapers is a dark fantasy Tactical / Strategy RPG game with heavy narrative elements and a challenging turn-based tactics gameplay."
-pubDate: 2023-02-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "redemption-reapers"]
+author: lyndonguitar
+category: Review
+description: Redemption Reapers is a dark fantasy Tactical / Strategy RPG game with
+  heavy narrative elements and a challenging turn-based tactics gameplay.
 featured: false
-thumb: "/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-0.avif"
+pubDate: 2023-02-25
+tags:
+- taptap
+- redemption-reapers
+thumb: /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-0.avif
+title: A cinematic dark fantasy Tactical RPG experience | Full Review - Redemption
+  Reapers
 ---
 
 <div class="gallery">

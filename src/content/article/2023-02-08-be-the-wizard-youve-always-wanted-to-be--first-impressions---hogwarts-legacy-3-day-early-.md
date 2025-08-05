@@ -1,12 +1,18 @@
 ---
-title: "Be the wizard you’ve always wanted to be! | First Impressions - Hogwarts Legacy (3-Day Early Access)"
-description: "One of the most hyped games in recent years is a few days away! Hogwarts Legacy is a single player open-world action RPG set in the Harry Potter world. It takes place long before the events of the actual books / movies in a sort of a prequel setup, like the Star Wars Knights of the Old Republic games."
-pubDate: 2023-02-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hogwarts-legacy"]
+author: lyndonguitar
+category: Review
+description: One of the most hyped games in recent years is a few days away! Hogwarts
+  Legacy is a single player open-world action RPG set in the Harry Potter world. It
+  takes place long before the events of the actual books / movies in a sort of a prequel
+  setup, like the Star Wars Knights of the Old Republic games.
 featured: false
-thumb: "/images/reviews/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--0.avif"
+pubDate: 2023-02-08
+tags:
+- taptap
+- hogwarts-legacy
+thumb: /images/reviews/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--0.avif
+title: Be the wizard you’ve always wanted to be! | First Impressions - Hogwarts Legacy
+  (3-Day Early Access)
 ---
 
 <div class="gallery">

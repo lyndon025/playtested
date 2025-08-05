@@ -1,12 +1,14 @@
 ---
-title: "A burst of colorful PvP fun | Beta Review - ColorBANG"
-description: "ColorBANGTest Global"
-pubDate: 2023-12-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "splatoon-3-(ns)"]
+author: lyndonguitar
+category: Review
+description: ColorBANGTest Global
 featured: false
-thumb: "/images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-0.avif"
+pubDate: 2023-12-03
+tags:
+- taptap
+- splatoon-3-(ns)
+thumb: /images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-0.avif
+title: A burst of colorful PvP fun | Beta Review - ColorBANG
 ---
 
 <div class="gallery">

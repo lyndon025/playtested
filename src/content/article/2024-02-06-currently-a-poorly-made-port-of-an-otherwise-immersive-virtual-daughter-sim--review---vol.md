@@ -1,12 +1,16 @@
 ---
-title: "Currently a poorly made port of an otherwise immersive virtual daughter sim | Review - Volcano Girl"
-description: "Volcano Girl"
-pubDate: 2024-02-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "volcano-princess"]
+author: lyndonguitar
+category: Review
+description: Volcano Girl
 featured: false
-thumb: "/images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-0.avif"
+pubDate: 2024-02-06
+score: 5.0
+tags:
+- taptap
+- volcano-princess
+thumb: /images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-0.avif
+title: Currently a poorly made port of an otherwise immersive virtual daughter sim
+  | Review - Volcano Girl
 ---
 
 <div class="gallery">

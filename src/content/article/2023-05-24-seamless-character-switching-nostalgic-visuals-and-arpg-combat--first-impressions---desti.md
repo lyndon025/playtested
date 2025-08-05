@@ -1,12 +1,15 @@
 ---
-title: "Seamless character switching, nostalgic visuals, and ARPG combat | First Impressions - Destiny Saga"
-description: "Destiny Saga"
-pubDate: 2023-05-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "destiny-saga"]
+author: lyndonguitar
+category: Review
+description: Destiny Saga
 featured: false
-thumb: "/images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-0.avif"
+pubDate: 2023-05-24
+tags:
+- taptap
+- destiny-saga
+thumb: /images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-0.avif
+title: Seamless character switching, nostalgic visuals, and ARPG combat | First Impressions
+  - Destiny Saga
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "Shoot your way out of this alien planet | First Impressions - Scars Above"
-description: "Stranded on a hostile alien planet, crew is missing, you need to survive in this third person sci-fi shooter game - Scars Above."
-pubDate: 2023-03-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "scars-above"]
+author: lyndonguitar
+category: Review
+description: Stranded on a hostile alien planet, crew is missing, you need to survive
+  in this third person sci-fi shooter game - Scars Above.
 featured: false
-thumb: "/images/reviews/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-0.avif"
+pubDate: 2023-03-02
+tags:
+- taptap
+- scars-above
+thumb: /images/reviews/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-0.avif
+title: Shoot your way out of this alien planet | First Impressions - Scars Above
 ---
 
 <div class="gallery">

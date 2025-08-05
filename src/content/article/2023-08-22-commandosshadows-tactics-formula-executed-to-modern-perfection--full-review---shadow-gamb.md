@@ -1,12 +1,15 @@
 ---
-title: "Commandos/Shadows Tactics formula executed to modern perfection | Full Review - Shadow Gambit"
-description: "Shadow Gambit: The Cursed Crew"
-pubDate: 2023-08-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "shadow-gambit:-the-cursed-crew"]
+author: lyndonguitar
+category: Review
+description: 'Shadow Gambit: The Cursed Crew'
 featured: false
-thumb: "/images/reviews/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-0.avif"
+pubDate: 2023-08-22
+tags:
+- taptap
+- shadow-gambit:-the-cursed-crew
+thumb: /images/reviews/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-0.avif
+title: Commandos/Shadows Tactics formula executed to modern perfection | Full Review
+  - Shadow Gambit
 ---
 
 <div class="gallery">

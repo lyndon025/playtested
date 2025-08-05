@@ -1,12 +1,15 @@
 ---
-title: "The potential of this procedural detective game is through the roof! | Review - Shadows of Doubt"
-description: "Shadows of Doubt"
-pubDate: 2023-04-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "shadows-of-doubt"]
+author: lyndonguitar
+category: Review
+description: Shadows of Doubt
 featured: false
-thumb: "/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--0.avif"
+pubDate: 2023-04-28
+tags:
+- taptap
+- shadows-of-doubt
+thumb: /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--0.avif
+title: The potential of this procedural detective game is through the roof! | Review
+  - Shadows of Doubt
 ---
 
 <div class="gallery">

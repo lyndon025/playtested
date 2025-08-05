@@ -1,12 +1,18 @@
 ---
-title: "ROTK game formula, but made with mobile gaming in mind | First Impressions - Infinite Borders"
-description: "Infinite Borders is an engaging strategy game that transports players to the heart of the Three Kingdoms period. You'll have the chance to align yourself with legendary heroes, conquer new lands, and wage epic battles against formidable foes."
-pubDate: 2023-09-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "infinite-borders"]
+author: lyndonguitar
+category: Review
+description: Infinite Borders is an engaging strategy game that transports players
+  to the heart of the Three Kingdoms period. You'll have the chance to align yourself
+  with legendary heroes, conquer new lands, and wage epic battles against formidable
+  foes.
 featured: false
-thumb: ""
+pubDate: 2023-09-18
+tags:
+- taptap
+- infinite-borders
+thumb: ''
+title: ROTK game formula, but made with mobile gaming in mind | First Impressions
+  - Infinite Borders
 ---
 
 Infinite Borders is an engaging strategy game that transports players to the heart of the Three Kingdoms period. You'll have the chance to align yourself with legendary heroes, conquer new lands, and wage epic battles against formidable foes.

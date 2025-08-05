@@ -1,12 +1,14 @@
 ---
-title: "Addicting Gladiator Spectacle! | We Who Are About to Die | Full In-Depth Review"
-description: "**Pros:**"
-pubDate: 2022-11-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "we-who-are-about-to-die"]
+author: lyndonguitar
+category: Review
+description: '**Pros:**'
 featured: false
-thumb: "/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-0.avif"
+pubDate: 2022-11-16
+tags:
+- taptap
+- we-who-are-about-to-die
+thumb: /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-0.avif
+title: Addicting Gladiator Spectacle! | We Who Are About to Die | Full In-Depth Review
 ---
 
 <div class="gallery">

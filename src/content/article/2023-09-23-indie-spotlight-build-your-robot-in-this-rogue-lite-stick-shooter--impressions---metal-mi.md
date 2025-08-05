@@ -1,12 +1,19 @@
 ---
-title: "[Indie Spotlight] Build your robot in this rogue-lite stick shooter | Impressions - Metal Mind"
-description: "If you have played twin-stick shooters and retro pixel-style rogue-lites, then Metal Mind  should feel familiar you, The gameplay mechanics of Metal Mind follow a classic twin-stick shooter formula, but with a twist. It’s actually a “single-stick” shooter because aiming is already done automatically. You just have to fire the weapon, or activate abilities."
-pubDate: 2023-09-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "metal-mind"]
+author: lyndonguitar
+category: Review
+description: If you have played twin-stick shooters and retro pixel-style rogue-lites,
+  then Metal Mind  should feel familiar you, The gameplay mechanics of Metal Mind
+  follow a classic twin-stick shooter formula, but with a twist. It’s actually a “single-stick”
+  shooter because aiming is already done automatically. You just have to fire the
+  weapon, or activate abilities.
 featured: false
-thumb: ""
+pubDate: 2023-09-23
+tags:
+- taptap
+- metal-mind
+thumb: ''
+title: '[Indie Spotlight] Build your robot in this rogue-lite stick shooter | Impressions
+  - Metal Mind'
 ---
 
 If you have played twin-stick shooters and retro pixel-style rogue-lites, then Metal Mind  should feel familiar you, The gameplay mechanics of Metal Mind follow a classic twin-stick shooter formula, but with a twist. It’s actually a “single-stick” shooter because aiming is already done automatically. You just have to fire the weapon, or activate abilities.

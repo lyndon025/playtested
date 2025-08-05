@@ -1,12 +1,18 @@
 ---
-title: "Solve intricate puzzles, bend space and time | The House of Da Vinci 3 - First Impressions"
-description: "The House of Da Vinci 3 has come to PC and it is so far an impressive port of a mobile game. Set in the Renaissance era, you play as Giacomo, series protagonist and a friend of Leonardo da Vinci in a puzzle solving adventure across space… as well as time."
-pubDate: 2022-12-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-house-of-da-vinci-3-(pc)"]
+author: lyndonguitar
+category: Review
+description: The House of Da Vinci 3 has come to PC and it is so far an impressive
+  port of a mobile game. Set in the Renaissance era, you play as Giacomo, series protagonist
+  and a friend of Leonardo da Vinci in a puzzle solving adventure across space… as
+  well as time.
 featured: false
-thumb: "/images/reviews/2022-12-24-solve-intricate-puzzles-bend-space-and-time--the-house-of-da-vinci-3---first-impressions-0.avif"
+pubDate: 2022-12-24
+tags:
+- taptap
+- the-house-of-da-vinci-3-(pc)
+thumb: /images/reviews/2022-12-24-solve-intricate-puzzles-bend-space-and-time--the-house-of-da-vinci-3---first-impressions-0.avif
+title: Solve intricate puzzles, bend space and time | The House of Da Vinci 3 - First
+  Impressions
 ---
 
 <div class="gallery">

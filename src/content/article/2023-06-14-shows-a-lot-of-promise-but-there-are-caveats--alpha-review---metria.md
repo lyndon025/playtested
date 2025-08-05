@@ -1,12 +1,14 @@
 ---
-title: "Shows a lot of promise, but there are caveats | Alpha Review - Metria"
-description: "RPG METRIA the Starlight"
-pubDate: 2023-06-14
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rpg-metria-the-starlight"]
+author: lyndonguitar
+category: Review
+description: RPG METRIA the Starlight
 featured: false
-thumb: "/images/reviews/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-0.avif"
+pubDate: 2023-06-14
+tags:
+- taptap
+- rpg-metria-the-starlight
+thumb: /images/reviews/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-0.avif
+title: Shows a lot of promise, but there are caveats | Alpha Review - Metria
 ---
 
 <div class="gallery">

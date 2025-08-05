@@ -1,12 +1,16 @@
 ---
-title: "Pretty solid and exciting, but the visuals seem downgraded? | Demo Review - Final Fantasy 7 Rebirth"
-description: "Final Fantasy VII Rebirth"
-pubDate: 2024-02-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "final-fantasy-vii"]
+author: lyndonguitar
+category: Review
+description: Final Fantasy VII Rebirth
 featured: false
-thumb: "/images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--0.avif"
+pubDate: 2024-02-08
+score: 8.0
+tags:
+- taptap
+- final-fantasy-vii
+thumb: /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--0.avif
+title: Pretty solid and exciting, but the visuals seem downgraded? | Demo Review -
+  Final Fantasy 7 Rebirth
 ---
 
 <div class="gallery">

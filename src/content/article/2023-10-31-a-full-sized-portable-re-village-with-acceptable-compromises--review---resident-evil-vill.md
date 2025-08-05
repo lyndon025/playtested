@@ -1,12 +1,16 @@
 ---
-title: "A full-sized portable RE Village, with acceptable compromises | Review - Resident Evil Village"
-description: "Resident Evil Village"
-pubDate: 2023-10-31
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "resident-evil-2"]
+author: lyndonguitar
+category: Review
+description: Resident Evil Village
 featured: false
-thumb: "/images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-0.avif"
+pubDate: 2023-10-31
+score: 7.0
+tags:
+- taptap
+- resident-evil-2
+thumb: /images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-0.avif
+title: A full-sized portable RE Village, with acceptable compromises | Review - Resident
+  Evil Village
 ---
 
 <div class="gallery">

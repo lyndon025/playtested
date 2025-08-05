@@ -1,12 +1,15 @@
 ---
-title: "Greek gods in the modern world and some good singing | Review - Stray Gods: The Roleplaying Musical"
-description: "Stray Gods: The Roleplaying Musical"
-pubDate: 2023-08-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "stray-gods:-the-roleplaying-musical"]
+author: lyndonguitar
+category: Review
+description: 'Stray Gods: The Roleplaying Musical'
 featured: false
-thumb: "/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-0.avif"
+pubDate: 2023-08-13
+tags:
+- taptap
+- stray-gods:-the-roleplaying-musical
+thumb: /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-0.avif
+title: 'Greek gods in the modern world and some good singing | Review - Stray Gods:
+  The Roleplaying Musical'
 ---
 
 <div class="gallery">

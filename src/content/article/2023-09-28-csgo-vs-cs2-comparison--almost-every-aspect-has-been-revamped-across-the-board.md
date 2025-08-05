@@ -1,12 +1,17 @@
 ---
-title: "CS:GO vs CS2 comparison | Almost every aspect has been revamped across the board"
-description: "With CS2, Almost every aspect of CS has been revamped across the board: visuals, presentation, gameplay, mechanics, and connectivity, all while still maintaining that familiar Counter-Strike feel that CS:GO players are used to."
-pubDate: 2023-09-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "counter-strike-2"]
+author: lyndonguitar
+category: Review
+description: 'With CS2, Almost every aspect of CS has been revamped across the board:
+  visuals, presentation, gameplay, mechanics, and connectivity, all while still maintaining
+  that familiar Counter-Strike feel that CS:GO players are used to.'
 featured: false
-thumb: ""
+pubDate: 2023-09-28
+tags:
+- taptap
+- counter-strike-2
+thumb: ''
+title: CS:GO vs CS2 comparison | Almost every aspect has been revamped across the
+  board
 ---
 
 With CS2, Almost every aspect of CS has been revamped across the board: visuals, presentation, gameplay, mechanics, and connectivity, all while still maintaining that familiar Counter-Strike feel that CS:GO players are used to.

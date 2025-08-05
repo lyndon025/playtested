@@ -1,12 +1,14 @@
 ---
-title: "A colorful hack and slash goodness | Full Review - Arto"
-description: "Arto"
-pubDate: 2023-05-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "arto"]
+author: lyndonguitar
+category: Review
+description: Arto
 featured: false
-thumb: "/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-0.avif"
+pubDate: 2023-05-03
+tags:
+- taptap
+- arto
+thumb: /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-0.avif
+title: A colorful hack and slash goodness | Full Review - Arto
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "Pro Evolution Soccer has certainly come a long way | Review - eFootball 2024"
-description: "eFootball™Global"
-pubDate: 2023-09-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "efootball™"]
+author: lyndonguitar
+category: Review
+description: eFootball™Global
 featured: false
-thumb: "/images/reviews/2023-09-08-pro-evolution-soccer-has-certainly-come-a-long-way--review---efootball-2024-0.avif"
+pubDate: 2023-09-08
+tags:
+- taptap
+- efootball™
+thumb: /images/reviews/2023-09-08-pro-evolution-soccer-has-certainly-come-a-long-way--review---efootball-2024-0.avif
+title: Pro Evolution Soccer has certainly come a long way | Review - eFootball 2024
 ---
 
 <div class="gallery">

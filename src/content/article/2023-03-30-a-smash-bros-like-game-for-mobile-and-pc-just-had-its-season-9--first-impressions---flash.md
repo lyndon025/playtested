@@ -1,12 +1,19 @@
 ---
-title: "A Smash Bros-like game for Mobile and PC just had its Season 9 | First Impressions - Flash Party"
-description: "I tried out Flash Party recently, coinciding with the recent update Season 9 and I got to say, after going in blind in playing it, the graphics and gameplay actually wowed me. I am using an old 2018 flagship android phone to play it and the visuals still look crisp and nice with console levels of quality that even looks better than the Switch’s own Super Smash Bros."
-pubDate: 2023-03-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "flash-party-(pc)"]
+author: lyndonguitar
+category: Review
+description: I tried out Flash Party recently, coinciding with the recent update Season
+  9 and I got to say, after going in blind in playing it, the graphics and gameplay
+  actually wowed me. I am using an old 2018 flagship android phone to play it and
+  the visuals still look crisp and nice with console levels of quality that even looks
+  better than the Switch’s own Super Smash Bros.
 featured: false
-thumb: "/images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-0.avif"
+pubDate: 2023-03-30
+tags:
+- taptap
+- flash-party-(pc)
+thumb: /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-0.avif
+title: A Smash Bros-like game for Mobile and PC just had its Season 9 | First Impressions
+  - Flash Party
 ---
 
 <div class="gallery">

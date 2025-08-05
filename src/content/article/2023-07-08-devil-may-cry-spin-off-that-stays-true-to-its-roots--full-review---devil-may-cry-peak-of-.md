@@ -1,12 +1,15 @@
 ---
-title: "Devil May Cry spin-off that stays true to its roots | Full Review - Devil May Cry: Peak of Combat"
-description: "Devil May Cry: Peak of CombatGlobal"
-pubDate: 2023-07-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "devil-may-cry:-peak-of-combat"]
+author: lyndonguitar
+category: Review
+description: 'Devil May Cry: Peak of CombatGlobal'
 featured: false
-thumb: "/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--0.avif"
+pubDate: 2023-07-08
+tags:
+- taptap
+- devil-may-cry:-peak-of-combat
+thumb: /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--0.avif
+title: 'Devil May Cry spin-off that stays true to its roots | Full Review - Devil
+  May Cry: Peak of Combat'
 ---
 
 <div class="gallery">

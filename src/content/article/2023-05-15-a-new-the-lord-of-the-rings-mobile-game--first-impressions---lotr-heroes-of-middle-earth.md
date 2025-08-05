@@ -1,12 +1,15 @@
 ---
-title: "A new The Lord of the Rings mobile game! | First Impressions - LOTR Heroes of Middle Earth"
-description: "The Lord of the Rings: Heroes"
-pubDate: 2023-05-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-lord-of-the-rings:-heroes"]
+author: lyndonguitar
+category: Review
+description: 'The Lord of the Rings: Heroes'
 featured: false
-thumb: "/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-0.avif"
+pubDate: 2023-05-15
+tags:
+- taptap
+- the-lord-of-the-rings:-heroes
+thumb: /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-0.avif
+title: A new The Lord of the Rings mobile game! | First Impressions - LOTR Heroes
+  of Middle Earth
 ---
 
 <div class="gallery">

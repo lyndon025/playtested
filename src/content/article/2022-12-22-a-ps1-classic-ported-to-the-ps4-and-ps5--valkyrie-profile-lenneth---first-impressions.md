@@ -1,12 +1,17 @@
 ---
-title: "A PS1 classic ported to the PS4 and PS5 | Valkyrie Profile: Lenneth - First Impressions"
-description: "Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release the Valkyrie Profile: Lenneth, the recent mobile ports, to now its modern PS4 and PS5 release."
-pubDate: 2022-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "valkyrie-profile:-lenneth"]
+author: lyndonguitar
+category: Review
+description: 'Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release
+  the Valkyrie Profile: Lenneth, the recent mobile ports, to now its modern PS4 and
+  PS5 release.'
 featured: false
-thumb: "/images/reviews/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-0.avif"
+pubDate: 2022-12-22
+tags:
+- taptap
+- valkyrie-profile:-lenneth
+thumb: /images/reviews/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-0.avif
+title: 'A PS1 classic ported to the PS4 and PS5 | Valkyrie Profile: Lenneth - First
+  Impressions'
 ---
 
 <div class="gallery">

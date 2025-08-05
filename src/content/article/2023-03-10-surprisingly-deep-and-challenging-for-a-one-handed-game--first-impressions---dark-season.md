@@ -1,12 +1,18 @@
 ---
-title: "Surprisingly deep and challenging for a one-handed game | First Impressions - Dark Season"
-description: "Dark Season is a brand new RPG mobile game designed for one-handed play. It is currently available on Android only in the Korean Language, an unfortunate news for international players. But barring some language barriers, it is still highly playable and the game is easy to understand."
-pubDate: 2023-03-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dark-season-:-last-hunting"]
+author: lyndonguitar
+category: Review
+description: Dark Season is a brand new RPG mobile game designed for one-handed play.
+  It is currently available on Android only in the Korean Language, an unfortunate
+  news for international players. But barring some language barriers, it is still
+  highly playable and the game is easy to understand.
 featured: false
-thumb: "/images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-0.avif"
+pubDate: 2023-03-10
+tags:
+- taptap
+- dark-season-:-last-hunting
+thumb: /images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-0.avif
+title: Surprisingly deep and challenging for a one-handed game | First Impressions
+  - Dark Season
 ---
 
 <div class="gallery">

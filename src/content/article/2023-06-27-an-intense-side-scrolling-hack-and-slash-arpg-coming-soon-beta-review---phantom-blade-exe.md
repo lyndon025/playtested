@@ -1,12 +1,15 @@
 ---
-title: "An intense side-scrolling hack and slash ARPG coming soon| Beta Review - Phantom Blade: Executioners"
-description: "Phantom Blade: Executioners"
-pubDate: 2023-06-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "phantom-blade:-executioners"]
+author: lyndonguitar
+category: Review
+description: 'Phantom Blade: Executioners'
 featured: false
-thumb: "/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-0.avif"
+pubDate: 2023-06-27
+tags:
+- taptap
+- phantom-blade:-executioners
+thumb: /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-0.avif
+title: 'An intense side-scrolling hack and slash ARPG coming soon| Beta Review - Phantom
+  Blade: Executioners'
 ---
 
 <div class="gallery">

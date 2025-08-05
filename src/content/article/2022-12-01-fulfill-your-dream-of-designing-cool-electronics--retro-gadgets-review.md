@@ -1,12 +1,16 @@
 ---
-title: "Fulfill your dream of designing cool electronics | Retro Gadgets Review"
-description: "There is no better title for this game other than the name itself “Retro Gadgets”. A sandbox game that is all about designing, theory crafting, tinkering, and building retro style electronic contraptions."
-pubDate: 2022-12-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "retro-gadgets"]
+author: lyndonguitar
+category: Review
+description: There is no better title for this game other than the name itself “Retro
+  Gadgets”. A sandbox game that is all about designing, theory crafting, tinkering,
+  and building retro style electronic contraptions.
 featured: false
-thumb: "/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-0.avif"
+pubDate: 2022-12-01
+tags:
+- taptap
+- retro-gadgets
+thumb: /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-0.avif
+title: Fulfill your dream of designing cool electronics | Retro Gadgets Review
 ---
 
 <div class="gallery">

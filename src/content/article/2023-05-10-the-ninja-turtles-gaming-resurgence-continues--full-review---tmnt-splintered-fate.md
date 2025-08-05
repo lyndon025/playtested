@@ -1,12 +1,15 @@
 ---
-title: "The Ninja Turtles' gaming resurgence continues | Full Review - TMNT Splintered Fate"
-description: "TMNT Splintered Fate"
-pubDate: 2023-05-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tmnt-splintered-fate"]
+author: lyndonguitar
+category: Review
+description: TMNT Splintered Fate
 featured: false
-thumb: "/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-0.avif"
+pubDate: 2023-05-10
+tags:
+- taptap
+- tmnt-splintered-fate
+thumb: /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-0.avif
+title: The Ninja Turtles' gaming resurgence continues | Full Review - TMNT Splintered
+  Fate
 ---
 
 <div class="gallery">

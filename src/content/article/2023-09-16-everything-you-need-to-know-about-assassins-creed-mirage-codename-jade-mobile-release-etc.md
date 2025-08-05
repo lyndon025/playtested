@@ -1,12 +1,20 @@
 ---
-title: "Everything you need to know about Assassin's Creed: Mirage (Codename Jade, Mobile Release, etc)"
-description: "Assassin's Creed Mirage is generating a renewed interest in the series due to its promise of returning to the series' classic roots. Unlike recent entries that emphasized open-world exploration and RPG elements, Mirage aims to provide a more linear and story-driven experience. For fans who have longed for the days of parkour, stealth, and close-quarter combat, this return to basics is a welcome back change."
-pubDate: 2023-09-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "assassin's-creed®-unity"]
+author: lyndonguitar
+category: Review
+description: Assassin's Creed Mirage is generating a renewed interest in the series
+  due to its promise of returning to the series' classic roots. Unlike recent entries
+  that emphasized open-world exploration and RPG elements, Mirage aims to provide
+  a more linear and story-driven experience. For fans who have longed for the days
+  of parkour, stealth, and close-quarter combat, this return to basics is a welcome
+  back change.
 featured: false
-thumb: "/images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-0.avif"
+pubDate: 2023-09-16
+tags:
+- taptap
+- assassin's-creed®-unity
+thumb: /images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-0.avif
+title: 'Everything you need to know about Assassin''s Creed: Mirage (Codename Jade,
+  Mobile Release, etc)'
 ---
 
 <div class="gallery">

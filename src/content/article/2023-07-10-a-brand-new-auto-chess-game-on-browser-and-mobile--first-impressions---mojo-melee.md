@@ -1,12 +1,16 @@
 ---
-title: "A brand new auto chess game on browser and mobile | First Impressions - Mojo Melee"
-description: "Mojo Melee is a brand new Auto Chess currently undergoing an open beta test for Android, with Season Zero currently underway."
-pubDate: 2023-07-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mojo-melee:-pvp-auto-chess"]
+author: lyndonguitar
+category: Review
+description: Mojo Melee is a brand new Auto Chess currently undergoing an open beta
+  test for Android, with Season Zero currently underway.
 featured: false
-thumb: ""
+pubDate: 2023-07-10
+tags:
+- taptap
+- mojo-melee:-pvp-auto-chess
+thumb: ''
+title: A brand new auto chess game on browser and mobile | First Impressions - Mojo
+  Melee
 ---
 
 Mojo Melee is a brand new Auto Chess currently undergoing an open beta test for Android, with Season Zero currently underway.

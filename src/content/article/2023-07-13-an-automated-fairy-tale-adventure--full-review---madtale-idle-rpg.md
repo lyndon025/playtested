@@ -1,12 +1,14 @@
 ---
-title: "An automated fairy tale adventure | Full Review - Madtale: Idle RPG"
-description: "Madtale: Idle RPG"
-pubDate: 2023-07-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "madtale:-idle-rpg"]
+author: lyndonguitar
+category: Review
+description: 'Madtale: Idle RPG'
 featured: false
-thumb: "/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif"
+pubDate: 2023-07-13
+tags:
+- taptap
+- madtale:-idle-rpg
+thumb: /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif
+title: 'An automated fairy tale adventure | Full Review - Madtale: Idle RPG'
 ---
 
 <div class="gallery">

@@ -1,12 +1,17 @@
 ---
-title: "An adorable but still gruesome DOOM Mobile spin-off | Full Review - Mighty DOOM"
-description: "Mighty DOOM is a top down single handed rogue-lite shooter set in the DOOM universe. It is available for Android and iOS as a free-to-play title with in-app purchases."
-pubDate: 2023-03-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mighty-doom"]
+author: lyndonguitar
+category: Review
+description: Mighty DOOM is a top down single handed rogue-lite shooter set in the
+  DOOM universe. It is available for Android and iOS as a free-to-play title with
+  in-app purchases.
 featured: false
-thumb: "/images/reviews/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-0.avif"
+pubDate: 2023-03-24
+tags:
+- taptap
+- mighty-doom
+thumb: /images/reviews/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-0.avif
+title: An adorable but still gruesome DOOM Mobile spin-off | Full Review - Mighty
+  DOOM
 ---
 
 <div class="gallery">

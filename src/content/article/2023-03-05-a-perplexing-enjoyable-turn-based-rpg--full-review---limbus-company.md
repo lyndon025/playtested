@@ -1,12 +1,15 @@
 ---
-title: "A perplexing enjoyable turn-based RPG | Full Review - Limbus Company"
-description: "Limbus Company is a narratively driven turn-based RPG game with gacha elements. Made for mobile phones and also ported to PCs."
-pubDate: 2023-03-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "limbus-company"]
+author: lyndonguitar
+category: Review
+description: Limbus Company is a narratively driven turn-based RPG game with gacha
+  elements. Made for mobile phones and also ported to PCs.
 featured: false
-thumb: "/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-0.avif"
+pubDate: 2023-03-05
+tags:
+- taptap
+- limbus-company
+thumb: /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-0.avif
+title: A perplexing enjoyable turn-based RPG | Full Review - Limbus Company
 ---
 
 <div class="gallery">

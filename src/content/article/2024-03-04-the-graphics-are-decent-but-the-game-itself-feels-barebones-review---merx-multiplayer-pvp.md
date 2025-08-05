@@ -1,12 +1,16 @@
 ---
-title: "The graphics are decent, but the game itself feels barebones| Review - MerX: Multiplayer PvP shooter"
-description: "MerX: Multiplayer PvP shooter"
-pubDate: 2024-03-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "merx:-multiplayer-pvp-shooter"]
+author: lyndonguitar
+category: Review
+description: 'MerX: Multiplayer PvP shooter'
 featured: false
-thumb: "/images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-0.avif"
+pubDate: 2024-03-04
+score: 3.0
+tags:
+- taptap
+- merx:-multiplayer-pvp-shooter
+thumb: /images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-0.avif
+title: 'The graphics are decent, but the game itself feels barebones| Review - MerX:
+  Multiplayer PvP shooter'
 ---
 
 <div class="gallery">

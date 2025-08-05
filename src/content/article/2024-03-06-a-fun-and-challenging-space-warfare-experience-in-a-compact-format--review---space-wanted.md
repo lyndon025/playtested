@@ -1,12 +1,16 @@
 ---
-title: "A fun and challenging space warfare experience in a compact format | Review - Space Wanted"
-description: "Space Wanted"
-pubDate: 2024-03-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "space-wanted"]
+author: lyndonguitar
+category: Review
+description: Space Wanted
 featured: false
-thumb: "/images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-0.avif"
+pubDate: 2024-03-06
+score: 7.0
+tags:
+- taptap
+- space-wanted
+thumb: /images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-0.avif
+title: A fun and challenging space warfare experience in a compact format | Review
+  - Space Wanted
 ---
 
 <div class="gallery">

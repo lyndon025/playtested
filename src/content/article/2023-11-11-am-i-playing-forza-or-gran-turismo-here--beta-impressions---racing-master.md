@@ -1,12 +1,17 @@
 ---
-title: "Am I playing Forza or Gran Turismo here? | Beta Impressions - Racing Master"
-description: "Racing Master is a mobile racing game developed by both Netease and Codemaster and features amazing visuals, presentation, and is loaded with gameplay content. The game is currently on a closed beta test from Nov 9 to Nov 28 for the US region, with a full data wipe afterwards. The official release date is still unannounced."
-pubDate: 2023-11-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "racing-master"]
+author: lyndonguitar
+category: Review
+description: Racing Master is a mobile racing game developed by both Netease and Codemaster
+  and features amazing visuals, presentation, and is loaded with gameplay content.
+  The game is currently on a closed beta test from Nov 9 to Nov 28 for the US region,
+  with a full data wipe afterwards. The official release date is still unannounced.
 featured: false
-thumb: ""
+pubDate: 2023-11-11
+tags:
+- taptap
+- racing-master
+thumb: ''
+title: Am I playing Forza or Gran Turismo here? | Beta Impressions - Racing Master
 ---
 
 Racing Master is a mobile racing game developed by both Netease and Codemaster and features amazing visuals, presentation, and is loaded with gameplay content. The game is currently on a closed beta test from Nov 9 to Nov 28 for the US region, with a full data wipe afterwards. The official release date is still unannounced.

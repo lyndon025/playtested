@@ -1,12 +1,15 @@
 ---
-title: "This game is like RimWorld but for Mobile | Full Review - Dream Land"
-description: "Dream Land is a free-to-play construction and management simulation that puts players in charge of a group of travelers stranded on an alien planet."
-pubDate: 2023-03-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dream-land"]
+author: lyndonguitar
+category: Review
+description: Dream Land is a free-to-play construction and management simulation that
+  puts players in charge of a group of travelers stranded on an alien planet.
 featured: false
-thumb: "/images/reviews/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-0.avif"
+pubDate: 2023-03-23
+tags:
+- taptap
+- dream-land
+thumb: /images/reviews/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-0.avif
+title: This game is like RimWorld but for Mobile | Full Review - Dream Land
 ---
 
 <div class="gallery">

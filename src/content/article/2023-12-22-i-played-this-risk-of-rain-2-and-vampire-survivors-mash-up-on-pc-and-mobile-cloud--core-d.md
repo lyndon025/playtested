@@ -1,12 +1,15 @@
 ---
-title: "I played this Risk of Rain 2 and Vampire Survivors mash up on PC and Mobile (Cloud) | Core Devourer"
-description: "Pocket Playfest: An Indie Celebration 2023 Winter Edition"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "risk-of-rain-2"]
+author: lyndonguitar
+category: Review
+description: 'Pocket Playfest: An Indie Celebration 2023 Winter Edition'
 featured: false
-thumb: ""
+pubDate: 2023-12-22
+tags:
+- taptap
+- risk-of-rain-2
+thumb: ''
+title: I played this Risk of Rain 2 and Vampire Survivors mash up on PC and Mobile
+  (Cloud) | Core Devourer
 ---
 
 Pocket Playfest: An Indie Celebration 2023 Winter Edition

@@ -1,12 +1,15 @@
 ---
-title: "New DLC? Nope it’s just the incredible modders | Full Review - Hollow Knight: Pale Court"
-description: "Hollow Knight"
-pubDate: 2023-07-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hollow-knight"]
+author: lyndonguitar
+category: Review
+description: Hollow Knight
 featured: false
-thumb: "/images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-0.avif"
+pubDate: 2023-07-06
+tags:
+- taptap
+- hollow-knight
+thumb: /images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-0.avif
+title: 'New DLC? Nope it’s just the incredible modders | Full Review - Hollow Knight:
+  Pale Court'
 ---
 
 <div class="gallery">

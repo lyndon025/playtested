@@ -1,12 +1,19 @@
 ---
-title: "What if comic-books and Diablo had a baby | Superfuse - Full Early Access Review"
-description: "There are a lot of ARPGs out there already, but what makes Superfuse unique is its cell-shaded comic-book art-style. It’s not just cell shaded graphics, because even the effects and texts are comic-book inspired. This is something that even Marvel and DC games have failed to utilize and capitalize on, considering they are comic-book franchises. Superfuse combines cell-shaded comic-book art style, looter elements, with some action packed hack ’n slash mechanics."
-pubDate: 2023-02-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "superfuse"]
+author: lyndonguitar
+category: Review
+description: There are a lot of ARPGs out there already, but what makes Superfuse
+  unique is its cell-shaded comic-book art-style. It’s not just cell shaded graphics,
+  because even the effects and texts are comic-book inspired. This is something that
+  even Marvel and DC games have failed to utilize and capitalize on, considering they
+  are comic-book franchises. Superfuse combines cell-shaded comic-book art style,
+  looter elements, with some action packed hack ’n slash mechanics.
 featured: false
-thumb: "/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif"
+pubDate: 2023-02-02
+tags:
+- taptap
+- superfuse
+thumb: /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif
+title: What if comic-books and Diablo had a baby | Superfuse - Full Early Access Review
 ---
 
 <div class="gallery">

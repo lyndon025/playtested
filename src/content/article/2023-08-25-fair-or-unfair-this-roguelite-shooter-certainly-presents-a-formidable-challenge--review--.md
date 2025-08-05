@@ -1,12 +1,15 @@
 ---
-title: "Fair or unfair, this roguelite shooter certainly presents a formidable challenge | Review - Bibots"
-description: "Bibots"
-pubDate: 2023-08-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "bibots"]
+author: lyndonguitar
+category: Review
+description: Bibots
 featured: false
-thumb: "/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---0.avif"
+pubDate: 2023-08-25
+tags:
+- taptap
+- bibots
+thumb: /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---0.avif
+title: Fair or unfair, this roguelite shooter certainly presents a formidable challenge
+  | Review - Bibots
 ---
 
 <div class="gallery">

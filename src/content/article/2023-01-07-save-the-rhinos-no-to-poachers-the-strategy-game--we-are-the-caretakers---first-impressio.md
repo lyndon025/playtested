@@ -1,12 +1,19 @@
 ---
-title: "Save the rhinos! No to poachers!: the strategy game | We Are The Caretakers - First Impressions"
-description: "We Are The Caretakers is a mix of Grand Strategy, 4X, JRPG, and Squad Management all packed and blended into what they call an afrofuturist art style. It has recently left Early Access on PC and also released for Xbox Series systems. It will be hard to compare this to a single title entirely as many of its aspects are such a fresh crossover of elements from many different games and genres."
-pubDate: 2023-01-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "we-are-the-caretakers"]
+author: lyndonguitar
+category: Review
+description: We Are The Caretakers is a mix of Grand Strategy, 4X, JRPG, and Squad
+  Management all packed and blended into what they call an afrofuturist art style.
+  It has recently left Early Access on PC and also released for Xbox Series systems.
+  It will be hard to compare this to a single title entirely as many of its aspects
+  are such a fresh crossover of elements from many different games and genres.
 featured: false
-thumb: "/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-0.avif"
+pubDate: 2023-01-07
+tags:
+- taptap
+- we-are-the-caretakers
+thumb: /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-0.avif
+title: 'Save the rhinos! No to poachers!: the strategy game | We Are The Caretakers
+  - First Impressions'
 ---
 
 <div class="gallery">

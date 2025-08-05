@@ -1,12 +1,19 @@
 ---
-title: "Playing Among Us in 2023 (feat. Destiny 2) | First Impressions - Among Us"
-description: "Among Us is an incredibly fun and addicting multiplayer game that challenges your deduction and deception skills. The game is set on a spaceship where players take on the role of either a Crewmate or an Impostor. The goal of the Crewmates is to complete various tasks around the ship, kick out any Impostors; while the Impostors must sabotage the ship and eliminate the Crewmates without being caught, before all the tasks are complete."
-pubDate: 2023-03-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "among-us"]
+author: lyndonguitar
+category: Review
+description: Among Us is an incredibly fun and addicting multiplayer game that challenges
+  your deduction and deception skills. The game is set on a spaceship where players
+  take on the role of either a Crewmate or an Impostor. The goal of the Crewmates
+  is to complete various tasks around the ship, kick out any Impostors; while the
+  Impostors must sabotage the ship and eliminate the Crewmates without being caught,
+  before all the tasks are complete.
 featured: false
-thumb: "/images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-0.avif"
+pubDate: 2023-03-07
+tags:
+- taptap
+- among-us
+thumb: /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-0.avif
+title: Playing Among Us in 2023 (feat. Destiny 2) | First Impressions - Among Us
 ---
 
 <div class="gallery">

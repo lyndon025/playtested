@@ -1,12 +1,15 @@
 ---
-title: "New name, same game, lost accounts | Re-Review - The Pixel Ark"
-description: "The Pixel Ark"
-pubDate: 2024-02-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-pixel-ark"]
+author: lyndonguitar
+category: Review
+description: The Pixel Ark
 featured: false
-thumb: "/images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-0.avif"
+pubDate: 2024-02-10
+score: 4.0
+tags:
+- taptap
+- the-pixel-ark
+thumb: /images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-0.avif
+title: New name, same game, lost accounts | Re-Review - The Pixel Ark
 ---
 
 <div class="gallery">

@@ -1,12 +1,17 @@
 ---
-title: "Test your problem solving skills, patience, and memory | First Impressions - Cyber Protocol"
-description: "Cyber Protocol is an cyberpunk arcade puzzle game with a high degree of difficulty and hardcore elements. It is currently available for iOS, PC, Xbox, and Switch, but this article will be focusing on the recently released iOS version."
-pubDate: 2023-03-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cyber-protocol"]
+author: lyndonguitar
+category: Review
+description: Cyber Protocol is an cyberpunk arcade puzzle game with a high degree
+  of difficulty and hardcore elements. It is currently available for iOS, PC, Xbox,
+  and Switch, but this article will be focusing on the recently released iOS version.
 featured: false
-thumb: "/images/reviews/2023-03-13-test-your-problem-solving-skills-patience-and-memory--first-impressions---cyber-protocol-0.avif"
+pubDate: 2023-03-13
+tags:
+- taptap
+- cyber-protocol
+thumb: /images/reviews/2023-03-13-test-your-problem-solving-skills-patience-and-memory--first-impressions---cyber-protocol-0.avif
+title: Test your problem solving skills, patience, and memory | First Impressions
+  - Cyber Protocol
 ---
 
 <div class="gallery">

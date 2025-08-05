@@ -1,12 +1,17 @@
 ---
-title: "Global Release is now coming soon | Final CBT Impressions - DMC: Peak of Combat"
-description: "When I previewed the game back a few months ago, I touted it as a game that stays true to its roots gameplay wise. Well, Devil May Cry: Peak of Combat continues to uphold the core hack-and-slash gameplay style that the series is renowned for."
-pubDate: 2023-10-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "devil-may-cry:-peak-of-combat"]
+author: lyndonguitar
+category: Review
+description: 'When I previewed the game back a few months ago, I touted it as a game
+  that stays true to its roots gameplay wise. Well, Devil May Cry: Peak of Combat
+  continues to uphold the core hack-and-slash gameplay style that the series is renowned
+  for.'
 featured: false
-thumb: ""
+pubDate: 2023-10-11
+tags:
+- taptap
+- devil-may-cry:-peak-of-combat
+thumb: ''
+title: 'Global Release is now coming soon | Final CBT Impressions - DMC: Peak of Combat'
 ---
 
 When I previewed the game back a few months ago, I touted it as a game that stays true to its roots gameplay wise. Well, Devil May Cry: Peak of Combat continues to uphold the core hack-and-slash gameplay style that the series is renowned for.

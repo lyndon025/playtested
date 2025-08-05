@@ -1,12 +1,15 @@
 ---
-title: "Conquering the Three Kingdoms can take a long, long time | Review - Infinite Borders"
-description: "Infinite BordersGlobal"
-pubDate: 2023-09-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "infinite-borders"]
+author: lyndonguitar
+category: Review
+description: Infinite BordersGlobal
 featured: false
-thumb: "/images/reviews/2023-09-18-conquering-the-three-kingdoms-can-take-a-long-long-time--review---infinite-borders-0.avif"
+pubDate: 2023-09-18
+tags:
+- taptap
+- infinite-borders
+thumb: /images/reviews/2023-09-18-conquering-the-three-kingdoms-can-take-a-long-long-time--review---infinite-borders-0.avif
+title: Conquering the Three Kingdoms can take a long, long time | Review - Infinite
+  Borders
 ---
 
 <div class="gallery">

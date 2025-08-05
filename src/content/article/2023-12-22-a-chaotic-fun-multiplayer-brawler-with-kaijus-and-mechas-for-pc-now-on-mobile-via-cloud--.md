@@ -1,12 +1,16 @@
 ---
-title: "A chaotic fun multiplayer brawler with Kaijus and Mechas for PC, now on Mobile via Cloud | GigaBash"
-description: "GigaBash"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "gigabash"]
+author: lyndonguitar
+category: Review
+description: GigaBash
 featured: false
-thumb: "/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---0.avif"
+pubDate: 2023-12-22
+score: 8.0
+tags:
+- taptap
+- gigabash
+thumb: /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---0.avif
+title: A chaotic fun multiplayer brawler with Kaijus and Mechas for PC, now on Mobile
+  via Cloud | GigaBash
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "Forget The Day Before, this game is actually cool | CBT 2.0 Review - Once Human"
-description: "Once HumanGlobal"
-pubDate: 2023-12-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "alan-wake"]
+author: lyndonguitar
+category: Review
+description: Once HumanGlobal
 featured: false
-thumb: "/images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-0.avif"
+pubDate: 2023-12-12
+score: 7.0
+tags:
+- taptap
+- alan-wake
+thumb: /images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-0.avif
+title: Forget The Day Before, this game is actually cool | CBT 2.0 Review - Once Human
 ---
 
 <div class="gallery">

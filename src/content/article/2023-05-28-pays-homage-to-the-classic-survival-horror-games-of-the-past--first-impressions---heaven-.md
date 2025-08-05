@@ -1,12 +1,17 @@
 ---
-title: "Pays homage to the classic survival horror games of the past | First Impressions - Heaven Dust"
-description: "Heaven Dust, developed and published by One Gruel Studio, is a zombie survival game that aims to capture the essence of classic survival horror titles like the original Resident Evil titles while delivering a modernized 3D experience."
-pubDate: 2023-05-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "heaven-dust"]
+author: lyndonguitar
+category: Review
+description: Heaven Dust, developed and published by One Gruel Studio, is a zombie
+  survival game that aims to capture the essence of classic survival horror titles
+  like the original Resident Evil titles while delivering a modernized 3D experience.
 featured: false
-thumb: ""
+pubDate: 2023-05-28
+tags:
+- taptap
+- heaven-dust
+thumb: ''
+title: Pays homage to the classic survival horror games of the past | First Impressions
+  - Heaven Dust
 ---
 
 Heaven Dust, developed and published by One Gruel Studio, is a zombie survival game that aims to capture the essence of classic survival horror titles like the original Resident Evil titles while delivering a modernized 3D experience.

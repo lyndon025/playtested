@@ -1,12 +1,17 @@
 ---
-title: "A classic PS1-era RPG game that still holds up to this day | Valkyrie Profile: Lenneth - Review"
-description: "Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release the Valkyrie Profile: Lenneth, the recent mobile ports, to now its modern PS4 and PS5 release."
-pubDate: 2022-12-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "valkyrie-profile:-lenneth"]
+author: lyndonguitar
+category: Review
+description: 'Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release
+  the Valkyrie Profile: Lenneth, the recent mobile ports, to now its modern PS4 and
+  PS5 release.'
 featured: false
-thumb: "/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-0.avif"
+pubDate: 2022-12-26
+tags:
+- taptap
+- valkyrie-profile:-lenneth
+thumb: /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-0.avif
+title: 'A classic PS1-era RPG game that still holds up to this day | Valkyrie Profile:
+  Lenneth - Review'
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "An excellent open-world arcade racing game! | CBT2 Review - Need for Speed Mobile"
-description: "Need for Speed™ MobileGlobal"
-pubDate: 2023-12-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "need-for-speed™-mobile"]
+author: lyndonguitar
+category: Review
+description: Need for Speed™ MobileGlobal
 featured: false
-thumb: "/images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-0.avif"
+pubDate: 2023-12-07
+tags:
+- taptap
+- need-for-speed™-mobile
+thumb: /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-0.avif
+title: An excellent open-world arcade racing game! | CBT2 Review - Need for Speed
+  Mobile
 ---
 
 <div class="gallery">

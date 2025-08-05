@@ -1,12 +1,15 @@
 ---
-title: "An underrated PvE alien shooter, as long as it’s cheap | Full Review - Rainbow Six: Extraction"
-description: "Tom Clancy’s Rainbow Six® Extraction"
-pubDate: 2023-06-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tom-clancy’s-rainbow-six®-extraction"]
+author: lyndonguitar
+category: Review
+description: Tom Clancy’s Rainbow Six® Extraction
 featured: false
-thumb: "/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-0.avif"
+pubDate: 2023-06-20
+tags:
+- taptap
+- tom-clancy’s-rainbow-six®-extraction
+thumb: /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-0.avif
+title: 'An underrated PvE alien shooter, as long as it’s cheap | Full Review - Rainbow
+  Six: Extraction'
 ---
 
 <div class="gallery">

@@ -1,12 +1,18 @@
 ---
-title: "An anime-style tactical RPG with great potential | Depersonalization - Early Access Review"
-description: "Depersonalization is a new anime-style tactical RPG recently released in Early Access today, and at its heart is an interesting story intertwined with a promising gameplay, both of which are immediately noticeably to be in the early stages of the development."
-pubDate: 2022-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "depersonalization"]
+author: lyndonguitar
+category: Review
+description: Depersonalization is a new anime-style tactical RPG recently released
+  in Early Access today, and at its heart is an interesting story intertwined with
+  a promising gameplay, both of which are immediately noticeably to be in the early
+  stages of the development.
 featured: false
-thumb: "/images/reviews/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-0.avif"
+pubDate: 2022-12-22
+tags:
+- taptap
+- depersonalization
+thumb: /images/reviews/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-0.avif
+title: An anime-style tactical RPG with great potential | Depersonalization - Early
+  Access Review
 ---
 
 <div class="gallery">

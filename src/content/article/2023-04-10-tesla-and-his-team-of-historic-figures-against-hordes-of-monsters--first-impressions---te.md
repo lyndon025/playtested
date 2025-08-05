@@ -1,12 +1,19 @@
 ---
-title: "Tesla and his team of historic figures against hordes of monsters | First Impressions - Tesla Force"
-description: "Tesla Force is set in a world where Nikola Tesla's inventions have started glitching and are opening portals around the world, spawning beings from another dimension that mostly resembles lovecraftian horror beings. It’s up to Nikola Tesla himself and his ragtag group of historical figures to stop this madness once and for all."
-pubDate: 2023-04-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tesla-force"]
+author: lyndonguitar
+category: Review
+description: Tesla Force is set in a world where Nikola Tesla's inventions have started
+  glitching and are opening portals around the world, spawning beings from another
+  dimension that mostly resembles lovecraftian horror beings. It’s up to Nikola Tesla
+  himself and his ragtag group of historical figures to stop this madness once and
+  for all.
 featured: false
-thumb: "/images/reviews/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-0.avif"
+pubDate: 2023-04-10
+tags:
+- taptap
+- tesla-force
+thumb: /images/reviews/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-0.avif
+title: Tesla and his team of historic figures against hordes of monsters | First Impressions
+  - Tesla Force
 ---
 
 <div class="gallery">

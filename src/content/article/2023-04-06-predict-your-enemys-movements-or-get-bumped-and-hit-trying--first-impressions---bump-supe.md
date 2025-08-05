@@ -1,12 +1,17 @@
 ---
-title: "Predict your enemy’s movements, or get bumped and hit trying | First Impressions - BUMP! Superbrawl"
-description: "BUMP! Superbrawl’s concept is simple. Predict the enemies movements, one turn, one hero at a time and win the match. Either by scoring higher or knocking their heroes out, every match is very exciting and satisfying to win."
-pubDate: 2023-04-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "bump!-superbrawl"]
+author: lyndonguitar
+category: Review
+description: BUMP! Superbrawl’s concept is simple. Predict the enemies movements,
+  one turn, one hero at a time and win the match. Either by scoring higher or knocking
+  their heroes out, every match is very exciting and satisfying to win.
 featured: false
-thumb: "/images/reviews/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-0.avif"
+pubDate: 2023-04-06
+tags:
+- taptap
+- bump!-superbrawl
+thumb: /images/reviews/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-0.avif
+title: Predict your enemy’s movements, or get bumped and hit trying | First Impressions
+  - BUMP! Superbrawl
 ---
 
 <div class="gallery">

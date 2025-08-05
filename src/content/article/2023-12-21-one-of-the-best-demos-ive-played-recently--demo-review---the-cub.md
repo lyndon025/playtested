@@ -1,12 +1,15 @@
 ---
-title: "One of the best Demos I’ve played recently | Demo Review - The Cub"
-description: "The Cub"
-pubDate: 2023-12-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-cub"]
+author: lyndonguitar
+category: Review
+description: The Cub
 featured: false
-thumb: "/images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-0.avif"
+pubDate: 2023-12-21
+score: 10.0
+tags:
+- taptap
+- the-cub
+thumb: /images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-0.avif
+title: One of the best Demos I’ve played recently | Demo Review - The Cub
 ---
 
 <div class="gallery">

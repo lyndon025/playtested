@@ -1,12 +1,15 @@
 ---
-title: "A deep and addicting rogue-like space deckbuilder | Review - Star Survivor"
-description: "Star Survivor"
-pubDate: 2023-12-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "star-survivor:premium"]
+author: lyndonguitar
+category: Review
+description: Star Survivor
 featured: false
-thumb: "/images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-0.avif"
+pubDate: 2023-12-10
+score: 8.0
+tags:
+- taptap
+- star-survivor:premium
+thumb: /images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-0.avif
+title: A deep and addicting rogue-like space deckbuilder | Review - Star Survivor
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "The most fun, refreshing shooter I’ve played all year | Review - THE FINALS"
-description: "THE FINALS"
-pubDate: 2023-12-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-finals"]
+author: lyndonguitar
+category: Review
+description: THE FINALS
 featured: false
-thumb: "/images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-0.avif"
+pubDate: 2023-12-12
+score: 9.0
+tags:
+- taptap
+- the-finals
+thumb: /images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-0.avif
+title: The most fun, refreshing shooter I’ve played all year | Review - THE FINALS
 ---
 
 <div class="gallery">

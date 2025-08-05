@@ -1,12 +1,15 @@
 ---
-title: "A fully fledged The Division experience on the go | CBT Review - The Division Resurgence"
-description: "The Division ResurgenceGlobal"
-pubDate: 2023-11-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tom-clancy’s-the-division™"]
+author: lyndonguitar
+category: Review
+description: The Division ResurgenceGlobal
 featured: false
-thumb: "/images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-0.avif"
+pubDate: 2023-11-18
+tags:
+- taptap
+- tom-clancy’s-the-division™
+thumb: /images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-0.avif
+title: A fully fledged The Division experience on the go | CBT Review - The Division
+  Resurgence
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "An auto chess with metaverse gaming platform origins | Full Review - Mojo Melee"
-description: "Mojo Melee: PVP Auto Chess"
-pubDate: 2023-07-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mojo-melee:-pvp-auto-chess"]
+author: lyndonguitar
+category: Review
+description: 'Mojo Melee: PVP Auto Chess'
 featured: false
-thumb: "/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif"
+pubDate: 2023-07-10
+tags:
+- taptap
+- mojo-melee:-pvp-auto-chess
+thumb: /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif
+title: An auto chess with metaverse gaming platform origins | Full Review - Mojo Melee
 ---
 
 <div class="gallery">

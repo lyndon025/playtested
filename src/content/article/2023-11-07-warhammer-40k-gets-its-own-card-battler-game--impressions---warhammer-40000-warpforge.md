@@ -1,12 +1,19 @@
 ---
-title: "Warhammer 40k gets its own card battler game | Impressions - Warhammer 40,000: Warpforge"
-description: "Warhammer 40,000: Warpforge is a digital collectible card battler set in the grimdark future of the 41st millennium. It's a game that allows players to step into the war-torn universe of Warhammer 40k and engage in strategic card battle. It carries the rich lore and factions of the Warhammer universe and uses it as a basis to create a card battler game."
-pubDate: 2023-11-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "warhammer-40,000:-warpforge"]
+author: lyndonguitar
+category: Review
+description: 'Warhammer 40,000: Warpforge is a digital collectible card battler set
+  in the grimdark future of the 41st millennium. It''s a game that allows players
+  to step into the war-torn universe of Warhammer 40k and engage in strategic card
+  battle. It carries the rich lore and factions of the Warhammer universe and uses
+  it as a basis to create a card battler game.'
 featured: false
-thumb: ""
+pubDate: 2023-11-07
+tags:
+- taptap
+- warhammer-40,000:-warpforge
+thumb: ''
+title: 'Warhammer 40k gets its own card battler game | Impressions - Warhammer 40,000:
+  Warpforge'
 ---
 
 Warhammer 40,000: Warpforge is a digital collectible card battler set in the grimdark future of the 41st millennium. It's a game that allows players to step into the war-torn universe of Warhammer 40k and engage in strategic card battle. It carries the rich lore and factions of the Warhammer universe and uses it as a basis to create a card battler game.

@@ -1,12 +1,17 @@
 ---
-title: "A slice-of-life murder mystery JRPG | Persona 4 Golden - Review"
-description: "Originally released for the PS2 very late in its lifecycle, Persona 4 has since been re-released for the PS Vita years later and more recently on PC a few years ago. Now, Persona 4 Golden is finally widely accessible, having just been released for the PS4, Xbox, and Nintendo Switch yesterday."
-pubDate: 2023-01-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "persona-4-golden"]
+author: lyndonguitar
+category: Review
+description: Originally released for the PS2 very late in its lifecycle, Persona 4
+  has since been re-released for the PS Vita years later and more recently on PC a
+  few years ago. Now, Persona 4 Golden is finally widely accessible, having just been
+  released for the PS4, Xbox, and Nintendo Switch yesterday.
 featured: true
-thumb: "/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-0.avif"
+pubDate: 2023-01-20
+tags:
+- taptap
+- persona-4-golden
+thumb: /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-0.avif
+title: A slice-of-life murder mystery JRPG | Persona 4 Golden - Review
 ---
 
 <div class="gallery">

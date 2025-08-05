@@ -1,12 +1,16 @@
 ---
-title: "A fun mesmerizing adventure indie game | Solar Ash - Review"
-description: "Glide your way into a satisfying melancholic lightshow in style. Solar Ash’s artistic style is as joyfully vibrant as it is depressingly dark, as you journey through and across space and time inside a blackhole called the Ultravoid."
-pubDate: 2022-12-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "solar-ash"]
+author: lyndonguitar
+category: Review
+description: Glide your way into a satisfying melancholic lightshow in style. Solar
+  Ash’s artistic style is as joyfully vibrant as it is depressingly dark, as you journey
+  through and across space and time inside a blackhole called the Ultravoid.
 featured: false
-thumb: "/images/reviews/2022-12-11-a-fun-mesmerizing-adventure-indie-game--solar-ash---review-0.avif"
+pubDate: 2022-12-11
+tags:
+- taptap
+- solar-ash
+thumb: /images/reviews/2022-12-11-a-fun-mesmerizing-adventure-indie-game--solar-ash---review-0.avif
+title: A fun mesmerizing adventure indie game | Solar Ash - Review
 ---
 
 <div class="gallery">

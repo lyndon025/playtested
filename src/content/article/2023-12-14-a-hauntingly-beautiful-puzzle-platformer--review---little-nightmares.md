@@ -1,12 +1,14 @@
 ---
-title: "A hauntingly beautiful puzzle-platformer | Review - Little Nightmares"
-description: "Little Nightmares"
-pubDate: 2023-12-14
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "very-little-nightmares"]
+author: lyndonguitar
+category: Review
+description: Little Nightmares
 featured: false
-thumb: "/images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-0.avif"
+pubDate: 2023-12-14
+tags:
+- taptap
+- very-little-nightmares
+thumb: /images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-0.avif
+title: A hauntingly beautiful puzzle-platformer | Review - Little Nightmares
 ---
 
 <div class="gallery">

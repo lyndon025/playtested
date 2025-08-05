@@ -1,12 +1,15 @@
 ---
-title: "A potential MMORPG hit for mobile, if more work is put in | Open Beta Preview - Dragon and Home"
-description: "Dragon And Home"
-pubDate: 2023-05-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dragon-and-home"]
+author: lyndonguitar
+category: Review
+description: Dragon And Home
 featured: false
-thumb: "/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--0.avif"
+pubDate: 2023-05-13
+tags:
+- taptap
+- dragon-and-home
+thumb: /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--0.avif
+title: A potential MMORPG hit for mobile, if more work is put in | Open Beta Preview
+  - Dragon and Home
 ---
 
 <div class="gallery">

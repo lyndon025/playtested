@@ -1,12 +1,19 @@
 ---
-title: "Gear up, Shoot and Loot, Extract, Trade | First Impressions - Arena Breakout"
-description: "Set in a war-torn city Kamona with a post-apocalyptic atmosphere, Arena Breakout drops players into the midst of a fierce battle for survival. You'll find yourself navigating through desolate streets, abandoned buildings, and treacherous alleyways, all while engaging in heart-pounding do-or-die firefights against both AI-controlled enemies and other players. The game's atmosphere is amazing, immersing you in a war-torn world where danger lurks around every corner."
-pubDate: 2023-07-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "arena-breakout:-realistic-fps"]
+author: lyndonguitar
+category: Review
+description: Set in a war-torn city Kamona with a post-apocalyptic atmosphere, Arena
+  Breakout drops players into the midst of a fierce battle for survival. You'll find
+  yourself navigating through desolate streets, abandoned buildings, and treacherous
+  alleyways, all while engaging in heart-pounding do-or-die firefights against both
+  AI-controlled enemies and other players. The game's atmosphere is amazing, immersing
+  you in a war-torn world where danger lurks around every corner.
 featured: false
-thumb: ""
+pubDate: 2023-07-17
+tags:
+- taptap
+- arena-breakout:-realistic-fps
+thumb: ''
+title: Gear up, Shoot and Loot, Extract, Trade | First Impressions - Arena Breakout
 ---
 
 Set in a war-torn city Kamona with a post-apocalyptic atmosphere, Arena Breakout drops players into the midst of a fierce battle for survival. You'll find yourself navigating through desolate streets, abandoned buildings, and treacherous alleyways, all while engaging in heart-pounding do-or-die firefights against both AI-controlled enemies and other players. The game's atmosphere is amazing, immersing you in a war-torn world where danger lurks around every corner.

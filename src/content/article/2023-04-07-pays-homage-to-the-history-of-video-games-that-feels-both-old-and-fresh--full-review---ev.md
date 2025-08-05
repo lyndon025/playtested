@@ -1,12 +1,16 @@
 ---
-title: "Pays homage to the history of video games that feels both old and fresh | Full Review - Evoland 2"
-description: "Evoland 2 is a classic / modern adventure RPG game with a time-traveling theme, not just with the settings, but with whole video game eras and genres altogether."
-pubDate: 2023-04-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "evoland-2"]
+author: lyndonguitar
+category: Review
+description: Evoland 2 is a classic / modern adventure RPG game with a time-traveling
+  theme, not just with the settings, but with whole video game eras and genres altogether.
 featured: false
-thumb: "/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-0.avif"
+pubDate: 2023-04-07
+tags:
+- taptap
+- evoland-2
+thumb: /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-0.avif
+title: Pays homage to the history of video games that feels both old and fresh | Full
+  Review - Evoland 2
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "Forget everything you think you know | First Impressions - Detective Mimo"
-description: "Detective Mimo"
-pubDate: 2023-05-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "detective-mimo"]
+author: lyndonguitar
+category: Review
+description: Detective Mimo
 featured: false
-thumb: "/images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif"
+pubDate: 2023-05-12
+tags:
+- taptap
+- detective-mimo
+thumb: /images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif
+title: Forget everything you think you know | First Impressions - Detective Mimo
 ---
 
 <div class="gallery">

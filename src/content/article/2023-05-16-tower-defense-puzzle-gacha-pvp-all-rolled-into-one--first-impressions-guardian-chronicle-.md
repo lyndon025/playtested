@@ -1,12 +1,15 @@
 ---
-title: "Tower defense, puzzle, gacha, PvP all rolled into one | First Impressions: Guardian Chronicle R"
-description: "Guardian Chronicle R"
-pubDate: 2023-05-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "guardian-chronicle-r"]
+author: lyndonguitar
+category: Review
+description: Guardian Chronicle R
 featured: false
-thumb: "/images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--0.avif"
+pubDate: 2023-05-16
+tags:
+- taptap
+- guardian-chronicle-r
+thumb: /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--0.avif
+title: 'Tower defense, puzzle, gacha, PvP all rolled into one | First Impressions:
+  Guardian Chronicle R'
 ---
 
 <div class="gallery">

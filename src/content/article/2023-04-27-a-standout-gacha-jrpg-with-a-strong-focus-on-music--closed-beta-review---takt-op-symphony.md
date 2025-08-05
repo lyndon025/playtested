@@ -1,12 +1,15 @@
 ---
-title: "A standout gacha JRPG with a strong focus on music | Closed Beta Review - Takt Op. Symphony"
-description: "takt op. SymphonyGlobal"
-pubDate: 2023-04-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "takt-op.-symphony"]
+author: lyndonguitar
+category: Review
+description: takt op. SymphonyGlobal
 featured: false
-thumb: "/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-0.avif"
+pubDate: 2023-04-27
+tags:
+- taptap
+- takt-op.-symphony
+thumb: /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-0.avif
+title: A standout gacha JRPG with a strong focus on music | Closed Beta Review - Takt
+  Op. Symphony
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "A revolutionary spin-off that merges tactics with Persona’s magic | Review - Persona 5 Tactica"
-description: "Persona 5 Tactica"
-pubDate: 2023-11-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "persona®-5-strikers"]
+author: lyndonguitar
+category: Review
+description: Persona 5 Tactica
 featured: false
-thumb: "/images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-0.avif"
+pubDate: 2023-11-20
+score: 8.0
+tags:
+- taptap
+- persona®-5-strikers
+thumb: /images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-0.avif
+title: A revolutionary spin-off that merges tactics with Persona’s magic | Review
+  - Persona 5 Tactica
 ---
 
 <div class="gallery">

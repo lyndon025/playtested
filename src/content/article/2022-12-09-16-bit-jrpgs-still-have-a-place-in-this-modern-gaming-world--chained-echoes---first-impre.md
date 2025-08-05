@@ -1,12 +1,19 @@
 ---
-title: "16-bit JRPGs still have a place in this modern gaming world | Chained Echoes - First Impressions"
-description: "Nostalgia is a powerful thing, so powerful that the once bygone era of 16-bit video games is now back and currently an oversaturated market more than ever. Every once in a while though, you find a gem worth playing. This time, it's titled Chained Echoes, a nostalgic 16-bit JRPG game in a fantasy world where Dragons and Mechas exist."
-pubDate: 2022-12-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "chained-echoes"]
+author: lyndonguitar
+category: Review
+description: Nostalgia is a powerful thing, so powerful that the once bygone era of
+  16-bit video games is now back and currently an oversaturated market more than ever.
+  Every once in a while though, you find a gem worth playing. This time, it's titled
+  Chained Echoes, a nostalgic 16-bit JRPG game in a fantasy world where Dragons and
+  Mechas exist.
 featured: false
-thumb: "/images/reviews/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-0.avif"
+pubDate: 2022-12-09
+tags:
+- taptap
+- chained-echoes
+thumb: /images/reviews/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-0.avif
+title: 16-bit JRPGs still have a place in this modern gaming world | Chained Echoes
+  - First Impressions
 ---
 
 <div class="gallery">

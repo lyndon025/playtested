@@ -1,12 +1,18 @@
 ---
-title: "Charming animal waifu characters to collect | First Impressions - Kemono Friends: Kingdom"
-description: "Blending elements of trajectory-based launching akin to Angry Birds with turn-based RPG mechanics, Kemono Friends: Kingdom offers a slight spin on a familiar gameplay format and it is coming soon with an Open Beta Test scheduled for June 21!"
-pubDate: 2023-06-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kemono-friends:-kingdom"]
+author: lyndonguitar
+category: Review
+description: 'Blending elements of trajectory-based launching akin to Angry Birds
+  with turn-based RPG mechanics, Kemono Friends: Kingdom offers a slight spin on a
+  familiar gameplay format and it is coming soon with an Open Beta Test scheduled
+  for June 21!'
 featured: false
-thumb: ""
+pubDate: 2023-06-08
+tags:
+- taptap
+- kemono-friends:-kingdom
+thumb: ''
+title: 'Charming animal waifu characters to collect | First Impressions - Kemono Friends:
+  Kingdom'
 ---
 
 Blending elements of trajectory-based launching akin to Angry Birds with turn-based RPG mechanics, Kemono Friends: Kingdom offers a slight spin on a familiar gameplay format and it is coming soon with an Open Beta Test scheduled for June 21!

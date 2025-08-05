@@ -1,12 +1,17 @@
 ---
-title: "My Top 10 Games of 2023 | Which game is my GOTY?"
-description: "It has been a wild ride for gamers throughout 2023. From early-year contenders like Hogwarts Legacy and Resident Evil 4 to clutch latecomers like Alan Wake 2 and Spider-Man 2, it's been a very crowded year. A solid collection of masterpiece remakes, worthy innovative sequels, and refreshing new IPs."
-pubDate: 2023-12-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap","my-top-10-games-of-2023-|-which-game-is-my-goty?"]
+author: lyndonguitar
+category: Review
+description: It has been a wild ride for gamers throughout 2023. From early-year contenders
+  like Hogwarts Legacy and Resident Evil 4 to clutch latecomers like Alan Wake 2 and
+  Spider-Man 2, it's been a very crowded year. A solid collection of masterpiece remakes,
+  worthy innovative sequels, and refreshing new IPs.
 featured: false
-thumb: ""
+pubDate: 2023-12-05
+tags:
+- taptap
+- my-top-10-games-of-2023-|-which-game-is-my-goty?
+thumb: ''
+title: My Top 10 Games of 2023 | Which game is my GOTY?
 ---
 
 It has been a wild ride for gamers throughout 2023. From early-year contenders like Hogwarts Legacy and Resident Evil 4 to clutch latecomers like Alan Wake 2 and Spider-Man 2, it's been a very crowded year. A solid collection of masterpiece remakes, worthy innovative sequels, and refreshing new IPs.

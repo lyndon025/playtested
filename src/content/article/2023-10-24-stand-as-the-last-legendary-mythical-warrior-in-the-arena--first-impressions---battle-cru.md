@@ -1,12 +1,19 @@
 ---
-title: "Stand as the last legendary mythical warrior in the arena | First Impressions - Battle Crush Beta"
-description: "Battle Crush Beta delivers a dynamic gaming experience that merges the thrill of a battle royale with the hero-based gameplay of a MOBA. The current CBT version features a unique cast of 15 Calixers, mythological and legendary heroes with distinct abilities, and playstyles. All heroes are unlocked, so those participating in the beta test can try each hero."
-pubDate: 2023-10-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "battle-crush"]
+author: lyndonguitar
+category: Review
+description: Battle Crush Beta delivers a dynamic gaming experience that merges the
+  thrill of a battle royale with the hero-based gameplay of a MOBA. The current CBT
+  version features a unique cast of 15 Calixers, mythological and legendary heroes
+  with distinct abilities, and playstyles. All heroes are unlocked, so those participating
+  in the beta test can try each hero.
 featured: false
-thumb: ""
+pubDate: 2023-10-24
+tags:
+- taptap
+- battle-crush
+thumb: ''
+title: Stand as the last legendary mythical warrior in the arena | First Impressions
+  - Battle Crush Beta
 ---
 
 Battle Crush Beta delivers a dynamic gaming experience that merges the thrill of a battle royale with the hero-based gameplay of a MOBA. The current CBT version features a unique cast of 15 Calixers, mythological and legendary heroes with distinct abilities, and playstyles. All heroes are unlocked, so those participating in the beta test can try each hero.

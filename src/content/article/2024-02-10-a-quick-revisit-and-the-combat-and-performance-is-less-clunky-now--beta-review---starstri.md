@@ -1,12 +1,15 @@
 ---
-title: "A quick revisit, and the combat and performance is less clunky now | Beta Review - Starstride"
-description: "Starstride"
-pubDate: 2024-02-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "starstride"]
+author: lyndonguitar
+category: Review
+description: Starstride
 featured: false
-thumb: "/images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-0.avif"
+pubDate: 2024-02-10
+tags:
+- taptap
+- starstride
+thumb: /images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-0.avif
+title: A quick revisit, and the combat and performance is less clunky now | Beta Review
+  - Starstride
 ---
 
 <div class="gallery">

@@ -1,12 +1,17 @@
 ---
-title: "Set in a breathtaking world with a focus on the skies and seas | CBT Impressions - Revelation M"
-description: "Set in a breathtaking fantasy world with a focus on the skies and seas, Revelation M casts players as new adventurers embarking on a journey of exploration, discovery, and adventure."
-pubDate: 2023-11-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "revelation-m--cbt"]
+author: lyndonguitar
+category: Review
+description: Set in a breathtaking fantasy world with a focus on the skies and seas,
+  Revelation M casts players as new adventurers embarking on a journey of exploration,
+  discovery, and adventure.
 featured: false
-thumb: ""
+pubDate: 2023-11-27
+tags:
+- taptap
+- revelation-m--cbt
+thumb: ''
+title: Set in a breathtaking world with a focus on the skies and seas | CBT Impressions
+  - Revelation M
 ---
 
 Set in a breathtaking fantasy world with a focus on the skies and seas, Revelation M casts players as new adventurers embarking on a journey of exploration, discovery, and adventure.

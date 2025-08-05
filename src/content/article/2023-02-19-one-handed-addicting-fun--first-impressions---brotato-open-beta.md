@@ -1,12 +1,16 @@
 ---
-title: "One handed addicting fun | First Impressions - Brotato (Open Beta)"
-description: "Brotato is a brand new mobile-port of the acclaimed PC game of the same name, a survival rogue-lite game that you can play with only one hand, now currently in Open Beta."
-pubDate: 2023-02-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "brotato"]
+author: lyndonguitar
+category: Review
+description: Brotato is a brand new mobile-port of the acclaimed PC game of the same
+  name, a survival rogue-lite game that you can play with only one hand, now currently
+  in Open Beta.
 featured: false
-thumb: "/images/reviews/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-0.avif"
+pubDate: 2023-02-19
+tags:
+- taptap
+- brotato
+thumb: /images/reviews/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-0.avif
+title: One handed addicting fun | First Impressions - Brotato (Open Beta)
 ---
 
 <div class="gallery">

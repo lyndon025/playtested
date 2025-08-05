@@ -1,12 +1,19 @@
 ---
-title: "Skip right to the new chapter during the limited-time event | Aether Gazer: Shadow Under Convallaria"
-description: "Aether Gazer, the popular hack-and-slash gacha ARPG game for Android and iOS.(Endorsed by the Aether Gazer website, PC is also playable via emulator). It has recently unveiled its much-anticipated update for its global version, titled 'Shadow Under Convallaria.', following the previous update last month “Where the Butterfly Belongs”."
-pubDate: 2023-09-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "aether-gazer"]
+author: lyndonguitar
+category: Review
+description: Aether Gazer, the popular hack-and-slash gacha ARPG game for Android
+  and iOS.(Endorsed by the Aether Gazer website, PC is also playable via emulator).
+  It has recently unveiled its much-anticipated update for its global version, titled
+  'Shadow Under Convallaria.', following the previous update last month “Where the
+  Butterfly Belongs”.
 featured: false
-thumb: "/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-0.avif"
+pubDate: 2023-09-06
+tags:
+- taptap
+- aether-gazer
+thumb: /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-0.avif
+title: 'Skip right to the new chapter during the limited-time event | Aether Gazer:
+  Shadow Under Convallaria'
 ---
 
 <div class="gallery">

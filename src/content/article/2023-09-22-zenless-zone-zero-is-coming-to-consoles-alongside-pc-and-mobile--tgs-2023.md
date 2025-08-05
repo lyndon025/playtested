@@ -1,12 +1,14 @@
 ---
-title: "Zenless Zone Zero is coming to Consoles, alongside PC and Mobile! | TGS 2023"
-description: "Zenless Zone ZeroGlobal"
-pubDate: 2023-09-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "honkai:-star-rail"]
+author: lyndonguitar
+category: Review
+description: Zenless Zone ZeroGlobal
 featured: false
-thumb: "/images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-0.avif"
+pubDate: 2023-09-22
+tags:
+- taptap
+- honkai:-star-rail
+thumb: /images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-0.avif
+title: Zenless Zone Zero is coming to Consoles, alongside PC and Mobile! | TGS 2023
 ---
 
 <div class="gallery">

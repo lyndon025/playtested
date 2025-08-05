@@ -1,12 +1,16 @@
 ---
-title: "TapTap released a new trailer for Persona 5: The Phantom X, but what exactly is this game?"
-description: "Persona 5: The Phantom X is a Mobile and PC spin-off of the mainline Persona game, Persona 5."
-pubDate: 2023-07-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "persona-5:-the-phantom-x"]
+author: lyndonguitar
+category: Review
+description: 'Persona 5: The Phantom X is a Mobile and PC spin-off of the mainline
+  Persona game, Persona 5.'
 featured: false
-thumb: ""
+pubDate: 2023-07-10
+tags:
+- taptap
+- persona-5:-the-phantom-x
+thumb: ''
+title: 'TapTap released a new trailer for Persona 5: The Phantom X, but what exactly
+  is this game?'
 ---
 
 Persona 5: The Phantom X is a Mobile and PC spin-off of the mainline Persona game, Persona 5.

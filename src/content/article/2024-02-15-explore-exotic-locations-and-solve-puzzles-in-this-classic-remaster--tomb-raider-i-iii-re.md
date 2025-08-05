@@ -1,12 +1,21 @@
 ---
-title: "Explore exotic locations and solve puzzles in this classic remaster | Tomb Raider I-III Remastered"
-description: "Tomb Raider I-III Remastered stays true to the original titles, with players navigating Lara through a series of challenging environments, solving puzzles, and engaging in platforming and exploration. It’s essentially the same games through and through, just with updated visuals. All levels are the same, the layout, the controls, the puzzles, secrets, and enemies are all the same. If you have played the original games and still remember it, then you’ll have no problems finding your way again."
-pubDate: 2024-02-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tomb-raider-i-iii-remastered-starring-lara-croft"]
+author: lyndonguitar
+category: Review
+description: Tomb Raider I-III Remastered stays true to the original titles, with
+  players navigating Lara through a series of challenging environments, solving puzzles,
+  and engaging in platforming and exploration. It’s essentially the same games through
+  and through, just with updated visuals. All levels are the same, the layout, the
+  controls, the puzzles, secrets, and enemies are all the same. If you have played
+  the original games and still remember it, then you’ll have no problems finding your
+  way again.
 featured: false
-thumb: ""
+pubDate: 2024-02-15
+tags:
+- taptap
+- tomb-raider-i-iii-remastered-starring-lara-croft
+thumb: ''
+title: Explore exotic locations and solve puzzles in this classic remaster | Tomb
+  Raider I-III Remastered
 ---
 
 Tomb Raider I-III Remastered stays true to the original titles, with players navigating Lara through a series of challenging environments, solving puzzles, and engaging in platforming and exploration. It’s essentially the same games through and through, just with updated visuals. All levels are the same, the layout, the controls, the puzzles, secrets, and enemies are all the same. If you have played the original games and still remember it, then you’ll have no problems finding your way again.

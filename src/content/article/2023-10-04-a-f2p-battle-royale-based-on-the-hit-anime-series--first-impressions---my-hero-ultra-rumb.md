@@ -1,12 +1,18 @@
 ---
-title: "A F2P battle royale based on the hit anime series | First Impressions - MY HERO ULTRA RUMBLE"
-description: "Right from the start, MY HERO ULTRA RUMBLE immerses you in the world of Heroes and Quirks, and it's exhilarating. The game is action-packed and really captures the vibe of the anime so well in its battles and combat, delivering an authentic anime gaming experience in battle royale format."
-pubDate: 2023-10-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "my-hero-ultra-rumble"]
+author: lyndonguitar
+category: Review
+description: Right from the start, MY HERO ULTRA RUMBLE immerses you in the world
+  of Heroes and Quirks, and it's exhilarating. The game is action-packed and really
+  captures the vibe of the anime so well in its battles and combat, delivering an
+  authentic anime gaming experience in battle royale format.
 featured: false
-thumb: ""
+pubDate: 2023-10-04
+tags:
+- taptap
+- my-hero-ultra-rumble
+thumb: ''
+title: A F2P battle royale based on the hit anime series | First Impressions - MY
+  HERO ULTRA RUMBLE
 ---
 
 Right from the start, MY HERO ULTRA RUMBLE immerses you in the world of Heroes and Quirks, and it's exhilarating. The game is action-packed and really captures the vibe of the anime so well in its battles and combat, delivering an authentic anime gaming experience in battle royale format.

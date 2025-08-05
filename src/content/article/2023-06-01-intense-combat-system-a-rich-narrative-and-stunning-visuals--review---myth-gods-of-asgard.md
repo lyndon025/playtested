@@ -1,12 +1,15 @@
 ---
-title: "Intense combat system, a rich narrative, and stunning visuals | Review - Myth: Gods of Asgard"
-description: "Myth: Gods of AsgardGlobal"
-pubDate: 2023-06-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "myth:-gods-of-asgard"]
+author: lyndonguitar
+category: Review
+description: 'Myth: Gods of AsgardGlobal'
 featured: false
-thumb: "/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-0.avif"
+pubDate: 2023-06-01
+tags:
+- taptap
+- myth:-gods-of-asgard
+thumb: /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-0.avif
+title: 'Intense combat system, a rich narrative, and stunning visuals | Review - Myth:
+  Gods of Asgard'
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "This open beta still feels too early in its development | Beta Review - Sword of Mystic Shu"
-description: "Sword of Mystic Shu"
-pubDate: 2024-02-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "sword-of-mystic-shu"]
+author: lyndonguitar
+category: Review
+description: Sword of Mystic Shu
 featured: false
-thumb: "/images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-0.avif"
+pubDate: 2024-02-01
+score: 4.0
+tags:
+- taptap
+- sword-of-mystic-shu
+thumb: /images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-0.avif
+title: This open beta still feels too early in its development | Beta Review - Sword
+  of Mystic Shu
 ---
 
 <div class="gallery">

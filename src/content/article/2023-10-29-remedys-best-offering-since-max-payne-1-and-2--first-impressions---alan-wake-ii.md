@@ -1,12 +1,18 @@
 ---
-title: "Remedy's best offering since Max Payne 1 and 2? | First Impressions - Alan Wake II"
-description: "Alan Wake II is a thrilling continuation of Remedy Entertainment's captivating narrative-driven games. The game features Remedy's signature storytelling prowess and delivers a survival-horror game experience impressive next-gen level of graphics and innovative gameplay features."
-pubDate: 2023-10-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "alan-wake"]
+author: lyndonguitar
+category: Review
+description: Alan Wake II is a thrilling continuation of Remedy Entertainment's captivating
+  narrative-driven games. The game features Remedy's signature storytelling prowess
+  and delivers a survival-horror game experience impressive next-gen level of graphics
+  and innovative gameplay features.
 featured: false
-thumb: ""
+pubDate: 2023-10-29
+tags:
+- taptap
+- alan-wake
+thumb: ''
+title: Remedy's best offering since Max Payne 1 and 2? | First Impressions - Alan
+  Wake II
 ---
 
 Alan Wake II is a thrilling continuation of Remedy Entertainment's captivating narrative-driven games. The game features Remedy's signature storytelling prowess and delivers a survival-horror game experience impressive next-gen level of graphics and innovative gameplay features.

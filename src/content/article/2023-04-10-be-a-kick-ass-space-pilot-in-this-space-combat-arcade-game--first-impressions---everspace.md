@@ -1,12 +1,18 @@
 ---
-title: "Be a kick-ass space pilot in this space combat arcade game | First Impressions - Everspace 2"
-description: "Everspace 2 is an arcade spaceship action game developed and published by ROCKFISH Games. It is the sequel to the original Everspace game released in 2016. The game is available on PC, and modern consoles, and was released last April 6, 2023 after going on an Early Access phase for over a year."
-pubDate: 2023-04-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "everspace™-2"]
+author: lyndonguitar
+category: Review
+description: Everspace 2 is an arcade spaceship action game developed and published
+  by ROCKFISH Games. It is the sequel to the original Everspace game released in 2016.
+  The game is available on PC, and modern consoles, and was released last April 6,
+  2023 after going on an Early Access phase for over a year.
 featured: false
-thumb: "/images/reviews/2023-04-10-be-a-kick-ass-space-pilot-in-this-space-combat-arcade-game--first-impressions---everspace-0.avif"
+pubDate: 2023-04-10
+tags:
+- taptap
+- everspace™-2
+thumb: /images/reviews/2023-04-10-be-a-kick-ass-space-pilot-in-this-space-combat-arcade-game--first-impressions---everspace-0.avif
+title: Be a kick-ass space pilot in this space combat arcade game | First Impressions
+  - Everspace 2
 ---
 
 <div class="gallery">

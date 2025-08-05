@@ -1,12 +1,15 @@
 ---
-title: "A thought-provoking story with themes of loss and guilt | Full Review - The Wreck"
-description: "✨Overview"
-pubDate: 2023-09-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-wreck"]
+author: lyndonguitar
+category: Review
+description: ✨Overview
 featured: false
-thumb: "/images/reviews/2023-09-27-a-thought-provoking-story-with-themes-of-loss-and-guilt--full-review---the-wreck-0.avif"
+pubDate: 2023-09-27
+tags:
+- taptap
+- the-wreck
+thumb: /images/reviews/2023-09-27-a-thought-provoking-story-with-themes-of-loss-and-guilt--full-review---the-wreck-0.avif
+title: A thought-provoking story with themes of loss and guilt | Full Review - The
+  Wreck
 ---
 
 <div class="gallery">

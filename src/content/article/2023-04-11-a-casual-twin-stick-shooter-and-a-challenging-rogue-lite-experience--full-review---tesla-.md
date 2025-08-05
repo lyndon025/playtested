@@ -1,12 +1,17 @@
 ---
-title: "A casual twin-stick shooter and a challenging rogue-lite experience | Full Review - Tesla Force"
-description: "Tesla Force is a rogue-lite survival twin stick shooter developed and published by 10tons Ltd, set in an alternate history, pervaded by lovecraftian horror themes. It is available for mobile platforms, Switch, PC, and modern consoles."
-pubDate: 2023-04-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tesla-force"]
+author: lyndonguitar
+category: Review
+description: Tesla Force is a rogue-lite survival twin stick shooter developed and
+  published by 10tons Ltd, set in an alternate history, pervaded by lovecraftian horror
+  themes. It is available for mobile platforms, Switch, PC, and modern consoles.
 featured: false
-thumb: "/images/reviews/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--0.avif"
+pubDate: 2023-04-11
+tags:
+- taptap
+- tesla-force
+thumb: /images/reviews/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--0.avif
+title: A casual twin-stick shooter and a challenging rogue-lite experience | Full
+  Review - Tesla Force
 ---
 
 <div class="gallery">

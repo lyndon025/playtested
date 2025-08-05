@@ -1,12 +1,15 @@
 ---
-title: "Building upon the momentum set by Vampire Survivors and Brotato | Beta Review - Limbo Disco"
-description: "Limbo DiscoTest Global"
-pubDate: 2023-07-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "limbo-disco"]
+author: lyndonguitar
+category: Review
+description: Limbo DiscoTest Global
 featured: false
-thumb: "/images/reviews/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-0.avif"
+pubDate: 2023-07-16
+tags:
+- taptap
+- limbo-disco
+thumb: /images/reviews/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-0.avif
+title: Building upon the momentum set by Vampire Survivors and Brotato | Beta Review
+  - Limbo Disco
 ---
 
 <div class="gallery">

@@ -1,12 +1,18 @@
 ---
-title: "Provides a rare glimpse into Hogwarts after the end of the series | Harry Potter: Magic Awakened"
-description: "Recently launched worldwide, Harry Potter: Magic Awakened is a free-to-play mobile game that offers fans an immersive mobile experience in the Wizarding World like never before, featuring a captivating story and a journey filled with magic, friendship, and intrigue."
-pubDate: 2023-06-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "harry-potter:-magic-awakened™"]
+author: lyndonguitar
+category: Review
+description: 'Recently launched worldwide, Harry Potter: Magic Awakened is a free-to-play
+  mobile game that offers fans an immersive mobile experience in the Wizarding World
+  like never before, featuring a captivating story and a journey filled with magic,
+  friendship, and intrigue.'
 featured: false
-thumb: "/images/reviews/2023-06-29-provides-a-rare-glimpse-into-hogwarts-after-the-end-of-the-series--harry-potter-magic-awa-0.avif"
+pubDate: 2023-06-29
+tags:
+- taptap
+- harry-potter:-magic-awakened™
+thumb: /images/reviews/2023-06-29-provides-a-rare-glimpse-into-hogwarts-after-the-end-of-the-series--harry-potter-magic-awa-0.avif
+title: 'Provides a rare glimpse into Hogwarts after the end of the series | Harry
+  Potter: Magic Awakened'
 ---
 
 <div class="gallery">

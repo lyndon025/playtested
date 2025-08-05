@@ -1,12 +1,15 @@
 ---
-title: "Pays homage to classic titles while carving its own distinct identity | Full Review - Turbo Overkill"
-description: "Turbo Overkill"
-pubDate: 2023-08-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "turbo-overkill"]
+author: lyndonguitar
+category: Review
+description: Turbo Overkill
 featured: false
-thumb: "/images/reviews/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-0.avif"
+pubDate: 2023-08-15
+tags:
+- taptap
+- turbo-overkill
+thumb: /images/reviews/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-0.avif
+title: Pays homage to classic titles while carving its own distinct identity | Full
+  Review - Turbo Overkill
 ---
 
 <div class="gallery">

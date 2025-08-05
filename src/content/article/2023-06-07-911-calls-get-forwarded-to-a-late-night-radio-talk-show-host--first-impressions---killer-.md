@@ -1,12 +1,18 @@
 ---
-title: "911 calls get forwarded to a late night radio talk show host | First Impressions - Killer Frequency"
-description: "Killer Frequency is a first-person horror puzzle game set in the 1980s. Players assume the role of Forrest Nash, a late night radio talk show host on 189.16, “The Scream”, in the small town of Gallows Creek. The game revolves around the mysterious return of the killer known as The Whistling Man, who is causing havoc in the town."
-pubDate: 2023-06-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "killer-frequency"]
+author: lyndonguitar
+category: Review
+description: Killer Frequency is a first-person horror puzzle game set in the 1980s.
+  Players assume the role of Forrest Nash, a late night radio talk show host on 189.16,
+  “The Scream”, in the small town of Gallows Creek. The game revolves around the mysterious
+  return of the killer known as The Whistling Man, who is causing havoc in the town.
 featured: false
-thumb: ""
+pubDate: 2023-06-07
+tags:
+- taptap
+- killer-frequency
+thumb: ''
+title: 911 calls get forwarded to a late night radio talk show host | First Impressions
+  - Killer Frequency
 ---
 
 Killer Frequency is a first-person horror puzzle game set in the 1980s. Players assume the role of Forrest Nash, a late night radio talk show host on 189.16, “The Scream”, in the small town of Gallows Creek. The game revolves around the mysterious return of the killer known as The Whistling Man, who is causing havoc in the town.

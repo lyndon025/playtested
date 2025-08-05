@@ -1,12 +1,14 @@
 ---
-title: "A cartoon-ized StarCraft for mobile | First Impressions - Iron Marines+"
-description: "Iron Marines+"
-pubDate: 2023-05-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "iron-marines+"]
+author: lyndonguitar
+category: Review
+description: Iron Marines+
 featured: false
-thumb: "/images/reviews/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-0.avif"
+pubDate: 2023-05-09
+tags:
+- taptap
+- iron-marines+
+thumb: /images/reviews/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-0.avif
+title: A cartoon-ized StarCraft for mobile | First Impressions - Iron Marines+
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "Mixing sandbox, (mine)crafting, and MMORPG elements | Open Beta Impressions - Dragon and Home"
-description: "Dragon And Home"
-pubDate: 2023-05-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dragon-and-home"]
+author: lyndonguitar
+category: Review
+description: Dragon And Home
 featured: false
-thumb: "/images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-0.avif"
+pubDate: 2023-05-13
+tags:
+- taptap
+- dragon-and-home
+thumb: /images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-0.avif
+title: Mixing sandbox, (mine)crafting, and MMORPG elements | Open Beta Impressions
+  - Dragon and Home
 ---
 
 <div class="gallery">

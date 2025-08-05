@@ -1,12 +1,14 @@
 ---
-title: "The best Spider-Man game so far"
-description: "Marvel's Spider-Man: Miles Morales - Full Review"
-pubDate: 2022-11-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "marvel’s-spider-man:-miles-morales"]
+author: lyndonguitar
+category: Review
+description: 'Marvel''s Spider-Man: Miles Morales - Full Review'
 featured: false
-thumb: "/images/reviews/2022-11-20-the-best-spider-man-game-so-far-0.avif"
+pubDate: 2022-11-20
+tags:
+- taptap
+- marvel’s-spider-man:-miles-morales
+thumb: /images/reviews/2022-11-20-the-best-spider-man-game-so-far-0.avif
+title: The best Spider-Man game so far
 ---
 
 <div class="gallery">

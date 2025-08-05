@@ -1,12 +1,15 @@
 ---
-title: "The biggest CS update AND a sequel at the same time!? | Full Review - Counter-Strike 2"
-description: "Counter-Strike 2"
-pubDate: 2023-09-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "counter-strike:-source"]
+author: lyndonguitar
+category: Review
+description: Counter-Strike 2
 featured: false
-thumb: "/images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-0.avif"
+pubDate: 2023-09-28
+tags:
+- taptap
+- counter-strike:-source
+thumb: /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-0.avif
+title: The biggest CS update AND a sequel at the same time!? | Full Review - Counter-Strike
+  2
 ---
 
 <div class="gallery">

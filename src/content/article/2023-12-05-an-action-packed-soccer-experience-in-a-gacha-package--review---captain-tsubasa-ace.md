@@ -1,12 +1,16 @@
 ---
-title: "An action-packed soccer experience in a gacha package | Review - CAPTAIN TSUBASA: ACE"
-description: "CAPTAIN TSUBASA: ACEGlobal"
-pubDate: 2023-12-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "captain-tsubasa:-ace"]
+author: lyndonguitar
+category: Review
+description: 'CAPTAIN TSUBASA: ACEGlobal'
 featured: false
-thumb: "/images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-0.avif"
+pubDate: 2023-12-05
+score: 7.0
+tags:
+- taptap
+- captain-tsubasa:-ace
+thumb: /images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-0.avif
+title: 'An action-packed soccer experience in a gacha package | Review - CAPTAIN TSUBASA:
+  ACE'
 ---
 
 <div class="gallery">

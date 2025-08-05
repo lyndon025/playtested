@@ -1,12 +1,14 @@
 ---
-title: "MMORTS, Anime, Isekai, and Mechas | Full Review - Grand Cross: Age of Titans"
-description: "GRAND CROSS : Age of Titans"
-pubDate: 2023-08-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "grand-cross-:-age-of-titans"]
+author: lyndonguitar
+category: Review
+description: 'GRAND CROSS : Age of Titans'
 featured: false
-thumb: "/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif"
+pubDate: 2023-08-13
+tags:
+- taptap
+- grand-cross-:-age-of-titans
+thumb: /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif
+title: 'MMORTS, Anime, Isekai, and Mechas | Full Review - Grand Cross: Age of Titans'
 ---
 
 <div class="gallery">

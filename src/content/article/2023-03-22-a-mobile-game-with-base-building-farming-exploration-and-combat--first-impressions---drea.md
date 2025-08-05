@@ -1,12 +1,17 @@
 ---
-title: "A mobile game with base building, farming, exploration, and combat | First Impressions - Dream Land"
-description: "A spaceship has crash landed on an unknown planet. A group of survivors emerges from the wreckage. There is no way to repair the ship, leaving no choice but to salvage it for parts and set up a makeshift base."
-pubDate: 2023-03-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dream-land"]
+author: lyndonguitar
+category: Review
+description: A spaceship has crash landed on an unknown planet. A group of survivors
+  emerges from the wreckage. There is no way to repair the ship, leaving no choice
+  but to salvage it for parts and set up a makeshift base.
 featured: false
-thumb: "/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-0.avif"
+pubDate: 2023-03-22
+tags:
+- taptap
+- dream-land
+thumb: /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-0.avif
+title: A mobile game with base building, farming, exploration, and combat | First
+  Impressions - Dream Land
 ---
 
 <div class="gallery">

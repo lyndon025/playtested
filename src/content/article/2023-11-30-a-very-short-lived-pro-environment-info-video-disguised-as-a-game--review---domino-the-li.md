@@ -1,12 +1,16 @@
 ---
-title: "A very short-lived pro-environment info-video disguised as a game | Review - DOMINO The Little One"
-description: "DOMINO The Little One"
-pubDate: 2023-11-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "domino-the-little-one"]
+author: lyndonguitar
+category: Review
+description: DOMINO The Little One
 featured: false
-thumb: "/images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-0.avif"
+pubDate: 2023-11-30
+score: 3.0
+tags:
+- taptap
+- domino-the-little-one
+thumb: /images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-0.avif
+title: A very short-lived pro-environment info-video disguised as a game | Review
+  - DOMINO The Little One
 ---
 
 <div class="gallery">

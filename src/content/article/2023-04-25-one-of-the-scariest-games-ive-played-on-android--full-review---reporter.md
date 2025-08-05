@@ -1,12 +1,14 @@
 ---
-title: "One of the scariest games I’ve played on android | Full Review - Reporter"
-description: "Reporter - Scary Horror Game"
-pubDate: 2023-04-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "scary-horror-game"]
+author: lyndonguitar
+category: Review
+description: Reporter - Scary Horror Game
 featured: false
-thumb: "/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif"
+pubDate: 2023-04-25
+tags:
+- taptap
+- scary-horror-game
+thumb: /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif
+title: One of the scariest games I’ve played on android | Full Review - Reporter
 ---
 
 <div class="gallery">

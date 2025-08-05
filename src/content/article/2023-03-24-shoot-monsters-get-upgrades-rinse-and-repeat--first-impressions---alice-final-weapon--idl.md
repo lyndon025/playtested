@@ -1,12 +1,18 @@
 ---
-title: "Shoot monsters, get upgrades, rinse and repeat | First Impressions - Alice, Final Weapon : Idle RPG"
-description: "Alice, Final Weapon : Idle RPG , or ALICE is an idle monster killing RPG game with typical anime-style visuals and cel-shaded graphics, where players infinitely kill monsters in a never-ending cycle. There is no in-game story, and the whole focus is the non-stop gameplay."
-pubDate: 2023-03-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "alice,-final-weapon-:-idle-rpg"]
+author: lyndonguitar
+category: Review
+description: 'Alice, Final Weapon : Idle RPG , or ALICE is an idle monster killing
+  RPG game with typical anime-style visuals and cel-shaded graphics, where players
+  infinitely kill monsters in a never-ending cycle. There is no in-game story, and
+  the whole focus is the non-stop gameplay.'
 featured: false
-thumb: "/images/reviews/2023-03-24-shoot-monsters-get-upgrades-rinse-and-repeat--first-impressions---alice-final-weapon--idl-0.avif"
+pubDate: 2023-03-24
+tags:
+- taptap
+- alice,-final-weapon-:-idle-rpg
+thumb: /images/reviews/2023-03-24-shoot-monsters-get-upgrades-rinse-and-repeat--first-impressions---alice-final-weapon--idl-0.avif
+title: 'Shoot monsters, get upgrades, rinse and repeat | First Impressions - Alice,
+  Final Weapon : Idle RPG'
 ---
 
 <div class="gallery">

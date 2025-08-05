@@ -1,12 +1,17 @@
 ---
-title: "Rebuild the Kingdom, Protect the land, Summon Ancestors | First Impressions - Hero Legacy"
-description: "In Hero Legacy: Adventure RPG, you are a legendary hero who is the son of the former king, destined to rebuild your kingdom and vanish the enemies that threaten the land."
-pubDate: 2023-04-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rpg"]
+author: lyndonguitar
+category: Review
+description: 'In Hero Legacy: Adventure RPG, you are a legendary hero who is the son
+  of the former king, destined to rebuild your kingdom and vanish the enemies that
+  threaten the land.'
 featured: false
-thumb: "/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-0.avif"
+pubDate: 2023-04-06
+tags:
+- taptap
+- rpg
+thumb: /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-0.avif
+title: Rebuild the Kingdom, Protect the land, Summon Ancestors | First Impressions
+  - Hero Legacy
 ---
 
 <div class="gallery">

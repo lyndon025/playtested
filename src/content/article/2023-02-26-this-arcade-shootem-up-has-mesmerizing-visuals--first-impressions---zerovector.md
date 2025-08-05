@@ -1,12 +1,16 @@
 ---
-title: "This arcade shoot’em up has mesmerizing visuals | First Impressions - ZeroVector"
-description: "ZeroVector is an arcade vertical shoot’em up designed to be played with one finger, which is used to move the player's ship. The ship automatically fires at enemies, and the player must avoid the incoming projectiles cluttering the map."
-pubDate: 2023-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "zerovector"]
+author: lyndonguitar
+category: Review
+description: ZeroVector is an arcade vertical shoot’em up designed to be played with
+  one finger, which is used to move the player's ship. The ship automatically fires
+  at enemies, and the player must avoid the incoming projectiles cluttering the map.
 featured: false
-thumb: "/images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-0.avif"
+pubDate: 2023-02-26
+tags:
+- taptap
+- zerovector
+thumb: /images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-0.avif
+title: This arcade shoot’em up has mesmerizing visuals | First Impressions - ZeroVector
 ---
 
 <div class="gallery">

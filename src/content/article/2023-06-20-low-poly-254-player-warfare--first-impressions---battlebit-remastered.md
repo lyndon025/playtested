@@ -1,12 +1,17 @@
 ---
-title: "Low poly 254 player warfare! | First Impressions - BattleBit Remastered"
-description: "While still in its early access stage, BattleBit Remastered showcases potential for an exciting and dynamic gameplay experience. With its low-poly graphics and immersive sound design, the game aims to deliver a fast-paced and action-packed experience for up to 254 players per server."
-pubDate: 2023-06-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "battlebit-remastered"]
+author: lyndonguitar
+category: Review
+description: While still in its early access stage, BattleBit Remastered showcases
+  potential for an exciting and dynamic gameplay experience. With its low-poly graphics
+  and immersive sound design, the game aims to deliver a fast-paced and action-packed
+  experience for up to 254 players per server.
 featured: false
-thumb: ""
+pubDate: 2023-06-20
+tags:
+- taptap
+- battlebit-remastered
+thumb: ''
+title: Low poly 254 player warfare! | First Impressions - BattleBit Remastered
 ---
 
 While still in its early access stage, BattleBit Remastered showcases potential for an exciting and dynamic gameplay experience. With its low-poly graphics and immersive sound design, the game aims to deliver a fast-paced and action-packed experience for up to 254 players per server.

@@ -1,12 +1,18 @@
 ---
-title: "A deck building/FPS game hybrid | First Impressions - Friends vs Friends"
-description: "Friends vs Friends is an online PvP shooter game that offers a unique blend of FPS combat and deck building gameplay. In this game, players choose a character from a selection of groups of anthropomorphic friends and customize their loadout using a card-based system. Each card represents a specific ability or weapon that players can use during battles."
-pubDate: 2023-06-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "friends-vs-friends"]
+author: lyndonguitar
+category: Review
+description: Friends vs Friends is an online PvP shooter game that offers a unique
+  blend of FPS combat and deck building gameplay. In this game, players choose a character
+  from a selection of groups of anthropomorphic friends and customize their loadout
+  using a card-based system. Each card represents a specific ability or weapon that
+  players can use during battles.
 featured: false
-thumb: ""
+pubDate: 2023-06-06
+tags:
+- taptap
+- friends-vs-friends
+thumb: ''
+title: A deck building/FPS game hybrid | First Impressions - Friends vs Friends
 ---
 
 Friends vs Friends is an online PvP shooter game that offers a unique blend of FPS combat and deck building gameplay. In this game, players choose a character from a selection of groups of anthropomorphic friends and customize their loadout using a card-based system. Each card represents a specific ability or weapon that players can use during battles.

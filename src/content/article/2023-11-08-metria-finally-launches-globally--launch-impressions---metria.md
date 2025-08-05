@@ -1,12 +1,17 @@
 ---
-title: "Metria finally launches globally | Launch Impressions - Metria"
-description: "Metria is an action RPG game that recently had a global release on November 7, 2023. The game features a promising storyline, vibrant and colorful cel-shaded, anime-inspired graphics, third-person combat with various character classes, and seamless character switching."
-pubDate: 2023-11-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rpg-metria-the-starlight"]
+author: lyndonguitar
+category: Review
+description: Metria is an action RPG game that recently had a global release on November
+  7, 2023. The game features a promising storyline, vibrant and colorful cel-shaded,
+  anime-inspired graphics, third-person combat with various character classes, and
+  seamless character switching.
 featured: false
-thumb: ""
+pubDate: 2023-11-08
+tags:
+- taptap
+- rpg-metria-the-starlight
+thumb: ''
+title: Metria finally launches globally | Launch Impressions - Metria
 ---
 
 Metria is an action RPG game that recently had a global release on November 7, 2023. The game features a promising storyline, vibrant and colorful cel-shaded, anime-inspired graphics, third-person combat with various character classes, and seamless character switching.

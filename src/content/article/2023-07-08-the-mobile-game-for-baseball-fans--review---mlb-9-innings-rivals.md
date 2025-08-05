@@ -1,12 +1,14 @@
 ---
-title: "THE mobile game for baseball fans | Review - MLB 9 Innings Rivals"
-description: "MLB Rivals"
-pubDate: 2023-07-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mlb-rivals"]
+author: lyndonguitar
+category: Review
+description: MLB Rivals
 featured: false
-thumb: "/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-0.avif"
+pubDate: 2023-07-08
+tags:
+- taptap
+- mlb-rivals
+thumb: /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-0.avif
+title: THE mobile game for baseball fans | Review - MLB 9 Innings Rivals
 ---
 
 <div class="gallery">

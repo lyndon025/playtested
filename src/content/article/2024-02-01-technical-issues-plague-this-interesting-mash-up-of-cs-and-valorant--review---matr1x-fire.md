@@ -1,12 +1,16 @@
 ---
-title: "Technical issues plague this interesting mash-up of CS and Valorant | Review - Matr1x FIRE beta"
-description: "MATR1X FIRE"
-pubDate: 2024-02-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "counter-strike-2"]
+author: lyndonguitar
+category: Review
+description: MATR1X FIRE
 featured: false
-thumb: "/images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-0.avif"
+pubDate: 2024-02-01
+score: 5.0
+tags:
+- taptap
+- counter-strike-2
+thumb: /images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-0.avif
+title: Technical issues plague this interesting mash-up of CS and Valorant | Review
+  - Matr1x FIRE beta
 ---
 
 <div class="gallery">

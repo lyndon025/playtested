@@ -1,12 +1,18 @@
 ---
-title: "Starfield is releasing this Sept 6, but what is it, really? | First Impressions - Starfield"
-description: "It's created by the same makers as Elder Scrolls V: Skyrim,  Elder Scrolls IV: Oblivion, Fallout 3, and Fallout 4. So, if you've enjoyed any of those games, there's a good chance you'll like this one, especially if you're a fan of space exploration and space-themed titles like No Man's Sky or Star Citizen."
-pubDate: 2023-09-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "starfield"]
+author: lyndonguitar
+category: Review
+description: 'It''s created by the same makers as Elder Scrolls V: Skyrim,  Elder
+  Scrolls IV: Oblivion, Fallout 3, and Fallout 4. So, if you''ve enjoyed any of those
+  games, there''s a good chance you''ll like this one, especially if you''re a fan
+  of space exploration and space-themed titles like No Man''s Sky or Star Citizen.'
 featured: false
-thumb: ""
+pubDate: 2023-09-03
+tags:
+- taptap
+- starfield
+thumb: ''
+title: Starfield is releasing this Sept 6, but what is it, really? | First Impressions
+  - Starfield
 ---
 
 It's created by the same makers as Elder Scrolls V: Skyrim,  Elder Scrolls IV: Oblivion, Fallout 3, and Fallout 4. So, if you've enjoyed any of those games, there's a good chance you'll like this one, especially if you're a fan of space exploration and space-themed titles like No Man's Sky or Star Citizen.

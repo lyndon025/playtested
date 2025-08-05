@@ -1,12 +1,17 @@
 ---
-title: "There are gun wielding zombies in this retro shooter | Ailment: dead standoff - First Impressions"
-description: "Ailment: dead standoff is a single-stick shooter with a retro pixel-art take, plus an interesting story as an extra bonus. Of course, if you see the word “dead” in the title, it better include zombies, and it does."
-pubDate: 2023-02-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ailment:-dead-standoff-premium"]
+author: lyndonguitar
+category: Review
+description: 'Ailment: dead standoff is a single-stick shooter with a retro pixel-art
+  take, plus an interesting story as an extra bonus. Of course, if you see the word
+  “dead” in the title, it better include zombies, and it does.'
 featured: false
-thumb: "/images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-0.avif"
+pubDate: 2023-02-03
+tags:
+- taptap
+- ailment:-dead-standoff-premium
+thumb: /images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-0.avif
+title: 'There are gun wielding zombies in this retro shooter | Ailment: dead standoff
+  - First Impressions'
 ---
 
 <div class="gallery">

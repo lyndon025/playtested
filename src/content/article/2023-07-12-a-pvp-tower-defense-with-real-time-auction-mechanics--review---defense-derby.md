@@ -1,12 +1,14 @@
 ---
-title: "A PvP tower defense with real-time auction mechanics | Review - Defense Derby"
-description: "Defense Derby"
-pubDate: 2023-07-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "defense-derby"]
+author: lyndonguitar
+category: Review
+description: Defense Derby
 featured: false
-thumb: "/images/reviews/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-0.avif"
+pubDate: 2023-07-12
+tags:
+- taptap
+- defense-derby
+thumb: /images/reviews/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-0.avif
+title: A PvP tower defense with real-time auction mechanics | Review - Defense Derby
 ---
 
 <div class="gallery">

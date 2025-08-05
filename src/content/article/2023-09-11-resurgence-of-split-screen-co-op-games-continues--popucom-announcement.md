@@ -1,12 +1,20 @@
 ---
-title: "Resurgence of split-screen co-op games continues! | POPUCOM announcement"
-description: "The resurgence of split-screen cooperative games, spearheaded by the 2021 Game Awards GOTY winner, It Takes Two, marks a heartwarming return to the roots of shared gaming experiences. Nowadays, even blockbuster hits such as Baldur's Gate 3 even has split-screen coop. It reminds us of the sheer joy and camaraderie that local co-op gaming can provide, offering a refreshing break from the ultra-competitive titles saturating the multiplayer market today. With the announcement of POPUCOM, it appears that another promising cooperative gem is on the horizon."
-pubDate: 2023-09-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "popucom"]
+author: lyndonguitar
+category: Review
+description: The resurgence of split-screen cooperative games, spearheaded by the
+  2021 Game Awards GOTY winner, It Takes Two, marks a heartwarming return to the roots
+  of shared gaming experiences. Nowadays, even blockbuster hits such as Baldur's Gate
+  3 even has split-screen coop. It reminds us of the sheer joy and camaraderie that
+  local co-op gaming can provide, offering a refreshing break from the ultra-competitive
+  titles saturating the multiplayer market today. With the announcement of POPUCOM,
+  it appears that another promising cooperative gem is on the horizon.
 featured: false
-thumb: ""
+pubDate: 2023-09-11
+tags:
+- taptap
+- popucom
+thumb: ''
+title: Resurgence of split-screen co-op games continues! | POPUCOM announcement
 ---
 
 The resurgence of split-screen cooperative games, spearheaded by the 2021 Game Awards GOTY winner, It Takes Two, marks a heartwarming return to the roots of shared gaming experiences. Nowadays, even blockbuster hits such as Baldur's Gate 3 even has split-screen coop. It reminds us of the sheer joy and camaraderie that local co-op gaming can provide, offering a refreshing break from the ultra-competitive titles saturating the multiplayer market today. With the announcement of POPUCOM, it appears that another promising cooperative gem is on the horizon.

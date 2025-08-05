@@ -1,12 +1,16 @@
 ---
-title: "A creative rogue-lite where breaking the game is encouraged | PC+Mobile (Cloud) - Core Devourer"
-description: "Core Devourer"
-pubDate: 2023-12-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "risk-of-rain-2"]
+author: lyndonguitar
+category: Review
+description: Core Devourer
 featured: false
-thumb: "/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-0.avif"
+pubDate: 2023-12-12
+score: 7.0
+tags:
+- taptap
+- risk-of-rain-2
+thumb: /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-0.avif
+title: A creative rogue-lite where breaking the game is encouraged | PC+Mobile (Cloud)
+  - Core Devourer
 ---
 
 <div class="gallery">

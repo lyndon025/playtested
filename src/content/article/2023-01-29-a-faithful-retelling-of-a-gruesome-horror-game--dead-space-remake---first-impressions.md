@@ -1,12 +1,18 @@
 ---
-title: "A faithful retelling of a gruesome horror game | Dead Space Remake - First Impressions"
-description: "Having played the jaw dropping original Dead Space back in 2008, I was excited to finally play the remake and I gotta say, Dead Space is back, and it is as still jaw dropping as ever, maybe even better. It got the Resident Evil 2 Remake treatment and even surpassed that in my opinion."
-pubDate: 2023-01-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dead-space"]
+author: lyndonguitar
+category: Review
+description: Having played the jaw dropping original Dead Space back in 2008, I was
+  excited to finally play the remake and I gotta say, Dead Space is back, and it is
+  as still jaw dropping as ever, maybe even better. It got the Resident Evil 2 Remake
+  treatment and even surpassed that in my opinion.
 featured: false
-thumb: "/images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-0.avif"
+pubDate: 2023-01-29
+tags:
+- taptap
+- dead-space
+thumb: /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-0.avif
+title: A faithful retelling of a gruesome horror game | Dead Space Remake - First
+  Impressions
 ---
 
 <div class="gallery">

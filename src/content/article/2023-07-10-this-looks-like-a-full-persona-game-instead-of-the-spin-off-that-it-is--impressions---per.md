@@ -1,12 +1,15 @@
 ---
-title: "This looks like a full Persona game instead of the spin-off that it is | Impressions - Persona 5 X"
-description: "Persona 5: The Phantom X"
-pubDate: 2023-07-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "persona-5:-the-phantom-x"]
+author: lyndonguitar
+category: Review
+description: 'Persona 5: The Phantom X'
 featured: false
-thumb: "/images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-0.avif"
+pubDate: 2023-07-10
+tags:
+- taptap
+- persona-5:-the-phantom-x
+thumb: /images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-0.avif
+title: This looks like a full Persona game instead of the spin-off that it is | Impressions
+  - Persona 5 X
 ---
 
 <div class="gallery">

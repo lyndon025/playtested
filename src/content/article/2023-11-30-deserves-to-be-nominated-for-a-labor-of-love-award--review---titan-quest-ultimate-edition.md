@@ -1,12 +1,16 @@
 ---
-title: "Deserves to be nominated for a Labor of Love award | Review - Titan Quest: Ultimate Edition"
-description: "Titan Quest: Ultimate Edition"
-pubDate: 2023-11-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "titan-quest:-legendary-edition"]
+author: lyndonguitar
+category: Review
+description: 'Titan Quest: Ultimate Edition'
 featured: false
-thumb: "/images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-0.avif"
+pubDate: 2023-11-30
+score: 8.0
+tags:
+- taptap
+- titan-quest:-legendary-edition
+thumb: /images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-0.avif
+title: 'Deserves to be nominated for a Labor of Love award | Review - Titan Quest:
+  Ultimate Edition'
 ---
 
 <div class="gallery">

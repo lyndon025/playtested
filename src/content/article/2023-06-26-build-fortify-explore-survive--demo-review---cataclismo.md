@@ -1,12 +1,14 @@
 ---
-title: "Build, Fortify, Explore, Survive | Demo Review - Cataclismo"
-description: "Cataclismo"
-pubDate: 2023-06-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cataclismo"]
+author: lyndonguitar
+category: Review
+description: Cataclismo
 featured: false
-thumb: "/images/reviews/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-0.avif"
+pubDate: 2023-06-26
+tags:
+- taptap
+- cataclismo
+thumb: /images/reviews/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-0.avif
+title: Build, Fortify, Explore, Survive | Demo Review - Cataclismo
 ---
 
 <div class="gallery">

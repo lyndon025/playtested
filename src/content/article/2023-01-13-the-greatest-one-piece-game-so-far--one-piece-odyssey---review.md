@@ -1,12 +1,17 @@
 ---
-title: "The greatest ONE PIECE game so far! | ONE PIECE ODYSSEY - Review"
-description: "ONE PIECE ODYSSEY is something special. A rare occurrence; there’s finally a good Anime game that isn’t a hack and slash or a fighting game, as it instead features a fresh JRPG turn-based combat system. A nice change of pace and a solid design decision worthy of our attention."
-pubDate: 2023-01-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "one-piece-odyssey-(pc)"]
+author: lyndonguitar
+category: Review
+description: ONE PIECE ODYSSEY is something special. A rare occurrence; there’s finally
+  a good Anime game that isn’t a hack and slash or a fighting game, as it instead
+  features a fresh JRPG turn-based combat system. A nice change of pace and a solid
+  design decision worthy of our attention.
 featured: false
-thumb: "/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-0.avif"
+pubDate: 2023-01-13
+tags:
+- taptap
+- one-piece-odyssey-(pc)
+thumb: /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-0.avif
+title: The greatest ONE PIECE game so far! | ONE PIECE ODYSSEY - Review
 ---
 
 <div class="gallery">

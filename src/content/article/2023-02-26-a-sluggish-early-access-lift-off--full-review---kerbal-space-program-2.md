@@ -1,12 +1,16 @@
 ---
-title: "A sluggish Early Access lift-off | Full Review - Kerbal Space Program 2"
-description: "Kerbal Space Program 2 is now released in Early Access. Is it a decent follow-up to one of the greatest spacecraft physics simulation games of all time — Kerbal Space Program?"
-pubDate: 2023-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kerbal-space-program-2"]
+author: lyndonguitar
+category: Review
+description: Kerbal Space Program 2 is now released in Early Access. Is it a decent
+  follow-up to one of the greatest spacecraft physics simulation games of all time
+  — Kerbal Space Program?
 featured: false
-thumb: "/images/reviews/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-0.avif"
+pubDate: 2023-02-26
+tags:
+- taptap
+- kerbal-space-program-2
+thumb: /images/reviews/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-0.avif
+title: A sluggish Early Access lift-off | Full Review - Kerbal Space Program 2
 ---
 
 <div class="gallery">

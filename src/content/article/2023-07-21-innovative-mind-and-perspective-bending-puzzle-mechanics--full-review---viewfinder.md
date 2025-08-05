@@ -1,12 +1,14 @@
 ---
-title: "Innovative mind and perspective bending puzzle mechanics | Full Review - Viewfinder"
-description: "Viewfinder"
-pubDate: 2023-07-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "viewfinder"]
+author: lyndonguitar
+category: Review
+description: Viewfinder
 featured: false
-thumb: "/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-0.avif"
+pubDate: 2023-07-21
+tags:
+- taptap
+- viewfinder
+thumb: /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-0.avif
+title: Innovative mind and perspective bending puzzle mechanics | Full Review - Viewfinder
 ---
 
 <div class="gallery">

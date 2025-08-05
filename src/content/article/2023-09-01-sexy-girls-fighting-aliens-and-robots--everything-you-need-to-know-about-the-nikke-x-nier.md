@@ -1,12 +1,22 @@
 ---
-title: "Sexy girls fighting aliens and robots — Everything you need to know about the NIKKE x NieR crossover"
-description: "Developed by Shift Up, Goddess of Victory: Nikke, or Nikke is a free-to-play sci-fi shooter that has garnered attention for its action-packed gameplay and, well, it's rather unique exaggerated physics. The game features a cast of buxom waifu characters, each armed to the teeth and ready for action. While the gameplay itself is no joke, what really sets Nikke apart is its over the shoulder and cover action, and playful approach to character movement, where the recoil from shooting causes certain assets to, shall we say, exhibit quite noticeable jiggle. It's unapologetically over-the-top, and players have embraced it for its fan service fun."
-pubDate: 2023-09-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "goddess-of-victory:-nikke"]
+author: lyndonguitar
+category: Review
+description: 'Developed by Shift Up, Goddess of Victory: Nikke, or Nikke is a free-to-play
+  sci-fi shooter that has garnered attention for its action-packed gameplay and, well,
+  it''s rather unique exaggerated physics. The game features a cast of buxom waifu
+  characters, each armed to the teeth and ready for action. While the gameplay itself
+  is no joke, what really sets Nikke apart is its over the shoulder and cover action,
+  and playful approach to character movement, where the recoil from shooting causes
+  certain assets to, shall we say, exhibit quite noticeable jiggle. It''s unapologetically
+  over-the-top, and players have embraced it for its fan service fun.'
 featured: false
-thumb: "/images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-0.avif"
+pubDate: 2023-09-01
+tags:
+- taptap
+- goddess-of-victory:-nikke
+thumb: /images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-0.avif
+title: Sexy girls fighting aliens and robots — Everything you need to know about the
+  NIKKE x NieR crossover
 ---
 
 <div class="gallery">

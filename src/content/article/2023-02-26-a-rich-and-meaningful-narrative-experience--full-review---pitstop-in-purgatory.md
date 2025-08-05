@@ -1,12 +1,16 @@
 ---
-title: "A rich and meaningful narrative experience | Full Review - Pitstop in Purgatory"
-description: "Pitstop in Purgatory is a visual novel / adventure game full of story and thought-provoking ideas. Originally made for PC in a surprising two-month timeframe, it is now available as well for Android."
-pubDate: 2023-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "pitstop-in-purgatory"]
+author: lyndonguitar
+category: Review
+description: Pitstop in Purgatory is a visual novel / adventure game full of story
+  and thought-provoking ideas. Originally made for PC in a surprising two-month timeframe,
+  it is now available as well for Android.
 featured: false
-thumb: "/images/reviews/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-0.avif"
+pubDate: 2023-02-26
+tags:
+- taptap
+- pitstop-in-purgatory
+thumb: /images/reviews/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-0.avif
+title: A rich and meaningful narrative experience | Full Review - Pitstop in Purgatory
 ---
 
 <div class="gallery">

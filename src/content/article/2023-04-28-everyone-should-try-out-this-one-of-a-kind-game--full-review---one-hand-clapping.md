@@ -1,12 +1,14 @@
 ---
-title: "Everyone should try out this one of a kind game | Full Review - One Hand Clapping"
-description: "One Hand Clapping"
-pubDate: 2023-04-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "one-hand-clapping"]
+author: lyndonguitar
+category: Review
+description: One Hand Clapping
 featured: false
-thumb: "/images/reviews/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-0.avif"
+pubDate: 2023-04-28
+tags:
+- taptap
+- one-hand-clapping
+thumb: /images/reviews/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-0.avif
+title: Everyone should try out this one of a kind game | Full Review - One Hand Clapping
 ---
 
 <div class="gallery">

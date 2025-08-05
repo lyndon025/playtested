@@ -1,12 +1,17 @@
 ---
-title: "Explore this massive open world 2D RPG at your own pace | Kandria - Review"
-description: "Kandria is a newly released hack and slash open world adventure game that you might say has rather simple pixel graphics, but fret not, underneath that surface level simplicity is a complex and expansive open world RPG game that will surely captivate you for hours on end."
-pubDate: 2023-01-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kandria-(pc)"]
+author: lyndonguitar
+category: Review
+description: Kandria is a newly released hack and slash open world adventure game
+  that you might say has rather simple pixel graphics, but fret not, underneath that
+  surface level simplicity is a complex and expansive open world RPG game that will
+  surely captivate you for hours on end.
 featured: false
-thumb: "/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-0.avif"
+pubDate: 2023-01-12
+tags:
+- taptap
+- kandria-(pc)
+thumb: /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-0.avif
+title: Explore this massive open world 2D RPG at your own pace | Kandria - Review
 ---
 
 <div class="gallery">

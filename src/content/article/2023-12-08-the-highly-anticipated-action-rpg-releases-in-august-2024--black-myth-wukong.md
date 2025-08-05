@@ -1,12 +1,14 @@
 ---
-title: "The highly anticipated Action RPG releases in August 2024! | Black Myth: Wukong"
-description: "Black Myth: Wukong"
-pubDate: 2023-12-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "black-myth:-wukong"]
+author: lyndonguitar
+category: Review
+description: 'Black Myth: Wukong'
 featured: false
-thumb: "/images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-0.avif"
+pubDate: 2023-12-08
+tags:
+- taptap
+- black-myth:-wukong
+thumb: /images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-0.avif
+title: 'The highly anticipated Action RPG releases in August 2024! | Black Myth: Wukong'
 ---
 
 <div class="gallery">

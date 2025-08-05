@@ -1,12 +1,17 @@
 ---
-title: "An environmental friendly platformer? | Impressions - DOMINO The Little One"
-description: "Saving the world is cool, facing monsters is badass, but doing both at the same time? DOMINO: The Little One is a 2D platformer game aims to do just that. Well, the game promises to be an immersive interactive narrative experience that will test your wit and determination. Is it? Does it?"
-pubDate: 2023-11-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "domino-the-little-one"]
+author: lyndonguitar
+category: Review
+description: 'Saving the world is cool, facing monsters is badass, but doing both
+  at the same time? DOMINO: The Little One is a 2D platformer game aims to do just
+  that. Well, the game promises to be an immersive interactive narrative experience
+  that will test your wit and determination. Is it? Does it?'
 featured: false
-thumb: ""
+pubDate: 2023-11-30
+tags:
+- taptap
+- domino-the-little-one
+thumb: ''
+title: An environmental friendly platformer? | Impressions - DOMINO The Little One
 ---
 
 Saving the world is cool, facing monsters is badass, but doing both at the same time? DOMINO: The Little One is a 2D platformer game aims to do just that. Well, the game promises to be an immersive interactive narrative experience that will test your wit and determination. Is it? Does it?

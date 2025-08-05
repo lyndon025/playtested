@@ -1,12 +1,15 @@
 ---
-title: "It's nearly a great rogue-lite shooter | Review - Dimension Hunter"
-description: "Dimension Hunter"
-pubDate: 2023-12-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dimension hunter"]
+author: lyndonguitar
+category: Review
+description: Dimension Hunter
 featured: false
-thumb: "/images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-0.avif"
+pubDate: 2023-12-05
+score: 6.0
+tags:
+- taptap
+- dimension hunter
+thumb: /images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-0.avif
+title: It's nearly a great rogue-lite shooter | Review - Dimension Hunter
 ---
 
 <div class="gallery">

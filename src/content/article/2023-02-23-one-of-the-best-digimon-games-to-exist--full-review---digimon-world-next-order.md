@@ -1,12 +1,16 @@
 ---
-title: "One of the best Digimon games to exist | Full Review - Digimon World: Next Order"
-description: "Digimon World: Next Order is the much needed spiritual successor to the original Digimon World and its remake, Digimon World Re: Digitize."
-pubDate: 2023-02-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "digimon-world:-next-order"]
+author: lyndonguitar
+category: Review
+description: 'Digimon World: Next Order is the much needed spiritual successor to
+  the original Digimon World and its remake, Digimon World Re: Digitize.'
 featured: false
-thumb: "/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-0.avif"
+pubDate: 2023-02-23
+tags:
+- taptap
+- digimon-world:-next-order
+thumb: /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-0.avif
+title: 'One of the best Digimon games to exist | Full Review - Digimon World: Next
+  Order'
 ---
 
 <div class="gallery">

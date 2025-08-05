@@ -1,12 +1,15 @@
 ---
-title: "A puzzle game disguised as a cyberpunk turn-based hack and slash | Review - Red Ronin"
-description: "Red Ronin (Demo)"
-pubDate: 2023-07-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "red-ronin"]
+author: lyndonguitar
+category: Review
+description: Red Ronin (Demo)
 featured: false
-thumb: "/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-0.avif"
+pubDate: 2023-07-18
+tags:
+- taptap
+- red-ronin
+thumb: /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-0.avif
+title: A puzzle game disguised as a cyberpunk turn-based hack and slash | Review -
+  Red Ronin
 ---
 
 <div class="gallery">

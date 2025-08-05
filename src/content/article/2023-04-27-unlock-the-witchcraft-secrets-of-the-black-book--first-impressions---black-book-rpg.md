@@ -1,12 +1,15 @@
 ---
-title: "Unlock the witchcraft secrets of the Black Book | First Impressions - Black Book RPG"
-description: "Black Book RPG"
-pubDate: 2023-04-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "black-book-rpg"]
+author: lyndonguitar
+category: Review
+description: Black Book RPG
 featured: false
-thumb: "/images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-0.avif"
+pubDate: 2023-04-27
+tags:
+- taptap
+- black-book-rpg
+thumb: /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-0.avif
+title: Unlock the witchcraft secrets of the Black Book | First Impressions - Black
+  Book RPG
 ---
 
 <div class="gallery">

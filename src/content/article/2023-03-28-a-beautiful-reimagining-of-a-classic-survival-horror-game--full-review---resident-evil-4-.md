@@ -1,12 +1,18 @@
 ---
-title: "A beautiful reimagining of a classic survival horror game | Full Review - Resident Evil 4 Remake"
-description: "Resident Evil 4 is the remake of the survivor horror classic bearing the same name back in 2005, as players continue the story of Leon S. Kennedy from Resident Evil 2, and his brand new mission to find the kidnapped daughter of the US president."
-pubDate: 2023-03-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "resident-evil-4"]
+author: lyndonguitar
+category: Review
+description: Resident Evil 4 is the remake of the survivor horror classic bearing
+  the same name back in 2005, as players continue the story of Leon S. Kennedy from
+  Resident Evil 2, and his brand new mission to find the kidnapped daughter of the
+  US president.
 featured: false
-thumb: "/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--0.avif"
+pubDate: 2023-03-28
+tags:
+- taptap
+- resident-evil-4
+thumb: /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--0.avif
+title: A beautiful reimagining of a classic survival horror game | Full Review - Resident
+  Evil 4 Remake
 ---
 
 <div class="gallery">

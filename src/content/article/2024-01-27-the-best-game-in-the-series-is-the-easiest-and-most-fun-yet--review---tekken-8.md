@@ -1,12 +1,16 @@
 ---
-title: "The best game in the series is the easiest and most fun yet | Review - Tekken 8"
-description: "TEKKEN 8"
-pubDate: 2024-01-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tekken-7"]
+author: lyndonguitar
+category: Review
+description: TEKKEN 8
 featured: false
-thumb: "/images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-0.avif"
+pubDate: 2024-01-27
+score: 10.0
+tags:
+- taptap
+- tekken-7
+thumb: /images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-0.avif
+title: The best game in the series is the easiest and most fun yet | Review - Tekken
+  8
 ---
 
 <div class="gallery">

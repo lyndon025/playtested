@@ -1,12 +1,20 @@
 ---
-title: "I did not expect this from a Contra game! Pleasantly surprised! | Impressions - Contra: Tournament"
-description: "Contra: Tournament is a third-person battle royale survival game designed for mobile devices. In this fresh but pleasantly surprising take on the Contra franchise, you and up to 100 players engage in a fierce battle to claim the title of the ultimate winner within a vast and sprawling map. A Closed Beta Test for Contra: Tournament has recently started, allowing players to experience and provide feedback on this upcoming new title."
-pubDate: 2023-06-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "contra: tournament"]
+author: lyndonguitar
+category: Review
+description: 'Contra: Tournament is a third-person battle royale survival game designed
+  for mobile devices. In this fresh but pleasantly surprising take on the Contra franchise,
+  you and up to 100 players engage in a fierce battle to claim the title of the ultimate
+  winner within a vast and sprawling map. A Closed Beta Test for Contra: Tournament
+  has recently started, allowing players to experience and provide feedback on this
+  upcoming new title.'
 featured: false
-thumb: ""
+pubDate: 2023-06-29
+tags:
+- taptap
+- contra: tournament
+thumb: ''
+title: 'I did not expect this from a Contra game! Pleasantly surprised! | Impressions
+  - Contra: Tournament'
 ---
 
 Contra: Tournament is a third-person battle royale survival game designed for mobile devices. In this fresh but pleasantly surprising take on the Contra franchise, you and up to 100 players engage in a fierce battle to claim the title of the ultimate winner within a vast and sprawling map. A Closed Beta Test for Contra: Tournament has recently started, allowing players to experience and provide feedback on this upcoming new title.

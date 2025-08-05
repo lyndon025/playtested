@@ -1,12 +1,15 @@
 ---
-title: "A dog guiding humans through a mysterious and surreal world | First Impressions - HUMANITY"
-description: "HUMANITY"
-pubDate: 2023-05-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "humanity"]
+author: lyndonguitar
+category: Review
+description: HUMANITY
 featured: false
-thumb: "/images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-0.avif"
+pubDate: 2023-05-19
+tags:
+- taptap
+- humanity
+thumb: /images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-0.avif
+title: A dog guiding humans through a mysterious and surreal world | First Impressions
+  - HUMANITY
 ---
 
 <div class="gallery">

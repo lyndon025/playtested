@@ -1,12 +1,17 @@
 ---
-title: "A welcome addition to the TRON franchise | First Impressions - Tron: Identity"
-description: "Tron: Identity takes us back to the Tron Universe, in a never before seen world, or server as it might be called – in a puzzle adventure game format where the player’s decisions matter. The players control the detective program Query, tasked to investigate a mysterious event, finding out the whos, whys, and whats."
-pubDate: 2023-04-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tron:-identity"]
+author: lyndonguitar
+category: Review
+description: 'Tron: Identity takes us back to the Tron Universe, in a never before
+  seen world, or server as it might be called – in a puzzle adventure game format
+  where the player’s decisions matter. The players control the detective program Query,
+  tasked to investigate a mysterious event, finding out the whos, whys, and whats.'
 featured: false
-thumb: "/images/reviews/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-0.avif"
+pubDate: 2023-04-13
+tags:
+- taptap
+- tron:-identity
+thumb: /images/reviews/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-0.avif
+title: 'A welcome addition to the TRON franchise | First Impressions - Tron: Identity'
 ---
 
 <div class="gallery">

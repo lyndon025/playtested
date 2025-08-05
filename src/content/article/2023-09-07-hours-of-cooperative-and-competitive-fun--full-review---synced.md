@@ -1,12 +1,14 @@
 ---
-title: "Hours of cooperative and competitive fun! | Full Review - SYNCED"
-description: "SYNCED"
-pubDate: 2023-09-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "synced"]
+author: lyndonguitar
+category: Review
+description: SYNCED
 featured: false
-thumb: "/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif"
+pubDate: 2023-09-07
+tags:
+- taptap
+- synced
+thumb: /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif
+title: Hours of cooperative and competitive fun! | Full Review - SYNCED
 ---
 
 <div class="gallery">

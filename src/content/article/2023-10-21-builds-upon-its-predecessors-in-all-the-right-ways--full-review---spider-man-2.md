@@ -1,12 +1,16 @@
 ---
-title: "Builds upon its predecessors in all the right ways | Full Review - Spider-Man 2"
-description: "Marvel’s Spider-Man 2"
-pubDate: 2023-10-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "marvel’s-spider-man-remastered"]
+author: lyndonguitar
+category: Review
+description: Marvel’s Spider-Man 2
 featured: false
-thumb: "/images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-0.avif"
+pubDate: 2023-10-21
+score: 9.0
+tags:
+- taptap
+- marvel’s-spider-man-remastered
+thumb: /images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-0.avif
+title: Builds upon its predecessors in all the right ways | Full Review - Spider-Man
+  2
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "Retro aesthetic, twin shooters, and inverted worlds | First Impressions - Roto Force"
-description: "As a new intern at Roto Force, you’ll go on missions through the game’s variety of worlds and environments, battling different kinds of enemies and bosses."
-pubDate: 2023-07-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "roto-force"]
+author: lyndonguitar
+category: Review
+description: As a new intern at Roto Force, you’ll go on missions through the game’s
+  variety of worlds and environments, battling different kinds of enemies and bosses.
 featured: false
-thumb: ""
+pubDate: 2023-07-17
+tags:
+- taptap
+- roto-force
+thumb: ''
+title: Retro aesthetic, twin shooters, and inverted worlds | First Impressions - Roto
+  Force
 ---
 
 As a new intern at Roto Force, you’ll go on missions through the game’s variety of worlds and environments, battling different kinds of enemies and bosses.

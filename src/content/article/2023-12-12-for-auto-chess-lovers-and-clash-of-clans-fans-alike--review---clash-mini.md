@@ -1,12 +1,15 @@
 ---
-title: "For auto-chess lovers and Clash of Clans fans alike | Review - Clash Mini"
-description: "Clash Mini"
-pubDate: 2023-12-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "clash-royale"]
+author: lyndonguitar
+category: Review
+description: Clash Mini
 featured: false
-thumb: "/images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-0.avif"
+pubDate: 2023-12-12
+score: 8.0
+tags:
+- taptap
+- clash-royale
+thumb: /images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-0.avif
+title: For auto-chess lovers and Clash of Clans fans alike | Review - Clash Mini
 ---
 
 <div class="gallery">

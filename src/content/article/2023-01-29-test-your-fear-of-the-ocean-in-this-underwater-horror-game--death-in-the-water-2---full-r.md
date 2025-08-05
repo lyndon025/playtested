@@ -1,12 +1,17 @@
 ---
-title: "Test your fear of the ocean in this underwater horror game | Death in the Water 2 - Full Review"
-description: "Death in the Water 2 is a single-player horror FPS game that is set deep underwater, pitting you — a specialist deep-water diver — against various mind controlled sea creatures perpetuated by a sinister being – The Kraken, or what they call Death."
-pubDate: 2023-01-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "death-in-the-water-2"]
+author: lyndonguitar
+category: Review
+description: Death in the Water 2 is a single-player horror FPS game that is set deep
+  underwater, pitting you — a specialist deep-water diver — against various mind controlled
+  sea creatures perpetuated by a sinister being – The Kraken, or what they call Death.
 featured: false
-thumb: "/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-0.avif"
+pubDate: 2023-01-29
+tags:
+- taptap
+- death-in-the-water-2
+thumb: /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-0.avif
+title: Test your fear of the ocean in this underwater horror game | Death in the Water
+  2 - Full Review
 ---
 
 <div class="gallery">

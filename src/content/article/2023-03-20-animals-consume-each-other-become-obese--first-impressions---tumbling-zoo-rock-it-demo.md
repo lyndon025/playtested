@@ -1,12 +1,18 @@
 ---
-title: "Animals consume each other, become obese | First Impressions - Tumbling Zoo-rock it (Demo)"
-description: "Tumbling Zoo-rock it, is a consumption game reminiscent of .io games such as agar.io and hole.io where you need to consume food and other players to make yourselves bigger, with the ultimate goal of becoming the biggest player on the map by the timer ends."
-pubDate: 2023-03-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tumbling-zoo-rock-it(demo)"]
+author: lyndonguitar
+category: Review
+description: Tumbling Zoo-rock it, is a consumption game reminiscent of .io games
+  such as agar.io and hole.io where you need to consume food and other players to
+  make yourselves bigger, with the ultimate goal of becoming the biggest player on
+  the map by the timer ends.
 featured: false
-thumb: "/images/reviews/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-0.avif"
+pubDate: 2023-03-20
+tags:
+- taptap
+- tumbling-zoo-rock-it(demo)
+thumb: /images/reviews/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-0.avif
+title: Animals consume each other, become obese | First Impressions - Tumbling Zoo-rock
+  it (Demo)
 ---
 
 <div class="gallery">

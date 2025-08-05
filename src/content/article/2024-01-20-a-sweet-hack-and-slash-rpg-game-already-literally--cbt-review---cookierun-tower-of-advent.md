@@ -1,12 +1,15 @@
 ---
-title: "A SWEET hack and slash RPG game already, literally | CBT Review - CookieRun: Tower of Adventures"
-description: "CookieRun: Tower of Adventures"
-pubDate: 2024-01-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cookierun:-tower-of-adventures"]
+author: lyndonguitar
+category: Review
+description: 'CookieRun: Tower of Adventures'
 featured: false
-thumb: "/images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-0.avif"
+pubDate: 2024-01-20
+tags:
+- taptap
+- cookierun:-tower-of-adventures
+thumb: /images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-0.avif
+title: 'A SWEET hack and slash RPG game already, literally | CBT Review - CookieRun:
+  Tower of Adventures'
 ---
 
 <div class="gallery">

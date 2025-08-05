@@ -1,12 +1,15 @@
 ---
-title: "A rogue-lite game with a simple premise but engaging mechanics | Full Review - IGNISTONE"
-description: "IGNISTONE"
-pubDate: 2023-10-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ignistone"]
+author: lyndonguitar
+category: Review
+description: IGNISTONE
 featured: false
-thumb: "/images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-0.avif"
+pubDate: 2023-10-03
+tags:
+- taptap
+- ignistone
+thumb: /images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-0.avif
+title: A rogue-lite game with a simple premise but engaging mechanics | Full Review
+  - IGNISTONE
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "A Heist Worth Undertaking? | Full Review - PAYDAY 3"
-description: "PAYDAY 3"
-pubDate: 2023-09-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "payday-3"]
+author: lyndonguitar
+category: Review
+description: PAYDAY 3
 featured: false
-thumb: "/images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-0.avif"
+pubDate: 2023-09-19
+tags:
+- taptap
+- payday-3
+thumb: /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-0.avif
+title: A Heist Worth Undertaking? | Full Review - PAYDAY 3
 ---
 
 <div class="gallery">

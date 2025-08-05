@@ -1,12 +1,16 @@
 ---
-title: "A refreshing RPG adventure premium game, a rarity these days | Review - Ex Astris"
-description: "Ex AstrisGlobal"
-pubDate: 2024-02-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ex-astris"]
+author: lyndonguitar
+category: Review
+description: Ex AstrisGlobal
 featured: false
-thumb: "/images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-0.avif"
+pubDate: 2024-02-28
+score: 8.0
+tags:
+- taptap
+- ex-astris
+thumb: /images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-0.avif
+title: A refreshing RPG adventure premium game, a rarity these days | Review - Ex
+  Astris
 ---
 
 <div class="gallery">

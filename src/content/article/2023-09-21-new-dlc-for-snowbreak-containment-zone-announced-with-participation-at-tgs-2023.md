@@ -1,12 +1,17 @@
 ---
-title: "New DLC for Snowbreak: Containment Zone announced with participation at TGS 2023"
-description: "The Tokyo Game Show, known for its greatest and the latest in gaming announcements, will be the stage where Snowbreak’s newest and biggest DLC takes spotlight."
-pubDate: 2023-09-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "snowbreak:-containment-zone"]
+author: lyndonguitar
+category: Review
+description: The Tokyo Game Show, known for its greatest and the latest in gaming
+  announcements, will be the stage where Snowbreak’s newest and biggest DLC takes
+  spotlight.
 featured: false
-thumb: ""
+pubDate: 2023-09-21
+tags:
+- taptap
+- snowbreak:-containment-zone
+thumb: ''
+title: 'New DLC for Snowbreak: Containment Zone announced with participation at TGS
+  2023'
 ---
 
 The Tokyo Game Show, known for its greatest and the latest in gaming announcements, will be the stage where Snowbreak’s newest and biggest DLC takes spotlight.

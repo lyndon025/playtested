@@ -1,12 +1,17 @@
 ---
-title: "An amazing space colony survival game | IXION - Review"
-description: "IXION is a new science fiction space opera, wrapped in a game where you need to manage your state of the art colony ship “Tiqqun”. To ensure the survival of humanity amidst the treacherous nature of space, and maybe explore the cosmos and find a new habitable planet for them to colonize."
-pubDate: 2022-12-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ixion"]
+author: lyndonguitar
+category: Review
+description: IXION is a new science fiction space opera, wrapped in a game where you
+  need to manage your state of the art colony ship “Tiqqun”. To ensure the survival
+  of humanity amidst the treacherous nature of space, and maybe explore the cosmos
+  and find a new habitable planet for them to colonize.
 featured: false
-thumb: "/images/reviews/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-0.avif"
+pubDate: 2022-12-09
+tags:
+- taptap
+- ixion
+thumb: /images/reviews/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-0.avif
+title: An amazing space colony survival game | IXION - Review
 ---
 
 <div class="gallery">

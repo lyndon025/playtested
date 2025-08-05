@@ -1,12 +1,15 @@
 ---
-title: "Extremely frustrating controls but otherwise fun | Review - Extremely Realistic Siege Warfare Sim"
-description: "Extremely Realistic Siege Warfare Simulator"
-pubDate: 2023-05-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "extremely-realistic-siege-warfare-simulator"]
+author: lyndonguitar
+category: Review
+description: Extremely Realistic Siege Warfare Simulator
 featured: false
-thumb: "/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-0.avif"
+pubDate: 2023-05-27
+tags:
+- taptap
+- extremely-realistic-siege-warfare-simulator
+thumb: /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-0.avif
+title: Extremely frustrating controls but otherwise fun | Review - Extremely Realistic
+  Siege Warfare Sim
 ---
 
 <div class="gallery">

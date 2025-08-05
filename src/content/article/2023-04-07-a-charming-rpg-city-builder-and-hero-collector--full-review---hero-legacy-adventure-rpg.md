@@ -1,12 +1,17 @@
 ---
-title: "A charming RPG, city builder, and hero collector | Full Review - Hero Legacy: Adventure RPG"
-description: "Hero Legacy: Adventure RPG is a part adventure RPG, part city builder mobile game set in a medieval fantasy world filled with goblins, dragons, and elemental beings."
-pubDate: 2023-04-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rpg"]
+author: lyndonguitar
+category: Review
+description: 'Hero Legacy: Adventure RPG is a part adventure RPG, part city builder
+  mobile game set in a medieval fantasy world filled with goblins, dragons, and elemental
+  beings.'
 featured: false
-thumb: "/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-0.avif"
+pubDate: 2023-04-07
+tags:
+- taptap
+- rpg
+thumb: /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-0.avif
+title: 'A charming RPG, city builder, and hero collector | Full Review - Hero Legacy:
+  Adventure RPG'
 ---
 
 <div class="gallery">

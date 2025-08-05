@@ -1,12 +1,16 @@
 ---
-title: "Remembers what made games fun, but still tries to modernize it anyway | Review - Robocop Rogue City"
-description: "RoboCop: Rogue City"
-pubDate: 2023-11-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "terminator:-resistance"]
+author: lyndonguitar
+category: Review
+description: 'RoboCop: Rogue City'
 featured: false
-thumb: "/images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-0.avif"
+pubDate: 2023-11-07
+score: 7.0
+tags:
+- taptap
+- terminator:-resistance
+thumb: /images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-0.avif
+title: Remembers what made games fun, but still tries to modernize it anyway | Review
+  - Robocop Rogue City
 ---
 
 <div class="gallery">

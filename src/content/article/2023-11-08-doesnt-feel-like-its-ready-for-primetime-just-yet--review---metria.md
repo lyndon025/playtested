@@ -1,12 +1,15 @@
 ---
-title: "Doesn't feel like it's ready for primetime just yet | Review - Metria"
-description: "✨Overview"
-pubDate: 2023-11-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rpg-metria-the-starlight"]
+author: lyndonguitar
+category: Review
+description: ✨Overview
 featured: false
-thumb: "/images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-0.avif"
+pubDate: 2023-11-08
+score: 3.0
+tags:
+- taptap
+- rpg-metria-the-starlight
+thumb: /images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-0.avif
+title: Doesn't feel like it's ready for primetime just yet | Review - Metria
 ---
 
 <div class="gallery">

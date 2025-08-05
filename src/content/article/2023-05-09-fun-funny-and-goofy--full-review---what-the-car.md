@@ -1,12 +1,14 @@
 ---
-title: "Fun, Funny, and Goofy | Full Review - WHAT THE CAR?"
-description: "WHAT THE CAR?"
-pubDate: 2023-05-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "what-the-car?"]
+author: lyndonguitar
+category: Review
+description: WHAT THE CAR?
 featured: false
-thumb: "/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif"
+pubDate: 2023-05-09
+tags:
+- taptap
+- what-the-car?
+thumb: /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif
+title: Fun, Funny, and Goofy | Full Review - WHAT THE CAR?
 ---
 
 <div class="gallery">

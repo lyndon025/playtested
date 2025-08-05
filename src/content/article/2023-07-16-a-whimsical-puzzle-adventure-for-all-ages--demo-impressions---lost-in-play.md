@@ -1,12 +1,15 @@
 ---
-title: "A whimsical puzzle adventure for all ages | Demo Impressions - Lost in Play"
-description: "Lost in Play is a puzzle adventure game that features hand-drawn, cartoonish visuals that are visually pleasing and perfectly complement the game's playful atmosphere."
-pubDate: 2023-07-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lost-in-play"]
+author: lyndonguitar
+category: Review
+description: Lost in Play is a puzzle adventure game that features hand-drawn, cartoonish
+  visuals that are visually pleasing and perfectly complement the game's playful atmosphere.
 featured: false
-thumb: ""
+pubDate: 2023-07-16
+tags:
+- taptap
+- lost-in-play
+thumb: ''
+title: A whimsical puzzle adventure for all ages | Demo Impressions - Lost in Play
 ---
 
 Lost in Play is a puzzle adventure game that features hand-drawn, cartoonish visuals that are visually pleasing and perfectly complement the game's playful atmosphere.

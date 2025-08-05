@@ -1,12 +1,15 @@
 ---
-title: "Still in beta test but it looks good already | Preview - JUMP: Assemble (Beta Test)"
-description: "JUMP: AssembleGlobal"
-pubDate: 2023-10-14
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "jump:-assemble"]
+author: lyndonguitar
+category: Review
+description: 'JUMP: AssembleGlobal'
 featured: false
-thumb: "/images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-0.avif"
+pubDate: 2023-10-14
+tags:
+- taptap
+- jump:-assemble
+thumb: /images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-0.avif
+title: 'Still in beta test but it looks good already | Preview - JUMP: Assemble (Beta
+  Test)'
 ---
 
 <div class="gallery">

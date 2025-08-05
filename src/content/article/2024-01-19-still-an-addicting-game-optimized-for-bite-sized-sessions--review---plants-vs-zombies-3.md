@@ -1,12 +1,16 @@
 ---
-title: "Still an addicting game optimized for bite-sized sessions | Review - Plants vs Zombies 3"
-description: "Plants vs. Zombies™ 3"
-pubDate: 2024-01-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "plants-vs.-zombies™-3"]
+author: lyndonguitar
+category: Review
+description: Plants vs. Zombies™ 3
 featured: false
-thumb: "/images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-0.avif"
+pubDate: 2024-01-19
+score: 7.0
+tags:
+- taptap
+- plants-vs.-zombies™-3
+thumb: /images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-0.avif
+title: Still an addicting game optimized for bite-sized sessions | Review - Plants
+  vs Zombies 3
 ---
 
 <div class="gallery">

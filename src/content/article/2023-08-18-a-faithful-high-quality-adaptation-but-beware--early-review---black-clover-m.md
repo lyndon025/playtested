@@ -1,12 +1,15 @@
 ---
-title: "A faithful high-quality adaptation, but beware | Early Review - Black Clover M"
-description: "Black Clover MTest US"
-pubDate: 2023-08-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "black-clover-m"]
+author: lyndonguitar
+category: Review
+description: Black Clover MTest US
 featured: false
-thumb: "/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-0.avif"
+pubDate: 2023-08-18
+tags:
+- taptap
+- black-clover-m
+thumb: /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-0.avif
+title: A faithful high-quality adaptation, but beware | Early Review - Black Clover
+  M
 ---
 
 <div class="gallery">

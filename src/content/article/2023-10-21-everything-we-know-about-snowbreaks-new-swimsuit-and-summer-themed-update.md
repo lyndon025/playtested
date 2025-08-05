@@ -1,12 +1,16 @@
 ---
-title: "Everything we know about Snowbreak’s new swimsuit and summer themed update"
-description: "Fresh from its recent update last month, 'Fogbound Dream', Snowbreak: Containment Zone is about to get even fresher, quite literally, with its new content update called 'Verdurous Holiday'."
-pubDate: 2023-10-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "snowbreak:-containment-zone"]
+author: lyndonguitar
+category: Review
+description: 'Fresh from its recent update last month, ''Fogbound Dream'', Snowbreak:
+  Containment Zone is about to get even fresher, quite literally, with its new content
+  update called ''Verdurous Holiday''.'
 featured: false
-thumb: "/images/reviews/2023-10-21-everything-we-know-about-snowbreaks-new-swimsuit-and-summer-themed-update-0.avif"
+pubDate: 2023-10-21
+tags:
+- taptap
+- snowbreak:-containment-zone
+thumb: /images/reviews/2023-10-21-everything-we-know-about-snowbreaks-new-swimsuit-and-summer-themed-update-0.avif
+title: Everything we know about Snowbreak’s new swimsuit and summer themed update
 ---
 
 <div class="gallery">

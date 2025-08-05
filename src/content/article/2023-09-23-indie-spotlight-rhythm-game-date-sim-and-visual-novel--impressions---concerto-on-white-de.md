@@ -1,12 +1,18 @@
 ---
-title: "[Indie Spotlight] Rhythm game, date sim, and visual novel? | Impressions - Concerto on White (Demo)"
-description: "Concerto on White consists of two main ideas blended into one harmonious composition. The school academy life, and actual rhythm game gameplay. The school academy life is where you can attend classes, interact with your schoolmates, and practice music, all presented in a chapter-style visual novel storytelling."
-pubDate: 2023-09-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "concerto-on-white"]
+author: lyndonguitar
+category: Review
+description: Concerto on White consists of two main ideas blended into one harmonious
+  composition. The school academy life, and actual rhythm game gameplay. The school
+  academy life is where you can attend classes, interact with your schoolmates, and
+  practice music, all presented in a chapter-style visual novel storytelling.
 featured: false
-thumb: ""
+pubDate: 2023-09-23
+tags:
+- taptap
+- concerto-on-white
+thumb: ''
+title: '[Indie Spotlight] Rhythm game, date sim, and visual novel? | Impressions -
+  Concerto on White (Demo)'
 ---
 
 Concerto on White consists of two main ideas blended into one harmonious composition. The school academy life, and actual rhythm game gameplay. The school academy life is where you can attend classes, interact with your schoolmates, and practice music, all presented in a chapter-style visual novel storytelling.

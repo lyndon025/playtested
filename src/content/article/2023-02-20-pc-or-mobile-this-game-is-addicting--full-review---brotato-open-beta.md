@@ -1,12 +1,17 @@
 ---
-title: "PC or Mobile, this game is addicting! | Full Review - Brotato (Open Beta)"
-description: "Popularized by the pioneer game Vampire Survivors, this new sub-genre that it spawned doesn’t even have an official name right now. Some call it action rogue-lite, some call it bullet hell survival — One thing is certain, people can’t get enough of this addicting game genre."
-pubDate: 2023-02-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "brotato"]
+author: lyndonguitar
+category: Review
+description: Popularized by the pioneer game Vampire Survivors, this new sub-genre
+  that it spawned doesn’t even have an official name right now. Some call it action
+  rogue-lite, some call it bullet hell survival — One thing is certain, people can’t
+  get enough of this addicting game genre.
 featured: false
-thumb: "/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-0.avif"
+pubDate: 2023-02-20
+tags:
+- taptap
+- brotato
+thumb: /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-0.avif
+title: PC or Mobile, this game is addicting! | Full Review - Brotato (Open Beta)
 ---
 
 <div class="gallery">

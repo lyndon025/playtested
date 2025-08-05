@@ -1,12 +1,16 @@
 ---
-title: "Average expansion on top of a great MMORPG FPS game | Full Review - Destiny 2: Lightfall"
-description: "Destiny 2: Lightfall is the latest expansion for the popular online multiplayer RPG FPS Destiny 2, developed by Bungie (creators of Halo series)."
-pubDate: 2023-03-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "destiny-2"]
+author: lyndonguitar
+category: Review
+description: 'Destiny 2: Lightfall is the latest expansion for the popular online
+  multiplayer RPG FPS Destiny 2, developed by Bungie (creators of Halo series).'
 featured: false
-thumb: "/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-0.avif"
+pubDate: 2023-03-03
+tags:
+- taptap
+- destiny-2
+thumb: /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-0.avif
+title: 'Average expansion on top of a great MMORPG FPS game | Full Review - Destiny
+  2: Lightfall'
 ---
 
 <div class="gallery">

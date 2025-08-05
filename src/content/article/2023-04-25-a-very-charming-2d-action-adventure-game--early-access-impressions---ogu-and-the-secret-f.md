@@ -1,12 +1,15 @@
 ---
-title: "A very charming 2D action-adventure game | Early Access Impressions - Ogu and the Secret Forest"
-description: "Ogu and the Secret Forest"
-pubDate: 2023-04-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ogu-and-the-secret-forest"]
+author: lyndonguitar
+category: Review
+description: Ogu and the Secret Forest
 featured: false
-thumb: "/images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-0.avif"
+pubDate: 2023-04-25
+tags:
+- taptap
+- ogu-and-the-secret-forest
+thumb: /images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-0.avif
+title: A very charming 2D action-adventure game | Early Access Impressions - Ogu and
+  the Secret Forest
 ---
 
 <div class="gallery">

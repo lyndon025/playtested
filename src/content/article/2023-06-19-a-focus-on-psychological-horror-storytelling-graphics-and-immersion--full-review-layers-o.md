@@ -1,12 +1,15 @@
 ---
-title: "A focus on psychological horror, storytelling, graphics, and immersion | Full Review: Layers of Fear"
-description: "Layers of Fear"
-pubDate: 2023-06-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "layers-of-fear"]
+author: lyndonguitar
+category: Review
+description: Layers of Fear
 featured: false
-thumb: "/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-0.avif"
+pubDate: 2023-06-19
+tags:
+- taptap
+- layers-of-fear
+thumb: /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-0.avif
+title: 'A focus on psychological horror, storytelling, graphics, and immersion | Full
+  Review: Layers of Fear'
 ---
 
 <div class="gallery">

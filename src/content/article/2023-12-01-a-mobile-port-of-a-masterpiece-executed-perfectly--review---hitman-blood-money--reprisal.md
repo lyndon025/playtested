@@ -1,12 +1,16 @@
 ---
-title: "A mobile port of a masterpiece, executed perfectly | Review - Hitman: Blood Money — Reprisal"
-description: "Hitman: Blood Money — Reprisal"
-pubDate: 2023-12-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "resident-evil-village"]
+author: lyndonguitar
+category: Review
+description: 'Hitman: Blood Money — Reprisal'
 featured: false
-thumb: "/images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-0.avif"
+pubDate: 2023-12-01
+score: 9.0
+tags:
+- taptap
+- resident-evil-village
+thumb: /images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-0.avif
+title: 'A mobile port of a masterpiece, executed perfectly | Review - Hitman: Blood
+  Money — Reprisal'
 ---
 
 <div class="gallery">

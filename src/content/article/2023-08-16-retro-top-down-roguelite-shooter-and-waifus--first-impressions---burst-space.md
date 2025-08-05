@@ -1,12 +1,16 @@
 ---
-title: "Retro Top-Down Roguelite Shooter and Waifus | First Impressions - Burst Space"
-description: "Released on Android, currently only for the Philippines region, Burst Space introduces players to intense bullet-hell like battles, abilities experimentation, and the opportunity to collect and customize their waifu Einherjar warriors."
-pubDate: 2023-08-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "burst-space"]
+author: lyndonguitar
+category: Review
+description: Released on Android, currently only for the Philippines region, Burst
+  Space introduces players to intense bullet-hell like battles, abilities experimentation,
+  and the opportunity to collect and customize their waifu Einherjar warriors.
 featured: false
-thumb: ""
+pubDate: 2023-08-16
+tags:
+- taptap
+- burst-space
+thumb: ''
+title: Retro Top-Down Roguelite Shooter and Waifus | First Impressions - Burst Space
 ---
 
 Released on Android, currently only for the Philippines region, Burst Space introduces players to intense bullet-hell like battles, abilities experimentation, and the opportunity to collect and customize their waifu Einherjar warriors.

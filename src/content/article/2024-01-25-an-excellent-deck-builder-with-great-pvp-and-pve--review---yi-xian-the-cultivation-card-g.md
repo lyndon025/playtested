@@ -1,12 +1,16 @@
 ---
-title: "An excellent deck builder with great PVP and PVE | Review - Yi Xian: The Cultivation Card Game"
-description: "Yi Xian: The Cultivation Card Game"
-pubDate: 2024-01-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "yi-xian:-the-cultivation-card-game"]
+author: lyndonguitar
+category: Review
+description: 'Yi Xian: The Cultivation Card Game'
 featured: false
-thumb: "/images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-0.avif"
+pubDate: 2024-01-25
+score: 9.0
+tags:
+- taptap
+- yi-xian:-the-cultivation-card-game
+thumb: /images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-0.avif
+title: 'An excellent deck builder with great PVP and PVE | Review - Yi Xian: The Cultivation
+  Card Game'
 ---
 
 <div class="gallery">

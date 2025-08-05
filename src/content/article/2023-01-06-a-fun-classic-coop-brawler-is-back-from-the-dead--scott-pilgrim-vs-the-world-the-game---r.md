@@ -1,12 +1,20 @@
 ---
-title: "A fun classic coop brawler is back from the dead | Scott Pilgrim vs The World: The Game - Review"
-description: "Scott Pilgrim vs. The World has come a long way, from its graphic novel / comic book origins, to its surprising jump to a charming live action film adaptation. Alongside the film is a comic book style retro arcade brawler game that was pulled from stores in 2014, with no way of acquiring a copy. Now, thanks to all the online requests, it is re-released and now available on PC as Scott Pilgrim vs. The World: The Game – Complete Edition."
-pubDate: 2023-01-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "scott-pilgrim-vs-the-world-(pc,-ps4,-xb1,-ns)"]
+author: lyndonguitar
+category: Review
+description: 'Scott Pilgrim vs. The World has come a long way, from its graphic novel
+  / comic book origins, to its surprising jump to a charming live action film adaptation.
+  Alongside the film is a comic book style retro arcade brawler game that was pulled
+  from stores in 2014, with no way of acquiring a copy. Now, thanks to all the online
+  requests, it is re-released and now available on PC as Scott Pilgrim vs. The World:
+  The Game – Complete Edition.'
 featured: false
-thumb: "/images/reviews/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-0.avif"
+pubDate: 2023-01-06
+tags:
+- taptap
+- scott-pilgrim-vs-the-world-(pc,-ps4,-xb1,-ns)
+thumb: /images/reviews/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-0.avif
+title: 'A fun classic coop brawler is back from the dead | Scott Pilgrim vs The World:
+  The Game - Review'
 ---
 
 <div class="gallery">

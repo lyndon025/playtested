@@ -1,12 +1,22 @@
 ---
-title: "A revamped mobile version of the beloved console retro game | Impressions - Neon Abyss: Infinite"
-description: "Neon Abyss: Infinite, the revamped mobile version of the beloved PC and console retro game, brings the addictive gameplay and stylish retro aesthetics to the mobile platform. This adaptation to touch controls is well-executed, providing players with a seamless experience on their mobile devices. Although the game retains its core mechanics and charm, it introduces some changes, including free-to-play elements and gacha mechanics. While Neon Abyss: Infinite shows great promise, it is important to note that the game is in Early Access, and therefore, still requires optimization and improvement."
-pubDate: 2023-06-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "neon-abyss：infinity"]
+author: lyndonguitar
+category: Review
+description: 'Neon Abyss: Infinite, the revamped mobile version of the beloved PC
+  and console retro game, brings the addictive gameplay and stylish retro aesthetics
+  to the mobile platform. This adaptation to touch controls is well-executed, providing
+  players with a seamless experience on their mobile devices. Although the game retains
+  its core mechanics and charm, it introduces some changes, including free-to-play
+  elements and gacha mechanics. While Neon Abyss: Infinite shows great promise, it
+  is important to note that the game is in Early Access, and therefore, still requires
+  optimization and improvement.'
 featured: false
-thumb: ""
+pubDate: 2023-06-22
+tags:
+- taptap
+- neon-abyss：infinity
+thumb: ''
+title: 'A revamped mobile version of the beloved console retro game | Impressions
+  - Neon Abyss: Infinite'
 ---
 
 Neon Abyss: Infinite, the revamped mobile version of the beloved PC and console retro game, brings the addictive gameplay and stylish retro aesthetics to the mobile platform. This adaptation to touch controls is well-executed, providing players with a seamless experience on their mobile devices. Although the game retains its core mechanics and charm, it introduces some changes, including free-to-play elements and gacha mechanics. While Neon Abyss: Infinite shows great promise, it is important to note that the game is in Early Access, and therefore, still requires optimization and improvement.

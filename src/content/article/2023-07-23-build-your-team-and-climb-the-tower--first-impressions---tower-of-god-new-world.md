@@ -1,12 +1,21 @@
 ---
-title: "Build your team and climb the tower | First Impressions - Tower of God: New World"
-description: "Tower of God: New World is an idle RPG gacha game where players assume the role of a new character inserted into the original narrative, following Bam's footsteps and experiencing the adventure firsthand. The game introduces a new player-named character, along with his navigator and tutorial guide Rin, bridging the gameplay mechanics with the overarching storyline. Through Rin's guidance, players become an integral part of the Tower's world, forging their path, and interacting with iconic characters."
-pubDate: 2023-07-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tower-of-god:-new-world"]
+author: lyndonguitar
+category: Review
+description: 'Tower of God: New World is an idle RPG gacha game where players assume
+  the role of a new character inserted into the original narrative, following Bam''s
+  footsteps and experiencing the adventure firsthand. The game introduces a new player-named
+  character, along with his navigator and tutorial guide Rin, bridging the gameplay
+  mechanics with the overarching storyline. Through Rin''s guidance, players become
+  an integral part of the Tower''s world, forging their path, and interacting with
+  iconic characters.'
 featured: false
-thumb: ""
+pubDate: 2023-07-23
+tags:
+- taptap
+- tower-of-god:-new-world
+thumb: ''
+title: 'Build your team and climb the tower | First Impressions - Tower of God: New
+  World'
 ---
 
 Tower of God: New World is an idle RPG gacha game where players assume the role of a new character inserted into the original narrative, following Bam's footsteps and experiencing the adventure firsthand. The game introduces a new player-named character, along with his navigator and tutorial guide Rin, bridging the gameplay mechanics with the overarching storyline. Through Rin's guidance, players become an integral part of the Tower's world, forging their path, and interacting with iconic characters.

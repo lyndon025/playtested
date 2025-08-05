@@ -1,12 +1,16 @@
 ---
-title: "Vampire Survivors but with ACTUAL rogue-like and roleplaying | Demo Review - Artifact Seeker"
-description: "Artifact Seeker:Prologue"
-pubDate: 2024-01-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "artifact-seeker"]
+author: lyndonguitar
+category: Review
+description: Artifact Seeker:Prologue
 featured: false
-thumb: "/images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-0.avif"
+pubDate: 2024-01-22
+score: 8.0
+tags:
+- taptap
+- artifact-seeker
+thumb: /images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-0.avif
+title: Vampire Survivors but with ACTUAL rogue-like and roleplaying | Demo Review
+  - Artifact Seeker
 ---
 
 <div class="gallery">

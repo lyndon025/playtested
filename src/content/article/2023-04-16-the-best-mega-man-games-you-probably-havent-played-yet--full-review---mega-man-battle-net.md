@@ -1,12 +1,16 @@
 ---
-title: "The best Mega Man games you probably haven’t played yet | Full Review - Mega Man Battle Network"
-description: "Mega Man Battle Network Legacy Collection is a bundle of unconventional RPG-style Mega Man games set in a separate universe from the main Mega Man stories."
-pubDate: 2023-04-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mega-man-battle-network"]
+author: lyndonguitar
+category: Review
+description: Mega Man Battle Network Legacy Collection is a bundle of unconventional
+  RPG-style Mega Man games set in a separate universe from the main Mega Man stories.
 featured: false
-thumb: "/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif"
+pubDate: 2023-04-16
+tags:
+- taptap
+- mega-man-battle-network
+thumb: /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif
+title: The best Mega Man games you probably haven’t played yet | Full Review - Mega
+  Man Battle Network
 ---
 
 <div class="gallery">

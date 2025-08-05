@@ -1,12 +1,16 @@
 ---
-title: "A chibi blend of real-time strategy and RPG elements | Review - Knightcore: Sword of Kingdom"
-description: "Knightcore: Sword of KingdomGlobal"
-pubDate: 2023-10-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ナイトコアキングダムf"]
+author: lyndonguitar
+category: Review
+description: 'Knightcore: Sword of KingdomGlobal'
 featured: false
-thumb: "/images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-0.avif"
+pubDate: 2023-10-24
+score: 5.0
+tags:
+- taptap
+- ナイトコアキングダムf
+thumb: /images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-0.avif
+title: 'A chibi blend of real-time strategy and RPG elements | Review - Knightcore:
+  Sword of Kingdom'
 ---
 
 <div class="gallery">

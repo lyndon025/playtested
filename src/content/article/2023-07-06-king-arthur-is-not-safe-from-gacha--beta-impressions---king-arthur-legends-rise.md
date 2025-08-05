@@ -1,12 +1,19 @@
 ---
-title: "King Arthur is not safe from gacha | Beta Impressions - King Arthur: Legends Rise"
-description: "King Arthur: Legends Rise is an upcoming turn-based squad RPG coming to Android, iOS and PC, with options for cross-play and cross-progression. An Open Beta Test is now available only for Android which will last until the official launch date. According to the iOS app store page, the placeholder expected release date is December 5, 2023, however take this info with a grain of salt."
-pubDate: 2023-07-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "king-arthur:-legends-rise"]
+author: lyndonguitar
+category: Review
+description: 'King Arthur: Legends Rise is an upcoming turn-based squad RPG coming
+  to Android, iOS and PC, with options for cross-play and cross-progression. An Open
+  Beta Test is now available only for Android which will last until the official launch
+  date. According to the iOS app store page, the placeholder expected release date
+  is December 5, 2023, however take this info with a grain of salt.'
 featured: false
-thumb: ""
+pubDate: 2023-07-06
+tags:
+- taptap
+- king-arthur:-legends-rise
+thumb: ''
+title: 'King Arthur is not safe from gacha | Beta Impressions - King Arthur: Legends
+  Rise'
 ---
 
 King Arthur: Legends Rise is an upcoming turn-based squad RPG coming to Android, iOS and PC, with options for cross-play and cross-progression. An Open Beta Test is now available only for Android which will last until the official launch date. According to the iOS app store page, the placeholder expected release date is December 5, 2023, however take this info with a grain of salt.

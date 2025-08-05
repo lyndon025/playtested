@@ -1,12 +1,15 @@
 ---
-title: "Be the Gladiator you always wanted to be | We Who Are About to Die - Short Review"
-description: "We Who Are About to Die - Short Review (Early Access)"
-pubDate: 2022-11-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "we-who-are-about-to-die"]
+author: lyndonguitar
+category: Review
+description: We Who Are About to Die - Short Review (Early Access)
 featured: false
-thumb: "/images/reviews/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-0.avif"
+pubDate: 2022-11-15
+tags:
+- taptap
+- we-who-are-about-to-die
+thumb: /images/reviews/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-0.avif
+title: Be the Gladiator you always wanted to be | We Who Are About to Die - Short
+  Review
 ---
 
 <div class="gallery">

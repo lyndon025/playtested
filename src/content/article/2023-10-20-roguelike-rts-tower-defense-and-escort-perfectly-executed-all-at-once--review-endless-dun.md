@@ -1,12 +1,16 @@
 ---
-title: "Roguelike, RTS, tower defense, and escort, perfectly executed all at once | Review: ENDLESS Dungeon"
-description: "ENDLESS™ Dungeon"
-pubDate: 2023-10-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "endless™-dungeon"]
+author: lyndonguitar
+category: Review
+description: ENDLESS™ Dungeon
 featured: false
-thumb: "/images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-0.avif"
+pubDate: 2023-10-20
+score: 9.0
+tags:
+- taptap
+- endless™-dungeon
+thumb: /images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-0.avif
+title: 'Roguelike, RTS, tower defense, and escort, perfectly executed all at once
+  | Review: ENDLESS Dungeon'
 ---
 
 <div class="gallery">

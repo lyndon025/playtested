@@ -1,12 +1,18 @@
 ---
-title: "Skynet meets Zombies with Pokemon-Symbiote elements | SYNCED - Early Preview Impressions"
-description: "It may seem like SYNCED is just another typical multiplayer out of thousands in an already heavily saturated market, but for me this game is really cooking something special. Imagine a cooperative / PvP looter shooter, rogue-lite, pokemon-symbiote game in a Skynet meets Zombies premise."
-pubDate: 2022-12-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "synced"]
+author: lyndonguitar
+category: Review
+description: It may seem like SYNCED is just another typical multiplayer out of thousands
+  in an already heavily saturated market, but for me this game is really cooking something
+  special. Imagine a cooperative / PvP looter shooter, rogue-lite, pokemon-symbiote
+  game in a Skynet meets Zombies premise.
 featured: false
-thumb: "/images/reviews/2022-12-05-skynet-meets-zombies-with-pokemon-symbiote-elements--synced---early-preview-impressions-0.avif"
+pubDate: 2022-12-05
+tags:
+- taptap
+- synced
+thumb: /images/reviews/2022-12-05-skynet-meets-zombies-with-pokemon-symbiote-elements--synced---early-preview-impressions-0.avif
+title: Skynet meets Zombies with Pokemon-Symbiote elements | SYNCED - Early Preview
+  Impressions
 ---
 
 <div class="gallery">

@@ -1,12 +1,20 @@
 ---
-title: "The best remake Capcom has put out so far | First Impressions - Resident Evil 4 Remake"
-description: "After Resident Evil 2 and 3 were remade, the next logical target (aside from Code Veronica) was a Resident Evil 4 remake. I was one of the naysayers back then saying that Resident Evil 4, with its still decent 3D graphics, doesn’t need a remake yet. Boy I was wrong. This first impression is all about me eating my words and playing myself, because let me tell you, Resident Evil 4 Remake (or just Resident Evil 4) is a beautiful reimagining of the 2005 masterpiece."
-pubDate: 2023-03-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "resident-evil-4"]
+author: lyndonguitar
+category: Review
+description: After Resident Evil 2 and 3 were remade, the next logical target (aside
+  from Code Veronica) was a Resident Evil 4 remake. I was one of the naysayers back
+  then saying that Resident Evil 4, with its still decent 3D graphics, doesn’t need
+  a remake yet. Boy I was wrong. This first impression is all about me eating my words
+  and playing myself, because let me tell you, Resident Evil 4 Remake (or just Resident
+  Evil 4) is a beautiful reimagining of the 2005 masterpiece.
 featured: false
-thumb: "/images/reviews/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-0.avif"
+pubDate: 2023-03-27
+tags:
+- taptap
+- resident-evil-4
+thumb: /images/reviews/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-0.avif
+title: The best remake Capcom has put out so far | First Impressions - Resident Evil
+  4 Remake
 ---
 
 <div class="gallery">

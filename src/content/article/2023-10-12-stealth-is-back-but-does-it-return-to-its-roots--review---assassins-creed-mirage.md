@@ -1,12 +1,16 @@
 ---
-title: "Stealth is back, but does it return to its roots? | Review - Assassin's Creed Mirage"
-description: "Assassin's Creed Mirage"
-pubDate: 2023-10-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "assassin's-creed®-unity"]
+author: lyndonguitar
+category: Review
+description: Assassin's Creed Mirage
 featured: false
-thumb: "/images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-0.avif"
+pubDate: 2023-10-12
+score: 7.0
+tags:
+- taptap
+- assassin's-creed®-unity
+thumb: /images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-0.avif
+title: Stealth is back, but does it return to its roots? | Review - Assassin's Creed
+  Mirage
 ---
 
 <div class="gallery">

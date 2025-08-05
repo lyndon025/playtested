@@ -1,12 +1,16 @@
 ---
-title: "Still the king of City Builders, but better have a PC from the future | Review - Cities Skylines II"
-description: "Cities: Skylines II"
-pubDate: 2023-10-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cities:-skylines"]
+author: lyndonguitar
+category: Review
+description: 'Cities: Skylines II'
 featured: false
-thumb: "/images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-0.avif"
+pubDate: 2023-10-26
+score: 7.0
+tags:
+- taptap
+- cities:-skylines
+thumb: /images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-0.avif
+title: Still the king of City Builders, but better have a PC from the future | Review
+  - Cities Skylines II
 ---
 
 <div class="gallery">

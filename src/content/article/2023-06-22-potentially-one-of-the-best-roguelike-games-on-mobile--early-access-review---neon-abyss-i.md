@@ -1,12 +1,15 @@
 ---
-title: "Potentially one of the best roguelike games on mobile | Early Access Review - Neon Abyss: Infinite"
-description: "Neon Abyss：InfinityGlobal"
-pubDate: 2023-06-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "neon-abyss：infinity"]
+author: lyndonguitar
+category: Review
+description: Neon Abyss：InfinityGlobal
 featured: false
-thumb: "/images/reviews/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-0.avif"
+pubDate: 2023-06-22
+tags:
+- taptap
+- neon-abyss：infinity
+thumb: /images/reviews/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-0.avif
+title: 'Potentially one of the best roguelike games on mobile | Early Access Review
+  - Neon Abyss: Infinite'
 ---
 
 <div class="gallery">

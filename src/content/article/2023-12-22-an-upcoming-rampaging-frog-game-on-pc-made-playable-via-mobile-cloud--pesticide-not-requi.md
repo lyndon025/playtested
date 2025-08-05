@@ -1,12 +1,15 @@
 ---
-title: "An upcoming rampaging frog game on PC made playable via Mobile (Cloud) | Pesticide Not Required"
-description: "Pocket Playfest: An Indie Celebration 2023 Winter Edition"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "pesticide-not-required"]
+author: lyndonguitar
+category: Review
+description: 'Pocket Playfest: An Indie Celebration 2023 Winter Edition'
 featured: false
-thumb: ""
+pubDate: 2023-12-22
+tags:
+- taptap
+- pesticide-not-required
+thumb: ''
+title: An upcoming rampaging frog game on PC made playable via Mobile (Cloud) | Pesticide
+  Not Required
 ---
 
 Pocket Playfest: An Indie Celebration 2023 Winter Edition

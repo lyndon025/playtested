@@ -1,12 +1,22 @@
 ---
-title: "A turn-based strategy card game infused with roguelike elements | Demo Impressions - Looper Tactics"
-description: "Looper Tactics aims to combine turn-based strategy and roguelike mechanics, providing an interesting twist on traditional deck building. The core gameplay revolves around navigating a tile-based map, strategically moving your hero across various terrains and encountering both friend and foe. The procedurally generated world every run ensures that each playthrough feels fresh and unpredictable. Throughout the game, you will have encounters with various friendly or neutral beings, many of whom offer you a choice between different bonuses and items to purchase, such as new cards, minions, power-ups, or upgrades."
-pubDate: 2023-06-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "looper-tactics"]
+author: lyndonguitar
+category: Review
+description: Looper Tactics aims to combine turn-based strategy and roguelike mechanics,
+  providing an interesting twist on traditional deck building. The core gameplay revolves
+  around navigating a tile-based map, strategically moving your hero across various
+  terrains and encountering both friend and foe. The procedurally generated world
+  every run ensures that each playthrough feels fresh and unpredictable. Throughout
+  the game, you will have encounters with various friendly or neutral beings, many
+  of whom offer you a choice between different bonuses and items to purchase, such
+  as new cards, minions, power-ups, or upgrades.
 featured: false
-thumb: ""
+pubDate: 2023-06-23
+tags:
+- taptap
+- looper-tactics
+thumb: ''
+title: A turn-based strategy card game infused with roguelike elements | Demo Impressions
+  - Looper Tactics
 ---
 
 Looper Tactics aims to combine turn-based strategy and roguelike mechanics, providing an interesting twist on traditional deck building. The core gameplay revolves around navigating a tile-based map, strategically moving your hero across various terrains and encountering both friend and foe. The procedurally generated world every run ensures that each playthrough feels fresh and unpredictable. Throughout the game, you will have encounters with various friendly or neutral beings, many of whom offer you a choice between different bonuses and items to purchase, such as new cards, minions, power-ups, or upgrades.

@@ -1,12 +1,14 @@
 ---
-title: "A revitalized classic puzzle-adventure | Review - Ghost Trick: Phantom Detective"
-description: "Ghost Trick: Phantom Detective"
-pubDate: 2023-06-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ghost-trick:-phantom-detective"]
+author: lyndonguitar
+category: Review
+description: 'Ghost Trick: Phantom Detective'
 featured: false
-thumb: "/images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-0.avif"
+pubDate: 2023-06-15
+tags:
+- taptap
+- ghost-trick:-phantom-detective
+thumb: /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-0.avif
+title: 'A revitalized classic puzzle-adventure | Review - Ghost Trick: Phantom Detective'
 ---
 
 <div class="gallery">

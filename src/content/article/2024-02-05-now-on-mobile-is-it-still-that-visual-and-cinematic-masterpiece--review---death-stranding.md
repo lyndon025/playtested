@@ -1,12 +1,16 @@
 ---
-title: "Now on mobile, is it still that visual and cinematic masterpiece? | Review - Death Stranding"
-description: "DEATH STRANDING DIRECTOR'S CUT"
-pubDate: 2024-02-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "horizon-forbidden-west™-complete-edition"]
+author: lyndonguitar
+category: Review
+description: DEATH STRANDING DIRECTOR'S CUT
 featured: false
-thumb: "/images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-0.avif"
+pubDate: 2024-02-05
+score: 7.0
+tags:
+- taptap
+- horizon-forbidden-west™-complete-edition
+thumb: /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-0.avif
+title: Now on mobile, is it still that visual and cinematic masterpiece? | Review
+  - Death Stranding
 ---
 
 <div class="gallery">

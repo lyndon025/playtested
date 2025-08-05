@@ -1,12 +1,15 @@
 ---
-title: "Legends rise, gachas roll, beta opens, now for all | Beta Review - King Arthur: Legends Rise"
-description: "King Arthur: Legends RiseTest Global"
-pubDate: 2023-07-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "king-arthur:-legends-rise"]
+author: lyndonguitar
+category: Review
+description: 'King Arthur: Legends RiseTest Global'
 featured: false
-thumb: "/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-0.avif"
+pubDate: 2023-07-06
+tags:
+- taptap
+- king-arthur:-legends-rise
+thumb: /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-0.avif
+title: 'Legends rise, gachas roll, beta opens, now for all | Beta Review - King Arthur:
+  Legends Rise'
 ---
 
 <div class="gallery">

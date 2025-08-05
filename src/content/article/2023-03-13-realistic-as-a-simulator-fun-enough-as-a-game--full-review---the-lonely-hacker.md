@@ -1,12 +1,15 @@
 ---
-title: "Realistic as a simulator, fun enough as a game | Full Review - The Lonely Hacker"
-description: "The Lonely Hacker is a hacking simulation game for mobile devices, currently available for Android, with current plans to expand on iOS and console platforms."
-pubDate: 2023-03-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-lonely-hacker"]
+author: lyndonguitar
+category: Review
+description: The Lonely Hacker is a hacking simulation game for mobile devices, currently
+  available for Android, with current plans to expand on iOS and console platforms.
 featured: false
-thumb: "/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif"
+pubDate: 2023-03-13
+tags:
+- taptap
+- the-lonely-hacker
+thumb: /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif
+title: Realistic as a simulator, fun enough as a game | Full Review - The Lonely Hacker
 ---
 
 <div class="gallery">

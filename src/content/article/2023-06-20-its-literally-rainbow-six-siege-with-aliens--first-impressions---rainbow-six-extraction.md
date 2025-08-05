@@ -1,12 +1,19 @@
 ---
-title: "It’s literally Rainbow Six: Siege with Aliens | First Impressions - Rainbow Six: Extraction"
-description: "Developed and published by Ubisoft, Rainbow Six: Extraction brings together the tactical prowess and intensity of Rainbow Six Siege with a thrilling PvE (Player vs. Environment) experience, heavily inspired by the successful limited-time game mode, Outbreak, in Rainbow Six Siege, Extraction expands upon that cooperative gameplay experience."
-pubDate: 2023-06-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tom-clancy’s-rainbow-six®-extraction"]
+author: lyndonguitar
+category: Review
+description: 'Developed and published by Ubisoft, Rainbow Six: Extraction brings together
+  the tactical prowess and intensity of Rainbow Six Siege with a thrilling PvE (Player
+  vs. Environment) experience, heavily inspired by the successful limited-time game
+  mode, Outbreak, in Rainbow Six Siege, Extraction expands upon that cooperative gameplay
+  experience.'
 featured: false
-thumb: ""
+pubDate: 2023-06-20
+tags:
+- taptap
+- tom-clancy’s-rainbow-six®-extraction
+thumb: ''
+title: 'It’s literally Rainbow Six: Siege with Aliens | First Impressions - Rainbow
+  Six: Extraction'
 ---
 
 Developed and published by Ubisoft, Rainbow Six: Extraction brings together the tactical prowess and intensity of Rainbow Six Siege with a thrilling PvE (Player vs. Environment) experience, heavily inspired by the successful limited-time game mode, Outbreak, in Rainbow Six Siege, Extraction expands upon that cooperative gameplay experience.

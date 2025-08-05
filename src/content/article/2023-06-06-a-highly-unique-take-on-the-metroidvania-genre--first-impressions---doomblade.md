@@ -1,12 +1,16 @@
 ---
-title: "A highly unique take on the Metroidvania genre | First Impressions - Doomblade"
-description: "Doomblade, offers a highly unique take on the Metroidvania genre. With its innovative combat mechanics featuring precision-based clicking much like mouse rhythm games like Osu!, or twin stick shooter style of combat when using controllers."
-pubDate: 2023-06-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "doomblade"]
+author: lyndonguitar
+category: Review
+description: Doomblade, offers a highly unique take on the Metroidvania genre. With
+  its innovative combat mechanics featuring precision-based clicking much like mouse
+  rhythm games like Osu!, or twin stick shooter style of combat when using controllers.
 featured: false
-thumb: ""
+pubDate: 2023-06-06
+tags:
+- taptap
+- doomblade
+thumb: ''
+title: A highly unique take on the Metroidvania genre | First Impressions - Doomblade
 ---
 
 Doomblade, offers a highly unique take on the Metroidvania genre. With its innovative combat mechanics featuring precision-based clicking much like mouse rhythm games like Osu!, or twin stick shooter style of combat when using controllers.

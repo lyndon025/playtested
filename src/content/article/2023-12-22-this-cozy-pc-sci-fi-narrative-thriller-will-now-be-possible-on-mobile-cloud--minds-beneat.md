@@ -1,12 +1,16 @@
 ---
-title: "This cozy PC sci-fi narrative thriller will now be possible on Mobile (Cloud) | Minds Beneath Us"
-description: "Minds Beneath Us"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "minds-beneath-us"]
+author: lyndonguitar
+category: Review
+description: Minds Beneath Us
 featured: false
-thumb: "/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-0.avif"
+pubDate: 2023-12-22
+score: 9.0
+tags:
+- taptap
+- minds-beneath-us
+thumb: /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-0.avif
+title: This cozy PC sci-fi narrative thriller will now be possible on Mobile (Cloud)
+  | Minds Beneath Us
 ---
 
 <div class="gallery">

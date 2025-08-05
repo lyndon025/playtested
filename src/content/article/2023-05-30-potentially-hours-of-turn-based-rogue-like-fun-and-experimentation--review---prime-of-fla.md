@@ -1,12 +1,15 @@
 ---
-title: "Potentially hours of turn-based rogue-like fun and experimentation | Review - Prime of Flames"
-description: "Prime of Flames"
-pubDate: 2023-05-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "prime-of-flames"]
+author: lyndonguitar
+category: Review
+description: Prime of Flames
 featured: false
-thumb: "/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-0.avif"
+pubDate: 2023-05-30
+tags:
+- taptap
+- prime-of-flames
+thumb: /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-0.avif
+title: Potentially hours of turn-based rogue-like fun and experimentation | Review
+  - Prime of Flames
 ---
 
 <div class="gallery">

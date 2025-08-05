@@ -1,12 +1,15 @@
 ---
-title: "A vast fantasy world filled with random events and choices | Review - Dragonheir: Silent Gods"
-description: "Dragonstride: Legacy Reborn"
-pubDate: 2023-09-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dragonheir:-silent-gods"]
+author: lyndonguitar
+category: Review
+description: 'Dragonstride: Legacy Reborn'
 featured: false
-thumb: "/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-0.avif"
+pubDate: 2023-09-19
+tags:
+- taptap
+- dragonheir:-silent-gods
+thumb: /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-0.avif
+title: 'A vast fantasy world filled with random events and choices | Review - Dragonheir:
+  Silent Gods'
 ---
 
 <div class="gallery">

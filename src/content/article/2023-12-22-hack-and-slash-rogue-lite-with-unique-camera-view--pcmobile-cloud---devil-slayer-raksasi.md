@@ -1,12 +1,16 @@
 ---
-title: "Hack and slash rogue-lite with unique camera view | PC+Mobile (Cloud) - Devil Slayer: Raksasi"
-description: "Devil Slayer - Raksasi"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "raksasi"]
+author: lyndonguitar
+category: Review
+description: Devil Slayer - Raksasi
 featured: false
-thumb: "/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-0.avif"
+pubDate: 2023-12-22
+score: 6.0
+tags:
+- taptap
+- raksasi
+thumb: /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-0.avif
+title: 'Hack and slash rogue-lite with unique camera view | PC+Mobile (Cloud) - Devil
+  Slayer: Raksasi'
 ---
 
 <div class="gallery">

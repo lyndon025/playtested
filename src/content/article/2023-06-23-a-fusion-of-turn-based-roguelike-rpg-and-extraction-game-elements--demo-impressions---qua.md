@@ -1,12 +1,17 @@
 ---
-title: "A fusion of turn-based roguelike RPG and extraction game elements | Demo Impressions - Quasimorph"
-description: "Quasimorph is a mix of classic turn-based roguelike RPG with an extraction twist, where the player's progress and acquired loot depend on their survival in missions."
-pubDate: 2023-06-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "quasimorphosis"]
+author: lyndonguitar
+category: Review
+description: Quasimorph is a mix of classic turn-based roguelike RPG with an extraction
+  twist, where the player's progress and acquired loot depend on their survival in
+  missions.
 featured: false
-thumb: ""
+pubDate: 2023-06-23
+tags:
+- taptap
+- quasimorphosis
+thumb: ''
+title: A fusion of turn-based roguelike RPG and extraction game elements | Demo Impressions
+  - Quasimorph
 ---
 
 Quasimorph is a mix of classic turn-based roguelike RPG with an extraction twist, where the player's progress and acquired loot depend on their survival in missions.

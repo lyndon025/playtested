@@ -1,12 +1,16 @@
 ---
-title: "Nintendo's farewell masterpiece song for the Switch | Review - Super Mario Bros. Wonder"
-description: "Super Mario Bros.™ Wonder"
-pubDate: 2023-10-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "super-mario-world-(snes,-gba)"]
+author: lyndonguitar
+category: Review
+description: Super Mario Bros.™ Wonder
 featured: false
-thumb: "/images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-0.avif"
+pubDate: 2023-10-23
+score: 10.0
+tags:
+- taptap
+- super-mario-world-(snes,-gba)
+thumb: /images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-0.avif
+title: Nintendo's farewell masterpiece song for the Switch | Review - Super Mario
+  Bros. Wonder
 ---
 
 <div class="gallery">

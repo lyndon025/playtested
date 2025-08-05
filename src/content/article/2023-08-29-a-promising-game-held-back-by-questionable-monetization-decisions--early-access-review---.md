@@ -1,12 +1,15 @@
 ---
-title: "A promising game held back by questionable monetization decisions | Early Access Review - Wayfinder"
-description: "Wayfinder"
-pubDate: 2023-08-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wayfinder"]
+author: lyndonguitar
+category: Review
+description: Wayfinder
 featured: false
-thumb: "/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----0.avif"
+pubDate: 2023-08-29
+tags:
+- taptap
+- wayfinder
+thumb: /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----0.avif
+title: A promising game held back by questionable monetization decisions | Early Access
+  Review - Wayfinder
 ---
 
 <div class="gallery">

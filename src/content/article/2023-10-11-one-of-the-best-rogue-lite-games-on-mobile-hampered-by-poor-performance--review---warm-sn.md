@@ -1,12 +1,15 @@
 ---
-title: "One of the best rogue-lite games on mobile, hampered by poor performance | Review - Warm Snow"
-description: "Warm Snow"
-pubDate: 2023-10-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hades-ii"]
+author: lyndonguitar
+category: Review
+description: Warm Snow
 featured: false
-thumb: "/images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-0.avif"
+pubDate: 2023-10-11
+tags:
+- taptap
+- hades-ii
+thumb: /images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-0.avif
+title: One of the best rogue-lite games on mobile, hampered by poor performance |
+  Review - Warm Snow
 ---
 
 <div class="gallery">

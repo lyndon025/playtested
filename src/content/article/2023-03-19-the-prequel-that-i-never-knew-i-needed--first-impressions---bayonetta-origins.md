@@ -1,12 +1,18 @@
 ---
-title: "The prequel that I never knew I needed | First Impressions - Bayonetta Origins"
-description: "Bayonetta is a series that has never been known for its immersive storytelling and child friendly nature, but that is about to change with the release of Bayonetta Origins: Cereza and the Lost Demon. Teased as a secret chapter in Bayonetta 3, it is a full blown adventure game with a children’s book style approach. It is now available for the Nintendo Switch as an exclusive, following Bayonetta 2 and 3."
-pubDate: 2023-03-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "bayonetta-origins:-cereza-and-the-lost-demon"]
+author: lyndonguitar
+category: Review
+description: 'Bayonetta is a series that has never been known for its immersive storytelling
+  and child friendly nature, but that is about to change with the release of Bayonetta
+  Origins: Cereza and the Lost Demon. Teased as a secret chapter in Bayonetta 3, it
+  is a full blown adventure game with a children’s book style approach. It is now
+  available for the Nintendo Switch as an exclusive, following Bayonetta 2 and 3.'
 featured: false
-thumb: "/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-0.avif"
+pubDate: 2023-03-19
+tags:
+- taptap
+- bayonetta-origins:-cereza-and-the-lost-demon
+thumb: /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-0.avif
+title: The prequel that I never knew I needed | First Impressions - Bayonetta Origins
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "This is shaping up to be a solid surviving crafting ARPG | Demo Review - Enshrouded"
-description: "Enshrouded"
-pubDate: 2023-10-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "valheim"]
+author: lyndonguitar
+category: Review
+description: Enshrouded
 featured: false
-thumb: "/images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-0.avif"
+pubDate: 2023-10-09
+tags:
+- taptap
+- valheim
+thumb: /images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-0.avif
+title: This is shaping up to be a solid surviving crafting ARPG | Demo Review - Enshrouded
 ---
 
 <div class="gallery">

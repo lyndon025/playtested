@@ -1,12 +1,15 @@
 ---
-title: "Simple controls and a familiar style of gunplay | Beta Review - Polygon Arena: Online Shooter"
-description: "Polygun Arena: Online Shooter"
-pubDate: 2023-10-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "polygun-arena:-online-shooter"]
+author: lyndonguitar
+category: Review
+description: 'Polygun Arena: Online Shooter'
 featured: false
-thumb: "/images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-0.avif"
+pubDate: 2023-10-12
+tags:
+- taptap
+- polygun-arena:-online-shooter
+thumb: /images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-0.avif
+title: 'Simple controls and a familiar style of gunplay | Beta Review - Polygon Arena:
+  Online Shooter'
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "Let's compare CAPTAIN TSUBASA: ACE and EA SPORTS FC Tactical, which game suits you better?"
-description: "CAPTAIN TSUBASA: ACEGlobal"
-pubDate: 2023-12-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "captain-tsubasa:-ace"]
+author: lyndonguitar
+category: Review
+description: 'CAPTAIN TSUBASA: ACEGlobal'
 featured: false
-thumb: "/images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-0.avif"
+pubDate: 2023-12-05
+tags:
+- taptap
+- captain-tsubasa:-ace
+thumb: /images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-0.avif
+title: 'Let''s compare CAPTAIN TSUBASA: ACE and EA SPORTS FC Tactical, which game
+  suits you better?'
 ---
 
 <div class="gallery">

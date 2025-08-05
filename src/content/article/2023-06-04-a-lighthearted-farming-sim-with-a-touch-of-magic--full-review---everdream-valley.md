@@ -1,12 +1,15 @@
 ---
-title: "A lighthearted farming sim, with a touch of magic | Full Review - Everdream Valley"
-description: "Everdream Valley"
-pubDate: 2023-06-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "everdream-valley"]
+author: lyndonguitar
+category: Review
+description: Everdream Valley
 featured: false
-thumb: "/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-0.avif"
+pubDate: 2023-06-04
+tags:
+- taptap
+- everdream-valley
+thumb: /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-0.avif
+title: A lighthearted farming sim, with a touch of magic | Full Review - Everdream
+  Valley
 ---
 
 <div class="gallery">

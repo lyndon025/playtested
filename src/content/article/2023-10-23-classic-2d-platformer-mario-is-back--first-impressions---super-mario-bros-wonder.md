@@ -1,12 +1,20 @@
 ---
-title: "Classic 2D platformer Mario is back! | First Impressions - Super Mario Bros. Wonder"
-description: "I never was a big Super Mario fan, but I did play a lot of it during my NES and SNES childhood days. It's one of the earliest gaming experiences I've ever had, especially with Super Mario Bros. 1 and 3. I also a played some Mario Kart on the Switch and their recent 3D platformers, but Wonder is just really special. Classic 2D platformer Mario is back, and it's probably the best Super Mario game to date."
-pubDate: 2023-10-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "super-mario-world-(snes,-gba)"]
+author: lyndonguitar
+category: Review
+description: I never was a big Super Mario fan, but I did play a lot of it during
+  my NES and SNES childhood days. It's one of the earliest gaming experiences I've
+  ever had, especially with Super Mario Bros. 1 and 3. I also a played some Mario
+  Kart on the Switch and their recent 3D platformers, but Wonder is just really special.
+  Classic 2D platformer Mario is back, and it's probably the best Super Mario game
+  to date.
 featured: false
-thumb: ""
+pubDate: 2023-10-23
+tags:
+- taptap
+- super-mario-world-(snes,-gba)
+thumb: ''
+title: Classic 2D platformer Mario is back! | First Impressions - Super Mario Bros.
+  Wonder
 ---
 
 I never was a big Super Mario fan, but I did play a lot of it during my NES and SNES childhood days. It's one of the earliest gaming experiences I've ever had, especially with Super Mario Bros. 1 and 3. I also a played some Mario Kart on the Switch and their recent 3D platformers, but Wonder is just really special. Classic 2D platformer Mario is back, and it's probably the best Super Mario game to date.

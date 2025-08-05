@@ -1,12 +1,18 @@
 ---
-title: "My bullet swarm vs the zombie swarm | First Impressions - The Doomsland: Survivors"
-description: "The Doomsland: Survivors is a top-down shooter with rogue-lite elements that will leave you on the edge of your seat. From the moment you start playing, you'll be thrown into a world overrun by human zombies and other zombified creatures and mutants, and it's up to you to fight your way through hordes of enemies to survive, one room at a time."
-pubDate: 2023-04-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-doomsland:-survivors"]
+author: lyndonguitar
+category: Review
+description: 'The Doomsland: Survivors is a top-down shooter with rogue-lite elements
+  that will leave you on the edge of your seat. From the moment you start playing,
+  you''ll be thrown into a world overrun by human zombies and other zombified creatures
+  and mutants, and it''s up to you to fight your way through hordes of enemies to
+  survive, one room at a time.'
 featured: false
-thumb: "/images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-0.avif"
+pubDate: 2023-04-07
+tags:
+- taptap
+- the-doomsland:-survivors
+thumb: /images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-0.avif
+title: 'My bullet swarm vs the zombie swarm | First Impressions - The Doomsland: Survivors'
 ---
 
 <div class="gallery">

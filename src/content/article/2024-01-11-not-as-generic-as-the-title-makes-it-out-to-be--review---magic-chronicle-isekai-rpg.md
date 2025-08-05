@@ -1,12 +1,16 @@
 ---
-title: "Not as generic as the title makes it out to be | Review - Magic Chronicle: Isekai RPG"
-description: "Magic Chronicle: Isekai RPG"
-pubDate: 2024-01-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "magic-chronicle:-isekai-rpg"]
+author: lyndonguitar
+category: Review
+description: 'Magic Chronicle: Isekai RPG'
 featured: false
-thumb: "/images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-0.avif"
+pubDate: 2024-01-11
+score: 7.0
+tags:
+- taptap
+- magic-chronicle:-isekai-rpg
+thumb: /images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-0.avif
+title: 'Not as generic as the title makes it out to be | Review - Magic Chronicle:
+  Isekai RPG'
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "[Indie Spotlight] Dragons and Magic meets Space Travel and Technology | Early Preview - Starstride"
-description: "Starstride"
-pubDate: 2023-09-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "starstride"]
+author: lyndonguitar
+category: Review
+description: Starstride
 featured: false
-thumb: "/images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-0.avif"
+pubDate: 2023-09-24
+tags:
+- taptap
+- starstride
+thumb: /images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-0.avif
+title: '[Indie Spotlight] Dragons and Magic meets Space Travel and Technology | Early
+  Preview - Starstride'
 ---
 
 <div class="gallery">

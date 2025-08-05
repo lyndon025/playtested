@@ -1,12 +1,16 @@
 ---
-title: "A cleverly challenging puzzle game disguised as a grid-based strategy | Review - Mobile Suit Baba"
-description: "Mobile Suit Baba"
-pubDate: 2023-12-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mobile-suit-baba"]
+author: lyndonguitar
+category: Review
+description: Mobile Suit Baba
 featured: false
-thumb: "/images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-0.avif"
+pubDate: 2023-12-26
+score: 8.0
+tags:
+- taptap
+- mobile-suit-baba
+thumb: /images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-0.avif
+title: A cleverly challenging puzzle game disguised as a grid-based strategy | Review
+  - Mobile Suit Baba
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "A promising cozily rewarding game that feels polished already | Early Access Review - Cozy Islands"
-description: "Cozy IslandsTest US"
-pubDate: 2024-01-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cozy-islands"]
+author: lyndonguitar
+category: Review
+description: Cozy IslandsTest US
 featured: false
-thumb: "/images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-0.avif"
+pubDate: 2024-01-09
+tags:
+- taptap
+- cozy-islands
+thumb: /images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-0.avif
+title: A promising cozily rewarding game that feels polished already | Early Access
+  Review - Cozy Islands
 ---
 
 <div class="gallery">

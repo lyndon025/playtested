@@ -1,12 +1,19 @@
 ---
-title: "A spiritual successor to Cultist Simulator | First Impressions - Book of Hours"
-description: "At first glance, Book of Hours appears as a difficult concept to understand, and it is absolutely true, much like the arcane secrets it promises to unveil. Developed by Weather Factory – the creators of another similar game in Cultist Simulator, Book of Hours captivates with its rich atmosphere and esoteric themes. Released on PC, it beckons players to explore the realms of the occult, inviting them to step into the shoes of an amnesiac librarian rebuilding a destroyed ancient library."
-pubDate: 2023-08-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "book-of-hours"]
+author: lyndonguitar
+category: Review
+description: At first glance, Book of Hours appears as a difficult concept to understand,
+  and it is absolutely true, much like the arcane secrets it promises to unveil. Developed
+  by Weather Factory – the creators of another similar game in Cultist Simulator,
+  Book of Hours captivates with its rich atmosphere and esoteric themes. Released
+  on PC, it beckons players to explore the realms of the occult, inviting them to
+  step into the shoes of an amnesiac librarian rebuilding a destroyed ancient library.
 featured: false
-thumb: ""
+pubDate: 2023-08-21
+tags:
+- taptap
+- book-of-hours
+thumb: ''
+title: A spiritual successor to Cultist Simulator | First Impressions - Book of Hours
 ---
 
 At first glance, Book of Hours appears as a difficult concept to understand, and it is absolutely true, much like the arcane secrets it promises to unveil. Developed by Weather Factory – the creators of another similar game in Cultist Simulator, Book of Hours captivates with its rich atmosphere and esoteric themes. Released on PC, it beckons players to explore the realms of the occult, inviting them to step into the shoes of an amnesiac librarian rebuilding a destroyed ancient library.

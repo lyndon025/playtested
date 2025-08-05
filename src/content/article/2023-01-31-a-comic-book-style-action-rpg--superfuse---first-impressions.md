@@ -1,12 +1,16 @@
 ---
-title: "A comic book style Action RPG | Superfuse - First Impressions"
-description: "Released in Early Access today, Superfuse is a brand new Action RPG that combines cell-shaded comic-book art style, looter elements, with some action packed hack ’n slash mechanics."
-pubDate: 2023-01-31
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "superfuse"]
+author: lyndonguitar
+category: Review
+description: Released in Early Access today, Superfuse is a brand new Action RPG that
+  combines cell-shaded comic-book art style, looter elements, with some action packed
+  hack ’n slash mechanics.
 featured: false
-thumb: "/images/reviews/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-0.avif"
+pubDate: 2023-01-31
+tags:
+- taptap
+- superfuse
+thumb: /images/reviews/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-0.avif
+title: A comic book style Action RPG | Superfuse - First Impressions
 ---
 
 <div class="gallery">

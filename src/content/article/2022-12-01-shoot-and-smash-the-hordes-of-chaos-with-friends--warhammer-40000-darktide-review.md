@@ -1,12 +1,19 @@
 ---
-title: "Shoot and smash the hordes of chaos with friends | Warhammer 40,000: Darktide Review"
-description: "From the makers of the amazing Warhammer: Vermintide series comes another game, now set 40,000 years into the future: Warhammer 40,000: Darktide. This only means stuff like Guns and Chainswords are now available in your arsenal. The gameplay style that started with Left 4 Dead, the first person melee combat perfected by Vermintide, is now circling back to using guns again with Darktide."
-pubDate: 2022-12-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "warhammer-40,000:-darktide"]
+author: lyndonguitar
+category: Review
+description: 'From the makers of the amazing Warhammer: Vermintide series comes another
+  game, now set 40,000 years into the future: Warhammer 40,000: Darktide. This only
+  means stuff like Guns and Chainswords are now available in your arsenal. The gameplay
+  style that started with Left 4 Dead, the first person melee combat perfected by
+  Vermintide, is now circling back to using guns again with Darktide.'
 featured: false
-thumb: "/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-0.avif"
+pubDate: 2022-12-01
+tags:
+- taptap
+- warhammer-40,000:-darktide
+thumb: /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-0.avif
+title: 'Shoot and smash the hordes of chaos with friends | Warhammer 40,000: Darktide
+  Review'
 ---
 
 <div class="gallery">

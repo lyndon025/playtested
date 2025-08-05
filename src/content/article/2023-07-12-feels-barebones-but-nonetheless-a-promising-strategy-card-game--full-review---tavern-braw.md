@@ -1,12 +1,15 @@
 ---
-title: "Feels barebones but nonetheless a promising strategy card game | Full Review - Tavern Brawls"
-description: "ARCANE RUSH: Auto Battler"
-pubDate: 2023-07-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "arcane-rush:-auto-battler"]
+author: lyndonguitar
+category: Review
+description: 'ARCANE RUSH: Auto Battler'
 featured: false
-thumb: "/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-0.avif"
+pubDate: 2023-07-12
+tags:
+- taptap
+- arcane-rush:-auto-battler
+thumb: /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-0.avif
+title: Feels barebones but nonetheless a promising strategy card game | Full Review
+  - Tavern Brawls
 ---
 
 <div class="gallery">

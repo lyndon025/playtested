@@ -1,12 +1,15 @@
 ---
-title: "SEA servers now up! | A narrative-driven waifu catgirl adventure | Review - Cat Fantasy"
-description: "Cat Fantasy:PHSEA"
-pubDate: 2023-08-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cat-fantasy:ph"]
+author: lyndonguitar
+category: Review
+description: Cat Fantasy:PHSEA
 featured: false
-thumb: "/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-0.avif"
+pubDate: 2023-08-25
+tags:
+- taptap
+- cat-fantasy:ph
+thumb: /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-0.avif
+title: SEA servers now up! | A narrative-driven waifu catgirl adventure | Review -
+  Cat Fantasy
 ---
 
 <div class="gallery">

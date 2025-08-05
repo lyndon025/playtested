@@ -1,12 +1,17 @@
 ---
-title: "Faithfully feels like a game from the 90s | Beyond The Edge Of Owlsgard - First Impressions"
-description: "Beyond The Edge Of Owlsgard is an old-school point & click adventure game reminiscent of the classic animated movies of the 90s as well as classic video games like The Secret of Monkey Island, Sam and Max, and Kings Quest."
-pubDate: 2022-12-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "beyond-the-edge-of-owlsgard"]
+author: lyndonguitar
+category: Review
+description: Beyond The Edge Of Owlsgard is an old-school point & click adventure
+  game reminiscent of the classic animated movies of the 90s as well as classic video
+  games like The Secret of Monkey Island, Sam and Max, and Kings Quest.
 featured: false
-thumb: "/images/reviews/2022-12-24-faithfully-feels-like-a-game-from-the-90s--beyond-the-edge-of-owlsgard---first-impression-0.avif"
+pubDate: 2022-12-24
+tags:
+- taptap
+- beyond-the-edge-of-owlsgard
+thumb: /images/reviews/2022-12-24-faithfully-feels-like-a-game-from-the-90s--beyond-the-edge-of-owlsgard---first-impression-0.avif
+title: Faithfully feels like a game from the 90s | Beyond The Edge Of Owlsgard - First
+  Impressions
 ---
 
 <div class="gallery">

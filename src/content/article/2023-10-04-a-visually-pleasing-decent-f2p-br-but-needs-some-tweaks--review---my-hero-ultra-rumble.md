@@ -1,12 +1,15 @@
 ---
-title: "A visually pleasing, decent F2P BR, but needs some tweaks | Review - MY HERO ULTRA RUMBLE"
-description: "MY HERO ULTRA RUMBLE"
-pubDate: 2023-10-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "my-hero-ultra-rumble"]
+author: lyndonguitar
+category: Review
+description: MY HERO ULTRA RUMBLE
 featured: false
-thumb: "/images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-0.avif"
+pubDate: 2023-10-04
+tags:
+- taptap
+- my-hero-ultra-rumble
+thumb: /images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-0.avif
+title: A visually pleasing, decent F2P BR, but needs some tweaks | Review - MY HERO
+  ULTRA RUMBLE
 ---
 
 <div class="gallery">

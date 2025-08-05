@@ -1,12 +1,15 @@
 ---
-title: "Rampaging Titans and Titan-hunting Mechas for PC, now possible on Mobile (Cloud) | GigaBash"
-description: "Pocket Playfest: An Indie Celebration 2023 Winter Edition"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "gigabash"]
+author: lyndonguitar
+category: Review
+description: 'Pocket Playfest: An Indie Celebration 2023 Winter Edition'
 featured: false
-thumb: ""
+pubDate: 2023-12-22
+tags:
+- taptap
+- gigabash
+thumb: ''
+title: Rampaging Titans and Titan-hunting Mechas for PC, now possible on Mobile (Cloud)
+  | GigaBash
 ---
 
 Pocket Playfest: An Indie Celebration 2023 Winter Edition

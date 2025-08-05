@@ -1,12 +1,15 @@
 ---
-title: "If you’ve somehow missed this puzzle-platformer gem, go play it now | Full Review - LIMBO+"
-description: "LIMBO+"
-pubDate: 2023-05-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "limbo+"]
+author: lyndonguitar
+category: Review
+description: LIMBO+
 featured: false
-thumb: "/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-0.avif"
+pubDate: 2023-05-08
+tags:
+- taptap
+- limbo+
+thumb: /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-0.avif
+title: If you’ve somehow missed this puzzle-platformer gem, go play it now | Full
+  Review - LIMBO+
 ---
 
 <div class="gallery">

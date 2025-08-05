@@ -1,12 +1,16 @@
 ---
-title: "A promising concept but falls flat in the execution | PC+Mobile (Cloud) - Devil Slot Machine"
-description: "Devil Slot Machine"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "devil-slot-machine"]
+author: lyndonguitar
+category: Review
+description: Devil Slot Machine
 featured: false
-thumb: "/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-0.avif"
+pubDate: 2023-12-22
+score: 3.0
+tags:
+- taptap
+- devil-slot-machine
+thumb: /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-0.avif
+title: A promising concept but falls flat in the execution | PC+Mobile (Cloud) - Devil
+  Slot Machine
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "The Puppet Show has begun! | Aether Gazer’s Shadow Under Convallaria update"
-description: "First of all, Aether Gazer is a hack-and-slash gacha ARPG game available for Android and iOS with a compelling, fully voiced narrative. (Endorsed by the Aether Gazer website, PC is also playable via emulator)"
-pubDate: 2023-09-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "aether-gazer"]
+author: lyndonguitar
+category: Review
+description: First of all, Aether Gazer is a hack-and-slash gacha ARPG game available
+  for Android and iOS with a compelling, fully voiced narrative. (Endorsed by the
+  Aether Gazer website, PC is also playable via emulator)
 featured: false
-thumb: "/images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif"
+pubDate: 2023-09-05
+tags:
+- taptap
+- aether-gazer
+thumb: /images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif
+title: The Puppet Show has begun! | Aether Gazer’s Shadow Under Convallaria update
 ---
 
 <div class="gallery">

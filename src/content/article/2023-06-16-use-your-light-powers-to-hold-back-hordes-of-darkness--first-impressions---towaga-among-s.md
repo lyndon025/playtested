@@ -1,12 +1,18 @@
 ---
-title: "Use your light powers to hold back hordes of darkness | First Impressions - Towaga Among Shadows"
-description: "Towaga: Among Shadows is a  2D shoot 'em up game that blends dual/single stick shooting and tower defense elements. It was previously released for Switch, PC, Playstation, Apple Arcade, and has since made its way to mobile platforms (iOS, Android) with a recent release last June 15, 2023."
-pubDate: 2023-06-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "towaga:-among-shadows"]
+author: lyndonguitar
+category: Review
+description: 'Towaga: Among Shadows is a  2D shoot ''em up game that blends dual/single
+  stick shooting and tower defense elements. It was previously released for Switch,
+  PC, Playstation, Apple Arcade, and has since made its way to mobile platforms (iOS,
+  Android) with a recent release last June 15, 2023.'
 featured: false
-thumb: ""
+pubDate: 2023-06-16
+tags:
+- taptap
+- towaga:-among-shadows
+thumb: ''
+title: Use your light powers to hold back hordes of darkness | First Impressions -
+  Towaga Among Shadows
 ---
 
 Towaga: Among Shadows is a  2D shoot 'em up game that blends dual/single stick shooting and tower defense elements. It was previously released for Switch, PC, Playstation, Apple Arcade, and has since made its way to mobile platforms (iOS, Android) with a recent release last June 15, 2023.

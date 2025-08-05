@@ -1,12 +1,16 @@
 ---
-title: "Not really a 'Detective' game but a solid visual novel experience nonetheless | Review - Methods"
-description: "Methods: Detective Competition"
-pubDate: 2024-01-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "methods:-the-canada-files"]
+author: lyndonguitar
+category: Review
+description: 'Methods: Detective Competition'
 featured: false
-thumb: "/images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-0.avif"
+pubDate: 2024-01-23
+score: 8.0
+tags:
+- taptap
+- methods:-the-canada-files
+thumb: /images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-0.avif
+title: Not really a 'Detective' game but a solid visual novel experience nonetheless
+  | Review - Methods
 ---
 
 <div class="gallery">

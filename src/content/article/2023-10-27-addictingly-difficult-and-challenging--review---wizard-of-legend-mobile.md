@@ -1,12 +1,15 @@
 ---
-title: "Addictingly difficult and challenging | Review - Wizard of Legend Mobile"
-description: "Wizard of Legend Mobile"
-pubDate: 2023-10-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wizard-of-legend"]
+author: lyndonguitar
+category: Review
+description: Wizard of Legend Mobile
 featured: false
-thumb: "/images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-0.avif"
+pubDate: 2023-10-27
+score: 9.0
+tags:
+- taptap
+- wizard-of-legend
+thumb: /images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-0.avif
+title: Addictingly difficult and challenging | Review - Wizard of Legend Mobile
 ---
 
 <div class="gallery">

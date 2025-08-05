@@ -1,12 +1,15 @@
 ---
-title: "Ninja Turtles gets the Hades rogue-lite treatment | First Impressions - TMNT Splintered Fate"
-description: "TMNT Splintered Fate"
-pubDate: 2023-05-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tmnt-splintered-fate"]
+author: lyndonguitar
+category: Review
+description: TMNT Splintered Fate
 featured: false
-thumb: "/images/reviews/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-0.avif"
+pubDate: 2023-05-10
+tags:
+- taptap
+- tmnt-splintered-fate
+thumb: /images/reviews/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-0.avif
+title: Ninja Turtles gets the Hades rogue-lite treatment | First Impressions - TMNT
+  Splintered Fate
 ---
 
 <div class="gallery">

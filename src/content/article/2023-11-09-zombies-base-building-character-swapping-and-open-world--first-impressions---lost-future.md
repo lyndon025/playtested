@@ -1,12 +1,21 @@
 ---
-title: "Zombies, base building, character swapping, and open world? | First Impressions - Lost Future"
-description: "Lost Future is a post apocalyptic open world game that features melee combat, shooting, zombie stealth takedowns, and even good 'ol looting for supplies. The vibe of the game feels very similar to one of my favorite zombie games, State of Decay. Lost Future also features base management elements, where you can build new facilities within your safehouse and upgrade them for more benefit. As far as mobile games go, it may remind you of games like LifeAfter and Last Day on Earth: Survival."
-pubDate: 2023-11-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "state-of-decay"]
+author: lyndonguitar
+category: Review
+description: 'Lost Future is a post apocalyptic open world game that features melee
+  combat, shooting, zombie stealth takedowns, and even good ''ol looting for supplies.
+  The vibe of the game feels very similar to one of my favorite zombie games, State
+  of Decay. Lost Future also features base management elements, where you can build
+  new facilities within your safehouse and upgrade them for more benefit. As far as
+  mobile games go, it may remind you of games like LifeAfter and Last Day on Earth:
+  Survival.'
 featured: false
-thumb: ""
+pubDate: 2023-11-09
+tags:
+- taptap
+- state-of-decay
+thumb: ''
+title: Zombies, base building, character swapping, and open world? | First Impressions
+  - Lost Future
 ---
 
 Lost Future is a post apocalyptic open world game that features melee combat, shooting, zombie stealth takedowns, and even good 'ol looting for supplies. The vibe of the game feels very similar to one of my favorite zombie games, State of Decay. Lost Future also features base management elements, where you can build new facilities within your safehouse and upgrade them for more benefit. As far as mobile games go, it may remind you of games like LifeAfter and Last Day on Earth: Survival.

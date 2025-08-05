@@ -1,12 +1,18 @@
 ---
-title: "A rogue-like survival RPG cooking sim? | First Impressions - ﻿Monster Menu: The Scavenger's Cookbook"
-description: "Monster Menu: The Scavenger's Cookbook is a game that attempts to blend elements of rogue-like dungeon crawling, survival crafting, cooking sim, and turn-based combat mechanics. It features cel-shaded anime chibi art style and a third person view gameplay."
-pubDate: 2023-05-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "monster-menu-(ns,-ps4,-ps5)"]
+author: lyndonguitar
+category: Review
+description: 'Monster Menu: The Scavenger''s Cookbook is a game that attempts to blend
+  elements of rogue-like dungeon crawling, survival crafting, cooking sim, and turn-based
+  combat mechanics. It features cel-shaded anime chibi art style and a third person
+  view gameplay.'
 featured: false
-thumb: ""
+pubDate: 2023-05-25
+tags:
+- taptap
+- monster-menu-(ns,-ps4,-ps5)
+thumb: ''
+title: "A rogue-like survival RPG cooking sim? | First Impressions - \uFEFFMonster
+  Menu: The Scavenger's Cookbook"
 ---
 
 Monster Menu: The Scavenger's Cookbook is a game that attempts to blend elements of rogue-like dungeon crawling, survival crafting, cooking sim, and turn-based combat mechanics. It features cel-shaded anime chibi art style and a third person view gameplay.

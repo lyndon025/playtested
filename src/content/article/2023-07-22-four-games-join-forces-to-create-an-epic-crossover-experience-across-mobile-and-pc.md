@@ -1,12 +1,18 @@
 ---
-title: "Four games join forces to create an epic crossover experience across mobile and PC!"
-description: "Riot Games has launched the highly anticipated Soul Fighter cross game summer event, which introduces for the first time a cross-over of four beloved titles: League of Legends: Wild Rift, Legends of Runeterra, Teamfight Tactics, and League of Legends itself."
-pubDate: 2023-07-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "legends-of-runeterra"]
+author: lyndonguitar
+category: Review
+description: 'Riot Games has launched the highly anticipated Soul Fighter cross game
+  summer event, which introduces for the first time a cross-over of four beloved titles:
+  League of Legends: Wild Rift, Legends of Runeterra, Teamfight Tactics, and League
+  of Legends itself.'
 featured: false
-thumb: ""
+pubDate: 2023-07-22
+tags:
+- taptap
+- legends-of-runeterra
+thumb: ''
+title: Four games join forces to create an epic crossover experience across mobile
+  and PC!
 ---
 
 Riot Games has launched the highly anticipated Soul Fighter cross game summer event, which introduces for the first time a cross-over of four beloved titles: League of Legends: Wild Rift, Legends of Runeterra, Teamfight Tactics, and League of Legends itself.

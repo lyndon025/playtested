@@ -1,12 +1,16 @@
 ---
-title: "A seamless 3D Platformer transition from PC/Console to Mobile | Review: SpongeBob - The Cosmic Shake"
-description: "SpongeBob - The Cosmic Shake"
-pubDate: 2023-12-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-cosmic-shake"]
+author: lyndonguitar
+category: Review
+description: SpongeBob - The Cosmic Shake
 featured: false
-thumb: "/images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-0.avif"
+pubDate: 2023-12-24
+score: 8.0
+tags:
+- taptap
+- the-cosmic-shake
+thumb: /images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-0.avif
+title: 'A seamless 3D Platformer transition from PC/Console to Mobile | Review: SpongeBob
+  - The Cosmic Shake'
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "Another masterpiece for the Switch? | First Impressions - The Legend of Zelda: Tears of the Kingdom"
-description: "The Legend of Zelda: Tears of the Kingdom (NS)"
-pubDate: 2023-05-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-legend-of-zelda:-tears-of-the-kingdom-(ns)"]
+author: lyndonguitar
+category: Review
+description: 'The Legend of Zelda: Tears of the Kingdom (NS)'
 featured: false
-thumb: "/images/reviews/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--0.avif"
+pubDate: 2023-05-15
+tags:
+- taptap
+- the-legend-of-zelda:-tears-of-the-kingdom-(ns)
+thumb: /images/reviews/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--0.avif
+title: 'Another masterpiece for the Switch? | First Impressions - The Legend of Zelda:
+  Tears of the Kingdom'
 ---
 
 <div class="gallery">

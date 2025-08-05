@@ -1,12 +1,14 @@
 ---
-title: "A solid retro-style monster-taming RPG for Mobile | Preview - Coromon"
-description: "CoromonGlobal"
-pubDate: 2023-10-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "pokémon-scarlet-and-violet"]
+author: lyndonguitar
+category: Review
+description: CoromonGlobal
 featured: false
-thumb: "/images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-0.avif"
+pubDate: 2023-10-30
+tags:
+- taptap
+- pokémon-scarlet-and-violet
+thumb: /images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-0.avif
+title: A solid retro-style monster-taming RPG for Mobile | Preview - Coromon
 ---
 
 <div class="gallery">

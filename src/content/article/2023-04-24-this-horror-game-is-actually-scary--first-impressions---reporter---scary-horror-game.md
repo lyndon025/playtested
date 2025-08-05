@@ -1,12 +1,15 @@
 ---
-title: "This horror game is actually scary | First Impressions - Reporter - Scary Horror Game"
-description: "Reporter - Scary Horror Game"
-pubDate: 2023-04-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "scary-horror-game"]
+author: lyndonguitar
+category: Review
+description: Reporter - Scary Horror Game
 featured: false
-thumb: "/images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-0.avif"
+pubDate: 2023-04-24
+tags:
+- taptap
+- scary-horror-game
+thumb: /images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-0.avif
+title: This horror game is actually scary | First Impressions - Reporter - Scary Horror
+  Game
 ---
 
 <div class="gallery">

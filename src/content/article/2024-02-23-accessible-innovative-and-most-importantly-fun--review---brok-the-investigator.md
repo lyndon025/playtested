@@ -1,12 +1,15 @@
 ---
-title: "Accessible, innovative, and most importantly, fun | Review - BROK the InvestiGator"
-description: "BROK the InvestiGator"
-pubDate: 2024-02-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "brok-the-investigator"]
+author: lyndonguitar
+category: Review
+description: BROK the InvestiGator
 featured: false
-thumb: "/images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-0.avif"
+pubDate: 2024-02-23
+score: 8.0
+tags:
+- taptap
+- brok-the-investigator
+thumb: /images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-0.avif
+title: Accessible, innovative, and most importantly, fun | Review - BROK the InvestiGator
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "Faithful dynamic combat, but definitely not ‘Peak of Combat’ | Review - Devil May Cry Peak of Combat"
-description: "Devil May Cry: Peak of CombatGlobal"
-pubDate: 2024-01-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "devil-may-cry-4-special-edition"]
+author: lyndonguitar
+category: Review
+description: 'Devil May Cry: Peak of CombatGlobal'
 featured: false
-thumb: "/images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-0.avif"
+pubDate: 2024-01-11
+score: 6.0
+tags:
+- taptap
+- devil-may-cry-4-special-edition
+thumb: /images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-0.avif
+title: Faithful dynamic combat, but definitely not ‘Peak of Combat’ | Review - Devil
+  May Cry Peak of Combat
 ---
 
 <div class="gallery">

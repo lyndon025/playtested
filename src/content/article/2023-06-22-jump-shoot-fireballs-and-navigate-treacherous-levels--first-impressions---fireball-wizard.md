@@ -1,12 +1,20 @@
 ---
-title: "Jump, shoot fireballs, and navigate treacherous levels | First Impressions - Fireball Wizard"
-description: "Fireball Wizard's retro-inspired pixelated graphics capture the essence of classic arcade games. The art style is charming and meticulously designed, reminiscent of the 8-bit and 16-bit era. The environments are visually distinct, featuring dark castles, gloomy forests, and treacherous caves. The enemy designs are varied, differing in mannerisms, attack patterns, and visual design, showcasing imaginative creatures and challenging bosses that provide both visual appeal and gameplay diversity."
-pubDate: 2023-06-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "fireball-wizard"]
+author: lyndonguitar
+category: Review
+description: Fireball Wizard's retro-inspired pixelated graphics capture the essence
+  of classic arcade games. The art style is charming and meticulously designed, reminiscent
+  of the 8-bit and 16-bit era. The environments are visually distinct, featuring dark
+  castles, gloomy forests, and treacherous caves. The enemy designs are varied, differing
+  in mannerisms, attack patterns, and visual design, showcasing imaginative creatures
+  and challenging bosses that provide both visual appeal and gameplay diversity.
 featured: false
-thumb: ""
+pubDate: 2023-06-22
+tags:
+- taptap
+- fireball-wizard
+thumb: ''
+title: Jump, shoot fireballs, and navigate treacherous levels | First Impressions
+  - Fireball Wizard
 ---
 
 Fireball Wizard's retro-inspired pixelated graphics capture the essence of classic arcade games. The art style is charming and meticulously designed, reminiscent of the 8-bit and 16-bit era. The environments are visually distinct, featuring dark castles, gloomy forests, and treacherous caves. The enemy designs are varied, differing in mannerisms, attack patterns, and visual design, showcasing imaginative creatures and challenging bosses that provide both visual appeal and gameplay diversity.

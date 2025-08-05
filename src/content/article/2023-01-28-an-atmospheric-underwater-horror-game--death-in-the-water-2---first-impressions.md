@@ -1,12 +1,17 @@
 ---
-title: "An atmospheric underwater horror game | Death in the Water 2 - First Impressions"
-description: "Imagine a deep sea survival game like Subnautica, which is basically an underwater version of The Forest. Remove all the base building, crafting, focus on the shooter aspect, make it darker with lovecraftian elements and you get Death in the Water 2."
-pubDate: 2023-01-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "death-in-the-water-2"]
+author: lyndonguitar
+category: Review
+description: Imagine a deep sea survival game like Subnautica, which is basically
+  an underwater version of The Forest. Remove all the base building, crafting, focus
+  on the shooter aspect, make it darker with lovecraftian elements and you get Death
+  in the Water 2.
 featured: false
-thumb: "/images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-0.avif"
+pubDate: 2023-01-28
+tags:
+- taptap
+- death-in-the-water-2
+thumb: /images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-0.avif
+title: An atmospheric underwater horror game | Death in the Water 2 - First Impressions
 ---
 
 <div class="gallery">

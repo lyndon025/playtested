@@ -1,12 +1,15 @@
 ---
-title: "Retro platforming action, seamless character switching | Full Review - Exolotl : Zian"
-description: "Exolotl : Zian"
-pubDate: 2023-05-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "exolotl-:-zian"]
+author: lyndonguitar
+category: Review
+description: 'Exolotl : Zian'
 featured: false
-thumb: "/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-0.avif"
+pubDate: 2023-05-18
+tags:
+- taptap
+- exolotl-:-zian
+thumb: /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-0.avif
+title: 'Retro platforming action, seamless character switching | Full Review - Exolotl
+  : Zian'
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "A stand out online fantasy strategy game | Full Review - Call of Dragons"
-description: "Call of Dragons is a new upcoming fantasy strategy mobile game that features city-building aspects combined with strategy war game and RPG elements. It is currently available for testing on mobile devices and for PC as well as an emulated-port."
-pubDate: 2023-03-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "call-of-dragons"]
+author: lyndonguitar
+category: Review
+description: Call of Dragons is a new upcoming fantasy strategy mobile game that features
+  city-building aspects combined with strategy war game and RPG elements. It is currently
+  available for testing on mobile devices and for PC as well as an emulated-port.
 featured: false
-thumb: "/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif"
+pubDate: 2023-03-10
+tags:
+- taptap
+- call-of-dragons
+thumb: /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif
+title: A stand out online fantasy strategy game | Full Review - Call of Dragons
 ---
 
 <div class="gallery">

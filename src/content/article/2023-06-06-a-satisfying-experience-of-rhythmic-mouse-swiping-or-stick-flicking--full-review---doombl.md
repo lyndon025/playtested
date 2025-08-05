@@ -1,12 +1,15 @@
 ---
-title: "A satisfying experience of rhythmic mouse swiping or stick flicking | Full Review - Doomblade"
-description: "DOOMBLADE"
-pubDate: 2023-06-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "doomblade"]
+author: lyndonguitar
+category: Review
+description: DOOMBLADE
 featured: false
-thumb: "/images/reviews/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-0.avif"
+pubDate: 2023-06-06
+tags:
+- taptap
+- doomblade
+thumb: /images/reviews/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-0.avif
+title: A satisfying experience of rhythmic mouse swiping or stick flicking | Full
+  Review - Doomblade
 ---
 
 <div class="gallery">

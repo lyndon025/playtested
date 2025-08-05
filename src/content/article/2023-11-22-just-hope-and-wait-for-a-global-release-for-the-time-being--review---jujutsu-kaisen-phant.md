@@ -1,12 +1,15 @@
 ---
-title: "Just hope and wait for a global release for the time being | Review - Jujutsu Kaisen: Phantom Parade"
-description: "Jujutsu Kaisen Phantom ParadeJP"
-pubDate: 2023-11-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "jujutsu-kaisen-phantom-parade"]
+author: lyndonguitar
+category: Review
+description: Jujutsu Kaisen Phantom ParadeJP
 featured: false
-thumb: "/images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-0.avif"
+pubDate: 2023-11-22
+tags:
+- taptap
+- jujutsu-kaisen-phantom-parade
+thumb: /images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-0.avif
+title: 'Just hope and wait for a global release for the time being | Review - Jujutsu
+  Kaisen: Phantom Parade'
 ---
 
 <div class="gallery">

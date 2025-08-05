@@ -1,12 +1,15 @@
 ---
-title: "A delightful and charming short puzzle game | Full Review - Storyteller"
-description: "Storyteller is a charming puzzle game where you literally need to tell stories in order to solve the puzzles and achieve the required ending."
-pubDate: 2023-03-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "storyteller"]
+author: lyndonguitar
+category: Review
+description: Storyteller is a charming puzzle game where you literally need to tell
+  stories in order to solve the puzzles and achieve the required ending.
 featured: false
-thumb: "/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif"
+pubDate: 2023-03-26
+tags:
+- taptap
+- storyteller
+thumb: /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif
+title: A delightful and charming short puzzle game | Full Review - Storyteller
 ---
 
 <div class="gallery">

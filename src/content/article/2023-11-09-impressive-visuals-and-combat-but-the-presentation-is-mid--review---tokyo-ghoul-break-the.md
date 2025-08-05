@@ -1,12 +1,16 @@
 ---
-title: "Impressive visuals and combat but the presentation is mid | Review - Tokyo Ghoul: Break the Chains"
-description: "Tokyo Ghoul: Break the Chains"
-pubDate: 2023-11-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tokyo-ghoul:-break-the-chains"]
+author: lyndonguitar
+category: Review
+description: 'Tokyo Ghoul: Break the Chains'
 featured: false
-thumb: "/images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-0.avif"
+pubDate: 2023-11-09
+score: 6.0
+tags:
+- taptap
+- tokyo-ghoul:-break-the-chains
+thumb: /images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-0.avif
+title: 'Impressive visuals and combat but the presentation is mid | Review - Tokyo
+  Ghoul: Break the Chains'
 ---
 
 <div class="gallery">

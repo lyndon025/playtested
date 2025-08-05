@@ -1,12 +1,15 @@
 ---
-title: "An impressive evolution for the renowned fighting game franchise | Full Review - Street Fighter 6"
-description: "Street Fighter™ 6"
-pubDate: 2023-06-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "street-fighter™-6"]
+author: lyndonguitar
+category: Review
+description: Street Fighter™ 6
 featured: false
-thumb: "/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-0.avif"
+pubDate: 2023-06-04
+tags:
+- taptap
+- street-fighter™-6
+thumb: /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-0.avif
+title: An impressive evolution for the renowned fighting game franchise | Full Review
+  - Street Fighter 6
 ---
 
 <div class="gallery">

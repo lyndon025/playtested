@@ -1,12 +1,19 @@
 ---
-title: "A swashbuckling stealth strategy, following Shadow Tactics | First Impressions - Shadow Gambit"
-description: "Old gamers would likely recognize the gameplay of Shadow Gambit: The Cursed Crew as being very similar to the Commandos series, while younger gamers might see the resemblance with Shadow Tactics instead. This is due to the fact that it serves as its spiritual successor, if the ‘Shadow’ in the title and same developers are not yet a dead giveaway."
-pubDate: 2023-08-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "shadow-gambit:-the-cursed-crew"]
+author: lyndonguitar
+category: Review
+description: 'Old gamers would likely recognize the gameplay of Shadow Gambit: The
+  Cursed Crew as being very similar to the Commandos series, while younger gamers
+  might see the resemblance with Shadow Tactics instead. This is due to the fact that
+  it serves as its spiritual successor, if the ‘Shadow’ in the title and same developers
+  are not yet a dead giveaway.'
 featured: false
-thumb: ""
+pubDate: 2023-08-22
+tags:
+- taptap
+- shadow-gambit:-the-cursed-crew
+thumb: ''
+title: A swashbuckling stealth strategy, following Shadow Tactics | First Impressions
+  - Shadow Gambit
 ---
 
 Old gamers would likely recognize the gameplay of Shadow Gambit: The Cursed Crew as being very similar to the Commandos series, while younger gamers might see the resemblance with Shadow Tactics instead. This is due to the fact that it serves as its spiritual successor, if the ‘Shadow’ in the title and same developers are not yet a dead giveaway.

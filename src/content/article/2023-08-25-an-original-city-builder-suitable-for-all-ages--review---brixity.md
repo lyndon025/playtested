@@ -1,12 +1,14 @@
 ---
-title: "An original city-builder suitable for all ages | Review - BRIXITY"
-description: "BRIXITY - Sandbox&Multiplayer"
-pubDate: 2023-08-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "sandbox&multiplayer"]
+author: lyndonguitar
+category: Review
+description: BRIXITY - Sandbox&Multiplayer
 featured: false
-thumb: "/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif"
+pubDate: 2023-08-25
+tags:
+- taptap
+- sandbox&multiplayer
+thumb: /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif
+title: An original city-builder suitable for all ages | Review - BRIXITY
 ---
 
 <div class="gallery">

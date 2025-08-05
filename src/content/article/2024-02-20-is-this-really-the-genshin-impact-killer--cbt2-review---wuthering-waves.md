@@ -1,12 +1,15 @@
 ---
-title: "Is this really THE Genshin Impact Killer? | CBT2 Review - Wuthering Waves"
-description: "Wuthering Waves"
-pubDate: 2024-02-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "honkai-impact-3rd"]
+author: lyndonguitar
+category: Review
+description: Wuthering Waves
 featured: false
-thumb: "/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-0.avif"
+pubDate: 2024-02-20
+score: 8.0
+tags:
+- taptap
+- honkai-impact-3rd
+thumb: /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-0.avif
+title: Is this really THE Genshin Impact Killer? | CBT2 Review - Wuthering Waves
 ---
 
 <div class="gallery">

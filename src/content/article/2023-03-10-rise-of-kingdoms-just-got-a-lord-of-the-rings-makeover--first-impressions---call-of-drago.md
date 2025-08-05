@@ -1,12 +1,16 @@
 ---
-title: "Rise of Kingdoms just got a Lord of the Rings makeover | First Impressions - Call of Dragons"
-description: "From the makers of the popular strategy game Rise of Kingdoms, comes another similar game with a new fresh coat of paint, Call of Dragons."
-pubDate: 2023-03-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "call-of-dragons"]
+author: lyndonguitar
+category: Review
+description: From the makers of the popular strategy game Rise of Kingdoms, comes
+  another similar game with a new fresh coat of paint, Call of Dragons.
 featured: false
-thumb: "/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-0.avif"
+pubDate: 2023-03-10
+tags:
+- taptap
+- call-of-dragons
+thumb: /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-0.avif
+title: Rise of Kingdoms just got a Lord of the Rings makeover | First Impressions
+  - Call of Dragons
 ---
 
 <div class="gallery">

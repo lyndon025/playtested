@@ -1,12 +1,15 @@
 ---
-title: "This retro-inspired action platformer is HARD | First Impressions - Elderand"
-description: "Elderand is a 2D retro-inspired action platformer that has recently been released, and it is not for the faint of heart."
-pubDate: 2023-02-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "elderand"]
+author: lyndonguitar
+category: Review
+description: Elderand is a 2D retro-inspired action platformer that has recently been
+  released, and it is not for the faint of heart.
 featured: false
-thumb: "/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif"
+pubDate: 2023-02-18
+tags:
+- taptap
+- elderand
+thumb: /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif
+title: This retro-inspired action platformer is HARD | First Impressions - Elderand
 ---
 
 <div class="gallery">

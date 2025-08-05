@@ -1,12 +1,15 @@
 ---
-title: "A murder mystery experience to remember | Full Review - Danganronpa: Trigger Happy Havoc"
-description: "Danganronpa: Trigger Happy Hav"
-pubDate: 2023-05-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "danganronpa:-trigger-happy-hav"]
+author: lyndonguitar
+category: Review
+description: 'Danganronpa: Trigger Happy Hav'
 featured: false
-thumb: "/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-0.avif"
+pubDate: 2023-05-02
+tags:
+- taptap
+- danganronpa:-trigger-happy-hav
+thumb: /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-0.avif
+title: 'A murder mystery experience to remember | Full Review - Danganronpa: Trigger
+  Happy Havoc'
 ---
 
 <div class="gallery">

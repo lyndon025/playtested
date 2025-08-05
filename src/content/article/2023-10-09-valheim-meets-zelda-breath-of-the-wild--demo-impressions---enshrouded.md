@@ -1,12 +1,17 @@
 ---
-title: "Valheim meets Zelda Breath of the Wild? | Demo Impressions - Enshrouded"
-description: "Just recently, I tried the 8-hour free demo of the upcoming game on Steam - Enshrouded and had a great time, even if I only played it in singleplayer. The demo allows you to play through the initial quests, helping players become familiar with the game and see what it's like."
-pubDate: 2023-10-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "valheim"]
+author: lyndonguitar
+category: Review
+description: Just recently, I tried the 8-hour free demo of the upcoming game on Steam
+  - Enshrouded and had a great time, even if I only played it in singleplayer. The
+  demo allows you to play through the initial quests, helping players become familiar
+  with the game and see what it's like.
 featured: false
-thumb: ""
+pubDate: 2023-10-09
+tags:
+- taptap
+- valheim
+thumb: ''
+title: Valheim meets Zelda Breath of the Wild? | Demo Impressions - Enshrouded
 ---
 
 Just recently, I tried the 8-hour free demo of the upcoming game on Steam - Enshrouded and had a great time, even if I only played it in singleplayer. The demo allows you to play through the initial quests, helping players become familiar with the game and see what it's like.

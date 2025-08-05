@@ -1,12 +1,15 @@
 ---
-title: "A self-aware narratively focused murder mystery game | First Impressions - Murders on Budapest"
-description: "Murders on Budapest!"
-pubDate: 2023-05-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "murders-on-budapest!"]
+author: lyndonguitar
+category: Review
+description: Murders on Budapest!
 featured: false
-thumb: "/images/reviews/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-0.avif"
+pubDate: 2023-05-13
+tags:
+- taptap
+- murders-on-budapest!
+thumb: /images/reviews/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-0.avif
+title: A self-aware narratively focused murder mystery game | First Impressions -
+  Murders on Budapest
 ---
 
 <div class="gallery">

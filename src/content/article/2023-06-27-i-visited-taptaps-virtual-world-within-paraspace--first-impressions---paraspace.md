@@ -1,12 +1,18 @@
 ---
-title: "I visited TapTap's virtual world within ParaSpace! | First Impressions - ParaSpace"
-description: "I recently had the pleasure of exploring ParaSpace, an avatar-based online virtual platform that offers a plethora of immersive experiences and endless opportunities for connection and creativity. It is currently conducting an Android Beta Test right now exclusively available here on TapTap, with a special partnership content ‘TapTap world’ coming soon for TapTap users to chill around and relax in."
-pubDate: 2023-06-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "paraspace"]
+author: lyndonguitar
+category: Review
+description: I recently had the pleasure of exploring ParaSpace, an avatar-based online
+  virtual platform that offers a plethora of immersive experiences and endless opportunities
+  for connection and creativity. It is currently conducting an Android Beta Test right
+  now exclusively available here on TapTap, with a special partnership content ‘TapTap
+  world’ coming soon for TapTap users to chill around and relax in.
 featured: false
-thumb: ""
+pubDate: 2023-06-27
+tags:
+- taptap
+- paraspace
+thumb: ''
+title: I visited TapTap's virtual world within ParaSpace! | First Impressions - ParaSpace
 ---
 
 I recently had the pleasure of exploring ParaSpace, an avatar-based online virtual platform that offers a plethora of immersive experiences and endless opportunities for connection and creativity. It is currently conducting an Android Beta Test right now exclusively available here on TapTap, with a special partnership content ‘TapTap world’ coming soon for TapTap users to chill around and relax in.

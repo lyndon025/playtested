@@ -1,12 +1,17 @@
 ---
-title: "This platformer is cute and fun | First Impressions - Kirby's Return to Dream Land Deluxe"
-description: "Kirby's Return to Dream Land Deluxe is a remake and an enhanced edition of the original Wii title from 12 years ago. It takes the exact same story and gameplay, but revamps the graphics to modern standards, and it is beautiful."
-pubDate: 2023-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kirby's-return-to-dream-land-deluxe"]
+author: lyndonguitar
+category: Review
+description: Kirby's Return to Dream Land Deluxe is a remake and an enhanced edition
+  of the original Wii title from 12 years ago. It takes the exact same story and gameplay,
+  but revamps the graphics to modern standards, and it is beautiful.
 featured: false
-thumb: "/images/reviews/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-0.avif"
+pubDate: 2023-02-26
+tags:
+- taptap
+- kirby's-return-to-dream-land-deluxe
+thumb: /images/reviews/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-0.avif
+title: This platformer is cute and fun | First Impressions - Kirby's Return to Dream
+  Land Deluxe
 ---
 
 <div class="gallery">

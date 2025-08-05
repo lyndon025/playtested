@@ -1,12 +1,18 @@
 ---
-title: "What is The City of Aeterna? | Torchlight Infinite's latest Season"
-description: "Torchlight Infinite is the latest installment in the beloved Torchlight ARPG franchise, offering fast-paced battles and cross progression across platforms. Players explore a fantasy world, collect endless loot, and customize heroes with unique skills and legendary gear. In addition, it features fine graphics and smooth performance, making it one of the better ARPG options on mobile today."
-pubDate: 2023-09-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "torchlight:-infinite"]
+author: lyndonguitar
+category: Review
+description: Torchlight Infinite is the latest installment in the beloved Torchlight
+  ARPG franchise, offering fast-paced battles and cross progression across platforms.
+  Players explore a fantasy world, collect endless loot, and customize heroes with
+  unique skills and legendary gear. In addition, it features fine graphics and smooth
+  performance, making it one of the better ARPG options on mobile today.
 featured: false
-thumb: "/images/reviews/2023-09-06-what-is-the-city-of-aeterna--torchlight-infinites-latest-season-0.avif"
+pubDate: 2023-09-06
+tags:
+- taptap
+- torchlight:-infinite
+thumb: /images/reviews/2023-09-06-what-is-the-city-of-aeterna--torchlight-infinites-latest-season-0.avif
+title: What is The City of Aeterna? | Torchlight Infinite's latest Season
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "A unique concept that falls short on its execution | Full Review - Spiritle"
-description: "Spiritle"
-pubDate: 2023-06-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "spiritle"]
+author: lyndonguitar
+category: Review
+description: Spiritle
 featured: false
-thumb: "/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif"
+pubDate: 2023-06-30
+tags:
+- taptap
+- spiritle
+thumb: /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif
+title: A unique concept that falls short on its execution | Full Review - Spiritle
 ---
 
 <div class="gallery">

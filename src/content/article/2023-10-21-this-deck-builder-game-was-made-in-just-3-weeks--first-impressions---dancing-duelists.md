@@ -1,12 +1,19 @@
 ---
-title: "This deck builder game was made in just 3 weeks! | First Impressions - Dancing Duelists"
-description: "And you can also beat it in just 10 minutes. Dancing Duelists is a brief but spirited deckbuilding autobattler, made by Mega Crit's (developers of Slay the Spire). Developed in a mere three weeks using Godot Engine, this game invites players to select from ten silly quirky cartoonish characters and engage in a series of dance-off battles."
-pubDate: 2023-10-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dancing-duelists"]
+author: lyndonguitar
+category: Review
+description: And you can also beat it in just 10 minutes. Dancing Duelists is a brief
+  but spirited deckbuilding autobattler, made by Mega Crit's (developers of Slay the
+  Spire). Developed in a mere three weeks using Godot Engine, this game invites players
+  to select from ten silly quirky cartoonish characters and engage in a series of
+  dance-off battles.
 featured: false
-thumb: ""
+pubDate: 2023-10-21
+tags:
+- taptap
+- dancing-duelists
+thumb: ''
+title: This deck builder game was made in just 3 weeks! | First Impressions - Dancing
+  Duelists
 ---
 
 And you can also beat it in just 10 minutes. Dancing Duelists is a brief but spirited deckbuilding autobattler, made by Mega Crit's (developers of Slay the Spire). Developed in a mere three weeks using Godot Engine, this game invites players to select from ten silly quirky cartoonish characters and engage in a series of dance-off battles.

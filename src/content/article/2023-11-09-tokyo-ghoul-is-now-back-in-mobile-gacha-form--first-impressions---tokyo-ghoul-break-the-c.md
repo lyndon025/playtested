@@ -1,12 +1,18 @@
 ---
-title: "Tokyo Ghoul is now back! in mobile gacha form | First Impressions - Tokyo Ghoul: Break the Chains"
-description: "The core gameplay of Tokyo Ghoul: Break the Chains revolves around turn-based card battles. Cards are randomly drawn for the player depending on their character roster, and use them strategically in battles. The game offers more than 30 characters to choose from, allowing players to create their own powerful lineup."
-pubDate: 2023-11-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tokyo-ghoul:-break-the-chains"]
+author: lyndonguitar
+category: Review
+description: 'The core gameplay of Tokyo Ghoul: Break the Chains revolves around turn-based
+  card battles. Cards are randomly drawn for the player depending on their character
+  roster, and use them strategically in battles. The game offers more than 30 characters
+  to choose from, allowing players to create their own powerful lineup.'
 featured: false
-thumb: ""
+pubDate: 2023-11-09
+tags:
+- taptap
+- tokyo-ghoul:-break-the-chains
+thumb: ''
+title: 'Tokyo Ghoul is now back! in mobile gacha form | First Impressions - Tokyo
+  Ghoul: Break the Chains'
 ---
 
 The core gameplay of Tokyo Ghoul: Break the Chains revolves around turn-based card battles. Cards are randomly drawn for the player depending on their character roster, and use them strategically in battles. The game offers more than 30 characters to choose from, allowing players to create their own powerful lineup.

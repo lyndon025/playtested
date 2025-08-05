@@ -1,12 +1,15 @@
 ---
-title: "A familiar and yet refreshing take on word puzzles | Review - Molecano"
-description: "Molecano"
-pubDate: 2024-01-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "molecano"]
+author: lyndonguitar
+category: Review
+description: Molecano
 featured: false
-thumb: "/images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-0.avif"
+pubDate: 2024-01-06
+score: 8.0
+tags:
+- taptap
+- molecano
+thumb: /images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-0.avif
+title: A familiar and yet refreshing take on word puzzles | Review - Molecano
 ---
 
 <div class="gallery">

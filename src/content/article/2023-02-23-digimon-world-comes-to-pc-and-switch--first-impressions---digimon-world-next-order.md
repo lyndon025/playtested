@@ -1,12 +1,18 @@
 ---
-title: "Digimon World comes to PC and Switch | First Impressions - Digimon World: Next Order"
-description: "Digimon World: Next Order is a familiar game that will delight PC and Switch-wielding fans of the Digimon franchise, more specifically, Digimon World fans. The game has been recently ported and released to the Nintendo Switch and PC platforms."
-pubDate: 2023-02-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "digimon-world:-next-order"]
+author: lyndonguitar
+category: Review
+description: 'Digimon World: Next Order is a familiar game that will delight PC and
+  Switch-wielding fans of the Digimon franchise, more specifically, Digimon World
+  fans. The game has been recently ported and released to the Nintendo Switch and
+  PC platforms.'
 featured: false
-thumb: "/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-0.avif"
+pubDate: 2023-02-23
+tags:
+- taptap
+- digimon-world:-next-order
+thumb: /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-0.avif
+title: 'Digimon World comes to PC and Switch | First Impressions - Digimon World:
+  Next Order'
 ---
 
 <div class="gallery">

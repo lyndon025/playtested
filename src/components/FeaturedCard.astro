@@ -1,6 +1,7 @@
 ---
 import { type CollectionEntry } from "astro:content";
 import SiteOptions from "../site.config.mjs";
+import ScoreBadge from "./ScoreBadge.astro";
 
 export interface Props {
   post: CollectionEntry<"article">;
@@ -8,24 +9,19 @@ export interface Props {
 
 const { post } = Astro.props;
 const { title, description, thumb, score } = post.data;
+const roundedScore = typeof score === 'number' ? Math.round(score) : null;
 ---
 <article class="bg-gray-50 dark:bg-slate-800 rounded-lg shadow-sm p-6 flex flex-col items-start">
   {
     SiteOptions.showThumbnailOnFeaturedPosts && thumb && (
       <a href={`/article/${post.slug}`} class="w-full block group relative featured-card-thumb">
-        <div class="w-full aspect-w-16 aspect-h-9 mb-6 rounded-xl overflow-hidden shadow-md max-w-4xl mx-auto relative">
-          <img src={thumb} alt={title} class="w-full h-full object-cover" />
-          {score && (
-            <span class={`score-badge ${score >= 9 ? 'score-green' : score >= 7 ? 'score-yellow' : 'score-red'}`}>
-  {score}/10
-</span>
-          )}
-        </div>
-      </a>
+  <div class="w-full aspect-w-16 aspect-h-9 mb-6 rounded-xl overflow-hidden shadow-md max-w-4xl mx-auto relative">
+    <img src={thumb} alt={title} class="w-full h-full object-cover" />
+    <ScoreBadge score={score} />
+  </div>
+</a>
     )
   }
-
-
 
   <h3 class="text-xl font-bold mb-2">
     <a href={`/article/${post.slug}`}>{title}</a>

@@ -1,12 +1,14 @@
 ---
-title: "A deeply fantasy strategy experience | First Impressions - Age of Wonders 4"
-description: "Age of Wonders 4"
-pubDate: 2023-05-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "age-of-wonders-4"]
+author: lyndonguitar
+category: Review
+description: Age of Wonders 4
 featured: false
-thumb: "/images/reviews/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-0.avif"
+pubDate: 2023-05-05
+tags:
+- taptap
+- age-of-wonders-4
+thumb: /images/reviews/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-0.avif
+title: A deeply fantasy strategy experience | First Impressions - Age of Wonders 4
 ---
 
 <div class="gallery">

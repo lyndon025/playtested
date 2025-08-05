@@ -1,12 +1,15 @@
 ---
-title: "A new football experience with tactical turn-based elements | Beta Review - EA Sports FC Tactical"
-description: "EA SPORTS FC™ TacticalGlobal"
-pubDate: 2023-10-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ea-sports-fc™-tactical"]
+author: lyndonguitar
+category: Review
+description: EA SPORTS FC™ TacticalGlobal
 featured: false
-thumb: "/images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-0.avif"
+pubDate: 2023-10-03
+tags:
+- taptap
+- ea-sports-fc™-tactical
+thumb: /images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-0.avif
+title: A new football experience with tactical turn-based elements | Beta Review -
+  EA Sports FC Tactical
 ---
 
 <div class="gallery">

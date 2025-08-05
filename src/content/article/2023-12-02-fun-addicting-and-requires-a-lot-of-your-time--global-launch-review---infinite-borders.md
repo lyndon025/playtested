@@ -1,12 +1,16 @@
 ---
-title: "Fun, addicting, and requires a lot of your time | Global Launch Review - Infinite Borders"
-description: "Infinite BordersGlobal"
-pubDate: 2023-12-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "infinite-borders"]
+author: lyndonguitar
+category: Review
+description: Infinite BordersGlobal
 featured: false
-thumb: "/images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-0.avif"
+pubDate: 2023-12-02
+score: 7.0
+tags:
+- taptap
+- infinite-borders
+thumb: /images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-0.avif
+title: Fun, addicting, and requires a lot of your time | Global Launch Review - Infinite
+  Borders
 ---
 
 <div class="gallery">

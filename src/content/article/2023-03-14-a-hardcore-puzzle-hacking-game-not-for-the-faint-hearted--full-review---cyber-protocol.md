@@ -1,12 +1,18 @@
 ---
-title: "A hardcore puzzle hacking game not for the faint-hearted | Full Review - Cyber Protocol"
-description: "Cyber Protocol is an arcade puzzle game that will test your problem solving skills, patience, and memory. Built under the guise of a simple hacking sliding mini-game, Cyber Protocol is much more than it meets the eye. It is frantic, hardcore, and unforgiving."
-pubDate: 2023-03-14
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cyber-protocol"]
+author: lyndonguitar
+category: Review
+description: Cyber Protocol is an arcade puzzle game that will test your problem solving
+  skills, patience, and memory. Built under the guise of a simple hacking sliding
+  mini-game, Cyber Protocol is much more than it meets the eye. It is frantic, hardcore,
+  and unforgiving.
 featured: false
-thumb: "/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-0.avif"
+pubDate: 2023-03-14
+tags:
+- taptap
+- cyber-protocol
+thumb: /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-0.avif
+title: A hardcore puzzle hacking game not for the faint-hearted | Full Review - Cyber
+  Protocol
 ---
 
 <div class="gallery">

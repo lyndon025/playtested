@@ -1,12 +1,16 @@
 ---
-title: "A lowkey good racing game gets a lowkey good sequel | Review - Hot Wheels Unleashed 2: Turbocharged"
-description: "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
-pubDate: 2023-10-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "turbocharged"]
+author: lyndonguitar
+category: Review
+description: HOT WHEELS UNLEASHED™ 2 - Turbocharged
 featured: false
-thumb: "/images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-0.avif"
+pubDate: 2023-10-22
+score: 8.0
+tags:
+- taptap
+- turbocharged
+thumb: /images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-0.avif
+title: 'A lowkey good racing game gets a lowkey good sequel | Review - Hot Wheels
+  Unleashed 2: Turbocharged'
 ---
 
 <div class="gallery">

@@ -1,12 +1,17 @@
 ---
-title: "New Thrills. Classic Feels. | First Impressions - Sonic Superstars"
-description: "Sonic Superstars brings back the magic of the original Sonic titles that graced the Genesis and Mega Drive, and it does so with a fresh modern twist. As one of the first video game franchises I’ve ever played, I couldn't help but feel a rush of nostalgia and joy."
-pubDate: 2023-10-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "sonic-superstars"]
+author: lyndonguitar
+category: Review
+description: Sonic Superstars brings back the magic of the original Sonic titles that
+  graced the Genesis and Mega Drive, and it does so with a fresh modern twist. As
+  one of the first video game franchises I’ve ever played, I couldn't help but feel
+  a rush of nostalgia and joy.
 featured: false
-thumb: ""
+pubDate: 2023-10-18
+tags:
+- taptap
+- sonic-superstars
+thumb: ''
+title: New Thrills. Classic Feels. | First Impressions - Sonic Superstars
 ---
 
 Sonic Superstars brings back the magic of the original Sonic titles that graced the Genesis and Mega Drive, and it does so with a fresh modern twist. As one of the first video game franchises I’ve ever played, I couldn't help but feel a rush of nostalgia and joy.

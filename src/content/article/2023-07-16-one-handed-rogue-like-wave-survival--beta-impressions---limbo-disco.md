@@ -1,12 +1,15 @@
 ---
-title: "One-handed rogue-like wave survival! | Beta Impressions - Limbo Disco"
-description: "Limbo Disco follows in the footsteps of similar titles Vampire Survivors and Brotato, with its addicting allure entirely playable with one-handed."
-pubDate: 2023-07-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "limbo-disco"]
+author: lyndonguitar
+category: Review
+description: Limbo Disco follows in the footsteps of similar titles Vampire Survivors
+  and Brotato, with its addicting allure entirely playable with one-handed.
 featured: false
-thumb: ""
+pubDate: 2023-07-16
+tags:
+- taptap
+- limbo-disco
+thumb: ''
+title: One-handed rogue-like wave survival! | Beta Impressions - Limbo Disco
 ---
 
 Limbo Disco follows in the footsteps of similar titles Vampire Survivors and Brotato, with its addicting allure entirely playable with one-handed.

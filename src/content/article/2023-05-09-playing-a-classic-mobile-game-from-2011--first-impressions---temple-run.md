@@ -1,12 +1,14 @@
 ---
-title: "Playing a classic mobile game from 2011 | First Impressions - Temple Run+"
-description: "Temple Run+"
-pubDate: 2023-05-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "temple-run+"]
+author: lyndonguitar
+category: Review
+description: Temple Run+
 featured: false
-thumb: "/images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-0.avif"
+pubDate: 2023-05-09
+tags:
+- taptap
+- temple-run+
+thumb: /images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-0.avif
+title: Playing a classic mobile game from 2011 | First Impressions - Temple Run+
 ---
 
 <div class="gallery">

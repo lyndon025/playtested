@@ -1,12 +1,20 @@
 ---
-title: "It's an amalgamation of Gaming, Netflix, and Twitch | Impressions - Silent Hill Ascension"
-description: "Over these past week I 'participated' in the release of a brand new and ambitious horror game called Silent Hill Ascension, set in the iconic universe of the Silent Hill video game franchise. From the get go, it's a significant departure from the well-known Silent Hill survival horror gameplay style, moving towards a more Supermassive Games-style interactive storytelling akin to titles like Until Dawn, The Dark Pictures Anthology, and games such as The Quarry."
-pubDate: 2023-11-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-dark-pictures-anthology:-little-hope"]
+author: lyndonguitar
+category: Review
+description: Over these past week I 'participated' in the release of a brand new and
+  ambitious horror game called Silent Hill Ascension, set in the iconic universe of
+  the Silent Hill video game franchise. From the get go, it's a significant departure
+  from the well-known Silent Hill survival horror gameplay style, moving towards a
+  more Supermassive Games-style interactive storytelling akin to titles like Until
+  Dawn, The Dark Pictures Anthology, and games such as The Quarry.
 featured: false
-thumb: ""
+pubDate: 2023-11-06
+tags:
+- taptap
+- the-dark-pictures-anthology:-little-hope
+thumb: ''
+title: It's an amalgamation of Gaming, Netflix, and Twitch | Impressions - Silent
+  Hill Ascension
 ---
 
 Over these past week I "participated" in the release of a brand new and ambitious horror game called Silent Hill Ascension, set in the iconic universe of the Silent Hill video game franchise. From the get go, it's a significant departure from the well-known Silent Hill survival horror gameplay style, moving towards a more Supermassive Games-style interactive storytelling akin to titles like Until Dawn, The Dark Pictures Anthology, and games such as The Quarry.

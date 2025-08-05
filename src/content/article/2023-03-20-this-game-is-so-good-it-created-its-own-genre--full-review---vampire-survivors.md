@@ -1,12 +1,16 @@
 ---
-title: "This game is so good it created its own genre | Full Review - Vampire Survivors"
-description: "Vampire Survivors might not seem like a really good nor addictive game judging from the pixel art graphics, but trust me, it is one of the most addicting games that have come out in recent years."
-pubDate: 2023-03-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "vampire-survivors"]
+author: lyndonguitar
+category: Review
+description: Vampire Survivors might not seem like a really good nor addictive game
+  judging from the pixel art graphics, but trust me, it is one of the most addicting
+  games that have come out in recent years.
 featured: false
-thumb: "/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif"
+pubDate: 2023-03-20
+tags:
+- taptap
+- vampire-survivors
+thumb: /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif
+title: This game is so good it created its own genre | Full Review - Vampire Survivors
 ---
 
 <div class="gallery">

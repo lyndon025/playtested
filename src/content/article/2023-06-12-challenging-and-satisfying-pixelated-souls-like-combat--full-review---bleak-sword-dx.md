@@ -1,12 +1,15 @@
 ---
-title: "Challenging and satisfying pixelated souls-like combat | Full Review - Bleak Sword DX"
-description: "Bleak Sword DX"
-pubDate: 2023-06-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "bleak-sword-dx"]
+author: lyndonguitar
+category: Review
+description: Bleak Sword DX
 featured: false
-thumb: "/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-0.avif"
+pubDate: 2023-06-12
+tags:
+- taptap
+- bleak-sword-dx
+thumb: /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-0.avif
+title: Challenging and satisfying pixelated souls-like combat | Full Review - Bleak
+  Sword DX
 ---
 
 <div class="gallery">

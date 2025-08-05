@@ -1,12 +1,15 @@
 ---
-title: "An equally creepy and unique prequel that stands on its own | Full Review - Very Little Nightmares+"
-description: "Very Little Nightmares+"
-pubDate: 2023-05-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "very-little-nightmares+"]
+author: lyndonguitar
+category: Review
+description: Very Little Nightmares+
 featured: false
-thumb: "/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-0.avif"
+pubDate: 2023-05-09
+tags:
+- taptap
+- very-little-nightmares+
+thumb: /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-0.avif
+title: An equally creepy and unique prequel that stands on its own | Full Review -
+  Very Little Nightmares+
 ---
 
 <div class="gallery">

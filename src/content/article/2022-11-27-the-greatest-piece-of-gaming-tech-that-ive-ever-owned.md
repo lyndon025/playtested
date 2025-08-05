@@ -1,12 +1,18 @@
 ---
-title: "The greatest piece of gaming tech that I've ever owned"
-description: "Ever since I was a child, I always dreamt of taking my games with me when going out, and It always came with huge compromises. It meant that I wouldn’t be taking my console or PC games with me, and I’m stuck with a portable handheld with its own different and toned down games (Gameboy, Playstation Portable, Nintendo DS, Switch, etc)"
-pubDate: 2022-11-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap","steam"]
+author: lyndonguitar
+category: Review
+description: Ever since I was a child, I always dreamt of taking my games with me
+  when going out, and It always came with huge compromises. It meant that I wouldn’t
+  be taking my console or PC games with me, and I’m stuck with a portable handheld
+  with its own different and toned down games (Gameboy, Playstation Portable, Nintendo
+  DS, Switch, etc)
 featured: false
-thumb: "/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif"
+pubDate: 2022-11-27
+tags:
+- taptap
+- steam
+thumb: /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif
+title: The greatest piece of gaming tech that I've ever owned
 ---
 
 <div class="gallery">

@@ -1,12 +1,19 @@
 ---
-title: "You can learn more about Trains in this game | SimRail - The Railway Simulator - First Impressions"
-description: "As a kid, I have always been fascinated by trains, well I think most of us were. Beyond that childhood fantasy and riding trains for travel, I never really got interested in trains as a grown up, until now. Fortunately, we now have SimRail - The Railway Simulator as a brand new addition to the list of growing video game train simulators, the caveat: it’s still in Early Access."
-pubDate: 2023-01-14
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-railway-simulator-(pc)"]
+author: lyndonguitar
+category: Review
+description: 'As a kid, I have always been fascinated by trains, well I think most
+  of us were. Beyond that childhood fantasy and riding trains for travel, I never
+  really got interested in trains as a grown up, until now. Fortunately, we now have
+  SimRail - The Railway Simulator as a brand new addition to the list of growing video
+  game train simulators, the caveat: it’s still in Early Access.'
 featured: false
-thumb: "/images/reviews/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-0.avif"
+pubDate: 2023-01-14
+tags:
+- taptap
+- the-railway-simulator-(pc)
+thumb: /images/reviews/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-0.avif
+title: You can learn more about Trains in this game | SimRail - The Railway Simulator
+  - First Impressions
 ---
 
 <div class="gallery">

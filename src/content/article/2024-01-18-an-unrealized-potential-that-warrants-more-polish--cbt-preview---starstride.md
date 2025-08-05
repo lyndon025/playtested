@@ -1,12 +1,14 @@
 ---
-title: "An unrealized potential that warrants more polish | CBT Preview - Starstride"
-description: "Starstride"
-pubDate: 2024-01-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "starstride"]
+author: lyndonguitar
+category: Review
+description: Starstride
 featured: false
-thumb: "/images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-0.avif"
+pubDate: 2024-01-18
+tags:
+- taptap
+- starstride
+thumb: /images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-0.avif
+title: An unrealized potential that warrants more polish | CBT Preview - Starstride
 ---
 
 <div class="gallery">

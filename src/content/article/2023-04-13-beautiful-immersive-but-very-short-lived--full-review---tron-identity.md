@@ -1,12 +1,16 @@
 ---
-title: "Beautiful, Immersive, but very short-lived | Full Review - Tron: Identity"
-description: "Tron: Identity is a visual novel adventure game set in the world of Tron, where players play in the role of Query, a detective program tasked to investigate a mysterious situation."
-pubDate: 2023-04-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tron:-identity"]
+author: lyndonguitar
+category: Review
+description: 'Tron: Identity is a visual novel adventure game set in the world of
+  Tron, where players play in the role of Query, a detective program tasked to investigate
+  a mysterious situation.'
 featured: false
-thumb: "/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif"
+pubDate: 2023-04-13
+tags:
+- taptap
+- tron:-identity
+thumb: /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif
+title: 'Beautiful, Immersive, but very short-lived | Full Review - Tron: Identity'
 ---
 
 <div class="gallery">

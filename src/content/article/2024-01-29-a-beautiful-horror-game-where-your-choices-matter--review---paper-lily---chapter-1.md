@@ -1,12 +1,16 @@
 ---
-title: "A beautiful horror game where your choices matter | Review - Paper Lily - Chapter 1"
-description: "Paper Lily - Chapter 1"
-pubDate: 2024-01-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "paper-lily-prologue"]
+author: lyndonguitar
+category: Review
+description: Paper Lily - Chapter 1
 featured: false
-thumb: "/images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-0.avif"
+pubDate: 2024-01-29
+score: 8.0
+tags:
+- taptap
+- paper-lily-prologue
+thumb: /images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-0.avif
+title: A beautiful horror game where your choices matter | Review - Paper Lily - Chapter
+  1
 ---
 
 <div class="gallery">

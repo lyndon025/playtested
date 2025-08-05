@@ -1,13 +1,18 @@
 ---
-title: "Amazing storytelling, but are the games overrated? | The Hellblade Saga - Dual Review"
-description: "I recently played both games of The Hellblade Saga, starting with Hellblade: Senua's Sacrifice first in anticipation of the then-upcoming Senua's Saga: Hellblade II, then playing Hellblade II afterward when it released."
-pubDate: 2024-07-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap","senua’s-saga:-hellblade-ii"]
+author: lyndonguitar
+category: Review
+description: 'I recently played both games of The Hellblade Saga, starting with Hellblade:
+  Senua''s Sacrifice first in anticipation of the then-upcoming Senua''s Saga: Hellblade
+  II, then playing Hellblade II afterward when it released.'
 featured: true
-score: 6
-thumb: "/images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-0.avif"
+pubDate: 2024-07-26
+score: 6.0
+tags:
+- taptap
+- senua’s-saga:-hellblade-ii
+thumb: /images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-0.avif
+title: Amazing storytelling, but are the games overrated? | The Hellblade Saga - Dual
+  Review
 ---
 
 <div class="gallery">

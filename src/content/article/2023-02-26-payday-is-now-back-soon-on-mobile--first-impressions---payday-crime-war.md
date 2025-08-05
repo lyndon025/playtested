@@ -1,12 +1,17 @@
 ---
-title: "PAYDAY is now back soon on mobile! | First Impressions - PAYDAY: Crime War"
-description: "In PAYDAY: Crime War, you are in a squad of bank robbers and you have to perform heists such as robbing banks or jewelry stores to progress throughout this fun cooperative FPS game. You can either do it silently or face the wrath of endless cop raids while trying to steal and escape."
-pubDate: 2023-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "payday:-crime-war"]
+author: lyndonguitar
+category: Review
+description: 'In PAYDAY: Crime War, you are in a squad of bank robbers and you have
+  to perform heists such as robbing banks or jewelry stores to progress throughout
+  this fun cooperative FPS game. You can either do it silently or face the wrath of
+  endless cop raids while trying to steal and escape.'
 featured: false
-thumb: "/images/reviews/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-0.avif"
+pubDate: 2023-02-26
+tags:
+- taptap
+- payday:-crime-war
+thumb: /images/reviews/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-0.avif
+title: 'PAYDAY is now back soon on mobile! | First Impressions - PAYDAY: Crime War'
 ---
 
 <div class="gallery">

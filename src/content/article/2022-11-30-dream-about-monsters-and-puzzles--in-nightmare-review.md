@@ -1,12 +1,16 @@
 ---
-title: "Dream about Monsters and Puzzles | In Nightmare Review"
-description: "Ever wanted to step in a kid's shoes once again? dream and let your imaginations run wild? Yes? Well unfortunately for you, you are now a kid named Bill, and he has nightmares."
-pubDate: 2022-11-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "in-nightmare"]
+author: lyndonguitar
+category: Review
+description: Ever wanted to step in a kid's shoes once again? dream and let your imaginations
+  run wild? Yes? Well unfortunately for you, you are now a kid named Bill, and he
+  has nightmares.
 featured: false
-thumb: "/images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-0.avif"
+pubDate: 2022-11-30
+tags:
+- taptap
+- in-nightmare
+thumb: /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-0.avif
+title: Dream about Monsters and Puzzles | In Nightmare Review
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "Unique mechanics, but falls short in terms of depth and content | Review - Lost Potato: Premium"
-description: "Lost Potato"
-pubDate: 2024-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lost-potato"]
+author: lyndonguitar
+category: Review
+description: Lost Potato
 featured: false
-thumb: "/images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-0.avif"
+pubDate: 2024-02-26
+score: 6.0
+tags:
+- taptap
+- lost-potato
+thumb: /images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-0.avif
+title: 'Unique mechanics, but falls short in terms of depth and content | Review -
+  Lost Potato: Premium'
 ---
 
 <div class="gallery">

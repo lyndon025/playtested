@@ -1,12 +1,15 @@
 ---
-title: "Hunt Monsters wherever you go, in real world locations | Review - Monster Hunter Now"
-description: "Monster Hunter Now"
-pubDate: 2023-09-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "monster-hunter-now"]
+author: lyndonguitar
+category: Review
+description: Monster Hunter Now
 featured: false
-thumb: "/images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-0.avif"
+pubDate: 2023-09-15
+tags:
+- taptap
+- monster-hunter-now
+thumb: /images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-0.avif
+title: Hunt Monsters wherever you go, in real world locations | Review - Monster Hunter
+  Now
 ---
 
 <div class="gallery">

@@ -1,12 +1,18 @@
 ---
-title: "Collect chibi heroes, strategize, deploy | First Impressions - Knightcore: Sword of Kingdom"
-description: "Knightcore: Sword of Kingdom revolves around the players' role as Lords tasked with leading their chibi looking Heroes and Legions to restore Camelot, which is ravaged by the Time Holes that players will need to close.  It recently launched globally last October 20, 2023."
-pubDate: 2023-10-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ナイトコアキングダムf"]
+author: lyndonguitar
+category: Review
+description: 'Knightcore: Sword of Kingdom revolves around the players'' role as Lords
+  tasked with leading their chibi looking Heroes and Legions to restore Camelot, which
+  is ravaged by the Time Holes that players will need to close.  It recently launched
+  globally last October 20, 2023.'
 featured: false
-thumb: ""
+pubDate: 2023-10-24
+tags:
+- taptap
+- ナイトコアキングダムf
+thumb: ''
+title: 'Collect chibi heroes, strategize, deploy | First Impressions - Knightcore:
+  Sword of Kingdom'
 ---
 
 Knightcore: Sword of Kingdom revolves around the players' role as Lords tasked with leading their chibi looking Heroes and Legions to restore Camelot, which is ravaged by the Time Holes that players will need to close.  It recently launched globally last October 20, 2023.

@@ -1,12 +1,18 @@
 ---
-title: "A high quality gacha game? | First Impressions - Aether Gazer"
-description: "Aether Gazer is a Action RPG gacha game set in a virtual world where humans have transcended into after a catastrophic war and have since forgotten their true origins. Players take on the role of the administrator of “Aether Gazer''. Fighters called Modifiers are tasked to protect this virtual world from corrupted beings called Visbanes."
-pubDate: 2023-05-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "aether-gazer"]
+author: lyndonguitar
+category: Review
+description: Aether Gazer is a Action RPG gacha game set in a virtual world where
+  humans have transcended into after a catastrophic war and have since forgotten their
+  true origins. Players take on the role of the administrator of “Aether Gazer''.
+  Fighters called Modifiers are tasked to protect this virtual world from corrupted
+  beings called Visbanes.
 featured: false
-thumb: ""
+pubDate: 2023-05-25
+tags:
+- taptap
+- aether-gazer
+thumb: ''
+title: A high quality gacha game? | First Impressions - Aether Gazer
 ---
 
 Aether Gazer is a Action RPG gacha game set in a virtual world where humans have transcended into after a catastrophic war and have since forgotten their true origins. Players take on the role of the administrator of “Aether Gazer''. Fighters called Modifiers are tasked to protect this virtual world from corrupted beings called Visbanes.

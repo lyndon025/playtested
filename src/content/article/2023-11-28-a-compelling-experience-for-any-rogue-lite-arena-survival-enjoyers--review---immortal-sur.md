@@ -1,12 +1,16 @@
 ---
-title: "A compelling experience for any rogue-lite arena survival enjoyers | Review - Immortal Survivors"
-description: "Immortal Survivors"
-pubDate: 2023-11-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "immortal-survivors"]
+author: lyndonguitar
+category: Review
+description: Immortal Survivors
 featured: false
-thumb: "/images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-0.avif"
+pubDate: 2023-11-28
+score: 7.0
+tags:
+- taptap
+- immortal-survivors
+thumb: /images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-0.avif
+title: A compelling experience for any rogue-lite arena survival enjoyers | Review
+  - Immortal Survivors
 ---
 
 <div class="gallery">

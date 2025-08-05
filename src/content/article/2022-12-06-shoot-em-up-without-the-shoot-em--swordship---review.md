@@ -1,12 +1,17 @@
 ---
-title: "Shoot ‘em up, without the Shoot’ em | Swordship - Review"
-description: "Dodge ‘em up is a genre entirely new to me, and so far I like the concept. Swordship is one such game, it takes the notion of shoot ‘em up but removes the shooting part and makes the fundamental gameplay all about the art of dodging and deception."
-pubDate: 2022-12-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "swordship"]
+author: lyndonguitar
+category: Review
+description: Dodge ‘em up is a genre entirely new to me, and so far I like the concept.
+  Swordship is one such game, it takes the notion of shoot ‘em up but removes the
+  shooting part and makes the fundamental gameplay all about the art of dodging and
+  deception.
 featured: false
-thumb: "/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-0.avif"
+pubDate: 2022-12-06
+tags:
+- taptap
+- swordship
+thumb: /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-0.avif
+title: Shoot ‘em up, without the Shoot’ em | Swordship - Review
 ---
 
 <div class="gallery">

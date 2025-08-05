@@ -1,12 +1,15 @@
 ---
-title: "The perfect anime for waifu lovers, but not a good gacha game | Review - DanMachi BATTLE CHRONICLE"
-description: "DanMachi BATTLE CHRONICLE"
-pubDate: 2023-08-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "danmachi-battle-chronicle"]
+author: lyndonguitar
+category: Review
+description: DanMachi BATTLE CHRONICLE
 featured: false
-thumb: "/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-0.avif"
+pubDate: 2023-08-26
+tags:
+- taptap
+- danmachi-battle-chronicle
+thumb: /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-0.avif
+title: The perfect anime for waifu lovers, but not a good gacha game | Review - DanMachi
+  BATTLE CHRONICLE
 ---
 
 <div class="gallery">

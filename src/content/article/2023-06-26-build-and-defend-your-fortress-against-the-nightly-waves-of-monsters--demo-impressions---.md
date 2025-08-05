@@ -1,12 +1,23 @@
 ---
-title: "Build and defend your fortress against the nightly waves of monsters | Demo Impressions - Cataclismo"
-description: "Cataclismo incorporates traditional RTS base-building elements that will feel familiar to strategy fans. Elements like constructing sawmills or quarries to gather resources from the environment, building housing to accommodate the growing population, and establishing barracks to train and recruit troops. Players will also need to manage the quality of the air by constructing filters, adding another survival element. These addictive and staple elements are seamlessly combined with frantic defense building and tower defense actions where you build walls, defense, and traps with a clever lego-style system that is equally as engaging as the town building aspect."
-pubDate: 2023-06-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cataclismo"]
+author: lyndonguitar
+category: Review
+description: Cataclismo incorporates traditional RTS base-building elements that will
+  feel familiar to strategy fans. Elements like constructing sawmills or quarries
+  to gather resources from the environment, building housing to accommodate the growing
+  population, and establishing barracks to train and recruit troops. Players will
+  also need to manage the quality of the air by constructing filters, adding another
+  survival element. These addictive and staple elements are seamlessly combined with
+  frantic defense building and tower defense actions where you build walls, defense,
+  and traps with a clever lego-style system that is equally as engaging as the town
+  building aspect.
 featured: false
-thumb: ""
+pubDate: 2023-06-26
+tags:
+- taptap
+- cataclismo
+thumb: ''
+title: Build and defend your fortress against the nightly waves of monsters | Demo
+  Impressions - Cataclismo
 ---
 
 Cataclismo incorporates traditional RTS base-building elements that will feel familiar to strategy fans. Elements like constructing sawmills or quarries to gather resources from the environment, building housing to accommodate the growing population, and establishing barracks to train and recruit troops. Players will also need to manage the quality of the air by constructing filters, adding another survival element. These addictive and staple elements are seamlessly combined with frantic defense building and tower defense actions where you build walls, defense, and traps with a clever lego-style system that is equally as engaging as the town building aspect.

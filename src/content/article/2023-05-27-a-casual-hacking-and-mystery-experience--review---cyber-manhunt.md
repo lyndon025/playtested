@@ -1,12 +1,14 @@
 ---
-title: "A casual hacking and mystery experience | Review - Cyber Manhunt"
-description: "Cyber Manhunt"
-pubDate: 2023-05-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cyber-manhunt"]
+author: lyndonguitar
+category: Review
+description: Cyber Manhunt
 featured: false
-thumb: "/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif"
+pubDate: 2023-05-27
+tags:
+- taptap
+- cyber-manhunt
+thumb: /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif
+title: A casual hacking and mystery experience | Review - Cyber Manhunt
 ---
 
 <div class="gallery">

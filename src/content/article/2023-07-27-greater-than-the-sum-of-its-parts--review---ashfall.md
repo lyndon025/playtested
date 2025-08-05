@@ -1,12 +1,14 @@
 ---
-title: "Greater than the sum of its parts | Review - Ashfall"
-description: "Ashfall"
-pubDate: 2023-07-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ashfall"]
+author: lyndonguitar
+category: Review
+description: Ashfall
 featured: false
-thumb: "/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif"
+pubDate: 2023-07-27
+tags:
+- taptap
+- ashfall
+thumb: /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif
+title: Greater than the sum of its parts | Review - Ashfall
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "Gacha + Auto Chess + Gundam = ??? | Review - MOBILE SUIT GUNDAM U.C. ENGAGE"
-description: "MOBILE SUIT GUNDAM U.C. ENGAGE"
-pubDate: 2023-10-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "mobile-suit-gundam-battle-operation-2"]
+author: lyndonguitar
+category: Review
+description: MOBILE SUIT GUNDAM U.C. ENGAGE
 featured: false
-thumb: "/images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-0.avif"
+pubDate: 2023-10-18
+score: 7.0
+tags:
+- taptap
+- mobile-suit-gundam-battle-operation-2
+thumb: /images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-0.avif
+title: Gacha + Auto Chess + Gundam = ??? | Review - MOBILE SUIT GUNDAM U.C. ENGAGE
 ---
 
 <div class="gallery">

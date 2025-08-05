@@ -1,12 +1,14 @@
 ---
-title: "Air Hockey and MOBA had a baby | First Impressions - Omega Strikers"
-description: "Omega Strikers"
-pubDate: 2023-05-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "omega-strikers"]
+author: lyndonguitar
+category: Review
+description: Omega Strikers
 featured: false
-thumb: "/images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif"
+pubDate: 2023-05-02
+tags:
+- taptap
+- omega-strikers
+thumb: /images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif
+title: Air Hockey and MOBA had a baby | First Impressions - Omega Strikers
 ---
 
 <div class="gallery">

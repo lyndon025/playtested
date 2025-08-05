@@ -1,12 +1,17 @@
 ---
-title: "Hitman keeps the stealth-genre alive and kicking | HITMAN World of Assassination - Full Review"
-description: "In a world full of disappointing sequels, reboots, and spiritual successors. We have one of the rarest examples of a franchise that has gotten better in time in HITMAN World of Assassination."
-pubDate: 2023-01-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hitman-go"]
+author: lyndonguitar
+category: Review
+description: In a world full of disappointing sequels, reboots, and spiritual successors.
+  We have one of the rarest examples of a franchise that has gotten better in time
+  in HITMAN World of Assassination.
 featured: false
-thumb: "/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-0.avif"
+pubDate: 2023-01-30
+tags:
+- taptap
+- hitman-go
+thumb: /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-0.avif
+title: Hitman keeps the stealth-genre alive and kicking | HITMAN World of Assassination
+  - Full Review
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "Everything you need to know about WitchSpring R (Mobile release? Console versions?)"
-description: "✨Overview"
-pubDate: 2023-09-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "witchspring-r"]
+author: lyndonguitar
+category: Review
+description: ✨Overview
 featured: false
-thumb: "/images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif"
+pubDate: 2023-09-19
+tags:
+- taptap
+- witchspring-r
+thumb: /images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif
+title: Everything you need to know about WitchSpring R (Mobile release? Console versions?)
 ---
 
 <div class="gallery">

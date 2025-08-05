@@ -1,12 +1,16 @@
 ---
-title: "A fun and unique shooter that might not last unless they make some changes | Review - FOAMSTARS"
-description: "Foamstars"
-pubDate: 2024-02-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "foamstars"]
+author: lyndonguitar
+category: Review
+description: Foamstars
 featured: false
-thumb: "/images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-0.avif"
+pubDate: 2024-02-07
+score: 7.0
+tags:
+- taptap
+- foamstars
+thumb: /images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-0.avif
+title: A fun and unique shooter that might not last unless they make some changes
+  | Review - FOAMSTARS
 ---
 
 <div class="gallery">

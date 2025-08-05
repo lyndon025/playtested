@@ -1,12 +1,18 @@
 ---
-title: "The new WitchSpring remake finally releases soon for PC! | WitchSpring R"
-description: "WitchSpring R is a story-driven RPG that combines elements of simulation, collecting, crafting, and turn-based RPG combat. It serves as a full-on remake of the original WitchSpring 1, initially released for mobile devices in 2015. The game is set to be released on PC on September 26, with plans for Xbox and PlayStation releases in the future, and potential releases on Switch and mobile platforms."
-pubDate: 2023-09-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "witchspring-r"]
+author: lyndonguitar
+category: Review
+description: WitchSpring R is a story-driven RPG that combines elements of simulation,
+  collecting, crafting, and turn-based RPG combat. It serves as a full-on remake of
+  the original WitchSpring 1, initially released for mobile devices in 2015. The game
+  is set to be released on PC on September 26, with plans for Xbox and PlayStation
+  releases in the future, and potential releases on Switch and mobile platforms.
 featured: false
-thumb: ""
+pubDate: 2023-09-19
+tags:
+- taptap
+- witchspring-r
+thumb: ''
+title: The new WitchSpring remake finally releases soon for PC! | WitchSpring R
 ---
 
 WitchSpring R is a story-driven RPG that combines elements of simulation, collecting, crafting, and turn-based RPG combat. It serves as a full-on remake of the original WitchSpring 1, initially released for mobile devices in 2015. The game is set to be released on PC on September 26, with plans for Xbox and PlayStation releases in the future, and potential releases on Switch and mobile platforms.

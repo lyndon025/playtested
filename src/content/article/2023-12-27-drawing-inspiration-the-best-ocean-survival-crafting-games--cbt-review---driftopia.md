@@ -1,12 +1,14 @@
 ---
-title: "Drawing inspiration the best ocean survival crafting games | CBT Review - Driftopia"
-description: "Driftopia"
-pubDate: 2023-12-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "driftopia"]
+author: lyndonguitar
+category: Review
+description: Driftopia
 featured: false
-thumb: "/images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-0.avif"
+pubDate: 2023-12-27
+tags:
+- taptap
+- driftopia
+thumb: /images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-0.avif
+title: Drawing inspiration the best ocean survival crafting games | CBT Review - Driftopia
 ---
 
 <div class="gallery">

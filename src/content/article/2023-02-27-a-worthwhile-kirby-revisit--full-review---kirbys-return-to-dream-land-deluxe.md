@@ -1,12 +1,16 @@
 ---
-title: "A worthwhile Kirby revisit | Full Review - Kirby's Return to Dream Land Deluxe"
-description: "The added Deluxe in the title does not really do the game’s title justice, as Kirby's Return to Dream Land Deluxe is a full-on remake of the original game, which was released for the Wii console back in 2011."
-pubDate: 2023-02-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kirby's-return-to-dream-land-deluxe"]
+author: lyndonguitar
+category: Review
+description: The added Deluxe in the title does not really do the game’s title justice,
+  as Kirby's Return to Dream Land Deluxe is a full-on remake of the original game,
+  which was released for the Wii console back in 2011.
 featured: false
-thumb: "/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif"
+pubDate: 2023-02-27
+tags:
+- taptap
+- kirby's-return-to-dream-land-deluxe
+thumb: /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif
+title: A worthwhile Kirby revisit | Full Review - Kirby's Return to Dream Land Deluxe
 ---
 
 <div class="gallery">

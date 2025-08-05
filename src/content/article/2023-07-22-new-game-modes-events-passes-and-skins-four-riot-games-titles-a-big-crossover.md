@@ -1,12 +1,14 @@
 ---
-title: "New game modes, events, passes, and skins. Four Riot Games titles, a big crossover."
-description: "League of Legends: Wild RiftGlobal"
-pubDate: 2023-07-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "legends-of-runeterra"]
+author: lyndonguitar
+category: Review
+description: 'League of Legends: Wild RiftGlobal'
 featured: false
-thumb: "/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif"
+pubDate: 2023-07-22
+tags:
+- taptap
+- legends-of-runeterra
+thumb: /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif
+title: New game modes, events, passes, and skins. Four Riot Games titles, a big crossover.
 ---
 
 <div class="gallery">

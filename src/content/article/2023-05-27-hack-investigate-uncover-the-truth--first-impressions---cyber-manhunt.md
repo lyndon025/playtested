@@ -1,12 +1,17 @@
 ---
-title: "Hack, investigate, uncover the truth | First Impressions - Cyber Manhunt"
-description: "Cyber Manhunt is a PC hacking-themed game that has recently made its way onto the Android platform, offering players an immersive experience as they step into the shoes of a skilled hacker, recently hired by a corporation. I was able to test a trial version of the game, and play the prologue plus the first mission."
-pubDate: 2023-05-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cyber-manhunt"]
+author: lyndonguitar
+category: Review
+description: Cyber Manhunt is a PC hacking-themed game that has recently made its
+  way onto the Android platform, offering players an immersive experience as they
+  step into the shoes of a skilled hacker, recently hired by a corporation. I was
+  able to test a trial version of the game, and play the prologue plus the first mission.
 featured: false
-thumb: ""
+pubDate: 2023-05-27
+tags:
+- taptap
+- cyber-manhunt
+thumb: ''
+title: Hack, investigate, uncover the truth | First Impressions - Cyber Manhunt
 ---
 
 Cyber Manhunt is a PC hacking-themed game that has recently made its way onto the Android platform, offering players an immersive experience as they step into the shoes of a skilled hacker, recently hired by a corporation. I was able to test a trial version of the game, and play the prologue plus the first mission.

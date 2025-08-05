@@ -1,12 +1,15 @@
 ---
-title: "A steampunk world full of anime and waifu characters | Beta Test Impressions - Grand Quest"
-description: "Grand Quest"
-pubDate: 2023-05-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "grand-quest"]
+author: lyndonguitar
+category: Review
+description: Grand Quest
 featured: false
-thumb: "/images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-0.avif"
+pubDate: 2023-05-02
+tags:
+- taptap
+- grand-quest
+thumb: /images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-0.avif
+title: A steampunk world full of anime and waifu characters | Beta Test Impressions
+  - Grand Quest
 ---
 
 <div class="gallery">

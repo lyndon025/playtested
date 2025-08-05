@@ -1,12 +1,14 @@
 ---
-title: "Humor, horror, mystery, and ads | Full Review - Murders on Budapest"
-description: "Murders on Budapest!"
-pubDate: 2023-05-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "murders-on-budapest!"]
+author: lyndonguitar
+category: Review
+description: Murders on Budapest!
 featured: false
-thumb: "/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif"
+pubDate: 2023-05-13
+tags:
+- taptap
+- murders-on-budapest!
+thumb: /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif
+title: Humor, horror, mystery, and ads | Full Review - Murders on Budapest
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "The mobile 'version' of Football Manager readies for a new season | Review - Soccer Manager 2024"
-description: "Soccer Manager 2024 - Football"
-pubDate: 2023-10-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "football-manager-2024-mobile"]
+author: lyndonguitar
+category: Review
+description: Soccer Manager 2024 - Football
 featured: false
-thumb: "/images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--0.avif"
+pubDate: 2023-10-03
+tags:
+- taptap
+- football-manager-2024-mobile
+thumb: /images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--0.avif
+title: The mobile 'version' of Football Manager readies for a new season | Review
+  - Soccer Manager 2024
 ---
 
 <div class="gallery">

@@ -1,12 +1,18 @@
 ---
-title: "A surprising video game adaptation, 30+ years later | First Impressions - Robocop Rogue City"
-description: "RoboCop: Rogue City is one of the most surprising game releases this year (and one of the most unexpected announcements from as far back as 2021). Just when you might have thought that RoboCop isn't the pop culture icon it once was, it has returned from dormancy and come back to life."
-pubDate: 2023-11-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "robocop:-rogue-city"]
+author: lyndonguitar
+category: Review
+description: 'RoboCop: Rogue City is one of the most surprising game releases this
+  year (and one of the most unexpected announcements from as far back as 2021). Just
+  when you might have thought that RoboCop isn''t the pop culture icon it once was,
+  it has returned from dormancy and come back to life.'
 featured: false
-thumb: ""
+pubDate: 2023-11-07
+tags:
+- taptap
+- robocop:-rogue-city
+thumb: ''
+title: A surprising video game adaptation, 30+ years later | First Impressions - Robocop
+  Rogue City
 ---
 
 RoboCop: Rogue City is one of the most surprising game releases this year (and one of the most unexpected announcements from as far back as 2021). Just when you might have thought that RoboCop isn't the pop culture icon it once was, it has returned from dormancy and come back to life.

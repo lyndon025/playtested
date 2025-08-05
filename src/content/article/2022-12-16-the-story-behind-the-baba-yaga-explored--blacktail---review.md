@@ -1,12 +1,17 @@
 ---
-title: "The story behind the Baba Yaga explored | Blacktail - Review"
-description: "Slavic fairy tales, good and evil, and a first person archery survival adventure. The story behind the infamous Baba Yaga is explored in this new game titled Blacktail. You play as the teenage girl Yaga, trying to find his twin sister Zora and other children who have all gone missing."
-pubDate: 2022-12-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "blacktail"]
+author: lyndonguitar
+category: Review
+description: Slavic fairy tales, good and evil, and a first person archery survival
+  adventure. The story behind the infamous Baba Yaga is explored in this new game
+  titled Blacktail. You play as the teenage girl Yaga, trying to find his twin sister
+  Zora and other children who have all gone missing.
 featured: false
-thumb: "/images/reviews/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-0.avif"
+pubDate: 2022-12-16
+tags:
+- taptap
+- blacktail
+thumb: /images/reviews/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-0.avif
+title: The story behind the Baba Yaga explored | Blacktail - Review
 ---
 
 <div class="gallery">

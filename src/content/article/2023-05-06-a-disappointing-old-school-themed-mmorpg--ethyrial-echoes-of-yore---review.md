@@ -1,12 +1,14 @@
 ---
-title: "A disappointing old school themed MMORPG | Ethyrial: Echoes of Yore - Review"
-description: "Ethyrial: Echoes of Yore"
-pubDate: 2023-05-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ethyrial:-echoes-of-yore"]
+author: lyndonguitar
+category: Review
+description: 'Ethyrial: Echoes of Yore'
 featured: false
-thumb: "/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-0.avif"
+pubDate: 2023-05-06
+tags:
+- taptap
+- ethyrial:-echoes-of-yore
+thumb: /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-0.avif
+title: 'A disappointing old school themed MMORPG | Ethyrial: Echoes of Yore - Review'
 ---
 
 <div class="gallery">

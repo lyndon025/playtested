@@ -1,12 +1,15 @@
 ---
-title: "Your answers will affect your fate, dramatically | Review - The Cosmic Wheel Sisterhood"
-description: "The Cosmic Wheel Sisterhood"
-pubDate: 2023-08-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-cosmic-wheel-sisterhood"]
+author: lyndonguitar
+category: Review
+description: The Cosmic Wheel Sisterhood
 featured: false
-thumb: "/images/reviews/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-0.avif"
+pubDate: 2023-08-21
+tags:
+- taptap
+- the-cosmic-wheel-sisterhood
+thumb: /images/reviews/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-0.avif
+title: Your answers will affect your fate, dramatically | Review - The Cosmic Wheel
+  Sisterhood
 ---
 
 <div class="gallery">

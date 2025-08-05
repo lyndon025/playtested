@@ -1,12 +1,18 @@
 ---
-title: "Not sure if this game is cute or spooky | Children of Silentown - Review"
-description: "There's a certain cuteness in this game; the playful nature of the children, the slice of life presentation, and the lighthearted puzzling elements. At the same time, Children of Silentown is spooky and creepy; from the Tim Burton-esque art style with big white creepy eyes, to the foreboding nature of the story with nightmares and monsters."
-pubDate: 2023-01-18
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "children-of-silentown-(pc)"]
+author: lyndonguitar
+category: Review
+description: There's a certain cuteness in this game; the playful nature of the children,
+  the slice of life presentation, and the lighthearted puzzling elements. At the same
+  time, Children of Silentown is spooky and creepy; from the Tim Burton-esque art
+  style with big white creepy eyes, to the foreboding nature of the story with nightmares
+  and monsters.
 featured: false
-thumb: "/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-0.avif"
+pubDate: 2023-01-18
+tags:
+- taptap
+- children-of-silentown-(pc)
+thumb: /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-0.avif
+title: Not sure if this game is cute or spooky | Children of Silentown - Review
 ---
 
 <div class="gallery">

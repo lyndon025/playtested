@@ -1,12 +1,14 @@
 ---
-title: "Spatial awareness is key | First Impressions - Hyperforma"
-description: "Hyperforma"
-pubDate: 2023-05-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hyperforma"]
+author: lyndonguitar
+category: Review
+description: Hyperforma
 featured: false
-thumb: "/images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif"
+pubDate: 2023-05-05
+tags:
+- taptap
+- hyperforma
+thumb: /images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif
+title: Spatial awareness is key | First Impressions - Hyperforma
 ---
 
 <div class="gallery">

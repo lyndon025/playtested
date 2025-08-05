@@ -1,12 +1,16 @@
 ---
-title: "An exhilarating combat experience with missed opportunites | Review - One Punch Man: World"
-description: "One Punch Man: WorldSEA"
-pubDate: 2024-02-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "one-punch-man:-world"]
+author: lyndonguitar
+category: Review
+description: 'One Punch Man: WorldSEA'
 featured: false
-thumb: "/images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-0.avif"
+pubDate: 2024-02-02
+score: 7.0
+tags:
+- taptap
+- one-punch-man:-world
+thumb: /images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-0.avif
+title: 'An exhilarating combat experience with missed opportunites | Review - One
+  Punch Man: World'
 ---
 
 <div class="gallery">

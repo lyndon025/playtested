@@ -1,12 +1,14 @@
 ---
-title: "A unique mind bending tower defense game | Full Review - Defense Derby"
-description: "Defense Derby"
-pubDate: 2023-05-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "defense-derby"]
+author: lyndonguitar
+category: Review
+description: Defense Derby
 featured: false
-thumb: "/images/reviews/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-0.avif"
+pubDate: 2023-05-02
+tags:
+- taptap
+- defense-derby
+thumb: /images/reviews/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-0.avif
+title: A unique mind bending tower defense game | Full Review - Defense Derby
 ---
 
 <div class="gallery">

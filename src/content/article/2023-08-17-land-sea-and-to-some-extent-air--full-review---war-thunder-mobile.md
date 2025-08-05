@@ -1,12 +1,14 @@
 ---
-title: "Land, Sea, and to some extent… Air? | Full Review - War Thunder Mobile"
-description: "War Thunder Mobile"
-pubDate: 2023-08-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "war-thunder-mobile"]
+author: lyndonguitar
+category: Review
+description: War Thunder Mobile
 featured: false
-thumb: "/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-0.avif"
+pubDate: 2023-08-17
+tags:
+- taptap
+- war-thunder-mobile
+thumb: /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-0.avif
+title: Land, Sea, and to some extent… Air? | Full Review - War Thunder Mobile
 ---
 
 <div class="gallery">

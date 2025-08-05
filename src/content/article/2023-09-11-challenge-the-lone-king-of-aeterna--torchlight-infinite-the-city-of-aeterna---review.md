@@ -1,12 +1,15 @@
 ---
-title: "Challenge The Lone King of Aeterna! | Torchlight Infinite: The City of Aeterna - Review"
-description: "Torchlight: InfiniteGlobal"
-pubDate: 2023-09-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "torchlight:-infinite"]
+author: lyndonguitar
+category: Review
+description: 'Torchlight: InfiniteGlobal'
 featured: false
-thumb: "/images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-0.avif"
+pubDate: 2023-09-11
+tags:
+- taptap
+- torchlight:-infinite
+thumb: /images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-0.avif
+title: 'Challenge The Lone King of Aeterna! | Torchlight Infinite: The City of Aeterna
+  - Review'
 ---
 
 <div class="gallery">

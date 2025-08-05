@@ -1,12 +1,14 @@
 ---
-title: "Can this cute challenger dethrone Gang Beasts?! | Impressions - Party Animals"
-description: "Party Animals"
-pubDate: 2023-09-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "party-animals"]
+author: lyndonguitar
+category: Review
+description: Party Animals
 featured: false
-thumb: "/images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif"
+pubDate: 2023-09-03
+tags:
+- taptap
+- party-animals
+thumb: /images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif
+title: Can this cute challenger dethrone Gang Beasts?! | Impressions - Party Animals
 ---
 
 <div class="gallery">

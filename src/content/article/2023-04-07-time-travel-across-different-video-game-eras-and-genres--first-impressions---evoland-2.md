@@ -1,12 +1,18 @@
 ---
-title: "Time-travel across different video game eras and genres | First Impressions - Evoland 2"
-description: "Evoland 2 is the sequel to the original Evoland and offers a unique blend of gameplay styles , mechanics, and graphics that evolve as the player progresses. In many ways, Evoland 2 clearly improves upon the first game, especially in the narrative, gameplay department, and length."
-pubDate: 2023-04-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "evoland-2"]
+author: lyndonguitar
+category: Review
+description: Evoland 2 is the sequel to the original Evoland and offers a unique blend
+  of gameplay styles , mechanics, and graphics that evolve as the player progresses.
+  In many ways, Evoland 2 clearly improves upon the first game, especially in the
+  narrative, gameplay department, and length.
 featured: false
-thumb: "/images/reviews/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-0.avif"
+pubDate: 2023-04-07
+tags:
+- taptap
+- evoland-2
+thumb: /images/reviews/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-0.avif
+title: Time-travel across different video game eras and genres | First Impressions
+  - Evoland 2
 ---
 
 <div class="gallery">

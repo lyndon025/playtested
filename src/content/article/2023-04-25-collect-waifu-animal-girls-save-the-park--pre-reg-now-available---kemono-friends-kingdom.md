@@ -1,12 +1,15 @@
 ---
-title: "Collect waifu animal girls, save the park | Pre-reg now available - Kemono Friends: Kingdom"
-description: "Kemono Friends: KingdomGlobal"
-pubDate: 2023-04-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kemono-friends:-kingdom"]
+author: lyndonguitar
+category: Review
+description: 'Kemono Friends: KingdomGlobal'
 featured: false
-thumb: "/images/reviews/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-0.avif"
+pubDate: 2023-04-25
+tags:
+- taptap
+- kemono-friends:-kingdom
+thumb: /images/reviews/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-0.avif
+title: 'Collect waifu animal girls, save the park | Pre-reg now available - Kemono
+  Friends: Kingdom'
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "A remarkable ARPG perfectly balanced between depth and accessibility | Review - Last Epoch"
-description: "Last Epoch"
-pubDate: 2024-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "raziel-rebirth:-dungeon-raid"]
+author: lyndonguitar
+category: Review
+description: Last Epoch
 featured: false
-thumb: "/images/reviews/2024-02-26-a-remarkable-arpg-perfectly-balanced-between-depth-and-accessibility--review---last-epoch-0.avif"
+pubDate: 2024-02-26
+score: 9.0
+tags:
+- taptap
+- raziel-rebirth:-dungeon-raid
+thumb: /images/reviews/2024-02-26-a-remarkable-arpg-perfectly-balanced-between-depth-and-accessibility--review---last-epoch-0.avif
+title: A remarkable ARPG perfectly balanced between depth and accessibility | Review
+  - Last Epoch
 ---
 
 <div class="gallery">

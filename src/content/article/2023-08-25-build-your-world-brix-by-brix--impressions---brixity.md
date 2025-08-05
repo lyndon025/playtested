@@ -1,12 +1,18 @@
 ---
-title: "Build your world, BRIX BY BRIX | Impressions - BRIXITY"
-description: "The central gameplay of BRIXITY is about constructing structures and building entire cities in top-down view with the help of the amazing technology called BRIX, and then exploring the world and visiting other players in a third-person view. BRIX (as in “bricks”, essentially the building blocks that players can use to create buildings) allows players to create spectacular builds as they wish."
-pubDate: 2023-08-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "sandbox&multiplayer"]
+author: lyndonguitar
+category: Review
+description: The central gameplay of BRIXITY is about constructing structures and
+  building entire cities in top-down view with the help of the amazing technology
+  called BRIX, and then exploring the world and visiting other players in a third-person
+  view. BRIX (as in “bricks”, essentially the building blocks that players can use
+  to create buildings) allows players to create spectacular builds as they wish.
 featured: false
-thumb: ""
+pubDate: 2023-08-25
+tags:
+- taptap
+- sandbox&multiplayer
+thumb: ''
+title: Build your world, BRIX BY BRIX | Impressions - BRIXITY
 ---
 
 The central gameplay of BRIXITY is about constructing structures and building entire cities in top-down view with the help of the amazing technology called BRIX, and then exploring the world and visiting other players in a third-person view. BRIX (as in “bricks”, essentially the building blocks that players can use to create buildings) allows players to create spectacular builds as they wish.

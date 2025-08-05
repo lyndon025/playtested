@@ -1,12 +1,16 @@
 ---
-title: "This chibi Resident Evil gets an impressive good-looking sequel | PC+Mobile (Cloud) - Heaven Dust 2"
-description: "Heaven Dust 2"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "resident-evil"]
+author: lyndonguitar
+category: Review
+description: Heaven Dust 2
 featured: false
-thumb: "/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--0.avif"
+pubDate: 2023-12-22
+score: 8.0
+tags:
+- taptap
+- resident-evil
+thumb: /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--0.avif
+title: This chibi Resident Evil gets an impressive good-looking sequel | PC+Mobile
+  (Cloud) - Heaven Dust 2
 ---
 
 <div class="gallery">

@@ -1,12 +1,19 @@
 ---
-title: "A Delorean-turned-spaceship is hunting them down | First Impressions - Black Paradox"
-description: "Developed by Fantastico Studio and published by Digerati, Black Paradox is a retro style horizontal shoot'em up that features a beautiful pixel art, pumping electronic soundtrack, and fast-paced gameplay that will keep your fingers sweating. It is available on a multiple of platforms, but today we are focusing on the Mobile version."
-pubDate: 2023-02-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "black-paradox"]
+author: lyndonguitar
+category: Review
+description: Developed by Fantastico Studio and published by Digerati, Black Paradox
+  is a retro style horizontal shoot'em up that features a beautiful pixel art, pumping
+  electronic soundtrack, and fast-paced gameplay that will keep your fingers sweating.
+  It is available on a multiple of platforms, but today we are focusing on the Mobile
+  version.
 featured: false
-thumb: "/images/reviews/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-0.avif"
+pubDate: 2023-02-26
+tags:
+- taptap
+- black-paradox
+thumb: /images/reviews/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-0.avif
+title: A Delorean-turned-spaceship is hunting them down | First Impressions - Black
+  Paradox
 ---
 
 <div class="gallery">

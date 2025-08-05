@@ -1,12 +1,18 @@
 ---
-title: "A family friendly stealth horror? | Hello Neighbor 2 - Review"
-description: "When I played the original Hello Neighbor back in 2018, It was an intriguing family friendly puzzle stealth horror that was as frustrating as it exhilarating. Hello Neighbor 2 largely maintains the same formula, improving many mechanics from the first game but at the same time never really getting rid of the frustration factor."
-pubDate: 2022-12-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hello-neighbor-2"]
+author: lyndonguitar
+category: Review
+description: When I played the original Hello Neighbor back in 2018, It was an intriguing
+  family friendly puzzle stealth horror that was as frustrating as it exhilarating.
+  Hello Neighbor 2 largely maintains the same formula, improving many mechanics from
+  the first game but at the same time never really getting rid of the frustration
+  factor.
 featured: false
-thumb: "/images/reviews/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-0.avif"
+pubDate: 2022-12-08
+tags:
+- taptap
+- hello-neighbor-2
+thumb: /images/reviews/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-0.avif
+title: A family friendly stealth horror? | Hello Neighbor 2 - Review
 ---
 
 <div class="gallery">

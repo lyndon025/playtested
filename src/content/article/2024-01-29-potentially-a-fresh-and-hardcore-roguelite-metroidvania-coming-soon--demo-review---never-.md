@@ -1,12 +1,16 @@
 ---
-title: "Potentially a fresh and hardcore roguelite metroidvania, coming soon | Demo Review - Never Grave"
-description: "Never Grave: The Witch and The Curse"
-pubDate: 2024-01-29
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "never-grave:-the-witch-and-the-curse"]
+author: lyndonguitar
+category: Review
+description: 'Never Grave: The Witch and The Curse'
 featured: false
-thumb: "/images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--0.avif"
+pubDate: 2024-01-29
+score: 7.0
+tags:
+- taptap
+- never-grave:-the-witch-and-the-curse
+thumb: /images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--0.avif
+title: Potentially a fresh and hardcore roguelite metroidvania, coming soon | Demo
+  Review - Never Grave
 ---
 
 <div class="gallery">

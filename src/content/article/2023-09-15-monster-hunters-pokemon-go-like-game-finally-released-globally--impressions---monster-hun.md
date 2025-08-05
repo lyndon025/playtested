@@ -1,12 +1,20 @@
 ---
-title: "Monster Hunter’s Pokemon Go-like game, finally released globally! | Impressions - Monster Hunter Now"
-description: "In Monster Hunter Now, players explore their surroundings to locate, track, and engage with various monsters and creatures from the Monster Hunter series. The gameplay involves hunting monsters, gathering resources, upgrading your gear, and engaging in fast-paced sub-minute battles. The battles are quick --- not as lengthy and epic as the mainline games --- but I find the bite-sized nature of it fun and just fits the AR-based nature of the game perfectly."
-pubDate: 2023-09-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "monster-hunter-now"]
+author: lyndonguitar
+category: Review
+description: In Monster Hunter Now, players explore their surroundings to locate,
+  track, and engage with various monsters and creatures from the Monster Hunter series.
+  The gameplay involves hunting monsters, gathering resources, upgrading your gear,
+  and engaging in fast-paced sub-minute battles. The battles are quick --- not as
+  lengthy and epic as the mainline games --- but I find the bite-sized nature of it
+  fun and just fits the AR-based nature of the game perfectly.
 featured: false
-thumb: ""
+pubDate: 2023-09-15
+tags:
+- taptap
+- monster-hunter-now
+thumb: ''
+title: Monster Hunter’s Pokemon Go-like game, finally released globally! | Impressions
+  - Monster Hunter Now
 ---
 
 In Monster Hunter Now, players explore their surroundings to locate, track, and engage with various monsters and creatures from the Monster Hunter series. The gameplay involves hunting monsters, gathering resources, upgrading your gear, and engaging in fast-paced sub-minute battles. The battles are quick --- not as lengthy and epic as the mainline games --- but I find the bite-sized nature of it fun and just fits the AR-based nature of the game perfectly.

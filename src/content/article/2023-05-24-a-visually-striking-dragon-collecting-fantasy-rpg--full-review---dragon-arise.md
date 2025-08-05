@@ -1,12 +1,15 @@
 ---
-title: "A visually striking dragon collecting fantasy RPG! | Full Review - Dragon Arise"
-description: "Dragon Arise is a dragon collecting fantasy RPG that takes players on a whimsical journey into a world filled with dragons and epic battles."
-pubDate: 2023-05-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dragon-arise"]
+author: lyndonguitar
+category: Review
+description: Dragon Arise is a dragon collecting fantasy RPG that takes players on
+  a whimsical journey into a world filled with dragons and epic battles.
 featured: false
-thumb: ""
+pubDate: 2023-05-24
+tags:
+- taptap
+- dragon-arise
+thumb: ''
+title: A visually striking dragon collecting fantasy RPG! | Full Review - Dragon Arise
 ---
 
 Dragon Arise is a dragon collecting fantasy RPG that takes players on a whimsical journey into a world filled with dragons and epic battles.

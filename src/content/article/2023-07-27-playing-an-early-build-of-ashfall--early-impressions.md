@@ -1,12 +1,18 @@
 ---
-title: "Playing an early build of Ashfall! | Early Impressions"
-description: "Ashfall is an ambitious MMORPG developed by Legendary Star Studio and NetEase, and is set in a post-apocalyptic world.  Not to be confused from the similarly titled Ashfall, a Web3/NFT game currently in development by Liithos Game Studio. I had the opportunity to try out an Early Build of the game on both mobile and PC, and here are my initial impressions:"
-pubDate: 2023-07-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ashfall"]
+author: lyndonguitar
+category: Review
+description: 'Ashfall is an ambitious MMORPG developed by Legendary Star Studio and
+  NetEase, and is set in a post-apocalyptic world.  Not to be confused from the similarly
+  titled Ashfall, a Web3/NFT game currently in development by Liithos Game Studio.
+  I had the opportunity to try out an Early Build of the game on both mobile and PC,
+  and here are my initial impressions:'
 featured: false
-thumb: ""
+pubDate: 2023-07-27
+tags:
+- taptap
+- ashfall
+thumb: ''
+title: Playing an early build of Ashfall! | Early Impressions
 ---
 
 Ashfall is an ambitious MMORPG developed by Legendary Star Studio and NetEase, and is set in a post-apocalyptic world.  Not to be confused from the similarly titled Ashfall, a Web3/NFT game currently in development by Liithos Game Studio. I had the opportunity to try out an Early Build of the game on both mobile and PC, and here are my initial impressions:

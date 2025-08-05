@@ -1,12 +1,16 @@
 ---
-title: "Tower Defense and Deck Building had a Rogue-like baby, now on Mobile (Cloud) | CD 2: Trap Master"
-description: "CD 2: Trap Master"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "orcs-must-die!"]
+author: lyndonguitar
+category: Review
+description: 'CD 2: Trap Master'
 featured: false
-thumb: "/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-0.avif"
+pubDate: 2023-12-22
+score: 6.0
+tags:
+- taptap
+- orcs-must-die!
+thumb: /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-0.avif
+title: 'Tower Defense and Deck Building had a Rogue-like baby, now on Mobile (Cloud)
+  | CD 2: Trap Master'
 ---
 
 <div class="gallery">

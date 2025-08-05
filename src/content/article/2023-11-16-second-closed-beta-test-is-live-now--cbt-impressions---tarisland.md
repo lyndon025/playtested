@@ -1,12 +1,16 @@
 ---
-title: "Second Closed Beta Test is live now! | CBT Impressions - Tarisland"
-description: "Tarisland embarks on a journey to capture the magic of classic MMOs while introducing its own twists. it currently has an on-going second closed beta test that runs from November 16 and will last for at least two weeks."
-pubDate: 2023-11-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "tarisland"]
+author: lyndonguitar
+category: Review
+description: Tarisland embarks on a journey to capture the magic of classic MMOs while
+  introducing its own twists. it currently has an on-going second closed beta test
+  that runs from November 16 and will last for at least two weeks.
 featured: false
-thumb: ""
+pubDate: 2023-11-16
+tags:
+- taptap
+- tarisland
+thumb: ''
+title: Second Closed Beta Test is live now! | CBT Impressions - Tarisland
 ---
 
 Tarisland embarks on a journey to capture the magic of classic MMOs while introducing its own twists. it currently has an on-going second closed beta test that runs from November 16 and will last for at least two weeks.

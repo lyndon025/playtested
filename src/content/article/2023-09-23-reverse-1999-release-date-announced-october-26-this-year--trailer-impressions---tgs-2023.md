@@ -1,12 +1,18 @@
 ---
-title: "Reverse: 1999 Release Date Announced! October 26 this year! | Trailer Impressions - TGS 2023"
-description: "The opening scene of the new Reverse: 1999 trailer sets the tone with an impressive CG cutscene, once again showcasing the game's unique and excellent voice acting. Notably, Schneider, one of the prominent Arcanist characters in the trailer, impressively sports an Italian accent."
-pubDate: 2023-09-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "reverse:-1999"]
+author: lyndonguitar
+category: Review
+description: 'The opening scene of the new Reverse: 1999 trailer sets the tone with
+  an impressive CG cutscene, once again showcasing the game''s unique and excellent
+  voice acting. Notably, Schneider, one of the prominent Arcanist characters in the
+  trailer, impressively sports an Italian accent.'
 featured: false
-thumb: ""
+pubDate: 2023-09-23
+tags:
+- taptap
+- reverse:-1999
+thumb: ''
+title: 'Reverse: 1999 Release Date Announced! October 26 this year! | Trailer Impressions
+  - TGS 2023'
 ---
 
 The opening scene of the new Reverse: 1999 trailer sets the tone with an impressive CG cutscene, once again showcasing the game's unique and excellent voice acting. Notably, Schneider, one of the prominent Arcanist characters in the trailer, impressively sports an Italian accent.

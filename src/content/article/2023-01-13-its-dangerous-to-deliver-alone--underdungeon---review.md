@@ -1,12 +1,17 @@
 ---
-title: "It's dangerous to deliver alone! | UnderDungeon - Review"
-description: "What UnderDungeon lacks in color, it makes up for with an aggressive monochromatic stylized 1 bit graphics full of life, energy, and a highly stimulating retro music. UnderDungeon is an adventure game inspired by classic dungeon crawlers; brimming with humor, wit, and charm."
-pubDate: 2023-01-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "underdungeon-(pc,-xbs/x,-xb1,-ns)"]
+author: lyndonguitar
+category: Review
+description: What UnderDungeon lacks in color, it makes up for with an aggressive
+  monochromatic stylized 1 bit graphics full of life, energy, and a highly stimulating
+  retro music. UnderDungeon is an adventure game inspired by classic dungeon crawlers;
+  brimming with humor, wit, and charm.
 featured: false
-thumb: "/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-0.avif"
+pubDate: 2023-01-13
+tags:
+- taptap
+- underdungeon-(pc,-xbs/x,-xb1,-ns)
+thumb: /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-0.avif
+title: It's dangerous to deliver alone! | UnderDungeon - Review
 ---
 
 <div class="gallery">

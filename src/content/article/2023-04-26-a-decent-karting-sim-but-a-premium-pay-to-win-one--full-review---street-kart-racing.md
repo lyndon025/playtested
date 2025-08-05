@@ -1,12 +1,15 @@
 ---
-title: "A decent Karting Sim, but a premium pay-to-win one | Full Review - Street Kart Racing"
-description: "Street Kart Racing"
-pubDate: 2023-04-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "street-kart-racing"]
+author: lyndonguitar
+category: Review
+description: Street Kart Racing
 featured: false
-thumb: "/images/reviews/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-0.avif"
+pubDate: 2023-04-26
+tags:
+- taptap
+- street-kart-racing
+thumb: /images/reviews/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-0.avif
+title: A decent Karting Sim, but a premium pay-to-win one | Full Review - Street Kart
+  Racing
 ---
 
 <div class="gallery">

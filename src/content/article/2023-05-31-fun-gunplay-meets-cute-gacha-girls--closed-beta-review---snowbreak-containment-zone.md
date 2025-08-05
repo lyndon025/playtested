@@ -1,12 +1,15 @@
 ---
-title: "Fun gunplay meets cute gacha girls | Closed Beta Review - Snowbreak: Containment Zone"
-description: "Snowbreak: Containment ZoneGlobal"
-pubDate: 2023-05-31
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "snowbreak:-containment-zone"]
+author: lyndonguitar
+category: Review
+description: 'Snowbreak: Containment ZoneGlobal'
 featured: false
-thumb: "/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-0.avif"
+pubDate: 2023-05-31
+tags:
+- taptap
+- snowbreak:-containment-zone
+thumb: /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-0.avif
+title: 'Fun gunplay meets cute gacha girls | Closed Beta Review - Snowbreak: Containment
+  Zone'
 ---
 
 <div class="gallery">

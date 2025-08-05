@@ -10,7 +10,6 @@ code > span.line {
   @apply px-4 py-2 text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 rounded-md transition;
 }
 
-
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -43,7 +42,8 @@ code > span.line {
   padding: 0.5rem 0.75rem;
   border-radius: 999px;
   color: white;
-  background: linear-gradient(to right, #06b6d4, #3b82f6); /* cyan to blue */
+  background: linear-gradient(to right, #06b6d4, #3b82f6);
+  border: 5px solid; /* Thicker outline */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
   z-index: 10;
   pointer-events: none;
@@ -54,7 +54,28 @@ code > span.line {
   justify-content: center;
   min-width: 3rem;
   text-align: center;
-  transition: transform 0.2s ease, background 0.3s ease;
+  transition: transform 0.2s ease, border 0.3s ease;
+  text-shadow: 0 0 2px black; /* Optional black outline for legibility */
+}
+
+
+.score-outline-0 { border-color: #b00020; }
+.score-outline-1 { border-color: #c62828; }
+.score-outline-2 { border-color: #ef5350; }
+.score-outline-3 { border-color: #f57c00; }
+.score-outline-4 { border-color: #f9a825; }
+.score-outline-5 { border-color: #fdd835; }
+.score-outline-6 { border-color: #d4e157; }
+.score-outline-7 { border-color: #aed581; }
+.score-outline-8 { border-color: #81c784; }
+.score-outline-9 { border-color: #4caf50; }
+.score-outline-10 { border-color: #2e7d32; }
+
+.small-score {
+  font-size: 0.7rem;
+  padding: 0.3rem 0.5rem;
+  bottom: 0.4rem;
+  right: 0.4rem;
 }
 
 /* Hover animation on card (if desired) */
@@ -70,17 +91,7 @@ code > span.line {
   right: 0.4rem;
 }
 
-.score-green {
-  background: linear-gradient(to right, #16a34a, #22c55e); /* green */
-}
 
-.score-yellow {
-  background: linear-gradient(to right, #facc15, #f97316); /* yellow-orange */
-}
-
-.score-red {
-  background: linear-gradient(to right, #ef4444, #dc2626); /* red */
-}
 
 .article-score-badge {
   display: inline-flex;
@@ -90,7 +101,7 @@ code > span.line {
   background: linear-gradient(to right, #06b6d4, #3b82f6);
   color: white;
   font-weight: bold;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "Segoe UI", sans-serif;
   padding: 1rem 1.5rem;
   border-radius: 1rem;
   font-size: 1.5rem;
@@ -104,8 +115,6 @@ code > span.line {
   padding-right: 1rem;
   margin-right: 1rem;
 }
-
-
 
 .article-score-value {
   font-size: 2rem;
@@ -124,7 +133,6 @@ code > span.line {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-
 
 .gallery {
   display: flex;
@@ -157,6 +165,6 @@ code > span.line {
   max-width: 100%;
   object-fit: cover;
   border-radius: 0.5rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
   cursor: pointer;
 }

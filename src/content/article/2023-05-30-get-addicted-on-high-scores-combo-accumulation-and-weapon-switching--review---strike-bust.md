@@ -1,12 +1,15 @@
 ---
-title: "Get addicted on high scores, combo accumulation, and weapon switching | Review - Strike Buster"
-description: "Strike Buster Prototype"
-pubDate: 2023-05-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "strike-buster-prototype"]
+author: lyndonguitar
+category: Review
+description: Strike Buster Prototype
 featured: false
-thumb: "/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-0.avif"
+pubDate: 2023-05-30
+tags:
+- taptap
+- strike-buster-prototype
+thumb: /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-0.avif
+title: Get addicted on high scores, combo accumulation, and weapon switching | Review
+  - Strike Buster
 ---
 
 <div class="gallery">

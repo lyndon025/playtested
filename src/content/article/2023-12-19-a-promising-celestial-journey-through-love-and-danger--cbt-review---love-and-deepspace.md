@@ -1,12 +1,16 @@
 ---
-title: "A promising celestial journey through love and danger | CBT Review - Love and Deepspace"
-description: "Love and DeepspaceGlobal"
-pubDate: 2023-12-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "love-and-deepspace"]
+author: lyndonguitar
+category: Review
+description: Love and DeepspaceGlobal
 featured: false
-thumb: "/images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-0.avif"
+pubDate: 2023-12-19
+score: 8.0
+tags:
+- taptap
+- love-and-deepspace
+thumb: /images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-0.avif
+title: A promising celestial journey through love and danger | CBT Review - Love and
+  Deepspace
 ---
 
 <div class="gallery">

@@ -1,12 +1,21 @@
 ---
-title: "An alternative retelling of AMC's The Walking Dead S1-4 | Impressions - The Walking Dead: Destinies"
-description: "The Walking Dead: Destinies invites players to embark on an alternative retelling of the iconic AMC television series' Season 1 to 4, now out for PC, Consoles, and Switch. Players will take control of various characters from the AMC series, whether friend or foe, ranging from Rick to the Governor. Their choices will shape the destiny of a team of characters from AMC's The Walking Dead series, altering the course of the story and revealing the diverse outcomes that certain choices can bring—outcomes that fans may have always imagined."
-pubDate: 2023-11-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-walking-dead:-destinies"]
+author: lyndonguitar
+category: Review
+description: 'The Walking Dead: Destinies invites players to embark on an alternative
+  retelling of the iconic AMC television series'' Season 1 to 4, now out for PC, Consoles,
+  and Switch. Players will take control of various characters from the AMC series,
+  whether friend or foe, ranging from Rick to the Governor. Their choices will shape
+  the destiny of a team of characters from AMC''s The Walking Dead series, altering
+  the course of the story and revealing the diverse outcomes that certain choices
+  can bring—outcomes that fans may have always imagined.'
 featured: false
-thumb: ""
+pubDate: 2023-11-20
+tags:
+- taptap
+- the-walking-dead:-destinies
+thumb: ''
+title: 'An alternative retelling of AMC''s The Walking Dead S1-4 | Impressions - The
+  Walking Dead: Destinies'
 ---
 
 The Walking Dead: Destinies invites players to embark on an alternative retelling of the iconic AMC television series' Season 1 to 4, now out for PC, Consoles, and Switch. Players will take control of various characters from the AMC series, whether friend or foe, ranging from Rick to the Governor. Their choices will shape the destiny of a team of characters from AMC's The Walking Dead series, altering the course of the story and revealing the diverse outcomes that certain choices can bring—outcomes that fans may have always imagined.

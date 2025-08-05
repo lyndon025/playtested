@@ -1,12 +1,15 @@
 ---
-title: "A return to the underbellies of Warhammer 40K, is it worth it? | Review - Darktide Patch 13"
-description: "Warhammer 40,000: Darktide"
-pubDate: 2023-10-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "warhammer-40,000:-darktide"]
+author: lyndonguitar
+category: Review
+description: 'Warhammer 40,000: Darktide'
 featured: false
-thumb: "/images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-0.avif"
+pubDate: 2023-10-04
+tags:
+- taptap
+- warhammer-40,000:-darktide
+thumb: /images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-0.avif
+title: A return to the underbellies of Warhammer 40K, is it worth it? | Review - Darktide
+  Patch 13
 ---
 
 <div class="gallery">

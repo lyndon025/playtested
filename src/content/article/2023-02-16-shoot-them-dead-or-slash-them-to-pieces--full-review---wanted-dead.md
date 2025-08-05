@@ -1,12 +1,17 @@
 ---
-title: "Shoot them dead or slash them to pieces | Full Review - Wanted: Dead"
-description: "Wanted: Dead, we’ve all seen this type of game before: A hack-n-slash and shooter hybrid — Devil May Cry is a touchstone example of this, — as well as most shooter games that have some form of melee combat baked in, but still, it's refreshing to see newcomers in the hack and slash shooter hybrid genre."
-pubDate: 2023-02-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wanted:-dead"]
+author: lyndonguitar
+category: Review
+description: 'Wanted: Dead, we’ve all seen this type of game before: A hack-n-slash
+  and shooter hybrid — Devil May Cry is a touchstone example of this, — as well as
+  most shooter games that have some form of melee combat baked in, but still, it''s
+  refreshing to see newcomers in the hack and slash shooter hybrid genre.'
 featured: false
-thumb: "/images/reviews/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-0.avif"
+pubDate: 2023-02-16
+tags:
+- taptap
+- wanted:-dead
+thumb: /images/reviews/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-0.avif
+title: 'Shoot them dead or slash them to pieces | Full Review - Wanted: Dead'
 ---
 
 <div class="gallery">

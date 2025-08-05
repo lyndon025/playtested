@@ -1,12 +1,14 @@
 ---
-title: "After 10 long years, GTA VI is now official! Releases 2025"
-description: "Grand Theft Auto VI"
-pubDate: 2023-12-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "grand-theft-auto-vi"]
+author: lyndonguitar
+category: Review
+description: Grand Theft Auto VI
 featured: false
-thumb: "/images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-0.avif"
+pubDate: 2023-12-05
+tags:
+- taptap
+- grand-theft-auto-vi
+thumb: /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-0.avif
+title: After 10 long years, GTA VI is now official! Releases 2025
 ---
 
 <div class="gallery">

@@ -1,12 +1,19 @@
 ---
-title: "This pixelated Apple Arcade souls-like is now on PC and Switch | First Impressions - Bleak Sword DX"
-description: "In Bleak Sword DX, the protagonist is not the one wielding the titular Bleak Sword; rather, they must seek to destroy the weapon itself. As an unnamed warrior, your task is to lift the curse of the legendary Bleak Sword that has plagued the land for over two hundred years. While the story is not that deep, it serves as a premise and backdrop for the hack-and-slash combat action."
-pubDate: 2023-06-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "bleak-sword-dx"]
+author: lyndonguitar
+category: Review
+description: In Bleak Sword DX, the protagonist is not the one wielding the titular
+  Bleak Sword; rather, they must seek to destroy the weapon itself. As an unnamed
+  warrior, your task is to lift the curse of the legendary Bleak Sword that has plagued
+  the land for over two hundred years. While the story is not that deep, it serves
+  as a premise and backdrop for the hack-and-slash combat action.
 featured: false
-thumb: ""
+pubDate: 2023-06-12
+tags:
+- taptap
+- bleak-sword-dx
+thumb: ''
+title: This pixelated Apple Arcade souls-like is now on PC and Switch | First Impressions
+  - Bleak Sword DX
 ---
 
 In Bleak Sword DX, the protagonist is not the one wielding the titular Bleak Sword; rather, they must seek to destroy the weapon itself. As an unnamed warrior, your task is to lift the curse of the legendary Bleak Sword that has plagued the land for over two hundred years. While the story is not that deep, it serves as a premise and backdrop for the hack-and-slash combat action.

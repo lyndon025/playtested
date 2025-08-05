@@ -1,12 +1,20 @@
 ---
-title: "Assassin's Creed Mirage - I can’t believe this AAA console game is also coming to mobile!"
-description: "Assassin's Creed Mirage promises to be a refreshing return to the franchise's roots. Set against the historical backdrop of Baghdad, the game takes us back to the early years of the series, emphasizing parkour, stealth, and the art of assassination—a style reminiscent of the beloved Altair and Ezio eras. It's a deliberate shift away from the sprawling open-world RPGs and health sponges of enemies that have become the norm in recent Assassin's Creed titles."
-pubDate: 2023-09-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "assassin's-creed-mirage"]
+author: lyndonguitar
+category: Review
+description: Assassin's Creed Mirage promises to be a refreshing return to the franchise's
+  roots. Set against the historical backdrop of Baghdad, the game takes us back to
+  the early years of the series, emphasizing parkour, stealth, and the art of assassination—a
+  style reminiscent of the beloved Altair and Ezio eras. It's a deliberate shift away
+  from the sprawling open-world RPGs and health sponges of enemies that have become
+  the norm in recent Assassin's Creed titles.
 featured: false
-thumb: ""
+pubDate: 2023-09-16
+tags:
+- taptap
+- assassin's-creed-mirage
+thumb: ''
+title: Assassin's Creed Mirage - I can’t believe this AAA console game is also coming
+  to mobile!
 ---
 
 Assassin's Creed Mirage promises to be a refreshing return to the franchise's roots. Set against the historical backdrop of Baghdad, the game takes us back to the early years of the series, emphasizing parkour, stealth, and the art of assassination—a style reminiscent of the beloved Altair and Ezio eras. It's a deliberate shift away from the sprawling open-world RPGs and health sponges of enemies that have become the norm in recent Assassin's Creed titles.

@@ -1,12 +1,17 @@
 ---
-title: "THE Harry Potter game we’ve always dreamed of | Full Review - Hogwarts Legacy"
-description: "Hogwarts Legacy is a single player open-world action RPG set in the Harry Potter world. It features a compelling original linear story that takes us to Hogwarts, as well as its surrounding vicinities; the Scottish Highlands and familiar places like Hogsmeade, The Forbidden Forest, and many more."
-pubDate: 2023-02-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hogwarts-legacy"]
+author: lyndonguitar
+category: Review
+description: Hogwarts Legacy is a single player open-world action RPG set in the Harry
+  Potter world. It features a compelling original linear story that takes us to Hogwarts,
+  as well as its surrounding vicinities; the Scottish Highlands and familiar places
+  like Hogsmeade, The Forbidden Forest, and many more.
 featured: false
-thumb: "/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-0.avif"
+pubDate: 2023-02-10
+tags:
+- taptap
+- hogwarts-legacy
+thumb: /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-0.avif
+title: THE Harry Potter game we’ve always dreamed of | Full Review - Hogwarts Legacy
 ---
 
 <div class="gallery">

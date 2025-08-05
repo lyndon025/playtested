@@ -1,12 +1,15 @@
 ---
-title: "This game is as charming as it is challenging | Early Access Review - Ogu and the Secret Forest"
-description: "Ogu and the Secret Forest"
-pubDate: 2023-04-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ogu-and-the-secret-forest"]
+author: lyndonguitar
+category: Review
+description: Ogu and the Secret Forest
 featured: false
-thumb: "/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-0.avif"
+pubDate: 2023-04-26
+tags:
+- taptap
+- ogu-and-the-secret-forest
+thumb: /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-0.avif
+title: This game is as charming as it is challenging | Early Access Review - Ogu and
+  the Secret Forest
 ---
 
 <div class="gallery">

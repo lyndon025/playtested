@@ -1,12 +1,18 @@
 ---
-title: "Lords of the Fallen bravely steps once again for a second shot | Impressions - Lords of the Fallen"
-description: "I first noticed this interesting game -- Lords of the Fallen -- many years ago on Steam, but I never got around to playing it. It appeared on my radar quite a few times, especially during Steam sales, but I never had the chance to try it. Fortunately, they made a reboot, and I played that instead."
-pubDate: 2023-10-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lords-of-the-fallen"]
+author: lyndonguitar
+category: Review
+description: I first noticed this interesting game -- Lords of the Fallen -- many
+  years ago on Steam, but I never got around to playing it. It appeared on my radar
+  quite a few times, especially during Steam sales, but I never had the chance to
+  try it. Fortunately, they made a reboot, and I played that instead.
 featured: false
-thumb: ""
+pubDate: 2023-10-16
+tags:
+- taptap
+- lords-of-the-fallen
+thumb: ''
+title: Lords of the Fallen bravely steps once again for a second shot | Impressions
+  - Lords of the Fallen
 ---
 
 I first noticed this interesting game -- Lords of the Fallen -- many years ago on Steam, but I never got around to playing it. It appeared on my radar quite a few times, especially during Steam sales, but I never had the chance to try it. Fortunately, they made a reboot, and I played that instead.

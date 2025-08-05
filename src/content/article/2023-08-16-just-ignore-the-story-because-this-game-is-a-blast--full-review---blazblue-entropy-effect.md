@@ -1,12 +1,15 @@
 ---
-title: "Just ignore the story, because this game is a blast | Full Review - BlazBlue Entropy Effect"
-description: "BlazBlue Entropy Effect"
-pubDate: 2023-08-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "blazblue-entropy-effect"]
+author: lyndonguitar
+category: Review
+description: BlazBlue Entropy Effect
 featured: false
-thumb: "/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-0.avif"
+pubDate: 2023-08-16
+tags:
+- taptap
+- blazblue-entropy-effect
+thumb: /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-0.avif
+title: Just ignore the story, because this game is a blast | Full Review - BlazBlue
+  Entropy Effect
 ---
 
 <div class="gallery">

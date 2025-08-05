@@ -1,12 +1,15 @@
 ---
-title: "A promising upcoming gacha RPG in need of more polish | Demo Review - ASTRA: Knights of Veda"
-description: "ASTRA: Knights of Veda"
-pubDate: 2023-10-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "astlibra-revision"]
+author: lyndonguitar
+category: Review
+description: 'ASTRA: Knights of Veda'
 featured: false
-thumb: "/images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-0.avif"
+pubDate: 2023-10-10
+tags:
+- taptap
+- astlibra-revision
+thumb: /images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-0.avif
+title: 'A promising upcoming gacha RPG in need of more polish | Demo Review - ASTRA:
+  Knights of Veda'
 ---
 
 <div class="gallery">

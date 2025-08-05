@@ -1,12 +1,16 @@
 ---
-title: "An innovative turn-based combat with Mechs! | First Impressions - Phantom Brigade"
-description: "Set in a dystopian future, the game puts players in the shoes of a team of customizable mech pilots fighting against a powerful military. This team is the titular Phantom Brigade."
-pubDate: 2023-03-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "phantom-brigade"]
+author: lyndonguitar
+category: Review
+description: Set in a dystopian future, the game puts players in the shoes of a team
+  of customizable mech pilots fighting against a powerful military. This team is the
+  titular Phantom Brigade.
 featured: false
-thumb: "/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-0.avif"
+pubDate: 2023-03-01
+tags:
+- taptap
+- phantom-brigade
+thumb: /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-0.avif
+title: An innovative turn-based combat with Mechs! | First Impressions - Phantom Brigade
 ---
 
 <div class="gallery">

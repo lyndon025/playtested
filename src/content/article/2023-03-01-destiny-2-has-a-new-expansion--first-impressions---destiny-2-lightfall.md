@@ -1,12 +1,15 @@
 ---
-title: "Destiny 2 has a new expansion! | First Impressions - Destiny 2: Lightfall"
-description: "Destiny 2: Lightfall comes with a new storyline, a new playable area, and refined game mechanics to the long-standing popular MMORPG FPS game."
-pubDate: 2023-03-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "destiny-2"]
+author: lyndonguitar
+category: Review
+description: 'Destiny 2: Lightfall comes with a new storyline, a new playable area,
+  and refined game mechanics to the long-standing popular MMORPG FPS game.'
 featured: false
-thumb: "/images/reviews/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-0.avif"
+pubDate: 2023-03-01
+tags:
+- taptap
+- destiny-2
+thumb: /images/reviews/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-0.avif
+title: 'Destiny 2 has a new expansion! | First Impressions - Destiny 2: Lightfall'
 ---
 
 <div class="gallery">

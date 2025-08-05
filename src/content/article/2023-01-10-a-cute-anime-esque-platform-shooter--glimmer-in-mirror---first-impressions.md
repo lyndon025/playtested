@@ -1,12 +1,17 @@
 ---
-title: "A cute anime-esque platform shooter | Glimmer in Mirror - First Impressions"
-description: "From the looks of it, you might not think of Glimmer in Mirror as a metroidvania platform shooter. In fact every fiber of my being is telling me that it isn’t, it feels more like a flashy side scrolling hack and slash game, but Glimmer in Mirror is indeed a shooter in a cute anime (chibi) disguise, and that’s refreshing to see."
-pubDate: 2023-01-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "glimmer-in-mirror"]
+author: lyndonguitar
+category: Review
+description: From the looks of it, you might not think of Glimmer in Mirror as a metroidvania
+  platform shooter. In fact every fiber of my being is telling me that it isn’t, it
+  feels more like a flashy side scrolling hack and slash game, but Glimmer in Mirror
+  is indeed a shooter in a cute anime (chibi) disguise, and that’s refreshing to see.
 featured: false
-thumb: "/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-0.avif"
+pubDate: 2023-01-10
+tags:
+- taptap
+- glimmer-in-mirror
+thumb: /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-0.avif
+title: A cute anime-esque platform shooter | Glimmer in Mirror - First Impressions
 ---
 
 <div class="gallery">

@@ -1,12 +1,14 @@
 ---
-title: "A bite-sized classic survival horror experience | Full Review - Heaven Dust"
-description: "Heaven Dust"
-pubDate: 2023-05-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "heaven-dust"]
+author: lyndonguitar
+category: Review
+description: Heaven Dust
 featured: false
-thumb: "/images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif"
+pubDate: 2023-05-28
+tags:
+- taptap
+- heaven-dust
+thumb: /images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif
+title: A bite-sized classic survival horror experience | Full Review - Heaven Dust
 ---
 
 <div class="gallery">

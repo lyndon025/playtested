@@ -1,12 +1,14 @@
 ---
-title: "A Visual Novel-style Among Us before it was cool | First Impressions - Danganronpa"
-description: "Danganronpa: Trigger Happy Hav"
-pubDate: 2023-04-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "danganronpa:-trigger-happy-hav"]
+author: lyndonguitar
+category: Review
+description: 'Danganronpa: Trigger Happy Hav'
 featured: false
-thumb: "/images/reviews/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-0.avif"
+pubDate: 2023-04-28
+tags:
+- taptap
+- danganronpa:-trigger-happy-hav
+thumb: /images/reviews/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-0.avif
+title: A Visual Novel-style Among Us before it was cool | First Impressions - Danganronpa
 ---
 
 <div class="gallery">

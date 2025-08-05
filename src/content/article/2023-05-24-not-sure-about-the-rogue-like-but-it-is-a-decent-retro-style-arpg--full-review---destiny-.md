@@ -1,12 +1,15 @@
 ---
-title: "Not sure about the rogue-like but it is a decent retro-style ARPG | Full Review - Destiny Saga"
-description: "Destiny Saga"
-pubDate: 2023-05-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "destiny-saga"]
+author: lyndonguitar
+category: Review
+description: Destiny Saga
 featured: false
-thumb: "/images/reviews/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--0.avif"
+pubDate: 2023-05-24
+tags:
+- taptap
+- destiny-saga
+thumb: /images/reviews/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--0.avif
+title: Not sure about the rogue-like but it is a decent retro-style ARPG | Full Review
+  - Destiny Saga
 ---
 
 <div class="gallery">

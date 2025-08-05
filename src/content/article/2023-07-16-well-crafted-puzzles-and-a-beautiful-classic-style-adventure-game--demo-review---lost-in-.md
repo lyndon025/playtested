@@ -1,12 +1,15 @@
 ---
-title: "Well-crafted puzzles and a beautiful classic-style adventure game | Demo Review - Lost in Play"
-description: "Lost in Play"
-pubDate: 2023-07-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lost-in-play"]
+author: lyndonguitar
+category: Review
+description: Lost in Play
 featured: false
-thumb: "/images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--0.avif"
+pubDate: 2023-07-16
+tags:
+- taptap
+- lost-in-play
+thumb: /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--0.avif
+title: Well-crafted puzzles and a beautiful classic-style adventure game | Demo Review
+  - Lost in Play
 ---
 
 <div class="gallery">

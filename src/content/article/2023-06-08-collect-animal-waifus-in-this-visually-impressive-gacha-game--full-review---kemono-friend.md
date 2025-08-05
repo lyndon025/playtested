@@ -1,12 +1,15 @@
 ---
-title: "Collect animal waifus in this visually impressive gacha game | Full Review - Kemono Friends: Kingdom"
-description: "Kemono Friends: KingdomGlobal"
-pubDate: 2023-06-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "kemono-friends:-kingdom"]
+author: lyndonguitar
+category: Review
+description: 'Kemono Friends: KingdomGlobal'
 featured: false
-thumb: "/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-0.avif"
+pubDate: 2023-06-08
+tags:
+- taptap
+- kemono-friends:-kingdom
+thumb: /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-0.avif
+title: 'Collect animal waifus in this visually impressive gacha game | Full Review
+  - Kemono Friends: Kingdom'
 ---
 
 <div class="gallery">

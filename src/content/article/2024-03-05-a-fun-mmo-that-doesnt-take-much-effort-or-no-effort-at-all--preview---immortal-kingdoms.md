@@ -1,12 +1,15 @@
 ---
-title: "A fun MMO that doesn’t take much effort (or no effort at all) | Preview - Immortal Kingdoms"
-description: "Immortal Kingdoms M Playpark"
-pubDate: 2024-03-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "immortal-kingdoms-m-playpark"]
+author: lyndonguitar
+category: Review
+description: Immortal Kingdoms M Playpark
 featured: false
-thumb: "/images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-0.avif"
+pubDate: 2024-03-05
+tags:
+- taptap
+- immortal-kingdoms-m-playpark
+thumb: /images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-0.avif
+title: A fun MMO that doesn’t take much effort (or no effort at all) | Preview - Immortal
+  Kingdoms
 ---
 
 <div class="gallery">

@@ -1,12 +1,20 @@
 ---
-title: "NIKKE x NieR:Automata crossover is now LIVE !!!"
-description: "The latest collaboration between Goddess of Victory: Nikke and Nier: Automata is now live! Both Goddess of Victory: Nikke (or Nikke for short) and Nier: Automata have not been short of collaboration events with other franchises, such as Chainsaw Man with Nikke, or Nier: Automata with even more ridiculous crossovers like Rainbow Six: Siege, PUBG, and Fall Guys. However, both games might have found a match made in heaven with what might be the most sensical crossover yet, featuring very similar themes: sexy girls fighting aliens and robots."
-pubDate: 2023-09-01
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "goddess-of-victory:-nikke"]
+author: lyndonguitar
+category: Review
+description: 'The latest collaboration between Goddess of Victory: Nikke and Nier:
+  Automata is now live! Both Goddess of Victory: Nikke (or Nikke for short) and Nier:
+  Automata have not been short of collaboration events with other franchises, such
+  as Chainsaw Man with Nikke, or Nier: Automata with even more ridiculous crossovers
+  like Rainbow Six: Siege, PUBG, and Fall Guys. However, both games might have found
+  a match made in heaven with what might be the most sensical crossover yet, featuring
+  very similar themes: sexy girls fighting aliens and robots.'
 featured: false
-thumb: ""
+pubDate: 2023-09-01
+tags:
+- taptap
+- goddess-of-victory:-nikke
+thumb: ''
+title: NIKKE x NieR:Automata crossover is now LIVE !!!
 ---
 
 The latest collaboration between Goddess of Victory: Nikke and Nier: Automata is now live! Both Goddess of Victory: Nikke (or Nikke for short) and Nier: Automata have not been short of collaboration events with other franchises, such as Chainsaw Man with Nikke, or Nier: Automata with even more ridiculous crossovers like Rainbow Six: Siege, PUBG, and Fall Guys. However, both games might have found a match made in heaven with what might be the most sensical crossover yet, featuring very similar themes: sexy girls fighting aliens and robots.

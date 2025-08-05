@@ -1,12 +1,20 @@
 ---
-title: "A post-apocalyptic world overrun by advanced nanomachines | First Impressions - SYNCED"
-description: "SYNCED is a looter shooter with a gameplay that revolves around players venturing into the semi-open world to clear out increasingly challenging segments that are infested with nano creatures. These missions culminate in intense boss fights that require teamwork, strategy, and coordination when in team-based mode, but the game is also viable when played Solo, such is my experience for the majority of my PvE playthrough."
-pubDate: 2023-09-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "synced"]
+author: lyndonguitar
+category: Review
+description: SYNCED is a looter shooter with a gameplay that revolves around players
+  venturing into the semi-open world to clear out increasingly challenging segments
+  that are infested with nano creatures. These missions culminate in intense boss
+  fights that require teamwork, strategy, and coordination when in team-based mode,
+  but the game is also viable when played Solo, such is my experience for the majority
+  of my PvE playthrough.
 featured: false
-thumb: ""
+pubDate: 2023-09-07
+tags:
+- taptap
+- synced
+thumb: ''
+title: A post-apocalyptic world overrun by advanced nanomachines | First Impressions
+  - SYNCED
 ---
 
 SYNCED is a looter shooter with a gameplay that revolves around players venturing into the semi-open world to clear out increasingly challenging segments that are infested with nano creatures. These missions culminate in intense boss fights that require teamwork, strategy, and coordination when in team-based mode, but the game is also viable when played Solo, such is my experience for the majority of my PvE playthrough.

@@ -1,12 +1,17 @@
 ---
-title: "A beautiful coop game, designed to be played in singleplayer | Full Review - Bayonetta Origins"
-description: "Bayonetta Origins: Cereza and the Lost Demon is a brand new adventure game with puzzle elements, and a cooperative experience designed to be played in single player."
-pubDate: 2023-03-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "bayonetta-origins:-cereza-and-the-lost-demon"]
+author: lyndonguitar
+category: Review
+description: 'Bayonetta Origins: Cereza and the Lost Demon is a brand new adventure
+  game with puzzle elements, and a cooperative experience designed to be played in
+  single player.'
 featured: false
-thumb: "/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-0.avif"
+pubDate: 2023-03-20
+tags:
+- taptap
+- bayonetta-origins:-cereza-and-the-lost-demon
+thumb: /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-0.avif
+title: A beautiful coop game, designed to be played in singleplayer | Full Review
+  - Bayonetta Origins
 ---
 
 <div class="gallery">

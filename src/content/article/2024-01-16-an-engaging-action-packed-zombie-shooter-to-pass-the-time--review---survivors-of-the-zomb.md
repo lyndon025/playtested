@@ -1,12 +1,16 @@
 ---
-title: "An engaging, action-packed zombie shooter to pass the time | Review - Survivors Of The Zombie World"
-description: "Survivors Of The Zombie World"
-pubDate: 2024-01-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "survivors-of-the-zombie-world"]
+author: lyndonguitar
+category: Review
+description: Survivors Of The Zombie World
 featured: false
-thumb: "/images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-0.avif"
+pubDate: 2024-01-16
+score: 8.0
+tags:
+- taptap
+- survivors-of-the-zombie-world
+thumb: /images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-0.avif
+title: An engaging, action-packed zombie shooter to pass the time | Review - Survivors
+  Of The Zombie World
 ---
 
 <div class="gallery">

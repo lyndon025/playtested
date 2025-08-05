@@ -1,12 +1,15 @@
 ---
-title: "The upcoming CBT comes with contests and prizes | Zenless Zone Zero - Everything you need to know"
-description: "Zenless Zone ZeroGlobal"
-pubDate: 2023-11-06
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "zenless-zone-zero"]
+author: lyndonguitar
+category: Review
+description: Zenless Zone ZeroGlobal
 featured: false
-thumb: "/images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--0.avif"
+pubDate: 2023-11-06
+tags:
+- taptap
+- zenless-zone-zero
+thumb: /images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--0.avif
+title: The upcoming CBT comes with contests and prizes | Zenless Zone Zero - Everything
+  you need to know
 ---
 
 <div class="gallery">

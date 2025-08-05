@@ -1,12 +1,17 @@
 ---
-title: "Get cozy, or go on an adventure | Aka - Review"
-description: "Ever watched a slice-of-life anime and wished “I would love to be transported to that world and just live in peace”? Well, this brand new game titled Aka can allow you to virtually fulfill that wish. You can go on an adventure, explore the world, or maybe just settle peacefully and find inner peace."
-pubDate: 2022-12-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "aka"]
+author: lyndonguitar
+category: Review
+description: Ever watched a slice-of-life anime and wished “I would love to be transported
+  to that world and just live in peace”? Well, this brand new game titled Aka can
+  allow you to virtually fulfill that wish. You can go on an adventure, explore the
+  world, or maybe just settle peacefully and find inner peace.
 featured: false
-thumb: "/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-0.avif"
+pubDate: 2022-12-15
+tags:
+- taptap
+- aka
+thumb: /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-0.avif
+title: Get cozy, or go on an adventure | Aka - Review
 ---
 
 <div class="gallery">

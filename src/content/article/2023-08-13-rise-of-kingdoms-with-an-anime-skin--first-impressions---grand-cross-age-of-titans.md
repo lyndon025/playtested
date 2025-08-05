@@ -1,12 +1,21 @@
 ---
-title: "Rise of Kingdoms, with an anime skin? | First Impressions - Grand Cross: Age of Titans"
-description: "Grand Cross: Age of Titans introduces an intriguing twist to the isekai formula by blending it with city-building MMORTS gameplay. The game starts off feeling like a RPG gacha game, with all the isekai, anime, and waifu elements you’d normally see in a RPG game, but in actuality it is a city-builder strategy game extremely similar to Rise of Kingdoms, with the option to venture out in the MMORTS-esque overworld map, explore, mine resources, attack monsters, and team-up or clash against other cities."
-pubDate: 2023-08-13
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "grand-cross-:-age-of-titans"]
+author: lyndonguitar
+category: Review
+description: 'Grand Cross: Age of Titans introduces an intriguing twist to the isekai
+  formula by blending it with city-building MMORTS gameplay. The game starts off feeling
+  like a RPG gacha game, with all the isekai, anime, and waifu elements you’d normally
+  see in a RPG game, but in actuality it is a city-builder strategy game extremely
+  similar to Rise of Kingdoms, with the option to venture out in the MMORTS-esque
+  overworld map, explore, mine resources, attack monsters, and team-up or clash against
+  other cities.'
 featured: false
-thumb: ""
+pubDate: 2023-08-13
+tags:
+- taptap
+- grand-cross-:-age-of-titans
+thumb: ''
+title: 'Rise of Kingdoms, with an anime skin? | First Impressions - Grand Cross: Age
+  of Titans'
 ---
 
 Grand Cross: Age of Titans introduces an intriguing twist to the isekai formula by blending it with city-building MMORTS gameplay. The game starts off feeling like a RPG gacha game, with all the isekai, anime, and waifu elements you’d normally see in a RPG game, but in actuality it is a city-builder strategy game extremely similar to Rise of Kingdoms, with the option to venture out in the MMORTS-esque overworld map, explore, mine resources, attack monsters, and team-up or clash against other cities.

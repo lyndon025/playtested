@@ -1,12 +1,16 @@
 ---
-title: "Just one run of the demo and i’m completely sold, now on PC+Mobile (Cloud) | Pesticide Not Required"
-description: "Pesticide Not Required"
-pubDate: 2023-12-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "pesticide-not-required:-prologue"]
+author: lyndonguitar
+category: Review
+description: Pesticide Not Required
 featured: false
-thumb: "/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-0.avif"
+pubDate: 2023-12-22
+score: 9.0
+tags:
+- taptap
+- pesticide-not-required:-prologue
+thumb: /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-0.avif
+title: Just one run of the demo and i’m completely sold, now on PC+Mobile (Cloud)
+  | Pesticide Not Required
 ---
 
 <div class="gallery">

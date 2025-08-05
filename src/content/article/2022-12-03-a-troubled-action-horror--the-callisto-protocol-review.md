@@ -1,12 +1,18 @@
 ---
-title: "A troubled action horror | The Callisto Protocol Review"
-description: "The heir apparent to the Dead Space series is now here. The Callisto Protocol is a great game and a worthy spiritual successor to the Dead Space series, but it's sadly disappointing to have such major performance issues on PC. With the full remake of the original Dead Space looming on the horizon, its now or never for The Callisto Protocol to impress us."
-pubDate: 2022-12-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-callisto-protocol™"]
+author: lyndonguitar
+category: Review
+description: The heir apparent to the Dead Space series is now here. The Callisto
+  Protocol is a great game and a worthy spiritual successor to the Dead Space series,
+  but it's sadly disappointing to have such major performance issues on PC. With the
+  full remake of the original Dead Space looming on the horizon, its now or never
+  for The Callisto Protocol to impress us.
 featured: false
-thumb: "/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-0.avif"
+pubDate: 2022-12-03
+tags:
+- taptap
+- the-callisto-protocol™
+thumb: /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-0.avif
+title: A troubled action horror | The Callisto Protocol Review
 ---
 
 <div class="gallery">

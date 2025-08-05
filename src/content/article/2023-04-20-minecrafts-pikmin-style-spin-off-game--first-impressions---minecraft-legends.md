@@ -1,12 +1,14 @@
 ---
-title: "Minecraft's Pikmin-style spin-off game | First Impressions - Minecraft Legends"
-description: "Minecraft Legends"
-pubDate: 2023-04-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "minecraft-legends"]
+author: lyndonguitar
+category: Review
+description: Minecraft Legends
 featured: false
-thumb: "/images/reviews/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-0.avif"
+pubDate: 2023-04-20
+tags:
+- taptap
+- minecraft-legends
+thumb: /images/reviews/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-0.avif
+title: Minecraft's Pikmin-style spin-off game | First Impressions - Minecraft Legends
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "Truly an innovative musical game experience | First Impressions - One Hand Clapping"
-description: "One Hand Clapping"
-pubDate: 2023-04-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ohc"]
+author: lyndonguitar
+category: Review
+description: One Hand Clapping
 featured: false
-thumb: "/images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-0.avif"
+pubDate: 2023-04-28
+tags:
+- taptap
+- ohc
+thumb: /images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-0.avif
+title: Truly an innovative musical game experience | First Impressions - One Hand
+  Clapping
 ---
 
 <div class="gallery">

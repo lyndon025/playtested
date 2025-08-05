@@ -1,12 +1,17 @@
 ---
-title: "A mysterious space-opera themed indie masterpiece | Full Review - Crying Suns"
-description: "Crying Suns is a tactical rogue-lite strategy game with heavy narrative elements and a focus on exploration. It was originally released on PCs but has now since been ported to the Mobile platform. For this article I will be playing the mobile version."
-pubDate: 2023-04-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "crying-suns"]
+author: lyndonguitar
+category: Review
+description: Crying Suns is a tactical rogue-lite strategy game with heavy narrative
+  elements and a focus on exploration. It was originally released on PCs but has now
+  since been ported to the Mobile platform. For this article I will be playing the
+  mobile version.
 featured: false
-thumb: "/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif"
+pubDate: 2023-04-03
+tags:
+- taptap
+- crying-suns
+thumb: /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif
+title: A mysterious space-opera themed indie masterpiece | Full Review - Crying Suns
 ---
 
 <div class="gallery">

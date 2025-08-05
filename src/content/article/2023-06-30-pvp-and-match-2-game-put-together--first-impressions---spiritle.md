@@ -1,12 +1,19 @@
 ---
-title: "PvP and match-2 game put together | First Impressions - Spiritle"
-description: "Spiritle features a story premise that revolves around spirits and the 4 elements: Nature, Earth, Water and Fire, and shines in its art style, featuring a charming and cartoonish paint-like aesthetic. The characters and overall visual design are appealing, however, beyond the introduction story, the lore is practically non-existent, as it is actually a competitive Match-2 game with a focus on PvP battles. The game is free to play, with only cosmetics as in-app purchases."
-pubDate: 2023-06-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "spiritle"]
+author: lyndonguitar
+category: Review
+description: 'Spiritle features a story premise that revolves around spirits and the
+  4 elements: Nature, Earth, Water and Fire, and shines in its art style, featuring
+  a charming and cartoonish paint-like aesthetic. The characters and overall visual
+  design are appealing, however, beyond the introduction story, the lore is practically
+  non-existent, as it is actually a competitive Match-2 game with a focus on PvP battles.
+  The game is free to play, with only cosmetics as in-app purchases.'
 featured: false
-thumb: ""
+pubDate: 2023-06-30
+tags:
+- taptap
+- spiritle
+thumb: ''
+title: PvP and match-2 game put together | First Impressions - Spiritle
 ---
 
 Spiritle features a story premise that revolves around spirits and the 4 elements: Nature, Earth, Water and Fire, and shines in its art style, featuring a charming and cartoonish paint-like aesthetic. The characters and overall visual design are appealing, however, beyond the introduction story, the lore is practically non-existent, as it is actually a competitive Match-2 game with a focus on PvP battles. The game is free to play, with only cosmetics as in-app purchases.

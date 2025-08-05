@@ -1,12 +1,17 @@
 ---
-title: "A classic PS2/PSP game that made its makers a JRPG powerhouse | Persona 3 Portable - Review"
-description: "A classic JRPG from the PS2 and PSP era has now been brought forward in time, re-released and remastered for modern systems, and in my opinion, they ported the wrong version."
-pubDate: 2023-01-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "persona-3-portable"]
+author: lyndonguitar
+category: Review
+description: A classic JRPG from the PS2 and PSP era has now been brought forward
+  in time, re-released and remastered for modern systems, and in my opinion, they
+  ported the wrong version.
 featured: false
-thumb: "/images/reviews/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-0.avif"
+pubDate: 2023-01-20
+tags:
+- taptap
+- persona-3-portable
+thumb: /images/reviews/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-0.avif
+title: A classic PS2/PSP game that made its makers a JRPG powerhouse | Persona 3 Portable
+  - Review
 ---
 
 <div class="gallery">

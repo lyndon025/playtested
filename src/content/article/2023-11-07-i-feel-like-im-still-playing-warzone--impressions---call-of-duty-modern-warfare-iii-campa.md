@@ -1,12 +1,21 @@
 ---
-title: "I feel like I’m still playing Warzone | Impressions - Call of Duty: Modern Warfare III Campaign"
-description: "Call of Duty campaigns have consistently been celebrated as exceptional single-player experiences, distinct and detached from the intense multiplayer gameplay for which the franchise is also renowned for. These campaigns offer players a gripping narrative, often set in diverse and immersive environments, replete with cinematic moments and heart-pounding action. They serve as an excellent showcase of the franchise's dedication to delivering compelling storytelling, character development, and thrilling set pieces."
-pubDate: 2023-11-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "call-of-duty®:-warzone™"]
+author: lyndonguitar
+category: Review
+description: Call of Duty campaigns have consistently been celebrated as exceptional
+  single-player experiences, distinct and detached from the intense multiplayer gameplay
+  for which the franchise is also renowned for. These campaigns offer players a gripping
+  narrative, often set in diverse and immersive environments, replete with cinematic
+  moments and heart-pounding action. They serve as an excellent showcase of the franchise's
+  dedication to delivering compelling storytelling, character development, and thrilling
+  set pieces.
 featured: false
-thumb: ""
+pubDate: 2023-11-07
+tags:
+- taptap
+- call-of-duty®:-warzone™
+thumb: ''
+title: 'I feel like I’m still playing Warzone | Impressions - Call of Duty: Modern
+  Warfare III Campaign'
 ---
 
 Call of Duty campaigns have consistently been celebrated as exceptional single-player experiences, distinct and detached from the intense multiplayer gameplay for which the franchise is also renowned for. These campaigns offer players a gripping narrative, often set in diverse and immersive environments, replete with cinematic moments and heart-pounding action. They serve as an excellent showcase of the franchise's dedication to delivering compelling storytelling, character development, and thrilling set pieces.

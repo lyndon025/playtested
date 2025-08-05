@@ -1,12 +1,18 @@
 ---
-title: "The rising popularity of boomer shooters continues | First Impressions - Turbo Overkill"
-description: "Turbo Overkill is a high-octane first-person shooter that blends the intense bullet-hell and high speed action of retro titles like Doom and Quake with a cyberpunk aesthetic. The game thrusts players into a dystopian future where advanced technology and chaos converge."
-pubDate: 2023-08-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "turbo-overkill"]
+author: lyndonguitar
+category: Review
+description: Turbo Overkill is a high-octane first-person shooter that blends the
+  intense bullet-hell and high speed action of retro titles like Doom and Quake with
+  a cyberpunk aesthetic. The game thrusts players into a dystopian future where advanced
+  technology and chaos converge.
 featured: false
-thumb: ""
+pubDate: 2023-08-15
+tags:
+- taptap
+- turbo-overkill
+thumb: ''
+title: The rising popularity of boomer shooters continues | First Impressions - Turbo
+  Overkill
 ---
 
 Turbo Overkill is a high-octane first-person shooter that blends the intense bullet-hell and high speed action of retro titles like Doom and Quake with a cyberpunk aesthetic. The game thrusts players into a dystopian future where advanced technology and chaos converge.

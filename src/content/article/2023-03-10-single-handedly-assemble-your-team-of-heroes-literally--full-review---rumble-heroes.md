@@ -1,12 +1,16 @@
 ---
-title: "Single-handedly assemble your team of heroes, literally | Full Review - Rumble Heroes"
-description: "Rumble Heroes : Adventure RPG is a free-to-play mobile RPG where players control a ragtag team of heroes looking to save the princess."
-pubDate: 2023-03-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "adventure-rpg"]
+author: lyndonguitar
+category: Review
+description: 'Rumble Heroes : Adventure RPG is a free-to-play mobile RPG where players
+  control a ragtag team of heroes looking to save the princess.'
 featured: false
-thumb: "/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-0.avif"
+pubDate: 2023-03-10
+tags:
+- taptap
+- adventure-rpg
+thumb: /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-0.avif
+title: Single-handedly assemble your team of heroes, literally | Full Review - Rumble
+  Heroes
 ---
 
 <div class="gallery">

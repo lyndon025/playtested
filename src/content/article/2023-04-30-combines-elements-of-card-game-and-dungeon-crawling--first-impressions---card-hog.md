@@ -1,12 +1,15 @@
 ---
-title: "Combines elements of card game and dungeon crawling | First Impressions - Card Hog"
-description: "Card Hog - Dungeon Crawler"
-pubDate: 2023-04-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dungeon-crawler"]
+author: lyndonguitar
+category: Review
+description: Card Hog - Dungeon Crawler
 featured: false
-thumb: "/images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif"
+pubDate: 2023-04-30
+tags:
+- taptap
+- dungeon-crawler
+thumb: /images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif
+title: Combines elements of card game and dungeon crawling | First Impressions - Card
+  Hog
 ---
 
 <div class="gallery">

@@ -1,12 +1,16 @@
 ---
-title: "Seamlessly integrates with the existing Warframe ecosystem | Review - Warframe Mobile"
-description: "Warframe"
-pubDate: 2024-02-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "genshin-impact"]
+author: lyndonguitar
+category: Review
+description: Warframe
 featured: false
-thumb: "/images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-0.avif"
+pubDate: 2024-02-22
+score: 9.0
+tags:
+- taptap
+- genshin-impact
+thumb: /images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-0.avif
+title: Seamlessly integrates with the existing Warframe ecosystem | Review - Warframe
+  Mobile
 ---
 
 <div class="gallery">

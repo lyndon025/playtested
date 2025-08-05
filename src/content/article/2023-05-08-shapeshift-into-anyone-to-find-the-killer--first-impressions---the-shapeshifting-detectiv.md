@@ -1,12 +1,15 @@
 ---
-title: "Shapeshift into anyone to find the killer | First Impressions - The Shapeshifting Detective"
-description: "The Shapeshifting Detective"
-pubDate: 2023-05-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-shapeshifting-detective"]
+author: lyndonguitar
+category: Review
+description: The Shapeshifting Detective
 featured: false
-thumb: "/images/reviews/2023-05-08-shapeshift-into-anyone-to-find-the-killer--first-impressions---the-shapeshifting-detectiv-0.avif"
+pubDate: 2023-05-08
+tags:
+- taptap
+- the-shapeshifting-detective
+thumb: /images/reviews/2023-05-08-shapeshift-into-anyone-to-find-the-killer--first-impressions---the-shapeshifting-detectiv-0.avif
+title: Shapeshift into anyone to find the killer | First Impressions - The Shapeshifting
+  Detective
 ---
 
 <div class="gallery">

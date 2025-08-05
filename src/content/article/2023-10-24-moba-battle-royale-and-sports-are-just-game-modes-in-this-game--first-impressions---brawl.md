@@ -1,12 +1,19 @@
 ---
-title: "MOBA, Battle Royale, and Sports are just game modes in this game | First Impressions - Brawl Stars"
-description: "Brawl Stars offers a unique blend of strategy and action. Players control Brawlers, characters with unique quirky abilities, and can team-up with others in various game modes, each one having a different objective. From battle royale style of gameplay to sports-like team-based matches, Players can invite friends to play with them up to the maximum team size of the game mode."
-pubDate: 2023-10-24
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "brawl-stars"]
+author: lyndonguitar
+category: Review
+description: Brawl Stars offers a unique blend of strategy and action. Players control
+  Brawlers, characters with unique quirky abilities, and can team-up with others in
+  various game modes, each one having a different objective. From battle royale style
+  of gameplay to sports-like team-based matches, Players can invite friends to play
+  with them up to the maximum team size of the game mode.
 featured: false
-thumb: ""
+pubDate: 2023-10-24
+tags:
+- taptap
+- brawl-stars
+thumb: ''
+title: MOBA, Battle Royale, and Sports are just game modes in this game | First Impressions
+  - Brawl Stars
 ---
 
 Brawl Stars offers a unique blend of strategy and action. Players control Brawlers, characters with unique quirky abilities, and can team-up with others in various game modes, each one having a different objective. From battle royale style of gameplay to sports-like team-based matches, Players can invite friends to play with them up to the maximum team size of the game mode.

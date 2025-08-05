@@ -1,12 +1,15 @@
 ---
-title: "A charming and fun action-strategy Minecraft spin-off | Full Review - Minecraft Legends"
-description: "Minecraft Legends"
-pubDate: 2023-04-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "minecraft-legends"]
+author: lyndonguitar
+category: Review
+description: Minecraft Legends
 featured: false
-thumb: "/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-0.avif"
+pubDate: 2023-04-21
+tags:
+- taptap
+- minecraft-legends
+thumb: /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-0.avif
+title: A charming and fun action-strategy Minecraft spin-off | Full Review - Minecraft
+  Legends
 ---
 
 <div class="gallery">

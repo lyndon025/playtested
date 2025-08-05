@@ -1,12 +1,16 @@
 ---
-title: "A deeply disturbing connect the dots Sniper game | Review - Children of the Sun Demo"
-description: "Children of the Sun"
-pubDate: 2024-02-04
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "children-of-the-sun"]
+author: lyndonguitar
+category: Review
+description: Children of the Sun
 featured: false
-thumb: "/images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-0.avif"
+pubDate: 2024-02-04
+score: 8.0
+tags:
+- taptap
+- children-of-the-sun
+thumb: /images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-0.avif
+title: A deeply disturbing connect the dots Sniper game | Review - Children of the
+  Sun Demo
 ---
 
 <div class="gallery">

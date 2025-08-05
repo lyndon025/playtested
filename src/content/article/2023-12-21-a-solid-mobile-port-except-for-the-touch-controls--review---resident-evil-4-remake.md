@@ -1,12 +1,16 @@
 ---
-title: "A solid mobile port, except for the touch controls | Review - Resident Evil 4 Remake"
-description: "Resident Evil 4Global"
-pubDate: 2023-12-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "resident-evil-4-(2005)"]
+author: lyndonguitar
+category: Review
+description: Resident Evil 4Global
 featured: false
-thumb: "/images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-0.avif"
+pubDate: 2023-12-21
+score: 7.0
+tags:
+- taptap
+- resident-evil-4-(2005)
+thumb: /images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-0.avif
+title: A solid mobile port, except for the touch controls | Review - Resident Evil
+  4 Remake
 ---
 
 <div class="gallery">

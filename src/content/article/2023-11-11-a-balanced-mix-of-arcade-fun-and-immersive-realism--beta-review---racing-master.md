@@ -1,12 +1,14 @@
 ---
-title: "A balanced mix of arcade fun and immersive realism | Beta Review - Racing Master"
-description: "Racing MasterTest SEA"
-pubDate: 2023-11-11
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "forza-horizon-5"]
+author: lyndonguitar
+category: Review
+description: Racing MasterTest SEA
 featured: false
-thumb: "/images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-0.avif"
+pubDate: 2023-11-11
+tags:
+- taptap
+- forza-horizon-5
+thumb: /images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-0.avif
+title: A balanced mix of arcade fun and immersive realism | Beta Review - Racing Master
 ---
 
 <div class="gallery">

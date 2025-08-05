@@ -1,12 +1,17 @@
 ---
-title: "It’s impossible not to die too many times in this Metroidvania game | Full Review - Elderand"
-description: "There’s been a resurgence of Metroidvania games lately, and it’s not stopping anytime soon. Elderand is another addition to the growing list, and it is not for the faint of heart, both with regard to gameplay and theme."
-pubDate: 2023-02-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "elderand"]
+author: lyndonguitar
+category: Review
+description: There’s been a resurgence of Metroidvania games lately, and it’s not
+  stopping anytime soon. Elderand is another addition to the growing list, and it
+  is not for the faint of heart, both with regard to gameplay and theme.
 featured: false
-thumb: "/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-0.avif"
+pubDate: 2023-02-19
+tags:
+- taptap
+- elderand
+thumb: /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-0.avif
+title: It’s impossible not to die too many times in this Metroidvania game | Full
+  Review - Elderand
 ---
 
 <div class="gallery">

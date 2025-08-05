@@ -1,12 +1,18 @@
 ---
-title: "Gruesome vegetables, scary dogs, and creepy dentists | NeverAwake - Review"
-description: "NeverAwake is a twin-stick shooter, but it’s also a single-stick shooter. It’s a side-scrolling game, but it’s also a vertical scroller. It’s sleek and flashy, but also gruesome and messy. This duality approach might seem like a genre identity issue for NeverAwake, but really, it is a unique fresh take on the shoot ‘em up genre."
-pubDate: 2023-01-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "neverawake"]
+author: lyndonguitar
+category: Review
+description: NeverAwake is a twin-stick shooter, but it’s also a single-stick shooter.
+  It’s a side-scrolling game, but it’s also a vertical scroller. It’s sleek and flashy,
+  but also gruesome and messy. This duality approach might seem like a genre identity
+  issue for NeverAwake, but really, it is a unique fresh take on the shoot ‘em up
+  genre.
 featured: false
-thumb: "/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-0.avif"
+pubDate: 2023-01-19
+tags:
+- taptap
+- neverawake
+thumb: /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-0.avif
+title: Gruesome vegetables, scary dogs, and creepy dentists | NeverAwake - Review
 ---
 
 <div class="gallery">

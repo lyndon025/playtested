@@ -1,12 +1,18 @@
 ---
-title: "Fight of Characters is back?!? | First Impressions - JUMP: Assemble (Beta Test)"
-description: "More than 10 years ago, me and my friends used to play this popular Warcraft III mod called 'Fight of Characters'. It's basically a Dota/MOBA like game that instead features popular characters from popular Animes such as Dragon Ball, One Piece, Naruto, and more."
-pubDate: 2023-10-14
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "jump:-assemble"]
+author: lyndonguitar
+category: Review
+description: More than 10 years ago, me and my friends used to play this popular Warcraft
+  III mod called 'Fight of Characters'. It's basically a Dota/MOBA like game that
+  instead features popular characters from popular Animes such as Dragon Ball, One
+  Piece, Naruto, and more.
 featured: false
-thumb: ""
+pubDate: 2023-10-14
+tags:
+- taptap
+- jump:-assemble
+thumb: ''
+title: 'Fight of Characters is back?!? | First Impressions - JUMP: Assemble (Beta
+  Test)'
 ---
 
 More than 10 years ago, me and my friends used to play this popular Warcraft III mod called "Fight of Characters". It's basically a Dota/MOBA like game that instead features popular characters from popular Animes such as Dragon Ball, One Piece, Naruto, and more.

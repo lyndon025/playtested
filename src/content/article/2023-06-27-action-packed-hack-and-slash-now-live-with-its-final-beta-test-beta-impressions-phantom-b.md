@@ -1,12 +1,18 @@
 ---
-title: "Action-packed hack and slash now live with its final beta test!| Beta Impressions: Phantom Blade: EX"
-description: "Phantom Blade: Executioners offers a fast-paced experience that requires players to utilize two-button abilities along with dodge/roll, jump, and parry/block actions. The game provides a plethora of unlockable abilities/skills that can be mixed, matched, and synergized to create amazing combos."
-pubDate: 2023-06-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "phantom-blade:-executioners"]
+author: lyndonguitar
+category: Review
+description: 'Phantom Blade: Executioners offers a fast-paced experience that requires
+  players to utilize two-button abilities along with dodge/roll, jump, and parry/block
+  actions. The game provides a plethora of unlockable abilities/skills that can be
+  mixed, matched, and synergized to create amazing combos.'
 featured: false
-thumb: ""
+pubDate: 2023-06-27
+tags:
+- taptap
+- phantom-blade:-executioners
+thumb: ''
+title: 'Action-packed hack and slash now live with its final beta test!| Beta Impressions:
+  Phantom Blade: EX'
 ---
 
 Phantom Blade: Executioners offers a fast-paced experience that requires players to utilize two-button abilities along with dodge/roll, jump, and parry/block actions. The game provides a plethora of unlockable abilities/skills that can be mixed, matched, and synergized to create amazing combos.

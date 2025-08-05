@@ -1,12 +1,15 @@
 ---
-title: "Great compilation, but leans too heavily on gacha | Full Review - Final Fantasy VII: Ever Crisis"
-description: "FINAL FANTASY VII EVER CRISIS"
-pubDate: 2023-09-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "final-fantasy-vii-ever-crisis"]
+author: lyndonguitar
+category: Review
+description: FINAL FANTASY VII EVER CRISIS
 featured: false
-thumb: "/images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-0.avif"
+pubDate: 2023-09-08
+tags:
+- taptap
+- final-fantasy-vii-ever-crisis
+thumb: /images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-0.avif
+title: 'Great compilation, but leans too heavily on gacha | Full Review - Final Fantasy
+  VII: Ever Crisis'
 ---
 
 <div class="gallery">

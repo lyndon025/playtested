@@ -1,12 +1,17 @@
 ---
-title: "A retro-style JRPG with an intriguing story | Asdivine Saga - First Impressions"
-description: "Asdivine Saga is the latest standalone entry in the somewhat popular and at the same time obscure retro-style JRPG series Asdivine. While made primarily for and popular on mobile platforms, most of the games were also released on PC and consoles but turned out not quite as popular."
-pubDate: 2023-02-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "[premium]-rpg-asdivine-saga"]
+author: lyndonguitar
+category: Review
+description: Asdivine Saga is the latest standalone entry in the somewhat popular
+  and at the same time obscure retro-style JRPG series Asdivine. While made primarily
+  for and popular on mobile platforms, most of the games were also released on PC
+  and consoles but turned out not quite as popular.
 featured: false
-thumb: "/images/reviews/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-0.avif"
+pubDate: 2023-02-03
+tags:
+- taptap
+- '[premium]-rpg-asdivine-saga'
+thumb: /images/reviews/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-0.avif
+title: A retro-style JRPG with an intriguing story | Asdivine Saga - First Impressions
 ---
 
 <div class="gallery">

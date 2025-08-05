@@ -1,12 +1,15 @@
 ---
-title: "A frantic dance of survival, cooperation, and resource management | Early Review - Lethal Company"
-description: "✨Overview"
-pubDate: 2023-11-23
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "lethal-company"]
+author: lyndonguitar
+category: Review
+description: ✨Overview
 featured: false
-thumb: "/images/reviews/2023-11-23-a-frantic-dance-of-survival-cooperation-and-resource-management--early-review---lethal-co-0.avif"
+pubDate: 2023-11-23
+tags:
+- taptap
+- lethal-company
+thumb: /images/reviews/2023-11-23-a-frantic-dance-of-survival-cooperation-and-resource-management--early-review---lethal-co-0.avif
+title: A frantic dance of survival, cooperation, and resource management | Early Review
+  - Lethal Company
 ---
 
 <div class="gallery">

@@ -1,12 +1,19 @@
 ---
-title: "A waifu rogue-like strategy WITHOUT gacha elements! | First Impressions - Prime of Flames"
-description: "Prime of Flames is an roguelike strategy game that seamlessly blends elements of turn-based strategy and party role-playing elements, creating a captivating gameplay experience. Developed by Indie devs Rayka Studio, this title offers a plethora of engaging features, diverse character choices, and waifu characters. Surprisingly, it’s not a gacha game!"
-pubDate: 2023-05-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "prime-of-flames"]
+author: lyndonguitar
+category: Review
+description: Prime of Flames is an roguelike strategy game that seamlessly blends
+  elements of turn-based strategy and party role-playing elements, creating a captivating
+  gameplay experience. Developed by Indie devs Rayka Studio, this title offers a plethora
+  of engaging features, diverse character choices, and waifu characters. Surprisingly,
+  it’s not a gacha game!
 featured: false
-thumb: ""
+pubDate: 2023-05-30
+tags:
+- taptap
+- prime-of-flames
+thumb: ''
+title: A waifu rogue-like strategy WITHOUT gacha elements! | First Impressions - Prime
+  of Flames
 ---
 
 Prime of Flames is an roguelike strategy game that seamlessly blends elements of turn-based strategy and party role-playing elements, creating a captivating gameplay experience. Developed by Indie devs Rayka Studio, this title offers a plethora of engaging features, diverse character choices, and waifu characters. Surprisingly, it’s not a gacha game!

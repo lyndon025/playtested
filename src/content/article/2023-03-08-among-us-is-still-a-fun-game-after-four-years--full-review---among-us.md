@@ -1,12 +1,15 @@
 ---
-title: "Among Us is still a fun game after four years | Full Review - Among Us"
-description: "Among Us is a multiplayer deduction party game set on a spaceship where players take on the role of either a Crewmate or a killer Impostor."
-pubDate: 2023-03-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "among-us"]
+author: lyndonguitar
+category: Review
+description: Among Us is a multiplayer deduction party game set on a spaceship where
+  players take on the role of either a Crewmate or a killer Impostor.
 featured: false
-thumb: "/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-0.avif"
+pubDate: 2023-03-08
+tags:
+- taptap
+- among-us
+thumb: /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-0.avif
+title: Among Us is still a fun game after four years | Full Review - Among Us
 ---
 
 <div class="gallery">

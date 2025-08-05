@@ -1,12 +1,17 @@
 ---
-title: "A strategy rogue-lite with an emerging dynamic storyline | First Impressions - Crying Suns"
-description: "Crying Suns' narrative themes are boasted as having been inspired by Dune and Foundation, in which for any hardcore sci-fi fans, know that this is probably two of the best source materials a story could be inspired by."
-pubDate: 2023-04-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "crying-suns"]
+author: lyndonguitar
+category: Review
+description: Crying Suns' narrative themes are boasted as having been inspired by
+  Dune and Foundation, in which for any hardcore sci-fi fans, know that this is probably
+  two of the best source materials a story could be inspired by.
 featured: false
-thumb: "/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-0.avif"
+pubDate: 2023-04-02
+tags:
+- taptap
+- crying-suns
+thumb: /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-0.avif
+title: A strategy rogue-lite with an emerging dynamic storyline | First Impressions
+  - Crying Suns
 ---
 
 <div class="gallery">

@@ -1,12 +1,18 @@
 ---
-title: "Retro dungeon crawling RPG and tower defense fused together | First Impressions - Dwerve"
-description: "Dwerve is a captivating blend of retro art dungeon crawling RPG and tower defense combat, enveloped in a high fantasy narrative featuring Dwarves, Elves, and Trolls. Recently released for PC, with a mobile version on the horizon, I had the opportunity to test the demo version called Dwerve: Prologue."
-pubDate: 2023-05-27
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dwerve"]
+author: lyndonguitar
+category: Review
+description: 'Dwerve is a captivating blend of retro art dungeon crawling RPG and
+  tower defense combat, enveloped in a high fantasy narrative featuring Dwarves, Elves,
+  and Trolls. Recently released for PC, with a mobile version on the horizon, I had
+  the opportunity to test the demo version called Dwerve: Prologue.'
 featured: false
-thumb: ""
+pubDate: 2023-05-27
+tags:
+- taptap
+- dwerve
+thumb: ''
+title: Retro dungeon crawling RPG and tower defense fused together | First Impressions
+  - Dwerve
 ---
 
 Dwerve is a captivating blend of retro art dungeon crawling RPG and tower defense combat, enveloped in a high fantasy narrative featuring Dwarves, Elves, and Trolls. Recently released for PC, with a mobile version on the horizon, I had the opportunity to test the demo version called Dwerve: Prologue.

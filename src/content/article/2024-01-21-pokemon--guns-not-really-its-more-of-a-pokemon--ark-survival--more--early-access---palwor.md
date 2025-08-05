@@ -1,12 +1,15 @@
 ---
-title: "Pokemon + Guns? Not really, it’s more of a Pokemon + Ark Survival + more | Early Access - Palworld"
-description: "Palworld Mobile"
-pubDate: 2024-01-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "palworld-mobile"]
+author: lyndonguitar
+category: Review
+description: Palworld Mobile
 featured: false
-thumb: "/images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-0.avif"
+pubDate: 2024-01-21
+tags:
+- taptap
+- palworld-mobile
+thumb: /images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-0.avif
+title: Pokemon + Guns? Not really, it’s more of a Pokemon + Ark Survival + more |
+  Early Access - Palworld
 ---
 
 <div class="gallery">

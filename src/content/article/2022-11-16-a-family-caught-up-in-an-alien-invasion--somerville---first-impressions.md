@@ -1,12 +1,21 @@
 ---
-title: "A family caught up in an Alien Invasion | Somerville - First impressions"
-description: "Somerville is a sci-fi adventure / puzzle game where you control a man and his family caught up right in the middle of an alien invasion doomsday scenario. The opening sequence starts relatively slow and gets intense pretty much immediately, perfectly capturing that feeling of being randomly caught up in a sudden alien invasion. There is no dialogue in the game and all of the story is only conveyed through the characters' actions and interactions with the environment, bolstered by the impressive art style and sound design. This is something that is very hard to pull off narratively but Somerville manages to somewhat pull it off anyway."
-pubDate: 2022-11-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "first-impressions"]
+author: lyndonguitar
+category: Review
+description: Somerville is a sci-fi adventure / puzzle game where you control a man
+  and his family caught up right in the middle of an alien invasion doomsday scenario.
+  The opening sequence starts relatively slow and gets intense pretty much immediately,
+  perfectly capturing that feeling of being randomly caught up in a sudden alien invasion.
+  There is no dialogue in the game and all of the story is only conveyed through the
+  characters' actions and interactions with the environment, bolstered by the impressive
+  art style and sound design. This is something that is very hard to pull off narratively
+  but Somerville manages to somewhat pull it off anyway.
 featured: false
-thumb: "/images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-0.avif"
+pubDate: 2022-11-16
+tags:
+- taptap
+- first-impressions
+thumb: /images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-0.avif
+title: A family caught up in an Alien Invasion | Somerville - First impressions
 ---
 
 <div class="gallery">

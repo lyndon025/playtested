@@ -1,12 +1,16 @@
 ---
-title: "A visually stunning Gacha RPG | First Impressions - Brown Dust 2"
-description: "Brown Dust 2, the somewhat both direct and spiritual successor to the popular Brave 9 / Brown Dust, takes players on a grander journey filled with time travel, world-traveling elements, and captivating narratives."
-pubDate: 2023-06-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "adventure-rpg"]
+author: lyndonguitar
+category: Review
+description: Brown Dust 2, the somewhat both direct and spiritual successor to the
+  popular Brave 9 / Brown Dust, takes players on a grander journey filled with time
+  travel, world-traveling elements, and captivating narratives.
 featured: false
-thumb: ""
+pubDate: 2023-06-26
+tags:
+- taptap
+- adventure-rpg
+thumb: ''
+title: A visually stunning Gacha RPG | First Impressions - Brown Dust 2
 ---
 
 Brown Dust 2, the somewhat both direct and spiritual successor to the popular Brave 9 / Brown Dust, takes players on a grander journey filled with time travel, world-traveling elements, and captivating narratives.

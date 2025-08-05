@@ -1,12 +1,15 @@
 ---
-title: "An absolute piece of insanity and absurdity | Full Review - We Love Katamari REROLL+ Royal Reverie"
-description: "We Love Katamari REROLL+ Royal Reverie"
-pubDate: 2023-06-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "we-love-katamari-reroll+-royal-reverie"]
+author: lyndonguitar
+category: Review
+description: We Love Katamari REROLL+ Royal Reverie
 featured: false
-thumb: "/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--0.avif"
+pubDate: 2023-06-08
+tags:
+- taptap
+- we-love-katamari-reroll+-royal-reverie
+thumb: /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--0.avif
+title: An absolute piece of insanity and absurdity | Full Review - We Love Katamari
+  REROLL+ Royal Reverie
 ---
 
 <div class="gallery">

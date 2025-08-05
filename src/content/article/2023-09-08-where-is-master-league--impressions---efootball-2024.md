@@ -1,12 +1,18 @@
 ---
-title: "Where is Master League? | Impressions - eFootball 2024"
-description: "eFootball 2024 is the latest yearly iteration of the eFootball series, which was previously known as Pro Evolution Soccer (PES), released for mobile devices, PC, and consoles. The base game is free-to-play, but eFootball 2024 generates revenue through microtransactions. Players have the option to spend real money within the game to purchase various in-game items and content."
-pubDate: 2023-09-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "efootball™"]
+author: lyndonguitar
+category: Review
+description: eFootball 2024 is the latest yearly iteration of the eFootball series,
+  which was previously known as Pro Evolution Soccer (PES), released for mobile devices,
+  PC, and consoles. The base game is free-to-play, but eFootball 2024 generates revenue
+  through microtransactions. Players have the option to spend real money within the
+  game to purchase various in-game items and content.
 featured: false
-thumb: ""
+pubDate: 2023-09-08
+tags:
+- taptap
+- efootball™
+thumb: ''
+title: Where is Master League? | Impressions - eFootball 2024
 ---
 
 eFootball 2024 is the latest yearly iteration of the eFootball series, which was previously known as Pro Evolution Soccer (PES), released for mobile devices, PC, and consoles. The base game is free-to-play, but eFootball 2024 generates revenue through microtransactions. Players have the option to spend real money within the game to purchase various in-game items and content.

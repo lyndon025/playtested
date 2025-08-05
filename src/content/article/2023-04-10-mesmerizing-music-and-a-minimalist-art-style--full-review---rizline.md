@@ -1,12 +1,15 @@
 ---
-title: "Mesmerizing music and a minimalist art style | Full Review - Rizline"
-description: "Rizline is a casual mobile rhythm game with anime-inspired music and a minimalist art style focused on simplistic lines and shapes."
-pubDate: 2023-04-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rizline"]
+author: lyndonguitar
+category: Review
+description: Rizline is a casual mobile rhythm game with anime-inspired music and
+  a minimalist art style focused on simplistic lines and shapes.
 featured: false
-thumb: "/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-0.avif"
+pubDate: 2023-04-10
+tags:
+- taptap
+- rizline
+thumb: /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-0.avif
+title: Mesmerizing music and a minimalist art style | Full Review - Rizline
 ---
 
 <div class="gallery">

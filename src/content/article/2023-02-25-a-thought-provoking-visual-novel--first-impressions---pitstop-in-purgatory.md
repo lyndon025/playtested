@@ -1,12 +1,16 @@
 ---
-title: "A thought provoking visual novel | First Impressions - Pitstop in Purgatory"
-description: "Pitstop in Purgatory is a visual novel and point-and-click adventure hybrid developed by Tymedust Games in a two-month timeframe, which is surprising considering the compelling writing."
-pubDate: 2023-02-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "pitstop-in-purgatory"]
+author: lyndonguitar
+category: Review
+description: Pitstop in Purgatory is a visual novel and point-and-click adventure
+  hybrid developed by Tymedust Games in a two-month timeframe, which is surprising
+  considering the compelling writing.
 featured: false
-thumb: "/images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-0.avif"
+pubDate: 2023-02-25
+tags:
+- taptap
+- pitstop-in-purgatory
+thumb: /images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-0.avif
+title: A thought provoking visual novel | First Impressions - Pitstop in Purgatory
 ---
 
 <div class="gallery">

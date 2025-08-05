@@ -1,12 +1,16 @@
 ---
-title: "Final Fantasy and Pokemon had a baby | First Impressions - Evertale"
-description: "Evertale would probably be an accurate game to show as an example if somebody asked the question, What If Pokemon and Final Fantasy had a child and released it on mobile platforms?"
-pubDate: 2023-03-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "evertale"]
+author: lyndonguitar
+category: Review
+description: Evertale would probably be an accurate game to show as an example if
+  somebody asked the question, What If Pokemon and Final Fantasy had a child and released
+  it on mobile platforms?
 featured: false
-thumb: "/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif"
+pubDate: 2023-03-16
+tags:
+- taptap
+- evertale
+thumb: /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif
+title: Final Fantasy and Pokemon had a baby | First Impressions - Evertale
 ---
 
 <div class="gallery">

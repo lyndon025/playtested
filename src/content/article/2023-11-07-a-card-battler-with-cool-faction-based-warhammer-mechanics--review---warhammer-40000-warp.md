@@ -1,12 +1,16 @@
 ---
-title: "A card battler with cool faction-based Warhammer mechanics | Review - Warhammer 40,000: Warpforge"
-description: "Warhammer 40,000: Warpforge"
-pubDate: 2023-11-07
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "warhammer-40,000:-warpforge"]
+author: lyndonguitar
+category: Review
+description: 'Warhammer 40,000: Warpforge'
 featured: false
-thumb: "/images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-0.avif"
+pubDate: 2023-11-07
+score: 7.0
+tags:
+- taptap
+- warhammer-40,000:-warpforge
+thumb: /images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-0.avif
+title: 'A card battler with cool faction-based Warhammer mechanics | Review - Warhammer
+  40,000: Warpforge'
 ---
 
 <div class="gallery">

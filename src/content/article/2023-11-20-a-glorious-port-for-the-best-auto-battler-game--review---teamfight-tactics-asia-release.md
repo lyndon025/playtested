@@ -1,12 +1,16 @@
 ---
-title: "A glorious port for the best auto-battler game | Review - Teamfight Tactics (Asia Release)"
-description: "TFT: Teamfight TacticsAsia"
-pubDate: 2023-11-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "valorant-mobile"]
+author: lyndonguitar
+category: Review
+description: 'TFT: Teamfight TacticsAsia'
 featured: false
-thumb: "/images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-0.avif"
+pubDate: 2023-11-20
+score: 9.0
+tags:
+- taptap
+- valorant-mobile
+thumb: /images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-0.avif
+title: A glorious port for the best auto-battler game | Review - Teamfight Tactics
+  (Asia Release)
 ---
 
 <div class="gallery">

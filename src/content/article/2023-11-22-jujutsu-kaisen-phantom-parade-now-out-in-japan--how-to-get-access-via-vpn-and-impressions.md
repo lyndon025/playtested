@@ -1,12 +1,17 @@
 ---
-title: "Jujutsu Kaisen: Phantom Parade Now out in Japan! | How to get access via VPN, and Impressions"
-description: "Jujutsu Kaisen: Phantom Parade is finally out now, after a myriad of delays from 2022 to the tail end of 2023, with a limited release yesterday November 21, 2023."
-pubDate: 2023-11-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "jujutsu-kaisen-phantom-parade"]
+author: lyndonguitar
+category: Review
+description: 'Jujutsu Kaisen: Phantom Parade is finally out now, after a myriad of
+  delays from 2022 to the tail end of 2023, with a limited release yesterday November
+  21, 2023.'
 featured: false
-thumb: ""
+pubDate: 2023-11-22
+tags:
+- taptap
+- jujutsu-kaisen-phantom-parade
+thumb: ''
+title: 'Jujutsu Kaisen: Phantom Parade Now out in Japan! | How to get access via VPN,
+  and Impressions'
 ---
 
 Jujutsu Kaisen: Phantom Parade is finally out now, after a myriad of delays from 2022 to the tail end of 2023, with a limited release yesterday November 21, 2023.

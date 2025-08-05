@@ -1,12 +1,19 @@
 ---
-title: "A low stress PvP shooter? | First Impressions - Protectors: Shooter Legends"
-description: "Protectors: Shooter Legends is a free-to-play casual and bite-sized 4v4 multiplayer shooter that captures the essence of quick-paced battles. Set in a futuristic world where humanity thrives after overcoming past struggles, players step into the shoes of unique heroes armed with distinctive guns and abilities. The game boasts a diverse range of exciting game modes and maps and offers 4v4 PvP shooting battles."
-pubDate: 2023-08-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "protectors:-shooter-legends"]
+author: lyndonguitar
+category: Review
+description: 'Protectors: Shooter Legends is a free-to-play casual and bite-sized
+  4v4 multiplayer shooter that captures the essence of quick-paced battles. Set in
+  a futuristic world where humanity thrives after overcoming past struggles, players
+  step into the shoes of unique heroes armed with distinctive guns and abilities.
+  The game boasts a diverse range of exciting game modes and maps and offers 4v4 PvP
+  shooting battles.'
 featured: false
-thumb: ""
+pubDate: 2023-08-15
+tags:
+- taptap
+- protectors:-shooter-legends
+thumb: ''
+title: 'A low stress PvP shooter? | First Impressions - Protectors: Shooter Legends'
 ---
 
 Protectors: Shooter Legends is a free-to-play casual and bite-sized 4v4 multiplayer shooter that captures the essence of quick-paced battles. Set in a futuristic world where humanity thrives after overcoming past struggles, players step into the shoes of unique heroes armed with distinctive guns and abilities. The game boasts a diverse range of exciting game modes and maps and offers 4v4 PvP shooting battles.

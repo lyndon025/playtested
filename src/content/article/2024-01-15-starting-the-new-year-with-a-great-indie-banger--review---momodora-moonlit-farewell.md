@@ -1,12 +1,16 @@
 ---
-title: "Starting the new year with a great indie banger | Review - Momodora: Moonlit Farewell"
-description: "Momodora: Moonlit Farewell"
-pubDate: 2024-01-15
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "momodora:-reverie-under-the-moonlight"]
+author: lyndonguitar
+category: Review
+description: 'Momodora: Moonlit Farewell'
 featured: false
-thumb: "/images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-0.avif"
+pubDate: 2024-01-15
+score: 9.0
+tags:
+- taptap
+- momodora:-reverie-under-the-moonlight
+thumb: /images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-0.avif
+title: 'Starting the new year with a great indie banger | Review - Momodora: Moonlit
+  Farewell'
 ---
 
 <div class="gallery">

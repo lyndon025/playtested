@@ -1,12 +1,16 @@
 ---
-title: "The King of Brawlers is back! | Full Review - Streets of Rage 4"
-description: "Streets of Rage 4 is a side-scrolling retro beat 'em up game that truly captures the essence of the original series while also bringing modern elements to the table."
-pubDate: 2023-03-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "streets-of-rage-4"]
+author: lyndonguitar
+category: Review
+description: Streets of Rage 4 is a side-scrolling retro beat 'em up game that truly
+  captures the essence of the original series while also bringing modern elements
+  to the table.
 featured: false
-thumb: "/images/reviews/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-0.avif"
+pubDate: 2023-03-16
+tags:
+- taptap
+- streets-of-rage-4
+thumb: /images/reviews/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-0.avif
+title: The King of Brawlers is back! | Full Review - Streets of Rage 4
 ---
 
 <div class="gallery">

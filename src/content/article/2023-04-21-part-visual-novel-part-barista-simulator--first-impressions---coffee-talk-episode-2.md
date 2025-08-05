@@ -1,12 +1,15 @@
 ---
-title: "Part-visual novel, part-barista simulator | First Impressions - Coffee Talk Episode 2"
-description: "Coffee Talk Episode 2: Hibiscus & Butterfly"
-pubDate: 2023-04-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "coffee-talk-episode-2:-hibiscus-&-butterfly"]
+author: lyndonguitar
+category: Review
+description: 'Coffee Talk Episode 2: Hibiscus & Butterfly'
 featured: false
-thumb: "/images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-0.avif"
+pubDate: 2023-04-21
+tags:
+- taptap
+- coffee-talk-episode-2:-hibiscus-&-butterfly
+thumb: /images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-0.avif
+title: Part-visual novel, part-barista simulator | First Impressions - Coffee Talk
+  Episode 2
 ---
 
 <div class="gallery">

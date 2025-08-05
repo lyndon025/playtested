@@ -1,12 +1,19 @@
 ---
-title: "A roguelite dungeon crawler shooter with HD-2D visuals | First Impressions - Bibots"
-description: "The gameplay mechanics in Bibots follow a classic twin-stick shooter formula: character movement is controlled using the left stick, while aiming and shooting are executed with the right stick. A well-timed dodge mechanic proves crucial for evading enemy projectiles, and the inclusion of obtainable secondary attacks, like grenades or flying discs, adds tactical depth."
-pubDate: 2023-08-25
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "bibots"]
+author: lyndonguitar
+category: Review
+description: 'The gameplay mechanics in Bibots follow a classic twin-stick shooter
+  formula: character movement is controlled using the left stick, while aiming and
+  shooting are executed with the right stick. A well-timed dodge mechanic proves crucial
+  for evading enemy projectiles, and the inclusion of obtainable secondary attacks,
+  like grenades or flying discs, adds tactical depth.'
 featured: false
-thumb: ""
+pubDate: 2023-08-25
+tags:
+- taptap
+- bibots
+thumb: ''
+title: A roguelite dungeon crawler shooter with HD-2D visuals | First Impressions
+  - Bibots
 ---
 
 The gameplay mechanics in Bibots follow a classic twin-stick shooter formula: character movement is controlled using the left stick, while aiming and shooting are executed with the right stick. A well-timed dodge mechanic proves crucial for evading enemy projectiles, and the inclusion of obtainable secondary attacks, like grenades or flying discs, adds tactical depth.

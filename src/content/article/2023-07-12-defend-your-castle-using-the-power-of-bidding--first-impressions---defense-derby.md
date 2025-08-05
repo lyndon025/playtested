@@ -1,12 +1,20 @@
 ---
-title: "Defend your castle using the power of… bidding? | First Impressions - Defense Derby"
-description: "Defense Derby revolves around defending your square castle from waves of relentless monsters. Strategic placement of heroes atop the castle is crucial for survival. The game offers a diverse range of units inspired by the fantasy genre, including mages, archers, swordsmen, riflemen, and wizards. Each unit possesses unique attributes, attack ranges, and attack types, allowing players to develop diverse tactical approaches."
-pubDate: 2023-07-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "defense-derby"]
+author: lyndonguitar
+category: Review
+description: Defense Derby revolves around defending your square castle from waves
+  of relentless monsters. Strategic placement of heroes atop the castle is crucial
+  for survival. The game offers a diverse range of units inspired by the fantasy genre,
+  including mages, archers, swordsmen, riflemen, and wizards. Each unit possesses
+  unique attributes, attack ranges, and attack types, allowing players to develop
+  diverse tactical approaches.
 featured: false
-thumb: ""
+pubDate: 2023-07-12
+tags:
+- taptap
+- defense-derby
+thumb: ''
+title: Defend your castle using the power of… bidding? | First Impressions - Defense
+  Derby
 ---
 
 Defense Derby revolves around defending your square castle from waves of relentless monsters. Strategic placement of heroes atop the castle is crucial for survival. The game offers a diverse range of units inspired by the fantasy genre, including mages, archers, swordsmen, riflemen, and wizards. Each unit possesses unique attributes, attack ranges, and attack types, allowing players to develop diverse tactical approaches.

@@ -1,12 +1,17 @@
 ---
-title: "An Amnesia game, but now you can have a weapon* | First Impressions - Amnesia: The Bunker"
-description: "Amnesia: The Bunker offers a chilling and unforgettable first person horror experience through its gripping atmosphere, non-linear gameplay, resource management mechanics, and a dynamic AI-driven monster."
-pubDate: 2023-06-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "amnesia:-the-bunker"]
+author: lyndonguitar
+category: Review
+description: 'Amnesia: The Bunker offers a chilling and unforgettable first person
+  horror experience through its gripping atmosphere, non-linear gameplay, resource
+  management mechanics, and a dynamic AI-driven monster.'
 featured: false
-thumb: ""
+pubDate: 2023-06-08
+tags:
+- taptap
+- amnesia:-the-bunker
+thumb: ''
+title: 'An Amnesia game, but now you can have a weapon* | First Impressions - Amnesia:
+  The Bunker'
 ---
 
 Amnesia: The Bunker offers a chilling and unforgettable first person horror experience through its gripping atmosphere, non-linear gameplay, resource management mechanics, and a dynamic AI-driven monster.

@@ -1,12 +1,16 @@
 ---
-title: "A fantastic, nostalgic retro-style horizontal shoot ‘em up | Full Review - Black Paradox"
-description: "Black Paradox is a retro-styled horizontal scrolling rogue-lite shoot 'em up that brings back the nostalgia of the arcade games from the 80s and 90s."
-pubDate: 2023-02-28
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "black-paradox"]
+author: lyndonguitar
+category: Review
+description: Black Paradox is a retro-styled horizontal scrolling rogue-lite shoot
+  'em up that brings back the nostalgia of the arcade games from the 80s and 90s.
 featured: false
-thumb: "/images/reviews/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-0.avif"
+pubDate: 2023-02-28
+tags:
+- taptap
+- black-paradox
+thumb: /images/reviews/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-0.avif
+title: A fantastic, nostalgic retro-style horizontal shoot ‘em up | Full Review -
+  Black Paradox
 ---
 
 <div class="gallery">

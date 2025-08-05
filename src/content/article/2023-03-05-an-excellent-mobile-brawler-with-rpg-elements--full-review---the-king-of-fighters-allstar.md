@@ -1,12 +1,18 @@
 ---
-title: "An excellent mobile brawler, with RPG elements | Full Review - The King of Fighters ALLSTAR"
-description: "The King of Fighters All Star is an online RPG brawler that brings together characters from the popular fighting game franchise The King of Fighters. If you’re still expecting a 1v1 competitive fighting game like the original game series, this is far from it. However, this is still a cool game worth looking into."
-pubDate: 2023-03-05
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "the-king-of-fighters-allstar"]
+author: lyndonguitar
+category: Review
+description: The King of Fighters All Star is an online RPG brawler that brings together
+  characters from the popular fighting game franchise The King of Fighters. If you’re
+  still expecting a 1v1 competitive fighting game like the original game series, this
+  is far from it. However, this is still a cool game worth looking into.
 featured: false
-thumb: "/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-0.avif"
+pubDate: 2023-03-05
+tags:
+- taptap
+- the-king-of-fighters-allstar
+thumb: /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-0.avif
+title: An excellent mobile brawler, with RPG elements | Full Review - The King of
+  Fighters ALLSTAR
 ---
 
 <div class="gallery">

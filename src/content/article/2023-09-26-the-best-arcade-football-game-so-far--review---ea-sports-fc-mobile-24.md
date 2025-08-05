@@ -1,12 +1,14 @@
 ---
-title: "The best arcade football game so far? | Review - EA SPORTS FC™ MOBILE 24"
-description: "EA SPORTS FC™ Mobile SoccerGlobal"
-pubDate: 2023-09-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "ea-sports-fc™-mobile-soccer"]
+author: lyndonguitar
+category: Review
+description: EA SPORTS FC™ Mobile SoccerGlobal
 featured: false
-thumb: "/images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-0.avif"
+pubDate: 2023-09-26
+tags:
+- taptap
+- ea-sports-fc™-mobile-soccer
+thumb: /images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-0.avif
+title: The best arcade football game so far? | Review - EA SPORTS FC™ MOBILE 24
 ---
 
 <div class="gallery">

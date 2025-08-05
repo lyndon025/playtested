@@ -1,12 +1,15 @@
 ---
-title: "A promising game, but seriously needs a lot of work | Full Review - Somnolent: Action RPG Fantasy"
-description: "Somnolent: Action RPG Fantasy"
-pubDate: 2023-05-17
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "somnolent:-action-rpg-fantasy"]
+author: lyndonguitar
+category: Review
+description: 'Somnolent: Action RPG Fantasy'
 featured: false
-thumb: "/images/reviews/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-0.avif"
+pubDate: 2023-05-17
+tags:
+- taptap
+- somnolent:-action-rpg-fantasy
+thumb: /images/reviews/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-0.avif
+title: 'A promising game, but seriously needs a lot of work | Full Review - Somnolent:
+  Action RPG Fantasy'
 ---
 
 <div class="gallery">

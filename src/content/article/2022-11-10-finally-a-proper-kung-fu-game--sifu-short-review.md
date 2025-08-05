@@ -1,12 +1,14 @@
 ---
-title: "Finally, a proper Kung fu game! | SIFU: Short Review"
-description: "SIFU (Nintendo Switch) - Short Review"
-pubDate: 2022-11-10
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "sifu(pc,ps4,ps5,ns)"]
+author: lyndonguitar
+category: Review
+description: SIFU (Nintendo Switch) - Short Review
 featured: false
-thumb: "/images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif"
+pubDate: 2022-11-10
+tags:
+- taptap
+- sifu(pc,ps4,ps5,ns)
+thumb: /images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif
+title: 'Finally, a proper Kung fu game! | SIFU: Short Review'
 ---
 
 <div class="gallery">

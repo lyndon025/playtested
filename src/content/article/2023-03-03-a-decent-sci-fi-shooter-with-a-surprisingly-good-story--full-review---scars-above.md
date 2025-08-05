@@ -1,12 +1,17 @@
 ---
-title: "A decent sci-fi shooter with a surprisingly good story | Full Review - Scars Above"
-description: "Scars Above is a new third person sci-fi shooter that puts players in the shoes of Kara, and a scientist who’s part of a team tasked to investigate a mysterious alien structure that randomly appeared in Earth’s orbit."
-pubDate: 2023-03-03
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "scars-above"]
+author: lyndonguitar
+category: Review
+description: Scars Above is a new third person sci-fi shooter that puts players in
+  the shoes of Kara, and a scientist who’s part of a team tasked to investigate a
+  mysterious alien structure that randomly appeared in Earth’s orbit.
 featured: false
-thumb: "/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-0.avif"
+pubDate: 2023-03-03
+tags:
+- taptap
+- scars-above
+thumb: /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-0.avif
+title: A decent sci-fi shooter with a surprisingly good story | Full Review - Scars
+  Above
 ---
 
 <div class="gallery">

@@ -1,12 +1,15 @@
 ---
-title: "A much needed fresh take on the mobile FPS market | Soft Launch Review - Rainbow Six Mobile"
-description: "Rainbow Six Mobile"
-pubDate: 2023-08-31
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "rainbow-six-mobile"]
+author: lyndonguitar
+category: Review
+description: Rainbow Six Mobile
 featured: false
-thumb: "/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-0.avif"
+pubDate: 2023-08-31
+tags:
+- taptap
+- rainbow-six-mobile
+thumb: /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-0.avif
+title: A much needed fresh take on the mobile FPS market | Soft Launch Review - Rainbow
+  Six Mobile
 ---
 
 <div class="gallery">

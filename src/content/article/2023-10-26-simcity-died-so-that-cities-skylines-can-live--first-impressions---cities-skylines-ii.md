@@ -1,12 +1,17 @@
 ---
-title: "SimCity died so that Cities Skylines can live | First Impressions - Cities Skylines II"
-description: "Cities Skylines II is an immersive city-building experience that combines creativity with strategic planning. As mayor of your virtual city, you'll shape a thriving metropolis from the ground up."
-pubDate: 2023-10-26
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "cities:-skylines"]
+author: lyndonguitar
+category: Review
+description: Cities Skylines II is an immersive city-building experience that combines
+  creativity with strategic planning. As mayor of your virtual city, you'll shape
+  a thriving metropolis from the ground up.
 featured: false
-thumb: ""
+pubDate: 2023-10-26
+tags:
+- taptap
+- cities:-skylines
+thumb: ''
+title: SimCity died so that Cities Skylines can live | First Impressions - Cities
+  Skylines II
 ---
 
 Cities Skylines II is an immersive city-building experience that combines creativity with strategic planning. As mayor of your virtual city, you'll shape a thriving metropolis from the ground up.

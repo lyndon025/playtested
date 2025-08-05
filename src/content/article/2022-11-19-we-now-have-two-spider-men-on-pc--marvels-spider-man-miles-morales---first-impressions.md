@@ -1,12 +1,19 @@
 ---
-title: "We now have two Spider-Men on PC! | Marvel's Spider-Man: Miles Morales - First Impressions"
-description: "Marvel's Spider-Man: Miles Morales is the follow-up standalone expansion to this year’s PC release of Marvel's Spider-Man Remastered, Continuing the first game’s story, more importantly its DLC “The City That Never Sleeps”. It introduces Miles Morales’ version of Spider-Man as the playable character and his “year one” activities in New York city."
-pubDate: 2022-11-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "marvel’s-spider-man:-miles-morales"]
+author: lyndonguitar
+category: Review
+description: 'Marvel''s Spider-Man: Miles Morales is the follow-up standalone expansion
+  to this year’s PC release of Marvel''s Spider-Man Remastered, Continuing the first
+  game’s story, more importantly its DLC “The City That Never Sleeps”. It introduces
+  Miles Morales’ version of Spider-Man as the playable character and his “year one”
+  activities in New York city.'
 featured: false
-thumb: "/images/reviews/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-0.avif"
+pubDate: 2022-11-19
+tags:
+- taptap
+- marvel’s-spider-man:-miles-morales
+thumb: /images/reviews/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-0.avif
+title: 'We now have two Spider-Men on PC! | Marvel''s Spider-Man: Miles Morales -
+  First Impressions'
 ---
 
 <div class="gallery">

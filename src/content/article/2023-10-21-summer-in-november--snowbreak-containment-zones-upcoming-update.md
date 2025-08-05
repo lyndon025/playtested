@@ -1,12 +1,16 @@
 ---
-title: "Summer in November! | Snowbreak: Containment Zone's upcoming update"
-description: "Verdurous Holiday, the upcoming expansion for Snowbreak: Containment Zone, unveils a picturesque beach paradise on Yallu Island: a picturesque oasis with tranquil beachesand lush landscapes nestled in the West Patra Sea."
-pubDate: 2023-10-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "snowbreak:-containment-zone"]
+author: lyndonguitar
+category: Review
+description: 'Verdurous Holiday, the upcoming expansion for Snowbreak: Containment
+  Zone, unveils a picturesque beach paradise on Yallu Island: a picturesque oasis
+  with tranquil beachesand lush landscapes nestled in the West Patra Sea.'
 featured: false
-thumb: ""
+pubDate: 2023-10-21
+tags:
+- taptap
+- snowbreak:-containment-zone
+thumb: ''
+title: 'Summer in November! | Snowbreak: Containment Zone''s upcoming update'
 ---
 
 Verdurous Holiday, the upcoming expansion for Snowbreak: Containment Zone, unveils a picturesque beach paradise on Yallu Island: a picturesque oasis with tranquil beachesand lush landscapes nestled in the West Patra Sea.

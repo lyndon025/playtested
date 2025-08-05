@@ -1,12 +1,15 @@
 ---
-title: "Feels like you’re solving a puzzle and playing a card game at the same time | Full Review - Card Hog"
-description: "Card Hog - Dungeon Crawler"
-pubDate: 2023-05-02
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dungeon-crawler"]
+author: lyndonguitar
+category: Review
+description: Card Hog - Dungeon Crawler
 featured: false
-thumb: "/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---0.avif"
+pubDate: 2023-05-02
+tags:
+- taptap
+- dungeon-crawler
+thumb: /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---0.avif
+title: Feels like you’re solving a puzzle and playing a card game at the same time
+  | Full Review - Card Hog
 ---
 
 <div class="gallery">

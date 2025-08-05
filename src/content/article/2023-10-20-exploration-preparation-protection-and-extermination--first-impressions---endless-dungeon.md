@@ -1,12 +1,19 @@
 ---
-title: "Exploration, preparation, protection, and extermination | First Impressions - ENDLESS Dungeon"
-description: "In Endless Dungeon, you explore a mysterious abandoned space station alongside other stranded heroes. Prepare for the dangers that lie ahead by managing your resources and constructing defenses, protecting the Crystal Bot from harm, and eliminating any hostiles that stand ready to kill you, be they monsters, bugs, or robots."
-pubDate: 2023-10-20
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "endless™-dungeon"]
+author: lyndonguitar
+category: Review
+description: In Endless Dungeon, you explore a mysterious abandoned space station
+  alongside other stranded heroes. Prepare for the dangers that lie ahead by managing
+  your resources and constructing defenses, protecting the Crystal Bot from harm,
+  and eliminating any hostiles that stand ready to kill you, be they monsters, bugs,
+  or robots.
 featured: false
-thumb: ""
+pubDate: 2023-10-20
+tags:
+- taptap
+- endless™-dungeon
+thumb: ''
+title: Exploration, preparation, protection, and extermination | First Impressions
+  - ENDLESS Dungeon
 ---
 
 In Endless Dungeon, you explore a mysterious abandoned space station alongside other stranded heroes. Prepare for the dangers that lie ahead by managing your resources and constructing defenses, protecting the Crystal Bot from harm, and eliminating any hostiles that stand ready to kill you, be they monsters, bugs, or robots.

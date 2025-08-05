@@ -1,12 +1,17 @@
 ---
-title: "A new FPS franchise in the making | First Impressions - Atomic Heart"
-description: "Atomic Heart is an action FPS game that completely caught me by surprise. For an upcoming new developer — Mundfish —  who has only developed a now discontinued VR game so far, that hasn’t stopped them from delivering an impressive game, and they have really hit it out of the park with this one."
-pubDate: 2023-02-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "atomic-heart"]
+author: lyndonguitar
+category: Review
+description: Atomic Heart is an action FPS game that completely caught me by surprise.
+  For an upcoming new developer — Mundfish —  who has only developed a now discontinued
+  VR game so far, that hasn’t stopped them from delivering an impressive game, and
+  they have really hit it out of the park with this one.
 featured: false
-thumb: "/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-0.avif"
+pubDate: 2023-02-22
+tags:
+- taptap
+- atomic-heart
+thumb: /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-0.avif
+title: A new FPS franchise in the making | First Impressions - Atomic Heart
 ---
 
 <div class="gallery">

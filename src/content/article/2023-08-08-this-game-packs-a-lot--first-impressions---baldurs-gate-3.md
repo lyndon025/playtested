@@ -1,12 +1,22 @@
 ---
-title: "This game packs a LOT! | First Impressions - Baldur's Gate 3"
-description: "Baldur's Gate 3, an epic RPG developed by Larian Studios and building on the legacy of the iconic Baldur's Gate series, was released in early access in 2020 and was met with an overwhelmingly positive response, reinvigorating interest in D&D-based video games. Larian Studios embraced the complexities of D&D's 5th Edition, creating a game that felt akin to playing the tabletop version virtually, for better and for worse. The vast world, intricate systems, and captivating storytelling that come with the experience of D&D are promised, resonating with long-time fans and newcomers alike. Now, three years later, Baldur’s Gate 3 is officially out on PC."
-pubDate: 2023-08-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "baldur's-gate-3"]
+author: lyndonguitar
+category: Review
+description: Baldur's Gate 3, an epic RPG developed by Larian Studios and building
+  on the legacy of the iconic Baldur's Gate series, was released in early access in
+  2020 and was met with an overwhelmingly positive response, reinvigorating interest
+  in D&D-based video games. Larian Studios embraced the complexities of D&D's 5th
+  Edition, creating a game that felt akin to playing the tabletop version virtually,
+  for better and for worse. The vast world, intricate systems, and captivating storytelling
+  that come with the experience of D&D are promised, resonating with long-time fans
+  and newcomers alike. Now, three years later, Baldur’s Gate 3 is officially out on
+  PC.
 featured: false
-thumb: ""
+pubDate: 2023-08-08
+tags:
+- taptap
+- baldur's-gate-3
+thumb: ''
+title: This game packs a LOT! | First Impressions - Baldur's Gate 3
 ---
 
 Baldur's Gate 3, an epic RPG developed by Larian Studios and building on the legacy of the iconic Baldur's Gate series, was released in early access in 2020 and was met with an overwhelmingly positive response, reinvigorating interest in D&D-based video games. Larian Studios embraced the complexities of D&D's 5th Edition, creating a game that felt akin to playing the tabletop version virtually, for better and for worse. The vast world, intricate systems, and captivating storytelling that come with the experience of D&D are promised, resonating with long-time fans and newcomers alike. Now, three years later, Baldur’s Gate 3 is officially out on PC.

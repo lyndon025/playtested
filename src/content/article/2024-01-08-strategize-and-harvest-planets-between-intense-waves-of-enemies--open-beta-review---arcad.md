@@ -1,12 +1,15 @@
 ---
-title: "Strategize and harvest planets between intense waves of enemies | Open Beta Review - Arcadium"
-description: "Arcadium - Space Odyssey"
-pubDate: 2024-01-08
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "space-odyssey"]
+author: lyndonguitar
+category: Review
+description: Arcadium - Space Odyssey
 featured: false
-thumb: "/images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-0.avif"
+pubDate: 2024-01-08
+tags:
+- taptap
+- space-odyssey
+thumb: /images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-0.avif
+title: Strategize and harvest planets between intense waves of enemies | Open Beta
+  Review - Arcadium
 ---
 
 <div class="gallery">

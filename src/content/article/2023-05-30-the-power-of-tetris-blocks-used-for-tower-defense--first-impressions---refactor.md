@@ -1,12 +1,19 @@
 ---
-title: "The power of Tetris blocks used for tower defense! | First Impressions - Refactor"
-description: "In Refactor, Aliens are invading Earth, and you have to defend the planet by building elemental turrets. That's basically the background story. Now that's out of the way, the main focus here is the hardcore-style tower defense combat with innovative building elements, where you are also in charge of constructing the pathway of the enemies. Originally released for PC last year, I was able to try out the Android demo version of the game."
-pubDate: 2023-05-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "refactor"]
+author: lyndonguitar
+category: Review
+description: In Refactor, Aliens are invading Earth, and you have to defend the planet
+  by building elemental turrets. That's basically the background story. Now that's
+  out of the way, the main focus here is the hardcore-style tower defense combat with
+  innovative building elements, where you are also in charge of constructing the pathway
+  of the enemies. Originally released for PC last year, I was able to try out the
+  Android demo version of the game.
 featured: false
-thumb: ""
+pubDate: 2023-05-30
+tags:
+- taptap
+- refactor
+thumb: ''
+title: The power of Tetris blocks used for tower defense! | First Impressions - Refactor
 ---
 
 In Refactor, Aliens are invading Earth, and you have to defend the planet by building elemental turrets. That's basically the background story. Now that's out of the way, the main focus here is the hardcore-style tower defense combat with innovative building elements, where you are also in charge of constructing the pathway of the enemies. Originally released for PC last year, I was able to try out the Android demo version of the game.

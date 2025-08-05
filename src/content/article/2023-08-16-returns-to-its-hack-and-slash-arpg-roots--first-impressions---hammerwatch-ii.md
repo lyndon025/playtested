@@ -1,12 +1,19 @@
 ---
-title: "Returns to its hack and slash ARPG roots | First Impressions - Hammerwatch II"
-description: "Released as a follow-up to the successful roguelite Heroes of Hammerwatch, Hammerwatch II returns to the franchise's hack and slash roots and directly follows the story and gameplay of the first Hammerwatch game. Players are transported to a fantastical realm where they must aid King Roland's resistance efforts while navigating a world teeming with danger, quests, and opportunities for character growth."
-pubDate: 2023-08-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "hammerwatch-ii"]
+author: lyndonguitar
+category: Review
+description: Released as a follow-up to the successful roguelite Heroes of Hammerwatch,
+  Hammerwatch II returns to the franchise's hack and slash roots and directly follows
+  the story and gameplay of the first Hammerwatch game. Players are transported to
+  a fantastical realm where they must aid King Roland's resistance efforts while navigating
+  a world teeming with danger, quests, and opportunities for character growth.
 featured: false
-thumb: ""
+pubDate: 2023-08-16
+tags:
+- taptap
+- hammerwatch-ii
+thumb: ''
+title: Returns to its hack and slash ARPG roots | First Impressions - Hammerwatch
+  II
 ---
 
 Released as a follow-up to the successful roguelite Heroes of Hammerwatch, Hammerwatch II returns to the franchise's hack and slash roots and directly follows the story and gameplay of the first Hammerwatch game. Players are transported to a fantastical realm where they must aid King Roland's resistance efforts while navigating a world teeming with danger, quests, and opportunities for character growth.

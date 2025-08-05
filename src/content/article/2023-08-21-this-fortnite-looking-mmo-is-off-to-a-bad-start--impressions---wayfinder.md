@@ -1,12 +1,14 @@
 ---
-title: "This Fortnite-looking MMO is off to a bad start | Impressions - Wayfinder"
-description: "Wayfinder"
-pubDate: 2023-08-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "wayfinder"]
+author: lyndonguitar
+category: Review
+description: Wayfinder
 featured: false
-thumb: "/images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-0.avif"
+pubDate: 2023-08-21
+tags:
+- taptap
+- wayfinder
+thumb: /images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-0.avif
+title: This Fortnite-looking MMO is off to a bad start | Impressions - Wayfinder
 ---
 
 <div class="gallery">

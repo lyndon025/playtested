@@ -1,12 +1,15 @@
 ---
-title: "A potentially enjoyable magical sandbox PvP/PvE experience | Review - Dark and Light Mobile (Beta)"
-description: "Dark and Light MobileGlobal"
-pubDate: 2023-09-22
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "dark-and-light-mobile"]
+author: lyndonguitar
+category: Review
+description: Dark and Light MobileGlobal
 featured: false
-thumb: "/images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-0.avif"
+pubDate: 2023-09-22
+tags:
+- taptap
+- dark-and-light-mobile
+thumb: /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-0.avif
+title: A potentially enjoyable magical sandbox PvP/PvE experience | Review - Dark
+  and Light Mobile (Beta)
 ---
 
 <div class="gallery">

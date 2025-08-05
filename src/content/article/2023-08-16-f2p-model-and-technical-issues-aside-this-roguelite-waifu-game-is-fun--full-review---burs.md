@@ -1,12 +1,15 @@
 ---
-title: "F2P model and technical issues aside, this Roguelite Waifu game is fun | Full Review - Burst Space"
-description: "Burst Space"
-pubDate: 2023-08-16
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "burst-space"]
+author: lyndonguitar
+category: Review
+description: Burst Space
 featured: false
-thumb: "/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-0.avif"
+pubDate: 2023-08-16
+tags:
+- taptap
+- burst-space
+thumb: /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-0.avif
+title: F2P model and technical issues aside, this Roguelite Waifu game is fun | Full
+  Review - Burst Space
 ---
 
 <div class="gallery">

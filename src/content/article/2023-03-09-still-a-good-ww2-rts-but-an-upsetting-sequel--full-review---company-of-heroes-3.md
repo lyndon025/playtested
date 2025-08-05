@@ -1,12 +1,17 @@
 ---
-title: "Still a good WW2 RTS, but an upsetting sequel | Full Review - Company of Heroes 3"
-description: "Company of Heroes 3 is a WW2 real-time strategy game developed by Relic Entertainment and published by SEGA, and continues the critically acclaimed Company of Heroes series of games."
-pubDate: 2023-03-09
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "company-of-heroes-3-(pc)"]
+author: lyndonguitar
+category: Review
+description: Company of Heroes 3 is a WW2 real-time strategy game developed by Relic
+  Entertainment and published by SEGA, and continues the critically acclaimed Company
+  of Heroes series of games.
 featured: false
-thumb: "/images/reviews/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-0.avif"
+pubDate: 2023-03-09
+tags:
+- taptap
+- company-of-heroes-3-(pc)
+thumb: /images/reviews/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-0.avif
+title: Still a good WW2 RTS, but an upsetting sequel | Full Review - Company of Heroes
+  3
 ---
 
 <div class="gallery">

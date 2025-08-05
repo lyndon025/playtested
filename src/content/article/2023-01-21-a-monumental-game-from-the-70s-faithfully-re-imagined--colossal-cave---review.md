@@ -1,12 +1,17 @@
 ---
-title: "A monumental game from the 70s faithfully re-imagined | Colossal Cave - Review"
-description: "You’ve read it right, 70s. If you were somehow already a gamer in the 1970s, you might have played one of the most influential video games of all time in Colossal Cave Adventure. This newly released title is a remake of that classic text-based adventure."
-pubDate: 2023-01-21
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "colossal-cave"]
+author: lyndonguitar
+category: Review
+description: You’ve read it right, 70s. If you were somehow already a gamer in the
+  1970s, you might have played one of the most influential video games of all time
+  in Colossal Cave Adventure. This newly released title is a remake of that classic
+  text-based adventure.
 featured: false
-thumb: "/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif"
+pubDate: 2023-01-21
+tags:
+- taptap
+- colossal-cave
+thumb: /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif
+title: A monumental game from the 70s faithfully re-imagined | Colossal Cave - Review
 ---
 
 <div class="gallery">

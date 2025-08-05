@@ -1,12 +1,17 @@
 ---
-title: "Choose a level, plan your heist, and execute it with your crew | First Impressions - PAYDAY 3"
-description: "PAYDAY 3 continues that tradition of delivering classic cooperative heist experiences, allowing players to plan and execute elaborate robberies with friends.  The game is set to be released on September 21, 2023 for PC, Xbox, and PlayStation."
-pubDate: 2023-09-19
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "payday-3"]
+author: lyndonguitar
+category: Review
+description: PAYDAY 3 continues that tradition of delivering classic cooperative heist
+  experiences, allowing players to plan and execute elaborate robberies with friends.  The
+  game is set to be released on September 21, 2023 for PC, Xbox, and PlayStation.
 featured: false
-thumb: ""
+pubDate: 2023-09-19
+tags:
+- taptap
+- payday-3
+thumb: ''
+title: Choose a level, plan your heist, and execute it with your crew | First Impressions
+  - PAYDAY 3
 ---
 
 PAYDAY 3 continues that tradition of delivering classic cooperative heist experiences, allowing players to plan and execute elaborate robberies with friends.  The game is set to be released on September 21, 2023 for PC, Xbox, and PlayStation.

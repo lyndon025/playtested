@@ -1,12 +1,16 @@
 ---
-title: "Decent combat, but everything else has been a mixed bag | OBT Review - Black Moon Playpark"
-description: "Black Moon Playpark"
-pubDate: 2024-01-30
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "black-moon-playpark"]
+author: lyndonguitar
+category: Review
+description: Black Moon Playpark
 featured: false
-thumb: "/images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-0.avif"
+pubDate: 2024-01-30
+score: 6.0
+tags:
+- taptap
+- black-moon-playpark
+thumb: /images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-0.avif
+title: Decent combat, but everything else has been a mixed bag | OBT Review - Black
+  Moon Playpark
 ---
 
 <div class="gallery">

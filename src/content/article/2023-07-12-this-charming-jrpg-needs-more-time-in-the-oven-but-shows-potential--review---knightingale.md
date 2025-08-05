@@ -1,12 +1,15 @@
 ---
-title: "This charming JRPG needs more time in the oven, but shows potential | Review - Knightingale"
-description: "Knightingale"
-pubDate: 2023-07-12
-author: "lyndonguitar"
-category: "Review"
-tags: ["taptap", "knightingale"]
+author: lyndonguitar
+category: Review
+description: Knightingale
 featured: false
-thumb: "/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-0.avif"
+pubDate: 2023-07-12
+tags:
+- taptap
+- knightingale
+thumb: /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-0.avif
+title: This charming JRPG needs more time in the oven, but shows potential | Review
+  - Knightingale
 ---
 
 <div class="gallery">
