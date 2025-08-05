@@ -8,8 +8,8 @@ export interface Props {
   showCategory?: boolean
 }
 
-const { post, showImage = false, showCategory = true } = Astro.props
-const { title, pubDate, category, description, author } = post.data
+const { post, showImage = true, showCategory = true } = Astro.props
+const { title, pubDate, category, description, author, thumb } = post.data
 
 const formattedDate = new Intl.DateTimeFormat("en-US", {
   year: "numeric",
@@ -17,16 +17,41 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
   day: "numeric",
 }).format(pubDate)
 ---
+<li class="flex flex-row gap-6 py-4 border-b border-gray-100 dark:border-gray-800 items-start">
+  {showImage && thumb && (
+   <a href={`/article/${post.slug}`} class="block shrink-0 w-56 h-32">
+  <img
+    src={thumb}
+    alt={title}
+    class="w-56 h-32 object-cover rounded-md border border-gray-200 dark:border-gray-700"
+    loading="lazy"
+  />
+</a>
 
-<li class="flex flex-col sm:flex-row justify-between sm:items-center py-4 border-b border-gray-100 dark:border-gray-800">
-  <div class="mb-2 sm:mb-0">
-    <a href={`/article/${post.slug}`} class="text-xl font-medium hover:underline">
+  )}
+ <div class="flex-1 flex flex-col min-w-0">
+  <div class="flex items-center justify-between gap-2">
+    <a href={`/article/${post.slug}`} class="text-xl font-medium hover:underline truncate flex-1">
       {title}
-      {SiteOptions.showAuthorsOnHomePage && author && <span class="text-sm text-gray-500 dark:text-gray-400 ml-2">by {author}</span>}
+      {SiteOptions.showAuthorsOnHomePage && author && (
+        <span class="text-sm text-gray-500 dark:text-gray-400 ml-2">
+          by {author}
+        </span>
+      )}
     </a>
-
-    {showCategory && category && <span class="ml-0 sm:ml-3 mt-1 sm:mt-0 inline-block text-xs bg-gray-100 text-gray-600 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 rounded">{category}</span>}
-    {showImage && description && <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">{description}</p>}
+    {showCategory && category && (
+      <span class="ml-2 inline-block text-xs bg-gray-100 text-gray-600 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 rounded max-w-[120px] truncate whitespace-nowrap">
+        {category}
+      </span>
+    )}
   </div>
-  <span class="text-sm text-gray-400 dark:text-gray-500">{formattedDate}</span>
+  {description && (
+    <p class="text-sm text-gray-500 dark:text-gray-400 mt-1 line-clamp-2">
+      {description}
+    </p>
+  )}
+  <span class="text-xs text-gray-400 dark:text-gray-500 mt-2">{formattedDate}</span>
+</div>
+
 </li>
+

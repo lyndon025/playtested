@@ -1,7 +1,7 @@
 export default {
-    siteTitle: "The Storyteller", // Main site title displayed in header
-    siteSubTitle: "Minimal musings on code, design, and life", // Subtitle shown under main title
-    copyright: "© 2025 The Storyteller. All Rights Reserved.", // Footer copyright text
+    siteTitle: "PlayTested", // Main site title displayed in header
+    siteSubTitle: "PlayTested is a no-nonsense gaming review platform and tech blog. Objective, comprehensive reviews that cut through the noise", // Subtitle shown under main title
+    copyright: "© 2025 PlayTested. All Rights Reserved.", // Footer copyright text
     showAuthorsOnHomePage: false, // Display author info on homepage
     showFeaturrdPostsOnHomePage: true, // Show featured posts section on homepage
     showCategoryOnPosts: true, // Display categories on posts in homepage
@@ -28,7 +28,7 @@ export default {
         nextText: "Next", // Text for next page button
         postLabel: "posts", // Label used in pagination info (e.g., "8 posts")
     },
-    defaultAuthorName: "Hasin Hayder",
+    defaultAuthorName: "Lyndon Rebutoc",
     showCategoriesLinkOnFooter: true, // Show Categories link in footer
     showTagsLinkOnFooter: true, // Show Tags link in footer
     showAuthorsLinkOnFooter: true, // Show Authors link in footer

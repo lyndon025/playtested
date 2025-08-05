@@ -5,3 +5,26 @@
 code > span.line {
   color: #e2e8f0; /* slate-200 */
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.gallery img {
+  width: 160px;
+  border-radius: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  object-fit: cover;
+}
+
+.desc-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Show only 3 lines, change as needed */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 4.5em; /* Optional: fallback for browsers that don't support line-clamp */
+}
