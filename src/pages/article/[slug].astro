@@ -17,13 +17,12 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<"article">
 
 const post = Astro.props
-const { title, pubDate, category, description, thumb, author, tags, large } = post.data
+const { title, pubDate, category, description, thumb, author, tags, large, score } = post.data
 const { Content } = await post.render()
 
 // Get similar posts (same category, excluding current post)
 const allPosts = await getCollection("article")
 const similarPosts = allPosts.filter((p) => p.slug !== post.slug && p.data.category === post.data.category).slice(0, 3)
-
 const formattedDate = new Intl.DateTimeFormat("en-US", {
   year: "numeric",
   month: "long",
@@ -39,23 +38,20 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 
   <!-- Blog Post Header -->
   <header class="mb-8 relative">
-    <h1 class="text-3xl md:text-4xl lg:text-3xl font-bold tracking-tight mb-4 text-gray-900 dark:text-slate-100">
-      {title}
-    </h1>
-    <div class="flex flex-wrap items-center text-sm text-gray-500 dark:text-gray-400 space-x-4 mb-4">
-      <span>By <a href={`/author/${author.toLowerCase().replace(/\s+/g, "-")}`} class="text-gray-500 dark:text-gray-400 hover:underline no-underline"><strong>{author}</strong></a></span>
-      <span>{formattedDate}</span>
-      {
-        category && (
-          <span>
-            {SiteOptions.labels.postedIn}
-            <a href={`/category/${category.toLowerCase().replace(/\s+/g, "-")}`} class="text-gray-500 dark:text-gray-400 hover:underline no-underline">
-              <strong>{category}</strong>
-            </a>
-          </span>
-        )
-      }
+    <div class="flex flex-col sm:flex-row sm:items-center gap-5 mb-5">
+
+
+  {score && (
+    <div class="article-score-badge beside-title">
+      <span class="article-score-value">{score}</span>
+      <span class="article-score-label">Score</span>
     </div>
+  )}
+  <h1 class="text-3xl md:text-4xl lg:text-3xl font-bold tracking-tight text-gray-900 dark:text-slate-100">
+    {title}
+  </h1>
+</div>
+
     <div class="text-sm text-gray-500 dark:text-gray-400">
       Tags:
       {
@@ -67,6 +63,8 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       }
     </div>
   </header>
+
+
 
   <!-- Blog Post Content -->
   <article class="mt-10 prose prose-h2:text-2xl prose-lg max-w-none text-gray-700 dark:prose-strong:text-slate-100 dark:text-slate-300 prose-headings:text-gray-900 dark:prose-headings:text-slate-100 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-code:text-slate-700 dark:prose-code:text-slate-100 prose-pre:bg-gray-100 dark:prose-pre:bg-slate-800 prose-blockquote:border-gray-300 dark:prose-blockquote:border-gray-600 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-400 prose-h3:text-[1.2em] ">

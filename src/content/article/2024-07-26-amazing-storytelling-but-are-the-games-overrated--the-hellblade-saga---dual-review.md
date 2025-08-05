@@ -5,7 +5,8 @@ pubDate: 2024-07-26
 author: "lyndonguitar"
 category: "Review"
 tags: ["taptap","senua’s-saga:-hellblade-ii"]
-featured: false
+featured: true
+score: 6
 thumb: "/images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-0.avif"
 ---
 

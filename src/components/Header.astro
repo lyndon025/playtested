@@ -1,15 +1,15 @@
 ---
-import SiteOptions from "../site.config.mjs"
+import SiteOptions from "../site.config.mjs";
 export interface Props {
-  showTitle?: boolean
+  showTitle?: boolean;
 }
 
-const { showTitle = true } = Astro.props
+const { showTitle = true } = Astro.props;
 ---
 
-<header class="flex flex-col items-center mt-10 mb-8 relative">
+<header class="mt-10 mb-8 relative">
   <!-- Theme Toggle Button -->
-  <button onclick="toggleTheme()" id="theme-toggle-button" aria-label="Toggle theme" class="absolute top-0 right-0 mt-2 mr-2 p-2 rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors">
+    <button onclick="toggleTheme()" id="theme-toggle-button" aria-label="Toggle theme" class="absolute top-0 right-0 mt-2 mr-2 p-2 rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors">
     <svg id="sun-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
       <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"></path>
     </svg>
@@ -18,15 +18,84 @@ const { showTitle = true } = Astro.props
     </svg>
   </button>
 
-  <a href="/" class="flex flex-col items-center">
-    <img src="/images/logo02.png" alt="Profile" class="w-28 h-28 rounded-full object-cover border-2 border-gray-200 dark:border-gray-700 shadow mb-6 hover:opacity-80 transition-opacity" />
-    {
-      showTitle && (
-        <>
-          <h1 class="text-4xl font-bold tracking-tight mb-2 text-center hover:opacity-80 transition-opacity">{SiteOptions.siteTitle}</h1>
-          <p class="text-lg text-gray-500 dark:text-gray-400 font-light text-center">{SiteOptions.siteSubTitle}</p>
-        </>
-      )
+  <!-- Site Identity -->
+  <div class="flex items-center space-x-6">
+    <a href="/" class="flex items-center space-x-6">
+      <img
+        src="/images/logo02.png"
+        alt="Logo"
+        class="w-24 h-24 rounded-full object-cover border-2 border-gray-200 dark:border-gray-700 shadow hover:opacity-80 transition-opacity"
+      />
+      {
+        showTitle && (
+          <div>
+            <h1 class="text-4xl font-bold tracking-tight hover:opacity-80 transition-opacity">
+              {SiteOptions.siteTitle}
+            </h1>
+            <p class="text-lg text-gray-500 dark:text-gray-400 font-light">
+              {SiteOptions.siteSubTitle}
+            </p>
+          </div>
+        )
+      }
+    </a>
+  </div>
+
+  <!-- Filter Buttons -->
+  <nav class="mt-6 flex flex-wrap gap-4 items-start">
+    <a href="/tags/review" class="btn-tag">Reviews</a>
+    <a href="/tags/news" class="btn-tag">News</a>
+    <a href="/tags/tech" class="btn-tag">Tech</a>
+    <a href="/tags/write-ups" class="btn-tag">Write-ups</a>
+
+    <div class="relative inline-block">
+  <!-- Platforms Button -->
+  <button
+    id="platformToggle"
+    class="btn-tag"
+    onclick="toggleDropdown()"
+  >
+    Platforms ▾
+  </button>
+
+  <!-- Dropdown Menu -->
+  <div
+    id="platformDropdown"
+    class="absolute left-0 top-full mt-2 w-40 bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-600 rounded-md shadow-lg z-20
+           transform scale-y-0 opacity-0 origin-top transition-all duration-200 pointer-events-none"
+  >
+    <a href="/tags/pc" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">PC</a>
+    <a href="/tags/console" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Console</a>
+    <a href="/tags/mobile" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Mobile</a>
+  </div>
+</div>
+
+
+  </nav>
+
+<script is:inline>
+  const toggleBtn = document.getElementById('platformToggle');
+  const dropdown = document.getElementById('platformDropdown');
+
+  function toggleDropdown() {
+    const isOpen = dropdown.classList.contains('scale-y-100');
+
+    if (isOpen) {
+      dropdown.classList.remove('scale-y-100', 'opacity-100');
+      dropdown.classList.add('scale-y-0', 'opacity-0', 'pointer-events-none');
+    } else {
+      dropdown.classList.remove('scale-y-0', 'opacity-0', 'pointer-events-none');
+      dropdown.classList.add('scale-y-100', 'opacity-100');
     }
-  </a>
+  }
+
+  // Close dropdown when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!toggleBtn.contains(e.target) && !dropdown.contains(e.target)) {
+      dropdown.classList.remove('scale-y-100', 'opacity-100');
+      dropdown.classList.add('scale-y-0', 'opacity-0', 'pointer-events-none');
+    }
+  });
+</script>
+
 </header>

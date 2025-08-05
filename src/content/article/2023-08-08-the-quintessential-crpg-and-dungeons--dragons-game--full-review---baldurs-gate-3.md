@@ -6,6 +6,7 @@ author: "lyndonguitar"
 category: "Review"
 tags: ["taptap", "Baldurs Gate 3"]
 featured: true
+score: 10
 thumb: "/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-0.avif"
 ---
 

@@ -6,6 +6,11 @@ code > span.line {
   color: #e2e8f0; /* slate-200 */
 }
 
+.btn-tag {
+  @apply px-4 py-2 text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 rounded-md transition;
+}
+
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -26,5 +31,132 @@ code > span.line {
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-height: 4.5em; /* Optional: fallback for browsers that don't support line-clamp */
+}
+
+/* Default Score Badge */
+.score-badge {
+  position: absolute;
+  bottom: 0.5rem;
+  right: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 0.5rem 0.75rem;
+  border-radius: 999px;
+  color: white;
+  background: linear-gradient(to right, #06b6d4, #3b82f6); /* cyan to blue */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  z-index: 10;
+  pointer-events: none;
+  line-height: 1;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 3rem;
+  text-align: center;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+/* Hover animation on card (if desired) */
+.group:hover .score-badge {
+  transform: scale(1.05);
+}
+
+/* Optional override for PostCard (slightly smaller) */
+.post-card-thumb .score-badge {
+  font-size: 0.8rem;
+  padding: 0.4rem 0.6rem;
+  bottom: 0.4rem !important;
+  right: 0.4rem;
+}
+
+.score-green {
+  background: linear-gradient(to right, #16a34a, #22c55e); /* green */
+}
+
+.score-yellow {
+  background: linear-gradient(to right, #facc15, #f97316); /* yellow-orange */
+}
+
+.score-red {
+  background: linear-gradient(to right, #ef4444, #dc2626); /* red */
+}
+
+.article-score-badge {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #06b6d4, #3b82f6);
+  color: white;
+  font-weight: bold;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  line-height: 1;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  max-width: fit-content;
+}
+
+.article-score-badge.beside-title {
+  border-right: 2px solid rgba(255, 255, 255, 0.1);
+  padding-right: 1rem;
+  margin-right: 1rem;
+}
+
+
+
+.article-score-value {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.article-score-badge.beside-title .article-score-value {
+  font-size: 1.6rem;
+}
+
+.article-score-label {
+  font-size: 0.75rem;
+  font-weight: normal;
+  opacity: 0.85;
+  margin-top: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+.gallery {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 12px;
+  margin: 1.5rem 0;
+  padding-bottom: 4px;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: thin;
+}
+
+.gallery a {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  display: block;
+  border-radius: 0.5rem;
+  transition: transform 0.2s ease;
+}
+
+.gallery a:hover {
+  transform: scale(1.03);
+}
+
+.gallery img {
+  display: block;
+  height: auto;
+  max-height: 240px;
+  width: auto;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  cursor: pointer;
 }

@@ -1,10 +1,11 @@
 ---
 title: "A potential GOTY for 2023 | Full Review - The Legend of Zelda: Tears of the Kingdom"
-description: "The Legend of Zelda: Tears of the Kingdom (NS)"
+description: "The Legend of Zelda: Tears of the Kingdom is an action-adventure game and the much awaited sequel to 2017’s award-winning game The Legend of Zelda: Breath of the Wild, boasting the same core gameplay mechanics including open world exploration and a non-linear story."
 pubDate: 2023-05-16
 author: "lyndonguitar"
 category: "Review"
 tags: ["taptap", "the-legend-of-zelda:-tears-of-the-kingdom-(ns)"]
+score: 9
 featured: true
 thumb: "/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-0.avif"
 ---
@@ -32,7 +33,6 @@ thumb: "/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-
 
 The Legend of Zelda: Tears of the Kingdom (NS)
 
-lyndonguitar
 The Legend of Zelda: Tears of the Kingdom is an action-adventure game and the much awaited sequel to 2017’s award-winning game The Legend of Zelda: Breath of the Wild, boasting the same core gameplay mechanics including open world exploration and a non-linear story.
 
 
