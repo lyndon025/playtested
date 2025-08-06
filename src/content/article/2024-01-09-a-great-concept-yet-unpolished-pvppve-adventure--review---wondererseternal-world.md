@@ -1,27 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Wonderers:Eternal WorldGlobal
+description: '✨Overview Wonderers: Eternal World is an online ARPG game that features
+  strategic 4v4 PvP team-battles, as well as a rogue-lite dungeon crawling PvE game
+  mode. Developed for iOS, Android, and PC, with cross-platform play, the game officially
+  launched on January 8th, catering to players in the Philippines, Singapore, Malaysia,
+  and Australia.'
 featured: false
 pubDate: 2024-01-09
 score: 4.0
 tags:
+- adventure
+- casual
+- indie
+- pc
+- rpg
 - taptap
-- wonderers:eternal-world
+- wonderers-eternal-world
 thumb: /images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-0.avif
 title: A great concept yet unpolished PvP/PvE adventure | Review - Wonderers:Eternal
   World
+game: Wonderers:Eternal World
+gallery:
+- /images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-0.avif
+- /images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-1.avif
+- /images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-2.avif
+- /images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-3.avif
+- /images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-4.avif
+- /images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-great-concept-yet-unpolished-pvppve-adventure--review---wondererseternal-world-5.avif" alt="screenshot" />
-</div>
-
 Wonderers:Eternal WorldGlobal
 7.2
 Action

@@ -1,26 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: ✨Overview
+description: 'Call of Duty: Modern Warfare III marks the continuation of the rebooted
+  Modern Warfare series and picks up the story where the previous game, Modern Warfare
+  II, left off. Developed by Sledgehammer Games, Modern Warfare III aimed to blend
+  the best of Call of Duty''s past with innovative new elements, such as the integration
+  of Call of Duty: Warzone into its gameplay.'
 featured: false
 pubDate: 2023-11-07
 score: 3.0
 tags:
+- action
+- call-of-duty-modern-warfare-iii-campaign
+- console
+- ios
+- macos
+- pc
+- playstation 3
+- shooter
 - taptap
-- call-of-duty®:-warzone™
+- wii
+- xbox 360
+- xbox one
 thumb: /images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-0.avif
 title: 'The worst campaign in perhaps all of COD? | Review - Call of Duty: Modern
   Warfare III Campaign'
+game: 'Call of Duty: Modern Warfare III Campaign'
+gallery:
+- /images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-0.avif
+- /images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-1.avif
+- /images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-2.avif
+- /images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-3.avif
+- /images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-the-worst-campaign-in-perhaps-all-of-cod--review---call-of-duty-modern-warfare-iii-campai-4.avif" alt="screenshot" />
-</div>
-
 ✨Overview
 
 Call of Duty: Modern Warfare III marks the continuation of the rebooted Modern Warfare series and picks up the story where the previous game, Modern Warfare II, left off. Developed by Sledgehammer Games, Modern Warfare III aimed to blend the best of Call of Duty's past with innovative new elements, such as the integration of Call of Duty: Warzone into its gameplay.

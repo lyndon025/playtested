@@ -1,27 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Foamstars
+description: ✨Overview FOAMSTARS is a 4v4 online party shooter with PvE coop elements,
+  that challenges players to utilize foam-based weaponry to attack, defend, and strategically
+  manipulate terrain in fast-paced multiplayer battles. With a diverse roster of characters,
+  each equipped with unique abilities and foam guns, players engage in frantic competition
+  across various game modes. The game has recently launched today for PS Plus subscribers
+  with an option to buy it full come next month on March 5, 2024.
 featured: false
 pubDate: 2024-02-07
 score: 7.0
 tags:
-- taptap
+- action
+- console
 - foamstars
+- playstation
+- playstation 4
+- playstation 5
+- taptap
 thumb: /images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-0.avif
 title: A fun and unique shooter that might not last unless they make some changes
   | Review - FOAMSTARS
+game: Foamstars
+gallery:
+- /images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-0.avif
+- /images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-1.avif
+- /images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-2.avif
+- /images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-3.avif
+- /images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-4.avif
+- /images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-07-a-fun-and-unique-shooter-that-might-not-last-unless-they-make-some-changes--review---foam-5.avif" alt="screenshot" />
-</div>
-
 Foamstars
 8.9
 Action

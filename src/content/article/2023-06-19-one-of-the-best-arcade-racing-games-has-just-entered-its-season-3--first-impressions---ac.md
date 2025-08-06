@@ -8,13 +8,16 @@ description: Ace Racer, developed and published by NetEase, is a mobile arcade r
 featured: false
 pubDate: 2023-06-19
 tags:
-- taptap
 - ace-racer
+- ios
+- racing
+- sports
+- taptap
 thumb: ''
 title: One of the best arcade racing games has just entered its Season 3 | First Impressions
   - Ace Racer
+game: Ace Racer
 ---
-
 Ace Racer, developed and published by NetEase, is a mobile arcade racing game that aims to combine simple controls, high-octane street racing, and arcade-style abilities that vary from vehicle to vehicle. Featuring AAA levels of graphics, dynamic races, and a plethora of customization options.
 
 The game offers an arcade-style racing experience that is both accessible to newcomers and challenging for seasoned players. There's a lot of things to do in this game. You can customize your character, car, and participate in various forms of races, including solo races, career mode, and even team-based 3v3 races. These nitro-fueled races are fast-paced, action-packed, and filled with thrilling moments as you navigate through a variety of race tracks with different terrains. Each race track offers a unique and challenging experience, featuring a plethora of obstacles, barricades, and elements that keep players on their toes.  Combine that with the cars different abilities,

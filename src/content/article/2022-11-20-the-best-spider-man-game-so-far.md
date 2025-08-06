@@ -1,32 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Marvel''s Spider-Man: Miles Morales - Full Review'
+description: 'Marvel''s Spider-Man: Miles Morales is truly one of the better games
+  to have come out two years ago on the PS5 and PS4, and now we are lucky for another
+  Playstation port to PC with this weekend’s release.'
 featured: false
 pubDate: 2022-11-20
 tags:
+- action
+- console
+- man-game-so-far
+- playstation
+- playstation 4
 - taptap
-- marvel’s-spider-man:-miles-morales
 thumb: /images/reviews/2022-11-20-the-best-spider-man-game-so-far-0.avif
 title: The best Spider-Man game so far
+game: Man game so far
+gallery:
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-0.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-1.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-2.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-3.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-4.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-5.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-6.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-7.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-8.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-9.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-10.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-11.avif
+- /images/reviews/2022-11-20-the-best-spider-man-game-so-far-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-20-the-best-spider-man-game-so-far-12.avif" alt="screenshot" />
-</div>
-
 Marvel's Spider-Man: Miles Morales - Full Review
 
 

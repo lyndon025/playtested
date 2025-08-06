@@ -1,26 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Polygun Arena: Online Shooter'
+description: 'Polygun Arena: Online Shooter 7.6 Action Shooter Download'
 featured: false
 pubDate: 2023-10-12
 tags:
+- beta-review-polygon-arena-online-shooter
+- pc
+- platformer
 - taptap
-- polygun-arena:-online-shooter
 thumb: /images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-0.avif
 title: 'Simple controls and a familiar style of gunplay | Beta Review - Polygon Arena:
   Online Shooter'
+game: 'Beta Review - Polygon Arena: Online Shooter'
+gallery:
+- /images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-0.avif
+- /images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-1.avif
+- /images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-2.avif
+- /images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-3.avif
+- /images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-4.avif
+- /images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-simple-controls-and-a-familiar-style-of-gunplay--beta-review---polygon-arena-online-shoot-5.avif" alt="screenshot" />
-</div>
-
 Polygun Arena: Online Shooter
 7.6
 Action

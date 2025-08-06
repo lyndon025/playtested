@@ -1,0 +1,42 @@
+---
+import { getCollection } from "astro:content"
+import BlogLayout from "../../layouts/BlogLayout.astro"
+import Header from "../../components/Header.astro"
+import Footer from "../../components/Footer.astro"
+import PostCard from "../../components/PostCard.astro"
+import Pagination from "../../components/Pagination.astro"
+import SiteOptions from "../../site.config.mjs"
+
+const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
+
+const allPosts = await getCollection("article")
+const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()).reverse()
+
+const paginated = sortedPosts.slice(0, POSTS_PER_PAGE)
+const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE)
+
+const pageData = {
+  data: paginated,
+  url: {
+    current: "/blog",
+    prev: undefined,
+    next: totalPages > 1 ? `/blog/page/2` : undefined,
+  },
+  currentPage: 1,
+  lastPage: totalPages,
+  size: POSTS_PER_PAGE,
+  total: sortedPosts.length,
+}
+---
+
+<BlogLayout title="All Posts">
+  <Header showTitle={true} />
+  <h1 class="text-3xl font-bold mb-8 text-center">All Posts</h1>
+
+  <ul class="space-y-6">
+    {paginated.map(post => <PostCard post={post} />)}
+  </ul>
+
+  <Pagination page={pageData} />
+  <Footer />
+</BlogLayout>

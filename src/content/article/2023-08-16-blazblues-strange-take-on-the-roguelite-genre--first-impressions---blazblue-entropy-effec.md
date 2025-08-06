@@ -8,13 +8,18 @@ description: In a surprising departure from the series' established norm of bein
 featured: false
 pubDate: 2023-08-16
 tags:
-- taptap
+- action
+- adventure
 - blazblue-entropy-effect
+- indie
+- macos
+- pc
+- taptap
 thumb: ''
 title: BlazBlue’s strange take on the roguelite genre | First Impressions - BlazBlue
   Entropy Effect
+game: BlazBlue Entropy Effect
 ---
-
 In a surprising departure from the series' established norm of being known for its renowned fighting games, BlazBlue Entropy Effect boldly ventures into uncharted territory with its unique take on the roguelite genre, albeit a bit strangely done.
 
 At the core of BlazBlue Entropy Effect lies an addictive gameplay loop that seamlessly intertwines side-scrolling action with the exploratory nature of Metroidvania games. The game features four meticulously designed level types—Night City, Ruins, Research Base, and Sakura City—each presenting distinct challenges, bosses, and enemy types to conquer.

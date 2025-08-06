@@ -6,24 +6,27 @@ description: 'Rumble Heroes : Adventure RPG is a free-to-play mobile RPG where p
 featured: false
 pubDate: 2023-03-10
 tags:
+- action
+- android
+- arcade
+- ios
+- rumble-heroes
+- strategy
 - taptap
-- adventure-rpg
 thumb: /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-0.avif
 title: Single-handedly assemble your team of heroes, literally | Full Review - Rumble
   Heroes
+game: Rumble Heroes
+gallery:
+- /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-0.avif
+- /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-1.avif
+- /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-2.avif
+- /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-3.avif
+- /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-4.avif
+- /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-5.avif
+- /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-6.avif
+- /images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-7.avif" alt="screenshot" />
-</div>
-
 Rumble Heroes : Adventure RPG is a free-to-play mobile RPG where players control a ragtag team of heroes looking to save the princess.
 
 

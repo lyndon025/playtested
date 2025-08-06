@@ -9,13 +9,15 @@ description: 'Hitman: Blood Money — Reprisal is a 1:1 mobile port of the origi
 featured: false
 pubDate: 2023-12-01
 tags:
+- action
+- hitman-blood-money-reprisal
+- ios
 - taptap
-- hitman:-blood-money
 thumb: ''
 title: 'A surprising Android / iOS release, FULL Hitman game! | Impressions - Hitman:
   Blood Money — Reprisal'
+game: 'Hitman: Blood Money — Reprisal'
 ---
-
 Hitman: Blood Money — Reprisal is a 1:1 mobile port of the original Hitman: Blood Money, maintaining the gripping narrative and open-ended stealth gameplay that has been a hallmark of the Hitman series. The game follows the iconic assassin, Agent 47, as he embarks on a series of missions to eliminate high-profile targets across the globe.
 
 With the mobile port, Reprisal successfully maintains a commendable level of visual quality. It is even on par with the “next-gen” graphics of Xbox 360 at the time , instead of the PS2 visuals. The controls are executed with surprising finesse too, offering proper intuitive touch controls that respond to the current situation and gives custom icons.

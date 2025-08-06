@@ -1,42 +1,45 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'The Lord of the Rings: Heroes'
+description: 'The Lord of the Rings: Heroes of Middle-earth or LOTR Heroes of Middle
+  Earth is a turn-based hero collecting online RPG game for the platform.'
 featured: false
 pubDate: 2023-05-15
 tags:
+- adventure
+- android
+- ios
+- lotr-heroes-of-middle-earth
+- rpg
 - taptap
-- the-lord-of-the-rings:-heroes
 thumb: /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-0.avif
 title: A F2P mobile gaming treat for LOTR fans | Full Review - LOTR Heroes of Middle
   Earth
+game: 'LotR: Heroes of Middle-earth'
+gallery:
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-0.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-1.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-2.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-3.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-4.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-5.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-6.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-7.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-8.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-9.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-10.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-11.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-12.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-13.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-14.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-15.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-16.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-17.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-18.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-19.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-20.avif
+- /images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-21.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-19.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-20.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-f2p-mobile-gaming-treat-for-lotr-fans--full-review---lotr-heroes-of-middle-earth-21.avif" alt="screenshot" />
-</div>
-
 The Lord of the Rings: Heroes
 
 lyndonguitar

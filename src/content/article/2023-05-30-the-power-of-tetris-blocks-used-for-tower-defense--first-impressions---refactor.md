@@ -10,12 +10,19 @@ description: In Refactor, Aliens are invading Earth, and you have to defend the 
 featured: false
 pubDate: 2023-05-30
 tags:
-- taptap
+- action
+- adventure
+- indie
+- linux
+- macos
+- pc
 - refactor
+- strategy
+- taptap
 thumb: ''
 title: The power of Tetris blocks used for tower defense! | First Impressions - Refactor
+game: Refactor
 ---
-
 In Refactor, Aliens are invading Earth, and you have to defend the planet by building elemental turrets. That's basically the background story. Now that's out of the way, the main focus here is the hardcore-style tower defense combat with innovative building elements, where you are also in charge of constructing the pathway of the enemies. Originally released for PC last year, I was able to try out the Android demo version of the game.
 
 At the core of Refactor lies its dynamic block building system, reminiscent of the popular puzzle game Tetris. Players are tasked with strategically arranging levels and pathways to create an effective defense against the invading forces. The enemy will automatically take the shortest path from start to end, and the game disallows you to block off the path entirely.

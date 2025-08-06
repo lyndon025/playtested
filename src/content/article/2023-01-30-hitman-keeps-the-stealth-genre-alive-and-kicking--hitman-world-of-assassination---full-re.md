@@ -7,32 +7,40 @@ description: In a world full of disappointing sequels, reboots, and spiritual su
 featured: false
 pubDate: 2023-01-30
 tags:
+- action
+- console
+- hitman
+- linux
+- macos
+- pc
+- playstation
+- playstation 4
+- shooter
+- simulation
 - taptap
-- hitman-go
+- xbox one
 thumb: /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-0.avif
 title: Hitman keeps the stealth-genre alive and kicking | HITMAN World of Assassination
   - Full Review
+game: Hitman
+gallery:
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-0.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-1.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-2.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-3.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-4.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-5.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-6.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-7.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-8.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-9.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-10.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-11.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-12.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-13.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-14.avif
+- /images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-15.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-15.avif" alt="screenshot" />
-</div>
-
 In a world full of disappointing sequels, reboots, and spiritual successors. We have one of the rarest examples of a franchise that has gotten better in time in HITMAN World of Assassination.
 
 

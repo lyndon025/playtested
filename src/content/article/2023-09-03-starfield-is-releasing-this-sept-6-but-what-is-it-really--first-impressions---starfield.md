@@ -8,13 +8,17 @@ description: 'It''s created by the same makers as Elder Scrolls V: Skyrim,  Elde
 featured: false
 pubDate: 2023-09-03
 tags:
-- taptap
+- adventure
+- pc
+- rpg
 - starfield
+- taptap
+- xbox series
 thumb: ''
 title: Starfield is releasing this Sept 6, but what is it, really? | First Impressions
   - Starfield
+game: Starfield
 ---
-
 It's created by the same makers as Elder Scrolls V: Skyrim,  Elder Scrolls IV: Oblivion, Fallout 3, and Fallout 4. So, if you've enjoyed any of those games, there's a good chance you'll like this one, especially if you're a fan of space exploration and space-themed titles like No Man's Sky or Star Citizen.
 
 In Starfield, players take on the role of a character in a futuristic science fiction universe. They can explore various planets, space stations, and engage in a wide range of activities, including branching dialogues with NPCs, skill checks, side quests, looting items, and more. The game allows players to customize their characters and their own ships, which serve as a central element of the game's customization.

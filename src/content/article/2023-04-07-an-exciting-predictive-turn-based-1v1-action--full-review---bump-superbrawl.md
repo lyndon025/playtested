@@ -6,29 +6,30 @@ description: BUMP! Superbrawl is a tactical strategy game that pits players’ t
 featured: false
 pubDate: 2023-04-07
 tags:
+- bump-superbrawl
+- casual
+- pc
+- strategy
 - taptap
-- bump!-superbrawl
 thumb: /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-0.avif
 title: An exciting predictive turn-based 1v1 action | Full Review - BUMP! Superbrawl
+game: BUMP! Superbrawl
+gallery:
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-0.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-1.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-2.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-3.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-4.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-5.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-6.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-7.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-8.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-9.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-10.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-11.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-12.avif
+- /images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-13.avif" alt="screenshot" />
-</div>
-
 BUMP! Superbrawl is a tactical strategy game that pits players’ team of heroes against each other in exciting predictive turn-based matches.
 
 

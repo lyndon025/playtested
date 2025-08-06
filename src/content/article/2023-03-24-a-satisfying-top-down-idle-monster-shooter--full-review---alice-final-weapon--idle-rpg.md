@@ -8,27 +8,33 @@ description: 'This is what happens when even a one-handed game like Vampire Surv
 featured: false
 pubDate: 2023-03-24
 tags:
+- action
+- adventure
+- alice-final-weapon-idle-rpg
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
 - taptap
-- alice,-final-weapon-:-idle-rpg
+- xbox one
 thumb: /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-0.avif
 title: 'A satisfying top-down idle monster shooter | Full Review - Alice, Final Weapon
   : Idle RPG'
+game: 'Alice, Final Weapon : Idle RPG'
+gallery:
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-0.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-1.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-2.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-3.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-4.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-5.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-6.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-7.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-8.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-9.avif
+- /images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-24-a-satisfying-top-down-idle-monster-shooter--full-review---alice-final-weapon--idle-rpg-10.avif" alt="screenshot" />
-</div>
-
 This is what happens when even a one-handed game like Vampire Survivors is still too much work. We now enter the realm of Idle and AFK games where you don’t even have to do anything to play and progress. Alice, Final Weapon : Idle RPG is another entry in this popular mobile genre.
 
 

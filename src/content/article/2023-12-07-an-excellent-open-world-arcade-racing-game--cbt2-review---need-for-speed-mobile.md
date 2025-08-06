@@ -1,27 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Need for Speed™ MobileGlobal
+description: Need for Speed™ MobileGlobal 8.6 Racing Multiplayer Pre-register
 featured: false
 pubDate: 2023-12-07
 tags:
+- arcade
+- cbt2-review-need-for-speed-mobile
+- massively multiplayer
+- pc
+- racing
 - taptap
-- need-for-speed™-mobile
 thumb: /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-0.avif
 title: An excellent open-world arcade racing game! | CBT2 Review - Need for Speed
   Mobile
+game: CBT2 Review - Need for Speed Mobile
+gallery:
+- /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-0.avif
+- /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-1.avif
+- /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-2.avif
+- /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-3.avif
+- /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-4.avif
+- /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-5.avif
+- /images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-07-an-excellent-open-world-arcade-racing-game--cbt2-review---need-for-speed-mobile-6.avif" alt="screenshot" />
-</div>
-
 Need for Speed™ MobileGlobal
 8.6
 Racing

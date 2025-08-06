@@ -6,35 +6,41 @@ description: 'Destiny 2: Lightfall is the latest expansion for the popular onlin
 featured: false
 pubDate: 2023-03-03
 tags:
+- console
+- destiny-2-lightfall
+- massively multiplayer
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - taptap
-- destiny-2
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-0.avif
 title: 'Average expansion on top of a great MMORPG FPS game | Full Review - Destiny
   2: Lightfall'
+game: 'Destiny 2: Lightfall'
+gallery:
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-0.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-1.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-2.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-3.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-4.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-5.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-6.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-7.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-8.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-9.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-10.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-11.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-12.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-13.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-14.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-15.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-16.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-17.avif
+- /images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-18.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-18.avif" alt="screenshot" />
-</div>
-
 Destiny 2: Lightfall is the latest expansion for the popular online multiplayer RPG FPS Destiny 2, developed by Bungie (creators of Halo series).
 
 

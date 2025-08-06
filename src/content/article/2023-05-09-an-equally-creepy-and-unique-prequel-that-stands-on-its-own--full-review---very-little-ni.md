@@ -1,33 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Very Little Nightmares+
+description: Very Little Nightmares is a puzzle-platformer game developed by Alike
+  Studio and published by Bandai Namco Entertainment. As a prequel to the popular
+  horror game Little Nightmares, this game boasts a similar eerie and suspenseful
+  atmosphere while providing an original, captivating storyline and gameplay that
+  stands on its own.
 featured: false
 pubDate: 2023-05-09
 tags:
+- adventure
+- android
+- ios
+- puzzle
 - taptap
-- very-little-nightmares+
+- very-little-nightmares
 thumb: /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-0.avif
 title: An equally creepy and unique prequel that stands on its own | Full Review -
   Very Little Nightmares+
+game: Very Little Nightmares
+gallery:
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-0.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-1.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-2.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-3.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-4.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-5.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-6.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-7.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-8.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-9.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-10.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-11.avif
+- /images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-12.avif" alt="screenshot" />
-</div>
-
 Very Little Nightmares+
 
 lyndonguitar

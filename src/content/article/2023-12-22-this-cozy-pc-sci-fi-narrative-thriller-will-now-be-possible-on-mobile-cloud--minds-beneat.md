@@ -1,33 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Minds Beneath Us
+description: Minds Beneath Us 8.5 Story Rich Puzzle Test
 featured: false
 pubDate: 2023-12-22
 score: 9.0
 tags:
-- taptap
+- adventure
+- indie
 - minds-beneath-us
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-0.avif
 title: This cozy PC sci-fi narrative thriller will now be possible on Mobile (Cloud)
   | Minds Beneath Us
+game: Minds Beneath Us
+gallery:
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-0.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-1.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-2.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-3.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-4.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-5.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-6.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-7.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-8.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-9.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-10.avif
+- /images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-11.avif" alt="screenshot" />
-</div>
-
 Minds Beneath Us
 8.5
 Story Rich

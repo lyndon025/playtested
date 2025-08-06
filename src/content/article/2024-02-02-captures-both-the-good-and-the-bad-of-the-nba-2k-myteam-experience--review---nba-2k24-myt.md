@@ -1,27 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: NBA 2K24 MyTEAM
+description: ✨Overview NBA 2K24 MyTEAM is a mobile iteration of the NBA 2K series,
+  focusing on the MyTEAM game mode. Available for mobile, it offers players an immersive
+  and realistic basketball simulation on the go. The title aims to cater to both avid
+  NBA fans and 2K newcomers, providing a dynamic blend of team-building, strategic
+  gameplay, and competitive online experiences right at players' fingertips.
 featured: false
 pubDate: 2024-02-02
 score: 7.0
 tags:
+- ios
+- nba-2k24-myteam
+- sports
 - taptap
-- nba-2k24-kobe-bryant-edition-for-ps5™
 thumb: /images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-0.avif
 title: Captures both the good and the bad of the NBA 2K MyTEAM experience | Review
   - NBA 2K24 MyTEAM
+game: NBA 2K24 MyTEAM
+gallery:
+- /images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-0.avif
+- /images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-1.avif
+- /images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-2.avif
+- /images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-3.avif
+- /images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-4.avif
+- /images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-captures-both-the-good-and-the-bad-of-the-nba-2k-myteam-experience--review---nba-2k24-myt-5.avif" alt="screenshot" />
-</div>
-
 NBA 2K24 MyTEAM
 7.8
 NBA

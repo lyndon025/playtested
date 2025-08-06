@@ -8,25 +8,28 @@ description: What UnderDungeon lacks in color, it makes up for with an aggressiv
 featured: false
 pubDate: 2023-01-13
 tags:
+- action
+- adventure
+- indie
+- pc
+- rpg
 - taptap
-- underdungeon-(pc,-xbs/x,-xb1,-ns)
+- underdungeon
 thumb: /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-0.avif
 title: It's dangerous to deliver alone! | UnderDungeon - Review
+game: UnderDungeon
+gallery:
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-0.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-1.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-2.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-3.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-4.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-5.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-6.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-7.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-8.avif
+- /images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-its-dangerous-to-deliver-alone--underdungeon---review-9.avif" alt="screenshot" />
-</div>
-
 What UnderDungeon lacks in color, it makes up for with an aggressive monochromatic stylized 1 bit graphics full of life, energy, and a highly stimulating retro music. UnderDungeon is an adventure game inspired by classic dungeon crawlers; brimming with humor, wit, and charm.
 
 Our character is the cat-slash-magician Kimuto who is on his first day of work. Applying for a delivery job, the sudden appearance of monsters on his town Kutopia complicates things, and Kimuto will have to face them first day on the job.

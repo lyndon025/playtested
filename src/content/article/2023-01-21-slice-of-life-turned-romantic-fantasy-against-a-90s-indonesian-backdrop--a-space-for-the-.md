@@ -9,26 +9,29 @@ description: A Space for the Unbound is the story of a boy and a girl — both w
 featured: false
 pubDate: 2023-01-21
 tags:
-- taptap
 - a-space-for-the-unbound
+- adventure
+- console
+- indie
+- nintendo switch
+- pc
+- taptap
 thumb: /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--0.avif
 title: Slice-of-life turned romantic fantasy against a 90’s Indonesian backdrop |
   A Space for the Unbound
+game: A Space for the Unbound
+gallery:
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--0.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--1.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--2.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--3.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--4.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--5.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--6.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--7.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--8.avif
+- /images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-slice-of-life-turned-romantic-fantasy-against-a-90s-indonesian-backdrop--a-space-for-the--9.avif" alt="screenshot" />
-</div>
-
 A Space for the Unbound is the story of a boy and a girl — both with supernatural powers — in a slice-of-life turned fantasy romance adventure against a 90’s Indonesian backdrop. A nice change of setting from the usual Japanese-themed similar works of art, like the popular Makoto Shinkai Anime movies Your Name and Weathering with You, all embodied in video game format.
 
 The game is very heavy on the narrative side and is centered on the couple Atma and Raya’s magical journey of discovery, loss, and hope. Mystery upon mystery is presented to the player right from the start that spurs curiosity, leaving the player wanting more answers that slowly unravel as you push through the gameplay to experience the story.

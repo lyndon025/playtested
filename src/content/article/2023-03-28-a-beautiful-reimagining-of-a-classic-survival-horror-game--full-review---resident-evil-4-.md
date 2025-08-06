@@ -8,42 +8,49 @@ description: Resident Evil 4 is the remake of the survivor horror classic bearin
 featured: false
 pubDate: 2023-03-28
 tags:
-- taptap
+- action
+- adventure
+- console
+- ios
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - resident-evil-4
+- taptap
+- xbox series
 thumb: /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--0.avif
 title: A beautiful reimagining of a classic survival horror game | Full Review - Resident
   Evil 4 Remake
+game: Resident Evil 4
+gallery:
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--0.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--1.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--2.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--3.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--4.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--5.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--6.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--7.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--8.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--9.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--10.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--11.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--12.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--13.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--14.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--15.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--16.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--17.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--18.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--19.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--20.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--21.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--22.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--23.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--24.avif
+- /images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--25.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--19.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--20.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--21.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--22.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--23.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--24.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--25.avif" alt="screenshot" />
-</div>
-
 Resident Evil 4 is the remake of the survivor horror classic bearing the same name back in 2005, as players continue the story of Leon S. Kennedy from Resident Evil 2, and his brand new mission to find the kidnapped daughter of the US president.
 
 

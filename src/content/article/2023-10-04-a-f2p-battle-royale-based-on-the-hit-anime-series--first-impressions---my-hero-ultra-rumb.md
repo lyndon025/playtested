@@ -8,13 +8,23 @@ description: Right from the start, MY HERO ULTRA RUMBLE immerses you in the worl
 featured: false
 pubDate: 2023-10-04
 tags:
-- taptap
+- action
+- casual
+- console
+- massively multiplayer
 - my-hero-ultra-rumble
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- taptap
+- xbox series
 thumb: ''
 title: A F2P battle royale based on the hit anime series | First Impressions - MY
   HERO ULTRA RUMBLE
+game: MY HERO ULTRA RUMBLE
 ---
-
 Right from the start, MY HERO ULTRA RUMBLE immerses you in the world of Heroes and Quirks, and it's exhilarating. The game is action-packed and really captures the vibe of the anime so well in its battles and combat, delivering an authentic anime gaming experience in battle royale format.
 
 While the controls are generally responsive, I did notice that there's a learning curve, especially when playing with a keyboard and mouse. With multiple controls than usual for abilities, dodging, and items, it takes a bit of time to get used to the layout.

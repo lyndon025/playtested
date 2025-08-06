@@ -8,12 +8,22 @@ description: Sonic Superstars brings back the magic of the original Sonic titles
 featured: false
 pubDate: 2023-10-18
 tags:
-- taptap
+- action
+- console
+- nintendo switch
+- pc
+- platformer
+- playstation
+- playstation 4
+- playstation 5
 - sonic-superstars
+- taptap
+- xbox one
+- xbox series
 thumb: ''
 title: New Thrills. Classic Feels. | First Impressions - Sonic Superstars
+game: Sonic Superstars
 ---
-
 Sonic Superstars brings back the magic of the original Sonic titles that graced the Genesis and Mega Drive, and it does so with a fresh modern twist. As one of the first video game franchises I’ve ever played, I couldn't help but feel a rush of nostalgia and joy.
 
 Players can choose from Sonic, Tails, Knuckles, and Amy, each with unique abilities that add depth to the gameplay. The level design encourages exploration with branching paths, rewarding players for venturing off the beaten track. Controls are responsive, providing a sense of familiarity and precision that fans of the classic Sonic games will appreciate. The characters' abilities are well-suited to their personalities,

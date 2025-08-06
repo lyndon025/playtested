@@ -8,27 +8,34 @@ description: ONE PIECE ODYSSEY is something special. A rare occurrence; there’
 featured: false
 pubDate: 2023-01-13
 tags:
+- action
+- console
+- nintendo switch
+- one-piece-odyssey
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
 - taptap
-- one-piece-odyssey-(pc)
+- xbox series
 thumb: /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-0.avif
 title: The greatest ONE PIECE game so far! | ONE PIECE ODYSSEY - Review
+game: One Piece Odyssey
+gallery:
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-0.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-1.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-2.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-3.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-4.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-5.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-6.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-7.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-8.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-9.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-10.avif
+- /images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-the-greatest-one-piece-game-so-far--one-piece-odyssey---review-11.avif" alt="screenshot" />
-</div>
-
 ONE PIECE ODYSSEY is something special. A rare occurrence; there’s finally a good Anime game that isn’t a hack and slash or a fighting game, as it instead features a fresh JRPG turn-based combat system. A nice change of pace and a solid design decision worthy of our attention.
 
 The plot of ONE PIECE ODYSSEY inserts us into one of the many adventures of Luffy and his Straw Hat Crew, caught in a storm and shipwrecked on a tropical island. Becoming separated, Luffy must reunite with his crewmates and escape the Island.

@@ -1,26 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Resident Evil Village
+description: Capcom has officially unleashed Resident Evil Village onto mobile devices
+  yesterday, October 30. Available for iPhone 15 Pro and supported iPad models equipped
+  with an M1 chipset or better
 featured: false
 pubDate: 2023-10-31
 score: 7.0
 tags:
+- action
+- adventure
+- console
+- ios
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- resident-evil-village
 - taptap
-- resident-evil-2
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-0.avif
 title: A full-sized portable RE Village, with acceptable compromises | Review - Resident
   Evil Village
+game: 'Resident Evil: Village'
+gallery:
+- /images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-0.avif
+- /images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-1.avif
+- /images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-2.avif
+- /images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-3.avif
+- /images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-a-full-sized-portable-re-village-with-acceptable-compromises--review---resident-evil-vill-4.avif" alt="screenshot" />
-</div>
-
 Resident Evil Village
 8.9
 Action

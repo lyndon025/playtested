@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Arto
+description: In the world of Arto, an event known as the Chromacylsm has drained all
+  color, and our protagonist has been chosen to restore it and save the land. Players
+  control Liv, an apostle of Goya, the chromatic Divinity of the Painted Arto. Liv
+  is unaware of what is happening, and is unraveling the plot's mysteries alongside
+  the player despite being destined for this task.
 featured: false
 pubDate: 2023-05-03
 tags:
-- taptap
+- action
 - arto
+- pc
+- taptap
+- web
 thumb: /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-0.avif
 title: Bring color to the desaturated land and save the world | First Impressions
   - Arto
+game: Arto
+gallery:
+- /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-0.avif
+- /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-1.avif
+- /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-2.avif
+- /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-3.avif
+- /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-4.avif
+- /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-5.avif
+- /images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-bring-color-to-the-desaturated-land-and-save-the-world--first-impressions---arto-6.avif" alt="screenshot" />
-</div>
-
 Arto
 7.1
 Action

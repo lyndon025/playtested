@@ -7,31 +7,33 @@ description: Beyond The Edge Of Owlsgard is an old-school point and click advent
 featured: false
 pubDate: 2022-12-26
 tags:
-- taptap
+- adventure
 - beyond-the-edge-of-owlsgard
+- indie
+- linux
+- pc
+- taptap
 thumb: /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-0.avif
 title: A full-on retro point and click adventure | Beyond The Edge Of Owlsgard - Review
+game: Beyond The Edge Of Owlsgard
+gallery:
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-0.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-1.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-2.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-3.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-4.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-5.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-6.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-7.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-8.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-9.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-10.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-11.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-12.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-13.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-14.avif
+- /images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-15.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-15.avif" alt="screenshot" />
-</div>
-
 Beyond The Edge Of Owlsgard is an old-school point and click adventure game reminiscent of the classic animated movies of the 90s as well as classic video games like The Secret of Monkey Island, Sam and Max, and Kings Quest.
 
 

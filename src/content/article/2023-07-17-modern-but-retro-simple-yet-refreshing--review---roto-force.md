@@ -1,25 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Roto Force
+description: lyndonguitar Roto Force is a retro-inspired twin-stick shooter that turns
+  the genre on its own with its unique take. Instead of moving around the levels freely,
+  you move around the inverted planet-esque environment. You move around the level
+  like a hamster on a wheel and try to avoid enemies that usually spawn at the center.
+  Despite it being retro in its aesthetics and soundtrack, the gameplay couldn't be
+  more modern with its fluid touch-based controls and movement mechanics.
 featured: false
 pubDate: 2023-07-17
 tags:
-- taptap
+- action
+- indie
+- linux
+- macos
+- pc
 - roto-force
+- taptap
 thumb: /images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-0.avif
 title: Modern but retro, simple yet refreshing | Review - Roto Force
+game: Roto Force
+gallery:
+- /images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-0.avif
+- /images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-1.avif
+- /images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-2.avif
+- /images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-3.avif
+- /images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-4.avif
+- /images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-modern-but-retro-simple-yet-refreshing--review---roto-force-5.avif" alt="screenshot" />
-</div>
-
 Roto Force
 
 lyndonguitar

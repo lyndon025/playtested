@@ -1,31 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Extremely Realistic Siege Warfare Simulator
+description: Extremely Realistic Siege Warfare Simulator is a real-time strategy sandbox
+  simulation game of medieval siege warfare. The title itself serves as a description
+  of the game, although the phrase "Extremely Realistic" is somewhat exaggerated and
+  meant in a lighthearted, humorous manner.
 featured: false
 pubDate: 2023-05-27
 tags:
+- action
+- casual
+- extremely-realistic-siege-warfare-sim
+- indie
+- macos
+- pc
+- simulation
+- strategy
 - taptap
-- extremely-realistic-siege-warfare-simulator
 thumb: /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-0.avif
 title: Extremely frustrating controls but otherwise fun | Review - Extremely Realistic
   Siege Warfare Sim
+game: Extremely Realistic Siege Warfare Sim
+gallery:
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-0.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-1.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-2.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-3.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-4.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-5.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-6.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-7.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-8.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-9.avif
+- /images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-10.avif" alt="screenshot" />
-</div>
-
 Extremely Realistic Siege Warfare Simulator
 
 lyndonguitar

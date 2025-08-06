@@ -1,26 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: THE FINALS
+description: Since my previous review during the open beta, THE FINALS has officially
+  launched on PC, Xbox, and PlayStation, marking its official entry into the highly
+  competitive market of team-based FPS games, announced during The Game Awards show.
 featured: false
 pubDate: 2023-12-12
 score: 9.0
 tags:
+- action
+- console
+- pc
+- playstation
+- playstation 5
+- shooter
 - taptap
 - the-finals
+- xbox series
 thumb: /images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-0.avif
 title: The most fun, refreshing shooter I’ve played all year | Review - THE FINALS
+game: The Finals
+gallery:
+- /images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-0.avif
+- /images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-1.avif
+- /images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-2.avif
+- /images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-3.avif
+- /images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-4.avif
+- /images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-the-most-fun-refreshing-shooter-ive-played-all-year--review---the-finals-5.avif" alt="screenshot" />
-</div>
-
 THE FINALS
 9.2
 Fast-paced

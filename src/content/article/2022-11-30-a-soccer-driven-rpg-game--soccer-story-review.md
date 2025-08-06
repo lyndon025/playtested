@@ -8,24 +8,28 @@ description: At a glance, the gameplay and graphics of Soccer Story looks like a
 featured: false
 pubDate: 2022-11-30
 tags:
-- taptap
+- action
+- adventure
+- pc
+- rpg
+- simulation
 - soccer-story
+- sports
+- taptap
 thumb: /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-0.avif
 title: A soccer-driven RPG game? | Soccer Story Review
+game: Soccer Story
+gallery:
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-0.avif
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-1.avif
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-2.avif
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-3.avif
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-4.avif
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-5.avif
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-6.avif
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-7.avif
+- /images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-a-soccer-driven-rpg-game--soccer-story-review-8.avif" alt="screenshot" />
-</div>
-
 At a glance, the gameplay and graphics of Soccer Story looks like a mashup of Pokemon and Stardew Valley with a nice touch of clean 3D graphics, but the comparisons end there, as within Soccer Story is a fun semi-physics driven gameplay that has a very healthy obsession with soccer.
 
 The entire premise of Soccer Story revolves around the namesake sport, blamed to have caused some kind of calamity in the previous year, ultimately leading to its worldwide ban. That is, except for usage by Soccer Inc. in its heavily regulated matches, effectively being monopolized.

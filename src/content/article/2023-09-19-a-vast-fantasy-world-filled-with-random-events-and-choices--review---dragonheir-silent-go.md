@@ -1,30 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Dragonstride: Legacy Reborn'
+description: 'Dragonheir: Silent Gods is a high-fantasy RPG game with immersive role
+  playing elements, intriguing narrative, and a relaxing tactical combat experience.
+  Set in a universe where chaos and order collide, and gods and mortals are inextricably
+  linked. It is now available for both PC and Mobile and features crossplay and cross
+  progression capabilities.'
 featured: false
 pubDate: 2023-09-19
 tags:
+- adventure
+- dragonheir-silent-gods
+- ios
+- massively multiplayer
+- pc
+- rpg
+- strategy
 - taptap
-- dragonheir:-silent-gods
 thumb: /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-0.avif
 title: 'A vast fantasy world filled with random events and choices | Review - Dragonheir:
   Silent Gods'
+game: 'Dragonheir: Silent Gods'
+gallery:
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-0.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-1.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-2.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-3.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-4.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-5.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-6.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-7.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-8.avif
+- /images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-vast-fantasy-world-filled-with-random-events-and-choices--review---dragonheir-silent-go-9.avif" alt="screenshot" />
-</div>
-
 Dragonstride: Legacy Reborn
 
 lyndonguitar

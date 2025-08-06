@@ -1,26 +1,43 @@
 ---
 author: lyndonguitar
 category: Review
-description: Once HumanGlobal
+description: Once Human is an upcoming fascinating amalgamation of multiple video
+  game themes; Death Stranding, Control, and Alan Wake, blending post-apocalyptic
+  and sci-fi elements into a genre that I somewhat found surprising and out-of-place,
+  ---- an open-world sandbox. The game introduces players to a world ravaged by the
+  Stardust, an alien entity infesting everything, turning them into monstrous forms.
+  As a Meta-Human, players harness the power of Stardust to survive, fight, build,
+  and explore in a world where humanity is on the brink of extinction.
 featured: false
 pubDate: 2023-12-12
 score: 7.0
 tags:
+- action
+- adventure
+- casual
+- console
+- indie
+- macos
+- massively multiplayer
+- pc
+- playstation
+- playstation 5
+- shooter
+- simulation
 - taptap
-- alan-wake
+- the-day-before
+- xbox series
 thumb: /images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-0.avif
 title: Forget The Day Before, this game is actually cool | CBT 2.0 Review - Once Human
+game: The Day Before
+gallery:
+- /images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-0.avif
+- /images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-1.avif
+- /images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-2.avif
+- /images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-3.avif
+- /images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-4.avif
+- /images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-forget-the-day-before-this-game-is-actually-cool--cbt-20-review---once-human-5.avif" alt="screenshot" />
-</div>
-
 Once HumanGlobal
 8.1
 Editors' Choice

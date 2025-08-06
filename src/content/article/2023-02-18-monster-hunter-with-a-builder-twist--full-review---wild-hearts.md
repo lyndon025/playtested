@@ -8,34 +8,39 @@ description: 'Wild Hearts may look like a Monster Hunter-clone at surface level,
 featured: false
 pubDate: 2023-02-18
 tags:
+- action
+- adventure
+- console
+- pc
+- playstation
+- playstation 5
 - taptap
-- wild-hearts™
+- wild-hearts
+- xbox series
 thumb: /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-0.avif
 title: Monster Hunter with a 'builder' twist | Full Review - Wild Hearts
+game: Wild Hearts
+gallery:
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-0.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-1.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-2.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-3.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-4.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-5.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-6.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-7.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-8.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-9.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-10.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-11.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-12.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-13.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-14.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-15.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-16.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-17.avif
+- /images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-18.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-18.avif" alt="screenshot" />
-</div>
-
 Wild Hearts may look like a Monster Hunter-clone at surface level, but it’s much more than that, with various twists and additions to the formula by way of incorporating elements from other games like Fortnite, Ark: Survival, and even Death Stranding.
 
 

@@ -1,27 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Ex AstrisGlobal
+description: ✨Overview Ex Astris, developed by Hypergryph (developers of Arknights),
+  offers a unique blend of turn-based and real-time gameplay in a mesmerizing 3D world.
+  Unlike the usual gacha offering we usual see from this developer and in mobile games,
+  Ex Astris easily stands out as a one-time purchase premium game, offering a refreshing
+  change of pace, a rarity these days.
 featured: false
 pubDate: 2024-02-28
 score: 8.0
 tags:
-- taptap
+- action
 - ex-astris
+- indie
+- linux
+- macos
+- pc
+- shooter
+- taptap
 thumb: /images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-0.avif
 title: A refreshing RPG adventure premium game, a rarity these days | Review - Ex
   Astris
+game: Ex Astris
+gallery:
+- /images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-0.avif
+- /images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-1.avif
+- /images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-2.avif
+- /images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-3.avif
+- /images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-4.avif
+- /images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-28-a-refreshing-rpg-adventure-premium-game-a-rarity-these-days--review---ex-astris-5.avif" alt="screenshot" />
-</div>
-
 Ex AstrisGlobal
 9.0
 RPG

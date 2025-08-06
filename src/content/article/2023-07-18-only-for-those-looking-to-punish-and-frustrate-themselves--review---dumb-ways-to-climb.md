@@ -1,26 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dumb Ways to Climb
+description: Dumb Ways to Climb, developed by PlaySide Studios Ltd, attempts to combine
+  the charm of the Dumb Ways to Die franchise with the viral gameplay of the popular
+  vertical platformer PC game Only Up!.
 featured: false
 pubDate: 2023-07-18
 tags:
-- taptap
+- casual
 - dumb-ways-to-climb
+- ios
+- puzzle
+- taptap
 thumb: /images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-0.avif
 title: Only for those looking to punish and frustrate themselves | Review - Dumb Ways
   to Climb
+game: Dumb Ways to Climb
+gallery:
+- /images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-0.avif
+- /images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-1.avif
+- /images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-2.avif
+- /images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-3.avif
+- /images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-4.avif
+- /images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-5.avif" alt="screenshot" />
-</div>
-
 Dumb Ways to Climb
 
 lyndonguitar

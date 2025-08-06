@@ -7,24 +7,24 @@ description: 'In Hero Legacy: Adventure RPG, you are a legendary hero who is the
 featured: false
 pubDate: 2023-04-06
 tags:
-- taptap
+- hero-legacy
+- pc
 - rpg
+- taptap
 thumb: /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-0.avif
 title: Rebuild the Kingdom, Protect the land, Summon Ancestors | First Impressions
   - Hero Legacy
+game: Hero Legacy
+gallery:
+- /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-0.avif
+- /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-1.avif
+- /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-2.avif
+- /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-3.avif
+- /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-4.avif
+- /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-5.avif
+- /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-6.avif
+- /images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-rebuild-the-kingdom-protect-the-land-summon-ancestors--first-impressions---hero-legacy-7.avif" alt="screenshot" />
-</div>
-
 In Hero Legacy: Adventure RPG, you are a legendary hero who is the son of the former king, destined to rebuild your kingdom and vanish the enemies that threaten the land.
 
 Starting out Hero Legacy: Adventure RPG, I was immediately introduced to the grand exploration / dungeon crawling gameplay set in a hexagonal grid based map, populated by monsters, loot, and resources to conquer. Navigation is easy, just touch what tile to move to and it will immediately interact with it either by gathering the resource or loot, or entering combat with hostile units in that area, if any.

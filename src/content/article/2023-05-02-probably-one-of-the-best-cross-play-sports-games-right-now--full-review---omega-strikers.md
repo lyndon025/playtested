@@ -1,33 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Omega Strikers
+description: lyndonguitar Get Omega Strikers is a sports multiplayer mobile game that
+  combines Moba mechanics along with the sport soccer and air hockey.
 featured: false
 pubDate: 2023-05-02
 tags:
-- taptap
+- action
+- console
+- ios
+- nintendo switch
 - omega-strikers
+- pc
+- strategy
+- taptap
 thumb: /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-0.avif
 title: Probably one of the best cross-play sports games right now | Full Review -
   Omega Strikers
+game: Omega Strikers
+gallery:
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-0.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-1.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-2.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-3.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-4.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-5.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-6.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-7.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-8.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-9.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-10.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-11.avif
+- /images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-12.avif" alt="screenshot" />
-</div>
-
 Omega Strikers
 
 lyndonguitar

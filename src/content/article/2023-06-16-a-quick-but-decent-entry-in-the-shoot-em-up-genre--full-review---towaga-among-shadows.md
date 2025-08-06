@@ -1,29 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Towaga: Among Shadows'
+description: 'Towaga: Among Shadows Set in a mysterious and dark Aztec-inspired world,
+  Towaga: Among Shadows places players in the role of Chimu, a masked protagonist
+  with supernatural powers, tasked with defending the sacred Temple of Towaga from
+  relentless hordes of shadow creatures.'
 featured: false
 pubDate: 2023-06-16
 tags:
+- action
+- console
+- ios
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- shooter
 - taptap
-- towaga:-among-shadows
+- towaga-among-shadows
+- xbox one
 thumb: /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-0.avif
 title: A quick but decent entry in the shoot 'em up genre | Full Review - Towaga Among
   Shadows
+game: 'Towaga: Among Shadows'
+gallery:
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-0.avif
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-1.avif
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-2.avif
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-3.avif
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-4.avif
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-5.avif
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-6.avif
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-7.avif
+- /images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-8.avif" alt="screenshot" />
-</div>
-
 Towaga: Among Shadows
 Set in a mysterious and dark Aztec-inspired world, Towaga: Among Shadows places players in the role of Chimu, a masked protagonist with supernatural powers, tasked with defending the sacred Temple of Towaga from relentless hordes of shadow creatures.
 

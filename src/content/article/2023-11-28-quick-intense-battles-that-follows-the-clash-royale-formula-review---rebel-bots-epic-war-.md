@@ -1,26 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Rebel Bots: Epic War PvP RTS'
+description: 'Rebel Bots: Epic War PvP RTS 6.2 Strategy PvP Download'
 featured: false
 pubDate: 2023-11-28
 score: 6.0
 tags:
+- card
+- ios
+- rebel-bots-epic-war-pvp-clash
+- strategy
 - taptap
-- rebel-bots:-epic-war-pvp-rts
 thumb: /images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--0.avif
 title: 'Quick intense battles that follows the Clash Royale formula |Review - Rebel
   Bots: Epic War PvP Clash'
+game: 'Rebel Bots: Epic War PvP Clash'
+gallery:
+- /images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--0.avif
+- /images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--1.avif
+- /images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--2.avif
+- /images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--3.avif
+- /images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-28-quick-intense-battles-that-follows-the-clash-royale-formula-review---rebel-bots-epic-war--4.avif" alt="screenshot" />
-</div>
-
 Rebel Bots: Epic War PvP RTS
 6.2
 Strategy

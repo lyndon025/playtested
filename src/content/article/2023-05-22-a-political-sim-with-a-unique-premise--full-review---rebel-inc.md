@@ -1,33 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Rebel Inc.
+description: From the same studio behind the popular game Plague Inc., Rebel Inc.
+  puts players in the role of a leader tasked with stabilizing a war-torn region by
+  managing military and civilian initiatives, balancing the needs of the population,
+  and combating insurgent forces.
 featured: false
 pubDate: 2023-05-22
 tags:
+- android
+- ios
+- rebel-inc
+- simulation
+- strategy
 - taptap
-- rebel-inc.
 thumb: /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif
 title: A political sim with a unique premise | Full Review - Rebel Inc.
+game: Rebel Inc.
+gallery:
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-1.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-2.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-3.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-4.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-5.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-6.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-7.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-8.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-9.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-10.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-11.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-12.avif
+- /images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-13.avif" alt="screenshot" />
-</div>
-
 Rebel Inc.
 
 lyndonguitar

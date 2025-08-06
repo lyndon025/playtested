@@ -1,27 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Time to Strike
+description: Time to Strike is as an upcoming bullet hell rogue-like twin stick shooter,
+  teasing players with its demo available on Steam and a scheduled release in Q1 2024.
+  It aims to provide streamlined gameplay with a sprinkle of chaos and unpredictability.
+  With 30+ weapons, 30+ powerful mods, 80+ fun relics, and 5 challenging boss fights
+  in the full version.
 featured: false
 pubDate: 2024-01-23
 score: 7.0
 tags:
+- action
+- console
+- indie
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
+- strategy
 - taptap
-- time-to-strike
+- time-to-strike-demo
+- xbox one
 thumb: /images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-0.avif
 title: Creating overpowered builds has never been this simple | Review - Time to Strike
   (Demo)
+game: Time to Strike (Demo)
+gallery:
+- /images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-0.avif
+- /images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-1.avif
+- /images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-2.avif
+- /images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-3.avif
+- /images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-4.avif
+- /images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-creating-overpowered-builds-has-never-been-this-simple--review---time-to-strike-demo-5.avif" alt="screenshot" />
-</div>
-
 Time to Strike
 --
 Action

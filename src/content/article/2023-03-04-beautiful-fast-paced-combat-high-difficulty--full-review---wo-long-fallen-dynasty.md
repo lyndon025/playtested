@@ -6,36 +6,42 @@ description: 'Wo Long: Fallen Dynasty is a fast-paced, souls-like third person R
 featured: false
 pubDate: 2023-03-04
 tags:
+- action
+- console
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - taptap
-- wo-long:-fallen-dynasty
+- wo-long-fallen-dynasty
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-0.avif
 title: 'Beautiful fast-paced combat, high difficulty | Full Review - Wo Long: Fallen
   Dynasty'
+game: 'Wo Long: Fallen Dynasty'
+gallery:
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-0.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-1.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-2.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-3.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-4.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-5.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-6.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-7.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-8.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-9.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-10.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-11.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-12.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-13.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-14.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-15.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-16.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-17.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-18.avif
+- /images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-19.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-19.avif" alt="screenshot" />
-</div>
-
 Wo Long: Fallen Dynasty is a fast-paced, souls-like third person RPG set in a fictionalized version of ancient Three Kingdoms China.
 
 

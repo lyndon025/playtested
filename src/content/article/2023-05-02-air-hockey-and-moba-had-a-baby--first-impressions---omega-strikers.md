@@ -1,25 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Omega Strikers
+description: Imagine if Air Hockey was instead played in human size with six players
+  having their own superhuman powers with absolutely no physical restraints or rules,
+  Omega Strikers is exactly just that and more. It is a 3v3 free-to-play multiplayer
+  game that is available for Mobile, PC, Xbox, Playstation, and Switch, with complete
+  crossplay functionality. For the purpose of this article, I will be talking about
+  the Mobile version with predominantly touchscreen controls.
 featured: false
 pubDate: 2023-05-02
 tags:
-- taptap
+- action
+- console
+- ios
+- nintendo switch
 - omega-strikers
+- pc
+- strategy
+- taptap
 thumb: /images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif
 title: Air Hockey and MOBA had a baby | First Impressions - Omega Strikers
+game: Omega Strikers
+gallery:
+- /images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif
+- /images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-1.avif
+- /images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-2.avif
+- /images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-3.avif
+- /images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-4.avif
+- /images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-5.avif" alt="screenshot" />
-</div>
-
 Omega Strikers
 8.2
 Action

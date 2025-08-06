@@ -8,23 +8,23 @@ description: Dodge ‘em up is a genre entirely new to me, and so far I like the
 featured: false
 pubDate: 2022-12-06
 tags:
-- taptap
+- action
+- pc
 - swordship
+- taptap
 thumb: /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-0.avif
 title: Shoot ‘em up, without the Shoot’ em | Swordship - Review
+game: Swordship
+gallery:
+- /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-0.avif
+- /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-1.avif
+- /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-2.avif
+- /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-3.avif
+- /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-4.avif
+- /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-5.avif
+- /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-6.avif
+- /images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-06-shoot-em-up-without-the-shoot-em--swordship---review-7.avif" alt="screenshot" />
-</div>
-
 Dodge ‘em up is a genre entirely new to me, and so far I like the concept. Swordship is one such game, it takes the notion of shoot ‘em up but removes the shooting part and makes the fundamental gameplay all about the art of dodging and deception.
 
 You are a Swordship pilot, trying to steal and smuggle supplies from megacities hoarding them in the face of a post apocalyptic water world. Delivering these stolen supplies to those unfortunates living outside the megacities.

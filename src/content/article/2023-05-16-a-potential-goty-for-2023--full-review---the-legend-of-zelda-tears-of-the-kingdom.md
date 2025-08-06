@@ -1,42 +1,41 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'The Legend of Zelda: Tears of the Kingdom is an action-adventure game
-  and the much awaited sequel to 2017’s award-winning game The Legend of Zelda: Breath
-  of the Wild, boasting the same core gameplay mechanics including open world exploration
-  and a non-linear story.'
+description: 'The Legend of Zelda: Tears of the Kingdom (NS)'
 featured: true
 pubDate: 2023-05-16
 score: 9
 tags:
+- action
+- adventure
+- console
+- nintendo switch
 - taptap
-- the-legend-of-zelda:-tears-of-the-kingdom-(ns)
+- the-legend-of-zelda-tears-of-the-kingdom
 thumb: /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-0.avif
 title: 'A potential GOTY for 2023 | Full Review - The Legend of Zelda: Tears of the
   Kingdom'
+game: 'The Legend of Zelda: Tears of the Kingdom'
+gallery:
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-0.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-1.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-2.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-3.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-4.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-5.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-6.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-7.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-8.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-9.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-10.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-11.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-12.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-13.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-14.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-15.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-16.avif
+- /images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-17.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-17.avif" alt="screenshot" />
-</div>
-
 The Legend of Zelda: Tears of the Kingdom (NS)
 
 The Legend of Zelda: Tears of the Kingdom is an action-adventure game and the much awaited sequel to 2017’s award-winning game The Legend of Zelda: Breath of the Wild, boasting the same core gameplay mechanics including open world exploration and a non-linear story.

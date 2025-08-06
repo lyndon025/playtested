@@ -1,35 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Eldritch Cycle
+description: ANNULUS is a dark fantasy-themed tactics squad RPG game featuring hero
+  collection elements and impressive AAA graphics.
 featured: false
 pubDate: 2023-05-18
 tags:
+- closed-beta-review-annulus
+- rpg
 - taptap
-- annulus
+- web
 thumb: /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-0.avif
 title: This good looking turn-based RPG game has potential | Closed Beta Review -
   ANNULUS
+game: Closed Beta Review - ANNULUS
+gallery:
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-0.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-1.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-2.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-3.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-4.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-5.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-6.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-7.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-8.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-9.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-10.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-11.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-12.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-13.avif
+- /images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-this-good-looking-turn-based-rpg-game-has-potential--closed-beta-review---annulus-14.avif" alt="screenshot" />
-</div>
-
 Eldritch Cycle
 
 lyndonguitar

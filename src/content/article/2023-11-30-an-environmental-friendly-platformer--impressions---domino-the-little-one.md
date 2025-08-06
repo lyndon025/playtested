@@ -8,12 +8,15 @@ description: 'Saving the world is cool, facing monsters is badass, but doing bot
 featured: false
 pubDate: 2023-11-30
 tags:
-- taptap
+- adventure
 - domino-the-little-one
+- indie
+- pc
+- taptap
 thumb: ''
 title: An environmental friendly platformer? | Impressions - DOMINO The Little One
+game: 'DOMINO: The Little One'
 ---
-
 Saving the world is cool, facing monsters is badass, but doing both at the same time? DOMINO: The Little One is a 2D platformer game aims to do just that. Well, the game promises to be an immersive interactive narrative experience that will test your wit and determination. Is it? Does it?
 
 Sad to say, but it's not --- and it doesn't.  The game falls flat as a video game experience; the gameplay is very shallow: just move, run, and jump, and even with that simple scheme the character is awful to control. The game is very short under 40 minutes and there's really no challenge nor compelling reason to play it.

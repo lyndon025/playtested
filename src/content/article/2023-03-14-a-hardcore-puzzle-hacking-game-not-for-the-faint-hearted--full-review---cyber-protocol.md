@@ -8,31 +8,37 @@ description: Cyber Protocol is an arcade puzzle game that will test your problem
 featured: false
 pubDate: 2023-03-14
 tags:
-- taptap
+- console
 - cyber-protocol
+- indie
+- ios
+- nintendo switch
+- pc
+- puzzle
+- strategy
+- taptap
+- xbox one
 thumb: /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-0.avif
 title: A hardcore puzzle hacking game not for the faint-hearted | Full Review - Cyber
   Protocol
+game: Cyber Protocol
+gallery:
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-0.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-1.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-2.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-3.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-4.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-5.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-6.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-7.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-8.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-9.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-10.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-11.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-12.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-13.avif
+- /images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-14-a-hardcore-puzzle-hacking-game-not-for-the-faint-hearted--full-review---cyber-protocol-14.avif" alt="screenshot" />
-</div>
-
 Cyber Protocol is an arcade puzzle game that will test your problem solving skills, patience, and memory. Built under the guise of a simple hacking sliding mini-game, Cyber Protocol is much more than it meets the eye. It is frantic, hardcore, and unforgiving.
 
 

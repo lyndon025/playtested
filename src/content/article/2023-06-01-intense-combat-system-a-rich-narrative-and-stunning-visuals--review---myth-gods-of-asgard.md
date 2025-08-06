@@ -1,33 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Myth: Gods of AsgardGlobal'
+description: 'lyndonguitar Download Myth: Gods of Asgard is a hack and slash action
+  role-playing game set in Norse mythology, with a visually stunning art style, combat,
+  and a gacha system.'
 featured: false
 pubDate: 2023-06-01
 tags:
+- action
+- adventure
+- casual
+- indie
+- myth-gods-of-asgard
+- pc
+- rpg
+- strategy
 - taptap
-- myth:-gods-of-asgard
 thumb: /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-0.avif
 title: 'Intense combat system, a rich narrative, and stunning visuals | Review - Myth:
   Gods of Asgard'
+game: 'Myth: Gods of Asgard'
+gallery:
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-0.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-1.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-2.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-3.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-4.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-5.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-6.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-7.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-8.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-9.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-10.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-11.avif
+- /images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-12.avif" alt="screenshot" />
-</div>
-
 Myth: Gods of AsgardGlobal
 
 lyndonguitar

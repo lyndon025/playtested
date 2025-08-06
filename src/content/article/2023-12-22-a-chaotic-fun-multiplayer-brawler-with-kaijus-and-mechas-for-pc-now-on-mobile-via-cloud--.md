@@ -1,33 +1,45 @@
 ---
 author: lyndonguitar
 category: Review
-description: GigaBash
+description: 'GigaBash is a thrilling multiplayer arena brawler that seamlessly blends
+  the chaos of titles like Power Stone, Super Smash Bros. Ultimate, and Godzilla:
+  Destroy All Monsters with the awe-inspiring scale of classic kaiju movies. The game
+  invites players to claim their place as king among Titans, offering a choice between
+  rampaging Titans and Titan-hunting mechas. The game has been out on PC and consoles
+  since last year, and has recently got its Ultraman DLC, following the Godzilla DLC
+  last year. A demo is available, and I got a chance to try that on Steam.'
 featured: false
 pubDate: 2023-12-22
 score: 8.0
 tags:
-- taptap
+- action
+- console
 - gigabash
+- indie
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- taptap
+- xbox one
 thumb: /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---0.avif
 title: A chaotic fun multiplayer brawler with Kaijus and Mechas for PC, now on Mobile
   via Cloud | GigaBash
+game: Gigabash
+gallery:
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---0.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---1.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---2.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---3.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---4.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---5.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---6.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---7.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---8.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---9.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---10.avif
+- /images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-chaotic-fun-multiplayer-brawler-with-kaijus-and-mechas-for-pc-now-on-mobile-via-cloud---11.avif" alt="screenshot" />
-</div>
-
 GigaBash
 8.4
 Action

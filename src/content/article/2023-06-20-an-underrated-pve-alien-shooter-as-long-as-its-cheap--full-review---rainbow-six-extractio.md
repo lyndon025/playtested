@@ -1,31 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tom Clancy’s Rainbow Six® Extraction
+description: 'Tom Clancy’s Rainbow Six® Extraction Rainbow Six: Extraction, the latest
+  installment in the critically acclaimed Tom Clancy''s Rainbow Six series, takes
+  a bold step into the realm of PvE squad-based cooperative gameplay.'
 featured: false
 pubDate: 2023-06-20
 tags:
+- action
+- console
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rainbow-six-extraction
+- shooter
 - taptap
-- tom-clancy’s-rainbow-six®-extraction
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-0.avif
 title: 'An underrated PvE alien shooter, as long as it’s cheap | Full Review - Rainbow
   Six: Extraction'
+game: 'Rainbow Six: Extraction'
+gallery:
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-0.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-1.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-2.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-3.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-4.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-5.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-6.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-7.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-8.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-9.avif
+- /images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-an-underrated-pve-alien-shooter-as-long-as-its-cheap--full-review---rainbow-six-extractio-10.avif" alt="screenshot" />
-</div>
-
 Tom Clancy’s Rainbow Six® Extraction
 Rainbow Six: Extraction, the latest installment in the critically acclaimed Tom Clancy's Rainbow Six series, takes a bold step into the realm of PvE squad-based cooperative gameplay.
 

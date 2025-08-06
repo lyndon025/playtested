@@ -1,25 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Starstride
+description: Starstride is an online hack-and-slash action MMORPG that combines elements
+  of high fantasy, sci-fi, and some monster hunting gameplay. The game features a
+  unique premise where two allied factions, Neoterrans and Wokens, engage in a war
+  against a mysterious alien civilization, as players take on the role of powerful
+  fighters tasked with becoming the ultimate Star Warrior.
 featured: false
 pubDate: 2024-01-18
 tags:
+- cbt-preview-starstride
 - taptap
-- starstride
+- web
 thumb: /images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-0.avif
 title: An unrealized potential that warrants more polish | CBT Preview - Starstride
+game: CBT Preview - Starstride
+gallery:
+- /images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-0.avif
+- /images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-1.avif
+- /images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-2.avif
+- /images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-3.avif
+- /images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-4.avif
+- /images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-18-an-unrealized-potential-that-warrants-more-polish--cbt-preview---starstride-5.avif" alt="screenshot" />
-</div>
-
 Starstride
 8.4
 Action

@@ -8,25 +8,33 @@ description: Atomic Heart is an action FPS game that completely caught me by sur
 featured: false
 pubDate: 2023-02-22
 tags:
-- taptap
+- action
+- adventure
 - atomic-heart
+- console
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- shooter
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-0.avif
 title: A new FPS franchise in the making | First Impressions - Atomic Heart
+game: Atomic Heart
+gallery:
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-0.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-1.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-2.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-3.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-4.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-5.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-6.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-7.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-8.avif
+- /images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-22-a-new-fps-franchise-in-the-making--first-impressions---atomic-heart-9.avif" alt="screenshot" />
-</div>
-
 Atomic Heart is an action FPS game that completely caught me by surprise. For an upcoming new developer — Mundfish —  who has only developed a now discontinued VR game so far, that hasn’t stopped them from delivering an impressive game, and they have really hit it out of the park with this one.
 
 The graphics are absolutely stunning, and the optimization is surprisingly impressive. The world they've created is highly immersive, and it's a cross between Bioshock in gameplay and premise, and Fallout in presentation and humor. With also traces of Wolfenstein and Half-Life sprinkled onto it. It's set in a beautiful jaw dropping rendition of a Soviet utopian society with an atompunk twist with all the cool technology and sci-fi elements seen.

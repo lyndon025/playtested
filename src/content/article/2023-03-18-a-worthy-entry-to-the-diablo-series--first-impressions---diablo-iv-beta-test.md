@@ -8,23 +8,26 @@ description: I got the chance to play the early access beta test of the upcoming
 featured: false
 pubDate: 2023-03-18
 tags:
+- action
+- diablo
+- macos
+- pc
+- playstation
+- rpg
 - taptap
-- diablo®-iv
 thumb: /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-0.avif
 title: A worthy entry to the Diablo series? | First Impressions - Diablo IV Beta Test
+game: Diablo
+gallery:
+- /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-0.avif
+- /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-1.avif
+- /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-2.avif
+- /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-3.avif
+- /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-4.avif
+- /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-5.avif
+- /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-6.avif
+- /images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-18-a-worthy-entry-to-the-diablo-series--first-impressions---diablo-iv-beta-test-7.avif" alt="screenshot" />
-</div>
-
 I got the chance to play the early access beta test of the upcoming game Diablo IV, and my experience with the gameplay has been nothing short of amazing so far. It still looks and plays like a proper Diablo game, with respect to both Diablo II and III.
 
 First of all, the visuals of Diablo IV are just beautiful, from the dark fantasy art style perfectly complemented by the immersive lighting system, to the highly detailed and customizable character models. Even the icons and UI elements are superbly designed, with a church-esque stained glass aesthetic going along with it.

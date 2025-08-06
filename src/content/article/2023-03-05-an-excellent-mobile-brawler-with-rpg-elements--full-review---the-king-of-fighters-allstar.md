@@ -8,35 +8,37 @@ description: The King of Fighters All Star is an online RPG brawler that brings 
 featured: false
 pubDate: 2023-03-05
 tags:
+- action
+- android
+- ios
+- rpg
 - taptap
 - the-king-of-fighters-allstar
 thumb: /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-0.avif
 title: An excellent mobile brawler, with RPG elements | Full Review - The King of
   Fighters ALLSTAR
+game: The King of Fighters ALLSTAR
+gallery:
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-0.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-1.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-2.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-3.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-4.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-5.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-6.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-7.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-8.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-9.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-10.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-11.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-12.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-13.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-14.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-15.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-16.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-17.avif
+- /images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-18.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-an-excellent-mobile-brawler-with-rpg-elements--full-review---the-king-of-fighters-allstar-18.avif" alt="screenshot" />
-</div>
-
 The King of Fighters All Star is an online RPG brawler that brings together characters from the popular fighting game franchise The King of Fighters. If you’re still expecting a 1v1 competitive fighting game like the original game series, this is far from it. However, this is still a cool game worth looking into.
 
 

@@ -7,12 +7,18 @@ description: Brown Dust 2, the somewhat both direct and spiritual successor to t
 featured: false
 pubDate: 2023-06-26
 tags:
+- adventure
+- brown-dust-2
+- indie
+- linux
+- macos
+- pc
+- rpg
 - taptap
-- adventure-rpg
 thumb: ''
 title: A visually stunning Gacha RPG | First Impressions - Brown Dust 2
+game: Brown Dust 2
 ---
-
 Brown Dust 2, the somewhat both direct and spiritual successor to the popular Brave 9 / Brown Dust, takes players on a grander journey filled with time travel, world-traveling elements, and captivating narratives.
 
 Developed with a unique HD-2D art style, Brown Dust 2 is a gacha RPG game that offers a visually stunning experience that combines detailed 2D artwork with beautiful 3D environments reminiscent of the acclaimed Octopath Traveler series.

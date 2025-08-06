@@ -8,13 +8,19 @@ description: Alan Wake II is a thrilling continuation of Remedy Entertainment's 
 featured: false
 pubDate: 2023-10-29
 tags:
+- action
+- alan-wake-ii
+- console
+- pc
+- playstation
+- playstation 5
 - taptap
-- alan-wake
+- xbox series
 thumb: ''
 title: Remedy's best offering since Max Payne 1 and 2? | First Impressions - Alan
   Wake II
+game: Alan Wake II
 ---
-
 Alan Wake II is a thrilling continuation of Remedy Entertainment's captivating narrative-driven games. The game features Remedy's signature storytelling prowess and delivers a survival-horror game experience impressive next-gen level of graphics and innovative gameplay features.
 
 In terms of gameplay, it is much closer to the original Alan Wake than Remedy’s recent explosive and physics-based destructive games like Quantum Break and Control. It plays like a modern third person survival horror game, such as Resident Evil 2 or 3, but with more psychological thriller vibes that will mess with your head, senses, and terrify you without much physical effort.

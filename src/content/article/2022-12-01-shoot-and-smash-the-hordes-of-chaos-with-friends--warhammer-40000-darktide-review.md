@@ -9,25 +9,30 @@ description: 'From the makers of the amazing Warhammer: Vermintide series comes 
 featured: false
 pubDate: 2022-12-01
 tags:
+- action
+- adventure
+- indie
+- pc
+- racing
+- shooter
 - taptap
-- warhammer-40,000:-darktide
+- warhammer-40000-darktide
+- xbox series
 thumb: /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-0.avif
 title: 'Shoot and smash the hordes of chaos with friends | Warhammer 40,000: Darktide
   Review'
+game: 'Warhammer 40,000: Darktide'
+gallery:
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-0.avif
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-1.avif
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-2.avif
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-3.avif
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-4.avif
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-5.avif
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-6.avif
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-7.avif
+- /images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-8.avif" alt="screenshot" />
-</div>
-
 From the makers of the amazing Warhammer: Vermintide series comes another game, now set 40,000 years into the future: Warhammer 40,000: Darktide. This only means stuff like Guns and Chainswords are now available in your arsenal. The gameplay style that started with Left 4 Dead, the first person melee combat perfected by Vermintide, is now circling back to using guns again with Darktide.
 
 Right off the bat I’m gonna say that Darktide feels like a reskin of Vermintide, and that’s not a bad thing. The Vermintide series is phenomenal and “porting” it to the 40k universe was pretty much expected as soon as the Vermintide series took off..

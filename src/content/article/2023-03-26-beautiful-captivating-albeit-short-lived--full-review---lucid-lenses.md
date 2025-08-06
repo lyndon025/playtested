@@ -7,27 +7,28 @@ description: Lucid Lenses is a narratively-driven romantic adventure game featur
 featured: false
 pubDate: 2023-03-26
 tags:
-- taptap
+- adventure
+- ios
 - lucid-lenses
+- simulation
+- taptap
 thumb: /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif
 title: Beautiful, captivating, albeit short-lived | Full Review - Lucid Lenses
+game: Lucid Lenses
+gallery:
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-1.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-2.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-3.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-4.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-5.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-6.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-7.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-8.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-9.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-10.avif
+- /images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-11.avif" alt="screenshot" />
-</div>
-
 Lucid Lenses is a narratively-driven romantic adventure game featuring mesmerizing puzzles and clever interactions, bolstered by a nice soft vibrant painting-like artwork.
 
 

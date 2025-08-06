@@ -10,23 +10,28 @@ description: 'I played the Demo of the newly released game titled Voice of Cards
 featured: false
 pubDate: 2023-03-25
 tags:
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
+- strategy
 - taptap
-- voc:theisledragonroarschapter0
+- voice-of-cards-the-isle-dragon-roars
 thumb: /images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-0.avif
 title: 'Table-top RPG fans should try out this demo! | Review - Voice of Cards: The
   Isle Dragon Roars Demo'
+game: 'Voice of Cards: The Isle Dragon Roars'
+gallery:
+- /images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-0.avif
+- /images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-1.avif
+- /images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-2.avif
+- /images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-3.avif
+- /images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-4.avif
+- /images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-5.avif
+- /images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-table-top-rpg-fans-should-try-out-this-demo--review---voice-of-cards-the-isle-dragon-roar-6.avif" alt="screenshot" />
-</div>
-
 I played the Demo of the newly released game titled Voice of Cards: The Isle Dragon Roars Chapter 0. The Demo is monikered “Chapter 0” and is meant to introduce us to the Voice of Cards trilogy which started in 2021 and ended in 2022, now recently released for the Mobile platform. More specifically, Chapter 0 serves as a prelude to the first game in the series. It is only a short demo and I was pretty done after an hour or so.
 
 

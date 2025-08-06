@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'One Punch Man: WorldSEA'
+description: 'One Punch Man: WorldSEA 8.5 RPG Action PC Version'
 featured: false
 pubDate: 2024-02-02
 score: 7.0
 tags:
+- action
+- console
+- fighting
+- one-punch-man-world
+- pc
+- playstation
+- playstation 4
 - taptap
-- one-punch-man:-world
+- xbox one
 thumb: /images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-0.avif
 title: 'An exhilarating combat experience with missed opportunites | Review - One
   Punch Man: World'
+game: 'One Punch Man: World'
+gallery:
+- /images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-0.avif
+- /images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-1.avif
+- /images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-2.avif
+- /images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-3.avif
+- /images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-4.avif
+- /images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-02-an-exhilarating-combat-experience-with-missed-opportunites--review---one-punch-man-world-5.avif" alt="screenshot" />
-</div>
-
 One Punch Man: WorldSEA
 8.5
 RPG

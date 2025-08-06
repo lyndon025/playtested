@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Mobile Suit Baba
+description: Mobile Suit Baba -- Action Strategy PC Version
 featured: false
 pubDate: 2023-12-26
 score: 8.0
 tags:
-- taptap
+- action
+- console
 - mobile-suit-baba
+- pc
+- playstation
+- playstation 4
+- taptap
 thumb: /images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-0.avif
 title: A cleverly challenging puzzle game disguised as a grid-based strategy | Review
   - Mobile Suit Baba
+game: Mobile Suit Baba
+gallery:
+- /images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-0.avif
+- /images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-1.avif
+- /images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-2.avif
+- /images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-3.avif
+- /images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-4.avif
+- /images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-26-a-cleverly-challenging-puzzle-game-disguised-as-a-grid-based-strategy--review---mobile-su-5.avif" alt="screenshot" />
-</div>
-
 Mobile Suit Baba
 --
 Action

@@ -10,12 +10,23 @@ description: Over six years later and crafted over the course of more than three
 featured: false
 pubDate: 2023-07-06
 tags:
+- action
+- console
+- hollow-knight-pale-court
+- indie
+- linux
+- macos
+- nintendo switch
+- pc
+- platformer
+- playstation
+- playstation 4
 - taptap
-- hollow-knight
+- xbox one
 thumb: ''
 title: 'New bosses, new challenges! | First Impressions - Hollow Knight: Pale Court'
+game: 'Hollow Knight: Pale Court'
 ---
-
 Over six years later and crafted over the course of more than three years by a collaborative effort of over 50 dedicated modders, a new fan-made DLC called Pale Court breathes new life into the immersive world of Hollow Knight. With its stunning new boss fights, captivating music, expanded charms, faithful art direction, and some bonus secrets, Pale Court promises to capture the essence of the base game while offering a challenging and memorable extension of the Hollow Knight experience.
 
 The main focus of the mod is in its five new boss fights, featuring The Five Great Knights. These formidable adversaries offer intense and thrilling encounters that rival the base game's most iconic battles. Each Great Knight possesses unique attack patterns and abilities, requiring players to adapt their strategies and master precise timing to emerge victorious.

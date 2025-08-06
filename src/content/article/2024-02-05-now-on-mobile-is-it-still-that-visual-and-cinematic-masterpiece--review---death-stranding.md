@@ -1,28 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: DEATH STRANDING DIRECTOR'S CUT
+description: DEATH STRANDING DIRECTOR'S CUT 9.0 Open World Action
 featured: false
 pubDate: 2024-02-05
 score: 7.0
 tags:
+- action
+- adventure
+- console
+- death-stranding
+- pc
+- playstation
+- playstation 4
 - taptap
-- horizon-forbidden-west™-complete-edition
 thumb: /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-0.avif
 title: Now on mobile, is it still that visual and cinematic masterpiece? | Review
   - Death Stranding
+game: Death Stranding
+gallery:
+- /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-0.avif
+- /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-1.avif
+- /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-2.avif
+- /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-3.avif
+- /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-4.avif
+- /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-5.avif
+- /images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-6.avif" alt="screenshot" />
-</div>
-
 DEATH STRANDING DIRECTOR'S CUT
 9.0
 Open World

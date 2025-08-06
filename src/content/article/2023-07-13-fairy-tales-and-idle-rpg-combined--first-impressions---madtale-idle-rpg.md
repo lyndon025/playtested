@@ -7,12 +7,15 @@ description: With its unique art style, engaging narratives, and various gamepla
 featured: false
 pubDate: 2023-07-13
 tags:
+- ios
+- madtale-idle-rpg
+- rpg
+- strategy
 - taptap
-- madtale:-idle-rpg
 thumb: ''
 title: 'Fairy tales and Idle RPG combined | First Impressions - Madtale: Idle RPG'
+game: 'Madtale: Idle RPG'
 ---
-
 With its unique art style, engaging narratives, and various gameplay features, Madtale aims to offer an enjoyable idle RPG gaming experience for players on iOS and Android devices with its recent release last July 12.
 
 Madtale features a captivating plot. With the main protagonist being Little Red Riding Hood, players embark on a journey through a world filled with fairy tale characters like Snow White with intertwined narratives. The game draws players into the intriguing plot and entices them to uncover more about the mysteries of the fairy tale world.

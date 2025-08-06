@@ -8,30 +8,30 @@ description: Popularized by the pioneer game Vampire Survivors, this new sub-gen
 featured: false
 pubDate: 2023-02-20
 tags:
+- brotato-open-beta
+- pc
+- racing
 - taptap
-- brotato
 thumb: /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-0.avif
 title: PC or Mobile, this game is addicting! | Full Review - Brotato (Open Beta)
+game: Brotato (Open Beta)
+gallery:
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-0.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-1.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-2.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-3.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-4.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-5.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-6.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-7.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-8.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-9.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-10.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-11.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-12.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-13.avif
+- /images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-20-pc-or-mobile-this-game-is-addicting--full-review---brotato-open-beta-14.avif" alt="screenshot" />
-</div>
-
 Popularized by the pioneer game Vampire Survivors, this new sub-genre that it spawned doesn’t even have an official name right now. Some call it action rogue-lite, some call it bullet hell survival — One thing is certain, people can’t get enough of this addicting game genre.
 
 Brotato is essentially one of these Vampire survivors-clones and it’s now out soon on Mobile Phones, currently in beta testing phase. It’s a mobile-port of a PC game still in Early Access on Steam, and is one of the most popular games on the platform with tens of thousands of overwhelmingly positive reviews.

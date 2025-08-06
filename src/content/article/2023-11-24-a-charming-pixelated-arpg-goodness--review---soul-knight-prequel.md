@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Soul Knight Prequel
+description: ✨Overview Soul Knight is a relatively generic name; in fact, on Steam,
+  there are at least two other games that share it. However, the specific "Soul Knight"
+  we are covering is the one made by ChillyRoom, initially released way back in 2017.
+  Now, five years later, we find ourselves on the brink of a new adventure with the
+  release of Soul Knight Prequel.
 featured: false
 pubDate: 2023-11-24
 score: 7.0
 tags:
+- adventure
+- casual
+- indie
+- pc
+- soul-knight-prequel
 - taptap
-- soul-knight
 thumb: /images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-0.avif
 title: A charming pixelated ARPG goodness | Review - Soul Knight Prequel
+game: Soul Knight Prequel
+gallery:
+- /images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-0.avif
+- /images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-1.avif
+- /images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-2.avif
+- /images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-3.avif
+- /images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-4.avif
+- /images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-24-a-charming-pixelated-arpg-goodness--review---soul-knight-prequel-5.avif" alt="screenshot" />
-</div>
-
 Soul Knight Prequel
 8.8
 Pixel

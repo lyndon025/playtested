@@ -1,27 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Warhammer 40,000: Warpforge'
+description: 'Oh boy, Warhammer is everywhere, from its brute low-tech OG Warhammer
+  and its games like Total War: Warhammer and Vermintide to the more futuristic 40,000
+  and its recent games like Darktide and Boltgun. The franchise is kicking ass on
+  practically all fronts, beating the likes of big mixed-media IPs like Star Wars
+  and Marvel in pumping out video game content. Now, we are taking a look at Warhammer
+  40,000: Warpforge.'
 featured: false
 pubDate: 2023-11-07
 score: 7.0
 tags:
+- android
+- card
+- ios
+- macos
+- pc
+- strategy
 - taptap
-- warhammer-40,000:-warpforge
+- warhammer-40000-warpforge
 thumb: /images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-0.avif
 title: 'A card battler with cool faction-based Warhammer mechanics | Review - Warhammer
   40,000: Warpforge'
+game: 'Warhammer 40,000: Warpforge'
+gallery:
+- /images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-0.avif
+- /images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-1.avif
+- /images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-2.avif
+- /images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-3.avif
+- /images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-4.avif
+- /images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-a-card-battler-with-cool-faction-based-warhammer-mechanics--review---warhammer-40000-warp-5.avif" alt="screenshot" />
-</div>
-
 Warhammer 40,000: Warpforge
 8.6
 Card

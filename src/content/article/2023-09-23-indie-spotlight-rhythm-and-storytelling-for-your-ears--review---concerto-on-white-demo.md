@@ -1,26 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Concerto on White
+description: I was fortunate enough to be able to try out the Android demo for the
+  upcoming Concerto on White, and I was pleasantly impressed by its blend of rhythm-based
+  gaming, musical simulation, and visual novel style storytelling.
 featured: false
 pubDate: 2023-09-23
 tags:
+- concerto-on-white-demo
+- simulation
 - taptap
-- concerto-on-white
+- web
 thumb: /images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-0.avif
 title: '[Indie Spotlight] Rhythm and Storytelling for your ears | Review - Concerto
   on White (Demo)'
+game: Concerto on White (Demo)
+gallery:
+- /images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-0.avif
+- /images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-1.avif
+- /images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-2.avif
+- /images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-3.avif
+- /images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-4.avif
+- /images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-rhythm-and-storytelling-for-your-ears--review---concerto-on-white-demo-5.avif" alt="screenshot" />
-</div>
-
 Concerto on White
 8.4
 Music

@@ -9,13 +9,16 @@ description: 'Polygon Arena: Online Shooter is a low-poly mobile shooter that''s
 featured: false
 pubDate: 2023-10-12
 tags:
+- action
+- adventure
+- ios
+- polygon-arena-online-shooter
 - taptap
-- polygun-arena:-online-shooter
 thumb: ''
 title: 'A low-poly Call of Duty challenger appears! | Beta Impressions - Polygon Arena:
   Online Shooter'
+game: 'Polygon Arena: Online Shooter'
 ---
-
 Polygon Arena: Online Shooter is a low-poly mobile shooter that's easy to pick up, and designed for casual play with room for some competitiveness. It pits players of up to 8 vs 8 across various Arenas (currently four as of the Open Beta Test). The game is still in heavy development but an Open Beta Test is currently underway for everyone to try.
 
 As for writing, the game features 10 characters and 20 weapons to unlock, collect, and upgrade, along with gear like armors, weapon attachments, and masks. Of course this is facilitated by a live service style of progression, where we have in-game stores, premium currencies, loot boxes, and battle passes.

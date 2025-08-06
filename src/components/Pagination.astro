@@ -17,12 +17,20 @@ export interface Props {
 }
 
 const { page } = Astro.props
+
+// 🔧 Normalize base path for /blog, /tag/foo, /category/bar
+let basePath = page.url.current
+  .replace(/\/page\/\d+\/?$/, "")  // remove /page/2
+  .replace(/\/$/, "")              // remove trailing slash
+  .replace(/\/\d+$/, "")           // also remove trailing numeric fallback like /blog/2
+
 const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filter((pageNum) =>
   pageNum === 1 ||
   pageNum === page.lastPage ||
   Math.abs(pageNum - page.currentPage) <= 2
 )
 ---
+
 <nav class="flex justify-center items-center space-x-2 flex-wrap mt-12" aria-label="Pagination Navigation">
   <!-- Previous Button -->
   {
@@ -36,12 +44,15 @@ const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filt
       ))
   }
 
-  <!-- Smarter Page Numbers -->
+  <!-- Page Numbers -->
   {
     visiblePages.map((pageNum, idx) => {
       const prevPageNum = visiblePages[idx - 1]
       const isEllipsis = idx > 0 && pageNum - prevPageNum > 1
-      const pageUrl = pageNum === 1 ? "/blog/" : `/blog/${pageNum}/`
+
+      const pageUrl = pageNum === 1
+        ? `${basePath}/`
+        : `${basePath}/page/${pageNum}`
 
       return (
         <div class="flex items-center" key={`page-${pageNum}`}>

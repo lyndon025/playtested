@@ -7,13 +7,23 @@ description: Coromon is a soon to be mobile game that combines elements of class
 featured: false
 pubDate: 2023-10-30
 tags:
+- adventure
+- android
+- console
+- coromon
+- indie
+- ios
+- macos
+- nintendo switch
+- pc
+- rpg
+- strategy
 - taptap
-- pokémon-scarlet-and-violet
 thumb: ''
 title: An excellent Pokemon-like game now coming Nov 8 for Mobile! | Impressions -
   Coromon
+game: Coromon
 ---
-
 Coromon is a soon to be mobile game that combines elements of classic monster-taming RPGs with its own unique twists, making it appealing to both fans of the genre and those looking for something fresh.
 
 The game initially released on PC and is set to launch on Android and iOS on November 8. There's a free demo with progression carryover to the full version, already available on TapTap now. The full game will be available on Nov 8 for a one-time purchase of $5.

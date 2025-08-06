@@ -8,12 +8,14 @@ description: While still in its early access stage, BattleBit Remastered showcas
 featured: false
 pubDate: 2023-06-20
 tags:
-- taptap
 - battlebit-remastered
+- pc
+- shooter
+- taptap
 thumb: ''
 title: Low poly 254 player warfare! | First Impressions - BattleBit Remastered
+game: BattleBit Remastered
 ---
-
 While still in its early access stage, BattleBit Remastered showcases potential for an exciting and dynamic gameplay experience. With its low-poly graphics and immersive sound design, the game aims to deliver a fast-paced and action-packed experience for up to 254 players per server.
 
 BattleBit Remastered introduces players to a destructible environment, allowing for strategic destruction and environmental manipulation. The ability to shape the battlefield adds a layer of depth and tactical decision-making to gameplay. The game supports vehicular combat with a variety of tanks, helicopters, transports, and sea vehicles in some game modes, offering players diverse options for traversing the battlefield and engaging in intense battles.

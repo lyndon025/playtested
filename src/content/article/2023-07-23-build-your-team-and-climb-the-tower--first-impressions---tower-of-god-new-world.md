@@ -11,13 +11,16 @@ description: 'Tower of God: New World is an idle RPG gacha game where players as
 featured: false
 pubDate: 2023-07-23
 tags:
+- ios
+- rpg
+- strategy
 - taptap
-- tower-of-god:-new-world
+- tower-of-god-new-world
 thumb: ''
 title: 'Build your team and climb the tower | First Impressions - Tower of God: New
   World'
+game: 'Tower of God: NEW WORLD'
 ---
-
 Tower of God: New World is an idle RPG gacha game where players assume the role of a new character inserted into the original narrative, following Bam's footsteps and experiencing the adventure firsthand. The game introduces a new player-named character, along with his navigator and tutorial guide Rin, bridging the gameplay mechanics with the overarching storyline. Through Rin's guidance, players become an integral part of the Tower's world, forging their path, and interacting with iconic characters.
 
 Playable in vertical mode, the gameplay involves team building, choosing the right party members, and utilizing materials to level up character slots, and weapons to progress through the Tower and Story in a dual narrative structure. The game also features a gacha system where players can summon characters from the Tower of God universe, including iconic characters from the original Webtoon.

@@ -7,22 +7,23 @@ description: Ever wanted to step in a kid's shoes once again? dream and let your
 featured: false
 pubDate: 2022-11-30
 tags:
-- taptap
+- adventure
 - in-nightmare
+- indie
+- pc
+- taptap
 thumb: /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-0.avif
 title: Dream about Monsters and Puzzles | In Nightmare Review
+game: In Nightmare
+gallery:
+- /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-0.avif
+- /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-1.avif
+- /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-2.avif
+- /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-3.avif
+- /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-4.avif
+- /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-5.avif
+- /images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-30-dream-about-monsters-and-puzzles--in-nightmare-review-6.avif" alt="screenshot" />
-</div>
-
 Ever wanted to step in a kid's shoes once again? dream and let your imaginations run wild? Yes? Well unfortunately for you, you are now a kid named Bill, and he has nightmares.
 
 In Nightmare is an atmospheric stealth horror game in the likes of Limbo and Little Nightmares, but in third person isometric view. A mix of puzzle solving and exploration, as well as a bit narrative driven, in a psychological sense.

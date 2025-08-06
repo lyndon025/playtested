@@ -8,26 +8,29 @@ description: Kandria is a newly released hack and slash open world adventure gam
 featured: false
 pubDate: 2023-01-12
 tags:
+- action
+- kandria
+- linux
+- macos
+- pc
+- platformer
 - taptap
-- kandria-(pc)
 thumb: /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-0.avif
 title: Explore this massive open world 2D RPG at your own pace | Kandria - Review
+game: Kandria
+gallery:
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-0.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-1.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-2.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-3.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-4.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-5.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-6.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-7.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-8.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-9.avif
+- /images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-12-explore-this-massive-open-world-2d-rpg-at-your-own-pace--kandria---review-10.avif" alt="screenshot" />
-</div>
-
 Kandria is a newly released hack and slash open world adventure game that you might say has rather simple pixel graphics, but fret not, underneath that surface level simplicity is a complex and expansive open world RPG game that will surely captivate you for hours on end.
 
 The story starts with a ‘fish out of water’ scenario for the android Kandria, our main character. Being awoken by a human survivor after decades of deep slumber, she is welcomed by a post-apocalyptic world far different from when she came from. It's up to you to find out what happened.

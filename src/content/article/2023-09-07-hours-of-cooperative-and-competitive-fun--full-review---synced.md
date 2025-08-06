@@ -1,29 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: SYNCED
+description: lyndonguitar Get SYNCED is an ambitious entry into the looter shooter
+  genre, offering a unique blend of cooperative and PvP gameplay set in a post-apocalyptic
+  world overrun by advanced nanomachines. It takes a lot of inspirations from other
+  genres too, mixing rogue-lite elements, battle royale mechanics, and even Pokemon
+  style of capturing and commanding powerful Nano creatures. SYNCED is set to release
+  on September 8 for PC, Xbox, and Playstation systems.
 featured: false
 pubDate: 2023-09-07
 tags:
-- taptap
+- action
+- adventure
+- pc
 - synced
+- taptap
 thumb: /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif
 title: Hours of cooperative and competitive fun! | Full Review - SYNCED
+game: SYNCED
+gallery:
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-1.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-2.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-3.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-4.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-5.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-6.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-7.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-8.avif
+- /images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-9.avif" alt="screenshot" />
-</div>
-
 SYNCED
 
 lyndonguitar

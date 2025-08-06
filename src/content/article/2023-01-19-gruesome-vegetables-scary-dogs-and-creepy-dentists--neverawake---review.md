@@ -9,28 +9,29 @@ description: NeverAwake is a twin-stick shooter, but it’s also a single-stick 
 featured: false
 pubDate: 2023-01-19
 tags:
-- taptap
+- action
+- indie
 - neverawake
+- pc
+- taptap
 thumb: /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-0.avif
 title: Gruesome vegetables, scary dogs, and creepy dentists | NeverAwake - Review
+game: NeverAwake
+gallery:
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-0.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-1.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-2.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-3.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-4.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-5.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-6.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-7.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-8.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-9.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-10.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-11.avif
+- /images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-19-gruesome-vegetables-scary-dogs-and-creepy-dentists--neverawake---review-12.avif" alt="screenshot" />
-</div>
-
 NeverAwake is a twin-stick shooter, but it’s also a single-stick shooter. It’s a side-scrolling game, but it’s also a vertical scroller. It’s sleek and flashy, but also gruesome and messy. This duality approach might seem like a genre identity issue for NeverAwake, but really, it is a unique fresh take on the shoot ‘em up genre.
 
 Set in the subconscious of a girl under a deep coma – Rem, trying to wake up, NeverAwake’s main narrative is about imagination and symbolism. Rem’s subconscious struggle and journey to waking up are represented by the entire imaginative premise which is basically where the gameplay happens.

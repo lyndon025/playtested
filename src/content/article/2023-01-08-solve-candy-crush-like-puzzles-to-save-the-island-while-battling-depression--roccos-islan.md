@@ -9,27 +9,29 @@ description: 'Rocco''s Island is an atmospheric point-and-click adventure game w
 featured: false
 pubDate: 2023-01-08
 tags:
+- adventure
+- casual
+- indie
+- pc
+- rocco-s-island
 - taptap
-- rocco's-island:-pocket-edition
 thumb: /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-0.avif
 title: Solve candy crush-like puzzles to save the Island, while battling depression
   | Rocco's Island-review
+game: Rocco's Island
+gallery:
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-0.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-1.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-2.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-3.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-4.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-5.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-6.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-7.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-8.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-9.avif
+- /images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-08-solve-candy-crush-like-puzzles-to-save-the-island-while-battling-depression--roccos-islan-10.avif" alt="screenshot" />
-</div>
-
 Rocco's Island is an atmospheric point-and-click adventure game with a big focus on puzzles and storytelling. Released last year on PC, Rocco's Island: Ring to End the Pain has been recently ported to mobile platforms as Rocco's Island: Pocket Edition. It is exactly the same game on PC, except for the newly adapted touch controls.
 
 With its high-spirited storytelling, children's book art-style, and entertaining puzzling elements, Rocco's Island might look like it's a game made for kids, and it can still be for kids, but it's really not. The game constantly deals with sadness and is quietly depressing and traumatic on the inside.

@@ -11,13 +11,16 @@ description: Forza Motorsport (2023), developed by Turn 10 Studios and published
 featured: false
 pubDate: 2023-10-12
 tags:
-- taptap
 - forza-motorsport
+- pc
+- racing
+- taptap
+- xbox series
 thumb: ''
 title: A soft reboot with a fresh approach to the racing series | Impressions - Forza
   Motorsport
+game: Forza Motorsport
 ---
-
 Forza Motorsport (2023), developed by Turn 10 Studios and published by Xbox Game Studios, was released on October 10, 2023. Unlike its predecessors, it ditches the numerical sequencing, opting for a fresh approach to the series. The game was launched recently on PC and Xbox. It doesn't focus on an open-world arcade gameplay like its sibling Forza Horizon; instead, it immerses players in the world of motorsport, where the cars, tracks, and competition are the stars. It emphasizes the thrill of racing and the journey to become a top-tier racer.
 
 Forza Motorsport is at its core an exhilarating driving simulator, offering an engaging wheels experience that I would even say as the best in the franchise's history. The gamepad handling is top-notch, providing consistent and realistic control. Its adjustable and tunable difficulty caters to a broad audience, from novices looking for fun casual to seasoned SIM racers.

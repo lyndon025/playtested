@@ -1,30 +1,42 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'NARAKA: BLADEPOINT'
+description: 'lyndonguitar Get NARAKA: BLADEPOINT is a multiplayer online battle royale
+  game that takes place in a fantastical ancient Chinese-inspired world where players
+  — sometimes in teams up to three — compete against each other to be the last one
+  standing. The game stands out from other battle royale titles with its emphasis
+  on fast-paced martial arts based combat and parkour mechanics. It is available for
+  PC, Xbox, and PlayStation, with an official mobile version coming soon as well.'
 featured: false
 pubDate: 2023-07-17
 tags:
+- action
+- adventure
+- console
+- massively multiplayer
+- naraka-bladepoint
+- pc
+- playstation
+- playstation 5
+- rpg
 - taptap
-- naraka:-bladepoint
+- xbox series
 thumb: /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-0.avif
 title: 'A unique martial arts-inspired take on the battle royale genre | Full Review
   - NARAKA: BLADEPOINT'
+game: Naraka Bladepoint
+gallery:
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-0.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-1.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-2.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-3.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-4.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-5.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-6.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-7.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-8.avif
+- /images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-9.avif" alt="screenshot" />
-</div>
-
 NARAKA: BLADEPOINT
 
 lyndonguitar

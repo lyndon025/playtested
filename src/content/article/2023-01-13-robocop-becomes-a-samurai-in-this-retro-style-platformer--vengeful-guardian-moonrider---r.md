@@ -8,28 +8,35 @@ description: 'Vengeful Guardian: Moonrider is an authentic recreation of the cla
 featured: false
 pubDate: 2023-01-13
 tags:
+- action
+- console
+- indie
+- nintendo switch
+- pc
+- platformer
+- playstation
+- playstation 4
+- playstation 5
 - taptap
-- vengeful-guardian:-moonrider-(pc,-ps5,-ps4,-ns)
+- vengeful-guardian-moonrider
 thumb: /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-0.avif
 title: 'Robocop becomes a samurai in this retro style platformer | Vengeful Guardian:
   Moonrider - Review'
+game: 'Vengeful Guardian: Moonrider'
+gallery:
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-0.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-1.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-2.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-3.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-4.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-5.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-6.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-7.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-8.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-9.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-10.avif
+- /images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-robocop-becomes-a-samurai-in-this-retro-style-platformer--vengeful-guardian-moonrider---r-11.avif" alt="screenshot" />
-</div>
-
 Vengeful Guardian: Moonrider is an authentic recreation of the classic 90s ninja video games like Ninja Gaiden, Shinobi, and Shadow of the Ninja. The 16-bit music, art style, and gameplay are all captured perfectly without a miss. Going in blind, you would think it is a remaster or port of a real existing 90s game.
 
 The game follows our eponymous character, The Moonrider. Originally created to defend its oppressive creators: an evil totalitarian state, The Moonrider rejects its purpose and now seeks vengeance on its creators. Making an enemy out of everything, even its fellow soldiers.

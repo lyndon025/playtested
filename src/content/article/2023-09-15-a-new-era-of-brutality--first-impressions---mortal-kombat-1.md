@@ -10,12 +10,20 @@ description: When it comes to fighting games, there are three distinct types of 
 featured: false
 pubDate: 2023-09-15
 tags:
+- action
+- console
+- fighting
+- mortal-kombat-1
+- nintendo switch
+- pc
+- playstation
+- playstation 5
 - taptap
-- mortal-kombat™-1
+- xbox series
 thumb: ''
 title: A new era of Brutality | First Impressions - Mortal Kombat 1
+game: Mortal Kombat 1
 ---
-
 When it comes to fighting games, there are three distinct types of players - those who crave for an immersive story, the folks, friends, and families who gather for local multiplayer showdowns, and the competitive souls who venture into the online arena. Well, personally, I fall into the first two categories, and I can confidently say that Mortal Kombat 1 delivers a fatal knockout punch of fun for both camps.
 
 The story is actually surprisingly amazing. Despite being a reboot in most respects, it is still set after the events of Mortal Kombat 11 in a sort of an in-universe reboot. The main campaign only spans around 5-7 hours, but once you start it, you just can’t put it down. It’s THAT Good. It’s one continuous flow of nonstop action, brutality, and a bit of comedy that seamlessly changes from cutscene to fights and back to cutscenes.

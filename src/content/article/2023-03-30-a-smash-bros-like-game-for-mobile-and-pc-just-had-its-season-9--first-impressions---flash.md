@@ -9,23 +9,24 @@ description: I tried out Flash Party recently, coinciding with the recent update
 featured: false
 pubDate: 2023-03-30
 tags:
+- action
+- flash-party
+- ios
+- pc
 - taptap
-- flash-party-(pc)
 thumb: /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-0.avif
 title: A Smash Bros-like game for Mobile and PC just had its Season 9 | First Impressions
   - Flash Party
+game: Flash Party
+gallery:
+- /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-0.avif
+- /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-1.avif
+- /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-2.avif
+- /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-3.avif
+- /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-4.avif
+- /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-5.avif
+- /images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-30-a-smash-bros-like-game-for-mobile-and-pc-just-had-its-season-9--first-impressions---flash-6.avif" alt="screenshot" />
-</div>
-
 I tried out Flash Party recently, coinciding with the recent update Season 9 and I got to say, after going in blind in playing it, the graphics and gameplay actually wowed me. I am using an old 2018 flagship android phone to play it and the visuals still look crisp and nice with console levels of quality that even looks better than the Switch’s own Super Smash Bros.
 
 The gameplay is very similar to Super Smash Bros. In Flash Party, players get matched up with other players in either 1v1, 2v2, or free for all 4 player matches (either ranked or unranked), and the whole goal of the game is to knock the opposition out of the arena and to deplete their stars by pushing them off the edge of the arena by using various types of attacks. For newcomers like me, Flash Party is pretty straightforward to learn, with an interactive tutorial that can introduce you to the basics in just a few minutes and get you ready for matches in no time.

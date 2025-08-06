@@ -1,25 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tarisland
+description: Tarisland, a highly anticipated MMORPG from developers Level Infinite
+  and publisher Tencent, emerges as a bold contender for the next big MMO, both for
+  Mobile and PC, which is a pretty massive undertaking.
 featured: false
 pubDate: 2023-11-16
 tags:
+- adventure
+- cbt-review-tarisland
+- pc
 - taptap
-- tarisland
 thumb: /images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-0.avif
 title: The next big MMO for PC and Mobile? | CBT Review - Tarisland
+game: CBT Review - Tarisland
+gallery:
+- /images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-0.avif
+- /images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-1.avif
+- /images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-2.avif
+- /images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-3.avif
+- /images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-4.avif
+- /images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-16-the-next-big-mmo-for-pc-and-mobile--cbt-review---tarisland-5.avif" alt="screenshot" />
-</div>
-
 Tarisland
 6.5
 RPG

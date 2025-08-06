@@ -1,26 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Monster Hunter Now
+description: lyndonguitar Download Monster Hunter Now is an augmented reality (AR)
+  mobile game that integrates the Monster Hunter universe with real-world locations.
+  Developed by Niantic, the same company behind the global AR hit Pokémon Go, this
+  game allows players to use their smartphones to interact with a virtual overlay
+  of the Monster Hunter world superimposed onto their real-world environment.
 featured: false
 pubDate: 2023-09-15
 tags:
-- taptap
+- action
+- console
 - monster-hunter-now
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-0.avif
 title: Hunt Monsters wherever you go, in real world locations | Review - Monster Hunter
   Now
+game: Monster Hunter Now
+gallery:
+- /images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-0.avif
+- /images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-1.avif
+- /images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-2.avif
+- /images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-3.avif
+- /images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-4.avif
+- /images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-hunt-monsters-wherever-you-go-in-real-world-locations--review---monster-hunter-now-5.avif" alt="screenshot" />
-</div>
-
 Monster Hunter Now
 
 lyndonguitar

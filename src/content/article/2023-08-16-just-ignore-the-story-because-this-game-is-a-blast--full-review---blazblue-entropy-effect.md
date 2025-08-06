@@ -1,29 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: BlazBlue Entropy Effect
+description: lyndonguitar Steam BlazBlue Entropy Effect is a 2D side-scrolling Roguelite
+  game developed by 91Act. strangely set in the expansive BlazBlue franchise. Released
+  on Steam in Early Access, this game invites players into a world where the beloved
+  BlazBlue characters meet the dynamic mechanics of a Roguelite adventure.
 featured: false
 pubDate: 2023-08-16
 tags:
-- taptap
+- action
+- adventure
 - blazblue-entropy-effect
+- indie
+- macos
+- pc
+- taptap
 thumb: /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-0.avif
 title: Just ignore the story, because this game is a blast | Full Review - BlazBlue
   Entropy Effect
+game: BlazBlue Entropy Effect
+gallery:
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-0.avif
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-1.avif
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-2.avif
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-3.avif
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-4.avif
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-5.avif
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-6.avif
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-7.avif
+- /images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-8.avif" alt="screenshot" />
-</div>
-
 BlazBlue Entropy Effect
 
 lyndonguitar

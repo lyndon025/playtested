@@ -8,13 +8,18 @@ description: 'Phantom Blade: Executioners offers a fast-paced experience that re
 featured: false
 pubDate: 2023-06-27
 tags:
+- action
+- adventure
+- console
+- phantom-blade-ex
+- playstation
+- playstation 5
 - taptap
-- phantom-blade:-executioners
 thumb: ''
 title: 'Action-packed hack and slash now live with its final beta test!| Beta Impressions:
   Phantom Blade: EX'
+game: 'Phantom Blade: EX'
 ---
-
 Phantom Blade: Executioners offers a fast-paced experience that requires players to utilize two-button abilities along with dodge/roll, jump, and parry/block actions. The game provides a plethora of unlockable abilities/skills that can be mixed, matched, and synergized to create amazing combos.
 
 The developers have taken a very clever approach to combat combos, ensuring that it doesn't rely heavily on extreme memorization. Instead, players can pre-set up to two combo chains in their character's settings. By executing a preset combo chain, players only need to press the assigned ability button. However, this doesn't mean that the game doesn't require any reflexes at all. There are still plenty of opportunities for movement and agility through the dodge and parry maneuvers available. There are no automated or idle mechanics so the player will have to press every action they want to make in this game.

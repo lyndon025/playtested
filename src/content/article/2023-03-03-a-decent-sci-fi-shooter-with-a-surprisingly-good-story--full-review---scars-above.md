@@ -7,36 +7,43 @@ description: Scars Above is a new third person sci-fi shooter that puts players 
 featured: false
 pubDate: 2023-03-03
 tags:
-- taptap
+- action
+- adventure
+- console
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - scars-above
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-0.avif
 title: A decent sci-fi shooter with a surprisingly good story | Full Review - Scars
   Above
+game: Scars Above
+gallery:
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-0.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-1.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-2.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-3.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-4.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-5.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-6.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-7.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-8.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-9.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-10.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-11.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-12.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-13.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-14.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-15.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-16.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-17.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-18.avif
+- /images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-19.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-decent-sci-fi-shooter-with-a-surprisingly-good-story--full-review---scars-above-19.avif" alt="screenshot" />
-</div>
-
 Scars Above is a new third person sci-fi shooter that puts players in the shoes of Kara, and a scientist who’s part of a team tasked to investigate a mysterious alien structure that randomly appeared in Earth’s orbit.
 
 

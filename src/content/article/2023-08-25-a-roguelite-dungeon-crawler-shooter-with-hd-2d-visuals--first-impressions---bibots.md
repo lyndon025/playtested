@@ -9,13 +9,16 @@ description: 'The gameplay mechanics in Bibots follow a classic twin-stick shoot
 featured: false
 pubDate: 2023-08-25
 tags:
-- taptap
+- action
 - bibots
+- indie
+- pc
+- taptap
 thumb: ''
 title: A roguelite dungeon crawler shooter with HD-2D visuals | First Impressions
   - Bibots
+game: Bibots
 ---
-
 The gameplay mechanics in Bibots follow a classic twin-stick shooter formula: character movement is controlled using the left stick, while aiming and shooting are executed with the right stick. A well-timed dodge mechanic proves crucial for evading enemy projectiles, and the inclusion of obtainable secondary attacks, like grenades or flying discs, adds tactical depth.
 
 The main event, however, is the titular Bibot-summoning special ability. This powerful ally can be deployed defensively or offensively, during intense encounters against a diverse array of enemy types and formidable bosses.

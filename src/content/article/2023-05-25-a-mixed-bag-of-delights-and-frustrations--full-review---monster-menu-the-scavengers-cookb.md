@@ -1,31 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Monster Menu (NS, PS4, PS5)
+description: 'Monster Menu: The Scavenger''s Cookbook is a dungeon crawling surviving
+  turn-based RPG with a heavy focus on cooking and monster eating, released for the
+  Nintendo Switch and Playstation'
 featured: false
 pubDate: 2023-05-25
 tags:
+- console
+- monster-menu-the-scavenger-s-cookbook
+- nintendo switch
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- strategy
 - taptap
-- monster-menu-(ns,-ps4,-ps5)
 thumb: /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-0.avif
-title: "A mixed bag of delights and frustrations | Full Review - \uFEFFMonster Menu:
-  The Scavenger's Cookbook"
+title: "A mixed bag of delights and frustrations | Full Review - \uFEFFMonster Menu:\
+  \ The Scavenger's Cookbook"
+game: Monster Menu - The Scavenger's Cookbook
+gallery:
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-0.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-1.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-2.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-3.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-4.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-5.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-6.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-7.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-8.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-9.avif
+- /images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-10.avif" alt="screenshot" />
-</div>
-
 Monster Menu (NS, PS4, PS5)
 
 lyndonguitar

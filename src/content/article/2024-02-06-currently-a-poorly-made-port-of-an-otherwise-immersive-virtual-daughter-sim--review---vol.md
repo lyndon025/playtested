@@ -1,27 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Volcano Girl
+description: ✨Overview I recently tried out a game called Volcano Girl, a virtual
+  father/daughter game with management and life-sim elements. This app seems like
+  a trial version of an upcoming mobile port of the popular game Volcano Princess
+  that was released last year on PC. In Volcano Girl, players take on the role of
+  a single parent tasked with raising their daughter after the passing of the late
+  wife.
 featured: false
 pubDate: 2024-02-06
 score: 5.0
 tags:
+- adventure
+- casual
+- indie
+- pc
+- rpg
 - taptap
-- volcano-princess
+- volcano-girl
 thumb: /images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-0.avif
 title: Currently a poorly made port of an otherwise immersive virtual daughter sim
   | Review - Volcano Girl
+game: Volcano Girl
+gallery:
+- /images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-0.avif
+- /images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-1.avif
+- /images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-2.avif
+- /images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-3.avif
+- /images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-4.avif
+- /images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-06-currently-a-poorly-made-port-of-an-otherwise-immersive-virtual-daughter-sim--review---vol-5.avif" alt="screenshot" />
-</div>
-
 Volcano Girl
 5.8
 Simulation

@@ -1,35 +1,43 @@
 ---
 author: lyndonguitar
 category: Review
-description: Minecraft Legends
+description: Minecraft Legends is an action strategy game set in the Minecraft universe
+  of video games. Released for Windows, Playstation, Xbox, and Nintendo Switch.
 featured: false
 pubDate: 2023-04-21
 tags:
-- taptap
+- adventure
+- console
 - minecraft-legends
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-0.avif
 title: A charming and fun action-strategy Minecraft spin-off | Full Review - Minecraft
   Legends
+game: Minecraft Legends
+gallery:
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-0.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-1.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-2.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-3.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-4.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-5.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-6.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-7.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-8.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-9.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-10.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-11.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-12.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-13.avif
+- /images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-14.avif" alt="screenshot" />
-</div>
-
 Minecraft Legends
 Gameplay
 

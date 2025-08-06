@@ -1,33 +1,43 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Amnesia: The Bunker'
+description: 'Amnesia: The Bunker Amnesia: The Bunker, developed by the creators of
+  the popular horror games SOMA, Penumbra, and the Amnesia series, is a first-person
+  horror game that takes players on a gripping journey through the dark and claustrophobic
+  corridors of a World War I bunker.'
 featured: false
 pubDate: 2023-06-08
 tags:
+- action
+- adventure
+- amnesia-the-bunker
+- console
+- indie
+- pc
+- playstation
+- playstation 4
 - taptap
-- amnesia:-the-bunker
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-0.avif
 title: 'A fresh yet familiar take on the Amnesia series | Full Review - Amnesia: The
   Bunker'
+game: 'Amnesia: The Bunker'
+gallery:
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-0.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-1.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-2.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-3.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-4.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-5.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-6.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-7.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-8.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-9.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-10.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-11.avif
+- /images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-12.avif" alt="screenshot" />
-</div>
-
 Amnesia: The Bunker
 Amnesia: The Bunker, developed by the creators of the popular horror games SOMA, Penumbra, and the Amnesia series, is a first-person horror game that takes players on a gripping journey through the dark and claustrophobic corridors of a World War I bunker.
 

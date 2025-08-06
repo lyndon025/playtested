@@ -1,24 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: VALORANT Mobile
+description: 'Valorant is coming with a new update (Patch 7.0) this June 27, which
+  introduces the highly requested Team Deathmatch mode along with three exclusive
+  maps made specifically for the game mode: Piazza, District, and Kasbah. In terms
+  of aesthetics, Piazza bears a resemblance to Ascent with its European architecture,
+  District resembles Split with its urban Japanese setting, and Kasbah shares similarities
+  with Bind with its African location.'
 featured: false
 pubDate: 2023-06-21
 tags:
+- action
+- console
+- pc
+- playstation
+- playstation 5
+- shooter
+- strategy
 - taptap
-- valorant-mobile
+- valorant
+- xbox series
 thumb: /images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-0.avif
 title: Valorant coming with a new update! Team Deathmatch? Mobile version? | Valorant
   Update 7.0
+game: Valorant
+gallery:
+- /images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-0.avif
+- /images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-1.avif
+- /images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-2.avif
+- /images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-3.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-3.avif" alt="screenshot" />
-</div>
-
 VALORANT Mobile
 9.1
 Multiplayer

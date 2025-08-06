@@ -1,26 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Cub
+description: The Cub is a story-rich puzzle-platformer game set in a post-apocalyptic
+  Earth, where the majority of humans have abandoned the planet for Mars. Only a few
+  remnants remain on the surface, coexisting mostly peacefully with the animals in
+  order to survive. The game is set to release on January 2024, for PC, Xbox Series,
+  PlayStation, and Switch. With a Demo available to try on Steam.
 featured: false
 pubDate: 2023-12-21
 score: 10.0
 tags:
+- pc
+- review-the-cub
+- shooter
 - taptap
-- the-cub
 thumb: /images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-0.avif
 title: One of the best Demos I’ve played recently | Demo Review - The Cub
+game: Review - The Cub
+gallery:
+- /images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-0.avif
+- /images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-1.avif
+- /images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-2.avif
+- /images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-3.avif
+- /images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-4.avif
+- /images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-one-of-the-best-demos-ive-played-recently--demo-review---the-cub-5.avif" alt="screenshot" />
-</div>
-
 The Cub
 8.6
 Adventure

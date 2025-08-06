@@ -9,13 +9,19 @@ description: 'Warhammer 40,000: Warpforge is a digital collectible card battler 
 featured: false
 pubDate: 2023-11-07
 tags:
+- android
+- card
+- ios
+- macos
+- pc
+- strategy
 - taptap
-- warhammer-40,000:-warpforge
+- warhammer-40000-warpforge
 thumb: ''
 title: 'Warhammer 40k gets its own card battler game | Impressions - Warhammer 40,000:
   Warpforge'
+game: 'Warhammer 40,000: Warpforge'
 ---
-
 Warhammer 40,000: Warpforge is a digital collectible card battler set in the grimdark future of the 41st millennium. It's a game that allows players to step into the war-torn universe of Warhammer 40k and engage in strategic card battle. It carries the rich lore and factions of the Warhammer universe and uses it as a basis to create a card battler game.
 
 The game, currently in soft launch for Android, iOS, and PC, offers a blend of strategic card combat and a deep connection to the Warhammer 40k lore. Players can assemble decks based on their chosen faction and engage in battles that capture the essence of the tabletop experience.

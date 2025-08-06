@@ -8,13 +8,14 @@ description: I See You is a narratively-driven adventure game where players assu
 featured: false
 pubDate: 2023-05-29
 tags:
-- taptap
 - i-see-you
+- pc
+- taptap
 thumb: ''
 title: What if Resident Evil had 1-bit graphics and a blind protagonist? | Beta Impressions
   - I See You
+game: I See You
 ---
-
 I See You is a narratively-driven adventure game where players assume the role of a blind man in search of his missing girlfriend. Games that delve into unique perspectives and disabilities can offer a fresh and immersive experience, and this particular game leverages blindness as a gameplay mechanic.
 
 The game features a striking 1-bit graphical style complemented by a straightforward gameplay. Movement is done through the touch joystick, while interactions with objects are handled via the right portion of the touch screen. The visually impaired-focused gameplay adds a layer of challenge and tension, as players cannot see far ahead and must stick to walls, objects, in order to make sense of the environment. Auditory signals like ringing phones or doorbells coupled with visual indications constantly provide references to their respective locations, heightening immersion within the perspective of the blind protagonist.

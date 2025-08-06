@@ -1,0 +1,64 @@
+---
+import { getCollection } from "astro:content"
+import BlogLayout from "../../../layouts/BlogLayout.astro"
+import Header from "../../../components/Header.astro"
+import Footer from "../../../components/Footer.astro"
+import PostCard from "../../../components/PostCard.astro"
+import Pagination from "../../../components/Pagination.astro"
+import SiteOptions from "../../../site.config.mjs"
+
+// ✅ Must be declared BEFORE any logic
+const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
+
+// ✅ Generate paths for /blog/page/2 and onwards
+export async function getStaticPaths() {
+const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
+  const allPosts = await getCollection("article")
+  const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE)
+  const paths = []
+
+  for (let i = 2; i <= totalPages; i++) {
+    paths.push({ params: { page: i.toString() } })
+  }
+
+  return paths
+}
+
+// ✅ Extract page param and generate paginated data
+const { page } = Astro.params
+const currentPage = parseInt(page)
+const allPosts = await getCollection("article")
+
+const sortedPosts = allPosts
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .reverse()
+
+const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE)
+const start = (currentPage - 1) * POSTS_PER_PAGE
+const paginated = sortedPosts.slice(start, start + POSTS_PER_PAGE)
+
+const pageData = {
+  data: paginated,
+  url: {
+    current: `/blog/page/${currentPage}`,
+    prev: currentPage > 2 ? `/blog/page/${currentPage - 1}` : `/blog`,
+    next: currentPage < totalPages ? `/blog/page/${currentPage + 1}` : undefined,
+  },
+  currentPage,
+  lastPage: totalPages,
+  size: POSTS_PER_PAGE,
+  total: sortedPosts.length,
+}
+---
+
+<BlogLayout title={`Page ${currentPage} - All Posts`}>
+  <Header showTitle={true} />
+  <h1 class="text-3xl font-bold mb-8 text-center">All Posts</h1>
+
+  <ul class="space-y-6">
+    {paginated.map(post => <PostCard post={post} />)}
+  </ul>
+
+  <Pagination page={pageData} />
+  <Footer />
+</BlogLayout>

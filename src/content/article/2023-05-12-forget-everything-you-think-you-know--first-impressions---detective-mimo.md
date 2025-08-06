@@ -1,24 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Detective Mimo
+description: Detective Mimo is a charming and self-aware detective game that's perfect
+  for fans of mystery and adventure games with a nice touch of fourth wall breaking.
+  The game follows the titular detective cat Mimo as she solves crimes around town,
+  and it's up to the player to help him piece together the clues and catch the culprit.
 featured: false
 pubDate: 2023-05-12
 tags:
-- taptap
 - detective-mimo
+- ios
+- puzzle
+- taptap
 thumb: /images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif
 title: Forget everything you think you know | First Impressions - Detective Mimo
+game: Detective Mimo
+gallery:
+- /images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif
+- /images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-1.avif
+- /images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-2.avif
+- /images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-3.avif
+- /images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-4.avif" alt="screenshot" />
-</div>
-
 Detective Mimo
 9.4
 Puzzle

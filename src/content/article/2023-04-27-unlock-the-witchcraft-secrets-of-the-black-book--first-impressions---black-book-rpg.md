@@ -1,27 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Black Book RPG
+description: Black Book RPG is a witchcraft-themed adventure role-playing game that
+  puts players in a dark and mystical world inspired by Russian folklore. Developed
+  by Morteshka and published by HypeTrain Digital, the game features an intruiging
+  story, a beautiful art style, and adventure RPG mechanics.
 featured: false
 pubDate: 2023-04-27
 tags:
-- taptap
+- adventure
 - black-book-rpg
+- indie
+- macos
+- pc
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-0.avif
 title: Unlock the witchcraft secrets of the Black Book | First Impressions - Black
   Book RPG
+game: Black Book RPG
+gallery:
+- /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-0.avif
+- /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-1.avif
+- /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-2.avif
+- /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-3.avif
+- /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-4.avif
+- /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-5.avif
+- /images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-unlock-the-witchcraft-secrets-of-the-black-book--first-impressions---black-book-rpg-6.avif" alt="screenshot" />
-</div>
-
 Black Book RPG
 9.4
 Adventure

@@ -1,27 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: TEKKEN 8
+description: ✨Overview Tekken 8 is the eighth installment in the renowned Tekken fighting
+  game series, developed and produced by Bandai Namco Entertainment. Released as a
+  successor to Tekken 7, the game introduces several notable features and enhancements,
+  marking a significant evolution in the franchise. The game is now available on all
+  major platforms; PC, Xbox, and PS, and will feature crossplay support so everyone
+  on any platform can play against each other.
 featured: false
 pubDate: 2024-01-27
 score: 10.0
 tags:
+- action
+- console
+- fighting
+- pc
+- playstation
+- playstation 5
 - taptap
-- tekken-7
+- tekken-8
+- xbox series
 thumb: /images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-0.avif
 title: The best game in the series is the easiest and most fun yet | Review - Tekken
   8
+game: Tekken 8
+gallery:
+- /images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-0.avif
+- /images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-1.avif
+- /images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-2.avif
+- /images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-3.avif
+- /images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-4.avif
+- /images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-5.avif" alt="screenshot" />
-</div>
-
 TEKKEN 8
 8.1
 Action

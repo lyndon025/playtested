@@ -11,13 +11,21 @@ description: 'The Walking Dead: Destinies invites players to embark on an altern
 featured: false
 pubDate: 2023-11-20
 tags:
+- action
+- adventure
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 5
 - taptap
-- the-walking-dead:-destinies
+- the-walking-dead-destinies
+- xbox series
 thumb: ''
 title: 'An alternative retelling of AMC''s The Walking Dead S1-4 | Impressions - The
   Walking Dead: Destinies'
+game: 'The Walking Dead: Destinies'
 ---
-
 The Walking Dead: Destinies invites players to embark on an alternative retelling of the iconic AMC television series' Season 1 to 4, now out for PC, Consoles, and Switch. Players will take control of various characters from the AMC series, whether friend or foe, ranging from Rick to the Governor. Their choices will shape the destiny of a team of characters from AMC's The Walking Dead series, altering the course of the story and revealing the diverse outcomes that certain choices can bring—outcomes that fans may have always imagined.
 
 This aspect basically the only interesting aspect of this game, and all good things about this game end here.  The game falls short due to dated visuals, buggy gameplay, and lackluster presentation.

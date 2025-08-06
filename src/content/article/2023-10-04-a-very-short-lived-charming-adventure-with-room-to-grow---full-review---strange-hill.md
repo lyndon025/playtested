@@ -1,25 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Strange Hill
+description: ✨Overview Strange Hill is a third-person platformer adventure that recently
+  made its debut on Android and iOS, with a PC (Steam) release soon. This open-world
+  game invites players to the peculiar town of Strange Hill, filled with interactive
+  environments, intriguing quests, and a dash of thrill and mystery.
 featured: false
 pubDate: 2023-10-04
 tags:
-- taptap
+- adventure
+- android
+- console
+- ios
+- linux
+- macos
+- pc
+- playstation
+- playstation 3
+- playstation 4
 - strange-hill
+- taptap
+- xbox 360
+- xbox one
 thumb: /images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-0.avif
 title: A very short-lived charming adventure with room to grow | | Full Review - Strange
   Hill
+game: Strange Hill
+gallery:
+- /images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-0.avif
+- /images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-1.avif
+- /images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-2.avif
+- /images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-3.avif
+- /images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-very-short-lived-charming-adventure-with-room-to-grow---full-review---strange-hill-4.avif" alt="screenshot" />
-</div>
-
 Strange Hill
 8.5
 Adventure

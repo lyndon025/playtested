@@ -168,3 +168,15 @@ code > span.line {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
   cursor: pointer;
 }
+
+
+<style>
+.btn-tag {
+  @apply px-3 py-1.5 text-sm font-medium text-white bg-slate-700 dark:bg-slate-700 rounded-md hover:bg-slate-600 transition;
+}
+
+  .btn-tag.dropdown {
+    @apply w-full md:w-auto text-left;
+  }
+</style>
+

@@ -9,34 +9,37 @@ description: Diablo IV is an action RPG developed and published by Blizzard, and
 featured: false
 pubDate: 2023-03-20
 tags:
+- action
+- diablo
+- macos
+- pc
+- playstation
+- rpg
 - taptap
-- diablo®-iv
 thumb: /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-0.avif
 title: Combines the best of Diablo II and III | Review - Diablo IV Beta Test
+game: Diablo
+gallery:
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-0.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-1.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-2.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-3.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-4.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-5.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-6.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-7.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-8.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-9.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-10.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-11.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-12.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-13.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-14.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-15.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-16.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-17.avif
+- /images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-18.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-18.avif" alt="screenshot" />
-</div>
-
 Diablo IV is an action RPG developed and published by Blizzard, and the fourth game in the critically acclaimed and highly popular Diablo game series. It is scheduled for release on June 6, 2023, with a beta test currently in progress. The early access runs from March 17 to 19, with an open beta available next week March 24-26, free to try for everyone.
 
 I got the chance to play the early access beta test of the upcoming game Diablo IV, and my experience with the gameplay has been nothing short of amazing so far. It still looks and plays like a proper Diablo game, with respect to both Diablo II and III.

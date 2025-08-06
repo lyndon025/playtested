@@ -1,29 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Madtale: Idle RPG'
+description: Madtale is a mobile idle RPG game that puts players in a dark fairy tale
+  world filled with captivating stories and charming characters — heroes and villains,
+  both familiar or not.
 featured: false
 pubDate: 2023-07-13
 tags:
+- ios
+- madtale-idle-rpg
+- rpg
+- strategy
 - taptap
-- madtale:-idle-rpg
 thumb: /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif
 title: 'An automated fairy tale adventure | Full Review - Madtale: Idle RPG'
+game: 'Madtale: Idle RPG'
+gallery:
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-1.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-2.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-3.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-4.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-5.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-6.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-7.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-8.avif
+- /images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-9.avif" alt="screenshot" />
-</div>
-
 Madtale: Idle RPG
 
 lyndonguitar

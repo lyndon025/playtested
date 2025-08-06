@@ -1,33 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Black Clover MTest US
+description: lyndonguitar Black Clover M is a brand new gacha RPG mobile title developed
+  by VIC Games Studio that has recently soft launched in Canada, with progression
+  to carry over into the global launch that will follow.
 featured: false
 pubDate: 2023-08-18
 tags:
+- early-review-black-clover-m
+- simulation
 - taptap
-- black-clover-m
+- web
 thumb: /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-0.avif
 title: A faithful high-quality adaptation, but beware | Early Review - Black Clover
   M
+game: Early Review - Black Clover M
+gallery:
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-0.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-1.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-2.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-3.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-4.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-5.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-6.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-7.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-8.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-9.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-10.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-11.avif
+- /images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-18-a-faithful-high-quality-adaptation-but-beware--early-review---black-clover-m-12.avif" alt="screenshot" />
-</div>
-
 Black Clover MTest US
 
 lyndonguitar

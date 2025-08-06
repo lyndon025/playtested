@@ -8,21 +8,24 @@ description: Dark Season is a brand new RPG mobile game designed for one-handed 
 featured: false
 pubDate: 2023-03-10
 tags:
+- action
+- adventure
+- casual
+- dark-season
+- indie
+- pc
 - taptap
-- dark-season-:-last-hunting
 thumb: /images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-0.avif
 title: Surprisingly deep and challenging for a one-handed game | First Impressions
   - Dark Season
+game: Dark Season
+gallery:
+- /images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-0.avif
+- /images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-1.avif
+- /images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-2.avif
+- /images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-3.avif
+- /images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-surprisingly-deep-and-challenging-for-a-one-handed-game--first-impressions---dark-season-4.avif" alt="screenshot" />
-</div>
-
 Dark Season is a brand new RPG mobile game designed for one-handed play. It is currently available on Android only in the Korean Language, an unfortunate news for international players. But barring some language barriers, it is still highly playable and the game is easy to understand.
 
 The world of Dark Season is a weird one. A cross between medieval fantasy and a modern setting, and a realm populated by various magical beings. It’s pretty weird seeing guns, tanks, drones, and computers in a medieval looking setting alongside magic portals and mystical beings, but that’s how the game is.

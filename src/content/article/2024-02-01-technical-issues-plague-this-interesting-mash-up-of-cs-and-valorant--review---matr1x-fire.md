@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: MATR1X FIRE
+description: ✨Overview Matr1x FIRE is a 5v5 competitive mobile first-person shooter
+  with a unique blend of cyberpunk aesthetics, strategic team-based matches, and integration
+  of blockchain technology.  The game is currently on a beta testing phase that started
+  last Jan 26 and will last around a month and a half.
 featured: false
 pubDate: 2024-02-01
 score: 5.0
 tags:
+- action
+- matr1x-fire-beta
 - taptap
-- counter-strike-2
+- web
 thumb: /images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-0.avif
 title: Technical issues plague this interesting mash-up of CS and Valorant | Review
   - Matr1x FIRE beta
+game: Matr1x FIRE beta
+gallery:
+- /images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-0.avif
+- /images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-1.avif
+- /images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-2.avif
+- /images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-3.avif
+- /images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-4.avif
+- /images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-technical-issues-plague-this-interesting-mash-up-of-cs-and-valorant--review---matr1x-fire-5.avif" alt="screenshot" />
-</div>
-
 MATR1X FIRE
 --
 Action

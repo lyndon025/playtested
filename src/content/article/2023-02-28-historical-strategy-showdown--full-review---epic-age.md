@@ -6,32 +6,33 @@ description: Hero collecting, empire management, politics, tactical warfare, and
 featured: false
 pubDate: 2023-02-28
 tags:
-- taptap
 - epic-age
+- ios
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif
 title: Historical strategy showdown | Full Review - Epic Age
+game: Epic Age
+gallery:
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-1.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-2.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-3.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-4.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-5.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-6.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-7.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-8.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-9.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-10.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-11.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-12.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-13.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-14.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-15.avif
+- /images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-16.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-28-historical-strategy-showdown--full-review---epic-age-16.avif" alt="screenshot" />
-</div>
-
 Hero collecting, empire management, politics, tactical warfare, and role playing, Epic Age is all of these things combined, and it's playable on Mobile devices!
 
 

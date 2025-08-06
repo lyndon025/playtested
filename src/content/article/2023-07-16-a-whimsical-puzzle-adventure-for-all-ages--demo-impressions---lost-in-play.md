@@ -6,12 +6,14 @@ description: Lost in Play is a puzzle adventure game that features hand-drawn, c
 featured: false
 pubDate: 2023-07-16
 tags:
+- adventure
+- impressions-lost-in-play
 - taptap
-- lost-in-play
+- web
 thumb: ''
 title: A whimsical puzzle adventure for all ages | Demo Impressions - Lost in Play
+game: Impressions - Lost in Play
 ---
-
 Lost in Play is a puzzle adventure game that features hand-drawn, cartoonish visuals that are visually pleasing and perfectly complement the game's playful atmosphere.
 
 Lost in Play combines adventure and puzzle-solving elements to create an engaging gameplay experience. Players assume the roles of Toto and Gal, guiding them through various dreamscapes and challenging puzzles. The puzzles range from classic point-and-click environmental puzzles to interactive "in-your-screen" puzzles.

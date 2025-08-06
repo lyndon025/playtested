@@ -1,31 +1,41 @@
 ---
 author: lyndonguitar
 category: Review
-description: Layers of Fear
+description: Layers of Fear (2023) is a psychological horror game that takes players
+  on a chilling journey through the twisted minds of various artists; the painter,
+  the daughter, the musician, and the actor.
 featured: false
 pubDate: 2023-06-19
 tags:
-- taptap
+- adventure
+- console
+- indie
+- ios
 - layers-of-fear
+- linux
+- macos
+- pc
+- playstation
+- playstation 4
+- taptap
+- xbox one
 thumb: /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-0.avif
 title: 'A focus on psychological horror, storytelling, graphics, and immersion | Full
   Review: Layers of Fear'
+game: Layers of Fear
+gallery:
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-0.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-1.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-2.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-3.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-4.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-5.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-6.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-7.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-8.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-9.avif
+- /images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-19-a-focus-on-psychological-horror-storytelling-graphics-and-immersion--full-review-layers-o-10.avif" alt="screenshot" />
-</div>
-
 Layers of Fear
 Graphics & Music
 

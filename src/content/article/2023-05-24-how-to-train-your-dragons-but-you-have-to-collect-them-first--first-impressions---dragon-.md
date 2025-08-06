@@ -9,13 +9,26 @@ description: Dragon Arise is a dragon-themed RPG that features the player taking
 featured: false
 pubDate: 2023-05-24
 tags:
-- taptap
+- action
+- adventure
+- casual
+- console
 - dragon-arise
+- family
+- fighting
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- taptap
+- xbox one
+- xbox series
 thumb: ''
 title: How to train your dragons, but you have to collect them first | First Impressions
   - Dragon Arise
+game: Dragon Arise
 ---
-
 Dragon Arise is a dragon-themed RPG that features the player taking on the role of the main character who is transported into a dragon world in yet another Isekai-esque premise. As the prophesied savior of the Dragon Islands, your mission is to lead a legion of dragons against the encroaching curse and restore balance to the lands.
 
 The gameplay is composed of you assembling a group of dragons, collecting them through various means: Playing the game, through gacha mechanics, or outright spending real money. These dragons can be leveled up, their skills enhanced, and their genes improve to further upgrade their limits. You can create a team of five dragons to bring into missions, and customize their deployment formation. The customization options allow for diverse strategies, ensuring that every player can create a unique dragon squad tailored to the enemy.

@@ -1,26 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Lost Future: Zombie Survival'
+description: 'Lost Future: Zombie Survival 7.4 Post-apocalyptic Action Download'
 featured: false
 pubDate: 2023-11-09
 score: 6.0
 tags:
+- gamecube
+- lost-future
+- playstation 2
+- shooter
 - taptap
-- lost-future:-zombie-survival
+- xbox
 thumb: /images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-0.avif
 title: A rich post-apocalyptic setting overrun by zombies and 'bugs' | Review - Lost
   Future
+game: Lost Future
+gallery:
+- /images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-0.avif
+- /images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-1.avif
+- /images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-2.avif
+- /images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-3.avif
+- /images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-09-a-rich-post-apocalyptic-setting-overrun-by-zombies-and-bugs--review---lost-future-4.avif" alt="screenshot" />
-</div>
-
 Lost Future: Zombie Survival
 7.4
 Post-apocalyptic

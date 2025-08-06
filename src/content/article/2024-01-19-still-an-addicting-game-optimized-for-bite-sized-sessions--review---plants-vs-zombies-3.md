@@ -1,27 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Plants vs. Zombies™ 3
+description: 'Plants vs. Zombies 3: Welcome to Zomburbia, is the third main installment
+  of the popular tower defense game series developed by PopCap Games. In the game,
+  players must defend their home from waves of zombies by strategically placing different
+  types of plants in their yard.'
 featured: false
 pubDate: 2024-01-19
 score: 7.0
 tags:
+- action
+- adventure
+- linux
+- macos
+- pc
+- plants-vs-zombies-3
+- platformer
 - taptap
-- plants-vs.-zombies™-3
 thumb: /images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-0.avif
 title: Still an addicting game optimized for bite-sized sessions | Review - Plants
   vs Zombies 3
+game: Plants Vs Zombies 3
+gallery:
+- /images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-0.avif
+- /images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-1.avif
+- /images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-2.avif
+- /images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-3.avif
+- /images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-4.avif
+- /images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-5.avif" alt="screenshot" />
-</div>
-
 Plants vs. Zombies™ 3
 7.0
 Action

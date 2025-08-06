@@ -1,25 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Reporter - Scary Horror Game
+description: Reporter - Scary Horror Game 8.7 Action Survival horror
 featured: false
 pubDate: 2023-04-24
 tags:
+- action
+- linux
+- macos
+- pc
+- reporter-scary-horror-game
 - taptap
-- scary-horror-game
 thumb: /images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-0.avif
 title: This horror game is actually scary | First Impressions - Reporter - Scary Horror
   Game
+game: Reporter - Scary Horror Game
+gallery:
+- /images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-0.avif
+- /images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-1.avif
+- /images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-2.avif
+- /images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-3.avif
+- /images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-4.avif" alt="screenshot" />
-</div>
-
 Reporter - Scary Horror Game
 8.7
 Action

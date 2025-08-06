@@ -1,35 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Snowbreak: Containment ZoneGlobal'
+description: 'lyndonguitar Get Snowbreak: Containment Zone is a third person PVE-shooter
+  set in a futuristic post-apocalyptic world featuring AAA level of visuals, waifu
+  characters, and gacha gaming mechanics.'
 featured: false
 pubDate: 2023-05-31
 tags:
+- action
+- adventure
+- pc
+- rpg
+- snowbreak-containment-zone
 - taptap
-- snowbreak:-containment-zone
 thumb: /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-0.avif
 title: 'Fun gunplay meets cute gacha girls | Closed Beta Review - Snowbreak: Containment
   Zone'
+game: 'Snowbreak: Containment Zone'
+gallery:
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-0.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-1.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-2.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-3.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-4.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-5.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-6.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-7.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-8.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-9.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-10.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-11.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-12.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-13.avif
+- /images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-14.avif" alt="screenshot" />
-</div>
-
 Snowbreak: Containment ZoneGlobal
 
 lyndonguitar

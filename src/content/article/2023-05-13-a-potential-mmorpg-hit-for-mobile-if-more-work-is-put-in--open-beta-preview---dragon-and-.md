@@ -1,31 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dragon And Home
+description: Dragon and Home is a MMORPG sandbox crafting game that already been released
+  for PC in 2021 and is currently on Open Beta for mobile devices in the North American
+  Region.
 featured: false
 pubDate: 2023-05-13
 tags:
+- open-beta-preview-dragon-and-home
+- pc
+- platformer
 - taptap
-- dragon-and-home
 thumb: /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--0.avif
 title: A potential MMORPG hit for mobile, if more work is put in | Open Beta Preview
   - Dragon and Home
+game: Open Beta Preview - Dragon and Home
+gallery:
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--0.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--1.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--2.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--3.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--4.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--5.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--6.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--7.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--8.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--9.avif
+- /images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--10.avif" alt="screenshot" />
-</div>
-
 Dragon And Home
 
 lyndonguitar

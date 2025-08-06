@@ -1,27 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: ENDLESS™ Dungeon
+description: Endless Dungeon is a genre-defying rogue-lite that merges elements of
+  dungeon crawling, twin-stick shooter, and tower defense genres. Developed by AMPLITUDE
+  Studios and part of the ENDLESS franchise of video games, this co-op action roguelike
+  takes players on an adrenaline-pumping journey through the ruins of a long-abandoned
+  space station.
 featured: false
 pubDate: 2023-10-20
 score: 9.0
 tags:
+- action
+- console
+- endless-dungeon
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- strategy
 - taptap
-- endless™-dungeon
+- xbox series
 thumb: /images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-0.avif
 title: 'Roguelike, RTS, tower defense, and escort, perfectly executed all at once
   | Review: ENDLESS Dungeon'
+game: Endless Dungeon
+gallery:
+- /images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-0.avif
+- /images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-1.avif
+- /images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-2.avif
+- /images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-3.avif
+- /images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-4.avif
+- /images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-roguelike-rts-tower-defense-and-escort-perfectly-executed-all-at-once--review-endless-dun-5.avif" alt="screenshot" />
-</div>
-
 ENDLESS™ Dungeon
 8.3
 Action

@@ -7,25 +7,27 @@ description: Evertale would probably be an accurate game to show as an example i
 featured: false
 pubDate: 2023-03-16
 tags:
-- taptap
+- android
 - evertale
+- ios
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif
 title: Final Fantasy and Pokemon had a baby | First Impressions - Evertale
+game: Evertale
+gallery:
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-1.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-2.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-3.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-4.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-5.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-6.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-7.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-8.avif
+- /images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-9.avif" alt="screenshot" />
-</div>
-
 Evertale would probably be an accurate game to show as an example if somebody asked the question, What If Pokemon and Final Fantasy had a child and released it on mobile platforms?
 
 Evertale is a JRPG turn-based combat game that draws heavy inspiration from the Pokemon series of video games, by featuring monster and character collecting aspects, packaged in a gacha gaming manner.

@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: SpongeBob - The Cosmic Shake
+description: SpongeBob - The Cosmic Shake 8.6 Action Arcade
 featured: false
 pubDate: 2023-12-24
 score: 8.0
 tags:
+- action
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- spongebob-the-cosmic-shake
 - taptap
-- the-cosmic-shake
+- xbox one
 thumb: /images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-0.avif
 title: 'A seamless 3D Platformer transition from PC/Console to Mobile | Review: SpongeBob
   - The Cosmic Shake'
+game: SpongeBob - The Cosmic Shake
+gallery:
+- /images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-0.avif
+- /images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-1.avif
+- /images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-2.avif
+- /images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-3.avif
+- /images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-4.avif
+- /images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-24-a-seamless-3d-platformer-transition-from-pcconsole-to-mobile--review-spongebob---the-cosm-5.avif" alt="screenshot" />
-</div>
-
 SpongeBob - The Cosmic Shake
 8.6
 Action

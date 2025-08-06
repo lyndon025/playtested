@@ -8,32 +8,37 @@ description: 'SpongeBob SquarePants: The Cosmic Shake is a 3D platformer game th
 featured: false
 pubDate: 2023-02-05
 tags:
+- action
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- spongebob-squarepants-the-cosmic-shake
 - taptap
-- spongebob-squarepants:-the-cosmic-shake
+- xbox one
 thumb: /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--0.avif
 title: 'Save Bikini Bottom in this multiversal adventure | SpongeBob SquarePants:
   The Cosmic Shake - Review'
+game: 'SpongeBob SquarePants: The Cosmic Shake'
+gallery:
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--0.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--1.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--2.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--3.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--4.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--5.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--6.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--7.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--8.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--9.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--10.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--11.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--12.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--13.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--14.avif
+- /images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--15.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--15.avif" alt="screenshot" />
-</div>
-
 SpongeBob SquarePants: The Cosmic Shake is a 3D platformer game that is based on the Nickelodeon animated series SpongeBob SquarePants. It is the spiritual successor to 2020’s Battle for Bikini Bottom – Rehydrated, which is in itself a remake of the original 2003 Battle for Bikini Bottom.
 
 

@@ -1,27 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Darza's Dominion
+description: Darza's Dominion is an MMO rogue-like game that originally released on
+  mobile five years ago. It was subsequently shut down, brought to PC last year, and
+  has now just relaunched on Android a few days ago with a complete rework of the
+  game.
 featured: false
 pubDate: 2024-01-04
 score: 7.0
 tags:
+- action
+- adventure
+- darza-s-dominion
+- massively multiplayer
+- pc
+- rpg
 - taptap
-- darza's-dominion
 thumb: /images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-0.avif
 title: Sets itself apart in a genre of singleplayer and coop experiences | Review
   - Darza's Dominion
+game: Darza's Dominion
+gallery:
+- /images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-0.avif
+- /images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-1.avif
+- /images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-2.avif
+- /images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-3.avif
+- /images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-4.avif
+- /images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-sets-itself-apart-in-a-genre-of-singleplayer-and-coop-experiences--review---darzas-domini-5.avif" alt="screenshot" />
-</div>
-
 Darza's Dominion
 7.4
 Action

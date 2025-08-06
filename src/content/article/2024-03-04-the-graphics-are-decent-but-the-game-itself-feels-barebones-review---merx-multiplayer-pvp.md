@@ -1,27 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'MerX: Multiplayer PvP shooter'
+description: 'MerX: Multiplayer PvP shooter 6.2 Action Shooter Download'
 featured: false
 pubDate: 2024-03-04
 score: 3.0
 tags:
+- action
+- merx-multiplayer-pvp-shooter
+- pc
 - taptap
-- merx:-multiplayer-pvp-shooter
 thumb: /images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-0.avif
 title: 'The graphics are decent, but the game itself feels barebones| Review - MerX:
   Multiplayer PvP shooter'
+game: 'MerX: Multiplayer PvP shooter'
+gallery:
+- /images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-0.avif
+- /images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-1.avif
+- /images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-2.avif
+- /images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-3.avif
+- /images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-4.avif
+- /images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-04-the-graphics-are-decent-but-the-game-itself-feels-barebones-review---merx-multiplayer-pvp-5.avif" alt="screenshot" />
-</div>
-
 MerX: Multiplayer PvP shooter
 6.2
 Action

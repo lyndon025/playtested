@@ -1,25 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Division ResurgenceGlobal
+description: The Division has always been described by me and my peers as 'Diablo
+  with guns,' and this description holds true. It's a looter shooter with Action RPG
+  elements, which can be quite addicting. However, I have always struggled to reconcile
+  the concept of its realistic, grounded setting with its RPG mechanics. Suspension
+  of disbelief is one thing, but seeing a Diablo-like game in a shooter's skin felt
+  odd to me. Ordinary individuals with guns in our real world, yet they need to find
+  legendary firearms to defeat bullet sponge enemies that are also supposed to be
+  humans. Despite this, The Division's system works exceptionally well once you immerse
+  yourself in gameplay.
 featured: false
 pubDate: 2023-11-18
 tags:
+- action
+- android
+- cbt-review-the-division-resurgence
+- ios
+- massively multiplayer
+- rpg
+- shooter
 - taptap
-- tom-clancy’s-the-division™
 thumb: /images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-0.avif
 title: A fully fledged The Division experience on the go | CBT Review - The Division
   Resurgence
+game: CBT Review - The Division Resurgence
+gallery:
+- /images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-0.avif
+- /images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-1.avif
+- /images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-2.avif
+- /images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-3.avif
+- /images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-18-a-fully-fledged-the-division-experience-on-the-go--cbt-review---the-division-resurgence-4.avif" alt="screenshot" />
-</div>
-
 The Division ResurgenceGlobal
 8.4
 Action

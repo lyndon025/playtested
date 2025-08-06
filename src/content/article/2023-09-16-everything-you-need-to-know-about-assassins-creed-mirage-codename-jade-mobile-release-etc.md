@@ -10,22 +10,24 @@ description: Assassin's Creed Mirage is generating a renewed interest in the ser
 featured: false
 pubDate: 2023-09-16
 tags:
+- action
+- adventure
+- android
+- ios
+- mirage-codename-jade-mobile-release-etc
 - taptap
-- assassin's-creed®-unity
 thumb: /images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-0.avif
 title: 'Everything you need to know about Assassin''s Creed: Mirage (Codename Jade,
   Mobile Release, etc)'
+game: Mirage (Codename Jade, Mobile Release, etc)
+gallery:
+- /images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-0.avif
+- /images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-1.avif
+- /images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-2.avif
+- /images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-3.avif
+- /images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-4.avif
+- /images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-16-everything-you-need-to-know-about-assassins-creed-mirage-codename-jade-mobile-release-etc-5.avif" alt="screenshot" />
-</div>
-
 Assassin's Creed Mirage is generating a renewed interest in the series due to its promise of returning to the series' classic roots. Unlike recent entries that emphasized open-world exploration and RPG elements, Mirage aims to provide a more linear and story-driven experience. For fans who have longed for the days of parkour, stealth, and close-quarter combat, this return to basics is a welcome back change.
 
 🕌Setting

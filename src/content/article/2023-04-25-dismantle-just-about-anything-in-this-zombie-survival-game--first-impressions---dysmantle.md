@@ -1,27 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: DYSMANTLE
+description: Dysmantle takes place on a shelter island after a zombie apocalypse has
+  wiped out most of humanity. You play as a survivor who wants to escape the island,
+  as such, he must scavenge for resources, craft tools and weapons, and fight off
+  dangerous creatures to stay alive and escape in this open-world island.
 featured: false
 pubDate: 2023-04-25
 tags:
-- taptap
+- action
+- adventure
+- console
 - dysmantle
+- indie
+- ios
+- linux
+- macos
+- nintendo switch
+- pc
+- rpg
+- simulation
+- taptap
+- xbox one
 thumb: /images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-0.avif
 title: Dismantle just about anything in this zombie survival game | First Impressions
   - Dysmantle
+game: DYSMANTLE
+gallery:
+- /images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-0.avif
+- /images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-1.avif
+- /images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-2.avif
+- /images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-3.avif
+- /images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-4.avif
+- /images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-5.avif
+- /images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-dismantle-just-about-anything-in-this-zombie-survival-game--first-impressions---dysmantle-6.avif" alt="screenshot" />
-</div>
-
 DYSMANTLE
 9.0
 Action

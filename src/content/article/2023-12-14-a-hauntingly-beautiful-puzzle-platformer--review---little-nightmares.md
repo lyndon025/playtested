@@ -1,25 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Little Nightmares
+description: You’ve probably seen gameplay clips of charmingly eerie and interestingly
+  cute game called Little Nightmares all over social media before, I know I did. Little
+  Nightmares is a 3D puzzle-platformer that plunges players into a surreal and atmospheric
+  world.
 featured: false
 pubDate: 2023-12-14
 tags:
+- action
+- adventure
+- console
+- ios
+- little-nightmares
+- nintendo switch
+- pc
+- platformer
+- playstation
+- playstation 4
 - taptap
-- very-little-nightmares
+- xbox one
 thumb: /images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-0.avif
 title: A hauntingly beautiful puzzle-platformer | Review - Little Nightmares
+game: Little Nightmares
+gallery:
+- /images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-0.avif
+- /images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-1.avif
+- /images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-2.avif
+- /images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-3.avif
+- /images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-4.avif
+- /images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-14-a-hauntingly-beautiful-puzzle-platformer--review---little-nightmares-5.avif" alt="screenshot" />
-</div>
-
 Little Nightmares
 9.3
 Horror

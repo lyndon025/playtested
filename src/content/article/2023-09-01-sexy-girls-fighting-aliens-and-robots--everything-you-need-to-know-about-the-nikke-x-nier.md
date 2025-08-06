@@ -12,21 +12,23 @@ description: 'Developed by Shift Up, Goddess of Victory: Nikke, or Nikke is a fr
 featured: false
 pubDate: 2023-09-01
 tags:
+- action
+- nier
+- playstation 3
+- rpg
 - taptap
-- goddess-of-victory:-nikke
+- xbox 360
 thumb: /images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-0.avif
 title: Sexy girls fighting aliens and robots — Everything you need to know about the
   NIKKE x NieR crossover
+game: NIER
+gallery:
+- /images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-0.avif
+- /images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-1.avif
+- /images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-2.avif
+- /images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-3.avif
+- /images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-01-sexy-girls-fighting-aliens-and-robots--everything-you-need-to-know-about-the-nikke-x-nier-4.avif" alt="screenshot" />
-</div>
-
 Developed by Shift Up, Goddess of Victory: Nikke, or Nikke is a free-to-play sci-fi shooter that has garnered attention for its action-packed gameplay and, well, it's rather unique exaggerated physics. The game features a cast of buxom waifu characters, each armed to the teeth and ready for action. While the gameplay itself is no joke, what really sets Nikke apart is its over the shoulder and cover action, and playful approach to character movement, where the recoil from shooting causes certain assets to, shall we say, exhibit quite noticeable jiggle. It's unapologetically over-the-top, and players have embraced it for its fan service fun.
 
 Nikke presents a compelling story-driven gameplay experience set in a dystopian future where humanity has sought refuge underground, battling mechanical aliens known as Raptures. Players assume the role of a Commander, leading a squad of Nikkes—powerful artificial soldiers—on a mission to reclaim the Earth's surface from the Raptures. The narrative unfolds through missions, encounters, and dialogues; and interweaves with the game's action-based battle system, featuring quick character-switching, elemental strategies, and intense third-person shooter combat. Players face waves of enemies and powerful bosses, utilizing a variety of firearms and abilities to exploit enemy weaknesses. Together, the narrative and gameplay create a dynamic and immersive experience, blending action, strategy, and storytelling into a thrilling adventure.

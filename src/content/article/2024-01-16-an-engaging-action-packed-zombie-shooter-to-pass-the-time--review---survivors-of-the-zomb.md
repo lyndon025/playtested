@@ -1,27 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Survivors Of The Zombie World
+description: Survivors Of The Zombie World 6.6 Survival Zombie Steam
 featured: false
 pubDate: 2024-01-16
 score: 8.0
 tags:
-- taptap
+- action
+- adventure
+- indie
+- pc
 - survivors-of-the-zombie-world
+- taptap
 thumb: /images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-0.avif
 title: An engaging, action-packed zombie shooter to pass the time | Review - Survivors
   Of The Zombie World
+game: Survivors Of The Zombie World
+gallery:
+- /images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-0.avif
+- /images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-1.avif
+- /images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-2.avif
+- /images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-3.avif
+- /images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-4.avif
+- /images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-5.avif" alt="screenshot" />
-</div>
-
 Survivors Of The Zombie World
 6.6
 Survival

@@ -7,18 +7,19 @@ description: First of all, Aether Gazer is a hack-and-slash gacha ARPG game avai
 featured: false
 pubDate: 2023-09-05
 tags:
+- aether-gazers-shadow-under-convallaria-update
+- pc
+- rpg
+- strategy
 - taptap
-- aether-gazer
 thumb: /images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif
 title: The Puppet Show has begun! | Aether Gazer’s Shadow Under Convallaria update
+game: Aether Gazer’s Shadow Under Convallaria update
+gallery:
+- /images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif
+- /images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-1.avif
+- /images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-2.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-2.avif" alt="screenshot" />
-</div>
-
 First of all, Aether Gazer is a hack-and-slash gacha ARPG game available for Android and iOS with a compelling, fully voiced narrative. (Endorsed by the Aether Gazer website, PC is also playable via emulator)
 
 Aether Gazer website,

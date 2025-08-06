@@ -7,25 +7,30 @@ description: 'Voice of Cards: The Forsaken Maiden is a table-top RPG game in vid
 featured: false
 pubDate: 2023-03-26
 tags:
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
+- strategy
 - taptap
-- voc:-the-forsaken-maiden
+- voice-of-cards-the-forsaken-maiden
 thumb: /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-0.avif
 title: 'An adventurous table-top inspired RPG card game | Review - Voice of Cards:
   The Forsaken Maiden'
+game: 'Voice of Cards: The Forsaken Maiden'
+gallery:
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-0.avif
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-1.avif
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-2.avif
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-3.avif
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-4.avif
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-5.avif
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-6.avif
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-7.avif
+- /images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-8.avif" alt="screenshot" />
-</div>
-
 Voice of Cards: The Forsaken Maiden is a table-top RPG game in video game format. It has recently been ported to the Android and iOS Mobile platforms, after first releasing back in 2022 for Playstation 4, Nintendo Switch, and PC.
 
 

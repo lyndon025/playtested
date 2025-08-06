@@ -8,13 +8,20 @@ description: 'Monster Menu: The Scavenger''s Cookbook is a game that attempts to
 featured: false
 pubDate: 2023-05-25
 tags:
+- console
+- monster-menu-the-scavenger-s-cookbook
+- nintendo switch
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- strategy
 - taptap
-- monster-menu-(ns,-ps4,-ps5)
 thumb: ''
-title: "A rogue-like survival RPG cooking sim? | First Impressions - \uFEFFMonster
-  Menu: The Scavenger's Cookbook"
+title: "A rogue-like survival RPG cooking sim? | First Impressions - \uFEFFMonster\
+  \ Menu: The Scavenger's Cookbook"
+game: Monster Menu - The Scavenger's Cookbook
 ---
-
 Monster Menu: The Scavenger's Cookbook is a game that attempts to blend elements of rogue-like dungeon crawling, survival crafting, cooking sim, and turn-based combat mechanics. It features cel-shaded anime chibi art style and a third person view gameplay.
 
 Monster Menu starts with the player created rookie character in his maiden exploration of what is claimed to be a novice dungeon. However, the character quickly finds himself in a life and death situation, with extreme hunger and dehydration as he is lost in the supposedly novice dungeon. As a last resort, he is forced to eat a part of a dying corpse to survive. Yes, underneath this lighthearted chibi art style, there lies a somewhat gruesome and disgusting premise of monster consumption that permeates throughout the whole game.

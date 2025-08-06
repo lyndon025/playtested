@@ -1,25 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Black Myth: Wukong'
+description: 'It has been a very busy day today with The Game Awards, with well deserved
+  awardees like Baldur’s Gate 3 and Alan Wake 2, thrilling announcements, and exclusive
+  reveals at The Game Awards. There is one particular exciting piece of news has caught
+  my interest among all of them, and it’s Black Myth: Wukong, the highly anticipated
+  action RPG deeply rooted in Chinese mythology. It has graced us with a mesmerizing
+  new “Official Release Date Trailer” with a confirmed release date of August 20,
+  2024. The game is set to launch on the PS5, Xbox Series X/S, and PC platforms.'
 featured: false
 pubDate: 2023-12-08
 tags:
+- action
+- adventure
+- black-myth-wukong
+- console
+- pc
+- playstation
+- playstation 5
+- rpg
 - taptap
-- black-myth:-wukong
+- xbox series
 thumb: /images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-0.avif
 title: 'The highly anticipated Action RPG releases in August 2024! | Black Myth: Wukong'
+game: 'Black Myth: Wukong'
+gallery:
+- /images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-0.avif
+- /images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-1.avif
+- /images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-2.avif
+- /images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-3.avif
+- /images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-4.avif
+- /images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-08-the-highly-anticipated-action-rpg-releases-in-august-2024--black-myth-wukong-5.avif" alt="screenshot" />
-</div>
-
 Black Myth: Wukong
 8.5
 Action

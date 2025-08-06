@@ -7,20 +7,20 @@ description: ZeroVector is an arcade vertical shoot’em up designed to be playe
 featured: false
 pubDate: 2023-02-26
 tags:
+- pc
+- shooter
 - taptap
 - zerovector
 thumb: /images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-0.avif
 title: This arcade shoot’em up has mesmerizing visuals | First Impressions - ZeroVector
+game: ZeroVector
+gallery:
+- /images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-0.avif
+- /images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-1.avif
+- /images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-2.avif
+- /images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-3.avif
+- /images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-26-this-arcade-shootem-up-has-mesmerizing-visuals--first-impressions---zerovector-4.avif" alt="screenshot" />
-</div>
-
 ZeroVector is an arcade vertical shoot’em up designed to be played with one finger, which is used to move the player's ship. The ship automatically fires at enemies, and the player must avoid the incoming projectiles cluttering the map.
 
 The player ship has a special move called "Reversal," which is activated by tapping with two fingers. This move temporarily sends back all projectiles to the enemies, allowing players to clear the screen and get a brief moment of respite, helpful when overwhelmed by projectiles and enemies.

@@ -9,12 +9,16 @@ description: 'I used to play a lot of Dynasty Warriors and Romance: of the Three
 featured: false
 pubDate: 2023-10-26
 tags:
+- action
+- dynasty-warriors-m
+- pc
+- rpg
+- strategy
 - taptap
-- dynasty-warriors:-overlords
 thumb: ''
 title: Dynasty Warriors experience on mobile! | Impressions - Dynasty Warriors M
+game: Dynasty Warriors M
 ---
-
 I used to play a lot of Dynasty Warriors and Romance: of the Three Kingdoms on my PS2 backthen in my childhood days, so it’s a delight to see that the franchise is still alive and kicking. Now, we are getting a full-on Dynasty Warriors experience on mobile with Dynasty Warriors M, and it features console-level of visuals and gameplay! it is even on par with Dynasty Warriors 9.
 
 Dynasty Warriors M combines action and strategy, capturing the essence of the Dynasty Warriors series. The core gameplay centers on large scale hack-and-slash combat on expansive, open battlefields. Players command their chosen officers to engage in epic battles against hordes of enemies and rival officers, using combos and special attacks to dominate the field.

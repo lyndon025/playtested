@@ -1,6 +1,6 @@
 ---
 author: lyndonguitar
-category: Review
+category: Tech
 description: Ever since I was a child, I always dreamt of taking my games with me
   when going out, and It always came with huge compromises. It meant that I wouldn’t
   be taking my console or PC games with me, and I’m stuck with a portable handheld
@@ -9,26 +9,28 @@ description: Ever since I was a child, I always dreamt of taking my games with m
 featured: false
 pubDate: 2022-11-27
 tags:
+- action
+- indie
+- massively multiplayer
+- pc
 - taptap
-- steam
+- the-greatest-piece-of-gaming-tech-that-i-ve-ever-owned
 thumb: /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif
 title: The greatest piece of gaming tech that I've ever owned
+game: The greatest piece of gaming tech that I've ever owned
+gallery:
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-1.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-2.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-3.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-4.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-5.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-6.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-7.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-8.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-9.avif
+- /images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-10.avif" alt="screenshot" />
-</div>
-
 Ever since I was a child, I always dreamt of taking my games with me when going out, and It always came with huge compromises. It meant that I wouldn’t be taking my console or PC games with me, and I’m stuck with a portable handheld with its own different and toned down games (Gameboy, Playstation Portable, Nintendo DS, Switch, etc)
 
 Not anymore. Last year, the Valve Steam Deck was announced. While it released early this year with extreme scarcity, recently it became relatively abundant that I was finally able to purchase and receive it around two months ago. Here are my thoughts.

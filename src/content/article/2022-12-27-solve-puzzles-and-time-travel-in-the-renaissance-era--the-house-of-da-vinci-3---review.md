@@ -8,30 +8,34 @@ description: The House of Da Vinci 3 has come to PC and it is an impressive port
 featured: false
 pubDate: 2022-12-27
 tags:
+- adventure
+- indie
+- ios
+- macos
+- pc
+- puzzle
 - taptap
-- the-house-of-da-vinci-3-(pc)
+- the-house-of-da-vinci-3
 thumb: /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-0.avif
 title: Solve puzzles and time travel in the Renaissance era | The House of Da Vinci
   3 - Review
+game: The House of Da Vinci 3
+gallery:
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-0.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-1.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-2.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-3.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-4.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-5.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-6.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-7.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-8.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-9.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-10.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-11.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-12.avif
+- /images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-27-solve-puzzles-and-time-travel-in-the-renaissance-era--the-house-of-da-vinci-3---review-13.avif" alt="screenshot" />
-</div>
-
 The House of Da Vinci 3 has come to PC and it is an impressive port of a mobile escape room game. Set in the Renaissance era, you play as Giacomo, series protagonist and a friend of Leonardo Da Vinci in a puzzle solving adventure across space… as well as time.
 
 

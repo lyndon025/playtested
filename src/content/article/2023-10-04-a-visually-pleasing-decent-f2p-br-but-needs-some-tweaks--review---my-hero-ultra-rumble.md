@@ -1,25 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: MY HERO ULTRA RUMBLE
+description: MY HERO ULTRA RUMBLE 9.0 Action PvP Get
 featured: false
 pubDate: 2023-10-04
 tags:
-- taptap
+- action
+- casual
+- console
+- massively multiplayer
 - my-hero-ultra-rumble
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- taptap
+- xbox series
 thumb: /images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-0.avif
 title: A visually pleasing, decent F2P BR, but needs some tweaks | Review - MY HERO
   ULTRA RUMBLE
+game: MY HERO ULTRA RUMBLE
+gallery:
+- /images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-0.avif
+- /images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-1.avif
+- /images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-2.avif
+- /images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-3.avif
+- /images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-visually-pleasing-decent-f2p-br-but-needs-some-tweaks--review---my-hero-ultra-rumble-4.avif" alt="screenshot" />
-</div>
-
 MY HERO ULTRA RUMBLE
 9.0
 Action

@@ -8,29 +8,36 @@ description: Everspace 2 takes place in a vast, open-world space environment. Pl
 featured: false
 pubDate: 2023-04-11
 tags:
+- action
+- console
+- everspace-2
+- indie
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- simulation
 - taptap
-- everspace™-2
+- xbox one
 thumb: /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-0.avif
 title: One of the best space combat arcade games you can play today | Full Review
   - Everspace 2
+game: Everspace 2
+gallery:
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-0.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-1.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-2.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-3.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-4.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-5.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-6.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-7.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-8.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-9.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-10.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-11.avif
+- /images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-11-one-of-the-best-space-combat-arcade-games-you-can-play-today--full-review---everspace-2-12.avif" alt="screenshot" />
-</div>
-
 Everspace 2 takes place in a vast, open-world space environment. Players take on the role of a clone pilot — the “same” pilot from the first game — who must explore different star systems, battle hostile forces, take on missions, and uncover the mysteries of the universe via story campaign.
 
 

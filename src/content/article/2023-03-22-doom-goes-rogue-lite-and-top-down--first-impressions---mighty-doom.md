@@ -8,23 +8,24 @@ description: It looks like DOOM is joining the single touch craze these days by 
 featured: false
 pubDate: 2023-03-22
 tags:
-- taptap
+- action
+- android
+- ios
 - mighty-doom
+- taptap
 thumb: /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-0.avif
 title: DOOM goes rogue-lite and top-down | First Impressions - Mighty DOOM
+game: Mighty DOOM
+gallery:
+- /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-0.avif
+- /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-1.avif
+- /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-2.avif
+- /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-3.avif
+- /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-4.avif
+- /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-5.avif
+- /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-6.avif
+- /images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-doom-goes-rogue-lite-and-top-down--first-impressions---mighty-doom-7.avif" alt="screenshot" />
-</div>
-
 It looks like DOOM is joining the single touch craze these days by releasing their newest title for the mobile platform — Mighty DOOM. A top down action shooter where players control the mini Slayer, battling mini Demons in an arcade style combat with rogue-lite progression and mission structure.
 
 The gameplay is simple: using just one hand, control the mini Slayer to avoid enemy attacks and position shots. His regular shots automatically fire, while the secondary weapons and abilities are manually activated.

@@ -1,26 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Titan Quest: Ultimate Edition'
+description: Titan Quest is an action role-playing game originally released in 2006
+  and has since been updated with new DLCs and ported to mobile multiple times, bringing
+  this classic to new audiences time and time again, introducing various generation
+  of gamers to a mythical journey through ancient civilizations.  It has stood the
+  test of time and continues to captivate audiences across different platforms.
 featured: false
 pubDate: 2023-11-30
 score: 8.0
 tags:
+- action
+- pc
+- rpg
 - taptap
-- titan-quest:-legendary-edition
+- titan-quest-ultimate-edition
 thumb: /images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-0.avif
 title: 'Deserves to be nominated for a Labor of Love award | Review - Titan Quest:
   Ultimate Edition'
+game: 'Titan Quest: Ultimate Edition'
+gallery:
+- /images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-0.avif
+- /images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-1.avif
+- /images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-2.avif
+- /images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-3.avif
+- /images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-30-deserves-to-be-nominated-for-a-labor-of-love-award--review---titan-quest-ultimate-edition-4.avif" alt="screenshot" />
-</div>
-
 Titan Quest: Ultimate Edition
 8.4
 RPG

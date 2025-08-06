@@ -1,26 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'CookieRun: Tower of Adventures'
+description: 'CookieRun: Tower of Adventures 8.0 Action Editors'' Choice Download'
 featured: false
 pubDate: 2024-01-20
 tags:
+- action
+- android
+- cbt-review-cookierun-tower-of-adventures
+- ios
+- rpg
 - taptap
-- cookierun:-tower-of-adventures
 thumb: /images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-0.avif
 title: 'A SWEET hack and slash RPG game already, literally | CBT Review - CookieRun:
   Tower of Adventures'
+game: 'CBT Review - CookieRun: Tower of Adventures'
+gallery:
+- /images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-0.avif
+- /images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-1.avif
+- /images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-2.avif
+- /images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-3.avif
+- /images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-4.avif
+- /images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-20-a-sweet-hack-and-slash-rpg-game-already-literally--cbt-review---cookierun-tower-of-advent-5.avif" alt="screenshot" />
-</div>
-
 CookieRun: Tower of Adventures
 8.0
 Action

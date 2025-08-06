@@ -1,24 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Wayfinder
+description: Wayfinder, an Online Action Role Playing Game, takes players on an adventure
+  through a world filled with stylized characters, third person combat, and procedurally
+  generated dungeons. While it draws parallels to games like Dauntless, Fortnite,
+  and Darksiders, it is also promising to also bring its own unique elements to the
+  table. The game features an intriguing blend of MMO lite and RPG elements, promising
+  a mix of action-packed combat and immersive storytelling.
 featured: false
 pubDate: 2023-08-21
 tags:
+- action
+- adventure
+- casual
+- ios
+- massively multiplayer
+- pc
+- rpg
 - taptap
 - wayfinder
 thumb: /images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-0.avif
 title: This Fortnite-looking MMO is off to a bad start | Impressions - Wayfinder
+game: Wayfinder
+gallery:
+- /images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-0.avif
+- /images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-1.avif
+- /images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-2.avif
+- /images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-3.avif
+- /images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-fortnite-looking-mmo-is-off-to-a-bad-start--impressions---wayfinder-4.avif" alt="screenshot" />
-</div>
-
 Wayfinder
 7.0
 Action

@@ -8,25 +8,29 @@ description: From the looks of it, you might not think of Glimmer in Mirror as a
 featured: false
 pubDate: 2023-01-10
 tags:
-- taptap
+- action
+- adventure
+- casual
 - glimmer-in-mirror
+- indie
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-0.avif
 title: A cute anime-esque platform shooter | Glimmer in Mirror - First Impressions
+game: Glimmer in Mirror
+gallery:
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-0.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-1.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-2.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-3.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-4.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-5.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-6.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-7.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-8.avif
+- /images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-10-a-cute-anime-esque-platform-shooter--glimmer-in-mirror---first-impressions-9.avif" alt="screenshot" />
-</div>
-
 From the looks of it, you might not think of Glimmer in Mirror as a metroidvania platform shooter. In fact every fiber of my being is telling me that it isn’t, it feels more like a flashy side scrolling hack and slash game, but Glimmer in Mirror is indeed a shooter in a cute anime (chibi) disguise, and that’s refreshing to see.
 
 Glimmer in Mirror is a promising new game released in Early Access with a story-rich gameplay filled with cute chibi characters and stunning beautiful backdrops, accentuated by its melodramatic smoothing soundtrack.

@@ -9,22 +9,23 @@ description: 'Fogbound Dream is the second and newest DLC for Snowbreak: Contain
 featured: false
 pubDate: 2023-09-21
 tags:
+- indie
+- pc
+- strategy
 - taptap
-- snowbreak:-containment-zone
+- world-a-new-character
 thumb: /images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-0.avif
 title: 'Everything you need to know about Snowbreak’s new DLC: Fogbound Dream (Open-world?
   A new character?)'
+game: world? A new character?)
+gallery:
+- /images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-0.avif
+- /images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-1.avif
+- /images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-2.avif
+- /images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-3.avif
+- /images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-4.avif
+- /images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-5.avif" alt="screenshot" />
-</div>
-
 Fogbound Dream is the second and newest DLC for Snowbreak: Containment Zone, a popular 3D sci-fi third-person shooter game where players navigate the mysterious  ‘containment zone’ with a squad of waifu heroes equipped with diverse skills, gun types, and abilities. Fogbound Dream is set to be the game’s biggest update yet with a plethora of new content and events coinciding with TGS 2023 starting this September 21st.
 
 Tokyo Game Show 2023 Participation

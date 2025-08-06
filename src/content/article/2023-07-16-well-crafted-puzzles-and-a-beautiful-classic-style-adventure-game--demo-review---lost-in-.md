@@ -1,27 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Lost in Play
+description: Lost in Play is a charming adventure game that takes players on a whimsical
+  journey alongside two siblings, Toto and Gal. Developed initially for the Nintendo
+  Switch and PC platforms, it has now made its way to Android and iOS devices just
+  this July, and I was able to play the free demo of this game for Android.
 featured: false
 pubDate: 2023-07-16
 tags:
+- casual
+- ios
+- puzzle
+- review-lost-in-play
 - taptap
-- lost-in-play
 thumb: /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--0.avif
 title: Well-crafted puzzles and a beautiful classic-style adventure game | Demo Review
   - Lost in Play
+game: Review - Lost in Play
+gallery:
+- /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--0.avif
+- /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--1.avif
+- /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--2.avif
+- /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--3.avif
+- /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--4.avif
+- /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--5.avif
+- /images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-16-well-crafted-puzzles-and-a-beautiful-classic-style-adventure-game--demo-review---lost-in--6.avif" alt="screenshot" />
-</div>
-
 Lost in Play
 
 lyndonguitar

@@ -1,24 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: CoromonGlobal
+description: Coromon is a delightful monster-taming indie RPG that captures the essence
+  Pokémon while injecting its own unique flavor into the mix. Developed by TRAGsoft
+  and Published by Freedom Games, Coromon offers a fresh take on the genre, blending
+  sprite-based pixel art visuals, character and monster customization, and Zelda-like
+  puzzle-solving elements.
 featured: false
 pubDate: 2023-10-30
 tags:
+- adventure
+- android
+- console
+- coromon
+- indie
+- ios
+- macos
+- nintendo switch
+- pc
+- rpg
+- strategy
 - taptap
-- pokémon-scarlet-and-violet
 thumb: /images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-0.avif
 title: A solid retro-style monster-taming RPG for Mobile | Preview - Coromon
+game: Coromon
+gallery:
+- /images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-0.avif
+- /images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-1.avif
+- /images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-2.avif
+- /images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-3.avif
+- /images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-30-a-solid-retro-style-monster-taming-rpg-for-mobile--preview---coromon-4.avif" alt="screenshot" />
-</div>
-
 CoromonGlobal
 9.1
 Editors' Choice

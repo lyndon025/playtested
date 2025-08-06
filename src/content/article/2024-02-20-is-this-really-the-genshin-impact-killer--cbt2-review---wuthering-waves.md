@@ -1,28 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Wuthering Waves
+description: Wuthering Waves 9.2 Editors' Choice Action PC Version
 featured: false
 pubDate: 2024-02-20
 score: 8.0
 tags:
+- cbt2-review-wuthering-waves
+- simulation
 - taptap
-- honkai-impact-3rd
+- web
 thumb: /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-0.avif
 title: Is this really THE Genshin Impact Killer? | CBT2 Review - Wuthering Waves
+game: CBT2 Review - Wuthering Waves
+gallery:
+- /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-0.avif
+- /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-1.avif
+- /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-2.avif
+- /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-3.avif
+- /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-4.avif
+- /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-5.avif
+- /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-6.avif
+- /images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-7.avif" alt="screenshot" />
-</div>
-
 Wuthering Waves
 9.2
 Editors' Choice

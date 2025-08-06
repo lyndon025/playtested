@@ -1,27 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Magic Chronicle: Isekai RPG'
+description: 'Magic Chronicle: Isekai RPG 5.4 Adventure RPG Download'
 featured: false
 pubDate: 2024-01-11
 score: 7.0
 tags:
+- adventure
+- android
+- casual
+- linux
+- macos
+- magic-chronicle-isekai-rpg
+- pc
 - taptap
-- magic-chronicle:-isekai-rpg
 thumb: /images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-0.avif
 title: 'Not as generic as the title makes it out to be | Review - Magic Chronicle:
   Isekai RPG'
+game: 'Magic Chronicle: Isekai RPG'
+gallery:
+- /images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-0.avif
+- /images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-1.avif
+- /images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-2.avif
+- /images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-3.avif
+- /images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-4.avif
+- /images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-not-as-generic-as-the-title-makes-it-out-to-be--review---magic-chronicle-isekai-rpg-5.avif" alt="screenshot" />
-</div>
-
 Magic Chronicle: Isekai RPG
 5.4
 Adventure

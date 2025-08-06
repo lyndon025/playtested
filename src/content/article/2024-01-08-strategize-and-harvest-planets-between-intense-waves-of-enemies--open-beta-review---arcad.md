@@ -1,26 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: Arcadium - Space Odyssey
+description: Arcadium - Space Odyssey 7.8 Action Action Roguelike Test
 featured: false
 pubDate: 2024-01-08
 tags:
+- open-beta-review-arcadium
+- pc
+- platformer
 - taptap
-- space-odyssey
 thumb: /images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-0.avif
 title: Strategize and harvest planets between intense waves of enemies | Open Beta
   Review - Arcadium
+game: Open Beta Review - Arcadium
+gallery:
+- /images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-0.avif
+- /images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-1.avif
+- /images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-2.avif
+- /images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-3.avif
+- /images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-4.avif
+- /images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-08-strategize-and-harvest-planets-between-intense-waves-of-enemies--open-beta-review---arcad-5.avif" alt="screenshot" />
-</div>
-
 Arcadium - Space Odyssey
 7.8
 Action

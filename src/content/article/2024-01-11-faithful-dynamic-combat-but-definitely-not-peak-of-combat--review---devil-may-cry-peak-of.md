@@ -1,27 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Devil May Cry: Peak of CombatGlobal'
+description: 'Devil May Cry: Peak of CombatGlobal 7.8 Action Hack And Slash Get'
 featured: false
 pubDate: 2024-01-11
 score: 6.0
 tags:
+- action
+- android
+- devil-may-cry-peak-of-combat
+- ios
 - taptap
-- devil-may-cry-4-special-edition
 thumb: /images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-0.avif
 title: Faithful dynamic combat, but definitely not ‘Peak of Combat’ | Review - Devil
   May Cry Peak of Combat
+game: 'Devil May Cry: Peak of Combat'
+gallery:
+- /images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-0.avif
+- /images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-1.avif
+- /images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-2.avif
+- /images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-3.avif
+- /images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-4.avif
+- /images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-11-faithful-dynamic-combat-but-definitely-not-peak-of-combat--review---devil-may-cry-peak-of-5.avif" alt="screenshot" />
-</div>
-
 Devil May Cry: Peak of CombatGlobal
 7.8
 Action

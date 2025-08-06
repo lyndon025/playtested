@@ -7,12 +7,16 @@ description: Doomblade, offers a highly unique take on the Metroidvania genre. W
 featured: false
 pubDate: 2023-06-06
 tags:
-- taptap
+- action
+- adventure
 - doomblade
+- indie
+- pc
+- taptap
 thumb: ''
 title: A highly unique take on the Metroidvania genre | First Impressions - Doomblade
+game: DOOMBLADE
 ---
-
 Doomblade, offers a highly unique take on the Metroidvania genre. With its innovative combat mechanics featuring precision-based clicking much like mouse rhythm games like Osu!, or twin stick shooter style of combat when using controllers.
 
 Doomblade's gameplay revolves around its precision-based combat highly intertwined with its platforming system, which sets it apart from traditional Metroidvania games. The combat mechanics require players to click enemies or use the right stick for aiming to launch towards it for an attack. This not only applies in combat but platforming segments, requiring players to time the enemies positions to launch an attack, and be able to reach platforms and areas. Without these enemies to “latch” onto with an attack, these areas are otherwise unreachable. This approach immerses players in intense battles and exhilarating platforming segments, creating a sense of fluidity and empowerment.

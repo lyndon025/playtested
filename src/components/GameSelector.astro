@@ -1,0 +1,188 @@
+---
+// GameSelector.astro: search, select, and AI-powered compare/recommend
+export interface Props {
+  maxSelection: number;
+  buttonText: string;
+  id: string; // 'recommender' or 'comparator'
+}
+const { maxSelection, buttonText, id } = Astro.props;
+---
+
+<div class="bg-white dark:bg-slate-800 text-gray-900 dark:text-gray-100 border border-gray-200 dark:border-slate-700 p-6 rounded-lg" id={`game-selector-${id}`}>
+  <h3 class="text-lg font-bold mb-4">Game Search & Selection</h3>
+
+  <input
+    id={`game-search-input-${id}`}
+    type="text"
+    placeholder="Search for games..."
+    class="w-full bg-gray-50 dark:bg-slate-700 border border-gray-300 dark:border-slate-600 px-4 py-2 rounded mb-4 placeholder-gray-500 dark:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500"
+  />
+
+  <div id={`search-status-${id}`} class="text-sm text-gray-500 dark:text-gray-400 mb-2"></div>
+  <ul id={`search-results-${id}`} class="mb-6 space-y-2 max-h-60 overflow-y-auto"></ul>
+
+  <div class="mb-6">
+    <h4 class="font-bold mb-2">
+      Selected Games (<span id={`count-${id}`}>0</span>/{maxSelection}):
+    </h4>
+    <ul id={`selected-games-${id}`} class="space-y-2"></ul>
+  </div>
+
+  <button
+    id={`submit-btn-${id}`}
+    class="bg-blue-600 text-white px-6 py-3 rounded-lg disabled:opacity-40 font-bold w-full hover:bg-blue-700 transition-colors disabled:cursor-not-allowed"
+    disabled
+  >
+    {buttonText}
+  </button>
+
+  <div id={`ai-response-${id}`} class="mt-8"></div>
+</div>
+
+<script define:vars={{ maxSelection, buttonText, id }}>
+  const inputEl = document.getElementById(`game-search-input-${id}`);
+  const statusEl = document.getElementById(`search-status-${id}`);
+  const resultsEl = document.getElementById(`search-results-${id}`);
+  const selectedEl = document.getElementById(`selected-games-${id}`);
+  const countEl = document.getElementById(`count-${id}`);
+  const submitBtn = document.getElementById(`submit-btn-${id}`);
+  const aiResponseEl = document.getElementById(`ai-response-${id}`);
+
+  if (!inputEl || !statusEl || !resultsEl || !selectedEl || !countEl || !submitBtn || !aiResponseEl) {
+    console.error('Missing elements for GameSelector');
+    return;
+  }
+
+  let selected = [];
+  let searchTimeout;
+
+  async function searchGames(query) {
+    if (!query || query.length < 2) {
+      statusEl.textContent = '';
+      resultsEl.innerHTML = '';
+      return;
+    }
+    statusEl.textContent = 'Searching...';
+    resultsEl.innerHTML = '<li class="p-2 italic text-gray-500 dark:text-gray-400">Loading...</li>';
+    try {
+      const res = await fetch(`/api/rawg-search/${encodeURIComponent(query)}`);
+      const data = await res.json();
+      resultsEl.innerHTML = '';
+      if (data.error) {
+        statusEl.textContent = `Error: ${data.error}`;
+        return;
+      }
+      if (!data.results.length) {
+        statusEl.textContent = 'No games found';
+        return;
+      }
+      statusEl.textContent = `Found ${data.results.length} games`;
+      data.results.forEach(game => {
+        const li = document.createElement('li');
+        li.className = 'flex items-center p-3 border border-gray-200 dark:border-slate-700 rounded cursor-pointer hover:bg-gray-100 dark:hover:bg-slate-700';
+        const thumb = game.background_image || '';
+        const year = game.released ? new Date(game.released).getFullYear() : 'Unknown';
+        li.innerHTML = `
+          <img src="${thumb}" alt="${game.name}" class="w-12 h-12 object-cover rounded mr-3" />
+          <div>
+            <div class="font-medium text-gray-900 dark:text-gray-100">${game.name}</div>
+            <div class="text-sm text-gray-500 dark:text-gray-400">${year}</div>
+          </div>
+        `;
+        li.addEventListener('click', () => addGame(game));
+        resultsEl.appendChild(li);
+      });
+    } catch (e) {
+      statusEl.textContent = 'Network error';
+      console.error(e);
+    }
+  }
+
+  function addGame(game) {
+    inputEl.value = '';
+    resultsEl.innerHTML = '';
+    statusEl.textContent = '';
+    inputEl.focus();
+    if (selected.find(g => g.id === game.id) || selected.length >= maxSelection) return;
+    selected.push({ id: game.id, name: game.name });
+    updateSelectionUI();
+  }
+
+  function removeGame(idx) {
+    selected.splice(idx, 1);
+    updateSelectionUI();
+  }
+
+  async function fetchCoverForName(name) {
+    const res = await fetch(`/api/rawg-search/${encodeURIComponent(name)}`);
+    const data = await res.json();
+    return data.results?.[0]?.background_image || '';
+  }
+
+  function parseNames(text) {
+    return text.split(/,|and/).map(s => s.trim()).filter(s => s);
+  }
+
+  function updateSelectionUI() {
+    selectedEl.innerHTML = '';
+    selected.forEach((g, i) => {
+      const li = document.createElement('li');
+      li.className = 'flex justify-between p-2 bg-blue-50 dark:bg-slate-700 rounded';
+      li.innerHTML = `<span>${g.name}</span><button class="text-red-500 dark:text-red-400">Remove</button>`;
+      li.querySelector('button').addEventListener('click', () => removeGame(i));
+      selectedEl.appendChild(li);
+    });
+    countEl.textContent = selected.length;
+    submitBtn.disabled = selected.length < 2 || selected.length > maxSelection;
+    aiResponseEl.innerHTML = '';
+  }
+
+  async function handleSubmit() {
+    submitBtn.disabled = true;
+    submitBtn.textContent = '🤖 Thinking...';
+    aiResponseEl.innerHTML = `<div class="p-4 bg-gray-50 dark:bg-slate-700 rounded border-l-4 border-blue-400 text-gray-800 dark:text-gray-200">Loading AI response...</div>`;
+    const endpoint = id === 'comparator' ? '/api/compare' : '/api/recommend';
+    try {
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ gameNames: selected.map(g => g.name) })
+      });
+      const json = await res.json();
+      if (json.error) throw new Error(json.error);
+
+      if (id === 'comparator') {
+        // Comparator: text only
+        aiResponseEl.innerHTML = `<div class="p-4 bg-green-50 dark:bg-green-900 rounded border-l-4 border-green-400 text-green-800 dark:text-green-200 whitespace-pre-wrap">${json.result}</div>`;
+      } else {
+        // Recommender: gallery + text
+        const rec = parseNames(json.result).slice(0, 5);
+        const covers = await Promise.all(rec.map(fetchCoverForName));
+        const gallery = covers.map(src => `<img src="${src}" class="w-full max-w-32 h-auto object-contain rounded-md shadow-lg" />`).join('');
+        aiResponseEl.innerHTML = `
+          <div class="mb-4 grid grid-cols-3 sm:grid-cols-5 gap-4 justify-items-center">${gallery}</div>
+          <div class="p-4 bg-green-50 dark:bg-green-900 rounded border-l-4 border-green-400 text-green-800 dark:text-green-200 whitespace-pre-wrap">${json.result}</div>
+        `;
+      }
+    } catch (e) {
+      aiResponseEl.innerHTML = `<div class="p-4 bg-red-50 dark:bg-red-900 rounded border-l-4 border-red-400 text-red-800 dark:text-red-200">${e.message}</div>`;
+    } finally {
+      submitBtn.textContent = buttonText;
+      submitBtn.disabled = selected.length < 2 || selected.length > maxSelection;
+    }
+  }
+
+  inputEl.addEventListener('input', e => {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => searchGames(inputEl.value.trim()), 300);
+  });
+  inputEl.addEventListener('keydown', e => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      searchGames(inputEl.value.trim());
+    }
+  });
+  submitBtn.addEventListener('click', handleSubmit);
+
+  updateSelectionUI();
+</script>

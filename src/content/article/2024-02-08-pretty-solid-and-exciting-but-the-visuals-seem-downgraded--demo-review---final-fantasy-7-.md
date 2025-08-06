@@ -1,28 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Final Fantasy VII Rebirth
+description: Final Fantasy VII Rebirth 9.0 Action Adventure PS Version
 featured: false
 pubDate: 2024-02-08
 score: 8.0
 tags:
+- review-final-fantasy-7-rebirth
+- simulation
 - taptap
-- final-fantasy-vii
+- web
 thumb: /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--0.avif
 title: Pretty solid and exciting, but the visuals seem downgraded? | Demo Review -
   Final Fantasy 7 Rebirth
+game: Review - Final Fantasy 7 Rebirth
+gallery:
+- /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--0.avif
+- /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--1.avif
+- /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--2.avif
+- /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--3.avif
+- /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--4.avif
+- /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--5.avif
+- /images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-08-pretty-solid-and-exciting-but-the-visuals-seem-downgraded--demo-review---final-fantasy-7--6.avif" alt="screenshot" />
-</div>
-
 Final Fantasy VII Rebirth
 9.0
 Action

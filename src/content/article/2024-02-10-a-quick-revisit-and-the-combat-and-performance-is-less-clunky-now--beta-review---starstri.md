@@ -1,26 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Starstride
+description: Starstride, an upcoming MMORPG blending elements of high fantasy and
+  sci-fi, continues its journey with a new beta test, yet again inviting players to
+  further explore its expansive universe, quickly following a previous test phase
+  that started last January. The new beta runs from February 7 to February 20, 2024,
+  and I was able to revisit and try out the game again.
 featured: false
 pubDate: 2024-02-10
 tags:
+- beta-review-starstride
+- pc
 - taptap
-- starstride
 thumb: /images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-0.avif
 title: A quick revisit, and the combat and performance is less clunky now | Beta Review
   - Starstride
+game: Beta Review - Starstride
+gallery:
+- /images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-0.avif
+- /images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-1.avif
+- /images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-2.avif
+- /images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-3.avif
+- /images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-4.avif
+- /images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-a-quick-revisit-and-the-combat-and-performance-is-less-clunky-now--beta-review---starstri-5.avif" alt="screenshot" />
-</div>
-
 Starstride
 8.4
 Action

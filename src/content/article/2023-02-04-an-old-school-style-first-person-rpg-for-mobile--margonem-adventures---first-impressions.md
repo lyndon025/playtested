@@ -8,23 +8,24 @@ description: At first glance, youngsters might think of this game as Minecraft i
 featured: false
 pubDate: 2023-02-04
 tags:
+- margonem
+- massively multiplayer
+- pc
+- rpg
 - taptap
-- margonem-adventures
 thumb: /images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-0.avif
 title: An old-school style first person RPG for Mobile! | Margonem Adventures - First
   Impressions
+game: Margonem
+gallery:
+- /images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-0.avif
+- /images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-1.avif
+- /images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-2.avif
+- /images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-3.avif
+- /images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-4.avif
+- /images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-5.avif
+- /images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-04-an-old-school-style-first-person-rpg-for-mobile--margonem-adventures---first-impressions-6.avif" alt="screenshot" />
-</div>
-
 At first glance, youngsters might think of this game as Minecraft inspired with its blocky looking graphics. For the more aged gamer, It looks like The Elder Scrolls I or II. And they’re both right, as Margonem Adventures looks as if The Elder Scrolls II got upgraded to Minecraft graphics.
 
 After the tutorial section though, the game immediately shows its true colors as a mobile game, complete with a three star system to rate the “run”, an energy system to limit play, gacha elements, and daily, weekly, challenges as part of a live service setup. This allows you to get better items and loot in order to progress faster. The UI of the gameplay is passable at best, but the hub town is a major offender with its craggy UI and visuals.

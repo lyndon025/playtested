@@ -7,20 +7,46 @@ export interface Props {
 const { showTitle = true } = Astro.props;
 ---
 
-<header class="mt-10 mb-8 relative">
-  <!-- Theme Toggle Button -->
-    <button onclick="toggleTheme()" id="theme-toggle-button" aria-label="Toggle theme" class="absolute top-0 right-0 mt-2 mr-2 p-2 rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors">
-    <svg id="sun-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
-      <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"></path>
+<header class="mt-10 mb-8 relative z-50">
+  <button
+    onclick="toggleTheme()"
+    id="theme-toggle-button"
+    aria-label="Toggle theme"
+    class="absolute top-0 right-0 mt-2 mr-2 p-2 rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors"
+  >
+    <svg
+      id="sun-icon"
+      xmlns="http://www.w3.org/2000/svg"
+      fill="none"
+      viewBox="0 0 24 24"
+      stroke-width="1.5"
+      stroke="currentColor"
+      class="w-5 h-5 hidden"
+    >
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"
+      ></path>
     </svg>
-    <svg id="moon-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
-      <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z"></path>
+    <svg
+      id="moon-icon"
+      xmlns="http://www.w3.org/2000/svg"
+      fill="none"
+      viewBox="0 0 24 24"
+      stroke-width="1.5"
+      stroke="currentColor"
+      class="w-5 h-5 hidden"
+    >
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z"
+      ></path>
     </svg>
   </button>
-
-  <!-- Site Identity -->
-  <div class="flex items-center space-x-6">
-    <a href="/" class="flex items-center space-x-6">
+  <div class="flex items-start space-x-6">
+    <a href="/" class="flex items-start space-x-6">
       <img
         src="/images/logo02.png"
         alt="Logo"
@@ -32,70 +58,169 @@ const { showTitle = true } = Astro.props;
             <h1 class="text-4xl font-bold tracking-tight hover:opacity-80 transition-opacity">
               {SiteOptions.siteTitle}
             </h1>
-            <p class="text-lg text-gray-500 dark:text-gray-400 font-light">
-              {SiteOptions.siteSubTitle}
-            </p>
+            <p
+              class="text-lg text-gray-500 dark:text-gray-400 font-light mb-6"
+              set:html={SiteOptions.siteSubTitle}
+            />
           </div>
         )
       }
     </a>
   </div>
 
-  <!-- Filter Buttons -->
-  <nav class="mt-6 flex flex-wrap gap-4 items-start">
-    <a href="/tags/review" class="btn-tag">Reviews</a>
-    <a href="/tags/news" class="btn-tag">News</a>
-    <a href="/tags/tech" class="btn-tag">Tech</a>
-    <a href="/tags/write-ups" class="btn-tag">Write-ups</a>
-
-    <div class="relative inline-block">
-  <!-- Platforms Button -->
-  <button
-    id="platformToggle"
-    class="btn-tag"
-    onclick="toggleDropdown()"
-  >
-    Platforms ▾
-  </button>
-
-  <!-- Dropdown Menu -->
-  <div
-    id="platformDropdown"
-    class="absolute left-0 top-full mt-2 w-40 bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-600 rounded-md shadow-lg z-20
-           transform scale-y-0 opacity-0 origin-top transition-all duration-200 pointer-events-none"
-  >
-    <a href="/tags/pc" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">PC</a>
-    <a href="/tags/console" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Console</a>
-    <a href="/tags/mobile" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Mobile</a>
+  <div class="md:hidden mt-4">
+    <button
+      id="mobile-menu-toggle"
+      class="text-2xl px-3 py-1 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-slate-700 transition"
+      onclick="toggleMobileMenu()"
+      aria-label="Toggle menu"
+    >
+      ☰
+    </button>
   </div>
-</div>
-
-
+  
+  <nav
+    id="mobile-menu"
+    class="absolute top-full left-0 w-full bg-white dark:bg-slate-800 border-t border-gray-200 dark:border-slate-700 transform scale-y-0 origin-top transition-transform duration-200 ease-out md:static md:transform-none md:scale-y-100 md:flex md:items-center mt-4 z-40"
+  >
+    <div
+      class="w-full flex flex-col md:flex-row md:items-center justify-between gap-4 p-4 md:p-0"
+    >
+      <div class="flex flex-col md:flex-row md:items-center gap-2 md:gap-4">
+        <a href="/category/review" class="btn-tag rounded-t-md md:rounded-l-md"
+          >Reviews</a
+        >
+        <a href="/category/tech" class="btn-tag rounded-none">Tech</a>
+        <a href="/category/write-up" class="btn-tag rounded-none">Write-ups</a>
+        <div class="relative">
+          <button
+            id="platformToggle"
+            class="btn-tag w-full md:w-auto text-left rounded-b-md md:rounded-r-md"
+            onclick="toggleDropdown()"
+          >
+            Platforms ▾
+          </button>
+          <div
+            id="platformDropdown"
+            class="absolute left-0 top-full mt-2 w-40 bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-600 rounded-md shadow-lg z-20 transform scale-y-0 opacity-0 origin-top transition-all duration-200 pointer-events-none"
+          >
+            <a
+              href="/tag/pc"
+              class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700 rounded-t-md"
+              >PC</a
+            >
+            <a
+              href="/tag/console"
+              class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700"
+              >Console</a
+            >
+            <a
+              href="/tag/mobile"
+              class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700 rounded-b-md"
+              >Mobile</a
+            >
+          </div>
+        </div>
+        <a href="/ai/recommend" class="btn-tag">AI Recommend</a>
+        <a href="/ai/compare" class="btn-tag">AI Compare</a>
+      </div>
+      
+      <form
+        action="/search"
+        method="GET"
+        class="relative w-full md:w-[250px] lg:w-[300px]"
+      >
+        <input
+          type="search"
+          name="q"
+          placeholder="Search articles..."
+          class="w-full py-2 pl-4 pr-10 rounded-md border border-gray-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        />
+        <button
+          type="submit"
+          class="absolute right-2 top-1/2 transform -translate-y-1/2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-5 w-5"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M21 21l-4.35-4.35m1.1-5.65a7.5 7.5 0 11-15.001 0 7.5 7.5 0 0115.001 0z"
+            ></path>
+          </svg>
+        </button>
+      </form>
+    </div>
   </nav>
 
-<script is:inline>
-  const toggleBtn = document.getElementById('platformToggle');
-  const dropdown = document.getElementById('platformDropdown');
+  <script is:inline>
+    const menu = document.getElementById("mobile-menu");
+    const toggleBtn = document.getElementById("mobile-menu-toggle");
+    
+    // 👇 THESE ARE THE ONLY TWO LINES THAT HAVE CHANGED
+    const sunIcon = document.getElementById("sun-icon");
+    const moonIcon = document.getElementById("moon-icon");
 
-  function toggleDropdown() {
-    const isOpen = dropdown.classList.contains('scale-y-100');
-
-    if (isOpen) {
-      dropdown.classList.remove('scale-y-100', 'opacity-100');
-      dropdown.classList.add('scale-y-0', 'opacity-0', 'pointer-events-none');
-    } else {
-      dropdown.classList.remove('scale-y-0', 'opacity-0', 'pointer-events-none');
-      dropdown.classList.add('scale-y-100', 'opacity-100');
+    function toggleMobileMenu() {
+      const isOpen = menu.classList.contains("scale-y-100");
+      if (isOpen) {
+        menu.classList.remove("scale-y-100");
+        menu.classList.add("scale-y-0");
+      } else {
+        menu.classList.remove("scale-y-0");
+        menu.classList.add("scale-y-100");
+      }
     }
-  }
 
-  // Close dropdown when clicking outside
-  document.addEventListener('click', (e) => {
-    if (!toggleBtn.contains(e.target) && !dropdown.contains(e.target)) {
-      dropdown.classList.remove('scale-y-100', 'opacity-100');
-      dropdown.classList.add('scale-y-0', 'opacity-0', 'pointer-events-none');
+    function toggleDropdown() {
+      const dropdown = document.getElementById("platformDropdown");
+      const isOpen = dropdown.classList.contains("scale-y-100");
+      if (isOpen) {
+        dropdown.classList.remove("scale-y-100", "opacity-100");
+        dropdown.classList.add("scale-y-0", "opacity-0", "pointer-events-none");
+      } else {
+        dropdown.classList.remove(
+          "scale-y-0",
+          "opacity-0",
+          "pointer-events-none"
+        );
+        dropdown.classList.add("scale-y-100", "opacity-100");
+      }
     }
-  });
-</script>
 
+    function toggleTheme() {
+      const current = localStorage.getItem("theme");
+      const next = current === "dark" ? "light" : "dark";
+      localStorage.setItem("theme", next);
+      document.documentElement.classList.toggle("dark", next === "dark");
+      updateThemeIcons();
+    }
+
+    function updateThemeIcons() {
+      const isDark = document.documentElement.classList.contains("dark");
+      sunIcon.classList.toggle("hidden", !isDark);
+      moonIcon.classList.toggle("hidden", isDark);
+    }
+
+    // IIFE to set initial theme on page load
+    (() => {
+      updateThemeIcons();
+    })();
+
+    // Close dropdown when clicking outside
+    document.addEventListener("click", (e) => {
+      const toggle = document.getElementById("platformToggle");
+      const dropdown = document.getElementById("platformDropdown");
+      if (toggle && dropdown && !toggle.contains(e.target) && !dropdown.contains(e.target)) {
+        dropdown.classList.remove("scale-y-100", "opacity-100");
+        dropdown.classList.add("scale-y-0", "opacity-0", "pointer-events-none");
+      }
+    });
+  </script>
 </header>

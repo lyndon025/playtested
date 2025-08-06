@@ -1,25 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Card Hog - Dungeon Crawler
+description: Card Hog - Dungeon Crawler 8.7 Puzzle Strategy
 featured: false
 pubDate: 2023-04-30
 tags:
+- android
+- card
+- card-hog
+- casual
+- indie
+- ios
+- pc
+- rpg
+- strategy
 - taptap
-- dungeon-crawler
 thumb: /images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif
 title: Combines elements of card game and dungeon crawling | First Impressions - Card
   Hog
+game: Card Hog
+gallery:
+- /images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif
+- /images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-1.avif
+- /images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-2.avif
+- /images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-3.avif
+- /images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-4.avif" alt="screenshot" />
-</div>
-
 Card Hog - Dungeon Crawler
 8.7
 Puzzle

@@ -1,27 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: ✨Overview
+description: 'Avatar: Frontiers of Pandora takes players on an immersive journey into
+  the world of Pandora, expanding upon the lore established in James Cameron''s epic
+  cinematic universe. As a first-person action-adventure game, it combines the lush
+  yet dangerous environments of Avatar with the open-world design reminiscent of Ubisoft''s
+  Far Cry series. Ubisoft is really the perfect company to make Avatar video games  with
+  their experience on Far Cry.'
 featured: false
 pubDate: 2023-12-11
 score: 7.0
 tags:
+- action
+- adventure
+- avatar-frontiers-of-pandora
+- console
+- pc
+- playstation
+- playstation 5
 - taptap
-- avatar:-frontiers-of-pandora
+- xbox series
 thumb: /images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-0.avif
 title: 'A beautiful expansive game that does justice to Avatar | Review - Avatar:
   Frontiers of Pandora'
+game: 'Avatar: Frontiers of Pandora'
+gallery:
+- /images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-0.avif
+- /images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-1.avif
+- /images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-2.avif
+- /images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-3.avif
+- /images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-4.avif
+- /images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-a-beautiful-expansive-game-that-does-justice-to-avatar--review---avatar-frontiers-of-pand-5.avif" alt="screenshot" />
-</div>
-
 ✨Overview
 
 Avatar: Frontiers of Pandora takes players on an immersive journey into the world of Pandora, expanding upon the lore established in James Cameron's epic cinematic universe. As a first-person action-adventure game, it combines the lush yet dangerous environments of Avatar with the open-world design reminiscent of Ubisoft's Far Cry series. Ubisoft is really the perfect company to make Avatar video games  with their experience on Far Cry.

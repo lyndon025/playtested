@@ -1,32 +1,43 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Shapeshifting Detective
+description: The Shapeshifting Detective is an intriguing murder mystery FMV game  developed
+  by D'Avekki Studios and released for PC, Playstation, Xbox One and Switch, and was
+  ported right after to iOS.
 featured: false
 pubDate: 2023-05-08
 tags:
+- adventure
+- console
+- indie
+- ios
+- macos
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
 - taptap
 - the-shapeshifting-detective
+- xbox one
 thumb: /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-0.avif
 title: 'An intriguing, unique, and replayable murder mystery game | Full Review: The
   Shapeshifting Detective'
+game: The Shapeshifting Detective
+gallery:
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-0.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-1.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-2.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-3.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-4.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-5.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-6.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-7.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-8.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-9.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-10.avif
+- /images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-11.avif" alt="screenshot" />
-</div>
-
 The Shapeshifting Detective
 
 The Shapeshifting Detective is an intriguing murder mystery FMV game  developed by D'Avekki Studios and released for PC, Playstation, Xbox One and Switch, and was ported right after to iOS.

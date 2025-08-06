@@ -1,27 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: NBA Infinite - PvP Basketball
+description: NBA Infinite - PvP Basketball 7.9 Sports Basketball Download
 featured: false
 pubDate: 2024-02-15
 score: 7.0
 tags:
+- ios
+- nba-infinite
+- sports
 - taptap
-- pvp-basketball
 thumb: /images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-0.avif
 title: A streamlined NBA arcade experience with realistic graphics | Review - NBA
   Infinite
+game: NBA Infinite
+gallery:
+- /images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-0.avif
+- /images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-1.avif
+- /images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-2.avif
+- /images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-3.avif
+- /images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-4.avif
+- /images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-streamlined-nba-arcade-experience-with-realistic-graphics--review---nba-infinite-5.avif" alt="screenshot" />
-</div>
-
 NBA Infinite - PvP Basketball
 7.9
 Sports

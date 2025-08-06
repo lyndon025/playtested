@@ -1,29 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Devil May Cry: Peak of CombatGlobal'
+description: 'lyndonguitar Get Devil May Cry: Peak of Combat is an upcoming free to
+  play mobile game entry in the Devil May Cry franchise, filled with the same hack
+  and slash gameplay style the series is known for, of course, sprinkled in with mobile
+  game mechanics such as gacha system and live service elements.'
 featured: false
 pubDate: 2023-07-08
 tags:
+- action
+- android
+- devil-may-cry-peak-of-combat
+- ios
 - taptap
-- devil-may-cry:-peak-of-combat
 thumb: /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--0.avif
 title: 'Devil May Cry spin-off that stays true to its roots | Full Review - Devil
   May Cry: Peak of Combat'
+game: 'Devil May Cry: Peak of Combat'
+gallery:
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--0.avif
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--1.avif
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--2.avif
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--3.avif
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--4.avif
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--5.avif
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--6.avif
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--7.avif
+- /images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--8.avif" alt="screenshot" />
-</div>
-
 Devil May Cry: Peak of CombatGlobal
 
 lyndonguitar

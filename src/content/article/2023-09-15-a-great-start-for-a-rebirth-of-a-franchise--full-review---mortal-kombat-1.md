@@ -1,25 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Mortal Kombat™ 1
+description: lyndonguitar Get Mortal Kombat 1 is an upcoming fighting game that serves
+  as both a sequel to Mortal Kombat 11 and a reboot of the series. It features a restarted
+  universe with new origins for the characters and a fresh storyline, set to be released
+  for PC, PS, Xbox, and Switch.
 featured: false
 pubDate: 2023-09-15
 tags:
+- action
+- console
+- fighting
+- mortal-kombat-1
+- nintendo switch
+- pc
+- playstation
+- playstation 5
 - taptap
-- mortal-kombat™-1
+- xbox series
 thumb: /images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-0.avif
 title: A great start for a rebirth of a franchise | Full Review - Mortal Kombat 1
+game: Mortal Kombat 1
+gallery:
+- /images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-0.avif
+- /images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-1.avif
+- /images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-2.avif
+- /images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-3.avif
+- /images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-4.avif
+- /images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-15-a-great-start-for-a-rebirth-of-a-franchise--full-review---mortal-kombat-1-5.avif" alt="screenshot" />
-</div>
-
 Mortal Kombat™ 1
 
 lyndonguitar

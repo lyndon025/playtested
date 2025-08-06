@@ -1,28 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'League of Legends: Wild RiftGlobal'
+description: 'Four games join forces to create an epic crossover experience across
+  mobile and PC; Riot Games’ League of Legends: Wild Rift, Legends of Runeterra, Teamfight
+  Tactics, and League of Legends itself.'
 featured: false
 pubDate: 2023-07-22
 tags:
+- action
+- arcade
+- console
+- new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover
+- pc
 - taptap
-- legends-of-runeterra
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif
 title: New game modes, events, passes, and skins. Four Riot Games titles, a big crossover.
+game: New game modes, events, passes, and skins. Four Riot Games titles, a big crossover.
+gallery:
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-1.avif
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-2.avif
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-3.avif
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-4.avif
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-5.avif
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-6.avif
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-7.avif
+- /images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-8.avif" alt="screenshot" />
-</div>
-
 League of Legends: Wild RiftGlobal
 
 lyndonguitar

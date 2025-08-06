@@ -1,33 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Devil Slot Machine
+description: Devil Slot Machine is an upcoming game that presents itself as a roguelike
+  pinball tower defense game where your heart is at stake in a deadly game with demons.
+  The unique twist involves using health as currency for upgrades, tower placement,
+  and rerolls. A demo is currently available now on Steam, and the game is planned
+  to release next year 2024.
 featured: false
 pubDate: 2023-12-22
 score: 3.0
 tags:
+- android
+- pc-mobile-cloud-devil-slot-machine
 - taptap
-- devil-slot-machine
 thumb: /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-0.avif
 title: A promising concept but falls flat in the execution | PC+Mobile (Cloud) - Devil
   Slot Machine
+game: PC+Mobile (Cloud) - Devil Slot Machine
+gallery:
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-0.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-1.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-2.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-3.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-4.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-5.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-6.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-7.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-8.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-9.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-10.avif
+- /images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-a-promising-concept-but-falls-flat-in-the-execution--pcmobile-cloud---devil-slot-machine-11.avif" alt="screenshot" />
-</div>
-
 Devil Slot Machine
 7.8
 Strategy

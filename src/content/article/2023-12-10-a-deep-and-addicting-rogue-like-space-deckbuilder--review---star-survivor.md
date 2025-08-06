@@ -1,26 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Star Survivor
+description: Star Survivor, initially released in Early Access on PC earlier this
+  year, has now made its way to mobile phones this December. The game is a top-down
+  space shooter and seems to be a mash up of multiple genres. It features a Space
+  Shooter premise, Vampire Survivor gameplay, Deck building mechanics, and Rogue-lite
+  progression that all results into a unique experience that has translated well into
+  mobile.
 featured: false
 pubDate: 2023-12-10
 score: 8.0
 tags:
+- action
+- casual
+- indie
+- pc
+- star-survivor
 - taptap
-- star-survivor:premium
 thumb: /images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-0.avif
 title: A deep and addicting rogue-like space deckbuilder | Review - Star Survivor
+game: Star Survivor
+gallery:
+- /images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-0.avif
+- /images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-1.avif
+- /images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-2.avif
+- /images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-3.avif
+- /images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-4.avif
+- /images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-10-a-deep-and-addicting-rogue-like-space-deckbuilder--review---star-survivor-5.avif" alt="screenshot" />
-</div>
-
 Star Survivor
 8.3
 Space

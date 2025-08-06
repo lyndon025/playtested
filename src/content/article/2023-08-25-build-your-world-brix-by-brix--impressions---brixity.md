@@ -9,12 +9,15 @@ description: The central gameplay of BRIXITY is about constructing structures an
 featured: false
 pubDate: 2023-08-25
 tags:
+- adventure
+- brixity
+- indie
+- pc
 - taptap
-- sandbox&multiplayer
 thumb: ''
 title: Build your world, BRIX BY BRIX | Impressions - BRIXITY
+game: BRIXITY
 ---
-
 The central gameplay of BRIXITY is about constructing structures and building entire cities in top-down view with the help of the amazing technology called BRIX, and then exploring the world and visiting other players in a third-person view. BRIX (as in “bricks”, essentially the building blocks that players can use to create buildings) allows players to create spectacular builds as they wish.
 
 BRIXITY's charm extends beyond its visual aesthetics to its social fabric. Players can customize Pipos, share blueprints, and explore others' cities, fostering a sense of community and collaborative creativity. The game's progression centers on the Earth Restoration Center, guiding players through missions and upgrades that expand their urban landscapes and introduce new structures.

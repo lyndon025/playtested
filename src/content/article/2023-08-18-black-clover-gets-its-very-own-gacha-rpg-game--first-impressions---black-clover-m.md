@@ -10,13 +10,16 @@ description: Drawing inspiration from the beloved anime and manga series, Black 
 featured: false
 pubDate: 2023-08-18
 tags:
-- taptap
+- adventure
 - black-clover-m
+- ios
+- rpg
+- taptap
 thumb: ''
 title: Black Clover gets its very own gacha RPG game | First Impressions - Black Clover
   M
+game: Black Clover M
 ---
-
 Drawing inspiration from the beloved anime and manga series, Black Clover M presents players with a high-quality adaptation that seamlessly integrates iconic scenes into the gameplay. The exceptional quality of animation brings the Manga and Anime into life, creating a visually striking experience. With cel-shaded graphics characteristic of anime adaptations, the game does justice to the visual aesthetics of the anime.
 
 At its core, Black Clover M offers a traditional anime-based gacha RPG game. As you advance through the game, you'll have the opportunity to acquire potent gacha characters, enhance their abilities, and engage in an array of activities including single player story missions, repeatable farming missions, and asynchronous arena PvP battles.

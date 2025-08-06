@@ -1,0 +1,48 @@
+---
+export const prerender = false;
+
+import { getCollection } from "astro:content";
+import BlogLayout from "../layouts/BlogLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import PostCard from "../components/PostCard.astro";
+
+// ✅ Dynamically extract search param from the URL
+const url = new URL(Astro.request.url);
+const query = url.searchParams.get("q")?.trim().toLowerCase() ?? "";
+
+const allPosts = await getCollection("article");
+
+const results = query
+  ? allPosts.filter(({ data }) => {
+      const { title, description = "", tags = [] } = data;
+      return (
+        title.toLowerCase().includes(query) ||
+        description.toLowerCase().includes(query) ||
+        tags.some(tag => tag.toLowerCase().includes(query))
+      );
+    })
+  : [];
+---
+
+<BlogLayout title={`Search: ${query}`}>
+  <Header showTitle={true} />
+
+  <h1 class="text-2xl font-bold mt-8 mb-6">
+    Search results for: <span class="italic text-blue-500">"{query}"</span>
+  </h1>
+
+  {
+    results.length > 0 ? (
+      <ul class="divide-y divide-gray-200 dark:divide-gray-800">
+        {results.map(post => <PostCard post={post} />)}
+      </ul>
+    ) : (
+      <p class="text-gray-500 dark:text-gray-400 mt-4">
+        {query ? `No results found for "${query}".` : "Enter a search term above."}
+      </p>
+    )
+  }
+
+  <Footer />
+</BlogLayout>

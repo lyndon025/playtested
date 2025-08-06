@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Methods: Detective Competition'
+description: 'Methods: Detective Competition 8.7 Point & Click Story Rich $3.49'
 featured: false
 pubDate: 2024-01-23
 score: 8.0
 tags:
+- adventure
+- indie
+- linux
+- macos
+- methods
+- pc
 - taptap
-- methods:-the-canada-files
 thumb: /images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-0.avif
 title: Not really a 'Detective' game but a solid visual novel experience nonetheless
   | Review - Methods
+game: Methods
+gallery:
+- /images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-0.avif
+- /images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-1.avif
+- /images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-2.avif
+- /images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-3.avif
+- /images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-4.avif
+- /images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-23-not-really-a-detective-game-but-a-solid-visual-novel-experience-nonetheless--review---met-5.avif" alt="screenshot" />
-</div>
-
 Methods: Detective Competition
 8.7
 Point & Click

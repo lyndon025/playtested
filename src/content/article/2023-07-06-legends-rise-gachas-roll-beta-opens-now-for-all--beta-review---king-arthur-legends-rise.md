@@ -1,29 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'King Arthur: Legends RiseTest Global'
+description: 'lyndonguitar Download King Arthur: Legends Rise is an ambitious turn-based
+  squad RPG that invites players to embark on a dark and mysterious journey inspired
+  by the mythical adventures of the titular legendary King Arthur. This game takes
+  the familiar tale of Arthurian legends and infuses it with stunning AAA level of
+  graphics, turn-based RPG combat, hero collecting gacha mechanics, and a touch of
+  kingdom management.'
 featured: false
 pubDate: 2023-07-06
 tags:
+- action
+- adventure
+- king-arthur-legends-rise
+- pc
+- rpg
+- strategy
 - taptap
-- king-arthur:-legends-rise
 thumb: /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-0.avif
 title: 'Legends rise, gachas roll, beta opens, now for all | Beta Review - King Arthur:
   Legends Rise'
+game: 'King Arthur: Legends Rise'
+gallery:
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-0.avif
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-1.avif
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-2.avif
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-3.avif
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-4.avif
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-5.avif
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-6.avif
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-7.avif
+- /images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-8.avif" alt="screenshot" />
-</div>
-
 King Arthur: Legends RiseTest Global
 
 lyndonguitar

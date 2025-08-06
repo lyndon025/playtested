@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Lost Potato
+description: '✨Overview Lost Potato: Premium is an upcoming top-down roguelite set
+  to release on Android and iOS in March 2024. The game offers a distinctive twist
+  on combat mechanics, not allowing players to damage enemies directly but instead
+  requiring the use of other contraptions. It challenges players to survive a jungle
+  filled with man-eating tribes as a young potato. For those wondering, yes, it is
+  made by the same makers of the excellent rogue-lite Brotato (hence the Potato theme).'
 featured: false
 pubDate: 2024-02-26
 score: 6.0
 tags:
+- action
+- android
+- lost-potato-premium
 - taptap
-- lost-potato
 thumb: /images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-0.avif
 title: 'Unique mechanics, but falls short in terms of depth and content | Review -
   Lost Potato: Premium'
+game: 'Lost Potato: Premium'
+gallery:
+- /images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-0.avif
+- /images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-1.avif
+- /images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-2.avif
+- /images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-3.avif
+- /images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-4.avif
+- /images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-26-unique-mechanics-but-falls-short-in-terms-of-depth-and-content--review---lost-potato-prem-5.avif" alt="screenshot" />
-</div>
-
 Lost Potato
 7.3
 Action

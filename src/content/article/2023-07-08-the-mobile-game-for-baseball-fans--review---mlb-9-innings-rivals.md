@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: MLB Rivals
+description: lyndonguitar Download MLB 9 Innings Rivals is a brand new mobile game
+  for baseball fans, featuring console level visuals, simple gameplay, fantasy baseball
+  management, and player collecting mechanics.
 featured: false
 pubDate: 2023-07-08
 tags:
+- ios
+- mlb-9-innings-rivals
+- simulation
+- sports
 - taptap
-- mlb-rivals
 thumb: /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-0.avif
 title: THE mobile game for baseball fans | Review - MLB 9 Innings Rivals
+game: MLB 9 Innings Rivals
+gallery:
+- /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-0.avif
+- /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-1.avif
+- /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-2.avif
+- /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-3.avif
+- /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-4.avif
+- /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-5.avif
+- /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-6.avif
+- /images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-08-the-mobile-game-for-baseball-fans--review---mlb-9-innings-rivals-7.avif" alt="screenshot" />
-</div>
-
 MLB Rivals
 
 lyndonguitar

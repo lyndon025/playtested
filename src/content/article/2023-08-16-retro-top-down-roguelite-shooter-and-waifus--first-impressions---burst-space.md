@@ -7,12 +7,15 @@ description: Released on Android, currently only for the Philippines region, Bur
 featured: false
 pubDate: 2023-08-16
 tags:
+- burst
+- casual
+- indie
+- pc
 - taptap
-- burst-space
 thumb: ''
 title: Retro Top-Down Roguelite Shooter and Waifus | First Impressions - Burst Space
+game: Burst
 ---
-
 Released on Android, currently only for the Philippines region, Burst Space introduces players to intense bullet-hell like battles, abilities experimentation, and the opportunity to collect and customize their waifu Einherjar warriors.
 
 The overarching objective is to rescue the Einherjar from each planet and harness their power to conquer bosses, unlock equipment, and further enhance the characters' skills and abilities. Burst Space also features free-to-play elements like battle passes, events, and premium Einherjar, offering players the option to personalize and extend their gameplay experience using the power of real money.

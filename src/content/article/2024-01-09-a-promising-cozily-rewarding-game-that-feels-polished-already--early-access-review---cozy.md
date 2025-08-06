@@ -1,26 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cozy IslandsTest US
+description: Cozy Islands – craft & build revolves around crafting and building, offering
+  players the opportunity to construct their dream village step by step. Developed
+  and provided by Tetrox Limited, it is currently in early access for Android users
+  in the United States, although I was able to access it here on TapTap, even without
+  the need for a VPN. The free-to-play game seems to be fully offline for now with
+  online functionality and in-app purchases.
 featured: false
 pubDate: 2024-01-09
 tags:
+- early-access-review-cozy-islands
+- simulation
 - taptap
-- cozy-islands
+- web
 thumb: /images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-0.avif
 title: A promising cozily rewarding game that feels polished already | Early Access
   Review - Cozy Islands
+game: Early Access Review - Cozy Islands
+gallery:
+- /images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-0.avif
+- /images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-1.avif
+- /images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-2.avif
+- /images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-3.avif
+- /images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-4.avif
+- /images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-09-a-promising-cozily-rewarding-game-that-feels-polished-already--early-access-review---cozy-5.avif" alt="screenshot" />
-</div>
-
 Cozy IslandsTest US
 8.3
 Simulation

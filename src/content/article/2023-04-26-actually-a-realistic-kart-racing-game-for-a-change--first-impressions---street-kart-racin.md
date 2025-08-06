@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Street Kart Racing
+description: Street Kart Racing is not your typical Kart Racing game, it doesn’t feature
+  arcade controls, power-ups, whimsical characters, and third person camera. Instead,
+  it is a racing-sim in the likes of Gran Turismo or Assetto Corsa. That means first-person
+  driving camera, realistic driving physics, photorealistic visuals, and  pure racing
+  gameplay.
 featured: false
 pubDate: 2023-04-26
 tags:
-- taptap
+- ios
+- racing
+- simulation
 - street-kart-racing
+- taptap
 thumb: /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-0.avif
 title: Actually a realistic Kart Racing game for a change | First Impressions - Street
   Kart Racing
+game: Street Kart Racing
+gallery:
+- /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-0.avif
+- /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-1.avif
+- /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-2.avif
+- /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-3.avif
+- /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-4.avif
+- /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-5.avif
+- /images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-actually-a-realistic-kart-racing-game-for-a-change--first-impressions---street-kart-racin-6.avif" alt="screenshot" />
-</div>
-
 Street Kart Racing
 8.2
 Kart racing

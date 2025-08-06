@@ -7,24 +7,24 @@ description: A spaceship has crash landed on an unknown planet. A group of survi
 featured: false
 pubDate: 2023-03-22
 tags:
-- taptap
+- action
 - dream-land
+- pc
+- taptap
 thumb: /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-0.avif
 title: A mobile game with base building, farming, exploration, and combat | First
   Impressions - Dream Land
+game: Dream Land
+gallery:
+- /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-0.avif
+- /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-1.avif
+- /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-2.avif
+- /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-3.avif
+- /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-4.avif
+- /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-5.avif
+- /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-6.avif
+- /images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-22-a-mobile-game-with-base-building-farming-exploration-and-combat--first-impressions---drea-7.avif" alt="screenshot" />
-</div>
-
 A spaceship has crash landed on an unknown planet. A group of survivors emerges from the wreckage. There is no way to repair the ship, leaving no choice but to salvage it for parts and set up a makeshift base.
 
 Dream Land is a casual simulation game that deals with four major gameplay elements. Base building, Resource Farming, Exploration, and Combat. All of these four aspects are all done by your team of survivors who in turn have basic necessities that you need to manage like sleep, food, and hygiene, highly reminiscent of popular games like The Sims and Rimworld.

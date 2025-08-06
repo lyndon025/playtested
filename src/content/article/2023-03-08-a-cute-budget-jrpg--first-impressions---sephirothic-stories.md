@@ -8,22 +8,27 @@ description: Sephirothic Stories is a mobile game developed by KEMCO, a well kno
 featured: false
 pubDate: 2023-03-08
 tags:
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
+- sephirothic-stories
 - taptap
-- '[premium]-sephirothic-stories'
+- xbox one
 thumb: /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-0.avif
 title: A cute budget JRPG | First Impressions - Sephirothic Stories
+game: Sephirothic Stories
+gallery:
+- /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-0.avif
+- /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-1.avif
+- /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-2.avif
+- /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-3.avif
+- /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-4.avif
+- /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-5.avif
+- /images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-a-cute-budget-jrpg--first-impressions---sephirothic-stories-6.avif" alt="screenshot" />
-</div>
-
 Sephirothic Stories is a mobile game developed by KEMCO, a well known JRPG developer for the mobile platform, and it is another addition to their fast growing roster. As a japanese role-playing game, it features a turn-based combat experience, exploration with some unique mechanics, and a cute art-style.
 
 The game immediately kicks off to our gameplay and story without any background explanation or lore introduction, and immediately acquaints us with Chibi looking 3D characters Harold and Izzy, and eventually other friendly characters as well. The world is populated by both humans and anthropomorphic animals alike, with Izzy being a humanoid lizard as an example.

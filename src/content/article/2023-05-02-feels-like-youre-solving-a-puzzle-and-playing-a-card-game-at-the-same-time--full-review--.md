@@ -1,30 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Card Hog - Dungeon Crawler
+description: Card Hog - Dungeon Crawler is a card swiping rogue-lite mobile game that
+  combines elements of card game, dungeon crawling, and sliding mechanics as seen
+  in block or number puzzle games such as Unblock me or 2048.
 featured: false
 pubDate: 2023-05-02
 tags:
+- android
+- card
+- card-hog
+- casual
+- indie
+- ios
+- pc
+- rpg
+- strategy
 - taptap
-- dungeon-crawler
 thumb: /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---0.avif
 title: Feels like you’re solving a puzzle and playing a card game at the same time
   | Full Review - Card Hog
+game: Card Hog
+gallery:
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---0.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---1.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---2.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---3.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---4.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---5.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---6.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---7.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---8.avif
+- /images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---9.avif" alt="screenshot" />
-</div>
-
 Card Hog - Dungeon Crawler
 
 Card Hog - Dungeon Crawler is a card swiping rogue-lite mobile game that combines elements of card game, dungeon crawling, and sliding mechanics as seen in block or number puzzle games such as Unblock me or 2048.

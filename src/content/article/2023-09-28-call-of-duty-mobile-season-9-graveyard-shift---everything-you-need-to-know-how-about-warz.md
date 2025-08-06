@@ -1,25 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Call of Duty: Mobile Season 7US'
+description: 'Call of Duty: Mobile Season 7US 8.8 Action Shooter Download'
 featured: false
 pubDate: 2023-09-28
 tags:
+- board games
+- everything-you-need-to-know-how-about-warzone
+- family
+- ios
+- nintendo ds
+- pc
+- playstation 3
 - taptap
-- garena
+- wii
+- xbox 360
 thumb: /images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-0.avif
 title: 'Call of Duty Mobile Season 9: Graveyard Shift - Everything you need to know
   (How about Warzone?)'
+game: Everything you need to know (How about Warzone?)
+gallery:
+- /images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-0.avif
+- /images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-1.avif
+- /images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-2.avif
+- /images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-3.avif
+- /images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-call-of-duty-mobile-season-9-graveyard-shift---everything-you-need-to-know-how-about-warz-4.avif" alt="screenshot" />
-</div>
-
 Call of Duty: Mobile Season 7US
 8.8
 Action

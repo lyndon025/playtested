@@ -12,20 +12,27 @@ description: Somerville is a sci-fi adventure / puzzle game where you control a 
 featured: false
 pubDate: 2022-11-16
 tags:
+- action
+- adventure
+- console
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- somerville
 - taptap
-- first-impressions
+- xbox one
+- xbox series
 thumb: /images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-0.avif
 title: A family caught up in an Alien Invasion | Somerville - First impressions
+game: Somerville
+gallery:
+- /images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-0.avif
+- /images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-1.avif
+- /images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-2.avif
+- /images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-3.avif
+- /images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-a-family-caught-up-in-an-alien-invasion--somerville---first-impressions-4.avif" alt="screenshot" />
-</div>
-
 Somerville is a sci-fi adventure / puzzle game where you control a man and his family caught up right in the middle of an alien invasion doomsday scenario. The opening sequence starts relatively slow and gets intense pretty much immediately, perfectly capturing that feeling of being randomly caught up in a sudden alien invasion. There is no dialogue in the game and all of the story is only conveyed through the characters' actions and interactions with the environment, bolstered by the impressive art style and sound design. This is something that is very hard to pull off narratively but Somerville manages to somewhat pull it off anyway.
 
 The sound design is what striked me the most and it is superb. I was playing with full blast speakers on and when the sound of the alien machinery first played on my subwoofers, I said to myself I was in for a hell of an immersive experience. It’s important to note though, that If you think Somerville is action-packed all the way through — it is not. There are brief chase and quick-time sequences that will sometimes give you a bit of action along the way, but most of the game is spent walking around in gloomy environments and trying to progress throughout the land, solving puzzles periodically.

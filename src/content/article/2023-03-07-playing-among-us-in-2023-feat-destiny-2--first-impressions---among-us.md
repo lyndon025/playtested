@@ -10,22 +10,32 @@ description: Among Us is an incredibly fun and addicting multiplayer game that c
 featured: false
 pubDate: 2023-03-07
 tags:
-- taptap
+- action
 - among-us
+- android
+- casual
+- console
+- ios
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- simulation
+- taptap
+- xbox one
 thumb: /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-0.avif
 title: Playing Among Us in 2023 (feat. Destiny 2) | First Impressions - Among Us
+game: Among Us
+gallery:
+- /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-0.avif
+- /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-1.avif
+- /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-2.avif
+- /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-3.avif
+- /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-4.avif
+- /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-5.avif
+- /images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-playing-among-us-in-2023-feat-destiny-2--first-impressions---among-us-6.avif" alt="screenshot" />
-</div>
-
 Among Us is an incredibly fun and addicting multiplayer game that challenges your deduction and deception skills. The game is set on a spaceship where players take on the role of either a Crewmate or an Impostor. The goal of the Crewmates is to complete various tasks around the ship, kick out any Impostors; while the Impostors must sabotage the ship and eliminate the Crewmates without being caught, before all the tasks are complete.
 
 What makes Among Us so exciting is the constant tension between the Crewmates and Impostors. As a Crewmate, you have to keep a close eye on your fellow players and try to figure out who the Impostors are before it's too late. Meanwhile, as an Impostor, you have to use your wits and deception skills to blend in with the Crewmates and carry out your nefarious plans.

@@ -1,26 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Wizard of Legend Mobile
+description: Wizard of Legend Mobile 9.2 Editors' Choice Roguelike Get
 featured: false
 pubDate: 2023-10-27
 score: 9.0
 tags:
+- action
+- indie
+- linux
+- macos
+- pc
+- rpg
 - taptap
-- wizard-of-legend
+- wizard-of-legend-mobile
 thumb: /images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-0.avif
 title: Addictingly difficult and challenging | Review - Wizard of Legend Mobile
+game: Wizard of Legend Mobile
+gallery:
+- /images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-0.avif
+- /images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-1.avif
+- /images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-2.avif
+- /images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-3.avif
+- /images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-4.avif
+- /images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-5.avif" alt="screenshot" />
-</div>
-
 Wizard of Legend Mobile
 9.2
 Editors' Choice

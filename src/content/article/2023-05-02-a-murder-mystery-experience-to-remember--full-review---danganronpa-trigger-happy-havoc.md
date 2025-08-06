@@ -1,34 +1,45 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Danganronpa: Trigger Happy Hav'
+description: 'Danganronpa: Trigger Happy Hav Danganronpa: Trigger Happy Havoc is a
+  visual novel murder mystery title that was originally released for PSP back in 2010
+  and was ported to mobile platforms in 2012.'
 featured: false
 pubDate: 2023-05-02
 tags:
+- adventure
+- android
+- console
+- danganronpa-trigger-happy-havoc
+- linux
+- macos
+- pc
+- playstation
+- playstation 4
+- ps vita
+- psp
 - taptap
-- danganronpa:-trigger-happy-hav
+- xbox one
 thumb: /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-0.avif
 title: 'A murder mystery experience to remember | Full Review - Danganronpa: Trigger
   Happy Havoc'
+game: 'Danganronpa: Trigger Happy Havoc'
+gallery:
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-0.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-1.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-2.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-3.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-4.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-5.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-6.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-7.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-8.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-9.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-10.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-11.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-12.avif
+- /images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-13.avif" alt="screenshot" />
-</div>
-
 Danganronpa: Trigger Happy Hav
 Danganronpa: Trigger Happy Havoc is a visual novel murder mystery title that was originally released for PSP back in 2010 and was ported to mobile platforms in 2012.
 

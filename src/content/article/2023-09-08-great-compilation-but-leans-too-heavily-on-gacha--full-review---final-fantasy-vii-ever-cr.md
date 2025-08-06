@@ -1,25 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: FINAL FANTASY VII EVER CRISIS
+description: 'lyndonguitar Get Final Fantasy VII: Ever Crisis is a gacha mobile RPG
+  that attempts to bridge the gap between nostalgia and mobile gaming. Developed by
+  Applibot and published by Square Enix, it delves into the rich world of Final Fantasy
+  VII, encapsulating the original game, its spin-offs, and even an original storyline.'
 featured: false
 pubDate: 2023-09-08
 tags:
-- taptap
+- android
 - final-fantasy-vii-ever-crisis
+- ios
+- rpg
+- taptap
 thumb: /images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-0.avif
 title: 'Great compilation, but leans too heavily on gacha | Full Review - Final Fantasy
   VII: Ever Crisis'
+game: 'Final Fantasy VII: Ever Crisis'
+gallery:
+- /images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-0.avif
+- /images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-1.avif
+- /images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-2.avif
+- /images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-3.avif
+- /images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-08-great-compilation-but-leans-too-heavily-on-gacha--full-review---final-fantasy-vii-ever-cr-4.avif" alt="screenshot" />
-</div>
-
 FINAL FANTASY VII EVER CRISIS
 
 lyndonguitar

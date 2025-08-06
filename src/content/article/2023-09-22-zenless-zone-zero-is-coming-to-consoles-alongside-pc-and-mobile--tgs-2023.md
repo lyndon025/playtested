@@ -1,25 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Zenless Zone ZeroGlobal
+description: Zenless Zone ZeroGlobal 8.2 Anime Action PC Version
 featured: false
 pubDate: 2023-09-22
 tags:
+- action
+- pc
+- shooter
 - taptap
-- honkai:-star-rail
+- tgs-2023
+- xbox 360
 thumb: /images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-0.avif
 title: Zenless Zone Zero is coming to Consoles, alongside PC and Mobile! | TGS 2023
+game: TGS 2023
+gallery:
+- /images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-0.avif
+- /images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-1.avif
+- /images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-2.avif
+- /images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-3.avif
+- /images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-4.avif
+- /images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-zenless-zone-zero-is-coming-to-consoles-alongside-pc-and-mobile--tgs-2023-5.avif" alt="screenshot" />
-</div>
-
 Zenless Zone ZeroGlobal
 8.2
 Anime

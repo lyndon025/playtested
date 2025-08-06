@@ -1,27 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Yi Xian: The Cultivation Card Game'
+description: 'Yi Xian: The Cultivation Card Game 7.6 Casual Strategy Get'
 featured: false
 pubDate: 2024-01-25
 score: 9.0
 tags:
+- casual
+- indie
+- linux
+- macos
+- pc
+- strategy
 - taptap
-- yi-xian:-the-cultivation-card-game
+- yi-xian-the-cultivation-card-game
 thumb: /images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-0.avif
 title: 'An excellent deck builder with great PVP and PVE | Review - Yi Xian: The Cultivation
   Card Game'
+game: 'Yi Xian: The Cultivation Card Game'
+gallery:
+- /images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-0.avif
+- /images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-1.avif
+- /images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-2.avif
+- /images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-3.avif
+- /images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-4.avif
+- /images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-5.avif" alt="screenshot" />
-</div>
-
 Yi Xian: The Cultivation Card Game
 7.6
 Casual

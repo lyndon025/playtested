@@ -7,26 +7,31 @@ description: 'Tron: Identity is a visual novel adventure game set in the world o
 featured: false
 pubDate: 2023-04-13
 tags:
+- adventure
+- casual
+- console
+- indie
+- macos
+- nintendo switch
+- pc
 - taptap
-- tron:-identity
+- tron-identity
 thumb: /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif
 title: 'Beautiful, Immersive, but very short-lived | Full Review - Tron: Identity'
+game: 'Tron: Identity'
+gallery:
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-1.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-2.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-3.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-4.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-5.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-6.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-7.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-8.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-9.avif
+- /images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-10.avif" alt="screenshot" />
-</div>
-
 Tron: Identity is a visual novel adventure game set in the world of Tron, where players play in the role of Query, a detective program tasked to investigate a mysterious situation.
 
 

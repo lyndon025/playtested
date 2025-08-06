@@ -1,27 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'RoboCop: Rogue City'
+description: 'RoboCop: Rogue City is one of the most surprising game releases this
+  year (and one of the most unexpected announcements from as far back as 2021). Just
+  when you might have thought that RoboCop isn''t the pop culture icon it once was,
+  it has returned from dormancy and come back to life. Developing a video game adaptation
+  of an action movie from 1987 isn''t typically a top priority for most developers
+  and publishers these days. However, Teyon and Nacon aren''t your typical companies.
+  Fortunately, they understandably want to capitalize on the coolness of ''80s action
+  movies, having previously delivered the mildly excellent Terminator: Resistance
+  in 2019. And now, we have RoboCop: Rogue City.'
 featured: false
 pubDate: 2023-11-07
 score: 7.0
 tags:
+- action
+- adventure
+- console
+- pc
+- playstation
+- playstation 5
+- robocop-rogue-city
 - taptap
-- terminator:-resistance
+- xbox series
 thumb: /images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-0.avif
 title: Remembers what made games fun, but still tries to modernize it anyway | Review
   - Robocop Rogue City
+game: 'RoboCop: Rogue City'
+gallery:
+- /images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-0.avif
+- /images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-1.avif
+- /images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-2.avif
+- /images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-3.avif
+- /images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-4.avif
+- /images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-07-remembers-what-made-games-fun-but-still-tries-to-modernize-it-anyway--review---robocop-ro-5.avif" alt="screenshot" />
-</div>
-
 RoboCop: Rogue City
 9.0
 Action

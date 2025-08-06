@@ -10,12 +10,15 @@ description: 'Devil May Cry: Peak of Combat is an upcoming free to play mobile g
 featured: false
 pubDate: 2023-07-08
 tags:
+- action
+- android
+- devil-may-cry-peak-of-combat
+- ios
 - taptap
-- devil-may-cry:-peak-of-combat
 thumb: ''
 title: 'A mobile treat for DMC fans? | Beta Impressions - Devil May Cry: Peak of Combat'
+game: 'Devil May Cry: Peak of Combat'
 ---
-
 Devil May Cry: Peak of Combat is an upcoming free to play mobile game entry in the Devil May Cry franchise. This spin-off was announced a few years ago, with a Chinese release a few years back, and has since been released globally for a beta test just recently this July. The official launch is still unknown, but according to the iOS app store page, the placeholder expected release date is December 2, 2023, however take this information with a grain of salt.
 
 Devil May Cry: Peak of Combat is kind of in a no man’s land when it comes to the narrative, similar to “DMC”, it is instead set in its own continuity, but treads a familiar ground for fans by being a retelling of DMC 3 plus other elements taken from all over the mainline games, even those set after DMC 3.

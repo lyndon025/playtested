@@ -1,26 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'TFT: Teamfight TacticsAsia'
+description: ✨Overview Teamfight Tactics (TFT) Mobile — a highly anticipated and popular
+  autobattler set in the League of Legends universe — will finally launch on November
+  22 in the Asia-Pacific (APAC) region, In countries such as The Philippines, Malaysia,
+  Singapore, Thailand, Vietnam, Taiwan, Hong Kong, and Macau, available for Android
+  and iOS.
 featured: false
 pubDate: 2023-11-20
 score: 9.0
 tags:
+- android
+- ios
+- macos
+- pc
+- strategy
 - taptap
-- valorant-mobile
+- teamfight-tactics
 thumb: /images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-0.avif
 title: A glorious port for the best auto-battler game | Review - Teamfight Tactics
   (Asia Release)
+game: Teamfight Tactics
+gallery:
+- /images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-0.avif
+- /images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-1.avif
+- /images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-2.avif
+- /images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-3.avif
+- /images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-glorious-port-for-the-best-auto-battler-game--review---teamfight-tactics-asia-release-4.avif" alt="screenshot" />
-</div>
-
 TFT: Teamfight TacticsAsia
 8.0
 Strategy

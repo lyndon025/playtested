@@ -1,26 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Lords of the Fallen
+description: ✨Overview Lords of the Fallen servers as both a soft reboot and a loose
+  sequel to its 2014 predecessor, and bravely steps once again for a second shot at
+  offering a compelling Souls-like, giving players another taste of a harsh and dangerous
+  world with intense combat, innovative dual-reality mechanics, and a co-op experience.
 featured: false
 pubDate: 2023-10-16
 score: 6.0
 tags:
-- taptap
+- action
+- console
 - lords-of-the-fallen
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-0.avif
 title: Behind this flawed “Souls-lite” lies a decent game | Full Review - Lords of
   the Fallen
+game: Lords of the Fallen
+gallery:
+- /images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-0.avif
+- /images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-1.avif
+- /images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-2.avif
+- /images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-3.avif
+- /images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-behind-this-flawed-souls-lite-lies-a-decent-game--full-review---lords-of-the-fallen-4.avif" alt="screenshot" />
-</div>
-
 Lords of the Fallen
 8.7
 Co-op

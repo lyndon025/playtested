@@ -6,25 +6,28 @@ description: Elderand is a 2D retro-inspired action platformer that has recently
 featured: false
 pubDate: 2023-02-18
 tags:
-- taptap
+- action
+- adventure
 - elderand
+- indie
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif
 title: This retro-inspired action platformer is HARD | First Impressions - Elderand
+game: Elderand
+gallery:
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-1.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-2.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-3.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-4.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-5.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-6.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-7.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-8.avif
+- /images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-9.avif" alt="screenshot" />
-</div>
-
 Elderand is a 2D retro-inspired action platformer that has recently been released, and it is not for the faint of heart.
 
 You play as a mercenary chosen because of a mysterious prophecy to eradicate the land of evil. The game is a skill-based combat game where players must face terrifying creatures and beings to progress through the game.

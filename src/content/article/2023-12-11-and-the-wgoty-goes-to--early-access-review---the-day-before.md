@@ -1,26 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Day Before
+description: The Day Before is a survival horror extraction shooter with multiplayer
+  elements, it was initially hyped as a massive multiplayer experience, comparable
+  to The Division or DayZ. However, it's off to a rocky Early Access start with numerous
+  delays leading up to this Early Access release, trademark disputes, and major performance
+  issues. The game's ambitious promises have not been met, leading to widespread disappointment
+  among players.
 featured: false
 pubDate: 2023-12-11
 score: 1.0
 tags:
+- early-access-review-the-day-before
+- macos
+- pc
 - taptap
-- the-day-before
 thumb: /images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-0.avif
 title: And the WGOTY goes to… | Early Access Review - The Day Before
+game: Early Access Review - The Day Before
+gallery:
+- /images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-0.avif
+- /images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-1.avif
+- /images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-2.avif
+- /images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-3.avif
+- /images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-4.avif
+- /images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-11-and-the-wgoty-goes-to--early-access-review---the-day-before-5.avif" alt="screenshot" />
-</div>
-
 The Day Before
 5.7
 Action

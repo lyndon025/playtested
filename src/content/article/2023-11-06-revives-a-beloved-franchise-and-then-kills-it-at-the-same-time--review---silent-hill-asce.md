@@ -1,26 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'SILENT HILL: Ascension'
+description: 'Silent Hill: Ascension is an ambitious interactive horror television
+  series set in the iconic universe of the Silent Hill video game franchise. Developed
+  by Genvid Technologies and Behaviour Interactive in collaboration with Konami Digital
+  Entertainment, the project marks a significant departure from the traditional survival
+  horror gameplay that has defined the Silent Hill series. Instead, Ascension adopts
+  a format reminiscent of interactive storytelling games like Until Dawn and The Dark
+  Pictures Anthology while integrating a unique app-based or web-based interactive
+  component. The game playable on both Android, iOS, or via web-browser.'
 featured: false
 pubDate: 2023-11-06
 score: 2.0
 tags:
+- android
+- casual
+- ios
+- pc
+- silent-hill-ascension
 - taptap
-- the-dark-pictures-anthology:-little-hope
 thumb: /images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-0.avif
 title: Revives a beloved franchise and then kills it at the same time | Review - Silent
   Hill Ascension
+game: 'Silent Hill: Ascension'
+gallery:
+- /images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-0.avif
+- /images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-1.avif
+- /images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-2.avif
+- /images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-3.avif
+- /images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-revives-a-beloved-franchise-and-then-kills-it-at-the-same-time--review---silent-hill-asce-4.avif" alt="screenshot" />
-</div>
-
 SILENT HILL: Ascension
 5.7
 Adventure

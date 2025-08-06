@@ -1,27 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dark and Light MobileGlobal
+description: Dark and Light MobileGlobal 6.5 Adventure Action Download
 featured: false
 pubDate: 2023-09-22
 tags:
+- action
+- adventure
+- dark-and-light
+- massively multiplayer
+- pc
+- rpg
+- simulation
 - taptap
-- dark-and-light-mobile
 thumb: /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-0.avif
 title: A potentially enjoyable magical sandbox PvP/PvE experience | Review - Dark
   and Light Mobile (Beta)
+game: Dark and Light
+gallery:
+- /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-0.avif
+- /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-1.avif
+- /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-2.avif
+- /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-3.avif
+- /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-4.avif
+- /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-5.avif
+- /images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-a-potentially-enjoyable-magical-sandbox-pvppve-experience--review---dark-and-light-mobile-6.avif" alt="screenshot" />
-</div>
-
 Dark and Light MobileGlobal
 6.5
 Adventure

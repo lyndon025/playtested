@@ -8,26 +8,30 @@ description: Ever watched a slice-of-life anime and wished “I would love to be
 featured: false
 pubDate: 2022-12-15
 tags:
-- taptap
+- adventure
 - aka
+- casual
+- console
+- nintendo switch
+- pc
+- simulation
+- taptap
 thumb: /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-0.avif
 title: Get cozy, or go on an adventure | Aka - Review
+game: Aka
+gallery:
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-0.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-1.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-2.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-3.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-4.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-5.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-6.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-7.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-8.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-9.avif
+- /images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-get-cozy-or-go-on-an-adventure--aka---review-10.avif" alt="screenshot" />
-</div>
-
 Ever watched a slice-of-life anime and wished “I would love to be transported to that world and just live in peace”? Well, this brand new game titled Aka can allow you to virtually fulfill that wish. You can go on an adventure, explore the world, or maybe just settle peacefully and find inner peace.
 
 The war is over, the fight is over. Our character, the red panda Aka, is a former participant of that war. He has been invited by a good friend over to his place — Pine Island — to start a new peaceful life. Upon arrival, Aka is welcomed by this friend Thom, who helps him gain his footing in this new island.

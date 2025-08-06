@@ -6,25 +6,31 @@ description: Storyteller is a charming puzzle game where you literally need to t
 featured: false
 pubDate: 2023-03-26
 tags:
-- taptap
+- adventure
+- console
+- ios
+- macos
+- nintendo switch
+- pc
+- puzzle
+- simulation
 - storyteller
+- taptap
 thumb: /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif
 title: A delightful and charming short puzzle game | Full Review - Storyteller
+game: Storyteller
+gallery:
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-1.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-2.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-3.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-4.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-5.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-6.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-7.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-8.avif
+- /images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-9.avif" alt="screenshot" />
-</div>
-
 Storyteller is a charming puzzle game where you literally need to tell stories in order to solve the puzzles and achieve the required ending.
 
 

@@ -1,25 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: THE FINALS
+description: THE FINALS is a free-to-play team-based competitive FPS, featuring class-based
+  abilities, realistic visuals, and a destructible environment. Developed by Embark
+  Studios, founded by former DICE developers, the game is currently in an open beta
+  test on Steam that started last October 26 and will run up to November 5, available
+  for PC (Steam), Xbox Series X/S, and PS5.
 featured: false
 pubDate: 2023-10-28
 tags:
+- action
+- console
+- pc
+- playstation
+- playstation 5
+- shooter
 - taptap
 - the-finals
+- xbox series
 thumb: /images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-0.avif
 title: The most promising, refreshing, upcoming shooter that I’ve played all year
   | Review - THE FINALS
+game: The Finals
+gallery:
+- /images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-0.avif
+- /images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-1.avif
+- /images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-2.avif
+- /images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-3.avif
+- /images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-28-the-most-promising-refreshing-upcoming-shooter-that-ive-played-all-year--review---the-fin-4.avif" alt="screenshot" />
-</div>
-
 THE FINALS
 9.2
 Fast-paced

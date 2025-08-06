@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Pixel Ark
+description: ✨Overview The Pixel Ark is a mobile strategy game that follows players
+  as they take command of a massive mobile base known as "The Ark" and navigate through
+  a post-apocalyptic wasteland, recruiting heroes, and engaging in battles against
+  monsters. The game combines hand-drawn anime aesthetics for cutscenes with charming
+  chibi pixel art for its pinball-like gameplay.
 featured: false
 pubDate: 2024-02-10
 score: 4.0
 tags:
+- linux
+- pc
+- puzzle
+- re-review-the-pixel-ark
 - taptap
-- the-pixel-ark
+- web
 thumb: /images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-0.avif
 title: New name, same game, lost accounts | Re-Review - The Pixel Ark
+game: Re-Review - The Pixel Ark
+gallery:
+- /images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-0.avif
+- /images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-1.avif
+- /images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-2.avif
+- /images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-3.avif
+- /images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-4.avif
+- /images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-10-new-name-same-game-lost-accounts--re-review---the-pixel-ark-5.avif" alt="screenshot" />
-</div>
-
 The Pixel Ark
 6.5
 Strategy

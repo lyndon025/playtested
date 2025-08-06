@@ -8,13 +8,18 @@ description: Immediately upon starting The Wreck, I can already sense the vibe t
 featured: false
 pubDate: 2023-09-27
 tags:
+- adventure
+- casual
+- indie
+- macos
+- pc
 - taptap
 - the-wreck
 thumb: ''
 title: A narrative-driven game that feels like an interactive 3D visual novel | Impressions
   - The Wreck
+game: The Wreck
 ---
-
 Immediately upon starting The Wreck, I can already sense the vibe that it's going to be a fantastic narrative-driven slice-of-life experience, the gameplay is not its strong point, and is just simple occasional taps to the screen whenever there is a prompt for dialogue or interactions.
 
 However the story is anything but simple, it explores themes of family, loss, acceptance, grief, and survival with complete groundedness. Personally, this hits right at home for me, as I have a similar thing that happened to me, so the emotional impact is magnified.

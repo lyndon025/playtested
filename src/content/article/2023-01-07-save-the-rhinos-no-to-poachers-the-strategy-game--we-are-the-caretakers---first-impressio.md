@@ -9,29 +9,32 @@ description: We Are The Caretakers is a mix of Grand Strategy, 4X, JRPG, and Squ
 featured: false
 pubDate: 2023-01-07
 tags:
+- indie
+- pc
+- rpg
+- simulation
+- strategy
 - taptap
 - we-are-the-caretakers
 thumb: /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-0.avif
 title: 'Save the rhinos! No to poachers!: the strategy game | We Are The Caretakers
   - First Impressions'
+game: We Are The Caretakers
+gallery:
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-0.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-1.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-2.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-3.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-4.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-5.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-6.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-7.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-8.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-9.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-10.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-11.avif
+- /images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-12.avif" alt="screenshot" />
-</div>
-
 We Are The Caretakers is a mix of Grand Strategy, 4X, JRPG, and Squad Management all packed and blended into what they call an afrofuturist art style. It has recently left Early Access on PC and also released for Xbox Series systems. It will be hard to compare this to a single title entirely as many of its aspects are such a fresh crossover of elements from many different games and genres.
 
 For example, We Are The Caretakers has semblances of 4X games that we all know and love, like Civilization, Endless Legend, and Age of Wonders, but it's not turn-based and not locked on a tile-based map. It also feels like a Grand Strategy game like the popular Paradox Interactive Games in a sense that it's real-time pausable, but it's not really grand, as you only control a small faction and highly specialized units.

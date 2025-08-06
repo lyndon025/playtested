@@ -1,25 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Hollow Knight
+description: Hollow Knight Hollow Knight - Pale Court is a brand new fan-made DLC
+  for the critically acclaimed game Hollow Knight, featuring brand new bosses, charms,
+  artwork, and secrets.
 featured: false
 pubDate: 2023-07-06
 tags:
-- taptap
+- action
+- console
 - hollow-knight
+- indie
+- linux
+- macos
+- nintendo switch
+- pc
+- platformer
+- playstation
+- playstation 4
+- taptap
+- xbox one
 thumb: /images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-0.avif
 title: 'New DLC? Nope it’s just the incredible modders | Full Review - Hollow Knight:
   Pale Court'
+game: Hollow Knight
+gallery:
+- /images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-0.avif
+- /images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-1.avif
+- /images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-2.avif
+- /images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-3.avif
+- /images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-06-new-dlc-nope-its-just-the-incredible-modders--full-review---hollow-knight-pale-court-4.avif" alt="screenshot" />
-</div>
-
 Hollow Knight
 Hollow Knight - Pale Court is a brand new fan-made DLC for the critically acclaimed game Hollow Knight, featuring brand new bosses, charms, artwork, and secrets.
 

@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Paper Lily - Chapter 1
+description: Paper Lily - Chapter 1 9.4 Adventure RPG Get
 featured: false
 pubDate: 2024-01-29
 score: 8.0
 tags:
+- adventure
+- indie
+- linux
+- macos
+- paper-lily-chapter-1
+- pc
+- puzzle
+- rpg
 - taptap
-- paper-lily-prologue
 thumb: /images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-0.avif
 title: A beautiful horror game where your choices matter | Review - Paper Lily - Chapter
   1
+game: Paper Lily - Chapter 1
+gallery:
+- /images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-0.avif
+- /images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-1.avif
+- /images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-2.avif
+- /images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-3.avif
+- /images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-4.avif
+- /images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-a-beautiful-horror-game-where-your-choices-matter--review---paper-lily---chapter-1-5.avif" alt="screenshot" />
-</div>
-
 Paper Lily - Chapter 1
 9.4
 Adventure

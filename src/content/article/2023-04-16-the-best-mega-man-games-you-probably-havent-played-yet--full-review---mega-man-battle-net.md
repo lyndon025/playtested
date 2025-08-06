@@ -6,34 +6,35 @@ description: Mega Man Battle Network Legacy Collection is a bundle of unconventi
 featured: false
 pubDate: 2023-04-16
 tags:
-- taptap
+- action
+- game boy advance
 - mega-man-battle-network
+- rpg
+- taptap
 thumb: /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif
 title: The best Mega Man games you probably haven’t played yet | Full Review - Mega
   Man Battle Network
+game: Mega Man Battle Network
+gallery:
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-1.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-2.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-3.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-4.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-5.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-6.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-7.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-8.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-9.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-10.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-11.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-12.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-13.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-14.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-15.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-16.avif
+- /images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-17.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-17.avif" alt="screenshot" />
-</div>
-
 Mega Man Battle Network Legacy Collection is a bundle of unconventional RPG-style Mega Man games set in a separate universe from the main Mega Man stories.
 
 

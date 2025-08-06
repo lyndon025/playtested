@@ -1,27 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Infinite BordersGlobal
+description: Infinite Borders takes players into the Three Kingdoms period of Ancient
+  China, offering a strategic blend of MMO city-building, gacha hero collection, and
+  strategic warfare. At last, it was globally released on December 1, 2023, intertwining
+  the rich lore of the Three Kingdoms with addictive gameplay mechanics.
 featured: false
 pubDate: 2023-12-02
 score: 7.0
 tags:
+- adventure
+- global-launch-review-infinite-borders
+- linux
+- macos
+- pc
 - taptap
-- infinite-borders
+- web
 thumb: /images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-0.avif
 title: Fun, addicting, and requires a lot of your time | Global Launch Review - Infinite
   Borders
+game: Global Launch Review - Infinite Borders
+gallery:
+- /images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-0.avif
+- /images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-1.avif
+- /images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-2.avif
+- /images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-3.avif
+- /images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-4.avif
+- /images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-02-fun-addicting-and-requires-a-lot-of-your-time--global-launch-review---infinite-borders-5.avif" alt="screenshot" />
-</div>
-
 Infinite BordersGlobal
 7.7
 Strategy

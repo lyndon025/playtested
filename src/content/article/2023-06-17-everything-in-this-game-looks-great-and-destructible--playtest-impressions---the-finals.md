@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: THE FINALS
+description: lyndonguitar Get THE FINALS is a tournament-based game with elimination
+  in an arena setting and looks as if Battlefield, with its amazing graphics, lighting,
+  sound design, and destructible environments, had a baby with Overwatch's teammate-based
+  combat and flashy abilities. This isn't a surprise, as the developer, Embark Studios,
+  was founded by former DICE developers, the creators of the Battlefield games. A
+  closed beta has gone live now on Steam, and players can try and request access.
 featured: false
 pubDate: 2023-06-17
 tags:
+- macos
+- pc
+- playtest-impressions-the-finals
 - taptap
-- the-finals
 thumb: /images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-0.avif
 title: Everything in this game looks great... and destructible | Playtest Impressions
   - THE FINALS
+game: Playtest Impressions - THE FINALS
+gallery:
+- /images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-0.avif
+- /images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-1.avif
+- /images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-2.avif
+- /images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-3.avif
+- /images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-4.avif
+- /images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-5.avif
+- /images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-6.avif" alt="screenshot" />
-</div>
-
 THE FINALS
 
 lyndonguitar

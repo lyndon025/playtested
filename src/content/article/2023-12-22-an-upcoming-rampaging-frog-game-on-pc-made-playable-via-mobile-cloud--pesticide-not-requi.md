@@ -5,13 +5,15 @@ description: 'Pocket Playfest: An Indie Celebration 2023 Winter Edition'
 featured: false
 pubDate: 2023-12-22
 tags:
-- taptap
+- action
+- pc
 - pesticide-not-required
+- taptap
 thumb: ''
 title: An upcoming rampaging frog game on PC made playable via Mobile (Cloud) | Pesticide
   Not Required
+game: Pesticide Not Required
 ---
-
 Pocket Playfest: An Indie Celebration 2023 Winter Edition
 
 In a recent hands-on exclusive experience this past weekend, I had the privilege of testing a handful of titles on TapTap's experimental cloud gaming service, setting the stage for this 16-day event where indie game developers show-off their creations exclusively on the TapTap mobile platform — fully playable PC games without the need for an actual PC, Android/iOS version, or the need to download the games and install them.  Granted, you’d need to have a reliable internet service to be able to stream these games, and preferably are located in US and Canada for consistent play and latency, at least for now.

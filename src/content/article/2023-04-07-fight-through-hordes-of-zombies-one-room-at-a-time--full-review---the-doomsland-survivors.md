@@ -6,25 +6,31 @@ description: 'The Doomsland: Survivors is a top down zombie shooter with rogue-l
 featured: false
 pubDate: 2023-04-07
 tags:
+- action
+- adventure
+- indie
+- macos
+- pc
+- rpg
+- simulation
+- strategy
 - taptap
-- dark-season-:-last-hunting
+- the-doomsland-survivors
 thumb: /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-0.avif
 title: 'Fight through hordes of zombies, one room at a time | Full Review - The Doomsland:
   Survivors'
+game: 'The Doomsland: Survivors'
+gallery:
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-0.avif
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-1.avif
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-2.avif
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-3.avif
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-4.avif
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-5.avif
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-6.avif
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-7.avif
+- /images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-8.avif" alt="screenshot" />
-</div>
-
 The Doomsland: Survivors is a top down zombie shooter with rogue-lite elements.
 
 

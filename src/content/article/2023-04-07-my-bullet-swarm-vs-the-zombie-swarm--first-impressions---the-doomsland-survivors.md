@@ -9,21 +9,27 @@ description: 'The Doomsland: Survivors is a top-down shooter with rogue-lite ele
 featured: false
 pubDate: 2023-04-07
 tags:
+- action
+- adventure
+- indie
+- macos
+- pc
+- rpg
+- simulation
+- strategy
 - taptap
-- the-doomsland:-survivors
+- the-doomsland-survivors
 thumb: /images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-0.avif
 title: 'My bullet swarm vs the zombie swarm | First Impressions - The Doomsland: Survivors'
+game: 'The Doomsland: Survivors'
+gallery:
+- /images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-0.avif
+- /images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-1.avif
+- /images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-2.avif
+- /images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-3.avif
+- /images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-4.avif
+- /images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-my-bullet-swarm-vs-the-zombie-swarm--first-impressions---the-doomsland-survivors-5.avif" alt="screenshot" />
-</div>
-
 The Doomsland: Survivors is a top-down shooter with rogue-lite elements that will leave you on the edge of your seat. From the moment you start playing, you'll be thrown into a world overrun by human zombies and other zombified creatures and mutants, and it's up to you to fight your way through hordes of enemies to survive, one room at a time.
 
 The gameplay is fast-paced and intense, with the character automatically firing only when stationary. The only control you have is over your movement and a special attack that slowly reaches 100%, which means you have to constantly dodge and weave your way through enemy fire while taking down as many enemies as possible while stopping.

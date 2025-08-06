@@ -1,25 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Enshrouded
+description: ✨Overview Enshrouded is an exciting upcoming game that seamlessly blends
+  survival, crafting, and action RPG combat set in a vast, voxel-based continent,
+  this open-world adventure offers players the freedom to build, craft, and fight.
 featured: false
 pubDate: 2023-10-09
 tags:
+- action
+- adventure
+- pc
+- review-enshrouded
 - taptap
-- valheim
 thumb: /images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-0.avif
 title: This is shaping up to be a solid surviving crafting ARPG | Demo Review - Enshrouded
+game: Review - Enshrouded
+gallery:
+- /images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-0.avif
+- /images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-1.avif
+- /images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-2.avif
+- /images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-3.avif
+- /images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-4.avif
+- /images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-09-this-is-shaping-up-to-be-a-solid-surviving-crafting-arpg--demo-review---enshrouded-5.avif" alt="screenshot" />
-</div>
-
 Enshrouded
 9.8
 Action

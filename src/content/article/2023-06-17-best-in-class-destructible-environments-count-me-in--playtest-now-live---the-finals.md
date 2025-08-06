@@ -10,13 +10,19 @@ description: THE FINALS is a tournament-based game with elimination in an arena 
 featured: false
 pubDate: 2023-06-17
 tags:
+- action
+- adventure
+- indie
+- pc
+- playtest-now-live-the-finals
+- rpg
+- strategy
 - taptap
-- the-finals
 thumb: ''
 title: Best-in-class destructible environments? Count me in! | Playtest now live!
   - THE FINALS
+game: Playtest now live! - THE FINALS
 ---
-
 THE FINALS is a tournament-based game with elimination in an arena setting and looks as if Battlefield, with its amazing graphics, lighting, sound design, and destructible environments, had a baby with Overwatch's teammate-based combat and flashy abilities. This isn't a surprise, as the developer, Embark Studios, was founded by former DICE developers, the creators of the Battlefield games. A closed beta has gone live now on Steam, and players can try and request access.
 
 Stand-out features:

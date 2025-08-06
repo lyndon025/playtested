@@ -7,12 +7,20 @@ description: 'Cats & Soup: Magic Recipe welcomes players to a charming beachside
 featured: false
 pubDate: 2023-08-23
 tags:
+- adventure
+- cats-soup-magic-recipe
+- console
+- indie
+- macos
+- pc
+- platformer
+- playstation
+- playstation 4
 - taptap
-- cats-&-soup-:-magic-recipe
 thumb: ''
 title: 'Two Potatoes equals one Garlic!?! | Impressions - Cats & Soup : Magic Recipe'
+game: 'Cats & Soup : Magic Recipe'
 ---
-
 Cats & Soup: Magic Recipe welcomes players to a charming beachside kingdom that oozes with wholesome vibes. The visuals are charming, characterized by a hand-painted art style that invokes the warmth and charm of a beloved children's storybook.
 
 The merging/cooking mechanics involve combining identical ingredients to create higher-tiered ingredients, which are then used to craft the different dishes available in the game once everything is complete. The merging process is reminiscent of a 'match-two' concept seen in games like 2048, which retains that highly addictive aspect. Despite not making any logical sense, where combining two potatoes results in one garlic, and two carrots into one parnish, the system really works well and is very addicting.

@@ -1,27 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Marvel’s Spider-Man 2
+description: Marvel’s Spider-Man 2 9.0 Editors' Choice Action Get
 featured: false
 pubDate: 2023-10-21
 score: 9.0
 tags:
+- action
+- adventure
+- game boy advance
+- gamecube
+- macos
+- nintendo ds
+- pc
+- playstation 2
+- psp
+- spider-man-2
 - taptap
-- marvel’s-spider-man-remastered
+- xbox
 thumb: /images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-0.avif
 title: Builds upon its predecessors in all the right ways | Full Review - Spider-Man
   2
+game: Spider-Man 2
+gallery:
+- /images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-0.avif
+- /images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-1.avif
+- /images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-2.avif
+- /images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-3.avif
+- /images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-4.avif
+- /images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-21-builds-upon-its-predecessors-in-all-the-right-ways--full-review---spider-man-2-5.avif" alt="screenshot" />
-</div>
-
 Marvel’s Spider-Man 2
 9.0
 Editors' Choice

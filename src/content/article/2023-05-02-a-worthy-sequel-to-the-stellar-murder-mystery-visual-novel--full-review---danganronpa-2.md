@@ -1,37 +1,47 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Danganronpa 2: Goodbye Despair'
+description: 'Danganronpa 2: Goodbye Despair Danganronpa 2: Goodbye Despair 8.3 Adventure
+  RPG'
 featured: false
 pubDate: 2023-05-02
 tags:
+- adventure
+- casual
+- console
+- danganronpa-2
+- ios
+- linux
+- macos
+- pc
+- playstation
+- playstation 4
+- ps vita
+- psp
 - taptap
-- danganronpa-2:-goodbye-despair
 thumb: /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-0.avif
 title: A worthy sequel to the stellar murder mystery visual novel | Full Review -
   Danganronpa 2
+game: Danganronpa 2
+gallery:
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-0.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-1.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-2.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-3.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-4.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-5.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-6.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-7.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-8.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-9.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-10.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-11.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-12.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-13.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-14.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-15.avif
+- /images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-16.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-16.avif" alt="screenshot" />
-</div>
-
 Danganronpa 2: Goodbye Despair
 Danganronpa 2: Goodbye Despair
 8.3

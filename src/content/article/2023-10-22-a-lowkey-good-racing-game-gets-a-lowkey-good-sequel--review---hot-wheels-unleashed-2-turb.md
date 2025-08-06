@@ -1,26 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: HOT WHEELS UNLEASHED™ 2 - Turbocharged
+description: HOT WHEELS UNLEASHED™ 2 - Turbocharged 8.3 Racing Simulation
 featured: false
 pubDate: 2023-10-22
 score: 8.0
 tags:
+- action
+- adventure
+- hot-wheels-unleashed-2-turbocharged
+- pc
+- racing
+- sports
 - taptap
-- turbocharged
 thumb: /images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-0.avif
 title: 'A lowkey good racing game gets a lowkey good sequel | Review - Hot Wheels
   Unleashed 2: Turbocharged'
+game: HOT WHEELS UNLEASHED 2 - Turbocharged
+gallery:
+- /images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-0.avif
+- /images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-1.avif
+- /images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-2.avif
+- /images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-3.avif
+- /images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-22-a-lowkey-good-racing-game-gets-a-lowkey-good-sequel--review---hot-wheels-unleashed-2-turb-4.avif" alt="screenshot" />
-</div>
-
 HOT WHEELS UNLEASHED™ 2 - Turbocharged
 8.3
 Racing

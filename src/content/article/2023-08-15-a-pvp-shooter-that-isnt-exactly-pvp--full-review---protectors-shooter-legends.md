@@ -1,28 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Protectors: Shooter Legends'
+description: 'Protectors: Shooter Legends is a third-person shooter with PvE and PvP
+  gameplay. This 4v4 title is all about clashing with opponents in thrilling battles
+  across a range of engaging game modes and maps. Featuring a diverse cast of heroes,
+  each armed with a unique weapon and ability.'
 featured: false
 pubDate: 2023-08-15
 tags:
+- action
+- nintendo ds
+- playstation 2
+- protectors-shooter-legends
+- psp
 - taptap
-- protectors:-shooter-legends
+- wii
 thumb: /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif
 title: 'A PvP shooter that isn’t exactly PvP | Full Review - Protectors: Shooter Legends'
+game: 'Protectors: Shooter Legends'
+gallery:
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-1.avif
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-2.avif
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-3.avif
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-4.avif
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-5.avif
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-6.avif
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-7.avif
+- /images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-8.avif" alt="screenshot" />
-</div>
-
 Protectors: Shooter Legends
 
 lyndonguitar

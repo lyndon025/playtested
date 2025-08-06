@@ -1,32 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: BrownDust2 - Adventure RPG
+description: Brown Dust 2, the somewhat both direct and spiritual successor to the
+  popular Brave 9 / Brown Dust, takes players on a grander journey filled with time
+  travel, world-traveling elements, and captivating narratives.
 featured: false
 pubDate: 2023-06-26
 tags:
+- adventure
+- brown-dust-2
+- indie
+- linux
+- macos
+- pc
+- rpg
 - taptap
-- adventure-rpg
 thumb: /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-0.avif
 title: A grander HD-2D RPG journey across a variety of storylines | Full Review -
   Brown Dust 2
+game: Brown Dust 2
+gallery:
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-0.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-1.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-2.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-3.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-4.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-5.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-6.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-7.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-8.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-9.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-10.avif
+- /images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-11.avif" alt="screenshot" />
-</div>
-
 BrownDust2 - Adventure RPG
 
 lyndonguitar

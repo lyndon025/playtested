@@ -6,32 +6,36 @@ description: Limbus Company is a narratively driven turn-based RPG game with gac
 featured: false
 pubDate: 2023-03-05
 tags:
-- taptap
+- action
+- android
+- ios
 - limbus-company
+- pc
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-0.avif
 title: A perplexing enjoyable turn-based RPG | Full Review - Limbus Company
+game: Limbus Company
+gallery:
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-0.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-1.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-2.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-3.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-4.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-5.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-6.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-7.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-8.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-9.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-10.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-11.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-12.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-13.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-14.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-15.avif
+- /images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-16.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-16.avif" alt="screenshot" />
-</div>
-
 Limbus Company is a narratively driven turn-based RPG game with gacha elements. Made for mobile phones and also ported to PCs.
 
 

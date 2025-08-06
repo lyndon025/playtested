@@ -1,32 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Everdream Valley
+description: Everdream Valley Everdream Valley is a third person farming sim developed
+  for the Switch, PlayStation, Xbox, and PC, this game offers a refreshing and immersive
+  experience across multiple platforms.
 featured: false
 pubDate: 2023-06-04
 tags:
-- taptap
+- adventure
 - everdream-valley
+- pc
+- taptap
 thumb: /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-0.avif
 title: A lighthearted farming sim, with a touch of magic | Full Review - Everdream
   Valley
+game: Everdream Valley
+gallery:
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-0.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-1.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-2.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-3.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-4.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-5.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-6.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-7.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-8.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-9.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-10.avif
+- /images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-a-lighthearted-farming-sim-with-a-touch-of-magic--full-review---everdream-valley-11.avif" alt="screenshot" />
-</div>
-
 Everdream Valley
 Everdream Valley is a third person farming sim developed for the Switch, PlayStation, Xbox, and PC, this game offers a refreshing and immersive experience across multiple platforms.
 

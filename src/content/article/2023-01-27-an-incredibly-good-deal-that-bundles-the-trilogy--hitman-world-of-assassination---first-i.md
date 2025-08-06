@@ -10,23 +10,31 @@ description: HITMAN World of Assassination is a stealth-action sandbox game that
 featured: false
 pubDate: 2023-01-27
 tags:
+- action
+- console
+- hitman
+- linux
+- macos
+- pc
+- playstation
+- playstation 4
+- shooter
+- simulation
 - taptap
-- hitman-world-of-assassination
+- xbox one
 thumb: /images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-0.avif
 title: An incredibly good deal that bundles the trilogy | HITMAN World of Assassination
   - First Impressions
+game: Hitman
+gallery:
+- /images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-0.avif
+- /images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-1.avif
+- /images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-2.avif
+- /images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-3.avif
+- /images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-4.avif
+- /images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-5.avif
+- /images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-27-an-incredibly-good-deal-that-bundles-the-trilogy--hitman-world-of-assassination---first-i-6.avif" alt="screenshot" />
-</div>
-
 HITMAN World of Assassination is a stealth-action sandbox game that puts us in the shoes of the genetically engineered clone named Agent 47, a highly skilled assassin working for an organization called the International Contract Agency. The whole premise is centered around Agent 47 taking different contracts across the globe, setting the stage for the different multinational sandbox levels that acts as our murder playground.
 
 The sandbox setup for the levels is Hitman’s trademark gameplay style, where you are free to experiment and do your own style of assassinations. You are just given the target(s) and placed in an open world sandbox map with varying degrees of openness and map design. For example, the first level is a very crowded palace hosting a fashion show, while the next level on the other hand is a public destination set in Europe with different buildings and establishments that you can enter.

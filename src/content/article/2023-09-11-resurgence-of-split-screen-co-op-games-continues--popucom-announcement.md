@@ -11,12 +11,22 @@ description: The resurgence of split-screen cooperative games, spearheaded by th
 featured: false
 pubDate: 2023-09-11
 tags:
-- taptap
+- action
+- adventure
+- casual
+- console
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - popucom
+- puzzle
+- shooter
+- taptap
 thumb: ''
 title: Resurgence of split-screen co-op games continues! | POPUCOM announcement
+game: Popucom
 ---
-
 The resurgence of split-screen cooperative games, spearheaded by the 2021 Game Awards GOTY winner, It Takes Two, marks a heartwarming return to the roots of shared gaming experiences. Nowadays, even blockbuster hits such as Baldur's Gate 3 even has split-screen coop. It reminds us of the sheer joy and camaraderie that local co-op gaming can provide, offering a refreshing break from the ultra-competitive titles saturating the multiplayer market today. With the announcement of POPUCOM, it appears that another promising cooperative gem is on the horizon.
 
 Well, there's no release date yet provided, but judging from the trailer, the game sure looks interesting with its blend of Match-3 color based gameplay, third person shooter, puzzler platformer, and cooperative gameplay. A mix that I've never seen before implemented on such a game. Plus the visuals looks really great with vibrant and playful graphics that resemble traditional ink and paint art styles all mashed and splashed together.

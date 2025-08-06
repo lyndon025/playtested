@@ -11,23 +11,30 @@ description: You are fresh out of high school; no job, no experience, no goals i
 featured: false
 pubDate: 2022-12-14
 tags:
-- taptap
+- action
+- adventure
+- console
 - high-on-life
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- shooter
+- taptap
+- xbox series
 thumb: /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-0.avif
 title: A disturbingly funny comedy FPS game | High on Life - Review
+game: High on Life
+gallery:
+- /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-0.avif
+- /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-1.avif
+- /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-2.avif
+- /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-3.avif
+- /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-4.avif
+- /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-5.avif
+- /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-6.avif
+- /images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-14-a-disturbingly-funny-comedy-fps-game--high-on-life---review-7.avif" alt="screenshot" />
-</div>
-
 You are fresh out of high school; no job, no experience, no goals in life. Intergalactic aliens invade and want to get high off of humans. You stumble upon a sentient talking pistol. What do you do? Why not hunt them for bounties, with firepower assistance from an arsenal of talking guns. High on Life is a new crazy game from the creator of the animated TV series Rick and Morty, that is literally high on all fronts; talking self-aware guns, weirding looking aliens to slaughter in style, and unfiltered abusive dialogue.
 
 High on Life’s satirical attempt at entertainment is not for everyone. It’s mature-rated. It’s very disturbing, there isn’t even an ounce of seriousness in this self-aware comedy FPS game, and sometimes you can forget that it’s a video game and just want to listen to the highly subjective hilarious dialogues and interactions.

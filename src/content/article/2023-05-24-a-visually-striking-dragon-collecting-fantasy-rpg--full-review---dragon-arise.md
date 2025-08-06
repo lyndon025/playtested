@@ -6,12 +6,25 @@ description: Dragon Arise is a dragon collecting fantasy RPG that takes players 
 featured: false
 pubDate: 2023-05-24
 tags:
-- taptap
+- action
+- adventure
+- casual
+- console
 - dragon-arise
+- family
+- fighting
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- taptap
+- xbox one
+- xbox series
 thumb: ''
 title: A visually striking dragon collecting fantasy RPG! | Full Review - Dragon Arise
+game: Dragon Arise
 ---
-
 Dragon Arise is a dragon collecting fantasy RPG that takes players on a whimsical journey into a world filled with dragons and epic battles.
 
 

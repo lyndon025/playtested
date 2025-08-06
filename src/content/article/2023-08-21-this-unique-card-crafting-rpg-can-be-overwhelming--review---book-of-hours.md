@@ -1,29 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: BOOK OF HOURS
+description: Book of Hours, a brand new creation by Weather Factory, invites you to
+  embark on a journey that explores the deepest recesses of the occult and the unknown.
+  This intricate game offers a multi-faceted experience that combines investigation,
+  crafting, and introspection to create a truly unique adventure.
 featured: false
 pubDate: 2023-08-21
 tags:
-- taptap
 - book-of-hours
+- indie
+- macos
+- pc
+- rpg
+- simulation
+- taptap
 thumb: /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif
 title: This unique card-crafting RPG can be overwhelming | Review - Book of Hours
+game: BOOK OF HOURS
+gallery:
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-1.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-2.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-3.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-4.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-5.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-6.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-7.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-8.avif
+- /images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-9.avif" alt="screenshot" />
-</div>
-
 BOOK OF HOURS
 
 Book of Hours, a brand new creation by Weather Factory, invites you to embark on a journey that explores the deepest recesses of the occult and the unknown. This intricate game offers a multi-faceted experience that combines investigation, crafting, and introspection to create a truly unique adventure.

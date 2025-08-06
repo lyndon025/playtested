@@ -1,26 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'One Punch Man: WorldSEA'
+description: 'One Punch Man: WorldSEA 8.5 RPG Action PC Version'
 featured: false
 pubDate: 2023-10-19
 tags:
+- beta-review-one-punch-man-world
+- pc
+- platformer
 - taptap
-- aether-gazer
 thumb: /images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-0.avif
 title: 'Looks so good that you might mistake it for an anime episode | Beta Review
   - One Punch Man: World'
+game: 'Beta Review - One Punch Man: World'
+gallery:
+- /images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-0.avif
+- /images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-1.avif
+- /images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-2.avif
+- /images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-3.avif
+- /images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-4.avif
+- /images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-19-looks-so-good-that-you-might-mistake-it-for-an-anime-episode--beta-review---one-punch-man-5.avif" alt="screenshot" />
-</div>
-
 One Punch Man: WorldSEA
 8.5
 RPG

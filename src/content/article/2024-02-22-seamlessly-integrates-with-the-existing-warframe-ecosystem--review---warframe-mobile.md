@@ -1,27 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Warframe
+description: ✨Overview Warframe is a sprawling, free-to-play online action game that
+  has continued to evolve and expand since its initial release 11 years ago (2013).
+  Set in a futuristic universe, the game puts players in the role of the Tenno, a
+  race of ancient warriors who have awoken from centuries of cryosleep to find themselves
+  at war with different factions.
 featured: false
 pubDate: 2024-02-22
 score: 9.0
 tags:
+- action
+- android
+- ios
+- massively multiplayer
+- shooter
 - taptap
-- genshin-impact
+- warframe-mobile
 thumb: /images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-0.avif
 title: Seamlessly integrates with the existing Warframe ecosystem | Review - Warframe
   Mobile
+game: Warframe Mobile
+gallery:
+- /images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-0.avif
+- /images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-1.avif
+- /images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-2.avif
+- /images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-3.avif
+- /images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-4.avif
+- /images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-seamlessly-integrates-with-the-existing-warframe-ecosystem--review---warframe-mobile-5.avif" alt="screenshot" />
-</div>
-
 Warframe
 9.3
 Sci-fi

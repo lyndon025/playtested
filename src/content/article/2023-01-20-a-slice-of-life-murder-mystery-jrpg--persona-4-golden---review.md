@@ -8,27 +8,34 @@ description: Originally released for the PS2 very late in its lifecycle, Persona
 featured: true
 pubDate: 2023-01-20
 tags:
-- taptap
+- console
+- nintendo switch
+- pc
 - persona-4-golden
+- playstation
+- playstation 4
+- ps vita
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-0.avif
 title: A slice-of-life murder mystery JRPG | Persona 4 Golden - Review
+game: Persona 4 Golden
+gallery:
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-0.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-1.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-2.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-3.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-4.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-5.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-6.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-7.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-8.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-9.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-10.avif
+- /images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-20-a-slice-of-life-murder-mystery-jrpg--persona-4-golden---review-11.avif" alt="screenshot" />
-</div>
-
 Originally released for the PS2 very late in its lifecycle, Persona 4 has since been re-released for the PS Vita years later and more recently on PC a few years ago. Now, Persona 4 Golden is finally widely accessible, having just been released for the PS4, Xbox, and Nintendo Switch yesterday.
 
 Unlike its predecessor Persona 3 which has also just been rereleased alongside this one, Persona 4 Golden is from the full console version and not a portable nor toned down product. It is a fully fledged 3D JRPG, from the exploration, cutscenes, down to the combat.  Well, except for a few anime style cutscenes.

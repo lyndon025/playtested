@@ -7,24 +7,29 @@ description: 'Bright Reappear, a match-three game combined with RPG-style gamepl
 featured: false
 pubDate: 2023-06-26
 tags:
-- taptap
+- action
+- adventure
 - bright-reappear
+- console
+- indie
+- pc
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-0.avif
 title: One of a kind Match-three RPG game! | Full Review - Bright Reappear
+game: Bright Reappear
+gallery:
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-0.avif
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-1.avif
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-2.avif
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-3.avif
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-4.avif
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-5.avif
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-6.avif
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-7.avif
+- /images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-26-one-of-a-kind-match-three-rpg-game--full-review---bright-reappear-8.avif" alt="screenshot" />
-</div>
-
 Bright Reappear, a match-three game combined with RPG-style gameplay, was released on June 21, 2023. It is now available on Taptap for $1.99. The question arises: is it worth the price? Is it a steal?
 
 

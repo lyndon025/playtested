@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Spiritle
+description: 'Spiritle is a 4-player turn-based strategy battle digital board game
+  available both on PC and mobile with crossplay functionality. You take on the role
+  of a Spirit among the 4 elements: Nature, Earth, Water and Fire, and engage in other
+  fallen souls to reclaim their place in the world tree.'
 featured: false
 pubDate: 2023-06-30
 tags:
-- taptap
+- casual
+- indie
+- pc
 - spiritle
+- strategy
+- taptap
 thumb: /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif
 title: A unique concept that falls short on its execution | Full Review - Spiritle
+game: Spiritle
+gallery:
+- /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif
+- /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-1.avif
+- /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-2.avif
+- /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-3.avif
+- /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-4.avif
+- /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-5.avif
+- /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-6.avif
+- /images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-7.avif" alt="screenshot" />
-</div>
-
 Spiritle
 
 lyndonguitar

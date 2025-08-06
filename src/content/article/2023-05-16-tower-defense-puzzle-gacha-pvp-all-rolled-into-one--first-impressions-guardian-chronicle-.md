@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Guardian Chronicle R
+description: Guardian Chronicle R 8.6 Strategy Real Time Tactics
 featured: false
 pubDate: 2023-05-16
 tags:
+- action
+- casual
+- guardian-chronicle
+- ios
+- pc
+- strategy
 - taptap
-- guardian-chronicle-r
 thumb: /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--0.avif
 title: 'Tower defense, puzzle, gacha, PvP all rolled into one | First Impressions:
   Guardian Chronicle R'
+game: Guardian Chronicle
+gallery:
+- /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--0.avif
+- /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--1.avif
+- /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--2.avif
+- /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--3.avif
+- /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--4.avif
+- /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--5.avif
+- /images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-tower-defense-puzzle-gacha-pvp-all-rolled-into-one--first-impressions-guardian-chronicle--6.avif" alt="screenshot" />
-</div>
-
 Guardian Chronicle R
 8.6
 Strategy

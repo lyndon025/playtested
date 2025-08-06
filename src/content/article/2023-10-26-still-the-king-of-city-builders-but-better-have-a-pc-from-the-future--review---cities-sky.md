@@ -1,27 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Cities: Skylines II'
+description: 'Cities Skylines II city-building simulator with elements of urban planning,
+  economic management, and creativity on an unprecedented scale. This follow-up title
+  from Paradox Interactive and Colossal Order builds upon the success of the original
+  Cities: Skylines while introducing a host of new features and improvements. With
+  the promise of a five times larger playable area, enhanced building tools, overhauled
+  progression systems, and much more, Cities Skylines II aims to redefine the city-building
+  genre once again.'
 featured: false
 pubDate: 2023-10-26
 score: 7.0
 tags:
+- cities-skylines-ii
+- console
+- pc
+- playstation
+- playstation 5
+- simulation
+- strategy
 - taptap
-- cities:-skylines
+- xbox series
 thumb: /images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-0.avif
 title: Still the king of City Builders, but better have a PC from the future | Review
   - Cities Skylines II
+game: Cities Skylines II
+gallery:
+- /images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-0.avif
+- /images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-1.avif
+- /images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-2.avif
+- /images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-3.avif
+- /images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-4.avif
+- /images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-26-still-the-king-of-city-builders-but-better-have-a-pc-from-the-future--review---cities-sky-5.avif" alt="screenshot" />
-</div>
-
 Cities: Skylines II
 7.2
 Simulation

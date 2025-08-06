@@ -1,26 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Tokyo Ghoul: Break the Chains'
+description: 'Tokyo Ghoul: Break the Chains -- RPG Strategy'
 featured: false
 pubDate: 2023-11-09
 score: 6.0
 tags:
+- action
+- console
+- pc
+- playstation
+- playstation 5
 - taptap
-- tokyo-ghoul:-break-the-chains
+- tokyo-ghoul-break-the-chains
+- xbox series
 thumb: /images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-0.avif
 title: 'Impressive visuals and combat but the presentation is mid | Review - Tokyo
   Ghoul: Break the Chains'
+game: 'Tokyo Ghoul: Break the Chains'
+gallery:
+- /images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-0.avif
+- /images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-1.avif
+- /images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-2.avif
+- /images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-3.avif
+- /images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-09-impressive-visuals-and-combat-but-the-presentation-is-mid--review---tokyo-ghoul-break-the-4.avif" alt="screenshot" />
-</div>
-
 Tokyo Ghoul: Break the Chains
 --
 RPG

@@ -6,28 +6,38 @@ description: Among Us is a multiplayer deduction party game set on a spaceship w
 featured: false
 pubDate: 2023-03-08
 tags:
-- taptap
+- action
 - among-us
+- android
+- casual
+- console
+- ios
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- simulation
+- taptap
+- xbox one
 thumb: /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-0.avif
 title: Among Us is still a fun game after four years | Full Review - Among Us
+game: Among Us
+gallery:
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-0.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-1.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-2.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-3.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-4.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-5.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-6.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-7.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-8.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-9.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-10.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-11.avif
+- /images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-08-among-us-is-still-a-fun-game-after-four-years--full-review---among-us-12.avif" alt="screenshot" />
-</div>
-
 Among Us is a multiplayer deduction party game set on a spaceship where players take on the role of either a Crewmate or a killer Impostor.
 
 

@@ -1,29 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Arto
+description: Arto Arto is an action-adventure hack and slash game featuring a world
+  full of — or devoid of — vibrant colors, an action-packed challenging combat, and
+  a mesmerizing atmosphere.
 featured: false
 pubDate: 2023-05-03
 tags:
-- taptap
+- action
 - arto
+- pc
+- taptap
+- web
 thumb: /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-0.avif
 title: A colorful hack and slash goodness | Full Review - Arto
+game: Arto
+gallery:
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-0.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-1.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-2.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-3.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-4.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-5.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-6.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-7.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-8.avif
+- /images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-03-a-colorful-hack-and-slash-goodness--full-review---arto-9.avif" alt="screenshot" />
-</div>
-
 Arto
 Arto is an action-adventure hack and slash game featuring a world full of — or devoid of — vibrant colors, an action-packed challenging combat, and a mesmerizing atmosphere.
 

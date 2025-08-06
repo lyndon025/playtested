@@ -1,26 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'JUMP: AssembleGlobal'
+description: 'JUMP: Assemble is upcoming Anime-based MOBA for fans of the genre and
+  anime enthusiasts alike. This game unites beloved manga and anime characters from
+  Weekly Shōnen Jump series in epic 5v5 team battles.'
 featured: false
 pubDate: 2023-10-14
 tags:
+- casual
+- jump-assemble-beta-test
+- pc
+- strategy
 - taptap
-- jump:-assemble
 thumb: /images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-0.avif
 title: 'Still in beta test but it looks good already | Preview - JUMP: Assemble (Beta
   Test)'
+game: 'JUMP: Assemble (Beta Test)'
+gallery:
+- /images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-0.avif
+- /images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-1.avif
+- /images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-2.avif
+- /images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-3.avif
+- /images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-4.avif
+- /images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-14-still-in-beta-test-but-it-looks-good-already--preview---jump-assemble-beta-test-5.avif" alt="screenshot" />
-</div>
-
 JUMP: AssembleGlobal
 7.9
 Multiplayer

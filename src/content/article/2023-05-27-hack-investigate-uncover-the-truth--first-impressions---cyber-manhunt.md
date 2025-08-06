@@ -8,12 +8,19 @@ description: Cyber Manhunt is a PC hacking-themed game that has recently made it
 featured: false
 pubDate: 2023-05-27
 tags:
-- taptap
 - cyber-manhunt
+- indie
+- ios
+- macos
+- pc
+- puzzle
+- rpg
+- simulation
+- taptap
 thumb: ''
 title: Hack, investigate, uncover the truth | First Impressions - Cyber Manhunt
+game: Cyber Manhunt
 ---
-
 Cyber Manhunt is a PC hacking-themed game that has recently made its way onto the Android platform, offering players an immersive experience as they step into the shoes of a skilled hacker, recently hired by a corporation. I was able to test a trial version of the game, and play the prologue plus the first mission.
 
 The main gameplay is set in the OS of the computer itself: opening applications, and browsing around the simulated internet of the game. At its core, Cyber Manhunt provides players with a range of hacking-related activities to undertake. Starting with web searches and browsing to collect basic information about targets, players can then utilize a comprehensive database to gain deeper insights about persons of interest.

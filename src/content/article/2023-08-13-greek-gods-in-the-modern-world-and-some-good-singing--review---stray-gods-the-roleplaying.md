@@ -1,31 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Stray Gods: The Roleplaying Musical'
+description: 'Stray Gods: The Roleplaying Musical Graphics & Music'
 featured: false
 pubDate: 2023-08-13
 tags:
+- adventure
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- stray-gods-the-roleplaying-musical
 - taptap
-- stray-gods:-the-roleplaying-musical
+- xbox one
 thumb: /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-0.avif
 title: 'Greek gods in the modern world and some good singing | Review - Stray Gods:
   The Roleplaying Musical'
+game: 'Stray Gods: The Roleplaying Musical'
+gallery:
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-0.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-1.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-2.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-3.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-4.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-5.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-6.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-7.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-8.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-9.avif
+- /images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-10.avif" alt="screenshot" />
-</div>
-
 Stray Gods: The Roleplaying Musical
 Graphics & Music
 

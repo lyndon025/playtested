@@ -11,13 +11,17 @@ description: 'Lost Future is a post apocalyptic open world game that features me
 featured: false
 pubDate: 2023-11-09
 tags:
+- gamecube
+- lost-future
+- playstation 2
+- shooter
 - taptap
-- state-of-decay
+- xbox
 thumb: ''
 title: Zombies, base building, character swapping, and open world? | First Impressions
   - Lost Future
+game: Lost Future
 ---
-
 Lost Future is a post apocalyptic open world game that features melee combat, shooting, zombie stealth takedowns, and even good 'ol looting for supplies. The vibe of the game feels very similar to one of my favorite zombie games, State of Decay. Lost Future also features base management elements, where you can build new facilities within your safehouse and upgrade them for more benefit. As far as mobile games go, it may remind you of games like LifeAfter and Last Day on Earth: Survival.
 
 It isn’t the most beautiful looking game, but there is merit in saying the game has console level visuals. The models, textures and animations are detailed enough. Honestly, the lines are blurred nowadays, with mobile phones getting more powerful everyday. The game reeks of high production values, the voice acting is superb and sounds AAA-like.

@@ -8,42 +8,50 @@ description: Hogwarts Legacy is a single player open-world action RPG set in the
 featured: false
 pubDate: 2023-02-10
 tags:
-- taptap
+- action
+- console
 - hogwarts-legacy
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-0.avif
 title: THE Harry Potter game we’ve always dreamed of | Full Review - Hogwarts Legacy
+game: Hogwarts Legacy
+gallery:
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-0.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-1.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-2.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-3.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-4.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-5.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-6.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-7.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-8.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-9.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-10.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-11.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-12.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-13.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-14.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-15.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-16.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-17.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-18.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-19.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-20.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-21.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-22.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-23.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-24.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-25.avif
+- /images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-26.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-19.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-20.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-21.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-22.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-23.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-24.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-25.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-the-harry-potter-game-weve-always-dreamed-of--full-review---hogwarts-legacy-26.avif" alt="screenshot" />
-</div>
-
 Hogwarts Legacy is a single player open-world action RPG set in the Harry Potter world. It features a compelling original linear story that takes us to Hogwarts, as well as its surrounding vicinities; the Scottish Highlands and familiar places like Hogsmeade, The Forbidden Forest, and many more.
 
 It will be released first on PC and current gen systems today, with previous gen systems and Nintendo Switch to the following months.

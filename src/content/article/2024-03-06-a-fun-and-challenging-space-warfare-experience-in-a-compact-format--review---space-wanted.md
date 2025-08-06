@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Space Wanted
+description: ✨Overview Space Wanted is a brand new mobile space shooter and warfare
+  game featuring rogue-lite elements and a time survival aspect. As a single-player
+  roguelike experience set in space, players are tasked with commanding a fleet of
+  ships to take down space pirates in intense battles. The game is exclusively available
+  here on TapTap for Android (Mobile) and has just been released.
 featured: false
 pubDate: 2024-03-06
 score: 7.0
 tags:
-- taptap
+- action
+- pc
+- ps vita
 - space-wanted
+- taptap
 thumb: /images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-0.avif
 title: A fun and challenging space warfare experience in a compact format | Review
   - Space Wanted
+game: Space Wanted
+gallery:
+- /images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-0.avif
+- /images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-1.avif
+- /images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-2.avif
+- /images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-3.avif
+- /images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-4.avif
+- /images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-06-a-fun-and-challenging-space-warfare-experience-in-a-compact-format--review---space-wanted-5.avif" alt="screenshot" />
-</div>
-
 Space Wanted
 8.4
 Action

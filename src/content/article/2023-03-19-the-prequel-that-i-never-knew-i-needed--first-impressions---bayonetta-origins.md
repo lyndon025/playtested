@@ -9,25 +9,27 @@ description: 'Bayonetta is a series that has never been known for its immersive 
 featured: false
 pubDate: 2023-03-19
 tags:
+- action
+- adventure
+- bayonetta-origins
+- console
+- nintendo switch
 - taptap
-- bayonetta-origins:-cereza-and-the-lost-demon
 thumb: /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-0.avif
 title: The prequel that I never knew I needed | First Impressions - Bayonetta Origins
+game: Bayonetta Origins
+gallery:
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-0.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-1.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-2.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-3.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-4.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-5.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-6.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-7.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-8.avif
+- /images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-19-the-prequel-that-i-never-knew-i-needed--first-impressions---bayonetta-origins-9.avif" alt="screenshot" />
-</div>
-
 Bayonetta is a series that has never been known for its immersive storytelling and child friendly nature, but that is about to change with the release of Bayonetta Origins: Cereza and the Lost Demon. Teased as a secret chapter in Bayonetta 3, it is a full blown adventure game with a children’s book style approach. It is now available for the Nintendo Switch as an exclusive, following Bayonetta 2 and 3.
 
 Bayonetta Origins: Cereza and the Lost Demon’s art style, soundtrack, are accordingly tailored as a children’s book presentation. It features hand-drawn watercolor-esque artwork rendered in vibrant cel-shaded graphics, while the soundtrack is a mix of whimsical, lighthearted, with a faint touch of Bayonetta’s music style.

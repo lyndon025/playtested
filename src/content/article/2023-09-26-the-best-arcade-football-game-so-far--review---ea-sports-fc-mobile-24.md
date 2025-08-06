@@ -1,24 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: EA SPORTS FC™ Mobile SoccerGlobal
+description: EA SPORTS FC™ Mobile SoccerGlobal 8.1 Editors' Choice Sports Download
 featured: false
 pubDate: 2023-09-26
 tags:
+- casual
+- console
+- ea-sports-fctm-mobile-24
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- simulation
+- sports
 - taptap
-- ea-sports-fc™-mobile-soccer
+- xbox series
 thumb: /images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-0.avif
 title: The best arcade football game so far? | Review - EA SPORTS FC™ MOBILE 24
+game: EA SPORTS FC™ MOBILE 24
+gallery:
+- /images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-0.avif
+- /images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-1.avif
+- /images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-2.avif
+- /images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-3.avif
+- /images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-26-the-best-arcade-football-game-so-far--review---ea-sports-fc-mobile-24-4.avif" alt="screenshot" />
-</div>
-
 EA SPORTS FC™ Mobile SoccerGlobal
 8.1
 Editors' Choice

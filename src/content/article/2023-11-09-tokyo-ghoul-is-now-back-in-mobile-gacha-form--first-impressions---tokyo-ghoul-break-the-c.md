@@ -8,13 +8,19 @@ description: 'The core gameplay of Tokyo Ghoul: Break the Chains revolves around
 featured: false
 pubDate: 2023-11-09
 tags:
+- action
+- console
+- pc
+- playstation
+- playstation 5
 - taptap
-- tokyo-ghoul:-break-the-chains
+- tokyo-ghoul-break-the-chains
+- xbox series
 thumb: ''
 title: 'Tokyo Ghoul is now back! in mobile gacha form | First Impressions - Tokyo
   Ghoul: Break the Chains'
+game: 'Tokyo Ghoul: Break the Chains'
 ---
-
 The core gameplay of Tokyo Ghoul: Break the Chains revolves around turn-based card battles. Cards are randomly drawn for the player depending on their character roster, and use them strategically in battles. The game offers more than 30 characters to choose from, allowing players to create their own powerful lineup.
 
 It features a 7DS style of card combining turn-based combat. You have a set amount of energy to spend every turn and you can either draw cards, use it to move cards around, or use an energy card to replenish your ultimate skill. Identical adjacent cards will combine and will result in a more powerful version of that attack.

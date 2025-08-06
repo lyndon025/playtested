@@ -1,29 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Bleak Sword DX
+description: Bleak Sword DX Bleak Sword DX is a pixel art soulslike-roguelite that
+  offers an enhanced version of the original game for PC and Switch, following its
+  initial exclusive release on Apple Arcade.
 featured: false
 pubDate: 2023-06-12
 tags:
-- taptap
+- action
+- adventure
 - bleak-sword-dx
+- indie
+- pc
+- taptap
 thumb: /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-0.avif
 title: Challenging and satisfying pixelated souls-like combat | Full Review - Bleak
   Sword DX
+game: Bleak Sword DX
+gallery:
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-0.avif
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-1.avif
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-2.avif
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-3.avif
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-4.avif
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-5.avif
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-6.avif
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-7.avif
+- /images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-8.avif" alt="screenshot" />
-</div>
-
 Bleak Sword DX
 Bleak Sword DX is a pixel art soulslike-roguelite that offers an enhanced version of the original game for PC and Switch, following its initial exclusive release on Apple Arcade.
 

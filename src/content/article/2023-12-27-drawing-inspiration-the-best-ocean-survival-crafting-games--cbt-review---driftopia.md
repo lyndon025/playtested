@@ -1,25 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Driftopia
+description: Recently, I had the opportunity to play a bit of the Driftopia Beta Test,
+  a survival crafting game set on an alien ocean planet, waiting to be explored and
+  discovered. Driftopia, though still in beta on Android, attempts to merge the best
+  elements of oceanic survival games.
 featured: false
 pubDate: 2023-12-27
 tags:
+- cbt-review-driftopia
+- simulation
 - taptap
-- driftopia
+- web
 thumb: /images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-0.avif
 title: Drawing inspiration the best ocean survival crafting games | CBT Review - Driftopia
+game: CBT Review - Driftopia
+gallery:
+- /images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-0.avif
+- /images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-1.avif
+- /images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-2.avif
+- /images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-3.avif
+- /images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-4.avif
+- /images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-27-drawing-inspiration-the-best-ocean-survival-crafting-games--cbt-review---driftopia-5.avif" alt="screenshot" />
-</div>
-
 Driftopia
 8.0
 Adventure

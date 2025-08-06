@@ -7,32 +7,36 @@ description: 'Valkyrie Profile has come a long way from its PS1 origins, its PSP
 featured: false
 pubDate: 2022-12-26
 tags:
+- console
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- simulation
 - taptap
-- valkyrie-profile:-lenneth
+- valkyrie-profile-lenneth
 thumb: /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-0.avif
 title: 'A classic PS1-era RPG game that still holds up to this day | Valkyrie Profile:
   Lenneth - Review'
+game: 'Valkyrie Profile: Lenneth'
+gallery:
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-0.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-1.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-2.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-3.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-4.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-5.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-6.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-7.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-8.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-9.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-10.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-11.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-12.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-13.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-14.avif
+- /images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-15.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-26-a-classic-ps1-era-rpg-game-that-still-holds-up-to-this-day--valkyrie-profile-lenneth---re-15.avif" alt="screenshot" />
-</div>
-
 Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release the Valkyrie Profile: Lenneth, the recent mobile ports, to now its modern PS4 and PS5 release.
 
 

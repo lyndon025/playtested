@@ -1,32 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Ogu and the Secret Forest
+description: Ogu and the Secret Forest 9.1 Adventure Healing Test
 featured: false
 pubDate: 2023-04-26
 tags:
+- early-access-review-ogu-and-the-secret-forest
+- pc
+- puzzle
 - taptap
-- ogu-and-the-secret-forest
 thumb: /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-0.avif
 title: This game is as charming as it is challenging | Early Access Review - Ogu and
   the Secret Forest
+game: Early Access Review - Ogu and the Secret Forest
+gallery:
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-0.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-1.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-2.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-3.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-4.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-5.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-6.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-7.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-8.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-9.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-10.avif
+- /images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-11.avif" alt="screenshot" />
-</div>
-
 Ogu and the Secret Forest
 
 lyndonguitar

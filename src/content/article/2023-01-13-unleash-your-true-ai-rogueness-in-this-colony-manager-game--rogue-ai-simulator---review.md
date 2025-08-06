@@ -8,27 +8,31 @@ description: Rogue AI Simulator is a roguelite management simulation game where 
 featured: false
 pubDate: 2023-01-13
 tags:
+- casual
+- indie
+- pc
+- rogue-ai-simulator
+- rpg
+- simulation
+- strategy
 - taptap
-- rogue-ai-simulator-(pc)
 thumb: /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-0.avif
 title: Unleash your true AI Rogueness in this colony manager game | Rogue AI Simulator
   - Review
+game: Rogue AI Simulator
+gallery:
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-0.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-1.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-2.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-3.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-4.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-5.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-6.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-7.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-8.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-9.avif
+- /images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-13-unleash-your-true-ai-rogueness-in-this-colony-manager-game--rogue-ai-simulator---review-10.avif" alt="screenshot" />
-</div>
-
 Rogue AI Simulator is a roguelite management simulation game where you control an AI that will manage an underground science facility. If the AI – the player — acts suspiciously, the administrators will disconnect the server and shut it down.
 
 The facility you manage acts as a test facility for the science department, where you have newly unfrozen human test subjects to manage — with the help of robotic spider-bots to do physical tasks — while also gathering science points for the department. This translates to the gameplay having a basic colony management setup with a bit of a fascinating roguelite twist.

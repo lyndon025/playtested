@@ -1,35 +1,41 @@
 ---
 author: lyndonguitar
 category: Review
-description: takt op. SymphonyGlobal
+description: Takt Op. (also known as Takt Op. Symphony) is a role-playing game developed
+  by Game Studio and Namco Bandai for iOS and Android devices. It is the counterpart
+  game of the anime television series Takt Op. Destiny, set in a world where music
+  has the power to control everything, and players take on the role of a conductor
+  who must lead their orchestra of powerful warriors called musicarts in battles against
+  monsters and other foes.
 featured: false
 pubDate: 2023-04-27
 tags:
+- closed-beta-review-takt-op-symphony
+- educational
+- pc
+- rpg
 - taptap
-- takt-op.-symphony
 thumb: /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-0.avif
 title: A standout gacha JRPG with a strong focus on music | Closed Beta Review - Takt
   Op. Symphony
+game: Closed Beta Review - Takt Op. Symphony
+gallery:
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-0.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-1.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-2.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-3.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-4.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-5.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-6.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-7.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-8.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-9.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-10.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-11.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-12.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-13.avif
+- /images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-27-a-standout-gacha-jrpg-with-a-strong-focus-on-music--closed-beta-review---takt-op-symphony-14.avif" alt="screenshot" />
-</div>
-
 takt op. SymphonyGlobal
 
 lyndonguitar

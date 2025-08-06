@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Zenless Zone ZeroGlobal
+description: Zenless Zone ZeroGlobal 8.2 Anime Action PC Version
 featured: false
 pubDate: 2023-11-06
 tags:
+- board games
+- family
+- ios
+- nintendo ds
+- pc
+- playstation 3
 - taptap
-- zenless-zone-zero
+- wii
+- xbox 360
+- zenless-zone-zero-everything-you-need-to-know
 thumb: /images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--0.avif
 title: The upcoming CBT comes with contests and prizes | Zenless Zone Zero - Everything
   you need to know
+game: Zenless Zone Zero - Everything you need to know
+gallery:
+- /images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--0.avif
+- /images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--1.avif
+- /images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--2.avif
+- /images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--3.avif
+- /images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--4.avif
+- /images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--5.avif" alt="screenshot" />
-</div>
-
 Zenless Zone ZeroGlobal
 8.2
 Anime

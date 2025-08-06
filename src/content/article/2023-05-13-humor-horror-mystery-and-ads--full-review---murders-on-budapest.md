@@ -1,29 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Murders on Budapest!
+description: Murders on Budapest is a narratively focused murder mystery game with
+  both comedic and horror undertones and presented in a messaging app style format.
 featured: false
 pubDate: 2023-05-13
 tags:
+- action
+- adventure
+- console
+- murders-on-budapest
+- pc
+- playstation
+- playstation 4
+- rpg
+- shooter
 - taptap
-- murders-on-budapest!
+- xbox one
 thumb: /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif
 title: Humor, horror, mystery, and ads | Full Review - Murders on Budapest
+game: Murders on Budapest
+gallery:
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-1.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-2.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-3.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-4.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-5.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-6.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-7.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-8.avif
+- /images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-9.avif" alt="screenshot" />
-</div>
-
 Murders on Budapest!
 
 lyndonguitar

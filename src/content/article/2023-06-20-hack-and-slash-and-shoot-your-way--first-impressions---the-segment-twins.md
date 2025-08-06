@@ -12,12 +12,16 @@ description: The Segment Twins introduces players to the twin girls, Matilda and
 featured: false
 pubDate: 2023-06-20
 tags:
+- action
+- casual
+- indie
+- pc
 - taptap
 - the-segment-twins
 thumb: ''
 title: Hack and slash... and shoot your way | First Impressions - The Segment Twins
+game: THE SEGMENT TWINS
 ---
-
 The Segment Twins introduces players to the twin girls, Matilda and Amanda, whose profession involves hunting down nefarious creatures that closely resemble friendly mushrooms. However, their routine takes an unexpected turn when they fall into a portal and get transported to a mysterious world that exists simultaneously in different places. The story sets up the premise for their segmented journey, where the gameplay mechanics and challenges revolve around these distinct segments. There isn't much emphasis on storytelling, as the game primarily revolves around hack-and-slash action.
 
 Matilda and Amanda have different fighting styles, with Matilda excelling in swords while Amanda is a skilled gunslinger. The controls are intentionally simplified, focusing on basic attacks, dashes, and a limited number of combination moves for special skills using the face buttons – all with cooldowns.

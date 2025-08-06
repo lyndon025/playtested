@@ -1,23 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'The Walking Dead: Destinies'
+description: 'The Walking Dead: Destinies 8.7 Action Action role-playing'
 featured: false
 pubDate: 2023-11-20
 tags:
+- action
+- adventure
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 5
 - taptap
-- the-walking-dead:-destinies
+- the-walking-dead-destinies
+- xbox series
 thumb: /images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-0.avif
 title: 'A contender for WGOTY | Review - The Walking Dead: Destinies'
+game: 'The Walking Dead: Destinies'
+gallery:
+- /images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-0.avif
+- /images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-1.avif
+- /images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-2.avif
+- /images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-3.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-contender-for-wgoty--review---the-walking-dead-destinies-3.avif" alt="screenshot" />
-</div>
-
 The Walking Dead: Destinies
 8.7
 Action

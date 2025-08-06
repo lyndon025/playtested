@@ -1,42 +1,51 @@
 ---
 author: lyndonguitar
 category: Review
-description: Age of Wonders 4
+description: In Age of Wonders 4, players take on the role of a leader of an extremely
+  customizable faction in the game and strive to conquer the land in various ways,
+  participate in diplomacy, combat, research, and empire management gameplay to create
+  a deeply immersive and strategic gameplay. Players will be able to customize their
+  armies, heroes, and cities, as well as explore a vast and dynamic world filled with
+  hidden treasures and powerful artifacts.
 featured: false
 pubDate: 2023-05-05
 tags:
-- taptap
 - age-of-wonders-4
+- console
+- pc
+- playstation
+- playstation 5
+- strategy
+- taptap
+- xbox series
 thumb: /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-0.avif
 title: An immersive, customizable, and strategic 4X role-playing game | Full Review
   - Age of Wonders 4
+game: Age of Wonders 4
+gallery:
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-0.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-1.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-2.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-3.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-4.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-5.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-6.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-7.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-8.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-9.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-10.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-11.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-12.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-13.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-14.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-15.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-16.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-17.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-18.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-19.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-20.avif
+- /images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-21.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-19.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-20.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-21.avif" alt="screenshot" />
-</div>
-
 Age of Wonders 4
 Gameplay
 

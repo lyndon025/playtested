@@ -9,13 +9,16 @@ description: 'Contrary my initial impressions from browsing the Google Play Stor
 featured: false
 pubDate: 2023-08-23
 tags:
-- taptap
+- adventure
+- indie
+- pc
 - souls
+- taptap
 thumb: ''
 title: This auto-chess game misled me into thinking that it's an adventure game |
   Impressions - SOULS
+game: SOULS
 ---
-
 Contrary my initial impressions from browsing the Google Play Store page, SOULS is not an adventure game in the vein of titles like Journey, Abzu, and Sky: Children of the Light . Instead, it is a traditional auto-chess gacha game tailored for mobile platforms. Nonetheless, its visual appeal remains as stunning as depicted in the promotional images and trailers.
 
 The gameplay of SOULS instead revolves around assembling a team of five heroes, placing them strategically on a hexagonal grid map against opposing forces, and relying on their hero power to emerge victorious, with the battles automatically played out. While the game doesn't delve deeply into its backstory beyond its apocalyptic premise, it wastes no time thrusting players into action minutes after launching.

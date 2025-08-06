@@ -8,13 +8,21 @@ description: Killer Frequency is a first-person horror puzzle game set in the 19
 featured: false
 pubDate: 2023-06-07
 tags:
-- taptap
+- adventure
+- console
+- indie
 - killer-frequency
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- simulation
+- taptap
 thumb: ''
 title: 911 calls get forwarded to a late night radio talk show host | First Impressions
   - Killer Frequency
+game: Killer Frequency
 ---
-
 Killer Frequency is a first-person horror puzzle game set in the 1980s. Players assume the role of Forrest Nash, a late night radio talk show host on 189.16, “The Scream”, in the small town of Gallows Creek. The game revolves around the mysterious return of the killer known as The Whistling Man, who is causing havoc in the town.
 
 The game takes us to Forrest Nash’s radio station late at night, where you are also tasked with operating the DJ Booth’s controls to play music, operate the phone lines, and perform DJ duties. Forrest Nash starts a new program called “Guess that Scream”, inviting callers to guess a random scream played on the show. However, the situation becomes serious when genuine calls are received from scared characters seeking help, and players must use everything at their disposal, including solving various puzzles, to assist them. The time-sensitive aspect adds tension and a sense of urgency to the gameplay.

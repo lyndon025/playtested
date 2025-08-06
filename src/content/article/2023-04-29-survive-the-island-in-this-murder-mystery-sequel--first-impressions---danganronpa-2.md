@@ -1,28 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Danganronpa 2: Goodbye Despair'
+description: 'Closely following in the footsteps of the first game, Danganronpa 2:
+  Goodbye Despair is another entry into the intriguing murder mystery game series
+  featuring high school students trapped in their school and forced to kill each other
+  to survive.'
 featured: false
 pubDate: 2023-04-29
 tags:
+- adventure
+- casual
+- console
+- danganronpa-2
+- ios
+- linux
+- macos
+- pc
+- playstation
+- playstation 4
+- ps vita
+- psp
 - taptap
-- danganronpa-2:-goodbye-despair
 thumb: /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-0.avif
 title: Survive the Island in this murder mystery sequel | First Impressions - Danganronpa
   2
+game: Danganronpa 2
+gallery:
+- /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-0.avif
+- /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-1.avif
+- /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-2.avif
+- /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-3.avif
+- /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-4.avif
+- /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-5.avif
+- /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-6.avif
+- /images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-7.avif" alt="screenshot" />
-</div>
-
 Danganronpa 2: Goodbye Despair
 8.3
 Adventure

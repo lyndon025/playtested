@@ -1,31 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: War Thunder Mobile
+description: War Thunder Mobile, an extension of the popular War Thunder franchise,
+  brings the adrenaline-pumping world of vehicular combat to the palm of your hands.
+  Developed by Gaijin, this mobile adaptation offers a condensed yet authentic War
+  Thunder experience, focusing on ground and naval warfare while introducing streamlined
+  mechanics tailored for mobile gameplay.
 featured: false
 pubDate: 2023-08-17
 tags:
+- action
+- ios
+- simulation
 - taptap
 - war-thunder-mobile
 thumb: /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-0.avif
 title: Land, Sea, and to some extent… Air? | Full Review - War Thunder Mobile
+game: War Thunder Mobile
+gallery:
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-0.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-1.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-2.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-3.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-4.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-5.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-6.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-7.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-8.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-9.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-10.avif
+- /images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-17-land-sea-and-to-some-extent-air--full-review---war-thunder-mobile-11.avif" alt="screenshot" />
-</div>
-
 War Thunder Mobile
 
 lyndonguitar

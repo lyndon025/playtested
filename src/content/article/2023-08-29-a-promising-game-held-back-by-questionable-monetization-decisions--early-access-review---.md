@@ -1,31 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Wayfinder
+description: Wayfinder was recently released in paid early access form last August
+  18, debuting amidst a host of server problems that garnered an initial overwhelmingly
+  negative reaction. More recently, servers have been patched up and the queues have
+  gone from literal hours to just a minute or less. More than a week after its release,
+  I was finally able to personally experience the game and see firsthand what all
+  the fuss is about.
 featured: false
 pubDate: 2023-08-29
 tags:
+- action
+- early-access-review-wayfinder
+- fighting
+- pc
 - taptap
-- wayfinder
 thumb: /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----0.avif
 title: A promising game held back by questionable monetization decisions | Early Access
   Review - Wayfinder
+game: Early Access Review - Wayfinder
+gallery:
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----0.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----1.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----2.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----3.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----4.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----5.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----6.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----7.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----8.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----9.avif
+- /images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-29-a-promising-game-held-back-by-questionable-monetization-decisions--early-access-review----10.avif" alt="screenshot" />
-</div>
-
 Wayfinder
 
 Wayfinder was recently released in paid early access form last August 18, debuting amidst a host of server problems that garnered an initial overwhelmingly negative reaction. More recently, servers have been patched up and the queues have gone from literal hours to just a minute or less. More than a week after its release, I was finally able to personally experience the game and see firsthand what all the fuss is about.

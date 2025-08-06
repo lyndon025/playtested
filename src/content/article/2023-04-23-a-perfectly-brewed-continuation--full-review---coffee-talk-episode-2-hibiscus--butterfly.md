@@ -1,34 +1,46 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Coffee Talk Episode 2: Hibiscus & Butterfly'
+description: 'Coffee Talk Episode 2: Hibiscus & Butterfly Coffee Talk Episode 2: Hibiscus
+  & Butterfly 8.7 Adventure Casual'
 featured: false
 pubDate: 2023-04-23
 tags:
+- adventure
+- casual
+- coffee-talk-episode-2-hibiscus-butterfly
+- console
+- indie
+- macos
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- simulation
 - taptap
-- coffee-talk-episode-2:-hibiscus-&-butterfly
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-0.avif
 title: 'A perfectly brewed continuation | Full Review - Coffee Talk Episode 2: Hibiscus
   & Butterfly'
+game: 'Coffee Talk Episode 2: Hibiscus & Butterfly'
+gallery:
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-0.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-1.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-2.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-3.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-4.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-5.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-6.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-7.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-8.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-9.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-10.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-11.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-12.avif
+- /images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-13.avif" alt="screenshot" />
-</div>
-
 Coffee Talk Episode 2: Hibiscus & Butterfly
 Coffee Talk Episode 2: Hibiscus & Butterfly
 8.7

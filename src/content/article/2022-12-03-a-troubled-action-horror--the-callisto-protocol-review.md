@@ -9,25 +9,32 @@ description: The heir apparent to the Dead Space series is now here. The Callist
 featured: false
 pubDate: 2022-12-03
 tags:
+- action
+- adventure
+- console
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - taptap
-- the-callisto-protocol™
+- the-callisto-protocol
+- xbox one
+- xbox series
 thumb: /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-0.avif
 title: A troubled action horror | The Callisto Protocol Review
+game: The Callisto Protocol
+gallery:
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-0.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-1.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-2.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-3.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-4.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-5.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-6.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-7.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-8.avif
+- /images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-03-a-troubled-action-horror--the-callisto-protocol-review-9.avif" alt="screenshot" />
-</div>
-
 The heir apparent to the Dead Space series is now here. The Callisto Protocol is a great game and a worthy spiritual successor to the Dead Space series, but it's sadly disappointing to have such major performance issues on PC. With the full remake of the original Dead Space looming on the horizon, its now or never for The Callisto Protocol to impress us.
 
 The Callisto Protocol starts off piling cliches upon cliches of typical action and sci-fi tropes. You play as the typical menial pilot turned wrongfully accused prisoner — caught in the middle of a viral outbreak on a colony on Europa’s Moon, Callisto. A stellar premise to start, setting the stage for the game.

@@ -1,32 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: Prime of Flames
+description: lyndonguitar Download In Prime of Flames, the story revolves around the
+  protagonist, who assumes the role of the "Star Envoy." As the Star Envoy, the player
+  embarks on a quest to uncover the truth behind the disaster that befell the land,
+  taking command of warriors from different clans, each possessing unique talents
+  and abilities.
 featured: false
 pubDate: 2023-05-30
 tags:
-- taptap
+- adventure
+- indie
+- macos
+- pc
 - prime-of-flames
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-0.avif
 title: Potentially hours of turn-based rogue-like fun and experimentation | Review
   - Prime of Flames
+game: Prime of Flames
+gallery:
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-0.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-1.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-2.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-3.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-4.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-5.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-6.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-7.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-8.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-9.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-10.avif
+- /images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-11.avif" alt="screenshot" />
-</div>
-
 Prime of Flames
 
 lyndonguitar

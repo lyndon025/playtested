@@ -1,22 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: SIFU (Nintendo Switch) - Short Review
+description: If you’re looking for a martial arts game that will remind you of the
+  classic kung-fu movies you loved as a kid (maybe until now), SIFU has got it for
+  you. Finally, It is now released for the Nintendo Switch.
 featured: false
 pubDate: 2022-11-10
 tags:
+- action
+- console
+- fighting
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- sifu
 - taptap
-- sifu(pc,ps4,ps5,ns)
+- xbox one
+- xbox series
 thumb: /images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif
 title: 'Finally, a proper Kung fu game! | SIFU: Short Review'
+game: Sifu
+gallery:
+- /images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif
+- /images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-1.avif
+- /images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-2.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-2.avif" alt="screenshot" />
-</div>
-
 SIFU (Nintendo Switch) - Short Review
 
 If you’re looking for a martial arts game that will remind you of the classic kung-fu movies you loved as a kid (maybe until now), SIFU has got it for you. Finally, It is now released for the Nintendo Switch.

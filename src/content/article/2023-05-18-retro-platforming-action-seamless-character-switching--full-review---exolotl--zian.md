@@ -1,33 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Exolotl : Zian'
+description: 'Exolotl : Zian is a platformer game with charming retro pixel art style,
+  unique character designs inspired by the cute animal axolotl, and a seamless character
+  switching gameplay mechanic, the game offers a nostalgic experience with a touch
+  of innovation.'
 featured: false
 pubDate: 2023-05-18
 tags:
+- action
+- adventure
+- casual
+- exolotl-zian
+- indie
+- pc
 - taptap
-- exolotl-:-zian
 thumb: /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-0.avif
 title: 'Retro platforming action, seamless character switching | Full Review - Exolotl
   : Zian'
+game: 'Exolotl: ZIAN'
+gallery:
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-0.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-1.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-2.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-3.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-4.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-5.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-6.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-7.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-8.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-9.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-10.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-11.avif
+- /images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-retro-platforming-action-seamless-character-switching--full-review---exolotl--zian-12.avif" alt="screenshot" />
-</div>
-
 Exolotl : Zian
 
 Exolotl : Zian is a platformer game with charming retro pixel art style, unique character designs inspired by the cute animal axolotl, and a seamless character switching gameplay mechanic, the game offers a nostalgic experience with a touch of innovation.

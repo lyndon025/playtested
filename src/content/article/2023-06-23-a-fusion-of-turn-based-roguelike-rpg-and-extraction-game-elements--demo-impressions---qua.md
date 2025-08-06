@@ -7,13 +7,16 @@ description: Quasimorph is a mix of classic turn-based roguelike RPG with an ext
 featured: false
 pubDate: 2023-06-23
 tags:
+- adventure
+- impressions-quasimorph
+- rpg
 - taptap
-- quasimorphosis
+- web
 thumb: ''
 title: A fusion of turn-based roguelike RPG and extraction game elements | Demo Impressions
   - Quasimorph
+game: Impressions - Quasimorph
 ---
-
 Quasimorph is a mix of classic turn-based roguelike RPG with an extraction twist, where the player's progress and acquired loot depend on their survival in missions.
 
 The gameplay of Quasimorph is a top-down turn-based shooter that draws heavy inspiration from classic titles like Fallout 1 and 2. Players embark on missions with diverse objectives, and each level is procedurally generated, providing a unique experience with every playthrough. To control their character, players click on tiles to move, interact with objects, or attack hostile units. The combat mechanics are methodical, demanding strategic positioning and thorough preparation. Ammo is scarce and reloading at the right time is essential. These elements combine to create intense and rewarding encounters against enemies, offering a sense of satisfaction after each battle.

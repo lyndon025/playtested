@@ -7,13 +7,17 @@ description: The Tokyo Game Show, known for its greatest and the latest in gamin
 featured: false
 pubDate: 2023-09-21
 tags:
+- action
+- adventure
+- containment-zone-announced-with-participation-at-tgs-2023
+- pc
+- rpg
 - taptap
-- snowbreak:-containment-zone
 thumb: ''
 title: 'New DLC for Snowbreak: Containment Zone announced with participation at TGS
   2023'
+game: Containment Zone announced with participation at TGS 2023
 ---
-
 The Tokyo Game Show, known for its greatest and the latest in gaming announcements, will be the stage where Snowbreak’s newest and biggest DLC takes spotlight.
 
 Snowbreak: Containment Zone will feature a booth at Tokyo Game Show 2023 that promises a captivating near-future sci-fi setting. With popular cosplayers bringing key characters to life. Fans can engage in firearm customization activities, try out game demos, view stunning game artwork displays, and participate in a series of engaging check-in events. Exciting Snowbreak merchandise is up for grabs for those who complete designated tasks on-site.

@@ -8,13 +8,19 @@ description: 'Blending elements of trajectory-based launching akin to Angry Bird
 featured: false
 pubDate: 2023-06-08
 tags:
+- indie
+- kemono-friends-kingdom
+- linux
+- macos
+- pc
+- simulation
+- strategy
 - taptap
-- kemono-friends:-kingdom
 thumb: ''
 title: 'Charming animal waifu characters to collect | First Impressions - Kemono Friends:
   Kingdom'
+game: 'Kemono Friends: Kingdom'
 ---
-
 Blending elements of trajectory-based launching akin to Angry Birds with turn-based RPG mechanics, Kemono Friends: Kingdom offers a slight spin on a familiar gameplay format and it is coming soon with an Open Beta Test scheduled for June 21!
 
 Players must adjust the trajectory of their Friends' launches (on a paper plane) to strategically attack enemies. In general, the game follows a turn-based system, where players make tactical decisions per turn and utilize special abilities called Miracles to overcome adversaries. The addition of the Angry Birds launching system adds a bit of extra engagement for the player, as the levels will include various obstacles, map elements, and floating collectibles for the player to navigate around with.

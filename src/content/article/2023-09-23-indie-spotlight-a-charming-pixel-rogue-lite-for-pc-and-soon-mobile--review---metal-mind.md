@@ -1,25 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Metal Mind
+description: ✨Overview Metal Mind is a pixel rogue-lite stick shooter where players
+  take on the role of a mech that can change its parts and gear on the fly. The game
+  was originally released on PC (Steam) last year for an upfront cost of $18, but
+  I had the privilege of trying out a pre-release build of the Android version, and
+  I must say, it transitions quite seamlessly to the mobile platform, if not even
+  better suited for it.
 featured: false
 pubDate: 2023-09-23
 tags:
-- taptap
+- action
+- indie
 - metal-mind
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-0.avif
 title: '[Indie Spotlight] A charming pixel rogue-lite for PC and soon Mobile! | Review
   - Metal Mind'
+game: Metal Mind
+gallery:
+- /images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-0.avif
+- /images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-1.avif
+- /images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-2.avif
+- /images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-3.avif
+- /images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-23-indie-spotlight-a-charming-pixel-rogue-lite-for-pc-and-soon-mobile--review---metal-mind-4.avif" alt="screenshot" />
-</div>
-
 Metal Mind
 8.7
 Pixel

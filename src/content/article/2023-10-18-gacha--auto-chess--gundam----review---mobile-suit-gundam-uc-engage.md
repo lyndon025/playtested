@@ -1,25 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: MOBILE SUIT GUNDAM U.C. ENGAGE
+description: MOBILE SUIT GUNDAM U.C. ENGAGE 7.5 Simulation Strategy Download
 featured: false
 pubDate: 2023-10-18
 score: 7.0
 tags:
+- action
+- console
+- mobile-suit-gundam-u-c-engage
+- pc
+- playstation
+- playstation 4
 - taptap
-- mobile-suit-gundam-battle-operation-2
 thumb: /images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-0.avif
 title: Gacha + Auto Chess + Gundam = ??? | Review - MOBILE SUIT GUNDAM U.C. ENGAGE
+game: MOBILE SUIT GUNDAM U.C. ENGAGE
+gallery:
+- /images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-0.avif
+- /images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-1.avif
+- /images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-2.avif
+- /images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-3.avif
+- /images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-18-gacha--auto-chess--gundam----review---mobile-suit-gundam-uc-engage-4.avif" alt="screenshot" />
-</div>
-
 MOBILE SUIT GUNDAM U.C. ENGAGE
 7.5
 Simulation

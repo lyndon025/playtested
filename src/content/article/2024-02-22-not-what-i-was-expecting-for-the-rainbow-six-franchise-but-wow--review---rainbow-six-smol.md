@@ -1,27 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Rainbow Six: SMOL - NETFLIX'
+description: 'Rainbow Six: SMOL - NETFLIX 6.3 Adventure Action Download'
 featured: false
 pubDate: 2024-02-22
 score: 8.0
 tags:
+- action
+- adventure
+- classic macintosh
+- dreamcast
+- nintendo 64
+- pc
+- playstation
+- rainbow-six-smol
+- shooter
+- strategy
 - taptap
-- tom-clancy’s-rainbow-six®-extraction
 thumb: /images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-0.avif
 title: Not what I was expecting for the Rainbow Six franchise, but WOW! | Review -
   Rainbow Six SMOL
+game: Rainbow Six SMOL
+gallery:
+- /images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-0.avif
+- /images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-1.avif
+- /images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-2.avif
+- /images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-3.avif
+- /images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-4.avif
+- /images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-22-not-what-i-was-expecting-for-the-rainbow-six-franchise-but-wow--review---rainbow-six-smol-5.avif" alt="screenshot" />
-</div>
-
 Rainbow Six: SMOL - NETFLIX
 6.3
 Adventure

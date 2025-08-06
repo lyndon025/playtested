@@ -1,30 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Viewfinder
+description: Viewfinder Viewfinder is a puzzle game where players reshape reality
+  by placing works of art in the world. Uncover mysteries, solve engaging puzzles,
+  and explore captivating environments in this innovative and imaginative journey
+  of discovery.
 featured: false
 pubDate: 2023-07-21
 tags:
+- adventure
+- console
+- indie
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - taptap
 - viewfinder
 thumb: /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-0.avif
 title: Innovative mind and perspective bending puzzle mechanics | Full Review - Viewfinder
+game: Viewfinder
+gallery:
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-0.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-1.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-2.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-3.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-4.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-5.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-6.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-7.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-8.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-9.avif
+- /images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-21-innovative-mind-and-perspective-bending-puzzle-mechanics--full-review---viewfinder-10.avif" alt="screenshot" />
-</div>
-
 Viewfinder
 Viewfinder is a puzzle game where players reshape reality by placing works of art in the world. Uncover mysteries, solve engaging puzzles, and explore captivating environments in this innovative and imaginative journey of discovery.
 

@@ -1,27 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: '[BETA] Kingdom: The BloodTest Global'
+description: '✨Overview Kingdom: The Blood is an upcoming third person ARPG developed
+  based on the popular Netflix miniseries Kingdom. Set in ancient Korea during a zombie
+  apocalypse, the game combines historical elements with undead mayhem ‘Jiangshi’
+  to create unique setting. Kingdom: The Blood features AAA-level of graphics, hack
+  and slash combat, and live service elements.'
 featured: false
 pubDate: 2024-02-09
 score: 7.0
 tags:
+- adventure
+- beta-review-kingdom-the-blood
 - taptap
-- '[beta]-kingdom:-the-blood'
+- web
 thumb: /images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-0.avif
 title: 'The hack-and-slash combat and AAA graphics looks promising | Beta Review -
   Kingdom: The Blood'
+game: 'Beta Review - Kingdom: The Blood'
+gallery:
+- /images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-0.avif
+- /images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-1.avif
+- /images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-2.avif
+- /images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-3.avif
+- /images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-4.avif
+- /images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-09-the-hack-and-slash-combat-and-aaa-graphics-looks-promising--beta-review---kingdom-the-blo-5.avif" alt="screenshot" />
-</div>
-
 [BETA] Kingdom: The BloodTest Global
 8.2
 Zombie

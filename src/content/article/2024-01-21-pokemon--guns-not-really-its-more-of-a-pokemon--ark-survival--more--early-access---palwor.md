@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Palworld Mobile
+description: 'Palworld, a game that boldly introduces itself as "Pokémon with guns,"
+  the features elements of creature “Pal” collecting, base building, and survival
+  crafting mechanics. Developed by Pocket Pair, the game draws inspiration from popular
+  open-world titles like Pokemon, Ark: Survival, Factorio, Zelda: Breath of Wild and
+  more, creating a hybrid experience that feels both familiar but in some respect
+  silly innovative.'
 featured: false
 pubDate: 2024-01-21
 tags:
+- action
+- early-access-palworld
+- ios
+- strategy
 - taptap
-- palworld-mobile
 thumb: /images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-0.avif
 title: Pokemon + Guns? Not really, it’s more of a Pokemon + Ark Survival + more |
   Early Access - Palworld
+game: Early Access - Palworld
+gallery:
+- /images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-0.avif
+- /images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-1.avif
+- /images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-2.avif
+- /images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-3.avif
+- /images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-4.avif
+- /images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-21-pokemon--guns-not-really-its-more-of-a-pokemon--ark-survival--more--early-access---palwor-5.avif" alt="screenshot" />
-</div>
-
 Palworld Mobile
 9.0
 Action

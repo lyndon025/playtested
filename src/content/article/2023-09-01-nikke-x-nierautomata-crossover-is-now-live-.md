@@ -11,12 +11,18 @@ description: 'The latest collaboration between Goddess of Victory: Nikke and Nie
 featured: false
 pubDate: 2023-09-01
 tags:
+- action
+- adventure
+- automata-crossover-is-now-live
+- indie
+- pc
+- rpg
+- strategy
 - taptap
-- goddess-of-victory:-nikke
 thumb: ''
 title: NIKKE x NieR:Automata crossover is now LIVE !!!
+game: Automata crossover is now LIVE !!!
 ---
-
 The latest collaboration between Goddess of Victory: Nikke and Nier: Automata is now live! Both Goddess of Victory: Nikke (or Nikke for short) and Nier: Automata have not been short of collaboration events with other franchises, such as Chainsaw Man with Nikke, or Nier: Automata with even more ridiculous crossovers like Rainbow Six: Siege, PUBG, and Fall Guys. However, both games might have found a match made in heaven with what might be the most sensical crossover yet, featuring very similar themes: sexy girls fighting aliens and robots.
 
 The newly announced collaboration, launched on September 1, 2023, with a second part launching next week September 8, brings the leading ladies of Nier: Automata - 2B and A2 plus Pascal - into the harsh world of Nikke. Players will have the opportunity to take control of these iconic androids, and yes, things are getting a little cheeky.

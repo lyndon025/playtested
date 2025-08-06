@@ -12,13 +12,16 @@ description: Looper Tactics aims to combine turn-based strategy and roguelike me
 featured: false
 pubDate: 2023-06-23
 tags:
+- board games
+- impressions-looper-tactics
+- ios
+- strategy
 - taptap
-- looper-tactics
 thumb: ''
 title: A turn-based strategy card game infused with roguelike elements | Demo Impressions
   - Looper Tactics
+game: Impressions - Looper Tactics
 ---
-
 Looper Tactics aims to combine turn-based strategy and roguelike mechanics, providing an interesting twist on traditional deck building. The core gameplay revolves around navigating a tile-based map, strategically moving your hero across various terrains and encountering both friend and foe. The procedurally generated world every run ensures that each playthrough feels fresh and unpredictable. Throughout the game, you will have encounters with various friendly or neutral beings, many of whom offer you a choice between different bonuses and items to purchase, such as new cards, minions, power-ups, or upgrades.
 
 Encounters with enemies initiate turn-based strategic card battles. The combat system is straightforward. Player cards will attack the enemy card in front of them on the table, taking into account their offensive and defensive stats. If there is no opposing card present, such as when the spot is empty or the opposing card has been defeated, attacks will directly target the opposing hero unit.

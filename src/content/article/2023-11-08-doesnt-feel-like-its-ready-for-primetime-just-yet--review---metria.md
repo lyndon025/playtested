@@ -1,25 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: ✨Overview
+description: Metria, an action RPG that first caught my attention during its testing
+  phases in June and July, has finally made its global debut on November 7. This game
+  showcases a vibrant, anime-inspired world with promises of hack and slash third-person
+  combat.
 featured: false
 pubDate: 2023-11-08
 score: 3.0
 tags:
+- action
+- metria
+- pc
+- rpg
 - taptap
-- rpg-metria-the-starlight
 thumb: /images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-0.avif
 title: Doesn't feel like it's ready for primetime just yet | Review - Metria
+game: METRIA
+gallery:
+- /images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-0.avif
+- /images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-1.avif
+- /images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-2.avif
+- /images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-3.avif
+- /images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-08-doesnt-feel-like-its-ready-for-primetime-just-yet--review---metria-4.avif" alt="screenshot" />
-</div>
-
 ✨Overview
 
 Metria, an action RPG that first caught my attention during its testing phases in June and July, has finally made its global debut on November 7. This game showcases a vibrant, anime-inspired world with promises of hack and slash third-person combat.

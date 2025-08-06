@@ -1,27 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Shovel Knight Pocket Dungeon
+description: Shovel Knight Pocket Dungeon is a roguelike dungeon crawler puzzle game
+  that serves as a spin-off to the critically acclaimed Shovel Knight series. In this
+  game, players take on the role of the protagonist, Shovel Knight, who becomes trapped
+  within a magical artifact called the Pocket Dungeon.
 featured: false
 pubDate: 2023-06-11
 tags:
-- taptap
+- action
+- adventure
+- console
+- indie
+- macos
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- puzzle
 - shovel-knight-pocket-dungeon
+- taptap
+- xbox one
 thumb: /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--0.avif
 title: A highly customizable blend of roguelike and puzzles | Full Review - Shovel
   Knight Pocket Dungeon
+game: Shovel Knight Pocket Dungeon
+gallery:
+- /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--0.avif
+- /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--1.avif
+- /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--2.avif
+- /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--3.avif
+- /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--4.avif
+- /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--5.avif
+- /images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-11-a-highly-customizable-blend-of-roguelike-and-puzzles--full-review---shovel-knight-pocket--6.avif" alt="screenshot" />
-</div>
-
 Shovel Knight Pocket Dungeon
 
 lyndonguitar

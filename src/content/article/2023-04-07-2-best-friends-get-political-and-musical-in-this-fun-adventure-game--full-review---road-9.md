@@ -6,31 +6,31 @@ description: 'Road 96: Mile 0 is a narratively-driven first-person adventure gam
 featured: false
 pubDate: 2023-04-07
 tags:
+- adventure
+- pc
+- road-96-mile-0
 - taptap
-- road-96:-mile-0
 thumb: /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-0.avif
 title: '2 best friends get political, and musical in this fun adventure game | Full
   Review - Road 96: Mile 0'
+game: 'Road 96: Mile 0'
+gallery:
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-0.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-1.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-2.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-3.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-4.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-5.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-6.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-7.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-8.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-9.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-10.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-11.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-12.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-13.avif
+- /images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-14.avif" alt="screenshot" />
-</div>
-
 Road 96: Mile 0 is a narratively-driven first-person adventure game with political commentary and dystopian themes.
 
 

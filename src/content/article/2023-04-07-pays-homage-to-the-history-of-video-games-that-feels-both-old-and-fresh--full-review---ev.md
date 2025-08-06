@@ -6,34 +6,41 @@ description: Evoland 2 is a classic / modern adventure RPG game with a time-trav
 featured: false
 pubDate: 2023-04-07
 tags:
-- taptap
+- action
+- adventure
+- android
+- arcade
 - evoland-2
+- indie
+- ios
+- macos
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-0.avif
 title: Pays homage to the history of video games that feels both old and fresh | Full
   Review - Evoland 2
+game: Evoland 2
+gallery:
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-0.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-1.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-2.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-3.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-4.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-5.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-6.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-7.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-8.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-9.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-10.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-11.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-12.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-13.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-14.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-15.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-16.avif
+- /images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-17.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-17.avif" alt="screenshot" />
-</div>
-
 Evoland 2 is a classic / modern adventure RPG game with a time-traveling theme, not just with the settings, but with whole video game eras and genres altogether.
 
 

@@ -9,21 +9,24 @@ description: 'Rumble Heroes : Adventure RPG’s gameplay is similar to Vampire S
 featured: false
 pubDate: 2023-03-09
 tags:
+- action
+- android
+- arcade
+- ios
+- rumble-heroes
+- strategy
 - taptap
-- adventure-rpg
 thumb: /images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-0.avif
 title: What if Vampire Survivors became an adventure game? | First Impressions - Rumble
   Heroes
+game: Rumble Heroes
+gallery:
+- /images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-0.avif
+- /images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-1.avif
+- /images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-2.avif
+- /images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-3.avif
+- /images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-09-what-if-vampire-survivors-became-an-adventure-game--first-impressions---rumble-heroes-4.avif" alt="screenshot" />
-</div>
-
 Rumble Heroes : Adventure RPG’s gameplay is similar to Vampire Survivors; you only control using one hand and you only control movements of the characters, nothing else. However it adds more complexity and depth to the game by introducing various adventure RPG concepts. Traversing through the land, encountering different characters, building your party, and resting in camps and villages.
 
 The combat is fun and satisfying for the most part that compels me enough to play, and it does it without requiring any effort from the player. Players just have to bring the party within attack range, stop moving, and they will automatically bash and hit their enemies to death.

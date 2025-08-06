@@ -1,33 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Core Devourer
+description: 'Core Devourer is an upcoming rogue-lite survival top-down shooter of
+  what seems like a mash up of two of the best rogue-like games in the genre: Risk
+  of Rain 2 and Vampire Survivors. I tested the Demo recently — and with the limited
+  gameplay I experienced, I can say there is indeed potential in this game, if they
+  can get the pacing and the  mechanics right upon release.'
 featured: false
 pubDate: 2023-12-12
 score: 7.0
 tags:
+- action
+- indie
+- macos
+- pc
+- pc-mobile-cloud-core-devourer
 - taptap
-- risk-of-rain-2
 thumb: /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-0.avif
 title: A creative rogue-lite where breaking the game is encouraged | PC+Mobile (Cloud)
   - Core Devourer
+game: PC+Mobile (Cloud) - Core Devourer
+gallery:
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-0.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-1.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-2.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-3.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-4.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-5.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-6.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-7.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-8.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-9.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-10.avif
+- /images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-a-creative-rogue-lite-where-breaking-the-game-is-encouraged--pcmobile-cloud---core-devour-11.avif" alt="screenshot" />
-</div>
-
 Core Devourer
 8.2
 Cyberpunk

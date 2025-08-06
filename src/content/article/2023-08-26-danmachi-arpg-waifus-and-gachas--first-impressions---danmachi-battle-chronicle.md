@@ -2,7 +2,7 @@
 author: lyndonguitar
 category: Review
 description: DanMachi BATTLE CHRONICLE is a gacha-based ARPG set in the enchanting
-  world of Orario from the 'Is It Wrong to Try to Pick Up Girls In A Dungeon?' anime.
+  world of Orario from the "Is It Wrong to Try to Pick Up Girls In A Dungeon?" anime.
   Players take on the role Bell Cranel and his waifu friends, an ambitious adventurer
   as he grows from novice to formidable warrior, fueled by his connection to the goddess
   Hestia. The game's visuals is a faithful reflection of the anime's aesthetics, bringing
@@ -10,12 +10,19 @@ description: DanMachi BATTLE CHRONICLE is a gacha-based ARPG set in the enchanti
 featured: false
 pubDate: 2023-08-26
 tags:
-- taptap
+- action
+- console
 - danmachi-battle-chronicle
+- nintendo switch
+- pc
+- playstation 3
+- rpg
+- strategy
+- taptap
 thumb: ''
 title: DanMachi, ARPG, Waifus, and gachas | First Impressions - DanMachi BATTLE CHRONICLE
+game: DanMachi BATTLE CHRONICLE
 ---
-
 DanMachi BATTLE CHRONICLE is a gacha-based ARPG set in the enchanting world of Orario from the "Is It Wrong to Try to Pick Up Girls In A Dungeon?" anime. Players take on the role Bell Cranel and his waifu friends, an ambitious adventurer as he grows from novice to formidable warrior, fueled by his connection to the goddess Hestia. The game's visuals is a faithful reflection of the anime's aesthetics, bringing characters and environments to video game form.
 
 Gameplay within DanMachi BATTLE CHRONICLE revolves around real-time combat, where players engage in dynamic battles against an array of adversaries. The game adopts a popular character-switching system, enabling players to seamlessly alternate between up to three adventurers during battles. Each adventurer possesses distinct skills, strengths, and weaknesses, encouraging strategic team compositions.

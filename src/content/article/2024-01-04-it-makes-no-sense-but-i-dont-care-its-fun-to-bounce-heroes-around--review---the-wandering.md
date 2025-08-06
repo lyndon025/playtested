@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Wandering ArkUS
+description: The Wandering Ark is a mobile strategy game that features a unique pinball-style
+  combat system where heroes, drawn from popular mythologies like Odin, Chang’e, Hou
+  Yi, and Tyr, collide in a 5v5 battle on a rectangular arena.
 featured: false
 pubDate: 2024-01-04
 score: 7.0
 tags:
+- action
+- pc
+- rpg
 - taptap
 - the-wandering-ark
 thumb: /images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-0.avif
 title: 'It makes no sense, but I don’t care: it''s fun to bounce heroes around | Review
   - The Wandering Ark'
+game: The Wandering Ark
+gallery:
+- /images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-0.avif
+- /images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-1.avif
+- /images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-2.avif
+- /images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-3.avif
+- /images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-4.avif
+- /images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-04-it-makes-no-sense-but-i-dont-care-its-fun-to-bounce-heroes-around--review---the-wandering-5.avif" alt="screenshot" />
-</div>
-
 The Wandering ArkUS
 --
 Strategy

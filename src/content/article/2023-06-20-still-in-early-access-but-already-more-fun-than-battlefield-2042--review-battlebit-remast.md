@@ -1,32 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: BattleBit Remastered
+description: lyndonguitar Test BattleBit Remastered is a massive multiplayer first-person
+  shooter that combines elements of the classic Battlefield games with its own unique  blocky
+  twist.
 featured: false
 pubDate: 2023-06-20
 tags:
-- taptap
 - battlebit-remastered
+- pc
+- shooter
+- taptap
 thumb: /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-0.avif
 title: 'Still in Early Access, but already more fun than Battlefield 2042 | Review:
   BattleBit Remastered'
+game: BattleBit Remastered
+gallery:
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-0.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-1.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-2.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-3.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-4.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-5.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-6.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-7.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-8.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-9.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-10.avif
+- /images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-11.avif" alt="screenshot" />
-</div>
-
 BattleBit Remastered
 
 lyndonguitar

@@ -7,28 +7,37 @@ description: Vampire Survivors might not seem like a really good nor addictive g
 featured: false
 pubDate: 2023-03-20
 tags:
+- action
+- android
+- casual
+- console
+- indie
+- ios
+- nintendo switch
+- pc
+- rpg
 - taptap
 - vampire-survivors
+- web
+- xbox one
 thumb: /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif
 title: This game is so good it created its own genre | Full Review - Vampire Survivors
+game: Vampire Survivors
+gallery:
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-1.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-2.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-3.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-4.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-5.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-6.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-7.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-8.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-9.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-10.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-11.avif
+- /images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-12.avif" alt="screenshot" />
-</div>
-
 Vampire Survivors might not seem like a really good nor addictive game judging from the pixel art graphics, but trust me, it is one of the most addicting games that have come out in recent years.
 
 

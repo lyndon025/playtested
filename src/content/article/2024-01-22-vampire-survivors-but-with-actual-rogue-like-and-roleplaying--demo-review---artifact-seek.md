@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Artifact Seeker:Prologue
+description: Artifact Seeker presents itself as a promising 3D Roguelike Survivor
+  RPG game with bullet hell arena elements. Having recently released its demo on January
+  14, the game offers players a taste of what's to come, featuring two playable characters
+  and the initial two chapters. The full game is just slated as ‘Coming Soon’ on Steam
+  with no clear date yet.
 featured: false
 pubDate: 2024-01-22
 score: 8.0
 tags:
+- pc
+- review-artifact-seeker
 - taptap
-- artifact-seeker
 thumb: /images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-0.avif
 title: Vampire Survivors but with ACTUAL rogue-like and roleplaying | Demo Review
   - Artifact Seeker
+game: Review - Artifact Seeker
+gallery:
+- /images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-0.avif
+- /images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-1.avif
+- /images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-2.avif
+- /images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-3.avif
+- /images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-4.avif
+- /images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-22-vampire-survivors-but-with-actual-rogue-like-and-roleplaying--demo-review---artifact-seek-5.avif" alt="screenshot" />
-</div>
-
 Artifact Seeker:Prologue
 6.7
 Action

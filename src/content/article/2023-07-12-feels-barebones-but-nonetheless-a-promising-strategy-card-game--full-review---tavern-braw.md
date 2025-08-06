@@ -1,30 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'ARCANE RUSH: Auto Battler'
+description: lyndonguitar Download In Tavern Brawls, players engage in thrilling card
+  battles with tactical and resource management elements, choose a hero character
+  to lead the battles, strategize your cards, and watch them battle it out... automatically.
 featured: false
 pubDate: 2023-07-12
 tags:
+- board games
+- ios
+- strategy
 - taptap
-- arcane-rush:-auto-battler
+- tavern-brawls
 thumb: /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-0.avif
 title: Feels barebones but nonetheless a promising strategy card game | Full Review
   - Tavern Brawls
+game: Tavern Brawls
+gallery:
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-0.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-1.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-2.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-3.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-4.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-5.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-6.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-7.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-8.avif
+- /images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-9.avif" alt="screenshot" />
-</div>
-
 ARCANE RUSH: Auto Battler
 
 lyndonguitar

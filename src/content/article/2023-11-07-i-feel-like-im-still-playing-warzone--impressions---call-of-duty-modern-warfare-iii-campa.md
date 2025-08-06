@@ -11,13 +11,23 @@ description: Call of Duty campaigns have consistently been celebrated as excepti
 featured: false
 pubDate: 2023-11-07
 tags:
+- action
+- call-of-duty-modern-warfare-iii-campaign
+- console
+- ios
+- macos
+- pc
+- playstation 3
+- shooter
 - taptap
-- call-of-duty®:-warzone™
+- wii
+- xbox 360
+- xbox one
 thumb: ''
 title: 'I feel like I’m still playing Warzone | Impressions - Call of Duty: Modern
   Warfare III Campaign'
+game: 'Call of Duty: Modern Warfare III Campaign'
 ---
-
 Call of Duty campaigns have consistently been celebrated as exceptional single-player experiences, distinct and detached from the intense multiplayer gameplay for which the franchise is also renowned for. These campaigns offer players a gripping narrative, often set in diverse and immersive environments, replete with cinematic moments and heart-pounding action. They serve as an excellent showcase of the franchise's dedication to delivering compelling storytelling, character development, and thrilling set pieces.
 
 Well, with this year's Call of Duty: Modern Warfare III , it's unfortunate to see that the campaign has not lived up to the high standards set by its predecessors.

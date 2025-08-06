@@ -1,31 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: We Love Katamari REROLL+ Royal Reverie
+description: We Love Katamari REROLL+ Royal Reverie We Love Katamari REROLL+ Royal
+  Reverie is a remastered version of the beloved second title in the Katamari Damacy
+  series released for modern systems; PC, Playstation, Xbox, and Switch.
 featured: false
 pubDate: 2023-06-08
 tags:
+- action
+- pc
 - taptap
-- we-love-katamari-reroll+-royal-reverie
+- we-love-katamari-reroll-royal-reverie
 thumb: /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--0.avif
 title: An absolute piece of insanity and absurdity | Full Review - We Love Katamari
   REROLL+ Royal Reverie
+game: We Love Katamari REROLL+ Royal Reverie
+gallery:
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--0.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--1.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--2.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--3.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--4.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--5.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--6.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--7.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--8.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--9.avif
+- /images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--10.avif" alt="screenshot" />
-</div>
-
 We Love Katamari REROLL+ Royal Reverie
 We Love Katamari REROLL+ Royal Reverie is a remastered version of the beloved second title in the Katamari Damacy series released for modern systems; PC, Playstation, Xbox, and Switch.
 

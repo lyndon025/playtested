@@ -1,32 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cyber Manhunt
+description: Cyber Manhunt is a mystery and hacking simulation game with a story-oriented
+  focus and a puzzle-centric gameplay.
 featured: false
 pubDate: 2023-05-27
 tags:
-- taptap
 - cyber-manhunt
+- indie
+- ios
+- macos
+- pc
+- puzzle
+- rpg
+- simulation
+- taptap
 thumb: /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif
 title: A casual hacking and mystery experience | Review - Cyber Manhunt
+game: Cyber Manhunt
+gallery:
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-1.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-2.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-3.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-4.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-5.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-6.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-7.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-8.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-9.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-10.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-11.avif
+- /images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-12.avif" alt="screenshot" />
-</div>
-
 Cyber Manhunt
 Gameplay
 

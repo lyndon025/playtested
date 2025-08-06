@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Counter-Strike 2
+description: ✨Overview Counter-Strike 2 is the next step in the iconic online competitive
+  shooter franchise Counter-Strike, and it's now here, available for everyone absolutely
+  for free.
 featured: false
 pubDate: 2023-09-28
 tags:
+- counter-strike-2
+- linux
+- pc
+- shooter
 - taptap
-- counter-strike:-source
 thumb: /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-0.avif
 title: The biggest CS update AND a sequel at the same time!? | Full Review - Counter-Strike
   2
+game: Counter-Strike 2
+gallery:
+- /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-0.avif
+- /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-1.avif
+- /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-2.avif
+- /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-3.avif
+- /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-4.avif
+- /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-5.avif
+- /images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-28-the-biggest-cs-update-and-a-sequel-at-the-same-time--full-review---counter-strike-2-6.avif" alt="screenshot" />
-</div>
-
 Counter-Strike 2
 8.5
 FPS

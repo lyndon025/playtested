@@ -8,21 +8,27 @@ description: You have exactly 28 days left to reach the bunker before they bomb 
 featured: false
 pubDate: 2023-02-03
 tags:
+- 1-bit-survivor
+- adventure
+- android
+- casual
+- indie
+- ios
+- pc
+- rpg
+- strategy
 - taptap
-- 1-bit-survivor-(roguelike)
 thumb: /images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-0.avif
 title: Can you survive 28 days in this 1-bit survival adventure? | 1 Bit Survivor
   - First Impressions
+game: 1 Bit Survivor
+gallery:
+- /images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-0.avif
+- /images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-1.avif
+- /images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-2.avif
+- /images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-3.avif
+- /images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-can-you-survive-28-days-in-this-1-bit-survival-adventure--1-bit-survivor---first-impressi-4.avif" alt="screenshot" />
-</div>
-
 You have exactly 28 days left to reach the bunker before they bomb the city. You have your trusty car, and a new cat for a companion. You need to stop for gas once a day, and has 4 bullets remaining. Can you survive all 28 days in 1 Bit Survivor?
 
 1 Bit Survivor is a straightforward rogue-lite survival horror in portrait view. The presentation and the atmosphere is definitely classic Resident Evil 2 and 3-style, an obvious inspiration especially with sound bits when starting a session and the menacing sound effects that you hear. On the contrary, the gameplay is far from it with its subtle 1-bit retro game design and stylized monochromatic graphics.

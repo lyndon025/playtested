@@ -8,23 +8,28 @@ description: Having played the jaw dropping original Dead Space back in 2008, I 
 featured: false
 pubDate: 2023-01-29
 tags:
+- action
+- console
+- dead-space-remake
+- pc
+- playstation 3
+- shooter
 - taptap
-- dead-space
+- xbox 360
+- xbox one
 thumb: /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-0.avif
 title: A faithful retelling of a gruesome horror game | Dead Space Remake - First
   Impressions
+game: Dead Space Remake
+gallery:
+- /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-0.avif
+- /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-1.avif
+- /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-2.avif
+- /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-3.avif
+- /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-4.avif
+- /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-5.avif
+- /images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-a-faithful-retelling-of-a-gruesome-horror-game--dead-space-remake---first-impressions-6.avif" alt="screenshot" />
-</div>
-
 Having played the jaw dropping original Dead Space back in 2008, I was excited to finally play the remake and I gotta say, Dead Space is back, and it is as still jaw dropping as ever, maybe even better. It got the Resident Evil 2 Remake treatment and even surpassed that in my opinion.
 
 People always saw Dead Space as just Resident Evil 4 in space, but really, it was a classic game in its own right that also advanced over the shoulder survival horror even further, especially with its creative limb cutting mechanic that became the core identity of the series. Callisto Protocol tried to take the crown a few weeks ago, and the OG just had to show us how it's done again. In a shocking turn of events, EA has done it with Dead Space Remake.

@@ -1,24 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: Jujutsu Kaisen Phantom ParadeJP
+description: Jujutsu Kaisen Phantom ParadeJP 9.0 RPG Strategy PC Version
 featured: false
 pubDate: 2023-11-22
 tags:
-- taptap
+- android
+- ios
 - jujutsu-kaisen-phantom-parade
+- rpg
+- taptap
 thumb: /images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-0.avif
 title: 'Just hope and wait for a global release for the time being | Review - Jujutsu
   Kaisen: Phantom Parade'
+game: 'Jujutsu Kaisen: Phantom Parade'
+gallery:
+- /images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-0.avif
+- /images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-1.avif
+- /images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-2.avif
+- /images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-3.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-22-just-hope-and-wait-for-a-global-release-for-the-time-being--review---jujutsu-kaisen-phant-3.avif" alt="screenshot" />
-</div>
-
 Jujutsu Kaisen Phantom ParadeJP
 9.0
 RPG

@@ -1,26 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Ghost Trick: Phantom Detective'
+description: 'Ghost Trick: Phantom Detective Ghost Trick: Phantom Detective, the beloved
+  Nintendo DS puzzle-adventure game from Capcom, has returned in a remarkable remastered
+  edition for PlayStation, Xbox, Switch, and PC platforms.'
 featured: false
 pubDate: 2023-06-15
 tags:
+- action
+- adventure
+- ghost-trick-phantom-detective
+- ios
+- nintendo ds
+- puzzle
 - taptap
-- ghost-trick:-phantom-detective
 thumb: /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-0.avif
 title: 'A revitalized classic puzzle-adventure | Review - Ghost Trick: Phantom Detective'
+game: 'GHOST TRICK: Phantom Detective'
+gallery:
+- /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-0.avif
+- /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-1.avif
+- /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-2.avif
+- /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-3.avif
+- /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-4.avif
+- /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-5.avif
+- /images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-15-a-revitalized-classic-puzzle-adventure--review---ghost-trick-phantom-detective-6.avif" alt="screenshot" />
-</div>
-
 Ghost Trick: Phantom Detective
 Ghost Trick: Phantom Detective, the beloved Nintendo DS puzzle-adventure game from Capcom, has returned in a remarkable remastered edition for PlayStation, Xbox, Switch, and PC platforms.
 

@@ -1,16 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: NEW UPDATE
+description: NEW UPDATE Cat Fantasy has extended its reach by launching a dedicated
+  server for Southeast Asian players which was rolled out last October 27. Players
+  in Singapore, Malaysia, Indonesia, Vietnam, Thailand, and the Philippines can now
+  enjoy these brand new servers.
 featured: false
 pubDate: 2023-08-25
 tags:
+- adventure
+- casual
+- cat-fantasy
+- indie
+- pc
 - taptap
-- cat-fantasy:ph
 thumb: ''
 title: New Southeast Asian Servers! | Impressions - Cat Fantasy
+game: Cat Fantasy
 ---
-
 NEW UPDATE
 Cat Fantasy has extended its reach by launching a dedicated server for Southeast Asian players which was rolled out last October 27. Players in Singapore, Malaysia, Indonesia, Vietnam, Thailand, and the Philippines can now enjoy these brand new servers.
 

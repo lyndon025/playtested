@@ -6,27 +6,28 @@ description: From the makers of the popular strategy game Rise of Kingdoms, come
 featured: false
 pubDate: 2023-03-10
 tags:
-- taptap
 - call-of-dragons
+- ios
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-0.avif
 title: Rise of Kingdoms just got a Lord of the Rings makeover | First Impressions
   - Call of Dragons
+game: Call of Dragons
+gallery:
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-0.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-1.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-2.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-3.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-4.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-5.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-6.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-7.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-8.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-9.avif
+- /images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-rise-of-kingdoms-just-got-a-lord-of-the-rings-makeover--first-impressions---call-of-drago-10.avif" alt="screenshot" />
-</div>
-
 From the makers of the popular strategy game Rise of Kingdoms, comes another similar game with a new fresh coat of paint, Call of Dragons.
 
 Featuring Orcs, Humans, Elves — Rise of Kingdoms just got a Lord of the Rings makeover. These three races have been at war for the longest time, until the arrival of a universal threat. The invasion of the Darklings.

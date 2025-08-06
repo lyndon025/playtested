@@ -7,23 +7,25 @@ description: Set in a dystopian future, the game puts players in the shoes of a 
 featured: false
 pubDate: 2023-03-01
 tags:
-- taptap
+- indie
+- pc
 - phantom-brigade
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-0.avif
 title: An innovative turn-based combat with Mechs! | First Impressions - Phantom Brigade
+game: Phantom Brigade
+gallery:
+- /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-0.avif
+- /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-1.avif
+- /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-2.avif
+- /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-3.avif
+- /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-4.avif
+- /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-5.avif
+- /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-6.avif
+- /images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-01-an-innovative-turn-based-combat-with-mechs--first-impressions---phantom-brigade-7.avif" alt="screenshot" />
-</div>
-
 Set in a dystopian future, the game puts players in the shoes of a team of customizable mech pilots fighting against a powerful military. This team is the titular Phantom Brigade.
 
 Phantom Brigade is turn-based, but it is also real-time, combining the best of both worlds. The tactical aspect of turn-based combat is mixed with the cinematic and high octane appeal of real-time battles. The overall feel of the gameplay, despite being a mixed strategy genre, feels VERY similar to the modern XCOM games.

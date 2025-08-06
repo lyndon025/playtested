@@ -1,26 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dragon And Home
+description: Dragon and Home is a sandbox-style MMORPG that combines crafting, Minecraft-style
+  blocky graphics, and traditional MMORPG elements to create a fun and lighthearted
+  game. Reminiscent of games like Hytale and Minecraft (but in third person). For
+  the purpose of this article, I played the mobile version open beta.
 featured: false
 pubDate: 2023-05-13
 tags:
+- console
+- nintendo switch
+- open-beta-impressions-dragon-and-home
+- playstation
+- playstation 4
 - taptap
-- dragon-and-home
 thumb: /images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-0.avif
 title: Mixing sandbox, (mine)crafting, and MMORPG elements | Open Beta Impressions
   - Dragon and Home
+game: Open Beta Impressions - Dragon and Home
+gallery:
+- /images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-0.avif
+- /images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-1.avif
+- /images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-2.avif
+- /images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-3.avif
+- /images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-4.avif
+- /images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-13-mixing-sandbox-minecrafting-and-mmorpg-elements--open-beta-impressions---dragon-and-home-5.avif" alt="screenshot" />
-</div>
-
 Dragon And Home
 8.6
 Sandbox

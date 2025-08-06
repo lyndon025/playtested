@@ -7,36 +7,38 @@ description: Evertale is a JRPG turn-based combat game that draws heavy inspirat
 featured: false
 pubDate: 2023-03-17
 tags:
-- taptap
+- android
 - evertale
+- ios
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-0.avif
 title: A premium gacha RPG game, what? | Full Review - Evertale
+game: Evertale
+gallery:
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-0.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-1.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-2.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-3.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-4.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-5.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-6.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-7.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-8.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-9.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-10.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-11.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-12.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-13.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-14.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-15.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-16.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-17.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-18.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-19.avif
+- /images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-20.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-19.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-20.avif" alt="screenshot" />
-</div>
-
 Evertale is a JRPG turn-based combat game that draws heavy inspiration from the Pokemon series of video games, by featuring monster and character collecting aspects, packaged in a gacha gaming manner.
 
 

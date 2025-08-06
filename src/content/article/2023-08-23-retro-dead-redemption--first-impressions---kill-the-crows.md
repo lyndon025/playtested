@@ -8,12 +8,15 @@ description: Kill the Crows thrusts players into a world fraught with danger and
 featured: false
 pubDate: 2023-08-23
 tags:
-- taptap
+- action
+- indie
 - kill-the-crows
+- pc
+- taptap
 thumb: ''
 title: Retro Dead Redemption?? | First Impressions - Kill the Crows
+game: Kill The Crows
 ---
-
 Kill the Crows thrusts players into a world fraught with danger and overwhelming vengeance. The story follows a gunslinger consumed by the fire of retribution, wandering through the ruins of a forsaken wild west town and attacked by an onslaught of enemies, both regular goons and those with supernatural abilities.
 
 Starting the game, Kill the Crows wastes no time in plunging players into the heart of the action. As a marksman gunslinger, players are tasked with surviving the onslaught of enemies. There’s really not much complexity here other than moving around, shooting, and surviving. That’s not to say the game isn’t challenging; in fact, it's actually ridiculously difficult. You can one-shot basically all enemies, but all it takes to kill you is also one shot—just one unnoticed bullet, and you're down.

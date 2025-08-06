@@ -1,26 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Blade of God X: OrisolsGlobal'
+description: 'Blade of God X: OrisolsGlobal 8.7 Editors'' Choice Action PC Version'
 featured: false
 pubDate: 2023-10-31
 tags:
+- action
+- beta-test-preview-blade-of-god-ii-orisols
+- console
+- mobile
+- pc
+- steam
+- switch
 - taptap
-- blade-of-god-:-vargr-souls
 thumb: /images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-0.avif
 title: 'An ambitious Dark Souls-looking ARPG game | Beta Test Preview - Blade of God
   II: Orisols'
+game: 'Beta Test Preview - Blade of God II: Orisols'
+gallery:
+- /images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-0.avif
+- /images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-1.avif
+- /images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-2.avif
+- /images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-3.avif
+- /images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-4.avif
+- /images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-31-an-ambitious-dark-souls-looking-arpg-game--beta-test-preview---blade-of-god-ii-orisols-5.avif" alt="screenshot" />
-</div>
-
 Blade of God X: OrisolsGlobal
 8.7
 Editors' Choice

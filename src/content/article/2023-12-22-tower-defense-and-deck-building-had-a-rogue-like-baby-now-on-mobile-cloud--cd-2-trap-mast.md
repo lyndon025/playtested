@@ -1,33 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'CD 2: Trap Master'
+description: 'CD 2: Trap Master is a tower defense rogue-like deck-building game that
+  has just recently been released in Early Access form. It is a sequel to the original
+  mobile game Candy Disaster TD, featuring very similar elements, and adds rogue-like
+  deck-building elements to the franchise.'
 featured: false
 pubDate: 2023-12-22
 score: 6.0
 tags:
+- casual
+- cd-2-trap-master
+- indie
+- macos
+- pc
+- strategy
 - taptap
-- orcs-must-die!
 thumb: /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-0.avif
 title: 'Tower Defense and Deck Building had a Rogue-like baby, now on Mobile (Cloud)
   | CD 2: Trap Master'
+game: 'CD 2: Trap Master'
+gallery:
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-0.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-1.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-2.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-3.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-4.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-5.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-6.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-7.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-8.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-9.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-10.avif
+- /images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-tower-defense-and-deck-building-had-a-rogue-like-baby-now-on-mobile-cloud--cd-2-trap-mast-11.avif" alt="screenshot" />
-</div>
-
 CD 2: Trap Master
 8.3
 Strategy

@@ -1,25 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: Yohane the Parhelion - NUMAZU in the MIRAGE -
+description: Yohane the Parhelion - NUMAZU in the MIRAGE - 7.7 Roguelike Anime
 featured: false
 pubDate: 2024-01-17
 tags:
+- pc
+- rpg
 - taptap
-- --yohane-the-parhelion--blaze-in-the-deepblue-
+- yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the
 thumb: /images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-0.avif
 title: Yohane the Parhelion captured my interest in the short time I played the demo
+game: Yohane the Parhelion captured my interest in the short time I played the
+gallery:
+- /images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-0.avif
+- /images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-1.avif
+- /images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-2.avif
+- /images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-3.avif
+- /images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-4.avif
+- /images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-17-yohane-the-parhelion-captured-my-interest-in-the-short-time-i-played-the-demo-5.avif" alt="screenshot" />
-</div>
-
 Yohane the Parhelion - NUMAZU in the MIRAGE -
 7.7
 Roguelike

@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Clash Mini
+description: Clash Mini is Supercell’s take on the strategic mind crunching auto-chess
+  experience. Set in a Clash of Clash universe, prepare to go to war in dynamic battlefields
+  where miniature armies clash for supremacy, the game offers a unique blend of strategic
+  depth, iconic Clash of Clans characters, and fast-paced gameplay.
 featured: false
 pubDate: 2023-12-12
 score: 8.0
 tags:
+- android
+- board games
+- clash-mini
+- ios
+- massively multiplayer
+- strategy
 - taptap
-- clash-royale
 thumb: /images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-0.avif
 title: For auto-chess lovers and Clash of Clans fans alike | Review - Clash Mini
+game: Clash Mini
+gallery:
+- /images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-0.avif
+- /images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-1.avif
+- /images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-2.avif
+- /images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-3.avif
+- /images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-4.avif
+- /images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-12-for-auto-chess-lovers-and-clash-of-clans-fans-alike--review---clash-mini-5.avif" alt="screenshot" />
-</div>
-
 Clash Mini
 8.5
 Strategy

@@ -8,13 +8,20 @@ description: 'Dwerve is a captivating blend of retro art dungeon crawling RPG an
 featured: false
 pubDate: 2023-05-27
 tags:
-- taptap
+- action
+- adventure
 - dwerve
+- indie
+- macos
+- pc
+- rpg
+- strategy
+- taptap
 thumb: ''
 title: Retro dungeon crawling RPG and tower defense fused together | First Impressions
   - Dwerve
+game: Dwerve
 ---
-
 Dwerve is a captivating blend of retro art dungeon crawling RPG and tower defense combat, enveloped in a high fantasy narrative featuring Dwarves, Elves, and Trolls. Recently released for PC, with a mobile version on the horizon, I had the opportunity to test the demo version called Dwerve: Prologue.
 
 The gameplay in Dwerve is straightforward yet involves the player strategically. Players traverse the land, engaging in battles against monsters and solving puzzles along the way, in some occasions navigating maze-like levels and activating levers to open gates. The map design exhibits cleverness in multiple aspects, notably in minimizing the need for excessive backtracking during quests. However, the standout feature that sets Dwerve apart from other retro RPG games lies in its combat system.

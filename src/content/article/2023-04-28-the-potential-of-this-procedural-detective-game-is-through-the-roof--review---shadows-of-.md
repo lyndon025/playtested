@@ -1,33 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Shadows of Doubt
+description: Shadows of Doubt is a sandbox detective game developed by ColePowered
+  Games, featuring procedurally generated cities, voxel-based graphics, and an impressive
+  lighting system.
 featured: false
 pubDate: 2023-04-28
 tags:
-- taptap
+- action
+- indie
+- pc
+- rpg
 - shadows-of-doubt
+- taptap
 thumb: /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--0.avif
 title: The potential of this procedural detective game is through the roof! | Review
   - Shadows of Doubt
+game: Shadows of Doubt
+gallery:
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--0.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--1.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--2.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--3.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--4.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--5.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--6.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--7.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--8.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--9.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--10.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--11.avif
+- /images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-the-potential-of-this-procedural-detective-game-is-through-the-roof--review---shadows-of--12.avif" alt="screenshot" />
-</div>
-
 Shadows of Doubt
 
 Shadows of Doubt is a sandbox detective game developed by ColePowered Games, featuring procedurally generated cities, voxel-based graphics, and an impressive lighting system.

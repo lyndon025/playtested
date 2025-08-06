@@ -1,33 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Combo Card Clashers
+description: Combo Card Clashers is an upcoming single-player roguelike deckbuilder
+  that promises to tap into your inner creativity with its unique turn-based combat
+  system. Having recently tried the demo, I found myself pleasantly surprised by its
+  simple yet addictive and entertaining gameplay. The game invites players to embark
+  on a heroic journey through a medieval fantasy land, recruiting monsters, mercenaries,
+  and discovering relics while engaging in intense tactical fights.
 featured: false
 pubDate: 2023-12-22
 score: 8.0
 tags:
-- taptap
 - combo-card-clashers
+- rpg
+- strategy
+- taptap
+- web
 thumb: /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-0.avif
 title: This upcoming fantasy roguelike deckbuilder for PC and Mobile (Cloud) is fire
   | Combo Card Clashers
+game: Combo Card Clashers
+gallery:
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-0.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-1.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-2.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-3.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-4.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-5.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-6.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-7.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-8.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-9.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-10.avif
+- /images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-upcoming-fantasy-roguelike-deckbuilder-for-pc-and-mobile-cloud-is-fire--combo-card-c-11.avif" alt="screenshot" />
-</div>
-
 Combo Card Clashers
 7.9
 RPG

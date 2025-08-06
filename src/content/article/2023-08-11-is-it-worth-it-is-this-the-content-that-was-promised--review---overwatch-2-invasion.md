@@ -1,29 +1,43 @@
 ---
 author: lyndonguitar
 category: Review
-description: Overwatch Mobile
+description: 'lyndonguitar Get Overwatch 2: Invasion introduces a series of story
+  missions that expand upon the narrative universe of Overwatch 2. These missions
+  focus on the invasion of Null Sector, a rogue Omnic group, and the heroes'' efforts
+  to combat this threat and restore order. The missions are designed to immerse players
+  in dynamic PvE scenarios that delve deeper into the game''s lore and offer engaging
+  cooperative gameplay experiences.'
 featured: false
 pubDate: 2023-08-11
 tags:
+- action
+- console
+- massively multiplayer
+- nintendo switch
+- overwatch-2
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- shooter
 - taptap
-- overwatch-mobile
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-0.avif
 title: 'Is it worth it? Is this the content that was promised? | Review - Overwatch
   2: Invasion'
+game: Overwatch 2
+gallery:
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-0.avif
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-1.avif
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-2.avif
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-3.avif
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-4.avif
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-5.avif
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-6.avif
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-7.avif
+- /images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-8.avif" alt="screenshot" />
-</div>
-
 Overwatch Mobile
 
 lyndonguitar

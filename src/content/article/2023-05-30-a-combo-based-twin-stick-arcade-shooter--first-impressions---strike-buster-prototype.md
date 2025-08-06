@@ -10,13 +10,18 @@ description: Playing Strike Buster Prototype, it definitely reminded me of the r
 featured: false
 pubDate: 2023-05-30
 tags:
-- taptap
+- action
+- adventure
+- indie
+- pc
+- rpg
 - strike-buster-prototype
+- taptap
 thumb: ''
 title: A combo-based twin-stick arcade shooter | First Impressions - Strike Buster
   Prototype
+game: Strike Buster Prototype
 ---
-
 Playing Strike Buster Prototype, it definitely reminded me of the retro arcade space shoot ‘em ups I’ve played in my childhood during my PS1 days, such as Ray Crisis and Einhander. However, it blends retro aesthetics with modern gameplay elements such as a physics system and twin stick controls. The game is already available on PC and Switch, but I was able to try out the Android demo version of the game, bringing the arcade shooter into the mobile platform.
 
 The combat system in Strike Buster Prototype centers around combo accumulation, making it a vital component of the gameplay. Players must string together successive kills to build and maintain their combo meter. As combos increase, so does the power of the player's weapon, creating a satisfying feedback loop that rewards precision, consistency, and skill. It's immensely gratifying to see your weapon grow stronger with each successful combo, allowing you to dispatch enemies with even greater efficiency.

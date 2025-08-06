@@ -1,26 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: DOMINO The Little One
+description: DOMINO The Little One 7.7 Adventure Platformer Get
 featured: false
 pubDate: 2023-11-30
 score: 3.0
 tags:
-- taptap
+- adventure
 - domino-the-little-one
+- indie
+- pc
+- taptap
 thumb: /images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-0.avif
 title: A very short-lived pro-environment info-video disguised as a game | Review
   - DOMINO The Little One
+game: 'DOMINO: The Little One'
+gallery:
+- /images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-0.avif
+- /images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-1.avif
+- /images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-2.avif
+- /images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-3.avif
+- /images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-30-a-very-short-lived-pro-environment-info-video-disguised-as-a-game--review---domino-the-li-4.avif" alt="screenshot" />
-</div>
-
 DOMINO The Little One
 7.7
 Adventure

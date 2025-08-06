@@ -7,23 +7,25 @@ description: 'This is it. Another trailer for The Legend of Zelda: Tears of the 
 featured: false
 pubDate: 2023-04-15
 tags:
+- action
+- adventure
+- console
+- nintendo switch
 - taptap
-- the-legend-of-zelda:-tears-of-the-kingdom-(ns)
+- trailer-impressions-zelda-tears-of-the-kingdom
 thumb: /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-0.avif
 title: 'A potential 2023 GOTY? | Trailer Impressions - Zelda: Tears of the Kingdom'
+game: 'Trailer Impressions - Zelda: Tears of the Kingdom'
+gallery:
+- /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-0.avif
+- /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-1.avif
+- /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-2.avif
+- /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-3.avif
+- /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-4.avif
+- /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-5.avif
+- /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-6.avif
+- /images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-potential-2023-goty--trailer-impressions---zelda-tears-of-the-kingdom-7.avif" alt="screenshot" />
-</div>
-
 This is it. Another trailer for The Legend of Zelda: Tears of the Kingdom has finally dropped, one month before the release date, and I am very, very excited from what I've seen so far.
 
 The new trailer is just short of 4 minutes, but it packs a lot, full of brand new footage that will surely leave fans excited and eagerly anticipating the release of the upcoming game.

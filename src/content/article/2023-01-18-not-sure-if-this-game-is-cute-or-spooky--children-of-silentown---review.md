@@ -9,24 +9,33 @@ description: There's a certain cuteness in this game; the playful nature of the 
 featured: false
 pubDate: 2023-01-18
 tags:
+- adventure
+- casual
+- children-of-silentown
+- console
+- indie
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - taptap
-- children-of-silentown-(pc)
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-0.avif
 title: Not sure if this game is cute or spooky | Children of Silentown - Review
+game: Children of Silentown
+gallery:
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-0.avif
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-1.avif
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-2.avif
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-3.avif
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-4.avif
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-5.avif
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-6.avif
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-7.avif
+- /images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-18-not-sure-if-this-game-is-cute-or-spooky--children-of-silentown---review-8.avif" alt="screenshot" />
-</div>
-
 There's a certain cuteness in this game; the playful nature of the children, the slice of life presentation, and the lighthearted puzzling elements. At the same time, Children of Silentown is spooky and creepy; from the Tim Burton-esque art style with big white creepy eyes, to the foreboding nature of the story with nightmares and monsters.
 
 Silentown is 'a quiet place', a town deep in a forest inhabited by monsters. People can only go out during daylight, loud noises are forbidden, and there are occasional disappearances usually attributed to the monsters. This has become the norm. Recently, disappearances are becoming more frequent, and it’s up to our character, one of the children named Lucy, to courageously investigate.

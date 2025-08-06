@@ -7,13 +7,16 @@ description: 'Rebel Bots: Epic War PvP Clash is a game where strategic depth mee
 featured: false
 pubDate: 2023-11-28
 tags:
+- card
+- ios
+- rebel-bots-epic-war-pvp-clash
+- strategy
 - taptap
-- rebel-bots:-epic-war-pvp-rts
 thumb: ''
 title: 'Tower defense, card-collecting, and real-time PvP | Impressions - Rebel Bots:
   Epic War PvP Clash'
+game: 'Rebel Bots: Epic War PvP Clash'
 ---
-
 Rebel Bots: Epic War PvP Clash is a game where strategic depth meets chaotic warfare. This unique fusion of tower defense, card-collecting, and real-time combat promises an experience that's both familiar and refreshingly distinct.
 
 The gameplay follows the tried and tested formula of Clash Royale's fast-paced battles and unique twists, revolves around 1v1 encounters. Players strategically deploy a deck of eight cards, each representing different units or support options, aiming to destroy the opponent's commander while protecting their own. It's a dance of offense, defense, and adaptability. The commanders can be directly ordered in battle and has abilities, which is a nice twist instead of having a main castle or tower to defend.

@@ -9,13 +9,24 @@ description: The eighth main installment in the iconic Resident Evil series is n
 featured: false
 pubDate: 2023-10-31
 tags:
-- taptap
+- action
+- adventure
+- console
+- ios
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - resident-evil-village
+- taptap
+- xbox one
+- xbox series
 thumb: ''
 title: The mobile version is finally out... how is it? | Impressions - Resident Evil
   Village
+game: 'Resident Evil: Village'
 ---
-
 The eighth main installment in the iconic Resident Evil series is now available to play on iPhone 15 Pro and supported iPad models with an M1 chipset or better. The game is available as a free demo, with in-app purchases allowing players to unlock the full game, and its DLCs. Currently at a discounted price of $15.99 for the base game.
 
 I played the game on an iPad Pro M1 model, which is probably in the middle tier hardware with regards to all the compatible devices. To get a grasp of the full mobile experience, I decide to alternate playing this with the touchscreen controls along with a proper gamepad connected via bluetooth.

@@ -10,13 +10,23 @@ description: In Monster Hunter Now, players explore their surroundings to locate
 featured: false
 pubDate: 2023-09-15
 tags:
-- taptap
+- action
+- console
 - monster-hunter-now
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: ''
 title: Monster Hunter’s Pokemon Go-like game, finally released globally! | Impressions
   - Monster Hunter Now
+game: Monster Hunter Now
 ---
-
 In Monster Hunter Now, players explore their surroundings to locate, track, and engage with various monsters and creatures from the Monster Hunter series. The gameplay involves hunting monsters, gathering resources, upgrading your gear, and engaging in fast-paced sub-minute battles. The battles are quick --- not as lengthy and epic as the mainline games --- but I find the bite-sized nature of it fun and just fits the AR-based nature of the game perfectly.
 
 On the bright side, The art style retains the franchise's signature look as well as offering decent console-level graphics. The game offers both active and passive gameplay, allowing players to engage with the AR Monsters roaming with you even when the app is closed. The game also follows a free-to-play model, with in-app purchases to speed up progress.

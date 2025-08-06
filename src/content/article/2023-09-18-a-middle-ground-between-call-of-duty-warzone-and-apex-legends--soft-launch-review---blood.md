@@ -1,25 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Blood Strike - FPS for allGlobal
+description: 'Blood Strike is a fast-paced battle royale FPS designed with high-octane
+  action in mind. It draws inspiration from popular titles like COD: Warzone and Apex
+  Legends and aims to provide an engaging experience while also prioritizing optimization
+  for lower-end devices. Remarkably, the game maintains a compact installation size,
+  occupying only roughly 1GB.'
 featured: false
 pubDate: 2023-09-18
 tags:
+- call-of-duty-warzone
+- console
+- pc
+- playstation
+- playstation 4
+- shooter
 - taptap
-- fps-for-all
+- xbox one
 thumb: /images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-0.avif
 title: 'A middle ground between Call of Duty: Warzone and Apex Legends | Soft Launch
   Review - Blood Strike'
+game: 'Call of Duty: Warzone'
+gallery:
+- /images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-0.avif
+- /images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-1.avif
+- /images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-2.avif
+- /images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-3.avif
+- /images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-18-a-middle-ground-between-call-of-duty-warzone-and-apex-legends--soft-launch-review---blood-4.avif" alt="screenshot" />
-</div>
-
 Blood Strike - FPS for allGlobal
 
 lyndonguitar

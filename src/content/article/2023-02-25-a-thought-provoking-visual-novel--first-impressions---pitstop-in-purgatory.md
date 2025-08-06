@@ -7,20 +7,24 @@ description: Pitstop in Purgatory is a visual novel and point-and-click adventur
 featured: false
 pubDate: 2023-02-25
 tags:
-- taptap
+- adventure
+- indie
+- linux
+- macos
+- pc
 - pitstop-in-purgatory
+- simulation
+- taptap
 thumb: /images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-0.avif
 title: A thought provoking visual novel | First Impressions - Pitstop in Purgatory
+game: Pitstop in Purgatory
+gallery:
+- /images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-0.avif
+- /images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-1.avif
+- /images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-2.avif
+- /images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-3.avif
+- /images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-thought-provoking-visual-novel--first-impressions---pitstop-in-purgatory-4.avif" alt="screenshot" />
-</div>
-
 Pitstop in Purgatory is a visual novel and point-and-click adventure hybrid developed by Tymedust Games in a two-month timeframe, which is surprising considering the compelling writing.
 
 Pitstop in Purgatory’s story is full of depth and thought-provoking ideas. You play as Astrid, a frustrated young actress who recently died. She wakes up and finds herself in the afterlife, but it’s not Heaven or Hell. It’s something close to a Purgatory, so that’s what they call it for her. At the start, she doesn’t remember her death and is in a state of confusion.

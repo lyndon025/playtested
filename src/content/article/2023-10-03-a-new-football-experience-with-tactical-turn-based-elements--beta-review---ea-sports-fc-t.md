@@ -1,25 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: EA SPORTS FC™ TacticalGlobal
+description: EA SPORTS FC™ TacticalGlobal 7.7 Sports Turn-Based Tactics Pre-register
 featured: false
 pubDate: 2023-10-03
 tags:
+- beta-review-ea-sports-fc-tactical
+- strategy
 - taptap
-- ea-sports-fc™-tactical
+- web
 thumb: /images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-0.avif
 title: A new football experience with tactical turn-based elements | Beta Review -
   EA Sports FC Tactical
+game: Beta Review - EA Sports FC Tactical
+gallery:
+- /images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-0.avif
+- /images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-1.avif
+- /images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-2.avif
+- /images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-3.avif
+- /images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-new-football-experience-with-tactical-turn-based-elements--beta-review---ea-sports-fc-t-4.avif" alt="screenshot" />
-</div>
-
 EA SPORTS FC™ TacticalGlobal
 7.7
 Sports

@@ -1,29 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Strike Buster Prototype
+description: Strike Buster Prototype is a retro style arcade game featuring combo-based
+  combat and twin-stick shooter controls.
 featured: false
 pubDate: 2023-05-30
 tags:
+- casual
+- indie
+- pc
+- rpg
+- strike-buster
 - taptap
-- strike-buster-prototype
 thumb: /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-0.avif
 title: Get addicted on high scores, combo accumulation, and weapon switching | Review
   - Strike Buster
+game: Strike Buster
+gallery:
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-0.avif
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-1.avif
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-2.avif
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-3.avif
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-4.avif
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-5.avif
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-6.avif
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-7.avif
+- /images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-8.avif" alt="screenshot" />
-</div>
-
 Strike Buster Prototype
 
 lyndonguitar

@@ -1,24 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Hyperforma
+description: Hyperforma is a literal unique take on the Breakout puzzle formula, bounce
+  around the levels, punch your way through the defenses, and hack the system in this
+  unique puzzle game.
 featured: false
 pubDate: 2023-05-05
 tags:
-- taptap
+- adventure
+- android
+- arcade
+- casual
+- console
 - hyperforma
+- ios
+- nintendo switch
+- taptap
 thumb: /images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif
 title: Spatial awareness is key | First Impressions - Hyperforma
+game: Hyperforma
+gallery:
+- /images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif
+- /images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-1.avif
+- /images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-2.avif
+- /images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-3.avif
+- /images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-4.avif" alt="screenshot" />
-</div>
-
 Hyperforma
 8.2
 Arcade

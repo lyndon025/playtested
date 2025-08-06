@@ -1,31 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: BRIXITY - Sandbox&Multiplayer
+description: lyndonguitar Download BRIXITY is an innovative sandbox city-building
+  game that invites players to embark on a creative journey of restoration and construction.
+  Set in a world that suffered a collapse five centuries ago, players are tasked with
+  rebuilding Earth using the remarkable BRIX technology.
 featured: false
 pubDate: 2023-08-25
 tags:
+- adventure
+- brixity
+- indie
+- pc
 - taptap
-- sandbox&multiplayer
 thumb: /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif
 title: An original city-builder suitable for all ages | Review - BRIXITY
+game: BRIXITY
+gallery:
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-1.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-2.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-3.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-4.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-5.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-6.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-7.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-8.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-9.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-10.avif
+- /images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-11.avif" alt="screenshot" />
-</div>
-
 BRIXITY - Sandbox&Multiplayer
 
 lyndonguitar

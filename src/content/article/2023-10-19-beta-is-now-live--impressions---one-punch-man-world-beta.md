@@ -9,12 +9,19 @@ description: 'If you''re a die-hard fan of One Punch Man, you''re in for a treat
 featured: false
 pubDate: 2023-10-19
 tags:
+- action
+- console
+- fighting
+- one-punch-man-world-beta
+- pc
+- playstation
+- playstation 4
 - taptap
-- one-punch-man:-world
+- xbox one
 thumb: ''
 title: 'Beta is now live! | Impressions - One Punch Man: World Beta'
+game: 'One Punch Man: World Beta'
 ---
-
 If you're a die-hard fan of One Punch Man, you're in for a treat with One Punch Man: World. This action-packed game offers an interactive journey through the iconic anime, letting you relive key moments and dive deeper into Saitama's story and his heroic comrades. It's a game that stays faithful to its source material, so much so that you might mistake it for an episode of the anime.
 
 The visuals are impressive, showcasing cel-shaded graphics that capture the essence of the anime. Many scenes from the series are faithfully recreated, making players feel as if they've stepped into the anime world.

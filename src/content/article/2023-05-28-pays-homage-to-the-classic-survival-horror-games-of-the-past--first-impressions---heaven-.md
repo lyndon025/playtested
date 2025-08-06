@@ -7,13 +7,16 @@ description: Heaven Dust, developed and published by One Gruel Studio, is a zomb
 featured: false
 pubDate: 2023-05-28
 tags:
-- taptap
 - heaven-dust
+- horror
+- puzzle
+- survival
+- taptap
 thumb: ''
 title: Pays homage to the classic survival horror games of the past | First Impressions
   - Heaven Dust
+game: Heaven Dust
 ---
-
 Heaven Dust, developed and published by One Gruel Studio, is a zombie survival game that aims to capture the essence of classic survival horror titles like the original Resident Evil titles while delivering a modernized 3D experience.
 
 You wake up in a mansion, a former research center that has now transformed into a labyrinth teeming with menacing zombies and treacherous traps. In order to survive, you must face these dangers, gather items, solve puzzles, all while revealing a mysterious storyline that unfolds gradually as they explore the mansion and uncover hidden documents and diaries. The narrative is intriguing, as players piece together the events that led to the mansion's current state and their own presence within it. While the story is not overly complex, it provides enough motivation to drive players forward

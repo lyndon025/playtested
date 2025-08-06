@@ -1,26 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'ASTRA: Knights of Veda'
+description: 'ASTRA: Knights of Veda 7.8 Action RPG Get'
 featured: false
 pubDate: 2023-10-10
 tags:
+- action
+- pc
+- review-astra-knights-of-veda
+- rpg
 - taptap
-- astlibra-revision
 thumb: /images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-0.avif
 title: 'A promising upcoming gacha RPG in need of more polish | Demo Review - ASTRA:
   Knights of Veda'
+game: 'Review - ASTRA: Knights of Veda'
+gallery:
+- /images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-0.avif
+- /images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-1.avif
+- /images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-2.avif
+- /images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-3.avif
+- /images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-4.avif
+- /images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-10-a-promising-upcoming-gacha-rpg-in-need-of-more-polish--demo-review---astra-knights-of-ved-5.avif" alt="screenshot" />
-</div>
-
 ASTRA: Knights of Veda
 7.8
 Action

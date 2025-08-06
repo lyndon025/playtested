@@ -1,7 +1,7 @@
 ---
 author: lyndonguitar
 category: Review
-description: Assassin's Creed Mirage is a 'coming-of-age story,' for Basim starts
+description: Assassin's Creed Mirage is a "coming-of-age story," for Basim starts
   as a street thief and grows into a Hidden One under the guidance of his mentor,
   Roshan. True to the series' tradition, the game features historical figures from
   the 9th-century Baghdad. The game does away with mythologies and magic, and features
@@ -10,13 +10,22 @@ description: Assassin's Creed Mirage is a 'coming-of-age story,' for Basim start
 featured: false
 pubDate: 2023-10-12
 tags:
+- action
+- assassin-s-creed-mirage
+- console
+- ios
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - taptap
-- assassin's-creed-valhalla
+- xbox one
+- xbox series
 thumb: ''
 title: 'This future mobile game is now out, for PC and consoles first | Impressions:
   Assassin''s Creed Mirage'
+game: Assassin's Creed Mirage
 ---
-
 Assassin's Creed Mirage is a "coming-of-age story," for Basim starts as a street thief and grows into a Hidden One under the guidance of his mentor, Roshan. True to the series' tradition, the game features historical figures from the 9th-century Baghdad. The game does away with mythologies and magic, and features a more grounded tone this time around. The story is now much shorted this time, around just 1/4 of the length of the previous game.
 
 It's set to release on iOS for iPhone 15 Pro and Ipad M1+ models in early 2024, with the recent release last October 5, 2023 for PC, Xbox, and PlayStation.

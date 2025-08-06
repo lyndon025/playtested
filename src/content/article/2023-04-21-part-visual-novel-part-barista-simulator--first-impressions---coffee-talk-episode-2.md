@@ -1,25 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Coffee Talk Episode 2: Hibiscus & Butterfly'
+description: 'Coffee Talk Episode 2: Hibiscus & Butterfly 8.7 Adventure Casual'
 featured: false
 pubDate: 2023-04-21
 tags:
+- adventure
+- casual
+- coffee-talk-episode-2
+- console
+- indie
+- macos
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- simulation
 - taptap
-- coffee-talk-episode-2:-hibiscus-&-butterfly
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-0.avif
 title: Part-visual novel, part-barista simulator | First Impressions - Coffee Talk
   Episode 2
+game: Coffee Talk Episode 2
+gallery:
+- /images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-0.avif
+- /images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-1.avif
+- /images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-2.avif
+- /images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-3.avif
+- /images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-21-part-visual-novel-part-barista-simulator--first-impressions---coffee-talk-episode-2-4.avif" alt="screenshot" />
-</div>
-
 Coffee Talk Episode 2: Hibiscus & Butterfly
 8.7
 Adventure

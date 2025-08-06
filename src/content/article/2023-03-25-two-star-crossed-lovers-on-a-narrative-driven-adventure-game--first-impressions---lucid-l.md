@@ -9,22 +9,23 @@ description: Lucid Lenses’ story is deep rooted in astronomy and the study of 
 featured: false
 pubDate: 2023-03-25
 tags:
-- taptap
+- adventure
+- ios
 - lucid-lenses
+- simulation
+- taptap
 thumb: /images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-0.avif
 title: Two star-crossed lovers on a narrative-driven adventure game | First Impressions
   - Lucid Lenses
+game: Lucid Lenses
+gallery:
+- /images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-0.avif
+- /images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-1.avif
+- /images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-2.avif
+- /images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-3.avif
+- /images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-4.avif
+- /images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-25-two-star-crossed-lovers-on-a-narrative-driven-adventure-game--first-impressions---lucid-l-5.avif" alt="screenshot" />
-</div>
-
 Lucid Lenses’ story is deep rooted in astronomy and the study of the cosmos. It features two star-crossed lives turned lovers living seemingly normal lives in somewhat unique circumstances; the man, Reymond, seems to be a smart astrophysicist locked in prison, and the woman, Emily, a university student studying astronomy, is accompanied by her blue bird that she can communicate with.
 
 The gameplay I encountered is composed of point-and-click mechanics and puzzle elements that most of the time, incorporates themes of astrophysics; from the matching star constellations and mapping out planetary orbits, to the rhythm game element with a starry night backdrop.

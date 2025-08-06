@@ -1,25 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Defense Derby
+description: Defense Derby is a simple game to play, monsters attack your square castle,
+  and you have to place a variety of heroes on top of it to effectively survive the
+  waves of enemies marching around and towards your castle gate.
 featured: false
 pubDate: 2023-05-02
 tags:
-- taptap
+- action
+- android
 - defense-derby
+- indie
+- ios
+- pc
+- strategy
+- taptap
 thumb: /images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-0.avif
 title: Tower Defense and playing mind games in multiplayer PvP | First Impressions
   - Defense Derby
+game: Defense Derby
+gallery:
+- /images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-0.avif
+- /images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-1.avif
+- /images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-2.avif
+- /images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-3.avif
+- /images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-4.avif" alt="screenshot" />
-</div>
-
 Defense Derby
 8.1
 Strategy

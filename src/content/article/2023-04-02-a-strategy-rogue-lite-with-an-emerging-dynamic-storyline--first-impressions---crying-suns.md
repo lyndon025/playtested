@@ -7,25 +7,29 @@ description: Crying Suns' narrative themes are boasted as having been inspired b
 featured: false
 pubDate: 2023-04-02
 tags:
-- taptap
 - crying-suns
+- indie
+- ios
+- macos
+- pc
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-0.avif
 title: A strategy rogue-lite with an emerging dynamic storyline | First Impressions
   - Crying Suns
+game: Crying Suns
+gallery:
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-0.avif
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-1.avif
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-2.avif
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-3.avif
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-4.avif
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-5.avif
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-6.avif
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-7.avif
+- /images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-8.avif" alt="screenshot" />
-</div>
-
 Crying Suns' narrative themes are boasted as having been inspired by Dune and Foundation, in which for any hardcore sci-fi fans, know that this is probably two of the best source materials a story could be inspired by.
 
 The main story premise is that the game's protagonist, Admiral Ellys Idaho, or rather a clone of him, is awoken by the last surviving OMNI named Kaliban— AIs originally built to enable mankind to run a galactic empire. They both soon find out that Kaliban is the last of his kind and that the Empire has collapsed and is in shambles, prompting the duo to embark on a journey to find out what happened.

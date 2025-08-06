@@ -1,24 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: WHAT THE CAR?
+description: WHAT THE CAR? is a mobile game exclusive to Apple Arcade that features
+  a quirky and humorous gameplay experience.
 featured: false
 pubDate: 2023-05-09
 tags:
+- action
+- adventure
+- casual
+- indie
+- ios
+- macos
+- pc
+- racing
 - taptap
-- what-the-car?
+- what-the-car
 thumb: /images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-0.avif
 title: The most absurd racing game I’ve played | First Impressions - WHAT THE CAR?
+game: WHAT THE CAR?
+gallery:
+- /images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-0.avif
+- /images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-1.avif
+- /images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-2.avif
+- /images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-3.avif
+- /images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-the-most-absurd-racing-game-ive-played--first-impressions---what-the-car-4.avif" alt="screenshot" />
-</div>
-
 WHAT THE CAR?
 8.5
 Adventure

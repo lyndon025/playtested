@@ -9,12 +9,14 @@ description: 'Ashfall is an ambitious MMORPG developed by Legendary Star Studio 
 featured: false
 pubDate: 2023-07-27
 tags:
+- action
+- early
 - taptap
-- ashfall
+- web
 thumb: ''
 title: Playing an early build of Ashfall! | Early Impressions
+game: Early
 ---
-
 Ashfall is an ambitious MMORPG developed by Legendary Star Studio and NetEase, and is set in a post-apocalyptic world.  Not to be confused from the similarly titled Ashfall, a Web3/NFT game currently in development by Liithos Game Studio. I had the opportunity to try out an Early Build of the game on both mobile and PC, and here are my initial impressions:
 
 -MMORPG set in a post-apocalyptic shooter filled with mutants, robots, and bandits

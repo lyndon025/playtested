@@ -8,13 +8,19 @@ description: Ghostrunner 2 is an exciting sequel to the original Ghostrunner rel
 featured: false
 pubDate: 2023-10-27
 tags:
+- action
+- console
+- ghostrunner-2
+- pc
+- playstation
+- playstation 5
 - taptap
-- ghostrunner
+- xbox series
 thumb: ''
 title: This 3D cyberpunk ninja simulator gets a sequel | First Impressions - Ghostrunner
   2
+game: Ghostrunner 2
 ---
-
 Ghostrunner 2 is an exciting sequel to the original Ghostrunner released in 2020, which kind a took some spotlight out of Cyberpunk 2077 especially with its similar themes, the sequel builds on the elements that made the first game great while introducing new features and gameplay mechanics.
 
 As a sequel, the game features intense one-hit-kill katana combat mechanics now with block and stamina mechanics, a deeper exploration of the world outside the tower, nonlinear levels with complex motorbike segments, exciting new mode, and interactive boss fights. The sequel also places a stronger emphasis on storytelling and character interactions.

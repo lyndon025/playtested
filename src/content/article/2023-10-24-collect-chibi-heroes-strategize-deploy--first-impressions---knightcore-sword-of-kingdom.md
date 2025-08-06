@@ -8,13 +8,16 @@ description: 'Knightcore: Sword of Kingdom revolves around the players'' role as
 featured: false
 pubDate: 2023-10-24
 tags:
+- action
+- adventure
+- knightcore-sword-of-kingdom
+- pc
 - taptap
-- ナイトコアキングダムf
 thumb: ''
 title: 'Collect chibi heroes, strategize, deploy | First Impressions - Knightcore:
   Sword of Kingdom'
+game: 'Knightcore: Sword of Kingdom'
 ---
-
 Knightcore: Sword of Kingdom revolves around the players' role as Lords tasked with leading their chibi looking Heroes and Legions to restore Camelot, which is ravaged by the Time Holes that players will need to close.  It recently launched globally last October 20, 2023.
 
 The story indeed sets the stage for epic battles and strategic conquests, but honestly it’s not that interesting. I find myself not caring about the story especially that the presentation is underwhelming, from the pretty static visuals to the text-based dialogue without voice acting, its likely that you’ll skip these long and drawn out cutscenes to get right into the action.

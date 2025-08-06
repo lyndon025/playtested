@@ -1,32 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Rainbow Six Mobile
+description: lyndonguitar Download From the highly popular Rainbow Six franchise,
+  Rainbow Six Mobile is a free-to-play competitive, multiplayer first-person shooter
+  experience tailor made for mobile phones, which has now been soft launched in a
+  limited capacity.  It is now available in Canada for both iOS and Android, while
+  the Soft Launch for other countries will go live starting with Mexico on September
+  4, with more coming next month.
 featured: false
 pubDate: 2023-08-31
 tags:
+- pc
+- soft-launch-review-rainbow-six-mobile
 - taptap
-- rainbow-six-mobile
+- web
 thumb: /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-0.avif
 title: A much needed fresh take on the mobile FPS market | Soft Launch Review - Rainbow
   Six Mobile
+game: Soft Launch Review - Rainbow Six Mobile
+gallery:
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-0.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-1.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-2.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-3.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-4.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-5.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-6.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-7.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-8.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-9.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-10.avif
+- /images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-11.avif" alt="screenshot" />
-</div>
-
 Rainbow Six Mobile
 
 lyndonguitar

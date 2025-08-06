@@ -1,30 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Cats & Soup : Magic Recipe'
+description: 'lyndonguitar Download Cats & Soup: Magic Recipe is a recently soft-launched
+  mobile game that blends ‘merge’ gameplay mechanics with the art of cooking, creating
+  a unique and enchanting gaming experience. It is a follow-up to the similarly titled
+  relaxing game Cats & Soup, made by the same developers Hidea.'
 featured: false
 pubDate: 2023-08-23
 tags:
+- adventure
+- cats-soup-magic-recipe
+- console
+- indie
+- macos
+- pc
+- platformer
+- playstation
+- playstation 4
 - taptap
-- cats-&-soup-:-magic-recipe
 thumb: /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--0.avif
 title: 'Charmingly combines merge mechanics with culinary creativity | Review - Cats
   & Soup : Magic Recipe'
+game: 'Cats & Soup : Magic Recipe'
+gallery:
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--0.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--1.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--2.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--3.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--4.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--5.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--6.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--7.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--8.avif
+- /images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-23-charmingly-combines-merge-mechanics-with-culinary-creativity--review---cats--soup--magic--9.avif" alt="screenshot" />
-</div>
-
 Cats & Soup : Magic Recipe
 
 lyndonguitar

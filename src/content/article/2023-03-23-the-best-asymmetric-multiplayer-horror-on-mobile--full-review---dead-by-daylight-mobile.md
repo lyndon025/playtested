@@ -7,35 +7,36 @@ description: Dead by Daylight Mobile is an asymmetric 4v1 multiplayer survival h
 featured: false
 pubDate: 2023-03-23
 tags:
-- taptap
+- action
 - dead-by-daylight-mobile
+- ios
+- rpg
+- taptap
 thumb: /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-0.avif
 title: The best asymmetric multiplayer horror on mobile | Full Review - Dead by Daylight
   Mobile
+game: Dead by Daylight Mobile
+gallery:
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-0.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-1.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-2.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-3.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-4.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-5.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-6.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-7.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-8.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-9.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-10.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-11.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-12.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-13.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-14.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-15.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-16.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-17.avif
+- /images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-18.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-18.avif" alt="screenshot" />
-</div>
-
 Dead by Daylight Mobile is an asymmetric 4v1 multiplayer survival horror game where a team of four players must cooperate with each other in order to escape a killer hunting them.
 
 

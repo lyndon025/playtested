@@ -10,27 +10,31 @@ description: There are a lot of ARPGs out there already, but what makes Superfus
 featured: false
 pubDate: 2023-02-02
 tags:
+- action
+- adventure
+- casual
+- indie
+- pc
+- rpg
+- superfuse-full-early-access
 - taptap
-- superfuse
 thumb: /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif
 title: What if comic-books and Diablo had a baby | Superfuse - Full Early Access Review
+game: Superfuse - Full Early Access
+gallery:
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-1.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-2.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-3.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-4.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-5.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-6.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-7.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-8.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-9.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-10.avif
+- /images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-11.avif" alt="screenshot" />
-</div>
-
 There are a lot of ARPGs out there already, but what makes Superfuse unique is its cell-shaded comic-book art-style. It’s not just cell shaded graphics, because even the effects and texts are comic-book inspired. This is something that even Marvel and DC games have failed to utilize and capitalize on, considering they are comic-book franchises. Superfuse combines cell-shaded comic-book art style, looter elements, with some action packed hack ’n slash mechanics.
 
 

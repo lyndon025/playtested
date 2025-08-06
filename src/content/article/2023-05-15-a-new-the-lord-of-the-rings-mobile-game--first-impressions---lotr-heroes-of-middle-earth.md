@@ -1,28 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'The Lord of the Rings: Heroes'
+description: 'The Lord of the Rings: Heroes 7.7 RPG Fantasy Download'
 featured: false
 pubDate: 2023-05-15
 tags:
+- adventure
+- android
+- ios
+- lotr-heroes-of-middle-earth
+- rpg
 - taptap
-- the-lord-of-the-rings:-heroes
 thumb: /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-0.avif
 title: A new The Lord of the Rings mobile game! | First Impressions - LOTR Heroes
   of Middle Earth
+game: 'LotR: Heroes of Middle-earth'
+gallery:
+- /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-0.avif
+- /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-1.avif
+- /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-2.avif
+- /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-3.avif
+- /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-4.avif
+- /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-5.avif
+- /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-6.avif
+- /images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-7.avif" alt="screenshot" />
-</div>
-
 The Lord of the Rings: Heroes
 7.7
 RPG

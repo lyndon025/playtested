@@ -1,26 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: Welcome to ParadiZe
+description: Welcome to ParadiZe 5.9 Zombies Survival PS Version
 featured: false
 pubDate: 2024-01-31
 score: 8.0
 tags:
+- pc
+- review-welcome-to-paradize
+- rpg
 - taptap
-- how-to-survive
 thumb: /images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-0.avif
 title: A top-down view Palworld but with Zombies | Demo Review - Welcome to ParadiZe
+game: Review - Welcome to ParadiZe
+gallery:
+- /images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-0.avif
+- /images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-1.avif
+- /images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-2.avif
+- /images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-3.avif
+- /images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-4.avif
+- /images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-31-a-top-down-view-palworld-but-with-zombies--demo-review---welcome-to-paradize-5.avif" alt="screenshot" />
-</div>
-
 Welcome to ParadiZe
 5.9
 Zombies

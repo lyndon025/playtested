@@ -9,24 +9,25 @@ description: Company of Heroes 3 sets players in the midst of World War II as th
 featured: false
 pubDate: 2023-03-07
 tags:
+- action
+- company-of-heroes-3
+- pc
+- strategy
 - taptap
-- company-of-heroes-3-(pc)
 thumb: /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-0.avif
 title: One of the best WW2 RTS series is back | First Impressions - Company of Heroes
   3
+game: Company of Heroes 3
+gallery:
+- /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-0.avif
+- /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-1.avif
+- /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-2.avif
+- /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-3.avif
+- /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-4.avif
+- /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-5.avif
+- /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-6.avif
+- /images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-07-one-of-the-best-ww2-rts-series-is-back--first-impressions---company-of-heroes-3-7.avif" alt="screenshot" />
-</div>
-
 Company of Heroes 3 sets players in the midst of World War II as they take command of their armies and engage in tactical battles against player and/or AI controlled enemies. While the game's multiplayer and skirmish modes are a major draw for many players, the single-player experience is equally engaging and worth playing.
 
 Company of Heroes 3’s two main campaigns take players through a series of historical battles, with each mission providing unique challenges and objectives like capturing, rescuing, defending, or halting enemies. The campaigns are set in Italy, following the Allied Forces as they push through the country, facing off against the Axis Powers at every turn; and in North Africa, at the perspective of Germans fighting the British Army.

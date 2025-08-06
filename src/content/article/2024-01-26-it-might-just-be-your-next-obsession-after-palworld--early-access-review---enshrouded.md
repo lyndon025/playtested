@@ -1,28 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Enshrouded
+description: ✨Overview Enshrouded drops you into a mix of survival, crafting, and
+  RPG action in a voxel wonderland. As the Flameborn, you're the last flicker of hope
+  in a world desperate for it. You scavenge through fallen kingdoms, build stuff,
+  and battle your way through natural and supernatural critters. All this to gather
+  enough strength to face the horrors hiding in the Shroud, a misty nightmare covering
+  the land and thus making it “Enshrouded”.
 featured: false
 pubDate: 2024-01-26
 score: 8.0
 tags:
+- action
+- early-access-review-enshrouded
+- ios
+- strategy
 - taptap
-- valheim-(pc)
 thumb: /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-0.avif
 title: It might just be your next obsession after Palworld | Early Access Review -
   Enshrouded
+game: Early Access Review - Enshrouded
+gallery:
+- /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-0.avif
+- /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-1.avif
+- /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-2.avif
+- /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-3.avif
+- /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-4.avif
+- /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-5.avif
+- /images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-6.avif" alt="screenshot" />
-</div>
-
 Enshrouded
 9.8
 Action

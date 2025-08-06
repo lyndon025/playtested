@@ -1,27 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Starship Troopers: Extermination'
+description: 'Starship Troopers: Extermination is a 16 player co-op FPS for PC that
+  has just recently been released in early access. Players can experience the thrill
+  of battling hordes of bugs alongside fellow troopers.'
 featured: false
 pubDate: 2023-05-21
 tags:
+- action
+- indie
+- pc
+- starship-troopers-extermination
 - taptap
-- starship-troopers:-extermination
 thumb: /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-0.avif
 title: 'Would you like to know more? | Early Access Impressions - Starship Troopers:
   Extermination'
+game: 'Starship Troopers: Extermination'
+gallery:
+- /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-0.avif
+- /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-1.avif
+- /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-2.avif
+- /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-3.avif
+- /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-4.avif
+- /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-5.avif
+- /images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-21-would-you-like-to-know-more--early-access-impressions---starship-troopers-extermination-6.avif" alt="screenshot" />
-</div>
-
 Starship Troopers: Extermination
 9.6
 

@@ -10,21 +10,22 @@ description: Have you ever wondered how it is like on the other side? On the sid
 featured: false
 pubDate: 2023-04-06
 tags:
+- adventure
+- ios
+- simulation
 - taptap
-- craft-&-trade
+- the-last-shop-craft-trade
 thumb: /images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif
 title: Unleash your inner merchant | First Impressions - The Last Shop - Craft & Trade
+game: The Last Shop - Craft & Trade
+gallery:
+- /images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif
+- /images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-1.avif
+- /images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-2.avif
+- /images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-3.avif
+- /images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-4.avif
+- /images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-5.avif" alt="screenshot" />
-</div>
-
 Have you ever wondered how it is like on the other side? On the side of the merchant selling goods to heroes and adventurers? The Last Shop - Craft & Trade will exactly let you experience being one. Build a store, receive raw materials, commission goods like weapons and armor to display at your shop. Heroes and adventurers will flock to your store looking for valuable goods to purchase, and it’s up to the player to sell and earn money.
 
 The gameplay of The Last Shop - Craft & Trade banks heavily on the addictive nature of earning money, and so far it works so well. This is done by continually selling goods to adventurers in an ever increasing cycle of crafting increasingly better items, in turn selling for more and more money.

@@ -9,13 +9,24 @@ description: Shovel Knight Pocket Dungeon is an engaging and addictive roguelike
 featured: false
 pubDate: 2023-06-11
 tags:
-- taptap
+- action
+- adventure
+- console
+- indie
+- macos
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- puzzle
 - shovel-knight-pocket-dungeon
+- taptap
+- xbox one
 thumb: ''
 title: Dungeon crawler mixed w/ Tetris and Candy Crush? | First Impressions - Shovel
   Knight Pocket Dungeon
+game: Shovel Knight Pocket Dungeon
 ---
-
 Shovel Knight Pocket Dungeon is an engaging and addictive roguelike dungeon crawler puzzle available on Switch, PC, and with a Netflix exclusive port for Android and iOS. It draws inspiration from retro-style 2D platformers of the 8-bit and 16-bit eras. With its pixelated art style and charming graphics, the game pays homage to classic video games.
 
 The core gameplay of Shovel Knight Pocket Dungeon combines elements of three-match puzzle mechanics and Tetris style falling blocks, with dungeon crawling, resulting in a unique puzzle RPG experience. Players take control of Shovel Knight or nine other playable characters with their own abilities, navigating them on an 8x8 grid where they can move up, down, left or right. As enemies and blocks descend from above and fill the grid, players must strategically move and attack to clear them. Failure to defeat an enemy results in the player receiving damage equivalent to the enemy's offensive strength. Movement by one unit instantly drops the blocks downward, while choosing not to move causes the blocks to descend slowly.

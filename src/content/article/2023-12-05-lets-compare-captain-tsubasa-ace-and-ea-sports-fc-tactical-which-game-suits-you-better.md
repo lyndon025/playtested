@@ -1,26 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'CAPTAIN TSUBASA: ACEGlobal'
+description: EA SPORTS FC™ TacticalGlobal 7.7 Sports Turn-Based Tactics Pre-register
 featured: false
 pubDate: 2023-12-05
 tags:
+- ace-and-ea-sports-fc-tactical-which-game-suits-you-better
+- casual
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- simulation
+- sports
 - taptap
-- captain-tsubasa:-ace
+- xbox series
 thumb: /images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-0.avif
 title: 'Let''s compare CAPTAIN TSUBASA: ACE and EA SPORTS FC Tactical, which game
   suits you better?'
+game: ACE and EA SPORTS FC Tactical, which game suits you better?
+gallery:
+- /images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-0.avif
+- /images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-1.avif
+- /images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-2.avif
+- /images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-3.avif
+- /images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-4.avif
+- /images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-lets-compare-captain-tsubasa-ace-and-ea-sports-fc-tactical-which-game-suits-you-better-5.avif" alt="screenshot" />
-</div>
-
 CAPTAIN TSUBASA: ACEGlobal
 9.0
 Sports

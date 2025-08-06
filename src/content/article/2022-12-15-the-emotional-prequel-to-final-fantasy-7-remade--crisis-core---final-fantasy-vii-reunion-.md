@@ -9,24 +9,33 @@ description: Almost every classic title nowadays is getting the remastered or re
 featured: false
 pubDate: 2022-12-15
 tags:
+- action
+- adventure
+- console
+- crisis-core-final-fantasy-vii-reunion
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
 - taptap
-- crisis-core-–final-fantasy-vii–-reunion
+- xbox one
+- xbox series
 thumb: /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--0.avif
 title: The emotional prequel to Final Fantasy 7, remade | Crisis Core - FINAL FANTASY
   VII– REUNION - Review
+game: 'Crisis Core: Final Fantasy VII Reunion'
+gallery:
+- /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--0.avif
+- /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--1.avif
+- /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--2.avif
+- /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--3.avif
+- /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--4.avif
+- /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--5.avif
+- /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--6.avif
+- /images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-15-the-emotional-prequel-to-final-fantasy-7-remade--crisis-core---final-fantasy-vii-reunion--7.avif" alt="screenshot" />
-</div>
-
 Almost every classic title nowadays is getting the remastered or remake treatment, and PSP’s 2007 title CRISIS CORE –FINAL FANTASY VII is no exception. With the release of Crisis Core - FINAL FANTASY VII– REUNION, we get a sort of a hybrid between a remaster and a remake, now available for PC, Xbox, Playstation, and the Nintendo Switch.
 
 Crisis Core - FINAL FANTASY VII– REUNION, or REUNION for short, brings in overhauled graphics and a more action-oriented gameplay. Bringing the 2007 classic much more in-line with the recent Final Fantasy VII Remake.

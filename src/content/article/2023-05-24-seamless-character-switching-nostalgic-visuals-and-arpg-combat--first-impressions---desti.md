@@ -1,26 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Destiny Saga
+description: Destiny Saga is a mash-up of retro-style goodness, JRPG art style, ARPG
+  gameplay, and modern gacha and RPG elements. Players can collect heroes, upgrade
+  and equip them with gear, and engage in ARPG combat, all while being driven by a
+  compelling narrative story.
 featured: false
 pubDate: 2023-05-24
 tags:
-- taptap
+- action
+- adventure
 - destiny-saga
+- ios
+- taptap
 thumb: /images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-0.avif
 title: Seamless character switching, nostalgic visuals, and ARPG combat | First Impressions
   - Destiny Saga
+game: Destiny Saga
+gallery:
+- /images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-0.avif
+- /images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-1.avif
+- /images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-2.avif
+- /images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-3.avif
+- /images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-4.avif
+- /images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-24-seamless-character-switching-nostalgic-visuals-and-arpg-combat--first-impressions---desti-5.avif" alt="screenshot" />
-</div>
-
 Destiny Saga
 5.2
 Editors' Choice

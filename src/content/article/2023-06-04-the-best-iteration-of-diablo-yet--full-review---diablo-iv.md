@@ -1,33 +1,42 @@
 ---
 author: lyndonguitar
 category: Review
-description: Diablo® IV
+description: Diablo® IV Diablo IV is the upcoming installment in the popular action
+  role-playing game series developed by Blizzard Entertainment. The game is set to
+  release for PC, PlayStation, and Xbox on June 6, 2023.
 featured: false
 pubDate: 2023-06-04
 tags:
+- action
+- console
+- diablo-iv
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
 - taptap
-- diablo®-iv
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif
 title: The best iteration of Diablo yet | Full Review - Diablo IV
+game: Diablo IV
+gallery:
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-1.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-2.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-3.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-4.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-5.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-6.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-7.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-8.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-9.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-10.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-11.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-12.avif
+- /images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-13.avif" alt="screenshot" />
-</div>
-
 Diablo® IV
 Diablo IV is the upcoming installment in the popular action role-playing game series developed by Blizzard Entertainment. The game is set to release for PC, PlayStation, and Xbox on June 6, 2023.
 

@@ -1,27 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Assassin's Creed Mirage
+description: Assassin's Creed Mirage takes players on a journey to 9th-century Baghdad
+  during the anarchy at Samarra, delivering a fresh installment in the long-running
+  Assassin's Creed series. Developed and published by Ubisoft, this thirteenth major
+  release in the series follows in the footsteps of its predecessor, Assassin's Creed
+  Valhalla.
 featured: false
 pubDate: 2023-10-12
 score: 7.0
 tags:
+- action
+- assassin-s-creed-mirage
+- console
+- ios
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - taptap
-- assassin's-creed®-unity
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-0.avif
 title: Stealth is back, but does it return to its roots? | Review - Assassin's Creed
   Mirage
+game: Assassin's Creed Mirage
+gallery:
+- /images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-0.avif
+- /images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-1.avif
+- /images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-2.avif
+- /images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-3.avif
+- /images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-4.avif
+- /images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-stealth-is-back-but-does-it-return-to-its-roots--review---assassins-creed-mirage-5.avif" alt="screenshot" />
-</div>
-
 Assassin's Creed Mirage
 8.4
 Action

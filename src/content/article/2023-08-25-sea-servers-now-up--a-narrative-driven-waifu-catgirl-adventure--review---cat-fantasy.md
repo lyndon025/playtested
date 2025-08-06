@@ -1,29 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cat Fantasy:PHSEA
+description: Cat Fantasy has recently rolled out a series of updates to keep players
+  engaged. More specifically, Cat Fantasy has extended its reach by launching a dedicated
+  server for Southeast Asian players. This means that gamers in Singapore, Malaysia,
+  Indonesia, Vietnam, Thailand, and the Philippines can now enjoy these brand new
+  servers. This change was rolled out last October 27.
 featured: false
 pubDate: 2023-08-25
 tags:
+- adventure
+- casual
+- cat-fantasy
+- indie
+- pc
 - taptap
-- cat-fantasy:ph
 thumb: /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-0.avif
 title: SEA servers now up! | A narrative-driven waifu catgirl adventure | Review -
   Cat Fantasy
+game: Cat Fantasy
+gallery:
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-0.avif
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-1.avif
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-2.avif
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-3.avif
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-4.avif
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-5.avif
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-6.avif
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-7.avif
+- /images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-8.avif" alt="screenshot" />
-</div>
-
 Cat Fantasy:PHSEA
 --
 Strategy

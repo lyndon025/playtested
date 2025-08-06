@@ -1,33 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Heaven Dust 2
+description: Heaven Dust 2 8.3 Action RPG Story Rich
 featured: false
 pubDate: 2023-12-22
 score: 8.0
 tags:
+- action
+- adventure
+- indie
+- pc
+- pc-mobile-cloud-heaven-dust-2
+- rpg
 - taptap
-- resident-evil
 thumb: /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--0.avif
 title: This chibi Resident Evil gets an impressive good-looking sequel | PC+Mobile
   (Cloud) - Heaven Dust 2
+game: PC+Mobile (Cloud) - Heaven Dust 2
+gallery:
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--0.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--1.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--2.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--3.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--4.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--5.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--6.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--7.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--8.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--9.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--10.avif
+- /images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--11.avif" alt="screenshot" />
-</div>
-
 Heaven Dust 2
 8.3
 Action RPG

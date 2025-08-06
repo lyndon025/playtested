@@ -9,23 +9,23 @@ description: 'Road 96: Mile 0 is actually the prequel to the critically acclaime
 featured: false
 pubDate: 2023-04-06
 tags:
+- adventure
+- pc
+- road-96-mile-0
 - taptap
-- road-96:-mile-0
 thumb: /images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-0.avif
 title: 'Be political in this fun musical-infused adventure game | First Impressions
   - Road 96: Mile 0'
+game: 'Road 96: Mile 0'
+gallery:
+- /images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-0.avif
+- /images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-1.avif
+- /images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-2.avif
+- /images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-3.avif
+- /images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-4.avif
+- /images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-5.avif
+- /images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-06-be-political-in-this-fun-musical-infused-adventure-game--first-impressions---road-96-mile-6.avif" alt="screenshot" />
-</div>
-
 Road 96: Mile 0 is actually the prequel to the critically acclaimed game Road 96, bearing the same first-person adventure gameplay, emphasizing narrative choices, consequences to actions, and social commentary. However, the gameplay setup is very much different from each other, especially with Road 96: Mile 0’s focus on a more fixed narrative, coupled with musical and rhythm themes.
 
 I have been eyeing the first game; Road 96, for a while now. As such, I played it first before diving down to Road 96: Mile 0, and both games have been such amazing but way differing experiences. To compare, the gameplay of Road 96: Mile 0 is much more non-procedural and linear, with less survival aspects. But with added rhythm and mini-game elements.

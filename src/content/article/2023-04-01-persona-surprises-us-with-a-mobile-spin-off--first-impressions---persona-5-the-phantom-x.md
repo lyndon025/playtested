@@ -11,24 +11,26 @@ description: 'Persona 5: The Phantom X is a role-playing game with turn-based co
 featured: false
 pubDate: 2023-04-01
 tags:
+- android
+- ios
+- pc
+- persona-5-the-phantom-x
+- rpg
 - taptap
-- persona-5:-the-phantom-x
 thumb: /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-0.avif
 title: 'Persona surprises us with a Mobile spin-off | First Impressions - Persona
   5: The Phantom X'
+game: 'Persona 5: The Phantom X'
+gallery:
+- /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-0.avif
+- /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-1.avif
+- /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-2.avif
+- /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-3.avif
+- /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-4.avif
+- /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-5.avif
+- /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-6.avif
+- /images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-persona-surprises-us-with-a-mobile-spin-off--first-impressions---persona-5-the-phantom-x-7.avif" alt="screenshot" />
-</div>
-
 Persona 5: The Phantom X is a role-playing game with turn-based combat, slice of life elements, and an anime-inspired art style. A mobile spin-off of the mainline game Persona 5, it takes us back to Japan and reintroduces us to the Phantom Thieves with a brand new protagonist and fresh roster of characters. It is catered more to the mobile platform market — a first in the series, and is now currently in beta (Android) available for China. A PC version is also available for testing, it is a full-on game client and not an emulated Android version.
 
 For those unfamiliar with the series, The gameplay setup of Persona 5: The Phantom X or the Persona game series as a whole centers on the main protagonist and his group of friends being "Persona" users – individuals granted the ability to summon "Persona beings" with special powers.

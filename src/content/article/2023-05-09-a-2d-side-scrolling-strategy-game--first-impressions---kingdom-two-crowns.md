@@ -1,25 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Kingdom Two Crowns+
+description: Kingdom Two Crowns+ 9.5 Strategy Side Scroller Get
 featured: false
 pubDate: 2023-05-09
 tags:
+- adventure
+- android
+- console
+- indie
+- ios
+- kingdom-two-crowns
+- macos
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
+- simulation
+- strategy
 - taptap
-- kingdom-two-crowns+
+- xbox one
 thumb: /images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif
 title: A 2D side scrolling strategy game? | First Impressions - Kingdom Two Crowns+
+game: 'Kingdom: Two Crowns'
+gallery:
+- /images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif
+- /images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-1.avif
+- /images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-2.avif
+- /images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-3.avif
+- /images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-4.avif
+- /images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-5.avif" alt="screenshot" />
-</div>
-
 Kingdom Two Crowns+
 9.5
 Strategy

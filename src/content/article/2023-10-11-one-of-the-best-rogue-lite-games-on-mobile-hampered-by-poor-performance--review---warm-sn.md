@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Warm Snow
+description: Warm Snow is an exhilarating take on the action roguelike genre that
+  draws comparisons to Hades due to its fast-paced combat and diverse build options.
+  The game was recently made available on Android and iOS after a successful release
+  on Steam last year, receiving critical acclaim.
 featured: false
 pubDate: 2023-10-11
 tags:
+- action
+- adventure
+- indie
+- pc
+- rpg
 - taptap
-- hades-ii
+- warm-snow
 thumb: /images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-0.avif
 title: One of the best rogue-lite games on mobile, hampered by poor performance |
   Review - Warm Snow
+game: Warm Snow
+gallery:
+- /images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-0.avif
+- /images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-1.avif
+- /images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-2.avif
+- /images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-3.avif
+- /images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-4.avif
+- /images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-one-of-the-best-rogue-lite-games-on-mobile-hampered-by-poor-performance--review---warm-sn-5.avif" alt="screenshot" />
-</div>
-
 Warm Snow
 8.9
 Roguelite

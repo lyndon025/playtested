@@ -1,26 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: PAYDAY 3
+description: PAYDAY 3 PAYDAY 3 is an upcoming first-person shooter game developed
+  by Starbreeze Studios and published by Deep Silver. It is the third installment
+  in the popular coop game series PAYDAY. The game is set to be released on September
+  21, 2023, with a 3-day Early Access period for those who purchase the Silver and
+  Gold editions. I had the opportunity to try out the game three days early and see
+  how it holds up.
 featured: false
 pubDate: 2023-09-19
 tags:
-- taptap
+- action
+- adventure
+- console
 - payday-3
+- pc
+- playstation
+- playstation 5
+- rpg
+- shooter
+- taptap
+- xbox series
 thumb: /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-0.avif
 title: A Heist Worth Undertaking? | Full Review - PAYDAY 3
+game: Payday 3
+gallery:
+- /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-0.avif
+- /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-1.avif
+- /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-2.avif
+- /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-3.avif
+- /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-4.avif
+- /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-5.avif
+- /images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-a-heist-worth-undertaking--full-review---payday-3-6.avif" alt="screenshot" />
-</div>
-
 PAYDAY 3
 PAYDAY 3 is an upcoming first-person shooter game developed by Starbreeze Studios and published by Deep Silver. It is the third installment in the popular coop game series PAYDAY. The game is set to be released on September 21, 2023, with a 3-day Early Access period for those who purchase the Silver and Gold editions. I had the opportunity to try out the game three days early and see how it holds up.
 

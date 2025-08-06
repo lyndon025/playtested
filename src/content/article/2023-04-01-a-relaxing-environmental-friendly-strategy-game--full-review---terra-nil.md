@@ -6,29 +6,36 @@ description: Terra Nil is a nature building / reverse city building strategy gam
 featured: false
 pubDate: 2023-04-01
 tags:
+- android
+- casual
+- indie
+- ios
+- linux
+- macos
+- pc
+- simulation
+- strategy
 - taptap
 - terra-nil
 thumb: /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-0.avif
 title: A relaxing environmental friendly strategy game | Full Review - Terra Nil
+game: Terra Nil
+gallery:
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-0.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-1.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-2.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-3.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-4.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-5.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-6.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-7.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-8.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-9.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-10.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-11.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-12.avif
+- /images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-13.avif" alt="screenshot" />
-</div>
-
 Terra Nil is a nature building / reverse city building strategy game developed by Free Lives and released for both Mobile platforms and PC.
 
 

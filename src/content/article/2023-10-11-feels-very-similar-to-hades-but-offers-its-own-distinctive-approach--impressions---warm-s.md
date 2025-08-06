@@ -8,13 +8,18 @@ description: Warm Snow is an action roguelike that manages to strike an impressi
 featured: false
 pubDate: 2023-10-11
 tags:
+- action
+- adventure
+- indie
+- pc
+- rpg
 - taptap
 - warm-snow
 thumb: ''
 title: Feels very similar to Hades, but offers its own distinctive approach | Impressions
   - Warm Snow
+game: Warm Snow
 ---
-
 Warm Snow is an action roguelike that manages to strike an impressive balance between familiarity and innovation. Drawing inevitable comparisons to Hades, it delivers a fast-paced gaming experience that's both addictively entertaining and uniquely its own.
 
 Warm Snow distinguishes itself with agile, fluid, and satisfying combat. The flashy and visceral visual effects are amazing and fits perfectly with the game's action-packed tone. Players can experiment and swap found items called relics between four different slots, altering their function. Clear rooms, combat different types of enemies, and kill the boss to end the chapter. Next chapter, rinse and repeat. If you die, back from the start.

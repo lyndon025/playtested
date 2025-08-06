@@ -8,13 +8,20 @@ description: Bright Reappear is an intriguing fusion of the popular Candy Crush 
 featured: false
 pubDate: 2023-06-26
 tags:
-- taptap
+- action
+- adventure
 - bright-reappear
+- console
+- indie
+- pc
+- taptap
+- xbox one
+- xbox series
 thumb: ''
 title: Use the power of candy crush matching to combat monsters| First Impressions
   - Bright Reappear
+game: Bright Reappear
 ---
-
 Bright Reappear is an intriguing fusion of the popular Candy Crush match-three puzzle system and retro-style turn-based RPG gameplay. While these both addicting genres have rarely been combined in the past, this game brings its own unique twists to the table.
 
 Bright Reappear features six playable hero characters, with two heroes: “Warrior” and “Thieves”' already unlocked from the start. Each of them have their own distinct talents and skills that are affected by the match-three combat style system. I was able to play the demo version before, and this game is mostly the same with minor changes, only now with complete 12 chapters divided into levels and featuring up to 50 different enemies and bosses..

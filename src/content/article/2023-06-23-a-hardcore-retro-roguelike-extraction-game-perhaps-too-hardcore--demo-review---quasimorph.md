@@ -1,30 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Quasimorphosis
+description: Quasimorph is a mix of classic turn-based roguelike RPG with an extraction
+  twist, where the player's progress and acquired loot depend on their survival in
+  missions.
 featured: false
 pubDate: 2023-06-23
 tags:
+- casual
+- indie
+- pc
+- racing
+- review-quasimorph
 - taptap
-- quasimorphosis
 thumb: /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-0.avif
 title: A Hardcore retro roguelike extraction game, perhaps too hardcore | Demo Review
   - Quasimorph
+game: Review - Quasimorph
+gallery:
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-0.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-1.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-2.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-3.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-4.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-5.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-6.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-7.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-8.avif
+- /images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-9.avif" alt="screenshot" />
-</div>
-
 Quasimorphosis
 
 lyndonguitar

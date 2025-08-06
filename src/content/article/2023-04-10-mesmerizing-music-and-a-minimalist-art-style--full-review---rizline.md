@@ -6,25 +6,24 @@ description: Rizline is a casual mobile rhythm game with anime-inspired music an
 featured: false
 pubDate: 2023-04-10
 tags:
-- taptap
+- ios
 - rizline
+- taptap
 thumb: /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-0.avif
 title: Mesmerizing music and a minimalist art style | Full Review - Rizline
+game: Rizline
+gallery:
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-0.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-2.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-3.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-4.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-5.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-6.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-7.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-8.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-9.avif
+- /images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-10-mesmerizing-music-and-a-minimalist-art-style--full-review---rizline-10.avif" alt="screenshot" />
-</div>
-
 Rizline is a casual mobile rhythm game with anime-inspired music and a minimalist art style focused on simplistic lines and shapes.
 
 

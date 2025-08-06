@@ -2,19 +2,22 @@
 author: lyndonguitar
 category: Review
 description: 'Blade of God II: Orisols is a dark fantasy ARPG game that is often described
-  as ''Dark Souls'' inspired or a Souls-like experience, but this couldn''t be further
+  as "Dark Souls" inspired or a Souls-like experience, but this couldn''t be further
   from the truth. The only commonalities it shares are a third-person perspective
   and the ability to dodge attacks.'
 featured: false
 pubDate: 2023-10-31
 tags:
+- action
+- blade-of-god-ii-orisols
+- pc
+- rpg
 - taptap
-- blade-of-god-x:-orisols
 thumb: ''
 title: 'Sacrifice or Redeem these corrupted heroes | Impressions - Blade of God II:
   Orisols'
+game: 'Blade of God II: Orisols'
 ---
-
 Blade of God II: Orisols is a dark fantasy ARPG game that is often described as "Dark Souls" inspired or a Souls-like experience, but this couldn't be further from the truth. The only commonalities it shares are a third-person perspective and the ability to dodge attacks.
 
 In reality, the overall combat experience feels more like a mobile ARPG, featuring high mobility and visually striking, flashy movesets. It also doesn't feel like its predecessor, which was more of a God of War-esque game.

@@ -6,13 +6,18 @@ description: As a new intern at Roto Force, you’ll go on missions through the 
 featured: false
 pubDate: 2023-07-17
 tags:
-- taptap
+- action
+- indie
+- linux
+- macos
+- pc
 - roto-force
+- taptap
 thumb: ''
 title: Retro aesthetic, twin shooters, and inverted worlds | First Impressions - Roto
   Force
+game: Roto Force
 ---
-
 As a new intern at Roto Force, you’ll go on missions through the game’s variety of worlds and environments, battling different kinds of enemies and bosses.
 
 Roto Force's gameplay mechanics set it apart from other twin-stick shooters. Instead of freely moving around levels, you move around an inverted planet-like environment, reminiscent of a hamster on a wheel, and you must constantly maneuver to avoid enemies spawning at the center. It's a refreshing twist that keeps the action literally centered on the screen.

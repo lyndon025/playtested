@@ -7,29 +7,30 @@ description: 'PAYDAY: Crime War is an upcoming Mobile first-person shooter game 
 featured: false
 pubDate: 2023-02-27
 tags:
+- action
+- ios
+- payday-crime-war
+- rpg
 - taptap
-- payday:-crime-war
 thumb: /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-0.avif
 title: 'PAYDAY Mobile is now a PvE experience | Full Review - PAYDAY: Crime War'
+game: 'PAYDAY: Crime War'
+gallery:
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-0.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-1.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-2.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-3.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-4.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-5.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-6.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-7.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-8.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-9.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-10.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-11.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-12.avif
+- /images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-payday-mobile-is-now-a-pve-experience--full-review---payday-crime-war-13.avif" alt="screenshot" />
-</div>
-
 PAYDAY: Crime War is an upcoming Mobile first-person shooter game that allows players to plan and execute high-stakes heists in a cooperative multiplayer setting.
 
 

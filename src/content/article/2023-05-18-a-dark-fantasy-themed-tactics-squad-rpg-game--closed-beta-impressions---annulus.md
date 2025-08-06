@@ -1,27 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Eldritch Cycle
+description: ANNULUS is a turn-based tactics game that takes place in medieval times,
+  specifically in Europe during the age of chivalry, but with dark Cthulhu undertones
+  that permeate the narrative and atmosphere.
 featured: false
 pubDate: 2023-05-18
 tags:
+- adventure
+- closed-beta-impressions-annulus
+- pc
 - taptap
-- annulus
 thumb: /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif
 title: A dark fantasy-themed tactics squad RPG game | Closed Beta Impressions - ANNULUS
+game: Closed Beta Impressions - ANNULUS
+gallery:
+- /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif
+- /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-1.avif
+- /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-2.avif
+- /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-3.avif
+- /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-4.avif
+- /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-5.avif
+- /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-6.avif
+- /images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-7.avif" alt="screenshot" />
-</div>
-
 Eldritch Cycle
 8.4
 Cthulhu

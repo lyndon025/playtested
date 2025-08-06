@@ -7,33 +7,34 @@ description: N-INNOCENCE is an upcoming brawler RPG game set in a fantasy world 
 featured: false
 pubDate: 2023-03-06
 tags:
+- action
+- n-innocence
+- playstation 2
+- playstation 3
 - taptap
-- n-innocence-
 thumb: /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif
 title: A slick mobile RPG fighting game! | Full Review - N-INNOCENCE
+game: N-INNOCENCE
+gallery:
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-1.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-2.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-3.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-4.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-5.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-6.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-7.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-8.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-9.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-10.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-11.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-12.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-13.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-14.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-15.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-16.avif
+- /images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-17.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-17.avif" alt="screenshot" />
-</div>
-
 N-INNOCENCE is an upcoming brawler RPG game set in a fantasy world full of familiar heroes and legends. An English version is currently out now at a limited capacity, for North American Regions only on both Android and iOS.
 
 

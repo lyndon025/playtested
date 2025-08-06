@@ -1,29 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Burst Space
+description: Burst Space is a retro-style Roguelite top down shooter that puts players
+  into a pixelated sci-fi universe inhabited by a cast of endearing warrior waifu
+  girls known as Einherjar, the game promises an engaging blend of accessible gameplay
+  and strategic depth with its roguelite gameplay and progression system.
 featured: false
 pubDate: 2023-08-16
 tags:
+- burst
+- casual
+- indie
+- pc
 - taptap
-- burst-space
 thumb: /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-0.avif
 title: F2P model and technical issues aside, this Roguelite Waifu game is fun | Full
   Review - Burst Space
+game: Burst
+gallery:
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-0.avif
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-1.avif
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-2.avif
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-3.avif
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-4.avif
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-5.avif
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-6.avif
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-7.avif
+- /images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-16-f2p-model-and-technical-issues-aside-this-roguelite-waifu-game-is-fun--full-review---burs-8.avif" alt="screenshot" />
-</div>
-
 Burst Space
 
 lyndonguitar

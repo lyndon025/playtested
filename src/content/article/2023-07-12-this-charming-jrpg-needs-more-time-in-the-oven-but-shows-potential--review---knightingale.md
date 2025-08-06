@@ -1,33 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Knightingale
+description: lyndonguitar Knightingale is an upcoming HD-2D RPG game with an adventurous
+  story, engaging turn-based combat, and traditional gacha mechanics.
 featured: false
 pubDate: 2023-07-12
 tags:
-- taptap
+- action
+- adventure
 - knightingale
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-0.avif
 title: This charming JRPG needs more time in the oven, but shows potential | Review
   - Knightingale
+game: Knightingale
+gallery:
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-0.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-1.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-2.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-3.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-4.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-5.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-6.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-7.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-8.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-9.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-10.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-11.avif
+- /images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-12.avif" alt="screenshot" />
-</div>
-
 Knightingale
 
 lyndonguitar

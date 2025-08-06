@@ -1,26 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: BROK the InvestiGator
+description: ✨Overview BROK the InvestiGator offers a unique blend of classic style
+  adventure, beat 'em up, and RPG elements set in a futuristic world where animals
+  have replaced humans. As Brok, an anthropomorphic alligator private detective and
+  former boxer, players are placed in a "light cyberpunk" setting, balancing life
+  under a protective dome with the struggles of the outside world.
 featured: false
 pubDate: 2024-02-23
 score: 8.0
 tags:
-- taptap
+- action
+- adventure
 - brok-the-investigator
+- indie
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-0.avif
 title: Accessible, innovative, and most importantly, fun | Review - BROK the InvestiGator
+game: BROK The InvestiGator
+gallery:
+- /images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-0.avif
+- /images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-1.avif
+- /images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-2.avif
+- /images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-3.avif
+- /images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-4.avif
+- /images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-23-accessible-innovative-and-most-importantly-fun--review---brok-the-investigator-5.avif" alt="screenshot" />
-</div>
-
 BROK the InvestiGator
 8.7
 Action

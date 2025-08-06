@@ -1,29 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: WHAT THE CAR?
+description: WHAT THE CAR? Is an absurd “racing” game featuring an ever evolving race
+  car that is just about everything you could think of except being an actual car.
 featured: false
 pubDate: 2023-05-09
 tags:
+- action
+- adventure
+- casual
+- indie
+- ios
+- macos
+- pc
+- racing
 - taptap
-- what-the-car?
+- what-the-car
 thumb: /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif
 title: Fun, Funny, and Goofy | Full Review - WHAT THE CAR?
+game: WHAT THE CAR?
+gallery:
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-1.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-2.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-3.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-4.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-5.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-6.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-7.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-8.avif
+- /images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-9.avif" alt="screenshot" />
-</div>
-
 WHAT THE CAR?
 Gameplay
 

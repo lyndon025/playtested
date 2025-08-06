@@ -13,34 +13,41 @@ featured: true
 pubDate: 2023-08-08
 score: 10
 tags:
+- adventure
+- baldur-s-gate-3
+- console
+- macos
+- pc
+- playstation
+- playstation 5
+- rpg
+- strategy
 - taptap
-- Baldurs Gate 3
+- xbox series
 thumb: /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-0.avif
 title: The quintessential cRPG and Dungeons & Dragons game | Full Review - Baldur's
   Gate 3
+game: Baldur's Gate 3
+gallery:
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-0.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-1.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-2.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-3.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-4.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-5.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-6.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-7.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-8.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-9.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-10.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-11.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-12.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-13.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-14.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-15.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-16.avif
+- /images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-17.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-08-the-quintessential-crpg-and-dungeons--dragons-game--full-review---baldurs-gate-3-17.avif" alt="screenshot" />
-</div>
-
 Baldur's Gate 3, an epic RPG developed by Larian Studios and building on the legacy of the iconic Baldur's Gate series, was released in early access in 2020 and was met with an overwhelmingly positive response, reinvigorating interest in D&D-based video games. Larian Studios embraced the complexities of D&D's 5th Edition, creating a game that felt akin to playing the tabletop version virtually, for better and for worse. The vast world, intricate systems, and captivating storytelling that come with the experience of D&D are promised, resonating with long-time fans and newcomers alike.
 
 

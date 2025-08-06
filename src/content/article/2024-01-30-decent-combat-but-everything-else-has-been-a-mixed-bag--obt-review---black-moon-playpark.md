@@ -1,27 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Black Moon Playpark
+description: ✨Overview Black Moon Playpark is a mobile action role-playing game (RPG)
+  developed by PlayPark, which has recently launched into open beta testing last January
+  25. Black Moon promises an immersive 2D anime aesthetic and dynamic side scrolling
+  beat ‘em up gameplay.
 featured: false
 pubDate: 2024-01-30
 score: 6.0
 tags:
+- action
+- console
+- indie
+- nintendo switch
+- obt-review-black-moon-playpark
+- pc
+- playstation
+- playstation 4
+- rpg
+- strategy
 - taptap
-- black-moon-playpark
+- xbox one
 thumb: /images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-0.avif
 title: Decent combat, but everything else has been a mixed bag | OBT Review - Black
   Moon Playpark
+game: OBT Review - Black Moon Playpark
+gallery:
+- /images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-0.avif
+- /images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-1.avif
+- /images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-2.avif
+- /images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-3.avif
+- /images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-4.avif
+- /images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-30-decent-combat-but-everything-else-has-been-a-mixed-bag--obt-review---black-moon-playpark-5.avif" alt="screenshot" />
-</div>
-
 Black Moon Playpark
 8.2
 RPG

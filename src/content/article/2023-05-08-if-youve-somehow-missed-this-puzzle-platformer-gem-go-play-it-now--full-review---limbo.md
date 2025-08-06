@@ -1,32 +1,51 @@
 ---
 author: lyndonguitar
 category: Review
-description: LIMBO+
+description: lyndonguitar Get LIMBO is a puzzle-platformer game with simple controls,
+  minimalistic visuals, and a depressing tone. Developed by Playdead that was first
+  released in 2010. It has since been ported to various platforms, such as iOS back
+  in 2021.
 featured: false
 pubDate: 2023-05-08
 tags:
+- action
+- adventure
+- android
+- console
+- indie
+- ios
+- limbo
+- linux
+- macos
+- nintendo switch
+- pc
+- platformer
+- playstation
+- playstation 3
+- playstation 4
+- ps vita
+- puzzle
 - taptap
-- limbo+
+- xbox 360
+- xbox one
 thumb: /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-0.avif
 title: If you’ve somehow missed this puzzle-platformer gem, go play it now | Full
   Review - LIMBO+
+game: Limbo
+gallery:
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-0.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-1.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-2.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-3.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-4.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-5.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-6.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-7.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-8.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-9.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-10.avif
+- /images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-11.avif" alt="screenshot" />
-</div>
-
 LIMBO+
 
 lyndonguitar

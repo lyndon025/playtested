@@ -1,30 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Reporter - Scary Horror Game
+description: Reporter - Scary Horror Game Reporter is a first-person adventure horror
+  game that takes place in an antiquated, abandoned hospital. The game is developed
+  by AGaming+ and is available on Android devices.
 featured: false
 pubDate: 2023-04-25
 tags:
+- action
+- android
+- reporter
 - taptap
-- scary-horror-game
 thumb: /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif
 title: One of the scariest games I’ve played on android | Full Review - Reporter
+game: Reporter
+gallery:
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-1.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-2.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-3.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-4.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-5.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-6.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-7.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-8.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-9.avif
+- /images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-10.avif" alt="screenshot" />
-</div>
-
 Reporter - Scary Horror Game
 Reporter is a first-person adventure horror game that takes place in an antiquated, abandoned hospital. The game is developed by AGaming+ and is available on Android devices.
 

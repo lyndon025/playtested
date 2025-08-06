@@ -8,13 +8,22 @@ description: I first noticed this interesting game -- Lords of the Fallen -- man
 featured: false
 pubDate: 2023-10-16
 tags:
-- taptap
+- action
+- console
 - lords-of-the-fallen
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: ''
 title: Lords of the Fallen bravely steps once again for a second shot | Impressions
   - Lords of the Fallen
+game: Lords of the Fallen
 ---
-
 I first noticed this interesting game -- Lords of the Fallen -- many years ago on Steam, but I never got around to playing it. It appeared on my radar quite a few times, especially during Steam sales, but I never had the chance to try it. Fortunately, they made a reboot, and I played that instead.
 
 In this game, players navigate the physical realm while also having access to the shadowy Umbral world through a magical lantern, both via the lamp’s light or by fully and directly transporting yourself to the alternate reality.  We also have a more forgiving combat system, with a balanced implementation of using dodges, blocks, and parries. The wither system designed to buffer your HP from attacks is a commendable feature, and encourages actually taking risks with your attacks instead of extremely playing it safe.

@@ -1,25 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Brawl StarsGlobal
+description: Brawl Stars, developed and published by Supercell, has been lighting
+  up mobile gaming since its release on December 12, 2018, and has no plans on stopping.
+  This multiplayer online battle arena and third-person hero shooter brings together
+  a diverse cast of characters called Brawlers and unique fun gameplay modes.
 featured: false
 pubDate: 2023-10-24
 score: 8.0
 tags:
-- taptap
+- action
+- android
+- arcade
 - brawl-stars
+- casual
+- ios
+- taptap
 thumb: /images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-0.avif
 title: Plenty of game modes, plenty of fun | Review - Brawl Stars
+game: Brawl Stars
+gallery:
+- /images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-0.avif
+- /images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-1.avif
+- /images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-2.avif
+- /images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-3.avif
+- /images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-24-plenty-of-game-modes-plenty-of-fun--review---brawl-stars-4.avif" alt="screenshot" />
-</div>
-
 Brawl StarsGlobal
 8.2
 Action

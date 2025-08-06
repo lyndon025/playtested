@@ -7,22 +7,23 @@ description: 'Ailment: dead standoff is a single-stick shooter with a retro pixe
 featured: false
 pubDate: 2023-02-03
 tags:
+- action
+- ailment-dead-standoff
+- indie
+- pc
 - taptap
-- ailment:-dead-standoff-premium
 thumb: /images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-0.avif
 title: 'There are gun wielding zombies in this retro shooter | Ailment: dead standoff
   - First Impressions'
+game: 'Ailment: dead standoff'
+gallery:
+- /images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-0.avif
+- /images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-1.avif
+- /images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-2.avif
+- /images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-3.avif
+- /images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-4.avif
+- /images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-03-there-are-gun-wielding-zombies-in-this-retro-shooter--ailment-dead-standoff---first-impre-5.avif" alt="screenshot" />
-</div>
-
 Ailment: dead standoff is a single-stick shooter with a retro pixel-art take, plus an interesting story as an extra bonus. Of course, if you see the word “dead” in the title, it better include zombies, and it does.
 
 You play as Jonathan Reeves, an amnesiac waking up from cryosleep, on a space transporter ship called Frontier-16. He doesn’t remember anything, but somehow he already has a shotgun locked and loaded… Not too long after, zombies come for him – The ship is infected.

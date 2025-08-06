@@ -7,32 +7,33 @@ description: The added Deluxe in the title does not really do the game’s title
 featured: false
 pubDate: 2023-02-27
 tags:
+- console
+- kirbys-return-to-dream-land-deluxe
+- nintendo switch
+- platformer
 - taptap
-- kirby's-return-to-dream-land-deluxe
 thumb: /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif
 title: A worthwhile Kirby revisit | Full Review - Kirby's Return to Dream Land Deluxe
+game: Kirby’s Return to Dream Land Deluxe
+gallery:
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-1.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-2.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-3.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-4.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-5.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-6.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-7.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-8.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-9.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-10.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-11.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-12.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-13.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-14.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-15.avif
+- /images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-16.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-16.avif" alt="screenshot" />
-</div>
-
 The added Deluxe in the title does not really do the game’s title justice, as Kirby's Return to Dream Land Deluxe is a full-on remake of the original game, which was released for the Wii console back in 2011.
 
 

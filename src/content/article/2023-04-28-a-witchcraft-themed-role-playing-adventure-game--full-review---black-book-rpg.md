@@ -1,35 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: Black Book RPG
+description: Black Book RPG is an interesting mix of classic adventure gameplay, role-playing
+  decision making, and turn-based deck building combat,
 featured: false
 pubDate: 2023-04-28
 tags:
-- taptap
+- adventure
 - black-book-rpg
+- indie
+- macos
+- pc
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-0.avif
 title: A witchcraft-themed role-playing adventure game | Full Review - Black Book
   RPG
+game: Black Book RPG
+gallery:
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-0.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-1.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-2.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-3.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-4.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-5.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-6.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-7.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-8.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-9.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-10.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-11.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-12.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-13.avif
+- /images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-14.avif" alt="screenshot" />
-</div>
-
 Black Book RPG
 
 lyndonguitar

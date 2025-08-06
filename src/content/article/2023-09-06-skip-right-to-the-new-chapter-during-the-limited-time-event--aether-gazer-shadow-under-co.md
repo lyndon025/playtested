@@ -4,30 +4,31 @@ category: Review
 description: Aether Gazer, the popular hack-and-slash gacha ARPG game for Android
   and iOS.(Endorsed by the Aether Gazer website, PC is also playable via emulator).
   It has recently unveiled its much-anticipated update for its global version, titled
-  'Shadow Under Convallaria.', following the previous update last month “Where the
+  "Shadow Under Convallaria.", following the previous update last month “Where the
   Butterfly Belongs”.
 featured: false
 pubDate: 2023-09-06
 tags:
+- aether-gazer-shadow-under-convallaria
+- pc
+- rpg
+- strategy
 - taptap
-- aether-gazer
 thumb: /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-0.avif
 title: 'Skip right to the new chapter during the limited-time event | Aether Gazer:
   Shadow Under Convallaria'
+game: 'Aether Gazer: Shadow Under Convallaria'
+gallery:
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-0.avif
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-1.avif
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-2.avif
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-3.avif
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-4.avif
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-5.avif
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-6.avif
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-7.avif
+- /images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-06-skip-right-to-the-new-chapter-during-the-limited-time-event--aether-gazer-shadow-under-co-8.avif" alt="screenshot" />
-</div>
-
 Aether Gazer, the popular hack-and-slash gacha ARPG game for Android and iOS.(Endorsed by the Aether Gazer website, PC is also playable via emulator). It has recently unveiled its much-anticipated update for its global version, titled "Shadow Under Convallaria.", following the previous update last month “Where the Butterfly Belongs”.
 
 Aether Gazer website,

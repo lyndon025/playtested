@@ -6,33 +6,38 @@ description: 'Digimon World: Next Order is the much needed spiritual successor t
 featured: false
 pubDate: 2023-02-23
 tags:
+- console
+- digimon-world-next-order
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- ps vita
+- rpg
 - taptap
-- digimon-world:-next-order
 thumb: /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-0.avif
 title: 'One of the best Digimon games to exist | Full Review - Digimon World: Next
   Order'
+game: 'Digimon World: Next Order'
+gallery:
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-0.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-1.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-2.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-3.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-4.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-5.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-6.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-7.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-8.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-9.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-10.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-11.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-12.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-13.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-14.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-15.avif
+- /images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-16.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-16.avif" alt="screenshot" />
-</div>
-
 Digimon World: Next Order is the much needed spiritual successor to the original Digimon World and its remake, Digimon World Re: Digitize.
 
 It’s not exactly a new title, but due to platform availability, I haven’t had the chance to play it yet until now , as the game has now been recently ported and released to the Nintendo Switch and PC platforms.

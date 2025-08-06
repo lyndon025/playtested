@@ -1,33 +1,41 @@
 ---
 author: lyndonguitar
 category: Review
-description: Devil Slayer - Raksasi
+description: Devil Slayer - Raksasi presents a unique take on the top-down action
+  hack and slash genre, featuring procedurally generated levels, roguelite elements,
+  and a methodical combat system. It originally released in Early Access in 2019,
+  with an official release in 2021. The game has received numerous updates since then,
+  as well as new DLC content early this year.
 featured: false
 pubDate: 2023-12-22
 score: 6.0
 tags:
+- action
+- console
+- devil-slayer-raksasi
+- pc
+- playstation
+- playstation 4
+- rpg
 - taptap
-- raksasi
 thumb: /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-0.avif
 title: 'Hack and slash rogue-lite with unique camera view | PC+Mobile (Cloud) - Devil
   Slayer: Raksasi'
+game: Devil Slayer - Raksasi
+gallery:
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-0.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-1.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-2.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-3.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-4.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-5.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-6.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-7.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-8.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-9.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-10.avif
+- /images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-hack-and-slash-rogue-lite-with-unique-camera-view--pcmobile-cloud---devil-slayer-raksasi-11.avif" alt="screenshot" />
-</div>
-
 Devil Slayer - Raksasi
 8.3
 Action

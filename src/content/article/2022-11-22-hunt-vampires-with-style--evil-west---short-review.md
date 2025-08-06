@@ -7,22 +7,30 @@ description: Welcome to Evil West. A third person twisted mashup of all the grit
 featured: false
 pubDate: 2022-11-22
 tags:
-- taptap
+- action
+- adventure
+- console
 - evil-west
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-0.avif
 title: Hunt vampires, with style | Evil West - Short Review
+game: Evil West
+gallery:
+- /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-0.avif
+- /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-1.avif
+- /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-2.avif
+- /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-3.avif
+- /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-4.avif
+- /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-5.avif
+- /images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-22-hunt-vampires-with-style--evil-west---short-review-6.avif" alt="screenshot" />
-</div>
-
 Welcome to Evil West. A third person twisted mashup of all the gritty genres that we all hate to love. Steampunk, Western, Supernatural Horror, Gothic, Souls-like, Shooter; you name it, Evil West has got it.
 
 Evil West is set in an alternate version of Old Wild West America, with vampires and monsters battling against steampunk tech powered cowboys for supremacy. You control Jesse Rentier, a relatively established Vampire Slayer and heir apparent to the Rentier Institute, a monster hunting organization founded by his forefathers and now led by his father, in their quest to eradicate the land of monsters.

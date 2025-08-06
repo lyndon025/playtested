@@ -12,12 +12,21 @@ description: Diablo IV has finally arrived (in Early Access form), and it's a ga
 featured: false
 pubDate: 2023-06-04
 tags:
+- action
+- console
+- diablo-iv
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
 - taptap
-- diablo®-iv
+- xbox one
+- xbox series
 thumb: ''
 title: Diablo is back, and I mean REALLY back! | First Impressions - Diablo IV
+game: Diablo IV
 ---
-
 Diablo IV has finally arrived (in Early Access form), and it's a game that effortlessly merges the best elements of its predecessors. With a skillful combination of Diablo II skill tree mechanics and dark tone, along with Diablo III's smooth combat and quality of life improvements, this latest installment in the series offers the best Diablo experience for both longtime fans and newcomers alike. I was fortunate enough to be able to play Diablo IV in Early Access, and I have to tell you guys, it is amazing. It is everything I had hoped it would be, coming from Diablo 3 and 2.
 
 

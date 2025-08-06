@@ -1,33 +1,44 @@
 ---
 author: lyndonguitar
 category: Review
-description: Wild Legion
+description: I’ve been on a rogue-like roll recently, and now we’re about to cover
+  yet another game the in the genre with Wild Legion, an upcoming rogue-like survival
+  game with some refreshing twists. I recently played the Demo available on Steam
+  and it’s basically Brotato on steroids, featuring auto-attack horder survival gameplay
+  filled with elements taken from other genres such as tower defense, twin-stick shooting,
+  crafting, and questing. The game is still under development, and set to be release
+  in Early Access on Q1 2024.
 featured: false
 pubDate: 2023-12-22
 score: 7.0
 tags:
+- action
+- casual
+- pc
+- rpg
+- shooter
+- simulation
+- strategy
 - taptap
-- don't-starve
+- wild-legion
 thumb: /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-0.avif
 title: Now on Mobile (Cloud), It’s basically Brotato on steroids, but it needs more
   work | Wild Legion
+game: Wild Legion
+gallery:
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-0.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-1.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-2.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-3.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-4.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-5.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-6.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-7.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-8.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-9.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-10.avif
+- /images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-now-on-mobile-cloud-its-basically-brotato-on-steroids-but-it-needs-more-work--wild-legion-11.avif" alt="screenshot" />
-</div>
-
 Wild Legion
 7.7
 Action

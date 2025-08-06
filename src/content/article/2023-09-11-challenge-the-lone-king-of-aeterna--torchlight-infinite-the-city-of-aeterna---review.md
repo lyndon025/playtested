@@ -1,26 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Torchlight: InfiniteGlobal'
+description: 'lyndonguitar Get Torchlight Infinite: The City of Aeterna is the latest
+  season of Torchlight Infinite, an action-RPG where players can expect fast-paced
+  combat, an abundance of loot, and a range of character customization options. The
+  game features fine graphics and smooth performance, making it one of the better
+  ARPG options on mobile today. The City of Aeterna, dubbed as “The Lost City” is
+  now returning as part of Torchlight Infinite’s latest content update.'
 featured: false
 pubDate: 2023-09-11
 tags:
+- action
+- adventure
+- android
+- ios
+- pc
+- rpg
 - taptap
-- torchlight:-infinite
+- torchlight-infinite
 thumb: /images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-0.avif
 title: 'Challenge The Lone King of Aeterna! | Torchlight Infinite: The City of Aeterna
   - Review'
+game: 'Torchlight: Infinite'
+gallery:
+- /images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-0.avif
+- /images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-1.avif
+- /images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-2.avif
+- /images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-3.avif
+- /images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-4.avif
+- /images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-5.avif" alt="screenshot" />
-</div>
-
 Torchlight: InfiniteGlobal
 
 lyndonguitar

@@ -7,23 +7,23 @@ description: There is no better title for this game other than the name itself �
 featured: false
 pubDate: 2022-12-01
 tags:
-- taptap
+- pc
 - retro-gadgets
+- simulation
+- taptap
 thumb: /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-0.avif
 title: Fulfill your dream of designing cool electronics | Retro Gadgets Review
+game: Retro Gadgets
+gallery:
+- /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-0.avif
+- /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-1.avif
+- /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-2.avif
+- /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-3.avif
+- /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-4.avif
+- /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-5.avif
+- /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-6.avif
+- /images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-12-01-fulfill-your-dream-of-designing-cool-electronics--retro-gadgets-review-7.avif" alt="screenshot" />
-</div>
-
 There is no better title for this game other than the name itself “Retro Gadgets”. A sandbox game that is all about designing, theory crafting, tinkering, and building retro style electronic contraptions.
 
 The workbench as you see is everything there is to the game. You design gadgets here, taking out parts from the drawers, pulling tools visible from the sides, placing and connecting many different components and editing their properties in order to produce an output that you desire.

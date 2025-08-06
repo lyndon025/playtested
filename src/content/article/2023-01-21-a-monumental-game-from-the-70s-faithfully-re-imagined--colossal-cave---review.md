@@ -8,24 +8,27 @@ description: You’ve read it right, 70s. If you were somehow already a gamer in
 featured: false
 pubDate: 2023-01-21
 tags:
-- taptap
+- adventure
+- android
+- atari st
 - colossal-cave
+- commodore / amiga
+- pc
+- taptap
 thumb: /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif
 title: A monumental game from the 70s faithfully re-imagined | Colossal Cave - Review
+game: Colossal Cave
+gallery:
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-1.avif
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-2.avif
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-3.avif
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-4.avif
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-5.avif
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-6.avif
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-7.avif
+- /images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-8.avif" alt="screenshot" />
-</div>
-
 You’ve read it right, 70s. If you were somehow already a gamer in the 1970s, you might have played one of the most influential video games of all time in Colossal Cave Adventure. This newly released title is a remake of that classic text-based adventure.
 
 3D graphics, modern gameplay, with big names attached to it, one being Roberta Williams — the Founder of Sierra, basically the mother of point-and-click adventure games. The original game is what basically inspired her to make adventure games, and now she’s the one remaking it, full circle… you can't go wrong right? Well, I’ll just let my review speak for itself.

@@ -1,29 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: DanMachi BATTLE CHRONICLE
+description: DanMachi BATTLE CHRONICLE is a gacha-based Action Role-Playing Game (ARPG)
+  inspired by the popular anime series "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+  also known as "DanMachi" (from its original Japanese title DANjon ni Deai o Motomeru
+  no waMACHIgatteiru Darō ka). In this game, players immerse themselves in the fantasy
+  world of Orario, where mythological gods, mighty adventurers, and powerful monsters
+  coexist. The game draws heavily from the anime's universe, featuring characters
+  and elements from the series.
 featured: false
 pubDate: 2023-08-26
 tags:
-- taptap
+- action
+- console
 - danmachi-battle-chronicle
+- nintendo switch
+- pc
+- playstation 3
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-0.avif
 title: The perfect anime for waifu lovers, but not a good gacha game | Review - DanMachi
   BATTLE CHRONICLE
+game: DanMachi BATTLE CHRONICLE
+gallery:
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-0.avif
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-1.avif
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-2.avif
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-3.avif
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-4.avif
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-5.avif
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-6.avif
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-7.avif
+- /images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-26-the-perfect-anime-for-waifu-lovers-but-not-a-good-gacha-game--review---danmachi-battle-ch-8.avif" alt="screenshot" />
-</div>
-
 DanMachi BATTLE CHRONICLE
 
 lyndonguitar

@@ -1,29 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Ashfall
+description: Ashfall is an MMORPG set in a post-apocalyptic world where AI has risen
+  and initiated a nuclear war against humanity, leaving behind only ruins. As a survivor
+  in the far future, you must venture outside the Vault to embark on a quest to find
+  the Core of Creation—the crucial element that holds the key to saving the world.
 featured: false
 pubDate: 2023-07-27
 tags:
-- taptap
+- action
+- adventure
 - ashfall
+- massively multiplayer
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif
 title: Greater than the sum of its parts | Review - Ashfall
+game: Ashfall
+gallery:
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-1.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-2.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-3.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-4.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-5.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-6.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-7.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-8.avif
+- /images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-9.avif" alt="screenshot" />
-</div>
-
 Ashfall
 8.8
 MMORPG

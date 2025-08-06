@@ -1,31 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: '**Pros:**'
+description: With how popular rogue-lite games are becoming lately, as well as the
+  consistent popularity of the Ancient Rome setting throughout the years, I’m a bit
+  surprised that we don’t have enough Gladiator style focused games already. Saturating
+  the market like the zombie or world war tropes we have today. That soon is about
+  to change, as we now have We Who Are About to Die, recently released on Early Access.
 featured: false
 pubDate: 2022-11-16
 tags:
+- action
+- full
+- indie
+- pc
+- simulation
+- sports
 - taptap
-- we-who-are-about-to-die
 thumb: /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-0.avif
 title: Addicting Gladiator Spectacle! | We Who Are About to Die | Full In-Depth Review
+game: Full
+gallery:
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-0.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-1.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-2.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-3.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-4.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-5.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-6.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-7.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-8.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-9.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-10.avif
+- /images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-16-addicting-gladiator-spectacle--we-who-are-about-to-die--full-in-depth-review-11.avif" alt="screenshot" />
-</div>
-
 **Pros:**
 
 

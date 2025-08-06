@@ -1,27 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'CAPTAIN TSUBASA: ACEGlobal'
+description: 'CAPTAIN TSUBASA: ACE is a mobile online competitive football / soccer
+  game with gacha elements and real-time gameplay. Players can engage in various modes,
+  such as singleplayer and training matches, seasonal asynchronous PvP, and a real-time
+  4v4 PvP mode as well.'
 featured: false
 pubDate: 2023-12-05
 score: 7.0
 tags:
+- action
+- captain-tsubasa-ace
+- casual
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
+- sports
 - taptap
-- captain-tsubasa:-ace
 thumb: /images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-0.avif
 title: 'An action-packed soccer experience in a gacha package | Review - CAPTAIN TSUBASA:
   ACE'
+game: 'CAPTAIN TSUBASA: ACE'
+gallery:
+- /images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-0.avif
+- /images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-1.avif
+- /images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-2.avif
+- /images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-3.avif
+- /images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-4.avif
+- /images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-an-action-packed-soccer-experience-in-a-gacha-package--review---captain-tsubasa-ace-5.avif" alt="screenshot" />
-</div>
-
 CAPTAIN TSUBASA: ACEGlobal
 9.0
 Sports

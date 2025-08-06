@@ -1,27 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Never Grave: The Witch and The Curse'
+description: 'Never Grave: The Witch and The Curse 8.0 Action Adventure Test'
 featured: false
 pubDate: 2024-01-29
 score: 7.0
 tags:
+- review-never-grave
 - taptap
-- never-grave:-the-witch-and-the-curse
+- web
 thumb: /images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--0.avif
 title: Potentially a fresh and hardcore roguelite metroidvania, coming soon | Demo
   Review - Never Grave
+game: Review - Never Grave
+gallery:
+- /images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--0.avif
+- /images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--1.avif
+- /images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--2.avif
+- /images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--3.avif
+- /images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--4.avif
+- /images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-29-potentially-a-fresh-and-hardcore-roguelite-metroidvania-coming-soon--demo-review---never--5.avif" alt="screenshot" />
-</div>
-
 Never Grave: The Witch and The Curse
 8.0
 Action

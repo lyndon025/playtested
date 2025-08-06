@@ -1,26 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Disney Realm Breakers
+description: Disney Realm Breakers 5.2 Strategy Tower Defense Download
 featured: false
 pubDate: 2024-02-16
 score: 3.0
 tags:
-- taptap
+- action
 - disney-realm-breakers
+- nintendo 64
+- pc
+- platformer
+- playstation
+- taptap
 thumb: /images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-0.avif
 title: A disjointed, slow, and disappointing experience | Review - Disney Realm Breakers
+game: Disney Realm Breakers
+gallery:
+- /images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-0.avif
+- /images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-1.avif
+- /images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-2.avif
+- /images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-3.avif
+- /images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-4.avif
+- /images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-16-a-disjointed-slow-and-disappointing-experience--review---disney-realm-breakers-5.avif" alt="screenshot" />
-</div>
-
 Disney Realm Breakers
 5.2
 Strategy

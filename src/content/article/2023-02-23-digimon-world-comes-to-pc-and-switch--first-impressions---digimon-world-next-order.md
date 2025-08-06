@@ -8,25 +8,30 @@ description: 'Digimon World: Next Order is a familiar game that will delight PC 
 featured: false
 pubDate: 2023-02-23
 tags:
+- console
+- digimon-world-next-order
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- ps vita
+- rpg
 - taptap
-- digimon-world:-next-order
 thumb: /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-0.avif
 title: 'Digimon World comes to PC and Switch | First Impressions - Digimon World:
   Next Order'
+game: 'Digimon World: Next Order'
+gallery:
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-0.avif
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-1.avif
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-2.avif
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-3.avif
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-4.avif
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-5.avif
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-6.avif
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-7.avif
+- /images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-23-digimon-world-comes-to-pc-and-switch--first-impressions---digimon-world-next-order-8.avif" alt="screenshot" />
-</div>
-
 Digimon World: Next Order is a familiar game that will delight PC and Switch-wielding fans of the Digimon franchise, more specifically, Digimon World fans. The game has been recently ported and released to the Nintendo Switch and PC platforms.
 
 In Digimon World: Next Order, players assume the role of a human character (the player can name the protagonist in the beginning of the game) who is transported to the Digital World and must explore and help save it from a state of chaos. Just like the original Digimon World, Machinedramon is once again the source of these problems. The game mechanics involve collecting and training Digimon, battling enemies, and exploring the game world.

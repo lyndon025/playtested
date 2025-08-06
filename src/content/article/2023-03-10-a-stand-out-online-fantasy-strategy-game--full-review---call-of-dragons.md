@@ -7,37 +7,38 @@ description: Call of Dragons is a new upcoming fantasy strategy mobile game that
 featured: false
 pubDate: 2023-03-10
 tags:
-- taptap
 - call-of-dragons
+- ios
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif
 title: A stand out online fantasy strategy game | Full Review - Call of Dragons
+game: Call of Dragons
+gallery:
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-1.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-2.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-3.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-4.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-5.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-6.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-7.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-8.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-9.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-10.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-11.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-12.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-13.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-14.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-15.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-16.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-17.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-18.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-19.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-20.avif
+- /images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-21.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-19.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-20.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-21.avif" alt="screenshot" />
-</div>
-
 Call of Dragons is a new upcoming fantasy strategy mobile game that features city-building aspects combined with strategy war game and RPG elements. It is currently available for testing on mobile devices and for PC as well as an emulated-port.
 
 

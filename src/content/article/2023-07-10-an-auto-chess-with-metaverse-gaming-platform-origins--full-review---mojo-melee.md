@@ -1,29 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Mojo Melee: PVP Auto Chess'
+description: Mojo Melee is a real-time auto chess battler that will challenge your
+  intellect and tactical skills while you eliminate opponents. It is set on Planet
+  Mojo, a web3 gaming metaverse platform set to feature other games as well.
 featured: false
 pubDate: 2023-07-10
 tags:
+- action
+- adventure
+- casual
+- indie
+- mojo-melee
+- pc
+- simulation
+- strategy
 - taptap
-- mojo-melee:-pvp-auto-chess
 thumb: /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif
 title: An auto chess with metaverse gaming platform origins | Full Review - Mojo Melee
+game: Mojo Melee
+gallery:
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-1.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-2.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-3.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-4.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-5.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-6.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-7.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-8.avif
+- /images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-9.avif" alt="screenshot" />
-</div>
-
 Mojo Melee: PVP Auto Chess
 
 lyndonguitar

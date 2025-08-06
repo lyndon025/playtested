@@ -1,23 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: ✨Overview
+description: WitchSpring R, the much-anticipated remake of the mobile RPG classic,
+  WitchSpring 1, is a captivating story-driven RPG that seamlessly combines elements
+  of simulation, collecting, crafting, and thrilling battles. The game transports
+  players into the world of Pieberry, a unique witch with white hair and bunny ears,
+  who resides in a mystical forest teeming with fantastical creatures. Her desire
+  to explore the human world sets the stage for an intriguing adventure.
 featured: false
 pubDate: 2023-09-19
 tags:
+- board games
+- everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions
+- family
+- ios
+- nintendo ds
+- pc
+- playstation 3
 - taptap
-- witchspring-r
+- wii
+- xbox 360
 thumb: /images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif
 title: Everything you need to know about WitchSpring R (Mobile release? Console versions?)
+game: Everything you need to know about WitchSpring R (Mobile release? Console versions?)
+gallery:
+- /images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif
+- /images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-1.avif
+- /images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-2.avif
+- /images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-3.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-3.avif" alt="screenshot" />
-</div>
-
 ✨Overview
 
 ✨Overview

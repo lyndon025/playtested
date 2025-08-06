@@ -1,25 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Devil May Cry: Peak of CombatGlobal'
+description: 'Devil May Cry: Peak of CombatGlobal 7.8 Action Hack And Slash Get'
 featured: false
 pubDate: 2023-10-11
 tags:
+- console
+- final-cbt-review-dmc-peak-of-combat
+- playstation
+- playstation 4
 - taptap
-- devil-may-cry-4-special-edition
+- xbox one
 thumb: /images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-0.avif
 title: 'A devilish hack and slash gacha grindfest | Final CBT Review - DMC: Peak of
   Combat'
+game: 'Final CBT Review - DMC: Peak of Combat'
+gallery:
+- /images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-0.avif
+- /images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-1.avif
+- /images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-2.avif
+- /images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-3.avif
+- /images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-11-a-devilish-hack-and-slash-gacha-grindfest--final-cbt-review---dmc-peak-of-combat-4.avif" alt="screenshot" />
-</div>
-
 Devil May Cry: Peak of CombatGlobal
 7.8
 Action

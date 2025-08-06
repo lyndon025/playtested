@@ -1,27 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Sword of Mystic Shu
+description: Sword of Mystic Shu 7.2 RPG MMORPG Pre-register
 featured: false
 pubDate: 2024-02-01
 score: 4.0
 tags:
+- beta-review-sword-of-mystic-shu
+- pc
+- platformer
 - taptap
-- sword-of-mystic-shu
 thumb: /images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-0.avif
 title: This open beta still feels too early in its development | Beta Review - Sword
   of Mystic Shu
+game: Beta Review - Sword of Mystic Shu
+gallery:
+- /images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-0.avif
+- /images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-1.avif
+- /images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-2.avif
+- /images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-3.avif
+- /images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-4.avif
+- /images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-01-this-open-beta-still-feels-too-early-in-its-development--beta-review---sword-of-mystic-sh-5.avif" alt="screenshot" />
-</div>
-
 Sword of Mystic Shu
 7.2
 RPG

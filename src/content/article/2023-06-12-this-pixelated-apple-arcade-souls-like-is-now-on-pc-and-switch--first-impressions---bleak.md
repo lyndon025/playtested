@@ -9,13 +9,17 @@ description: In Bleak Sword DX, the protagonist is not the one wielding the titu
 featured: false
 pubDate: 2023-06-12
 tags:
-- taptap
+- action
+- adventure
 - bleak-sword-dx
+- indie
+- pc
+- taptap
 thumb: ''
 title: This pixelated Apple Arcade souls-like is now on PC and Switch | First Impressions
   - Bleak Sword DX
+game: Bleak Sword DX
 ---
-
 In Bleak Sword DX, the protagonist is not the one wielding the titular Bleak Sword; rather, they must seek to destroy the weapon itself. As an unnamed warrior, your task is to lift the curse of the legendary Bleak Sword that has plagued the land for over two hundred years. While the story is not that deep, it serves as a premise and backdrop for the hack-and-slash combat action.
 
 The gameplay in Bleak Sword DX is straightforward, with levels each comprising singular blocks and grouped into 12 chapters. Players must clear each level of monsters and survive waves of enemies. The levels are relatively short, ranging from a few seconds in the early stages to a few minutes in the more challenging ones.

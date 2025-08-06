@@ -1,35 +1,42 @@
 ---
 author: lyndonguitar
 category: Review
-description: TMNT Splintered Fate
+description: TMNT Splintered Fate is a brand new Ninja Turtles game with a rogue-lite
+  spin on the gameplay, heavily inspired by Hades with its hack-and-slash mechanics,
+  single special ability, and room after room upgrades.
 featured: false
 pubDate: 2023-05-10
 tags:
+- action
+- adventure
+- console
+- ios
+- nintendo switch
+- pc
+- rpg
 - taptap
 - tmnt-splintered-fate
 thumb: /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-0.avif
 title: The Ninja Turtles' gaming resurgence continues | Full Review - TMNT Splintered
   Fate
+game: TMNT Splintered Fate
+gallery:
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-0.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-1.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-2.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-3.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-4.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-5.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-6.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-7.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-8.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-9.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-10.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-11.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-12.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-13.avif
+- /images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-14.avif" alt="screenshot" />
-</div>
-
 TMNT Splintered Fate
 
 lyndonguitar

@@ -1,32 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'GRAND CROSS : Age of Titans'
+description: 'lyndonguitar Download Grand Cross: Age of Titans is a newly released
+  video game that blends elements of anime-style aesthetics, storytelling, city-building
+  strategy, and intense troop battles. It was globally released for iOS, Android,
+  and PC last August 1. Developed by Netmarble, the same studio behind the renowned
+  RPG game Seven Deadly Sins: Grand Cross, even though they both Grand Cross in their
+  names, the games are not connected storywise'
 featured: false
 pubDate: 2023-08-13
 tags:
+- grand-cross-age-of-titans
+- pc
+- strategy
 - taptap
-- grand-cross-:-age-of-titans
 thumb: /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif
 title: 'MMORTS, Anime, Isekai, and Mechas | Full Review - Grand Cross: Age of Titans'
+game: 'Grand Cross: Age of Titans'
+gallery:
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-1.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-2.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-3.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-4.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-5.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-6.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-7.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-8.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-9.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-10.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-11.avif
+- /images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-12.avif" alt="screenshot" />
-</div>
-
 GRAND CROSS : Age of Titans
 
 lyndonguitar

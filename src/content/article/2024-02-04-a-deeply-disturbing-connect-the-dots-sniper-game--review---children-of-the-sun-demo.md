@@ -1,27 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Children of the Sun
+description: ✨Overview Children of the Sun is an upcoming tactical puzzle-shooter
+  video game developed by René Rother and published by Devolver Digital. There is
+  no release date yet announced but a DEMO is available on the Steam platform, offering
+  players a glimpse into a dark and intense narrative with a simple Sniper-based puzzle
+  gameplay.
 featured: false
 pubDate: 2024-02-04
 score: 8.0
 tags:
-- taptap
+- action
+- arcade
 - children-of-the-sun
+- indie
+- pc
+- simulation
+- strategy
+- taptap
 thumb: /images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-0.avif
 title: A deeply disturbing connect the dots Sniper game | Review - Children of the
   Sun Demo
+game: Children of the Sun
+gallery:
+- /images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-0.avif
+- /images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-1.avif
+- /images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-2.avif
+- /images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-3.avif
+- /images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-4.avif
+- /images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-04-a-deeply-disturbing-connect-the-dots-sniper-game--review---children-of-the-sun-demo-5.avif" alt="screenshot" />
-</div>
-
 Children of the Sun
 10
 Action

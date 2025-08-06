@@ -1,33 +1,42 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Kemono Friends: KingdomGlobal'
+description: 'lyndonguitar Get Kemono Friends: Kingdom is a gacha mobile game set
+  in a unique world filled with delightful animal Friends. With its engaging storyline,
+  strategic turn-based RPG gameplay, and a diverse roster of charming animal-themed
+  characters, this game promises to offer an enjoyable experience for both fans and
+  newcomers to the Kemono Friends franchise. It is coming soon with an Open Beta Test
+  scheduled for June 21!'
 featured: false
 pubDate: 2023-06-08
 tags:
+- indie
+- kemono-friends-kingdom
+- linux
+- macos
+- pc
+- simulation
+- strategy
 - taptap
-- kemono-friends:-kingdom
 thumb: /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-0.avif
 title: 'Collect animal waifus in this visually impressive gacha game | Full Review
   - Kemono Friends: Kingdom'
+game: 'Kemono Friends: Kingdom'
+gallery:
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-0.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-1.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-2.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-3.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-4.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-5.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-6.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-7.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-8.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-9.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-10.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-11.avif
+- /images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-12.avif" alt="screenshot" />
-</div>
-
 Kemono Friends: KingdomGlobal
 
 lyndonguitar

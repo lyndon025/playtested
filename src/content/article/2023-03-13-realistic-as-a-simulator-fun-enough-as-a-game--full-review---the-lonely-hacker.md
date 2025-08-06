@@ -6,32 +6,39 @@ description: The Lonely Hacker is a hacking simulation game for mobile devices, 
 featured: false
 pubDate: 2023-03-13
 tags:
+- android
+- casual
+- educational
+- indie
+- ios
+- pc
+- rpg
+- simulation
+- strategy
 - taptap
 - the-lonely-hacker
 thumb: /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif
 title: Realistic as a simulator, fun enough as a game | Full Review - The Lonely Hacker
+game: The Lonely Hacker
+gallery:
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-1.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-2.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-3.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-4.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-5.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-6.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-7.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-8.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-9.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-10.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-11.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-12.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-13.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-14.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-15.avif
+- /images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-16.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-16.avif" alt="screenshot" />
-</div>
-
 The Lonely Hacker is a hacking simulation game for mobile devices, currently available for Android, with current plans to expand on iOS and console platforms.
 
 

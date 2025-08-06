@@ -1,26 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Warhammer 40,000: Darktide'
+description: 'Warhammer 40K: Darktide has now been released on Xbox, accompanied by
+  a plethora of updates with Patch #13 that transforms it into what feels like an
+  entirely new game. Xbox players who are joining the fray later shouldn''t feel left
+  behind or delayed, for lack of a better word. In fact, you can say that its 10 months
+  on PC was just the early access period, so yeah, thanks PC beta testers.'
 featured: false
 pubDate: 2023-10-04
 tags:
+- action
+- adventure
+- darktide-patch-13
+- indie
+- pc
+- racing
+- shooter
 - taptap
-- warhammer-40,000:-darktide
+- xbox series
 thumb: /images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-0.avif
 title: A return to the underbellies of Warhammer 40K, is it worth it? | Review - Darktide
   Patch 13
+game: Darktide Patch 13
+gallery:
+- /images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-0.avif
+- /images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-1.avif
+- /images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-2.avif
+- /images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-3.avif
+- /images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-4.avif
+- /images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-04-a-return-to-the-underbellies-of-warhammer-40k-is-it-worth-it--review---darktide-patch-13-5.avif" alt="screenshot" />
-</div>
-
 Warhammer 40,000: Darktide
 8.4
 Action

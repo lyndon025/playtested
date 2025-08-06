@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Grand Theft Auto VI
+description: The long-awaited moment has arrived — after 10 long years — Rockstar
+  Games finally drops the highly anticipated first trailer for Grand Theft Auto VI
+  this December 5, 2023. After an anticlimactic leak a few months ago (It was a disappointing
+  news for Rockstar Games, but exciting news for us), We finally have an official
+  look at the game, and it releases in 2025.
 featured: false
 pubDate: 2023-12-05
 tags:
+- action
+- adventure
+- after-10-long-years-gta-vi-is-now-official-releases-2025
+- indie
+- pc
 - taptap
-- grand-theft-auto-vi
 thumb: /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-0.avif
 title: After 10 long years, GTA VI is now official! Releases 2025
+game: After 10 long years, GTA VI is now official! Releases 2025
+gallery:
+- /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-0.avif
+- /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-1.avif
+- /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-2.avif
+- /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-3.avif
+- /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-4.avif
+- /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-5.avif
+- /images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-after-10-long-years-gta-vi-is-now-official-releases-2025-6.avif" alt="screenshot" />
-</div>
-
 Grand Theft Auto VI
 8.6
 Action

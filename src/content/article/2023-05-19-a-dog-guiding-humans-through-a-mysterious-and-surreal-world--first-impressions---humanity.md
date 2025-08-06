@@ -1,26 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: HUMANITY
+description: HUMANITY takes players on a thought-provoking and visually mesmerizing
+  adventure as they control a dog guiding literal crowds of humans through a mysterious
+  and surreal world. With its unique puzzle mechanics, striking visuals, and immersive
+  atmosphere, this third-person puzzle game for PC and PlayStation offers an experience
+  that is both challenging and captivating.
 featured: false
 pubDate: 2023-05-19
 tags:
-- taptap
+- action
+- casual
+- console
 - humanity
+- indie
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- puzzle
+- strategy
+- taptap
+- xbox series
 thumb: /images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-0.avif
 title: A dog guiding humans through a mysterious and surreal world | First Impressions
   - HUMANITY
+game: Humanity
+gallery:
+- /images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-0.avif
+- /images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-1.avif
+- /images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-2.avif
+- /images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-3.avif
+- /images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-4.avif
+- /images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-5.avif" alt="screenshot" />
-</div>
-
 HUMANITY
 8.2
 

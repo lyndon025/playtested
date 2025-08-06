@@ -6,24 +6,28 @@ description: Limbus Company is a free-to-play turn-based RPG game with a focus o
 featured: false
 pubDate: 2023-03-03
 tags:
-- taptap
+- action
+- android
+- ios
 - limbus-company
+- pc
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-0.avif
 title: A narratively driven turn-based RPG game | First Impressions - Limbus Company
+game: Limbus Company
+gallery:
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-0.avif
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-1.avif
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-2.avif
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-3.avif
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-4.avif
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-5.avif
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-6.avif
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-7.avif
+- /images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-03-a-narratively-driven-turn-based-rpg-game--first-impressions---limbus-company-8.avif" alt="screenshot" />
-</div>
-
 Limbus Company is a free-to-play turn-based RPG game with a focus on storytelling, available for Mobile and PC platforms.
 
 The main character is an amnesiac named Dante, his head is a burning clock for some reason, and he encounters this trusty mystical crew called the Sinners that follows his lead. He sort of serves as a coach / manager for this team, but he has no damn idea why anyway, conveniently sharing the same confusion he has with the players. The game is voiced in the Korean language but thankfully there are English subtitles. All I can think of is that the premise is a darker, more twisted 2D version of a Persona game.

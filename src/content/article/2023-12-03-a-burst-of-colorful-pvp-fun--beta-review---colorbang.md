@@ -1,25 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: ColorBANGTest Global
+description: ColorBANG is a 3v3 fast-paced casual top-down shooter and coloring game
+  where players engage in exciting territorial battles involving color. Players win
+  matches through strategic spraying, killing, and use of abilities. The game is currently
+  in a Closed Beta Test phase that runs from November 28 to December 12, 2023, full
+  data will be wiped after the test. The actual release date for the game is still
+  TBA.
 featured: false
 pubDate: 2023-12-03
 tags:
+- beta-review-colorbang
+- pc
+- platformer
 - taptap
-- splatoon-3-(ns)
 thumb: /images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-0.avif
 title: A burst of colorful PvP fun | Beta Review - ColorBANG
+game: Beta Review - ColorBANG
+gallery:
+- /images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-0.avif
+- /images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-1.avif
+- /images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-2.avif
+- /images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-3.avif
+- /images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-4.avif
+- /images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-03-a-burst-of-colorful-pvp-fun--beta-review---colorbang-5.avif" alt="screenshot" />
-</div>
-
 ColorBANGTest Global
 --
 Editors' Choice

@@ -11,13 +11,15 @@ description: 'Grand Cross: Age of Titans introduces an intriguing twist to the i
 featured: false
 pubDate: 2023-08-13
 tags:
+- grand-cross-age-of-titans
+- pc
+- strategy
 - taptap
-- grand-cross-:-age-of-titans
 thumb: ''
 title: 'Rise of Kingdoms, with an anime skin? | First Impressions - Grand Cross: Age
   of Titans'
+game: 'Grand Cross: Age of Titans'
 ---
-
 Grand Cross: Age of Titans introduces an intriguing twist to the isekai formula by blending it with city-building MMORTS gameplay. The game starts off feeling like a RPG gacha game, with all the isekai, anime, and waifu elements you’d normally see in a RPG game, but in actuality it is a city-builder strategy game extremely similar to Rise of Kingdoms, with the option to venture out in the MMORTS-esque overworld map, explore, mine resources, attack monsters, and team-up or clash against other cities.
 
 The city-building aspect of Grand Cross: Age of Titans is the main component of the gameplay. Buildings must be constructed and upgraded, and the waiting is in real-time. Structures will feature branching prerequisites with one another, ultimately leading to the Main Castle level which serves as the central component of the city-building mechanics.

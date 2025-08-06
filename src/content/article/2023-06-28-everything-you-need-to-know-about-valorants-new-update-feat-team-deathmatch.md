@@ -1,26 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: VALORANT Mobile
+description: 'Valorant’s patch 7.0 has finally gone online and it introduces the highly
+  requested Team Deathmatch mode along with a new Agent Deadlock , and three exclusive
+  maps made specifically for the new game mode: Piazza, District, and Kasbah. In terms
+  of aesthetics, Piazza bears a resemblance to Ascent with its European architecture,
+  District resembles Split with its urban Japanese setting, and Kasbah shares similarities
+  with Bind with its African location.'
 featured: false
 pubDate: 2023-06-28
 tags:
+- arcade
+- console
+- everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch
+- pc
+- playstation
+- playstation 4
+- racing
 - taptap
-- valorant-mobile
+- xbox one
 thumb: /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-0.avif
 title: Everything you need to know about Valorant’s new update feat. Team Deathmatch!
+game: Everything you need to know about Valorant’s new update feat. Team Deathmatch!
+gallery:
+- /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-0.avif
+- /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-1.avif
+- /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-2.avif
+- /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-3.avif
+- /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-4.avif
+- /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-5.avif
+- /images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-28-everything-you-need-to-know-about-valorants-new-update-feat-team-deathmatch-6.avif" alt="screenshot" />
-</div>
-
 VALORANT Mobile
 9.1
 Multiplayer

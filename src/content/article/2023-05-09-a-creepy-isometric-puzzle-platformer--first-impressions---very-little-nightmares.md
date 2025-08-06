@@ -1,25 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Very Little Nightmares+
+description: Very Little Nightmares+ is the Apple Arcade version of Very Little Nightmares,
+  a puzzle-platformer game made specifically for mobile devices. It's available for
+  both Android and iOS and serves as a prequel to the original 2017 console game Little
+  Nightmares. The latter is also being ported and will soon be available on mobile
+  devices this year.
 featured: false
 pubDate: 2023-05-09
 tags:
+- adventure
+- android
+- ios
+- puzzle
 - taptap
-- very-little-nightmares+
+- very-little-nightmares
 thumb: /images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-0.avif
 title: A creepy isometric puzzle platformer | First Impressions - Very Little Nightmares+
+game: Very Little Nightmares
+gallery:
+- /images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-0.avif
+- /images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-1.avif
+- /images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-2.avif
+- /images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-3.avif
+- /images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-4.avif
+- /images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-a-creepy-isometric-puzzle-platformer--first-impressions---very-little-nightmares-5.avif" alt="screenshot" />
-</div>
-
 Very Little Nightmares+
 7.6
 Puzzle

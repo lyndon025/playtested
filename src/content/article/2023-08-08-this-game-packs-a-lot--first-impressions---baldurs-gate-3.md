@@ -13,12 +13,21 @@ description: Baldur's Gate 3, an epic RPG developed by Larian Studios and buildi
 featured: false
 pubDate: 2023-08-08
 tags:
+- adventure
+- baldur-s-gate-3
+- console
+- macos
+- pc
+- playstation
+- playstation 5
+- rpg
+- strategy
 - taptap
-- baldur's-gate-3
+- xbox series
 thumb: ''
 title: This game packs a LOT! | First Impressions - Baldur's Gate 3
+game: Baldur's Gate 3
 ---
-
 Baldur's Gate 3, an epic RPG developed by Larian Studios and building on the legacy of the iconic Baldur's Gate series, was released in early access in 2020 and was met with an overwhelmingly positive response, reinvigorating interest in D&D-based video games. Larian Studios embraced the complexities of D&D's 5th Edition, creating a game that felt akin to playing the tabletop version virtually, for better and for worse. The vast world, intricate systems, and captivating storytelling that come with the experience of D&D are promised, resonating with long-time fans and newcomers alike. Now, three years later, Baldur’s Gate 3 is officially out on PC.
 
 The game allows players to create their protagonist from a selection of different races, classes, and backgrounds. Players can choose from various races such as humans, elves, dwarves, and tieflings, among others, and different classes like fighter, wizard, cleric, rogue, and ranger. Character choices influences abilities, skills, and unique dialogue options throughout the game.

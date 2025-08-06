@@ -1,24 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Temple Run+
+description: Temple Run+ which was released for the subscription-based gaming service
+  offered by Apple just recently, is the Apple Arcade version of the game Temple Run,
+  where players take on the role of an adventurer who must endlessly run through the
+  temple, avoiding obstacles, collecting coins, and trying to outrun a group of demonic
+  monkeys chasing after them.
 featured: false
 pubDate: 2023-05-09
 tags:
+- action
+- android
+- arcade
+- casual
+- ios
 - taptap
-- temple-run+
+- temple-run
 thumb: /images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-0.avif
 title: Playing a classic mobile game from 2011 | First Impressions - Temple Run+
+game: Temple Run
+gallery:
+- /images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-0.avif
+- /images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-1.avif
+- /images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-2.avif
+- /images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-3.avif
+- /images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-playing-a-classic-mobile-game-from-2011--first-impressions---temple-run-4.avif" alt="screenshot" />
-</div>
-
 Temple Run+
 --
 Arcade

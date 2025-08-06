@@ -1,31 +1,41 @@
 ---
 author: lyndonguitar
 category: Review
-description: '**Pros:**'
+description: Evil West is a newly released third person twisted mashup of all the
+  gritty genres that we all hate to love. Steampunk, Western, Supernatural Horror,
+  Gothic, Souls-like, Shooter, and the like.
 featured: false
 pubDate: 2022-11-23
 tags:
-- taptap
+- action
+- adventure
+- console
 - evil-west
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif
 title: Cowboy, Vampires, Doom, Dark Souls | Evil West - Full Review
+game: Evil West
+gallery:
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-1.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-2.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-3.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-4.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-5.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-6.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-7.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-8.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-9.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-10.avif
+- /images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-11.avif" alt="screenshot" />
-</div>
-
 **Pros:**
 
 

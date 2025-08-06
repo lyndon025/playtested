@@ -1,0 +1,73 @@
+---
+import { getCollection } from "astro:content"
+import BlogLayout from "../../../../layouts/BlogLayout.astro"
+import Header from "../../../../components/Header.astro"
+import Footer from "../../../../components/Footer.astro"
+import PostCard from "../../../../components/PostCard.astro"
+import Pagination from "../../../../components/Pagination.astro"
+import SiteOptions from "../../../../site.config.mjs"
+
+const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
+
+export async function getStaticPaths() {
+  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
+  const allPosts = await getCollection("article")
+
+  const categories = new Map()
+
+  for (const post of allPosts) {
+    const slug = post.data.category?.toLowerCase().replace(/\s+/g, "-")
+    if (!slug) continue
+    if (!categories.has(slug)) categories.set(slug, [])
+    categories.get(slug).push(post)
+  }
+
+  const paths = []
+
+  for (const [slug, posts] of categories.entries()) {
+    const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)
+    for (let i = 2; i <= totalPages; i++) {
+      paths.push({ params: { category: slug, page: i.toString() } })
+    }
+  }
+
+  return paths
+}
+
+const { category, page } = Astro.params
+const currentPage = parseInt(page)
+const allPosts = await getCollection("article")
+
+const posts = allPosts.filter(post =>
+  post.data.category?.toLowerCase().replace(/\s+/g, "-") === category
+).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+
+const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)
+const start = (currentPage - 1) * POSTS_PER_PAGE
+const paginated = posts.slice(start, start + POSTS_PER_PAGE)
+
+const pageData = {
+  data: paginated,
+  url: {
+    current: `/category/${category}/page/${currentPage}`,
+    prev: currentPage > 2 ? `/category/${category}/page/${currentPage - 1}` : `/category/${category}`,
+    next: currentPage < totalPages ? `/category/${category}/page/${currentPage + 1}` : undefined,
+  },
+  currentPage,
+  lastPage: totalPages,
+  size: POSTS_PER_PAGE,
+  total: posts.length,
+}
+---
+
+<BlogLayout title={`Category: ${category} - Page ${currentPage}`}>
+  <Header showTitle={true} />
+  <h1 class="text-3xl font-bold mb-8 text-center capitalize">Category: {category.replace(/-/g, " ")}</h1>
+
+  <ul class="space-y-4">
+    {paginated.map(post => <PostCard post={post} />)}
+  </ul>
+
+  <Pagination page={pageData} />
+  <Footer />
+</BlogLayout>

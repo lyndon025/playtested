@@ -1,31 +1,44 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Battle Chasers: Nightwar'
+description: 'Battle Chasers: Nightwar Battle Chasers: Nightwar is a turn-based RPG
+  game in a fantasy world where players command a group of heroes on a quest to uncover
+  the secrets of The Lost Vale and defeat an evil sorceress.'
 featured: false
 pubDate: 2023-05-29
 tags:
+- android
+- battle-chasers-nightwar
+- console
+- indie
+- ios
+- linux
+- macos
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
+- strategy
 - taptap
-- battle-chasers:-nightwar
+- xbox one
 thumb: /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif
 title: 'An excellent turn-based RPG adventure | Full Review - Battle Chasers: Nightwar'
+game: 'Battle Chasers: Nightwar'
+gallery:
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-1.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-2.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-3.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-4.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-5.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-6.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-7.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-8.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-9.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-10.avif
+- /images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-11.avif" alt="screenshot" />
-</div>
-
 Battle Chasers: Nightwar
 Battle Chasers: Nightwar is a turn-based RPG game in a fantasy world where players command a group of heroes on a quest to uncover the secrets of The Lost Vale and defeat an evil sorceress.
 

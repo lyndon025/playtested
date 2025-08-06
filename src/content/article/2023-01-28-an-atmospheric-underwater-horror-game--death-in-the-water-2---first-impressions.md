@@ -8,21 +8,24 @@ description: Imagine a deep sea survival game like Subnautica, which is basicall
 featured: false
 pubDate: 2023-01-28
 tags:
-- taptap
+- action
+- adventure
 - death-in-the-water-2
+- indie
+- pc
+- shooter
+- taptap
 thumb: /images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-0.avif
 title: An atmospheric underwater horror game | Death in the Water 2 - First Impressions
+game: Death in the Water 2
+gallery:
+- /images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-0.avif
+- /images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-1.avif
+- /images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-2.avif
+- /images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-3.avif
+- /images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-4.avif
+- /images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-28-an-atmospheric-underwater-horror-game--death-in-the-water-2---first-impressions-5.avif" alt="screenshot" />
-</div>
-
 Imagine a deep sea survival game like Subnautica, which is basically an underwater version of The Forest. Remove all the base building, crafting, focus on the shooter aspect, make it darker with lovecraftian elements and you get Death in the Water 2.
 
 Death in the Water 2 starts slow and uninteresting. The introductory plot exposition is just unstimulating white lines of text displayed at your screen to read; no visuals, no narration. This goes on far too long, like a minute or two. Afterwards, there is a tutorial segment that I would say is not the best example of gameplay to get a player hooked on, you just are ordered to kill 10 hard-to-find fishes and hard-to-find treasure chests.

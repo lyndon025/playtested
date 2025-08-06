@@ -7,12 +7,16 @@ description: With Halloween just around the corner, Call of Duty Mobile is now c
 featured: false
 pubDate: 2023-09-28
 tags:
+- action
+- android
+- call-of-duty-mobile-season-9-graveyard-shift
+- ios
+- shooter
 - taptap
-- call-of-duty:-mobile-season-3
 thumb: ''
 title: 'Dead and back again | Call of Duty Mobile Season 9: Graveyard Shift'
+game: 'Call of Duty Mobile Season 9: Graveyard Shift'
 ---
-
 With Halloween just around the corner, Call of Duty Mobile is now coming with a new update set to bring an eerie and action-packed experience to CODM players, with a recent trailer glimpsing of what's to come.
 
 The trailer showcases a transformed Halloween version of one of Call of Duty Mobile’s maps — Standoff, bathed in moonlight, and exuding an ominous atmosphere. A jack-o'-lantern reaper statue, hanging bats, and eerie shadows adorn the map, adding a Halloween twist to the battleground.

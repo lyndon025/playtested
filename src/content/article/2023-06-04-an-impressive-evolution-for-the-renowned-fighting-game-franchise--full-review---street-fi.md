@@ -1,31 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: Street Fighter™ 6
+description: Street Fighter™ 6 Street Fighter 6 is a 2023 fighting game developed
+  and published by Capcom and the sixth main entry in the Street Fighter franchise,
+  it was recently released and now available for PC, Playstation, and Xbox.
 featured: false
 pubDate: 2023-06-04
 tags:
+- action
+- adventure
+- console
+- fighting
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- street-fighter-6
 - taptap
-- street-fighter™-6
+- xbox series
 thumb: /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-0.avif
 title: An impressive evolution for the renowned fighting game franchise | Full Review
   - Street Fighter 6
+game: Street Fighter 6
+gallery:
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-0.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-1.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-2.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-3.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-4.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-5.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-6.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-7.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-8.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-9.avif
+- /images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-04-an-impressive-evolution-for-the-renowned-fighting-game-franchise--full-review---street-fi-10.avif" alt="screenshot" />
-</div>
-
 Street Fighter™ 6
 Street Fighter 6 is a 2023 fighting game developed and published by Capcom and the sixth main entry in the Street Fighter franchise, it was recently released and now available for PC, Playstation, and Xbox.
 

@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Total War: PHARAOH'
+description: 'Total War: PHARAOH is an refreshing addition to the popular Total War
+  series, with a unique blend of historical strategy and grandeur, set in ancient
+  Egypt. Developed by Creative Assembly, this title delves deep into the mystical
+  world of pharaohs and pyramids, delivering a gaming experience that is somewhat
+  both exhilarating and educational… ableit with creative liberties.'
 featured: false
 pubDate: 2023-10-16
 score: 7.0
 tags:
+- action
+- macos
+- pc
+- strategy
 - taptap
-- total-war:-medieval-ii
+- total-war-pharoah
 thumb: /images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-0.avif
 title: 'Bold new era, same classic Total War | Full Review - Total War: PHAROAH'
+game: 'Total War: PHAROAH'
+gallery:
+- /images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-0.avif
+- /images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-1.avif
+- /images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-2.avif
+- /images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-3.avif
+- /images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-4.avif
+- /images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-16-bold-new-era-same-classic-total-war--full-review---total-war-pharoah-5.avif" alt="screenshot" />
-</div>
-
 Total War: PHARAOH
 6.9
 Action

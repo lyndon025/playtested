@@ -1,28 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Red Ronin (Demo)
+description: Red Ronin is a turn-based dash 'n slash game that follows the story of
+  a bloodthirsty ronin named Red, seeking revenge alongside her companion bot, ISAAC.
+  Betrayed by her former team, Red sets out on a relentless journey for revenge.
 featured: false
 pubDate: 2023-07-18
 tags:
-- taptap
+- action
+- console
+- indie
+- pc
 - red-ronin
+- strategy
+- taptap
+- xbox one
 thumb: /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-0.avif
 title: A puzzle game disguised as a cyberpunk turn-based hack and slash | Review -
   Red Ronin
+game: Red Ronin
+gallery:
+- /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-0.avif
+- /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-1.avif
+- /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-2.avif
+- /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-3.avif
+- /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-4.avif
+- /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-5.avif
+- /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-6.avif
+- /images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-7.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-18-a-puzzle-game-disguised-as-a-cyberpunk-turn-based-hack-and-slash--review---red-ronin-7.avif" alt="screenshot" />
-</div>
-
 Red Ronin (Demo)
 8.2
 Action

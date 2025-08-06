@@ -1,26 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Persona 5: The Phantom X'
+description: 'Persona 5: The Phantom X -- Action RPG'
 featured: false
 pubDate: 2023-07-10
 tags:
+- action
+- adventure
+- console
+- persona-5-x
+- playstation
+- playstation 3
+- playstation 4
+- rpg
 - taptap
-- persona-5:-the-phantom-x
 thumb: /images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-0.avif
 title: This looks like a full Persona game instead of the spin-off that it is | Impressions
   - Persona 5 X
+game: Persona 5 X
+gallery:
+- /images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-0.avif
+- /images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-1.avif
+- /images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-2.avif
+- /images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-3.avif
+- /images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-4.avif
+- /images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-5.avif" alt="screenshot" />
-</div>
-
 Persona 5: The Phantom X
 --
 Action

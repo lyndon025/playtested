@@ -1,33 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Pesticide Not Required
+description: Pesticide Not Required 8.0 Bullet Hell Arena Shooter
 featured: false
 pubDate: 2023-12-22
 score: 9.0
 tags:
+- action
+- pc
+- pesticide-not-required
 - taptap
-- pesticide-not-required:-prologue
 thumb: /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-0.avif
 title: Just one run of the demo and i’m completely sold, now on PC+Mobile (Cloud)
   | Pesticide Not Required
+game: Pesticide Not Required
+gallery:
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-0.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-1.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-2.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-3.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-4.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-5.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-6.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-7.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-8.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-9.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-10.avif
+- /images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-22-just-one-run-of-the-demo-and-im-completely-sold-now-on-pcmobile-cloud--pesticide-not-requ-11.avif" alt="screenshot" />
-</div>
-
 Pesticide Not Required
 8.0
 Bullet Hell

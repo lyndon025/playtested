@@ -8,22 +8,23 @@ featured: true
 pubDate: 2024-07-26
 score: 6.0
 tags:
+- action
+- pc
 - taptap
-- senua’s-saga:-hellblade-ii
+- the-hellblade-saga-dual
+- xbox series
 thumb: /images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-0.avif
 title: Amazing storytelling, but are the games overrated? | The Hellblade Saga - Dual
   Review
+game: The Hellblade Saga - Dual
+gallery:
+- /images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-0.avif
+- /images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-1.avif
+- /images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-2.avif
+- /images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-3.avif
+- /images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-4.avif
+- /images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-amazing-storytelling-but-are-the-games-overrated--the-hellblade-saga---dual-review-5.avif" alt="screenshot" />
-</div>
-
 I recently played both games of The Hellblade Saga, starting with Hellblade: Senua's Sacrifice first in anticipation of the then-upcoming Senua's Saga: Hellblade II, then playing Hellblade II afterward when it released.
 
 Both games are available on Microsoft’s Game Pass subscription service, so I was able to play both of them for basically free, which is amazing for the newly released Hellblade II.

@@ -1,32 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Iron Marines+
+description: Iron Marines is a real-time strategy game developed and published by
+  Ironhide Game Studio. The game is set in a distant future where humanity has spread
+  throughout the galaxy and established colonies on various planets.
 featured: false
 pubDate: 2023-05-09
 tags:
+- action
+- android
+- indie
+- ios
+- iron-marines
+- macos
+- pc
+- strategy
 - taptap
-- iron-marines+
 thumb: /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-0.avif
 title: One of the best Starcraft inspired strategy games made for mobile | Full Review
   - Iron Marines+
+game: Iron Marines
+gallery:
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-0.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-1.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-2.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-3.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-4.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-5.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-6.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-7.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-8.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-9.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-10.avif
+- /images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-one-of-the-best-starcraft-inspired-strategy-games-made-for-mobile--full-review---iron-mar-11.avif" alt="screenshot" />
-</div>
-
 Iron Marines+
 
 lyndonguitar

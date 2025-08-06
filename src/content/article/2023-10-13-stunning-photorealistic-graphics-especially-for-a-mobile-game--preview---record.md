@@ -1,24 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: REC.O.R.D
+description: When I first saw the game reveal of Unrecord four months ago, I was immediately
+  wowed by its ultra-realistic graphics that use body cam-style first-person perspective,
+  blending seamlessly with photorealistic visuals and animations resulting in terrifyingly
+  lifelike visuals. However, this is not Unrecord, but a mobile game titled REC.O.R.D.
+  It's pretty darn close though, even the similar names speaks for themselves.
 featured: false
 pubDate: 2023-10-13
 tags:
+- action
+- mobile
+- pc
+- rec-o-r-d
+- shooter
 - taptap
-- unrecord
 thumb: /images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-0.avif
 title: Stunning photorealistic graphics, especially for a mobile game | Preview -
   REC.O.R.D.
+game: REC.O.R.D.
+gallery:
+- /images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-0.avif
+- /images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-1.avif
+- /images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-2.avif
+- /images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-3.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-13-stunning-photorealistic-graphics-especially-for-a-mobile-game--preview---record-3.avif" alt="screenshot" />
-</div>
-
 REC.O.R.D
 6.7
 Action

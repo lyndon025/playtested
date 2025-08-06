@@ -11,23 +11,28 @@ description: Mega Man Battle Network Legacy Collection is a grand compilation of
 featured: false
 pubDate: 2023-04-15
 tags:
+- action
+- console
+- mega-man-battle-network-legacy-collection
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- rpg
 - taptap
-- mega-man-battle-network-legacy-collection-vol.-1
 thumb: /images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-0.avif
 title: A Pokemon-ized Mega Man game? | First Impressions - Mega Man Battle Network
   Legacy Collection
+game: Mega Man Battle Network Legacy Collection
+gallery:
+- /images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-0.avif
+- /images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-1.avif
+- /images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-2.avif
+- /images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-3.avif
+- /images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-4.avif
+- /images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-5.avif
+- /images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-15-a-pokemon-ized-mega-man-game--first-impressions---mega-man-battle-network-legacy-collecti-6.avif" alt="screenshot" />
-</div>
-
 Mega Man Battle Network Legacy Collection is a grand compilation of the six-part Mega Man Battle Network games (including the dual iterations of 3, 4, 5,  and 6) that were originally released way back in the 2000s for the Game Boy Advance, now ported and remastered for newer gen consoles – Switch, Playstation, and PC. With three games comprising each two Volumes. The game maintains the same GBA 3:2 ratio aspect ratio and instead inserts Mega Man backgrounds for the remaining screen space, with no option for black bars.
 
 The Mega Man Battle Network games, or Battle Network for short, takes place in a distant future where the digital world has taken over people’s daily lives. Players take on the role of the fifth-grader Lan Hikari, a young boy who is the operator of an online Avatar called MegaMan.EXE.

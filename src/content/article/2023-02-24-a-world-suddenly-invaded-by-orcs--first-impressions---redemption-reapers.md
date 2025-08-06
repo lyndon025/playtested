@@ -6,25 +6,25 @@ description: Redemption Reapers is a dark fantasy RPG game that promises a gripp
 featured: false
 pubDate: 2023-02-24
 tags:
-- taptap
+- pc
 - redemption-reapers
+- simulation
+- taptap
 thumb: /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-0.avif
 title: A world suddenly invaded by Orcs | First Impressions - Redemption Reapers
+game: Redemption Reapers
+gallery:
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-0.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-1.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-2.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-3.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-4.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-5.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-6.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-7.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-8.avif
+- /images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-9.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-24-a-world-suddenly-invaded-by-orcs--first-impressions---redemption-reapers-9.avif" alt="screenshot" />
-</div>
-
 Redemption Reapers is a dark fantasy RPG game that promises a gripping story and a challenging turn-based tactics gameplay.
 
 The story is about a world suddenly invaded by orc/goblin-like creatures called the Mort and it's up to our band, Sarah and the disreputable extremely outnumbered Ashen Hawk Brigade, to wage guerilla warfare against the forces of Mort. Your party is composed of five playable characters, skilled warriors each with their own contradicting personalities and backstories. All of which come into play into this intriguing family dynamic.

@@ -8,13 +8,18 @@ description: MOBILE SUIT GUNDAM U.C. ENGAGE is a Gacha 6v6 Autobattler game allo
 featured: false
 pubDate: 2023-10-18
 tags:
+- action
+- console
+- mobile-suit-gundam-u-c-engage
+- pc
+- playstation
+- playstation 4
 - taptap
-- mobile-suit-gundam-u.c.-engage
 thumb: ''
 title: Engage in 6v6 autobattles with an array of iconic mobile suits | MOBILE SUIT
   GUNDAM U.C. ENGAGE
+game: MOBILE SUIT GUNDAM U.C. ENGAGE
 ---
-
 MOBILE SUIT GUNDAM U.C. ENGAGE is a Gacha 6v6 Autobattler game allowing players to engage in strategic battles featuring an array of beloved mobile suits and pilots. With its recent global release, this game is now accessible to fans worldwide.
 
 The game offers an enticing blend of classic Gundam lore and a new narrative that combines animation with engaging battles and adventures. It's possibly a dream come true for fans of the Universal Century timeline, as it brings together various iconic characters and mobile suits in a single mobile game.

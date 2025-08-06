@@ -1,27 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: Resident Evil 4Global
+description: The 2023 GOTY contender Resident Evil 4 has finally made its mark on
+  Apple devices, bringing the recent and already iconic survival horror experience
+  to mobile phones, tablets, and Mac. Capcom's decision to release this remake on
+  Apple devices is a significant milestone for mobile gaming, especially considering
+  the game's recent release this year for current-gen consoles and PC. This is probably
+  the first time we are getting a 1:1 mobile port of a technically and visually impressive
+  AAA game, in the same year.
 featured: false
 pubDate: 2023-12-21
 score: 7.0
 tags:
+- action
+- adventure
+- console
+- ios
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- resident-evil-4
 - taptap
-- resident-evil-4-(2005)
+- xbox series
 thumb: /images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-0.avif
 title: A solid mobile port, except for the touch controls | Review - Resident Evil
   4 Remake
+game: Resident Evil 4
+gallery:
+- /images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-0.avif
+- /images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-1.avif
+- /images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-2.avif
+- /images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-3.avif
+- /images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-4.avif
+- /images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-21-a-solid-mobile-port-except-for-the-touch-controls--review---resident-evil-4-remake-5.avif" alt="screenshot" />
-</div>
-
 Resident Evil 4Global
 8.8
 Editors' Choice

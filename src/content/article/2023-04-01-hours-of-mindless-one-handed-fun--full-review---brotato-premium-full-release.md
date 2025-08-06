@@ -9,28 +9,28 @@ description: Brotato is a survival roguelite wave shooter playable with one hand
 featured: false
 pubDate: 2023-04-01
 tags:
+- action
+- android
+- brotato-premium
 - taptap
-- brotato
 thumb: /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-0.avif
 title: Hours of mindless one-handed fun | Full Review - Brotato Premium (Full Release)
+game: 'Brotato: Premium'
+gallery:
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-0.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-1.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-2.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-3.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-4.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-5.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-6.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-7.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-8.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-9.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-10.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-11.avif
+- /images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-12.avif" alt="screenshot" />
-</div>
-
 Brotato is a survival roguelite wave shooter playable with one hand. Originally released for PCs as an early access, it has now been recently released on Android and iOS as a full title, after going into an open beta just recently. This mobile release brings the game closer to feature parity with the existing PC version.
 
 

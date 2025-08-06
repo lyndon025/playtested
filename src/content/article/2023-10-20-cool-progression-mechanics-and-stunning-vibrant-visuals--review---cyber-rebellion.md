@@ -1,25 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cyber Rebellion
+description: Cyber Rebellion is an upcoming mobile game that falls into the strategic
+  hero collection genre with a cyberpunk theme. It's set in a future world, particularly
+  in the year 2177, where human civilization has entered the Cyber Era.  the game
+  is set to have its soft launch on October 25, and I was fortunate enough to get
+  a sneak peek preview of the game before its release.
 featured: false
 pubDate: 2023-10-20
 score: 7.0
 tags:
-- taptap
+- action
+- adventure
+- casual
 - cyber-rebellion
+- pc
+- taptap
 thumb: /images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-0.avif
 title: Cool progression mechanics and stunning vibrant visuals | Review - Cyber Rebellion
+game: Cyber Rebellion
+gallery:
+- /images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-0.avif
+- /images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-1.avif
+- /images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-2.avif
+- /images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-3.avif
+- /images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-20-cool-progression-mechanics-and-stunning-vibrant-visuals--review---cyber-rebellion-4.avif" alt="screenshot" />
-</div>
-
 Cyber Rebellion
 7.6
 RPG

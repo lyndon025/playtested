@@ -16,22 +16,18 @@ gallery:
 pubDate: 2024-07-26
 score: 9.0
 tags:
+- action
+- console
+- helldivers-2
+- pc
+- playstation
+- playstation 5
 - taptap
-- Helldivers 2
 thumb: /images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-0.avif
 title: One of the most naturally cinematic games I've played in recent years | Helldivers
   2 - Review
+game: HELLDIVERS 2
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-07-26-one-of-the-most-naturally-cinematic-games-ive-played-in-recent-years--helldivers-2---late-5.avif" alt="screenshot" />
-</div>
-
 For the past few months, there is only one game that has mostly kept me busy playing throughout sleepness nights and weekends, and you're probably tired of hearing about it. Helldivers 2. A coop shooter with hardcore elements and action-packed cinematic gameplay.
 
 What is Helldivers 2? How is the Gameplay?

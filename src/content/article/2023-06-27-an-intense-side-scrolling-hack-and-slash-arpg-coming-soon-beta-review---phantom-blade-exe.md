@@ -1,32 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Phantom Blade: Executioners'
+description: 'Phantom Blade: Executioners is a 2D side-scrolling martial arts hack
+  and slash game available on PC, Android, and iOS, featuring full crossplay functionality.
+  It is currently hosting a live open beta test from June 26 to July 10, 2023.'
 featured: false
 pubDate: 2023-06-27
 tags:
+- beta-review-phantom-blade-executioners
+- pc
+- platformer
 - taptap
-- phantom-blade:-executioners
 thumb: /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-0.avif
 title: 'An intense side-scrolling hack and slash ARPG coming soon| Beta Review - Phantom
   Blade: Executioners'
+game: 'Beta Review - Phantom Blade: Executioners'
+gallery:
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-0.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-1.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-2.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-3.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-4.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-5.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-6.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-7.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-8.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-9.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-10.avif
+- /images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-11.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-11.avif" alt="screenshot" />
-</div>
-
 Phantom Blade: Executioners
 
 lyndonguitar

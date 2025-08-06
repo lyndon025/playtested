@@ -1,26 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Lies of P
+description: Lies of P Ever since Dark Souls' success in 2011, there has been no shortage
+  of these so-called Souls-like games. And now, we have another game with Lies of
+  P, and it's one of the most promising entries yet in the Souls-like genre.
 featured: false
 pubDate: 2023-09-17
 tags:
-- taptap
+- action
+- console
 - lies-of-p
+- macos
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- taptap
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-0.avif
 title: Feels like the spiritual successor to Bloodborne | Full Review - Lies of P
+game: Lies Of P
+gallery:
+- /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-0.avif
+- /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-1.avif
+- /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-2.avif
+- /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-3.avif
+- /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-4.avif
+- /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-5.avif
+- /images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-17-feels-like-the-spiritual-successor-to-bloodborne--full-review---lies-of-p-6.avif" alt="screenshot" />
-</div>
-
 Lies of P
 Ever since Dark Souls' success in 2011, there has been no shortage of these so-called Souls-like games. And now, we have another game with Lies of P, and it's one of the most promising entries yet in the Souls-like genre.
 

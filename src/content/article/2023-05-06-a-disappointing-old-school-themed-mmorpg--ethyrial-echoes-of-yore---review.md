@@ -1,36 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Ethyrial: Echoes of Yore'
+description: 'Ethyrial: Echoes of Yore is an MMORPG with voxel based graphics, old
+  school looks, and hardcore mechanics.'
 featured: false
 pubDate: 2023-05-06
 tags:
+- ethyrial-echoes-of-yore
+- indie
+- massively multiplayer
+- pc
+- rpg
 - taptap
-- ethyrial:-echoes-of-yore
 thumb: /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-0.avif
 title: 'A disappointing old school themed MMORPG | Ethyrial: Echoes of Yore - Review'
+game: 'Ethyrial: Echoes of Yore'
+gallery:
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-0.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-1.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-2.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-3.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-4.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-5.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-6.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-7.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-8.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-9.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-10.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-11.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-12.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-13.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-14.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-15.avif
+- /images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-16.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-06-a-disappointing-old-school-themed-mmorpg--ethyrial-echoes-of-yore---review-16.avif" alt="screenshot" />
-</div>
-
 Ethyrial: Echoes of Yore
 
 lyndonguitar

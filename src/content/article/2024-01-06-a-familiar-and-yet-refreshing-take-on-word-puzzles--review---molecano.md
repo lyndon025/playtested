@@ -1,26 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Molecano
+description: Molecano is a mobile word puzzle game that takes players journey throughout
+  food and volcanoes with Molene the mole. Developed by the creator of Dadish and
+  Super Fowlst, the game offers a blend of scrabble/crossword and Wordscapes-style
+  puzzles, requiring players to form words out of jumbled letters and connect the
+  words together on the map.
 featured: false
 pubDate: 2024-01-06
 score: 8.0
 tags:
-- taptap
+- action
+- casual
+- indie
+- macos
 - molecano
+- pc
+- taptap
 thumb: /images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-0.avif
 title: A familiar and yet refreshing take on word puzzles | Review - Molecano
+game: Molecano
+gallery:
+- /images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-0.avif
+- /images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-1.avif
+- /images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-2.avif
+- /images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-3.avif
+- /images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-4.avif
+- /images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-06-a-familiar-and-yet-refreshing-take-on-word-puzzles--review---molecano-5.avif" alt="screenshot" />
-</div>
-
 Molecano
 8.7
 Word

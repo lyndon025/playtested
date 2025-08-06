@@ -1,25 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Starstride
+description: ✨Overview Starstride is an online hack and slash action RPG where dragons
+  and magic meet space travel and technology. I had the opportunity to play a seemingly
+  very early version of the game, which is currently in development, and it holds
+  a lot of promise. The game is planned for release on both mobile and PC (Steam),
+  although a clear release timeline has not been provided yet.
 featured: false
 pubDate: 2023-09-24
 tags:
+- early-preview-starstride
+- pc
+- shooter
 - taptap
-- starstride
 thumb: /images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-0.avif
 title: '[Indie Spotlight] Dragons and Magic meets Space Travel and Technology | Early
   Preview - Starstride'
+game: Early Preview - Starstride
+gallery:
+- /images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-0.avif
+- /images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-1.avif
+- /images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-2.avif
+- /images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-3.avif
+- /images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-24-indie-spotlight-dragons-and-magic-meets-space-travel-and-technology--early-preview---star-4.avif" alt="screenshot" />
-</div>
-
 Starstride
 8.4
 Action

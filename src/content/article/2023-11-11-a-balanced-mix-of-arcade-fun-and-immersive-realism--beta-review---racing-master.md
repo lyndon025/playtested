@@ -1,24 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Racing MasterTest SEA
+description: Racing Master, a mix of arcade and realistic sim racing game, zooms onto
+  the mobile and PC gaming scene with a Closed Regional Beta Test for the US region,
+  this closed beta runs from November 9 to November 28, 2023, offering players a glimpse
+  of the game before an official release. (note that beta progress will be wiped out)
 featured: false
 pubDate: 2023-11-11
 tags:
+- adventure
+- beta-review-racing-master
+- pc
+- shooter
 - taptap
-- forza-horizon-5
 thumb: /images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-0.avif
 title: A balanced mix of arcade fun and immersive realism | Beta Review - Racing Master
+game: Beta Review - Racing Master
+gallery:
+- /images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-0.avif
+- /images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-1.avif
+- /images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-2.avif
+- /images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-3.avif
+- /images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-11-a-balanced-mix-of-arcade-fun-and-immersive-realism--beta-review---racing-master-4.avif" alt="screenshot" />
-</div>
-
 Racing MasterTest SEA
 --
 Racing

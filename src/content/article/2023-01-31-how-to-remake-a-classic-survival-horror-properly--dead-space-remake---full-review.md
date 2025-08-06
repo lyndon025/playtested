@@ -10,35 +10,40 @@ description: Dead Space is a survival horror game set on a derelict mining ship 
 featured: false
 pubDate: 2023-01-31
 tags:
+- action
+- console
+- dead-space-remake
+- pc
+- playstation 3
+- shooter
 - taptap
-- dead-space
+- xbox 360
+- xbox one
 thumb: /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-0.avif
 title: How to remake a classic survival horror properly | Dead Space Remake - Full
   Review
+game: Dead Space Remake
+gallery:
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-0.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-1.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-2.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-3.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-4.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-5.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-6.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-7.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-8.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-9.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-10.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-11.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-12.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-13.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-14.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-15.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-16.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-17.avif
+- /images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-18.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-18.avif" alt="screenshot" />
-</div>
-
 Dead Space is a survival horror game set on a derelict mining ship in space, populated by swarms of zombie-like creatures called Necromorphs. It is a remake of the 2008 classic, which was released with critical acclaim. Continued by another amazing game in 2011 with Dead Space 2, followed by a mixed reception to the third game in 2013, in which the franchise has been on hiatus since until now.
 
 Is the remake worth revisiting? Is it a worthy first impression for franchise newcomers?

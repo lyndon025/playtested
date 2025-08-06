@@ -1,33 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Guardian Chronicle R
+description: Guardian Chronicle R is a tower defense hero collecting game featuring
+  puzzle elements and PvP / coop action.
 featured: false
 pubDate: 2023-05-16
 tags:
+- action
+- casual
+- guardian-chronicle
+- ios
+- pc
+- strategy
 - taptap
-- guardian-chronicle-r
 thumb: /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-0.avif
 title: A satisfying PvP tower defense and hero fusing game | Full Review - Guardian
   Chronicle R
+game: Guardian Chronicle
+gallery:
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-0.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-1.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-2.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-3.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-4.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-5.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-6.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-7.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-8.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-9.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-10.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-11.avif
+- /images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-12.avif" alt="screenshot" />
-</div>
-
 Guardian Chronicle R
 
 lyndonguitar

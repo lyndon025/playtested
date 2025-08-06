@@ -1,26 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Persona 5 Tactica
+description: ✨Overview From its indie spin-off roots to its present status that I
+  would describe as the current flagship JRPG game series, Persona has undeniably
+  come a long way. Now, it is venturing into even more genres with successful experiments,
+  beginning with games like Persona 5 Strikers featuring real-time combat and, most
+  recently, Persona 5 Tactica, adopting a Final Tactics-style grid-based combat system.
 featured: false
 pubDate: 2023-11-20
 score: 8.0
 tags:
+- action
+- console
+- nintendo switch
+- pc
+- persona-5-tactica
+- playstation
+- playstation 4
+- playstation 5
+- rpg
+- strategy
 - taptap
-- persona®-5-strikers
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-0.avif
 title: A revolutionary spin-off that merges tactics with Persona’s magic | Review
   - Persona 5 Tactica
+game: Persona 5 Tactica
+gallery:
+- /images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-0.avif
+- /images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-1.avif
+- /images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-2.avif
+- /images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-3.avif
+- /images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-20-a-revolutionary-spin-off-that-merges-tactics-with-personas-magic--review---persona-5-tact-4.avif" alt="screenshot" />
-</div>
-
 Persona 5 Tactica
 9.6
 Anime

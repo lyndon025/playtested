@@ -1,25 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cat of Khronos
+description: Cat of Khronos is a time traveling puzzle game with mind bending mechanics
+  that is sure to keep players captivated and their brains challenged as they navigate
+  through various “4D” puzzles
 featured: false
 pubDate: 2023-05-27
 tags:
-- taptap
+- adventure
+- android
+- card
 - cat-of-khronos
+- console
+- indie
+- ios
+- linux
+- macos
+- nintendo switch
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif
 title: Mind-boggling time travel 2D puzzle game | Full Review - Cat of Khronos
+game: Cat of Khronos
+gallery:
+- /images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif
+- /images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-1.avif
+- /images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-2.avif
+- /images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-3.avif
+- /images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-4.avif
+- /images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-5.avif" alt="screenshot" />
-</div>
-
 Cat of Khronos
 
 lyndonguitar

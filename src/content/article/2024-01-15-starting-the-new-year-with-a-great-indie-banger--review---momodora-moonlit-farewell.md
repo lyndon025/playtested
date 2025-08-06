@@ -1,27 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Momodora: Moonlit Farewell'
+description: 'Momodora: Moonlit Farewell is the latest installment in the Momodora
+  game series. After an almost a decade of absence, Momodora is finally back. It offers
+  a blend of Metroidvania and 2D Souls-like gameplay wrapped in a retro pixel art
+  style. Set in the village of Koho, the game follows the High Priestess Momo Reinol
+  as she embarks on a divine mission to save her people from a demonic invasion unleashed
+  by a malevolent bellringer.'
 featured: false
 pubDate: 2024-01-15
 score: 9.0
 tags:
+- action
+- adventure
+- indie
+- momodora-moonlit-farewell
+- pc
 - taptap
-- momodora:-reverie-under-the-moonlight
 thumb: /images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-0.avif
 title: 'Starting the new year with a great indie banger | Review - Momodora: Moonlit
   Farewell'
+game: 'Momodora: Moonlit Farewell'
+gallery:
+- /images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-0.avif
+- /images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-1.avif
+- /images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-2.avif
+- /images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-3.avif
+- /images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-4.avif
+- /images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-5.avif" alt="screenshot" />
-</div>
-
 Momodora: Moonlit Farewell
 8.3
 Action

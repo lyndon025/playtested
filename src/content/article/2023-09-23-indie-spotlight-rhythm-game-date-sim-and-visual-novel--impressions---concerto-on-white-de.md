@@ -8,13 +8,15 @@ description: Concerto on White consists of two main ideas blended into one harmo
 featured: false
 pubDate: 2023-09-23
 tags:
+- concerto-on-white-demo
+- simulation
 - taptap
-- concerto-on-white
+- web
 thumb: ''
 title: '[Indie Spotlight] Rhythm game, date sim, and visual novel? | Impressions -
   Concerto on White (Demo)'
+game: Concerto on White (Demo)
 ---
-
 Concerto on White consists of two main ideas blended into one harmonious composition. The school academy life, and actual rhythm game gameplay. The school academy life is where you can attend classes, interact with your schoolmates, and practice music, all presented in a chapter-style visual novel storytelling.
 
 The rhythm game segments are accessible as also part of the story chapters and during free-play mode. The rhythm game mechanics are quite novel in its design and concept, fun and engaging too. Your left hand is constantly adjusting the keys up and down while your right is hitting the correct notes at the right time. The whole mechanic is quite confusing at the start, and I needed a second run of the tutorials to finally get it. Once it clicks though, it’s as easy as any other rhythm game. There are a few musical pieces available to try in free mode, including the ever popular Canon in D. The game plans to include more pieces and an editor as well.

@@ -1,25 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: Ogu and the Secret Forest
+description: Ogu and the Secret Forest 9.1 Adventure Healing Test
 featured: false
 pubDate: 2023-04-25
 tags:
+- early-access-impressions-ogu-and-the-secret-forest
+- pc
+- rpg
 - taptap
-- ogu-and-the-secret-forest
 thumb: /images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-0.avif
 title: A very charming 2D action-adventure game | Early Access Impressions - Ogu and
   the Secret Forest
+game: Early Access Impressions - Ogu and the Secret Forest
+gallery:
+- /images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-0.avif
+- /images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-1.avif
+- /images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-2.avif
+- /images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-3.avif
+- /images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-4.avif" alt="screenshot" />
-</div>
-
 Ogu and the Secret Forest
 9.1
 Adventure

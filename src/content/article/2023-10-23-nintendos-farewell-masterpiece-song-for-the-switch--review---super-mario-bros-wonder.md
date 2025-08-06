@@ -1,27 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Super Mario Bros.™ Wonder
+description: Developed and published by Nintendo for the Nintendo Switch, Super Mario
+  Bros. Wonder marks the return of traditional side-scrolling Mario after a decade-long
+  hiatus. The game introduces us to the Flower Kingdom, a vibrant and fantastical
+  world neighboring Mushroom Kingdom that's filled with surprises and extraordinary
+  gameplay mechanics.
 featured: false
 pubDate: 2023-10-23
 score: 10.0
 tags:
+- adventure
+- console
+- nintendo switch
+- super-mario-bros-wonder
 - taptap
-- super-mario-world-(snes,-gba)
 thumb: /images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-0.avif
 title: Nintendo's farewell masterpiece song for the Switch | Review - Super Mario
   Bros. Wonder
+game: Super Mario Bros. Wonder
+gallery:
+- /images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-0.avif
+- /images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-1.avif
+- /images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-2.avif
+- /images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-3.avif
+- /images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-4.avif
+- /images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-23-nintendos-farewell-masterpiece-song-for-the-switch--review---super-mario-bros-wonder-5.avif" alt="screenshot" />
-</div>
-
 Super Mario Bros.™ Wonder
 9.3
 Platformer

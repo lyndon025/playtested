@@ -8,13 +8,23 @@ description: Layers of Fear (2023) is a remake of the original two games plus it
 featured: false
 pubDate: 2023-06-19
 tags:
-- taptap
+- adventure
+- console
+- indie
+- ios
 - layers-of-fear
+- linux
+- macos
+- pc
+- playstation
+- playstation 4
+- taptap
+- xbox one
 thumb: ''
 title: The series reimagined and remade into one game | First Impressions - Layers
   of Fear
+game: Layers of Fear
 ---
-
 Layers of Fear (2023) is a remake of the original two games plus its DLC introduces a reimagined story, stunning visuals, and a comprehensive package that will captivate fans of the series, while serving as a good entry point for newcomers..
 
 The core gameplay of Layers of Fear is a game of exploration and discovery. As players assume the role of the various artists, starting with the writer and painter, they venture through a dark and foreboding mansion, slowly unraveling the layers of the protagonists’ disturbed psyche. The game's minimalist design when it comes to story progression, quest markers, and navigation enhances the sense of isolation and vulnerability, placing emphasis on atmospheric exploration and storytelling rather than extensive gameplay mechanics.

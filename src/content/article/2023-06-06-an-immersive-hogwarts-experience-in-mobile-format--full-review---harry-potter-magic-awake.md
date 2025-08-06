@@ -1,33 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Harry Potter: Magic AwakenedUS'
+description: 'lyndonguitar Download Harry Potter: Magic Awakened is a free-to-play
+  third-person and deck-building game for mobile devices. It features a live-service
+  game format and stylized graphics that magically recreates the wonderful Wizarding
+  World of Harry Potter.'
 featured: false
 pubDate: 2023-06-06
 tags:
+- adventure
+- android
+- harry-potter-magic-awakened
+- ios
+- strategy
 - taptap
-- harry-potter:-magic-awakened
 thumb: /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-0.avif
 title: 'An immersive Hogwarts experience in mobile format | Full Review - Harry Potter:
   Magic Awakened'
+game: 'Harry Potter: Magic Awakened'
+gallery:
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-0.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-1.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-2.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-3.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-4.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-5.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-6.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-7.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-8.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-9.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-10.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-11.avif
+- /images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-12.avif" alt="screenshot" />
-</div>
-
 Harry Potter: Magic AwakenedUS
 
 lyndonguitar

@@ -7,30 +7,33 @@ description: Death in the Water 2 is a single-player horror FPS game that is set
 featured: false
 pubDate: 2023-01-29
 tags:
-- taptap
+- action
+- adventure
 - death-in-the-water-2
+- indie
+- pc
+- shooter
+- taptap
 thumb: /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-0.avif
 title: Test your fear of the ocean in this underwater horror game | Death in the Water
   2 - Full Review
+game: Death in the Water 2
+gallery:
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-0.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-1.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-2.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-3.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-4.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-5.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-6.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-7.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-8.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-9.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-10.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-11.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-12.avif
+- /images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-13.avif" alt="screenshot" />
-</div>
-
 Death in the Water 2 is a single-player horror FPS game that is set deep underwater, pitting you — a specialist deep-water diver — against various mind controlled sea creatures perpetuated by a sinister being – The Kraken, or what they call Death.
 
 

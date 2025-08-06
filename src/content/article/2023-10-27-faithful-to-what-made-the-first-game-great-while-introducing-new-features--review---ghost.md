@@ -1,27 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Ghostrunner 2
+description: Ghostrunner 2 is a game that features lightning-fast, one-hit-kill combat
+  and parkour gameplay. Developed by One More Level and published by 505 Games, this
+  game aims to capture the essence of the first while expanding on its foundation,
+  offering a compelling experience for fans and newcomers alike.
 featured: false
 pubDate: 2023-10-27
 score: 8.0
 tags:
+- action
+- console
+- ghostrunner-2
+- pc
+- playstation
+- playstation 5
 - taptap
-- ghostrunner
+- xbox series
 thumb: /images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-0.avif
 title: Faithful to what made the first game great while introducing new features |
   Review - Ghostrunner 2
+game: Ghostrunner 2
+gallery:
+- /images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-0.avif
+- /images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-1.avif
+- /images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-2.avif
+- /images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-3.avif
+- /images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-4.avif
+- /images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-27-faithful-to-what-made-the-first-game-great-while-introducing-new-features--review---ghost-5.avif" alt="screenshot" />
-</div>
-
 Ghostrunner 2
 8.8
 RPG

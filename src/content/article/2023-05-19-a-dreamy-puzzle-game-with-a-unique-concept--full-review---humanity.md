@@ -1,33 +1,44 @@
 ---
 author: lyndonguitar
 category: Review
-description: HUMANITY
+description: HUMANITY HUMANITY is a third-person puzzle game available for PC and
+  PlayStation where you assume the role of a dog guiding crowds of humans to their
+  destination.
 featured: false
 pubDate: 2023-05-19
 tags:
-- taptap
+- action
+- casual
+- console
 - humanity
+- indie
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- puzzle
+- strategy
+- taptap
+- xbox series
 thumb: /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif
 title: A dreamy puzzle game with a unique concept | Full Review - HUMANITY
+game: Humanity
+gallery:
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-1.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-2.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-3.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-4.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-5.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-6.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-7.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-8.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-9.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-10.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-11.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-12.avif
+- /images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-13.avif" alt="screenshot" />
-</div>
-
 HUMANITY
 HUMANITY is a third-person puzzle game available for PC and PlayStation where you assume the role of a dog guiding crowds of humans to their destination.
 

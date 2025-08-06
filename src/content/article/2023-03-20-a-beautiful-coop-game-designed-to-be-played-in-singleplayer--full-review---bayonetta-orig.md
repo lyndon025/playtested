@@ -7,33 +7,35 @@ description: 'Bayonetta Origins: Cereza and the Lost Demon is a brand new advent
 featured: false
 pubDate: 2023-03-20
 tags:
+- action
+- adventure
+- bayonetta-origins
+- console
+- nintendo switch
 - taptap
-- bayonetta-origins:-cereza-and-the-lost-demon
 thumb: /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-0.avif
 title: A beautiful coop game, designed to be played in singleplayer | Full Review
   - Bayonetta Origins
+game: Bayonetta Origins
+gallery:
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-0.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-1.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-2.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-3.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-4.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-5.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-6.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-7.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-8.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-9.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-10.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-11.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-12.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-13.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-14.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-15.avif
+- /images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-16.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-16.avif" alt="screenshot" />
-</div>
-
 Bayonetta Origins: Cereza and the Lost Demon is a brand new adventure game with puzzle elements, and a cooperative experience designed to be played in single player.
 
 

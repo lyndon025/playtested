@@ -9,22 +9,25 @@ description: Party Animals is a multiplayer physics-based brawler and party game
 featured: false
 pubDate: 2023-09-22
 tags:
-- taptap
+- action
+- casual
+- indie
 - party-animals
+- pc
+- taptap
+- xbox series
 thumb: /images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-0.avif
 title: Frustratingly hilariously chaotic fun | Full Review - Party Animals
+game: Party Animals
+gallery:
+- /images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-0.avif
+- /images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-1.avif
+- /images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-2.avif
+- /images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-3.avif
+- /images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-4.avif
+- /images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-5.avif
+- /images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-22-frustratingly-hilariously-chaotic-fun--full-review---party-animals-6.avif" alt="screenshot" />
-</div>
-
 Party Animals is a multiplayer physics-based brawler and party game developed by Recreate Games and published by Source Technology. This game brings a delightful selection of cute anthropomorphic animals in chaotic battles, similar to like Gang Beasts and Gummy Life. With its unique blend of physics-based combat and Fall Guys-style objectives, it offers players a hilariously chaotic fun experience.
 
 

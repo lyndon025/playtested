@@ -7,34 +7,37 @@ description: There’s been a resurgence of Metroidvania games lately, and it’
 featured: false
 pubDate: 2023-02-19
 tags:
-- taptap
+- action
+- adventure
 - elderand
+- indie
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-0.avif
 title: It’s impossible not to die too many times in this Metroidvania game | Full
   Review - Elderand
+game: Elderand
+gallery:
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-0.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-1.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-2.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-3.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-4.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-5.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-6.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-7.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-8.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-9.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-10.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-11.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-12.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-13.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-14.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-15.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-16.avif
+- /images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-17.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-17.avif" alt="screenshot" />
-</div>
-
 There’s been a resurgence of Metroidvania games lately, and it’s not stopping anytime soon. Elderand is another addition to the growing list, and it is not for the faint of heart, both with regard to gameplay and theme.
 
 

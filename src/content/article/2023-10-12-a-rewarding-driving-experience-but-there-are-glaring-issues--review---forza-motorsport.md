@@ -1,26 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Forza Motorsport
+description: Forza Motorsport is the thirteenth installment in the renowned Forza
+  racing video game series. It is a soft reboot of sorts with high expectations and
+  a storied history to uphold, this racing simulation game has faced the challenge
+  of redefining the series for a new generation.
 featured: false
 pubDate: 2023-10-12
 score: 6.0
 tags:
-- taptap
 - forza-motorsport
+- pc
+- racing
+- taptap
+- xbox series
 thumb: /images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-0.avif
 title: A rewarding driving experience, but there are glaring issues | Review - Forza
   Motorsport
+game: Forza Motorsport
+gallery:
+- /images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-0.avif
+- /images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-1.avif
+- /images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-2.avif
+- /images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-3.avif
+- /images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-12-a-rewarding-driving-experience-but-there-are-glaring-issues--review---forza-motorsport-4.avif" alt="screenshot" />
-</div>
-
 Forza Motorsport
 8.6
 Racing

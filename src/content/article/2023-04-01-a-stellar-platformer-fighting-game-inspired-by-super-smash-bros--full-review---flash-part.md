@@ -7,30 +7,31 @@ description: Flash Party is a platformer fighting game developed by XD and is re
 featured: false
 pubDate: 2023-04-01
 tags:
-- taptap
+- action
 - flash-party
+- ios
+- pc
+- taptap
 thumb: /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-0.avif
 title: A stellar platformer fighting game inspired by Super Smash Bros. | Full Review
   - Flash Party
+game: Flash Party
+gallery:
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-0.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-1.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-2.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-3.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-4.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-5.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-6.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-7.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-8.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-9.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-10.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-11.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-12.avif
+- /images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-01-a-stellar-platformer-fighting-game-inspired-by-super-smash-bros--full-review---flash-part-13.avif" alt="screenshot" />
-</div>
-
 Flash Party is a platformer fighting game developed by XD and is released free-to-play for both Android and PC platforms, featuring a gameplay inspired by Super Smash Bros., with its own original characters and live-service element.
 
 

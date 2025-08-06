@@ -1,23 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dancing Duelists
+description: In Dancing Duelists, you step into the shoes of one of ten charming,
+  cartoonish characters, each radiating a unique silly vibe. The goal is straightforward
+  - win seven battles to claim the title of the ultimate Dance Duelist. However, be
+  wary of accumulating three losses, as that spells your way out of the competition.
+  It's also a roguelike in the truest sense, with every defeat resetting your progress.
 featured: false
 pubDate: 2023-10-21
 tags:
-- taptap
 - dancing-duelists
+- indie
+- macos
+- pc
+- strategy
+- taptap
 thumb: /images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-0.avif
 title: Charming, albeit very short, 'card-off' extravaganza | Dancing Duelists
+game: Dancing Duelists
+gallery:
+- /images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-0.avif
+- /images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-1.avif
+- /images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-2.avif
+- /images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-3.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-21-charming-albeit-very-short-card-off-extravaganza--dancing-duelists-3.avif" alt="screenshot" />
-</div>
-
 Dancing Duelists
 8.5
 Strategy

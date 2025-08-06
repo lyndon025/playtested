@@ -1,25 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Party Animals
+description: Party Animals is a multiplayer physics-based brawler and party game developed
+  by Recreate Games and published by Source Technology. The game features a variety
+  of anthropomorphic animals with unique looks engaging in chaotic and fun-filled
+  battles.
 featured: false
 pubDate: 2023-09-03
 tags:
-- taptap
+- action
+- casual
+- indie
 - party-animals
+- pc
+- taptap
+- xbox series
 thumb: /images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif
 title: Can this cute challenger dethrone Gang Beasts?! | Impressions - Party Animals
+game: Party Animals
+gallery:
+- /images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif
+- /images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-1.avif
+- /images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-2.avif
+- /images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-3.avif
+- /images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-4.avif
+- /images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-5.avif" alt="screenshot" />
-</div>
-
 Party Animals
 8.3
 Editors' Choice

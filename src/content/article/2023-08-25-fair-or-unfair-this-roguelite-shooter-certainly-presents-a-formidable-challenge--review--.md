@@ -1,29 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Bibots
+description: Bibots is a roguelite dungeon crawler shooter where players take on the
+  role of a warrior that can pilot mech armors called Bibots. As Tayar, you are the
+  only one left standing (literally) and the only savior of his world.
 featured: false
 pubDate: 2023-08-25
 tags:
-- taptap
+- action
 - bibots
+- indie
+- pc
+- taptap
 thumb: /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---0.avif
 title: Fair or unfair, this roguelite shooter certainly presents a formidable challenge
   | Review - Bibots
+game: Bibots
+gallery:
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---0.avif
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---1.avif
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---2.avif
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---3.avif
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---4.avif
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---5.avif
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---6.avif
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---7.avif
+- /images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---8.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---8.avif" alt="screenshot" />
-</div>
-
 Bibots
 
 Bibots is a roguelite dungeon crawler shooter where players take on the role of a warrior that can pilot mech armors called Bibots. As Tayar, you are the only one left standing (literally) and the only savior of his world.

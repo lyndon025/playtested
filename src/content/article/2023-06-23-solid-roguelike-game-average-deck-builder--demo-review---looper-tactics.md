@@ -1,26 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Looper Tactics
+description: Looper Tactics is a turn-based strategy card game infused with roguelike
+  elements, and presents players with a journey through a procedurally generated world
+  of eternal life and death.
 featured: false
 pubDate: 2023-06-23
 tags:
+- casual
+- indie
+- pc
+- review-looper-tactics
+- rpg
+- strategy
 - taptap
-- looper-tactics
 thumb: /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif
 title: Solid roguelike game, average deck builder | Demo Review - Looper Tactics
+game: Review - Looper Tactics
+gallery:
+- /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif
+- /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-1.avif
+- /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-2.avif
+- /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-3.avif
+- /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-4.avif
+- /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-5.avif
+- /images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-6.avif" alt="screenshot" />
-</div>
-
 Looper Tactics
 
 Looper Tactics is a turn-based strategy card game infused with roguelike elements, and presents players with a journey through a procedurally generated world of eternal life and death.

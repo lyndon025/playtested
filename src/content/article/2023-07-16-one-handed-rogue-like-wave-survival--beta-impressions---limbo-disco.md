@@ -6,12 +6,17 @@ description: Limbo Disco follows in the footsteps of similar titles Vampire Surv
 featured: false
 pubDate: 2023-07-16
 tags:
-- taptap
+- adventure
+- casual
+- indie
 - limbo-disco
+- pc
+- simulation
+- taptap
 thumb: ''
 title: One-handed rogue-like wave survival! | Beta Impressions - Limbo Disco
+game: Limbo Disco
 ---
-
 Limbo Disco follows in the footsteps of similar titles Vampire Survivors and Brotato, with its addicting allure entirely playable with one-handed.
 
 Players start by selecting a character from a flavorful roster, each with their own unique personality, attack types, and upgradable stats that are upgradable as you progress throughout the game and collect more materials. The attack types are closely tied to the character and their weapon. Additionally, players have the option to bring in up to four supporting characters, essentially forming their weapon pool.

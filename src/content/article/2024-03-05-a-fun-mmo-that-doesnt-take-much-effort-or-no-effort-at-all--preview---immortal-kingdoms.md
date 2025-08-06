@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Immortal Kingdoms M Playpark
+description: ✨Overview Immortal Kingdoms is an upcoming fantasy MMORPG for both mobile
+  and PC. The game promises a variety of gameplay mechanics, including solid idle
+  RPG features that allows players to automate many aspects of the game, as well as
+  traditional MMORPG elements such as PvP, PvE, character progression, and customization.
 featured: false
 pubDate: 2024-03-05
 tags:
+- action
+- android
+- immortal-kingdoms
+- ios
+- pc
+- rpg
 - taptap
-- immortal-kingdoms-m-playpark
 thumb: /images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-0.avif
 title: A fun MMO that doesn’t take much effort (or no effort at all) | Preview - Immortal
   Kingdoms
+game: Immortal Kingdoms
+gallery:
+- /images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-0.avif
+- /images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-1.avif
+- /images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-2.avif
+- /images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-3.avif
+- /images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-4.avif
+- /images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-03-05-a-fun-mmo-that-doesnt-take-much-effort-or-no-effort-at-all--preview---immortal-kingdoms-5.avif" alt="screenshot" />
-</div>
-
 Immortal Kingdoms M Playpark
 9.2
 Pre-register

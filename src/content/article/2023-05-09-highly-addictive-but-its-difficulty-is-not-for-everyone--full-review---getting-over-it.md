@@ -1,34 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: Getting Over It+
+description: lyndonguitar Get Getting Over It+ is a physics-based platformer that
+  will require your patience, dexterity, and problem solving skills… well mostly,
+  your patience.
 featured: false
 pubDate: 2023-05-09
 tags:
+- action
+- android
+- getting-over-it
+- ios
+- macos
+- pc
+- simulation
 - taptap
-- getting-over-it+
 thumb: /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-0.avif
 title: Highly addictive, but its difficulty is not for everyone | Full Review - Getting
   Over It+
+game: Getting Over It+
+gallery:
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-0.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-1.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-2.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-3.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-4.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-5.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-6.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-7.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-8.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-9.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-10.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-11.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-12.avif
+- /images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-13.avif" alt="screenshot" />
-</div>
-
 Getting Over It+
 
 lyndonguitar

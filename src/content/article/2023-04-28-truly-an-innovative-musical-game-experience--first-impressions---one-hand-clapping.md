@@ -1,26 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: One Hand Clapping
+description: Developed by Bad Dream Games and published by HandyGames, One Hand Clapping
+  is a one-of-a-kind 2D puzzle platformer that combines music, platforming, and puzzle-solving
+  in a unique and innovative way that is sure to captivate players, and make them
+  vocally exhausted.
 featured: false
 pubDate: 2023-04-28
 tags:
+- adventure
+- android
+- console
+- indie
+- ios
+- macos
+- nintendo switch
+- one-hand-clapping
+- pc
+- platformer
+- playstation
+- playstation 4
+- puzzle
 - taptap
-- ohc
+- xbox one
 thumb: /images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-0.avif
 title: Truly an innovative musical game experience | First Impressions - One Hand
   Clapping
+game: One Hand Clapping
+gallery:
+- /images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-0.avif
+- /images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-1.avif
+- /images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-2.avif
+- /images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-3.avif
+- /images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-4.avif
+- /images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-28-truly-an-innovative-musical-game-experience--first-impressions---one-hand-clapping-5.avif" alt="screenshot" />
-</div>
-
 One Hand Clapping
 9.0
 Music

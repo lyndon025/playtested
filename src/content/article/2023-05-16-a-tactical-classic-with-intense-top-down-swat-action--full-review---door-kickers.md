@@ -1,30 +1,41 @@
 ---
 author: lyndonguitar
 category: Review
-description: Door Kickers
+description: I played Door Kickers on PC many years ago and now, playing it’s mobile
+  port, it brings the same intense and strategic gameplay that made it a hit on the
+  larger screen. Developed by KillHouse Games, Door Kickers offers an intense mix
+  of tactical planning, real-time execution, and satisfyingly challenging missions
+  — assuming it goes well.
 featured: false
 pubDate: 2023-05-16
 tags:
-- taptap
+- action
+- android
 - door-kickers
+- indie
+- ios
+- linux
+- macos
+- pc
+- simulation
+- strategy
+- taptap
 thumb: /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-0.avif
 title: A tactical classic with intense top-down SWAT action | Full Review - Door Kickers
+game: Door Kickers
+gallery:
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-0.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-1.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-2.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-3.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-4.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-5.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-6.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-7.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-8.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-9.avif
+- /images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-10.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-16-a-tactical-classic-with-intense-top-down-swat-action--full-review---door-kickers-10.avif" alt="screenshot" />
-</div>
-
 Door Kickers
 Gameplay
 

@@ -8,28 +8,32 @@ description: Crying Suns is a tactical rogue-lite strategy game with heavy narra
 featured: false
 pubDate: 2023-04-03
 tags:
-- taptap
 - crying-suns
+- indie
+- ios
+- macos
+- pc
+- rpg
+- strategy
+- taptap
 thumb: /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif
 title: A mysterious space-opera themed indie masterpiece | Full Review - Crying Suns
+game: Crying Suns
+gallery:
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-1.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-2.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-3.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-4.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-5.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-6.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-7.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-8.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-9.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-10.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-11.avif
+- /images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-12.avif" alt="screenshot" />
-</div>
-
 Crying Suns is a tactical rogue-lite strategy game with heavy narrative elements and a focus on exploration. It was originally released on PCs but has now since been ported to the Mobile platform. For this article I will be playing the mobile version.
 
 

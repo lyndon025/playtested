@@ -1,0 +1,58 @@
+---
+export interface Props {
+  images: string[];
+  caption?: string;
+}
+
+const { images, caption } = Astro.props as Props;
+const id = `carousel-${Math.random().toString(36).substring(2, 9)}`;
+const imgsJSON = JSON.stringify(images);
+---
+
+{images.length > 0 && (
+  <div
+    id={id}
+    data-current="0"
+    class="w-full max-w-[700px]"
+  >
+    <!-- Main Image with fixed aspect ratio -->
+   <div class="relative rounded-lg w-full">
+  <img
+    src={images[0]}
+    alt=""
+    class="main-image w-full h-auto max-h-[820px] object-contain rounded-lg opacity-0 transition-opacity duration-500 ease-in-out"
+    onload="this.classList.add('opacity-100')"
+  />
+</div>
+
+
+    <!-- Thumbnails -->
+    <div class="flex flex-wrap justify-center gap-x-1 gap-y-0 mt-1 leading-none">
+      {images.map((src, i) => (
+        <img
+          key={i}
+          src={src}
+          alt=""
+          data-index={i}
+          onclick={`(() => {
+            const c = document.getElementById('${id}');
+            const m = c.querySelector('.main-image');
+            m.classList.remove('opacity-100');
+            m.classList.add('opacity-0');
+            m.onload = () => m.classList.add('opacity-100');
+            c.dataset.current = ${i};
+            m.src = '${images[i]}';
+          })()`}
+          class="thumbnail w-16 h-16 object-cover rounded cursor-pointer opacity-50 border-1 border-transparent hover:opacity-75 transition-opacity duration-200"
+        />
+      ))}
+    </div>
+
+    <!-- Optional Caption -->
+    {caption && (
+      <div class="mt-4 text-center text-gray-700 dark:text-gray-300">
+        {caption}
+      </div>
+    )}
+  </div>
+)}

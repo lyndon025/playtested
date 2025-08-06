@@ -1,27 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Love and DeepspaceGlobal
+description: Love and DeepspaceGlobal 5.8 Simulation Story Rich Download
 featured: false
 pubDate: 2023-12-19
 score: 8.0
 tags:
+- casual
+- cbt-review-love-and-deepspace
+- ios
+- puzzle
 - taptap
-- love-and-deepspace
 thumb: /images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-0.avif
 title: A promising celestial journey through love and danger | CBT Review - Love and
   Deepspace
+game: CBT Review - Love and Deepspace
+gallery:
+- /images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-0.avif
+- /images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-1.avif
+- /images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-2.avif
+- /images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-3.avif
+- /images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-4.avif
+- /images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-19-a-promising-celestial-journey-through-love-and-danger--cbt-review---love-and-deepspace-5.avif" alt="screenshot" />
-</div>
-
 Love and DeepspaceGlobal
 5.8
 Simulation

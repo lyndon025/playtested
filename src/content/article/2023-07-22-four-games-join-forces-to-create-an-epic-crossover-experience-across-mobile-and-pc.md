@@ -8,13 +8,21 @@ description: 'Riot Games has launched the highly anticipated Soul Fighter cross 
 featured: false
 pubDate: 2023-07-22
 tags:
+- adventure
+- four-games-join-forces-to-create-an-epic-crossover-experience-across-mobile-and-pc
+- indie
+- macos
+- pc
+- rpg
+- simulation
+- strategy
 - taptap
-- legends-of-runeterra
 thumb: ''
 title: Four games join forces to create an epic crossover experience across mobile
   and PC!
+game: Four games join forces to create an epic crossover experience across mobile
+  and PC!
 ---
-
 Riot Games has launched the highly anticipated Soul Fighter cross game summer event, which introduces for the first time a cross-over of four beloved titles: League of Legends: Wild Rift, Legends of Runeterra, Teamfight Tactics, and League of Legends itself.
 
 For League of Legends: Wild Rift, the game will receive six alluring Soul Fighter skins that allow players to embody the essence of these legendary champions in a way never seen before; Nilah, two versions of Draven, Yasuo, Irelia, Xin Zhao.

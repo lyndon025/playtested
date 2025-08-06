@@ -1,26 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dimension Hunter
+description: Dimension Hunter is a roguelike pixel art twin stick mobile shooter takes
+  players in a journey through ever-changing dimensions filled with vicious monsters.
+  As players navigate dungeons, confront challenging bosses, and explore diverse environments,
+  the dynamic nature of Dimension Hunter keeps each playthrough fresh and exciting.
 featured: false
 pubDate: 2023-12-05
 score: 6.0
 tags:
+- action
+- dimension-hunter
+- indie
+- pc
 - taptap
-- dimension hunter
 thumb: /images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-0.avif
 title: It's nearly a great rogue-lite shooter | Review - Dimension Hunter
+game: Dimension Hunter
+gallery:
+- /images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-0.avif
+- /images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-1.avif
+- /images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-2.avif
+- /images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-3.avif
+- /images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-4.avif
+- /images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-05-its-nearly-a-great-rogue-lite-shooter--review---dimension-hunter-5.avif" alt="screenshot" />
-</div>
-
 Dimension Hunter
 --
 Action

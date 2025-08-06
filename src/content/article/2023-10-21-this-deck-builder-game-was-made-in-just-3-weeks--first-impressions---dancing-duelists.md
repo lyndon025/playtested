@@ -9,13 +9,17 @@ description: And you can also beat it in just 10 minutes. Dancing Duelists is a 
 featured: false
 pubDate: 2023-10-21
 tags:
-- taptap
 - dancing-duelists
+- indie
+- macos
+- pc
+- strategy
+- taptap
 thumb: ''
 title: This deck builder game was made in just 3 weeks! | First Impressions - Dancing
   Duelists
+game: Dancing Duelists
 ---
-
 And you can also beat it in just 10 minutes. Dancing Duelists is a brief but spirited deckbuilding autobattler, made by Mega Crit's (developers of Slay the Spire). Developed in a mere three weeks using Godot Engine, this game invites players to select from ten silly quirky cartoonish characters and engage in a series of dance-off battles.
 
 Winning seven clashes while avoiding three losses is the name of the game. lose three and restart all over. Although lacking direct player control beyond the deckbuilding elements, the game's upbeat soundtrack and silly characters adds charm.

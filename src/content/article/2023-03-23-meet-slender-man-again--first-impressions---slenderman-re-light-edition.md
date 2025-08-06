@@ -8,22 +8,21 @@ description: 'The premise of Slenderman RE: Light Edition is that our main chara
 featured: false
 pubDate: 2023-03-23
 tags:
+- pc
+- slenderman-re-light-edition
 - taptap
-- slenderman-re:-light-edition
 thumb: /images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-0.avif
 title: 'Meet Slender Man again | First Impressions - Slenderman RE: Light Edition'
+game: 'Slenderman RE: Light Edition'
+gallery:
+- /images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-0.avif
+- /images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-1.avif
+- /images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-2.avif
+- /images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-3.avif
+- /images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-4.avif
+- /images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-5.avif
+- /images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-6.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-6.avif" alt="screenshot" />
-</div>
-
 The premise of Slenderman RE: Light Edition is that our main character, the Dave Grohl-looking dude named Edward, is sort of a ghost-hunter. He stumbles upon an abandoned building in the woods and comes across a supernatural experience. With his trusty flashlight, he has to find a way out.
 
 The gameplay of Slenderman RE: Light Edition is about on par with the story. It’s very elementary and it’s almost like some young aspiring developer made it as a school demo or project.

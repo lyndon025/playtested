@@ -1,26 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Grand Quest
+description: Grand Quest is a gacha game set in a steampunk world full of anime and
+  waifu characters. The art style is impressive and while it features gacha and waifu
+  aspects, they’re not over the top and the characters are not blown out of proportions.
+  Grand Quest is seemingly set in a steampunk universe where there is magic and technology,
+  but the world is clean and pristine looking than most interpretations.
 featured: false
 pubDate: 2023-05-02
 tags:
+- beta-test-impressions-grand-quest
+- pc
+- puzzle
 - taptap
-- grand-quest
 thumb: /images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-0.avif
 title: A steampunk world full of anime and waifu characters | Beta Test Impressions
   - Grand Quest
+game: Beta Test Impressions - Grand Quest
+gallery:
+- /images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-0.avif
+- /images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-1.avif
+- /images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-2.avif
+- /images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-3.avif
+- /images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-4.avif
+- /images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-5.avif" alt="screenshot" />
-</div>
-
 Grand Quest
 8.0
 Magic

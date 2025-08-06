@@ -6,29 +6,32 @@ description: Dark Season is an RPG mobile game with a mix of dungeon crawling, r
 featured: false
 pubDate: 2023-03-10
 tags:
+- action
+- adventure
+- casual
+- dark-season
+- indie
+- pc
 - taptap
-- dark-season-:-last-hunting
 thumb: /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-0.avif
 title: Challenging, thrilling, and fun to play | Full Review - Dark Season
+game: Dark Season
+gallery:
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-0.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-1.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-2.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-3.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-4.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-5.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-6.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-7.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-8.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-9.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-10.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-11.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-12.avif
+- /images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-03-10-challenging-thrilling-and-fun-to-play--full-review---dark-season-13.avif" alt="screenshot" />
-</div>
-
 Dark Season is an RPG mobile game with a mix of dungeon crawling, rogue-lite, and bullet-hell elements, sprinkled with a bit of gacha gaming.
 
 

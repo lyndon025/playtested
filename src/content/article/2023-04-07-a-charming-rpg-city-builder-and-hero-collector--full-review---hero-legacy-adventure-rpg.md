@@ -7,32 +7,33 @@ description: 'Hero Legacy: Adventure RPG is a part adventure RPG, part city buil
 featured: false
 pubDate: 2023-04-07
 tags:
-- taptap
+- action
+- hero-legacy-adventure-rpg
+- ios
 - rpg
+- taptap
 thumb: /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-0.avif
 title: 'A charming RPG, city builder, and hero collector | Full Review - Hero Legacy:
   Adventure RPG'
+game: 'Hero Legacy: Adventure RPG'
+gallery:
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-0.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-1.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-2.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-3.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-4.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-5.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-6.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-7.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-8.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-9.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-10.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-11.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-12.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-13.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-14.avif
+- /images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-15.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-07-a-charming-rpg-city-builder-and-hero-collector--full-review---hero-legacy-adventure-rpg-15.avif" alt="screenshot" />
-</div>
-
 Hero Legacy: Adventure RPG is a part adventure RPG, part city builder mobile game set in a medieval fantasy world filled with goblins, dragons, and elemental beings.
 
 

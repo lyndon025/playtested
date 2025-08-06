@@ -9,20 +9,26 @@ description: In a recent announcement, the developers of Takt Op. Symphony have 
 featured: false
 pubDate: 2024-02-07
 tags:
+- adventure
+- console
+- indie
+- nintendo switch
+- pc
+- playstation
+- playstation 4
 - taptap
-- the-final-note-is-near-for-takt-op.-symphony,-game-shutting-down-soon-this-april.
+- the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april
+- web
 thumb: /images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-0.avif
 title: The final note is near for Takt Op. Symphony, game shutting down soon this
   April.
+game: The final note is near for Takt Op. Symphony, game shutting down soon this April.
+gallery:
+- /images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-0.avif
+- /images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-1.avif
+- /images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-2.avif
+- /images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-3.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-3.avif" alt="screenshot" />
-</div>
-
 In a recent announcement, the developers of Takt Op. Symphony have shared the unfortunate news of the game's impending shutdown. Despite best efforts, changes in business direction have led to the conclusion to shut down the game's servers, according to their announcement. The final day of operation is set for April 9, 2024.
 
 "We want to thank all our players for their support and dedication throughout the journey of 'Takt Op. Symphony'," stated a spokesperson from the game's operations team. "While we regret having to make this decision, we appreciate the community's involvement in the game."

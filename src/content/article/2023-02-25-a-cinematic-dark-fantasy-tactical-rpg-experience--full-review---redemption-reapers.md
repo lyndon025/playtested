@@ -6,36 +6,36 @@ description: Redemption Reapers is a dark fantasy Tactical / Strategy RPG game w
 featured: false
 pubDate: 2023-02-25
 tags:
-- taptap
+- pc
 - redemption-reapers
+- simulation
+- taptap
 thumb: /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-0.avif
 title: A cinematic dark fantasy Tactical RPG experience | Full Review - Redemption
   Reapers
+game: Redemption Reapers
+gallery:
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-0.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-1.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-2.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-3.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-4.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-5.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-6.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-7.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-8.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-9.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-10.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-11.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-12.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-13.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-14.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-15.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-16.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-17.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-18.avif
+- /images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-19.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-14.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-15.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-16.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-17.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-18.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-25-a-cinematic-dark-fantasy-tactical-rpg-experience--full-review---redemption-reapers-19.avif" alt="screenshot" />
-</div>
-
 Redemption Reapers is a dark fantasy Tactical / Strategy RPG game with heavy narrative elements and a challenging turn-based tactics gameplay.
 
 

@@ -6,30 +6,31 @@ description: Punch Kick Duck is a mobile beat’ em up game with a simple no fri
 featured: false
 pubDate: 2023-02-10
 tags:
-- taptap
+- action
+- casual
+- ios
 - punch-kick-duck
+- taptap
 thumb: /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-0.avif
 title: Other animals hate him for these three simple moves | Punch Kick Duck - Full
   Review
+game: Punch Kick Duck
+gallery:
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-0.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-1.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-2.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-3.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-4.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-5.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-6.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-7.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-8.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-9.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-10.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-11.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-12.avif
+- /images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-13.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-13.avif" alt="screenshot" />
-</div>
-
 Punch Kick Duck is a mobile beat’ em up game with a simple no frills gameplay and a straightforward goal, to reach the top of the tower and escape.
 
 

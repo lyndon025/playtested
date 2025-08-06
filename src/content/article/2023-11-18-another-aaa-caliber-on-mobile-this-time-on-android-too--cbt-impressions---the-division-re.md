@@ -12,13 +12,19 @@ description: The Division Resurgence, one of Ubisoft's installments in the popul
 featured: false
 pubDate: 2023-11-18
 tags:
+- action
+- android
+- cbt-impressions-the-division-resurgence
+- ios
+- massively multiplayer
+- rpg
+- shooter
 - taptap
-- tom-clancy’s-the-division™
 thumb: ''
 title: Another AAA-caliber on Mobile, this time on Android too | CBT Impressions -
   The Division Resurgence
+game: CBT Impressions - The Division Resurgence
 ---
-
 The Division Resurgence, one of Ubisoft's installments in the popular action RPG series (alongside the upcoming The Division Heartland), brings the post-apocalyptic world of The Division to mobile devices. This fully-fledged third-person shooter attempts to capture the essence of its console predecessors while catering to the unique challenges and opportunities presented by mobile gaming. As a player with an extensive history in the franchise, diving into the mobile adaptation raised questions about how well the gritty realism and addictive gameplay loop of The Division could be translated to the smaller screen.
 
 True to its roots, Resurgence is a third-person cover shooter, emphasizing tactical combat in a post-pandemic urban landscape. The transition to mobile introduces touchscreen controls that surprisingly work well. The game's controls include the usual array for a mobile shooter but expand to accommodate the complexity of The Division's RPG elements, including two weapons, three abilities, cover, jump, and roll buttons.

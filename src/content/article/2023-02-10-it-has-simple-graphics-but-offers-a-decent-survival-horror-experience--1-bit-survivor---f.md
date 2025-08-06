@@ -10,29 +10,35 @@ description: 1 Bit Survivor is a rogue-lite survival horror with simplistic 1-bi
 featured: false
 pubDate: 2023-02-10
 tags:
+- 1-bit-survivor
+- adventure
+- android
+- casual
+- indie
+- ios
+- pc
+- rpg
+- strategy
 - taptap
-- 1-bit-survivor-(roguelike)
 thumb: /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-0.avif
 title: It has simple graphics but offers a decent survival horror experience | 1 Bit
   Survivor - Full Review
+game: 1 Bit Survivor
+gallery:
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-0.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-1.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-2.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-3.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-4.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-5.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-6.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-7.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-8.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-9.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-10.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-11.avif
+- /images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-12.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-12.avif" alt="screenshot" />
-</div>
-
 1 Bit Survivor is a rogue-lite survival horror with simplistic 1-bit graphics but an artistic stylized presentation. The atmosphere is definitely classic Resident Evil 2 and 3-style, an obvious inspiration especially with sound bits when starting a session complete with typewriter sounds to tell the story, and the menacing sound effects that you hear. The comparison however ends there as the gameplay features a 1-bit retro game design and monochromatic graphics.
 
 

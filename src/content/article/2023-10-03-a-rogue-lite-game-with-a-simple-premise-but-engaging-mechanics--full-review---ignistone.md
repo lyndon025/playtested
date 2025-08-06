@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: IGNISTONE
+description: ✨Overview IGNISTONE takes players on a journey into the heart of darkness,
+  where they descend beneath the surface to the mines in search of the stolen Ignistone.
+  This roguelike adventure promises a blend of strategy and skill in a simple package
+  as you engage in one-on-one combat against thieving adversaries. While it may give
+  off the visual vibes of classic PS2, Nintendo, or even early 2000’s flash games,
+  IGNISTONE manages to instill a modern gameplay experience with its rogue-lite mechanics.
 featured: false
 pubDate: 2023-10-03
 tags:
-- taptap
+- action
 - ignistone
+- indie
+- pc
+- taptap
 thumb: /images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-0.avif
 title: A rogue-lite game with a simple premise but engaging mechanics | Full Review
   - IGNISTONE
+game: IGNISTONE
+gallery:
+- /images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-0.avif
+- /images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-1.avif
+- /images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-2.avif
+- /images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-3.avif
+- /images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-4.avif
+- /images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-a-rogue-lite-game-with-a-simple-premise-but-engaging-mechanics--full-review---ignistone-5.avif" alt="screenshot" />
-</div>
-
 IGNISTONE
 8.6
 Action

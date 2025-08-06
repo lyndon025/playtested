@@ -1,26 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Immortal Survivors
+description: Immortal Survivors is a rogue-lite arena survival game that was recently
+  released on Android here on Taptap. It takes players on a journey through the demon-infested
+  land of Shenzhou, as one of the warriors tasked to regain back the land
 featured: false
 pubDate: 2023-11-28
 score: 7.0
 tags:
-- taptap
+- action
+- android
 - immortal-survivors
+- ios
+- pc
+- rpg
+- taptap
 thumb: /images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-0.avif
 title: A compelling experience for any rogue-lite arena survival enjoyers | Review
   - Immortal Survivors
+game: Immortal Survivors
+gallery:
+- /images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-0.avif
+- /images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-1.avif
+- /images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-2.avif
+- /images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-3.avif
+- /images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-11-28-a-compelling-experience-for-any-rogue-lite-arena-survival-enjoyers--review---immortal-sur-4.avif" alt="screenshot" />
-</div>
-
 Immortal Survivors
 --
 Survival

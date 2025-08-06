@@ -1,26 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Knightcore: Sword of KingdomGlobal'
+description: 'Knightcore: Sword of Kingdom is a tower offense game with real-time
+  strategy, RPG, autobattler, and gacha elements. Players assume the mantle of a Lord,
+  leading a team of Heroes and forging your Legions on a quest to reclaim Camelot''s
+  lost glory. It promises a unique blend of strategy, real-time tower offense, a diverse
+  array of collectible gacha heroes, and various armies. It recently launched globally
+  last October 20, 2023.'
 featured: false
 pubDate: 2023-10-24
 score: 5.0
 tags:
+- action
+- adventure
+- knightcore-sword-of-kingdom
+- pc
 - taptap
-- ナイトコアキングダムf
 thumb: /images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-0.avif
 title: 'A chibi blend of real-time strategy and RPG elements | Review - Knightcore:
   Sword of Kingdom'
+game: 'Knightcore: Sword of Kingdom'
+gallery:
+- /images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-0.avif
+- /images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-1.avif
+- /images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-2.avif
+- /images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-3.avif
+- /images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-24-a-chibi-blend-of-real-time-strategy-and-rpg-elements--review---knightcore-sword-of-kingdo-4.avif" alt="screenshot" />
-</div>
-
 Knightcore: Sword of KingdomGlobal
 8.1
 Strategy

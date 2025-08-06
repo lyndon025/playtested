@@ -12,13 +12,23 @@ description: 'Neon Abyss: Infinite, the revamped mobile version of the beloved P
 featured: false
 pubDate: 2023-06-22
 tags:
+- action
+- console
+- indie
+- neon-abyss-infinite
+- nintendo switch
+- pc
+- platformer
+- playstation
+- playstation 4
+- shooter
 - taptap
-- neon-abyss：infinity
+- xbox one
 thumb: ''
 title: 'A revamped mobile version of the beloved console retro game | Impressions
   - Neon Abyss: Infinite'
+game: 'Neon Abyss: Infinite'
 ---
-
 Neon Abyss: Infinite, the revamped mobile version of the beloved PC and console retro game, brings the addictive gameplay and stylish retro aesthetics to the mobile platform. This adaptation to touch controls is well-executed, providing players with a seamless experience on their mobile devices. Although the game retains its core mechanics and charm, it introduces some changes, including free-to-play elements and gacha mechanics. While Neon Abyss: Infinite shows great promise, it is important to note that the game is in Early Access, and therefore, still requires optimization and improvement.
 
 Compared to the original version, Neon Abyss: Infinite stays true to its roots, offering the same gameplay experience as its PC and console counterparts. Players venture through procedurally generated levels filled with enemies, power-ups, and challenging bosses.

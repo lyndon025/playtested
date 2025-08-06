@@ -1,25 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Soccer Manager 2024 - Football
+description: Soccer Manager 2024 - Football 8.1 Sports Football
 featured: false
 pubDate: 2023-10-03
 tags:
+- console
+- pc
+- playstation
+- playstation 4
+- playstation 5
+- racing
+- simulation
+- soccer-manager-2024
+- strategy
 - taptap
-- football-manager-2024-mobile
+- xbox one
+- xbox series
 thumb: /images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--0.avif
 title: The mobile 'version' of Football Manager readies for a new season | Review
   - Soccer Manager 2024
+game: Soccer Manager 2024
+gallery:
+- /images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--0.avif
+- /images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--1.avif
+- /images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--2.avif
+- /images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--3.avif
+- /images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-10-03-the-mobile-version-of-football-manager-readies-for-a-new-season--review---soccer-manager--4.avif" alt="screenshot" />
-</div>
-
 Soccer Manager 2024 - Football
 8.1
 Sports

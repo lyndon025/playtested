@@ -10,13 +10,19 @@ description: 'Dragonheir: Silent Gods is an immersive high-fantasy RPG available
 featured: false
 pubDate: 2023-09-19
 tags:
+- adventure
+- dragonheir-silent-gods
+- ios
+- massively multiplayer
+- pc
+- rpg
+- strategy
 - taptap
-- dragonheir:-silent-gods
 thumb: ''
 title: 'High-fantasy RPG, dice rolls, and dragons | First Impressions - Dragonheir:
   Silent Gods'
+game: 'Dragonheir: Silent Gods'
 ---
-
 Dragonheir: Silent Gods is an immersive high-fantasy RPG available on both PC and mobile platforms, offering players a captivating narrative, engaging role-playing elements, and strategic tactical combat. Set in a universe where chaos and order clash and gods and mortals are intertwined, the game invites players to embark on an epic journey with choices that influence the fate of this fantastical realm.
 
 The plot unfolds in a manner reminiscent of a finely crafted fantasy novel or Dungeons and Dragons campaign, with layers of complexity and revelations that keep you guessing. With its ability to surprise and subvert expectations, creating an engrossing narrative that continually evolves. It's a story that grows in depth and complexity as you progress, with twists and turns that will leave you pondering the true nature of chaos and destiny.

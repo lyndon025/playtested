@@ -1,26 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Hitman: Blood Money — Reprisal'
+description: 'Hitman: Blood Money — Reprisal 9.1 Blood Action Get'
 featured: false
 pubDate: 2023-12-01
 score: 9.0
 tags:
+- action
+- hitman-blood-money-reprisal
+- ios
 - taptap
-- resident-evil-village
 thumb: /images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-0.avif
 title: 'A mobile port of a masterpiece, executed perfectly | Review - Hitman: Blood
   Money — Reprisal'
+game: 'Hitman: Blood Money — Reprisal'
+gallery:
+- /images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-0.avif
+- /images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-1.avif
+- /images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-2.avif
+- /images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-3.avif
+- /images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-4.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-12-01-a-mobile-port-of-a-masterpiece-executed-perfectly--review---hitman-blood-money--reprisal-4.avif" alt="screenshot" />
-</div>
-
 Hitman: Blood Money — Reprisal
 9.1
 Blood

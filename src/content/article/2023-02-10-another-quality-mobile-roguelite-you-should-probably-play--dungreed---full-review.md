@@ -10,31 +10,38 @@ description: In the indie-games industry, production costs are limited. Usually,
 featured: false
 pubDate: 2023-02-10
 tags:
-- taptap
+- action
+- adventure
+- console
 - dungreed
+- indie
+- ios
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- taptap
 thumb: /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-0.avif
 title: Another quality mobile roguelite you should probably play! | Dungreed - Full
   Review
+game: Dungreed
+gallery:
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-0.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-1.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-2.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-3.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-4.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-5.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-6.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-7.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-8.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-9.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-10.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-11.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-12.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-13.avif
+- /images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-14.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-5.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-6.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-7.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-8.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-9.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-10.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-11.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-12.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-13.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-14.avif" alt="screenshot" />
-</div>
-
 In the indie-games industry, production costs are limited. Usually, game creators cannot always afford to create photorealistic graphics and an expansive combination of story and gameplay. This usually leads to popular common denominators, such as retro art-style, and rogue-like gameplay, and Dungreed is one such example. The only difference now lies in the gameplay, does Dungreed have what it takes to get your attention?
 
 

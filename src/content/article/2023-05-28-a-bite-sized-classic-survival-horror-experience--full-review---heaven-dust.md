@@ -1,23 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Heaven Dust
+description: Heaven Dust is an old-school-style zombie survival horror game that combines
+  puzzle-solving, storytelling, and a classic isometric third person view.
 featured: false
 pubDate: 2023-05-28
 tags:
-- taptap
+- android
+- console
 - heaven-dust
+- horror
+- mobile
+- pc
+- puzzle
+- survival
+- switch
+- taptap
+- xbox
 thumb: /images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif
 title: A bite-sized classic survival horror experience | Full Review - Heaven Dust
+game: Heaven Dust
+gallery:
+- /images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif
+- /images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-1.avif
+- /images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-2.avif
+- /images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-3.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-3.avif" alt="screenshot" />
-</div>
-
 Heaven Dust
 
 lyndonguitar

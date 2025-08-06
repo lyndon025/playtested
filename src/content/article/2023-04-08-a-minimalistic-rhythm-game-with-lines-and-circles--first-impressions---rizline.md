@@ -9,21 +9,20 @@ description: Minimalistic vertical lines that flow through the screen, lines tha
 featured: false
 pubDate: 2023-04-08
 tags:
-- taptap
+- ios
 - rizline
+- taptap
 thumb: /images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-0.avif
 title: A minimalistic rhythm game with lines and circles | First Impressions - Rizline
+game: Rizline
+gallery:
+- /images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-0.avif
+- /images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-1.avif
+- /images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-2.avif
+- /images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-3.avif
+- /images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-4.avif
+- /images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2023-04-08-a-minimalistic-rhythm-game-with-lines-and-circles--first-impressions---rizline-5.avif" alt="screenshot" />
-</div>
-
 Minimalistic vertical lines that flow through the screen, lines that are swaying along with the music. and a two finger simple touch controls that anyone can follow — Rizline is a new rhythm game from Pigeon Games — the same makers of another popular rhythm game titled Phigros. I had the chance to try this game out and it's really a lot of fun and can cater both casual and hardcore rhythm enthusiasts.
 
 The gameplay of Rizline involves tracking various lines with falling circles, and tapping the screen once it hits the bottom circle. The player's accuracy and timing are measured using a scoring system, which rewards players for hitting notes timely, correctly, and penalizes them for missing or hitting notes at the wrong time. Miss too many notes and the run will fail, but the progression is still recorded if it's a new high score.

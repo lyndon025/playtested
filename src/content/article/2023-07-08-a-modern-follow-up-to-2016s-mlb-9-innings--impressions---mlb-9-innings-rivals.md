@@ -8,12 +8,15 @@ description: MLB 9 Innings Rivals is a modern follow-up to MLB 9 Innings (curren
 featured: false
 pubDate: 2023-07-08
 tags:
+- ios
+- mlb-9-innings-rivals
+- simulation
+- sports
 - taptap
-- mlb-rivals
 thumb: ''
 title: A modern follow-up to 2016’s MLB 9 Innings | Impressions - MLB 9 Innings Rivals
+game: MLB 9 Innings Rivals
 ---
-
 MLB 9 Innings Rivals is a modern follow-up to MLB 9 Innings (currently MLB 9 Innings 23), a game that was originally released way back in 2016. MLB 9 Innings Rivals features significantly improved graphics, new mechanics, and fresh ideas to enhance the addicting player collecting and fantasy baseball gameplay.
 
 Gameplay wise, the actual baseball sports gameplay is very well done. While still somewhat resembling console's MLB The Show game mechanics and UI elements, The whole process is simplified and you’re not really directly controlling every single thing going on, and mostly focused on playing as a batter or a pitcher. You can approach matches in three ways: Quick Play, which simulates the whole match instantly but requires quick play tickets; Highlight play, which takes you into the game but simulates most of it, only bringing the player in control of being a batter/pitcher a handful of times; Lastly, you can completely play the entirety of the matches in Full Play, which takes a very long time to do, even if you skip most of the presentation scenes.

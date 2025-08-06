@@ -1,27 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tomb Raider I-III Remastered Starring Lara Croft
+description: Tomb Raider I-III Remastered Starring Lara Croft 7.6 Action Adventure
 featured: false
 pubDate: 2024-02-15
 score: 8.0
 tags:
+- action
+- adventure
+- console
+- nintendo switch
+- pc
+- playstation
+- playstation 4
+- playstation 5
 - taptap
-- tomb-raider-i-iii-remastered-starring-lara-croft
+- tomb-raider-i-iii-remastered
+- xbox one
+- xbox series
 thumb: /images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-0.avif
 title: A modern yet conservative and impressive remaster | Review - Tomb Raider I-III
   Remastered
+game: Tomb Raider I-III Remastered
+gallery:
+- /images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-0.avif
+- /images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-1.avif
+- /images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-2.avif
+- /images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-3.avif
+- /images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-4.avif
+- /images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-5.avif
 ---
-
-<div class="gallery">
-  <img src="/images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-0.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-1.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-2.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-3.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-4.avif" alt="screenshot" />
-  <img src="/images/reviews/2024-02-15-a-modern-yet-conservative-and-impressive-remaster--review---tomb-raider-i-iii-remastered-5.avif" alt="screenshot" />
-</div>
-
 Tomb Raider I-III Remastered Starring Lara Croft
 7.6
 Action
