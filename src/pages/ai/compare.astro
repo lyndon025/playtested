@@ -8,66 +8,107 @@ import GameSelector from "../../components/GameSelector.astro";
 <BlogLayout title="AI Game Comparator">
   <Header />
 
-
   <!-- Feature 2: Game Comparison -->
-        <section id="comparison" class="mb-16">
-            <div class="bg-gradient-to-br from-purple-50 to-pink-50 dark:from-slate-800 dark:to-slate-900 rounded-2xl p-8 border border-purple-100 dark:border-slate-700 shadow-lg">
-                <div class="flex items-center space-x-3 mb-6">
-                    <div class="bg-purple-500 rounded-full p-3">
-                        <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
-                        </svg>
-                    </div>
-                    <div>
-                        <h2 class="text-3xl font-bold text-gray-900 dark:text-gray-100">AI Game Comparison</h2>
-                        <p class="text-gray-600 dark:text-gray-300 mt-1">Can't decide between different games? Let AI help you choose</p>
-                    </div>
-                </div>
+  <section id="comparison" class="mb-16">
+    <div
+      class="bg-gradient-to-br from-purple-50 to-pink-50 dark:from-slate-800 dark:to-slate-900 rounded-2xl p-8 border border-purple-100 dark:border-slate-700 shadow-lg"
+    >
+      <div class="flex items-center space-x-3 mb-6">
+        <div class="bg-purple-500 rounded-full p-3">
+          <svg
+            class="w-6 h-6 text-white"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+            ></path>
+          </svg>
+        </div>
+        <div>
+          <h2 class="text-3xl font-bold text-gray-900 dark:text-gray-100">
+            AI Game Comparison
+          </h2>
+          <p class="text-gray-600 dark:text-gray-300 mt-1">
+            Can't decide between different games? Let AI help you choose
+          </p>
+        </div>
+      </div>
 
-                <div class="bg-white dark:bg-slate-800 rounded-xl p-6 border border-purple-200 dark:border-slate-600">
-                    <div class="mb-4">
-                        <h3 class="text-lg font-semibold mb-2 text-gray-800 dark:text-gray-200">Comparison Features:</h3>
-                        <ul class="text-sm text-gray-600 dark:text-gray-400 space-y-1">
-                            <li>⚖️ <strong>Side-by-Side Analysis:</strong> Comprehensive breakdown of gameplay, graphics, and content</li>
-                            <li>🎯 <strong>Player Matching:</strong> Which game suits different types of gamers</li>
-                            <li>💡 <strong>Decision Support:</strong> Clear recommendations based on your preferences</li>
-                        </ul>
-                    </div>
-                    
-                    <GameSelector 
-                        maxSelection={5} 
-                        buttonText="⚔️ Compare Games" 
-                        id="comparator" 
-                    />
-                </div>
-            </div>
-        </section>
+      <div
+        class="bg-white dark:bg-slate-800 rounded-xl p-6 border border-purple-200 dark:border-slate-600"
+      >
+        <div class="mb-4">
+          <h3
+            class="text-lg font-semibold mb-2 text-gray-800 dark:text-gray-200"
+          >
+            Comparison Features:
+          </h3>
+          <ul class="text-sm text-gray-600 dark:text-gray-400 space-y-1">
+            <li>
+              ⚖️ <strong>Side-by-Side Analysis:</strong> Comprehensive breakdown
+              of gameplay, graphics, and content
+            </li>
+            <li>
+              🎯 <strong>Player Matching:</strong> Which game suits different types
+              of gamers
+            </li>
+            <li>
+              💡 <strong>Decision Support:</strong> Clear recommendations based on
+              your preferences
+            </li>
+          </ul>
+        </div>
 
-        <!-- About Section -->
-        <section class="text-center">
-            <div class="bg-gray-50 dark:bg-slate-800 rounded-2xl p-8 border border-gray-200 dark:border-slate-700">
-                <h3 class="text-2xl font-bold mb-4 text-gray-900 dark:text-gray-100">Powered by Advanced AI</h3>
-                <p class="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-                    Our AI assistant leverages deep gaming knowledge and natural language processing to understand what makes games special and why you might love them. 
-                    Every recommendation comes with detailed reasoning and valuable insights.
-                </p>
-                <div class="mt-6 flex justify-center space-x-8 text-sm text-gray-500 dark:text-gray-400">
-                    <div class="flex items-center space-x-2">
-                        <span class="w-2 h-2 bg-green-500 rounded-full"></span>
-                        <span>RAWG API Integration</span>
-                    </div>
-                    <div class="flex items-center space-x-2">
-                        <span class="w-2 h-2 bg-blue-500 rounded-full"></span>
-                        <span>OpenRouter AI</span>
-                    </div>
-                    <div class="flex items-center space-x-2">
-                        <span class="w-2 h-2 bg-purple-500 rounded-full"></span>
-                        <span>Real-time Analysis</span>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <GameSelector
+          maxSelection={5}
+          buttonText="⚔️ Compare Games"
+          id="comparator"
+        />
+      </div>
     </div>
+  </section>
 
-  <Footer />
+  <!-- About Section -->
+  <section class="text-center">
+    <div
+      class="bg-gray-50 dark:bg-slate-800 rounded-2xl p-8 border border-gray-200 dark:border-slate-700"
+    >
+      <h3 class="text-2xl font-bold mb-4 text-gray-900 dark:text-gray-100">
+        Powered by Advanced AI
+      </h3>
+      <p class="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+        Our AI assistant leverages deep gaming knowledge and natural language
+        processing to understand what makes games special and why you might love
+        them. Every recommendation comes with detailed reasoning and valuable
+        insights.
+      </p>
+      <div
+        class="mt-6 flex justify-center space-x-8 text-sm text-gray-500 dark:text-gray-400"
+      >
+        <div class="flex items-center space-x-2">
+          <span class="w-2 h-2 bg-green-500 rounded-full"></span>
+          <span>RAWG API Integration</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span class="w-2 h-2 bg-blue-500 rounded-full"></span>
+          <span>OpenRouter AI</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span class="w-2 h-2 bg-red-500 rounded-full"></span>
+          <span>Google Gemini Lite</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span class="w-2 h-2 bg-purple-500 rounded-full"></span>
+          <span>Real-time Analysis</span>
+        </div>
+      </div>
+    </div>
+  </section>
 </BlogLayout>
+
+<Footer />

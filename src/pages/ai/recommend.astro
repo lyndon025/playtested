@@ -7,73 +7,118 @@ import GameSelector from "../../components/GameSelector.astro";
 
 <BlogLayout title="AI Game Recommender">
   <Header />
-<!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Gaming Assistant - Game Recommendations & Comparisons</title>
-    <link rel="stylesheet" href="/src/styles/global.css">
-</head>
-<body class="bg-white dark:bg-slate-900 text-gray-900 dark:text-gray-100 min-h-screen">
 
-        <!-- Feature 1: Game Recommendations -->
-        <section id="recommendations" class="mb-16">
-            <div class="bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-slate-800 dark:to-slate-900 rounded-2xl p-8 border border-blue-100 dark:border-slate-700 shadow-lg">
-                <div class="flex items-center space-x-3 mb-6">
-                    <div class="bg-blue-500 rounded-full p-3">
-                        <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
-                        </svg>
-                    </div>
-                    <div>
-                        <h2 class="text-3xl font-bold text-gray-900 dark:text-gray-100">AI Game Recommendations</h2>
-                        <p class="text-gray-600 dark:text-gray-300 mt-1">Select up to 5 games you love, and our AI will find your next gaming obsession</p>
-                    </div>
-                </div>
-
-                <div class="bg-white dark:bg-slate-800 rounded-xl p-6 border border-blue-200 dark:border-slate-600">
-                    <div class="mb-4">
-                        <h3 class="text-lg font-semibold mb-2 text-gray-800 dark:text-gray-200">How it works:</h3>
-                        <ul class="text-sm text-gray-600 dark:text-gray-400 space-y-1">
-                            <li>✨ <strong>Smart Analysis:</strong> AI analyzes gameplay mechanics, themes, and player preferences</li>
-                            <li>🎯 <strong>Personalized Results:</strong> Tailored recommendations based on your unique gaming DNA</li>
-                            <li>📊 <strong>Detailed Insights:</strong> Understanding why each game fits your taste</li>
-                        </ul>
-                    </div>
-                    
-                    <GameSelector 
-                        maxSelection={5} 
-                        buttonText="🧠 Get AI Recommendations" 
-                        id="recommender" 
-                    />
-                </div>
+  <html lang="en" class="scroll-smooth">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>AI Gaming Assistant - Game Recommendations & Comparisons</title>
+      <link rel="stylesheet" href="/src/styles/global.css" />
+    </head>
+    <body
+      class="bg-white dark:bg-slate-900 text-gray-900 dark:text-gray-100 min-h-screen"
+    >
+      <!-- Feature 1: Game Recommendations -->
+      <section id="recommendations" class="mb-16">
+        <div
+          class="bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-slate-800 dark:to-slate-900 rounded-2xl p-8 border border-blue-100 dark:border-slate-700 shadow-lg"
+        >
+          <div class="flex items-center space-x-3 mb-6">
+            <div class="bg-blue-500 rounded-full p-3">
+              <svg
+                class="w-6 h-6 text-white"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+              </svg>
             </div>
-        </section>
-
-        <section class="text-center">
-            <div class="bg-gray-50 dark:bg-slate-800 rounded-2xl p-8 border border-gray-200 dark:border-slate-700">
-                <h3 class="text-2xl font-bold mb-4 text-gray-900 dark:text-gray-100">Powered by Advanced AI</h3>
-                <p class="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-                    Our AI assistant leverages deep gaming knowledge and natural language processing to understand what makes games special and why you might love them. 
-                    Every recommendation comes with detailed reasoning and valuable insights.
-                </p>
-                <div class="mt-6 flex justify-center space-x-8 text-sm text-gray-500 dark:text-gray-400">
-                    <div class="flex items-center space-x-2">
-                        <span class="w-2 h-2 bg-green-500 rounded-full"></span>
-                        <span>RAWG API Integration</span>
-                    </div>
-                    <div class="flex items-center space-x-2">
-                        <span class="w-2 h-2 bg-blue-500 rounded-full"></span>
-                        <span>OpenRouter AI</span>
-                    </div>
-                    <div class="flex items-center space-x-2">
-                        <span class="w-2 h-2 bg-purple-500 rounded-full"></span>
-                        <span>Real-time Analysis</span>
-                    </div>
-                </div>
+            <div>
+              <h2 class="text-3xl font-bold text-gray-900 dark:text-gray-100">
+                AI Game Recommendations
+              </h2>
+              <p class="text-gray-600 dark:text-gray-300 mt-1">
+                Select up to 5 games you love, and our AI will find your next
+                gaming obsession
+              </p>
             </div>
-        </section>
-    </div>
-  <Footer />
-</BlogLayout>
+          </div>
+
+          <div
+            class="bg-white dark:bg-slate-800 rounded-xl p-6 border border-blue-200 dark:border-slate-600"
+          >
+            <div class="mb-4">
+              <h3
+                class="text-lg font-semibold mb-2 text-gray-800 dark:text-gray-200"
+              >
+                How it works:
+              </h3>
+              <ul class="text-sm text-gray-600 dark:text-gray-400 space-y-1">
+                <li>
+                  ✨ <strong>Smart Analysis:</strong> AI analyzes gameplay mechanics,
+                  themes, and player preferences
+                </li>
+                <li>
+                  🎯 <strong>Personalized Results:</strong> Tailored recommendations
+                  based on your unique gaming DNA
+                </li>
+                <li>
+                  📊 <strong>Detailed Insights:</strong> Understanding why each game
+                  fits your taste
+                </li>
+              </ul>
+            </div>
+
+            <GameSelector
+              maxSelection={5}
+              buttonText="🧠 Get AI Recommendations"
+              id="recommender"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="text-center">
+        <div
+          class="bg-gray-50 dark:bg-slate-800 rounded-2xl p-8 border border-gray-200 dark:border-slate-700"
+        >
+          <h3 class="text-2xl font-bold mb-4 text-gray-900 dark:text-gray-100">
+            Powered by Advanced AI
+          </h3>
+          <p class="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+            Our AI assistant leverages deep gaming knowledge and natural
+            language processing to understand what makes games special and why
+            you might love them. Every recommendation comes with detailed
+            reasoning and valuable insights.
+          </p>
+          <div
+            class="mt-6 flex justify-center space-x-8 text-sm text-gray-500 dark:text-gray-400"
+          >
+            <div class="flex items-center space-x-2">
+              <span class="w-2 h-2 bg-green-500 rounded-full"></span>
+              <span>RAWG API Integration</span>
+            </div>
+            <div class="flex items-center space-x-2">
+              <span class="w-2 h-2 bg-blue-500 rounded-full"></span>
+              <span>OpenRouter AI</span>
+            </div>
+            <div class="flex items-center space-x-2">
+              <span class="w-2 h-2 bg-red-500 rounded-full"></span>
+              <span>Google Gemini Lite</span>
+            </div>
+            <div class="flex items-center space-x-2">
+              <span class="w-2 h-2 bg-purple-500 rounded-full"></span>
+              <span>Real-time Analysis</span>
+            </div>
+          </div>
+        </div>
+      </section>
+    </body>
+    <Footer />
+  </html></BlogLayout
+>

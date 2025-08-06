@@ -32,9 +32,16 @@ const {
 } = post.data;
 const { Content } = await post.render();
 
+// “You might also like”: pick 3 random featured posts (excluding current)
 const allPosts = await getCollection("article");
-const similarPosts = allPosts
-  .filter((p) => p.slug !== post.slug && p.data.category === post.data.category)
+const featuredPosts = allPosts
+  // 1) Exclude current
+  .filter((p) => p.slug !== post.slug)
+  // 2) Only those marked featured in frontmatter
+  .filter((p) => p.data.featured === true)
+  // 3) Shuffle order
+  .sort(() => Math.random() - 0.5)
+  // 4) Take first 3
   .slice(0, 3);
 
 const formattedDate = new Intl.DateTimeFormat("en-US", {
@@ -96,15 +103,15 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       </div>
     )}
 
-    <!-- Main Article Content (starts beside image, then clears float) -->
+    <!-- Main Article Content -->
     <div class="prose prose-h2:text-2xl prose-lg max-w-none text-gray-700 dark:prose-strong:text-slate-100 dark:text-gray-300 prose-headings:text-gray-900 dark:prose-headings:text-slate-100 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-code:text-slate-700 dark:prose-code:text-slate-100 prose-pre:bg-gray-100 dark:prose-pre:bg-slate-800 prose-blockquote:border-gray-300 dark:prose-blockquote:border-gray-600 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-400 prose-h3:text-[1.2em]">
       <Content />
     </div>
 
   </article>
 
-  <!-- Similar Posts -->
-  {SiteOptions.showSimilarPosts && similarPosts.length > 0 && (
+  <!-- You Might Also Like -->
+  {SiteOptions.showSimilarPosts && featuredPosts.length > 0 && (
     <>
       <hr class="border-t border-gray-200 dark:border-gray-700 my-12" />
       <section>
@@ -112,8 +119,8 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
           {SiteOptions.labels.youMightAlsoLike}
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
-          {similarPosts.map((similarPost) => (
-            <FeaturedCard post={similarPost} />
+          {featuredPosts.map((p) => (
+            <FeaturedCard post={p} />
           ))}
         </div>
       </section>
@@ -122,5 +129,3 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 
   <Footer />
 </BlogLayout>
-
-
