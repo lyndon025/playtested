@@ -78,9 +78,19 @@ const { showTitle = true } = Astro.props;
   
   <nav
     id="mobile-menu"
-    class="absolute top-full left-0 w-full bg-white dark:bg-slate-800 border-t border-gray-200 dark:border-slate-700 transform scale-y-0 origin-top transition-transform duration-200 ease-out md:static md:transform-none md:scale-y-100 md:flex md:items-center mt-4 z-40"
-  >
-    <div
+ class="
+    absolute top-full
+    inset-x-2                /* small left/right inset instead of full-width */
+    bg-gray-400 dark:bg-slate-800
+    border border-gray-200 dark:border-slate-700  /* full border */
+    rounded-xl               /* big curved corners */
+    p-4                      /* padding all around to make it taller */
+    transform scale-y-0 origin-top
+    transition-transform duration-200 ease-out
+    md:static md:transform-none md:scale-y-100 md:flex md:items-center
+    mt-4 z-40
+  "
+>    <div
       class="w-full flex flex-col md:flex-row md:items-center justify-between gap-4 p-4 md:p-0"
     >
       <div class="flex flex-col md:flex-row md:items-center gap-2 md:gap-4">

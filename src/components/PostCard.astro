@@ -20,7 +20,7 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 }).format(pubDate);
 ---
 
-<li class="flex flex-row gap-6 py-4 border-b border-gray-100 dark:border-gray-800 items-start">
+<li class="flex flex-row gap-6 py-4 border-b border-gray-500 dark:border-gray-800 items-start">
   {showImage && thumb && (
     <a href={`/article/${post.slug}`} class="block shrink-0 relative post-card-thumb">
       <Image
@@ -28,7 +28,8 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
         alt={title}
         width={224}
         height={128}
-        class="w-56 h-32 object-cover rounded-md border border-gray-200 dark:border-gray-700"
+        loading="eager"
+        class="w-56 h-32 object-cover rounded-md border border-gray-800 dark:border-gray-700"
         placeholder="blur"
       />
       <ScoreBadge score={score} small={true} />
@@ -52,11 +53,11 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       )}
     </div>
     {description && (
-      <p class="text-sm text-gray-500 dark:text-gray-400 mt-1 line-clamp-2">
+      <p class="text-sm text-gray-900 dark:text-gray-400 mt-1 line-clamp-2">
         {description}
       </p>
     )}
-    <span class="text-xs text-gray-400 dark:text-gray-500 mt-2">
+    <span class="text-xs text-gray-700 dark:text-gray-500 mt-2">
       {formattedDate}
     </span>
   </div>
