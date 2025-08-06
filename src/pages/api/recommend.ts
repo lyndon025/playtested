@@ -13,7 +13,7 @@ export const POST: APIRoute = async ({ request }) => {
     );
   }
 
-  const prompt = `Based on these games: ${gameNames.join(', ')}, please recommend 3 other games and explain why each would suit a fan of those titles.`;
+const prompt = `The user loves these games: ${gameNames.join(', ')}. Based on that, recommend 3 games they might enjoy. Start by listing the 3 game titles clearly up front, then follow it with a natural, paragraph-style explanation on why they'd like each one. No markdown, no bullet points. Full sentences only.`;
 
   try {
     const aiText = await getAIResponse(prompt);

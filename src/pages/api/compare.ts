@@ -6,15 +6,16 @@ import getAIResponse from '../../utils/SendToLLM.js';
 
 export const POST: APIRoute = async ({ request }) => {
   const { gameNames } = await request.json();
-  if (!Array.isArray(gameNames) || gameNames.length !== 2) {
+
+  if (!Array.isArray(gameNames) || gameNames.length < 2) {
     return new Response(
-      JSON.stringify({ error: 'Please provide exactly two games to compare.' }),
+      JSON.stringify({ error: 'Please provide at least two games to compare.' }),
       { status: 400, headers: { 'Content-Type': 'application/json' } }
     );
   }
 
-  const [a, b] = gameNames;
-  const prompt = `Compare "${a}" versus "${b}" across gameplay, art style, story, and player experience. Summarize who each game is best for.`;
+const prompt = `You're a gaming analyst AI helping the user decide between these games: ${gameNames.join(', ')}. Share your honest thoughts and impressions. Write in full sentences and keep a relaxed tone. Focus on gameplay, story, vibe, and how they differ. If the games are in the same series, determine how important it us to play the previous entry or entries, or not; and how the games differ and have evolved. No bullet points or markdown formatting.`;
+
 
   try {
     const aiText = await getAIResponse(prompt);

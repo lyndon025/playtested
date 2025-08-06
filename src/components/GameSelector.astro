@@ -8,7 +8,10 @@ export interface Props {
 const { maxSelection, buttonText, id } = Astro.props;
 ---
 
-<div class="bg-white dark:bg-slate-800 text-gray-900 dark:text-gray-100 border border-gray-200 dark:border-slate-700 p-6 rounded-lg" id={`game-selector-${id}`}>
+<div
+  class="bg-white dark:bg-slate-800 text-gray-900 dark:text-gray-100 border border-gray-200 dark:border-slate-700 p-6 rounded-lg"
+  id={`game-selector-${id}`}
+>
   <h3 class="text-lg font-bold mb-4">Game Search & Selection</h3>
 
   <input
@@ -18,8 +21,16 @@ const { maxSelection, buttonText, id } = Astro.props;
     class="w-full bg-gray-50 dark:bg-slate-700 border border-gray-300 dark:border-slate-600 px-4 py-2 rounded mb-4 placeholder-gray-500 dark:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500"
   />
 
-  <div id={`search-status-${id}`} class="text-sm text-gray-500 dark:text-gray-400 mb-2"></div>
-  <ul id={`search-results-${id}`} class="mb-6 space-y-2 max-h-60 overflow-y-auto"></ul>
+  <div
+    id={`search-status-${id}`}
+    class="text-sm text-gray-500 dark:text-gray-400 mb-2"
+  >
+  </div>
+  <ul
+    id={`search-results-${id}`}
+    class="mb-6 space-y-2 max-h-60 overflow-y-auto"
+  >
+  </ul>
 
   <div class="mb-6">
     <h4 class="font-bold mb-2">
@@ -48,8 +59,16 @@ const { maxSelection, buttonText, id } = Astro.props;
   const submitBtn = document.getElementById(`submit-btn-${id}`);
   const aiResponseEl = document.getElementById(`ai-response-${id}`);
 
-  if (!inputEl || !statusEl || !resultsEl || !selectedEl || !countEl || !submitBtn || !aiResponseEl) {
-    console.error('Missing elements for GameSelector');
+  if (
+    !inputEl ||
+    !statusEl ||
+    !resultsEl ||
+    !selectedEl ||
+    !countEl ||
+    !submitBtn ||
+    !aiResponseEl
+  ) {
+    console.error("Missing elements for GameSelector");
     return;
   }
 
@@ -58,30 +77,34 @@ const { maxSelection, buttonText, id } = Astro.props;
 
   async function searchGames(query) {
     if (!query || query.length < 2) {
-      statusEl.textContent = '';
-      resultsEl.innerHTML = '';
+      statusEl.textContent = "";
+      resultsEl.innerHTML = "";
       return;
     }
-    statusEl.textContent = 'Searching...';
-    resultsEl.innerHTML = '<li class="p-2 italic text-gray-500 dark:text-gray-400">Loading...</li>';
+    statusEl.textContent = "Searching...";
+    resultsEl.innerHTML =
+      '<li class="p-2 italic text-gray-500 dark:text-gray-400">Loading...</li>';
     try {
       const res = await fetch(`/api/rawg-search/${encodeURIComponent(query)}`);
       const data = await res.json();
-      resultsEl.innerHTML = '';
+      resultsEl.innerHTML = "";
       if (data.error) {
         statusEl.textContent = `Error: ${data.error}`;
         return;
       }
       if (!data.results.length) {
-        statusEl.textContent = 'No games found';
+        statusEl.textContent = "No games found";
         return;
       }
       statusEl.textContent = `Found ${data.results.length} games`;
-      data.results.forEach(game => {
-        const li = document.createElement('li');
-        li.className = 'flex items-center p-3 border border-gray-200 dark:border-slate-700 rounded cursor-pointer hover:bg-gray-100 dark:hover:bg-slate-700';
-        const thumb = game.background_image || '';
-        const year = game.released ? new Date(game.released).getFullYear() : 'Unknown';
+      data.results.forEach((game) => {
+        const li = document.createElement("li");
+        li.className =
+          "flex items-center p-3 border border-gray-200 dark:border-slate-700 rounded cursor-pointer hover:bg-gray-100 dark:hover:bg-slate-700";
+        const thumb = game.background_image || "";
+        const year = game.released
+          ? new Date(game.released).getFullYear()
+          : "Unknown";
         li.innerHTML = `
           <img src="${thumb}" alt="${game.name}" class="w-12 h-12 object-cover rounded mr-3" />
           <div>
@@ -89,21 +112,25 @@ const { maxSelection, buttonText, id } = Astro.props;
             <div class="text-sm text-gray-500 dark:text-gray-400">${year}</div>
           </div>
         `;
-        li.addEventListener('click', () => addGame(game));
+        li.addEventListener("click", () => addGame(game));
         resultsEl.appendChild(li);
       });
     } catch (e) {
-      statusEl.textContent = 'Network error';
+      statusEl.textContent = "Network error";
       console.error(e);
     }
   }
 
   function addGame(game) {
-    inputEl.value = '';
-    resultsEl.innerHTML = '';
-    statusEl.textContent = '';
+    inputEl.value = "";
+    resultsEl.innerHTML = "";
+    statusEl.textContent = "";
     inputEl.focus();
-    if (selected.find(g => g.id === game.id) || selected.length >= maxSelection) return;
+    if (
+      selected.find((g) => g.id === game.id) ||
+      selected.length >= maxSelection
+    )
+      return;
     selected.push({ id: game.id, name: game.name });
     updateSelectionUI();
   }
@@ -116,73 +143,119 @@ const { maxSelection, buttonText, id } = Astro.props;
   async function fetchCoverForName(name) {
     const res = await fetch(`/api/rawg-search/${encodeURIComponent(name)}`);
     const data = await res.json();
-    return data.results?.[0]?.background_image || '';
+    return data.results?.[0]?.background_image || "";
   }
 
   function parseNames(text) {
-    return text.split(/,|and/).map(s => s.trim()).filter(s => s);
+    return text
+      .split(/,|and/)
+      .map((s) => s.trim())
+      .filter((s) => s);
   }
 
   function updateSelectionUI() {
-    selectedEl.innerHTML = '';
+    selectedEl.innerHTML = "";
     selected.forEach((g, i) => {
-      const li = document.createElement('li');
-      li.className = 'flex justify-between p-2 bg-blue-50 dark:bg-slate-700 rounded';
+      const li = document.createElement("li");
+      li.className =
+        "flex justify-between p-2 bg-blue-50 dark:bg-slate-700 rounded";
       li.innerHTML = `<span>${g.name}</span><button class="text-red-500 dark:text-red-400">Remove</button>`;
-      li.querySelector('button').addEventListener('click', () => removeGame(i));
+      li.querySelector("button").addEventListener("click", () => removeGame(i));
       selectedEl.appendChild(li);
     });
     countEl.textContent = selected.length;
     submitBtn.disabled = selected.length < 2 || selected.length > maxSelection;
-    aiResponseEl.innerHTML = '';
+    aiResponseEl.innerHTML = "";
   }
 
   async function handleSubmit() {
     submitBtn.disabled = true;
-    submitBtn.textContent = '🤖 Thinking...';
-    aiResponseEl.innerHTML = `<div class="p-4 bg-gray-50 dark:bg-slate-700 rounded border-l-4 border-blue-400 text-gray-800 dark:text-gray-200">Loading AI response...</div>`;
-    const endpoint = id === 'comparator' ? '/api/compare' : '/api/recommend';
+    submitBtn.textContent = "🤖 Thinking...";
+    aiResponseEl.innerHTML = `
+    <div class="p-4 bg-gray-50 dark:bg-slate-700 rounded border-l-4 border-blue-400 text-gray-800 dark:text-gray-200">
+      Loading AI response...
+    </div>
+  `;
+
+    const endpoint = id === "comparator" ? "/api/compare" : "/api/recommend";
+    const gameNames = selected.map((g) => g.name);
+
     try {
       const res = await fetch(endpoint, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ gameNames: selected.map(g => g.name) })
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ gameNames }),
       });
       const json = await res.json();
       if (json.error) throw new Error(json.error);
 
-      if (id === 'comparator') {
-        // Comparator: text only
-        aiResponseEl.innerHTML = `<div class="p-4 bg-green-50 dark:bg-green-900 rounded border-l-4 border-green-400 text-green-800 dark:text-green-200 whitespace-pre-wrap">${json.result}</div>`;
+      const sections = json.result.split(/\n{2,}/).filter(Boolean);
+
+      let formattedHTML = "";
+
+      if (id === "comparator") {
+        const cleanText = json.result
+          .replace(/\*\*(.*?)\*\*/g, "$1") // Remove bold
+          .replace(/^## .*/gm, "") // Remove markdown headers
+          .trim();
+
+        formattedHTML = `
+    <div class="mt-6 ai-response">
+      <div class="bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed whitespace-pre-line">
+        ${cleanText}
+      </div>
+    </div>
+  `;
       } else {
-        // Recommender: gallery + text
-        const rec = parseNames(json.result).slice(0, 5);
-        const covers = await Promise.all(rec.map(fetchCoverForName));
-        const gallery = covers.map(src => `<img src="${src}" class="w-full max-w-32 h-auto object-contain rounded-md shadow-lg" />`).join('');
-        aiResponseEl.innerHTML = `
-          <div class="mb-4 grid grid-cols-3 sm:grid-cols-5 gap-4 justify-items-center">${gallery}</div>
-          <div class="p-4 bg-green-50 dark:bg-green-900 rounded border-l-4 border-green-400 text-green-800 dark:text-green-200 whitespace-pre-wrap">${json.result}</div>
-        `;
+        // Clean output and break it into title + body
+        const cleanText = json.result
+          .replace(/\*\*(.*?)\*\*/g, "$1") // Remove any double asterisk bold
+          .replace(
+            /(^|[^\\])\*(?!\s)([^*]+?)\*(?!\S)/g,
+            "$1<strong>$2</strong>"
+          ) // Convert *italics* to <strong>
+          .replace(/^## .*/gm, "") // Remove markdown headers
+          .trim();
+
+        const lines = cleanText.split("\n");
+        const headline = lines[0]; // Expecting "Recommended Games: Game A, Game B, Game C"
+        const body = lines.slice(1).join("\n").trim();
+
+        formattedHTML = `
+    <div class="mt-6 ai-response">
+      <div class="bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed whitespace-pre-line">
+        <div class="text-blue-600 dark:text-blue-300 font-semibold mb-3">${headline}</div>
+        <div>${body}</div>
+      </div>
+    </div>
+  `;
       }
+
+      aiResponseEl.innerHTML = formattedHTML;
     } catch (e) {
-      aiResponseEl.innerHTML = `<div class="p-4 bg-red-50 dark:bg-red-900 rounded border-l-4 border-red-400 text-red-800 dark:text-red-200">${e.message}</div>`;
+      aiResponseEl.innerHTML = `
+      <div class="p-4 bg-red-50 dark:bg-red-900 rounded border-l-4 border-red-400 text-red-800 dark:text-red-200">
+        ${e.message}
+      </div>
+    `;
     } finally {
       submitBtn.textContent = buttonText;
-      submitBtn.disabled = selected.length < 2 || selected.length > maxSelection;
+      submitBtn.disabled =
+        selected.length < 2 || selected.length > maxSelection;
     }
   }
 
-  inputEl.addEventListener('input', e => {
+  inputEl.addEventListener("input", (e) => {
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(() => searchGames(inputEl.value.trim()), 300);
   });
-  inputEl.addEventListener('keydown', e => {
-    if (e.key === 'Enter') {
+  inputEl.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
       e.preventDefault();
       searchGames(inputEl.value.trim());
     }
   });
-  submitBtn.addEventListener('click', handleSubmit);
+  submitBtn.addEventListener("click", handleSubmit);
 
   updateSelectionUI();
 </script>

@@ -7,8 +7,9 @@ export default async function getAIResponse(prompt) {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      model: 'openai/gpt-3.5-turbo', // Using a faster model. Change to 'gpt-4' if needed.
+      model: 'google/gemini-2.5-flash-lite', // Using a faster model. Change to 'gpt-4' if needed.
       messages: [{ role: 'user', content: prompt }],
+      max_tokens: 1024, 
     })
   });
   if (!res.ok) {
