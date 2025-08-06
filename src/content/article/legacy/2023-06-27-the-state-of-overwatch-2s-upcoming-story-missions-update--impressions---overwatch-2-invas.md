@@ -1,36 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Set to launch on August 10, 2023, Overwatch 2: Invasion will transport
-  players back into the heart of the action-packed narrative of Overwatch 2, immersing
-  them in thrilling PvE story missions against the formidable forces of Null Sector.'
+slug: 2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update-impressions-overwatch-2-invas
+title: 'The state of Overwatch 2’s upcoming Story Missions update | Impressions - Overwatch 2: Invasion'
+game: Overwatch 2
+description: 'Set to launch on August 10, 2023, Overwatch 2: Invasion will transport players back into the heart of the action-packed narrative of Overwatch 2, immersing them in thrilling PvE story missions against the formidable forces of Null Sector.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-0.avif
+  - /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-1.avif
+  - /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-2.avif
+  - /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-3.avif
+  - /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-4.avif
 pubDate: 2023-06-27
 tags:
-- action
-- console
-- massively multiplayer
-- nintendo switch
-- overwatch-2
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- shooter
-- taptap
-- xbox one
-- xbox series
+  - action
+  - console
+  - massively-multiplayer
+  - nintendo-switch
+  - overwatch-2
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - shooter
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-0.avif
-title: 'The state of Overwatch 2’s upcoming Story Missions update | Impressions -
-  Overwatch 2: Invasion'
-game: Overwatch 2
-gallery:
-- /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-0.avif
-- /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-1.avif
-- /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-2.avif
-- /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-3.avif
-- /images/reviews/legacy/2023-06-27-the-state-of-overwatch-2s-upcoming-story-missions-update--impressions---overwatch-2-invas-4.avif
 ---
+
 Set to launch on August 10, 2023, Overwatch 2: Invasion will transport players back into the heart of the action-packed narrative of Overwatch 2, immersing them in thrilling PvE story missions against the formidable forces of Null Sector.
 
 The update will introduce three exhilarating missions set in iconic global locations. Heroes will be pitted against the relentless onslaught of Null Sector in the sprawling streets of Rio de Janeiro, the bustling metropolis of Toronto, and the enchanting city of Gothenburg. Each mission promises huge maps, intricate objectives, and an immersive storyline that will keep players on the edge of their seats. I'm personally excited for this as the lore for Overwatch is actually interested in itself, especially if you have watched the animated shorts for Overwatch before.

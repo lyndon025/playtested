@@ -1,43 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Get Kemono Friends: Kingdom is a gacha mobile game set
-  in a unique world filled with delightful animal Friends. With its engaging storyline,
-  strategic turn-based RPG gameplay, and a diverse roster of charming animal-themed
-  characters, this game promises to offer an enjoyable experience for both fans and
-  newcomers to the Kemono Friends franchise. It is coming soon with an Open Beta Test
-  scheduled for June 21!'
+slug: 2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game-full-review-kemono-friend
+title: 'Collect animal waifus in this visually impressive gacha game | Full Review - Kemono Friends: Kingdom'
+game: 'Kemono Friends: Kingdom'
+description: 'lyndonguitar Get Kemono Friends: Kingdom is a gacha mobile game set in a unique world filled with delightful animal Friends. With its engaging storyline, strategic turn-based RPG gameplay, and a diverse roster of charming animal-themed characters, this game promises to offer an enjoyable experience for both fans and newcomers to the Kemono Friends franchise. It is coming soon with an Open Beta Test scheduled for June 21!'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-0.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-1.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-2.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-3.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-4.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-5.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-6.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-7.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-8.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-9.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-10.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-11.avif
+  - /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-12.avif
 pubDate: 2023-06-08
 tags:
-- indie
-- kemono-friends-kingdom
-- linux
-- macos
-- mobile
-- pc
-- simulation
-- strategy
-- taptap
+  - indie
+  - kemono-friends-kingdom
+  - linux
+  - macos
+  - mobile
+  - pc
+  - simulation
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-0.avif
-title: 'Collect animal waifus in this visually impressive gacha game | Full Review
-  - Kemono Friends: Kingdom'
-game: 'Kemono Friends: Kingdom'
-gallery:
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-0.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-1.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-2.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-3.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-4.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-5.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-6.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-7.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-8.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-9.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-10.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-11.avif
-- /images/reviews/legacy/2023-06-08-collect-animal-waifus-in-this-visually-impressive-gacha-game--full-review---kemono-friend-12.avif
 ---
+
 Kemono Friends: KingdomGlobal
 
 lyndonguitar
@@ -45,21 +41,30 @@ Get
 Kemono Friends: Kingdom is a gacha mobile game set in a unique world filled with delightful animal Friends. With its engaging storyline, strategic turn-based RPG gameplay, and a diverse roster of charming animal-themed characters, this game promises to offer an enjoyable experience for both fans and newcomers to the Kemono Friends franchise. It is coming soon with an Open Beta Test scheduled for June 21!
 
 
-**Pros:**
 
 
-+Fluid visuals and animations
-
-+Charming animal-inspired characters to collect
-
-+Strategic gameplay blending turn-based RPG and Angry Birds gameplay
-
-+A lot of activities to do aside from the main story
-
-+Skipping the story cutscene still gives you a text summary
+## Pros
 
 
-**Cons:**
+
+## +Fluid visuals and animations
+
+
+## +Charming animal-inspired characters to collect
+
+
+## +Strategic gameplay blending turn-based RPG and Angry Birds gameplay
+
+
+## +A lot of activities to do aside from the main story
+
+
+## +Skipping the story cutscene still gives you a text summary
+
+
+
+
+## Cons
 
 
 -Rough english localization

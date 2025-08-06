@@ -1,52 +1,60 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Marvel''s Spider-Man: Miles Morales is truly one of the better games
-  to have come out two years ago on the PS5 and PS4, and now we are lucky for another
-  Playstation port to PC with this weekend’s release.'
-featured: false
-pubDate: 2022-11-20
-tags:
-- action
-- console
-- man-game-so-far
-- playstation
-- playstation 4
-- taptap
-thumb: /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-0.avif
+slug: 2022-11-20-the-best-spider-man-game-so-far
 title: The best Spider-Man game so far
 game: Man game so far
+description: "Marvel's Spider-Man: Miles Morales is truly one of the better games to have come out two years ago on the PS5 and PS4, and now we are lucky for another Playstation port to PC with this weekend’s release."
+featured: false
 gallery:
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-0.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-1.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-2.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-3.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-4.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-5.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-6.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-7.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-8.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-9.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-10.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-11.avif
-- /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-12.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-0.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-1.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-2.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-3.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-4.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-5.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-6.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-7.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-8.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-9.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-10.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-11.avif
+  - /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-12.avif
+pubDate: 2022-11-20
+tags:
+  - action
+  - console
+  - man-game-so-far
+  - playstation
+  - playstation-4
+  - taptap
+thumb: /images/reviews/legacy/2022-11-20-the-best-spider-man-game-so-far-0.avif
 ---
+
 Marvel's Spider-Man: Miles Morales - Full Review
 
 
-**Pros:**
 
 
-+Fun kinetic combat
-
-+Best Spider-Man swinging mechanics and fluid animations
-
-+One of the best PC ports (support for ultrawide, DLSS, etc)
-
-+Modern synthetic soundtrack
+## Pros
 
 
-**Cons:**
+
+## +Fun kinetic combat
+
+
+## +Best Spider-Man swinging mechanics and fluid animations
+
+
+## +One of the best PC ports (support for ultrawide, DLSS, etc)
+
+
+## +Modern synthetic soundtrack
+
+
+
+
+## Cons
 
 
 -Too short (under 10 hours)

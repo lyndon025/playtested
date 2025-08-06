@@ -1,35 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: CaseCracker is an investigative crime-deduction game where players are
-  put in a highly immersive experience of solving crimes via an experimental test
-  system. It is currently available for PC and mobile devices.
-featured: false
-pubDate: 2023-04-17
-tags:
-- adventure
-- casecracker
-- casual
-- mobile
-- pc
-- taptap
-- wii
-thumb: /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-0.avif
+slug: 2023-04-17-channel-your-inner-detective-or-get-frustrated-trying-review-casecracker
 title: Channel your inner detective, or get frustrated trying | Review - CaseCracker
 game: CaseCracker
+description: CaseCracker is an investigative crime-deduction game where players are put in a highly immersive experience of solving crimes via an experimental test system. It is currently available for PC and mobile devices.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-0.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-1.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-2.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-3.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-4.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-5.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-6.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-7.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-8.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-9.avif
-- /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-10.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-0.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-1.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-2.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-3.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-4.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-5.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-6.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-7.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-8.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-9.avif
+  - /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-10.avif
+pubDate: 2023-04-17
+tags:
+  - adventure
+  - casecracker
+  - casual
+  - mobile
+  - pc
+  - taptap
+  - wii
+thumb: /images/reviews/legacy/2023-04-17-channel-your-inner-detective-or-get-frustrated-trying--review---casecracker-0.avif
 ---
+
 CaseCracker is an investigative crime-deduction game where players are put in a highly immersive experience of solving crimes via an experimental test system. It is currently available for PC and mobile devices.
 
 CaseCracker’s test system functions similarly to an operating system where you are free to read about the details of the crime, follow any leads or clues, search databases, and perform actions such as DNA tests and warranted searches to eventually uncover the perpetrator.

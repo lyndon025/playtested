@@ -1,54 +1,56 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Voice of Cards: The Beasts of Burden is the third entry in the Voice
-  of Cards trilogy — a series of narratively-driven table-top RPG card games. But
-  if you’re coming into this review without having played the first two games, don’t
-  leave just yet, as Voice of Cards: The Beasts of Burden is another standalone title
-  that you can start the trilogy with, just all set in the same world. They all came
-  out at the same time for both iOS and Android which might make it confusing for
-  newcomers, but you can play them in any specific order.'
+slug: 2023-03-26-voice-of-cards-again-with-monster-catching-mechanics-review-voice-of-cards-the-beasts-of
+title: 'Voice of Cards again, with monster catching mechanics | Review: Voice of Cards: The Beasts of Burden'
+game: 'Voice of Cards: The Beasts of Burden'
+description: 'Voice of Cards: The Beasts of Burden is the third entry in the Voice of Cards trilogy — a series of narratively-driven table-top RPG card games. But if you’re coming into this review without having played the first two games, don’t leave just yet, as Voice of Cards: The Beasts of Burden is another standalone title that you can start the trilogy with, just all set in the same world. They all came out at the same time for both iOS and Android which might make it confusing for newcomers, but you can play them in any specific order.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-0.avif
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-1.avif
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-2.avif
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-3.avif
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-4.avif
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-5.avif
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-6.avif
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-7.avif
+  - /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-8.avif
 pubDate: 2023-03-26
 tags:
-- console
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- taptap
-- voice-of-cards-the-beasts-of-burden
+  - console
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - taptap
+  - voice-of-cards-the-beasts-of-burden
 thumb: /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-0.avif
-title: 'Voice of Cards again, with monster catching mechanics | Review: Voice of Cards:
-  The Beasts of Burden'
-game: 'Voice of Cards: The Beasts of Burden'
-gallery:
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-0.avif
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-1.avif
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-2.avif
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-3.avif
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-4.avif
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-5.avif
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-6.avif
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-7.avif
-- /images/reviews/legacy/2023-03-26-voice-of-cards-again-with-monster-catching-mechanics--review-voice-of-cards-the-beasts-of-8.avif
 ---
+
 Voice of Cards: The Beasts of Burden is the third entry in the Voice of Cards trilogy — a series of narratively-driven table-top RPG card games. But if you’re coming into this review without having played the first two games, don’t leave just yet, as Voice of Cards: The Beasts of Burden is another standalone title that you can start the trilogy with, just all set in the same world. They all came out at the same time for both iOS and Android which might make it confusing for newcomers, but you can play them in any specific order.
 
 
-**Pros:**
 
 
-+Table-top RPG based aesthetic and gameplay
-
-+JRPG style combat with monster capturing mechanic
-
-+premium game with no ads, or pay-to-win mechanics, but there are in-app purchasable cosmetics
+## Pros
 
 
-**Cons:**
+
+## +Table-top RPG based aesthetic and gameplay
+
+
+## +JRPG style combat with monster capturing mechanic
+
+
+## +premium game with no ads, or pay-to-win mechanics, but there are in-app purchasable cosmetics
+
+
+
+
+## Cons
 
 
 -non-table-top RPG players might find the game slow paced

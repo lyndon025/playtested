@@ -1,37 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Assassin's Creed Codename Jade is a mobile spin-off of the Assassin’s
-  Creed series, set in the third century BC during the time of the Qin dynasty in
-  ancient China. In this game, players take on the role of Xia, an adopted child of
-  the master Wei Yu, who embarks on a quest for revenge after their close friend is
-  betrayed. As the story progresses, Xia uncovers secrets about the past and a powerful
-  force that threatens to destroy everything they hold dear. For those confused, this
-  is different from the upcoming Assassin’s Creed codename Red, which is set in another
-  oriental region, Japan.
+slug: 2023-08-08-a-full-blown-assassins-creed-experience-for-mobile-impressions-assassins-creed-codenam
+title: A full-blown Assassin’s Creed experience for mobile | Impressions - Assassin's Creed Codename Jade
+game: Assassin's Creed Codename Jade
+description: Assassin's Creed Codename Jade is a mobile spin-off of the Assassin’s Creed series, set in the third century BC during the time of the Qin dynasty in ancient China. In this game, players take on the role of Xia, an adopted child of the master Wei Yu, who embarks on a quest for revenge after their close friend is betrayed. As the story progresses, Xia uncovers secrets about the past and a powerful force that threatens to destroy everything they hold dear. For those confused, this is different from the upcoming Assassin’s Creed codename Red, which is set in another oriental region, Japan.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-0.avif
+  - /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-1.avif
+  - /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-2.avif
+  - /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-3.avif
+  - /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-4.avif
+  - /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-5.avif
+  - /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-6.avif
 pubDate: 2023-08-08
 tags:
-- action
-- adventure
-- android
-- assassin-s-creed-codename-jade
-- ios
-- mobile
-- taptap
+  - action
+  - adventure
+  - android
+  - assassin-s-creed-codename-jade
+  - ios
+  - mobile
+  - taptap
 thumb: /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-0.avif
-title: A full-blown Assassin’s Creed experience for mobile | Impressions - Assassin's
-  Creed Codename Jade
-game: Assassin's Creed Codename Jade
-gallery:
-- /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-0.avif
-- /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-1.avif
-- /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-2.avif
-- /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-3.avif
-- /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-4.avif
-- /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-5.avif
-- /images/reviews/legacy/2023-08-08-a-full-blown-assassins-creed-experience-for-mobile--impressions---assassins-creed-codenam-6.avif
 ---
+
 Assassin's Creed Jade
 8.7
 Action

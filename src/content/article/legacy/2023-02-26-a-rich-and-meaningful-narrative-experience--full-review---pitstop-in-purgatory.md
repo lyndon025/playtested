@@ -1,51 +1,58 @@
 ---
 author: lyndonguitar
 category: Review
-description: Pitstop in Purgatory is a visual novel / adventure game full of story
-  and thought-provoking ideas. Originally made for PC in a surprising two-month timeframe,
-  it is now available as well for Android.
-featured: false
-pubDate: 2023-02-26
-tags:
-- adventure
-- indie
-- linux
-- macos
-- mobile
-- pc
-- pitstop-in-purgatory
-- simulation
-- taptap
-thumb: /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-0.avif
+slug: 2023-02-26-a-rich-and-meaningful-narrative-experience-full-review-pitstop-in-purgatory
 title: A rich and meaningful narrative experience | Full Review - Pitstop in Purgatory
 game: Pitstop in Purgatory
+description: Pitstop in Purgatory is a visual novel / adventure game full of story and thought-provoking ideas. Originally made for PC in a surprising two-month timeframe, it is now available as well for Android.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-0.avif
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-1.avif
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-2.avif
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-3.avif
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-4.avif
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-5.avif
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-6.avif
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-7.avif
-- /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-8.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-0.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-1.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-2.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-3.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-4.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-5.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-6.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-7.avif
+  - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-8.avif
+pubDate: 2023-02-26
+tags:
+  - adventure
+  - indie
+  - linux
+  - macos
+  - mobile
+  - pc
+  - pitstop-in-purgatory
+  - simulation
+  - taptap
+thumb: /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-0.avif
 ---
+
 Pitstop in Purgatory is a visual novel / adventure game full of story and thought-provoking ideas. Originally made for PC in a surprising two-month timeframe, it is now available as well for Android.
 
 You play as Astrid, a frustrated young actress who recently died. She wakes up and finds herself in the afterlife, but it’s not Heaven or Hell. It’s something close to a Purgatory, sothat’s what they call it for her. At the start, she doesn’t remember her death and is in a state of confusion.
 
 
-**Pros:**
 
 
-+Thought provoking story
-
-+Explores heavy and serious themes
-
-+Beautiful dreamy art-style
+## Pros
 
 
-**Cons:**
+
+## +Thought provoking story
+
+
+## +Explores heavy and serious themes
+
+
+## +Beautiful dreamy art-style
+
+
+
+
+## Cons
 
 
 -Unresponsive touch controls

@@ -1,28 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Released in Early Access today, Superfuse is a brand new Action RPG that
-  combines cell-shaded comic-book art style, looter elements, with some action packed
-  hack ’n slash mechanics.
-featured: false
-pubDate: 2023-01-31
-tags:
-- action
-- pc
-- superfuse
-- taptap
-thumb: /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-0.avif
+slug: 2023-01-31-a-comic-book-style-action-rpg-superfuse-first-impressions
 title: A comic book style Action RPG | Superfuse - First Impressions
 game: Superfuse
+description: Released in Early Access today, Superfuse is a brand new Action RPG that combines cell-shaded comic-book art style, looter elements, with some action packed hack ’n slash mechanics.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-0.avif
-- /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-1.avif
-- /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-2.avif
-- /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-3.avif
-- /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-4.avif
-- /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-5.avif
-- /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-6.avif
+  - /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-0.avif
+  - /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-1.avif
+  - /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-2.avif
+  - /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-3.avif
+  - /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-4.avif
+  - /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-5.avif
+  - /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-6.avif
+pubDate: 2023-01-31
+tags:
+  - action
+  - pc
+  - superfuse
+  - taptap
+thumb: /images/reviews/legacy/2023-01-31-a-comic-book-style-action-rpg--superfuse---first-impressions-0.avif
 ---
+
 Released in Early Access today, Superfuse is a brand new Action RPG that combines cell-shaded comic-book art style, looter elements, with some action packed hack ’n slash mechanics.
 
 We start off by choosing and creating our character by selecting from one of the three available classes called Enforcers: The Berserker, a warrior/melee archetype; The Elementalist, who is basically the mage type; and a Technomancer, which is the necromancer / summoner class. You can either play offline or online, a highly appreciated feature. Although there is no way to transfer a character from offline to online and vice versa once you have made your decision.

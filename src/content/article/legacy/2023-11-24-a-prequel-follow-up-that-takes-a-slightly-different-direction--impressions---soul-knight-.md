@@ -1,26 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Soul Knight Prequel marks a departure from the rogue-lite roots of its
-  predecessor, introducing players to an adjacent genre: ARPGs. Boasting its own narrative
-  set before the events of the original Soul Knight, unique characters, and a blend
-  of pixel art and 3D graphics, Soul Knight Prequel aims to captivate both fans of
-  the original and newcomers alike.'
+slug: 2023-11-24-a-prequel-follow-up-that-takes-a-slightly-different-direction-impressions-soul-knight
+title: A prequel follow-up that takes a slightly different direction | Impressions - Soul Knight Prequel
+game: Soul Knight Prequel
+description: 'Soul Knight Prequel marks a departure from the rogue-lite roots of its predecessor, introducing players to an adjacent genre: ARPGs. Boasting its own narrative set before the events of the original Soul Knight, unique characters, and a blend of pixel art and 3D graphics, Soul Knight Prequel aims to captivate both fans of the original and newcomers alike.'
 featured: false
 pubDate: 2023-11-24
 tags:
-- adventure
-- casual
-- indie
-- mobile
-- pc
-- soul-knight-prequel
-- taptap
+  - adventure
+  - casual
+  - indie
+  - mobile
+  - pc
+  - soul-knight-prequel
+  - taptap
 thumb: ''
-title: A prequel follow-up that takes a slightly different direction | Impressions
-  - Soul Knight Prequel
-game: Soul Knight Prequel
 ---
+
 Soul Knight Prequel marks a departure from the rogue-lite roots of its predecessor, introducing players to an adjacent genre: ARPGs. Boasting its own narrative set before the events of the original Soul Knight, unique characters, and a blend of pixel art and 3D graphics, Soul Knight Prequel aims to captivate both fans of the original and newcomers alike.
 
 The gameplay of Soul Knight Prequel is characterized by its ARPG nature. As players and created characters delve into dungeons in an ARPG style reminiscent of Diablo, the emphasis is on real-time action, colorful visuals, and strategic combat. The game retains the essence of its predecessor, offering an extensive loop of dungeon crawling, loot acquisition, and character improvement. There’s two gameplay modes to start the game; The self-explanatory Story mode, and Adventure which cuts all the narrative and jumps straight into the ARPG goodness --- which is my preferred option to play. In games like this, the story is just a small part of the experience, the whole fun of it is in the farming, looting, and gearing up your characters.

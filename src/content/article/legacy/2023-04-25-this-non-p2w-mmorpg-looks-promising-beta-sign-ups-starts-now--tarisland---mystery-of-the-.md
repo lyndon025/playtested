@@ -1,29 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tarisland - Mystery of the Hollows, or just Tarisland, is an upcoming
-  MMORPG game from Tencent that is looking mighty promising. It is set to be released
-  for both PC and Mobile (Android and iOS) with full cross-platform play.
+slug: 2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now-tarisland-mystery-of-the
+title: This non-P2W MMORPG looks promising! beta sign-ups starts now | Tarisland - Mystery of the Hollows
+game: Tarisland - Mystery of the Hollows
+description: Tarisland - Mystery of the Hollows, or just Tarisland, is an upcoming MMORPG game from Tencent that is looking mighty promising. It is set to be released for both PC and Mobile (Android and iOS) with full cross-platform play.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--0.avif
+  - /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--1.avif
+  - /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--2.avif
+  - /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--3.avif
+  - /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--4.avif
 pubDate: 2023-04-25
 tags:
-- action
-- mobile
-- pc
-- rpg
-- taptap
-- tarisland-mystery-of-the-hollows
+  - action
+  - mobile
+  - pc
+  - rpg
+  - taptap
+  - tarisland-mystery-of-the-hollows
 thumb: /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--0.avif
-title: This non-P2W MMORPG looks promising! beta sign-ups starts now | Tarisland -
-  Mystery of the Hollows
-game: Tarisland - Mystery of the Hollows
-gallery:
-- /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--0.avif
-- /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--1.avif
-- /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--2.avif
-- /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--3.avif
-- /images/reviews/legacy/2023-04-25-this-non-p2w-mmorpg-looks-promising-beta-sign-ups-starts-now--tarisland---mystery-of-the--4.avif
 ---
+
 Tarisland
 6.5
 RPG

@@ -1,39 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Get Omega Strikers is a sports multiplayer mobile game that
-  combines Moba mechanics along with the sport soccer and air hockey.
+slug: 2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now-full-review-omega-strikers
+title: Probably one of the best cross-play sports games right now | Full Review - Omega Strikers
+game: Omega Strikers
+description: lyndonguitar Get Omega Strikers is a sports multiplayer mobile game that combines Moba mechanics along with the sport soccer and air hockey.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-0.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-1.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-2.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-3.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-4.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-5.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-6.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-7.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-8.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-9.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-10.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-11.avif
+  - /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-12.avif
 pubDate: 2023-05-02
 tags:
-- action
-- console
-- ios
-- mobile
-- nintendo switch
-- omega-strikers
-- pc
-- strategy
-- taptap
+  - action
+  - console
+  - ios
+  - mobile
+  - nintendo-switch
+  - omega-strikers
+  - pc
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-0.avif
-title: Probably one of the best cross-play sports games right now | Full Review -
-  Omega Strikers
-game: Omega Strikers
-gallery:
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-0.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-1.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-2.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-3.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-4.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-5.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-6.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-7.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-8.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-9.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-10.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-11.avif
-- /images/reviews/legacy/2023-05-02-probably-one-of-the-best-cross-play-sports-games-right-now--full-review---omega-strikers-12.avif
 ---
+
 Omega Strikers
 
 lyndonguitar
@@ -41,19 +41,27 @@ Get
 Omega Strikers is a sports multiplayer mobile game that combines Moba mechanics along with the sport soccer and air hockey.
 
 
-**Pros:**
 
 
-+Feels just like any other fun sport to play
-
-+Integrates MOBA elements into its sport gameplay very well
-
-+Free-to-play with no pay to win elements
-
-+Controller support
+## Pros
 
 
-**Cons:**
+
+## +Feels just like any other fun sport to play
+
+
+## +Integrates MOBA elements into its sport gameplay very well
+
+
+## +Free-to-play with no pay to win elements
+
+
+## +Controller support
+
+
+
+
+## Cons
 
 
 -No clear distinction with the roles gameplay wise

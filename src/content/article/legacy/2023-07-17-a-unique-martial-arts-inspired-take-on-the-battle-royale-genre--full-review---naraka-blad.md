@@ -1,43 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Get NARAKA: BLADEPOINT is a multiplayer online battle royale
-  game that takes place in a fantastical ancient Chinese-inspired world where players
-  — sometimes in teams up to three — compete against each other to be the last one
-  standing. The game stands out from other battle royale titles with its emphasis
-  on fast-paced martial arts based combat and parkour mechanics. It is available for
-  PC, Xbox, and PlayStation, with an official mobile version coming soon as well.'
+slug: 2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre-full-review-naraka-blad
+title: 'A unique martial arts-inspired take on the battle royale genre | Full Review - NARAKA: BLADEPOINT'
+game: Naraka Bladepoint
+description: 'lyndonguitar Get NARAKA: BLADEPOINT is a multiplayer online battle royale game that takes place in a fantastical ancient Chinese-inspired world where players — sometimes in teams up to three — compete against each other to be the last one standing. The game stands out from other battle royale titles with its emphasis on fast-paced martial arts based combat and parkour mechanics. It is available for PC, Xbox, and PlayStation, with an official mobile version coming soon as well.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-0.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-1.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-2.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-3.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-4.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-5.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-6.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-7.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-8.avif
+  - /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-9.avif
 pubDate: 2023-07-17
 tags:
-- action
-- adventure
-- console
-- massively multiplayer
-- mobile
-- naraka-bladepoint
-- pc
-- playstation
-- playstation 5
-- rpg
-- taptap
-- xbox series
+  - action
+  - adventure
+  - console
+  - massively-multiplayer
+  - mobile
+  - naraka-bladepoint
+  - pc
+  - playstation
+  - playstation-5
+  - rpg
+  - taptap
+  - xbox-series
 thumb: /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-0.avif
-title: 'A unique martial arts-inspired take on the battle royale genre | Full Review
-  - NARAKA: BLADEPOINT'
-game: Naraka Bladepoint
-gallery:
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-0.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-1.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-2.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-3.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-4.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-5.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-6.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-7.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-8.avif
-- /images/reviews/legacy/2023-07-17-a-unique-martial-arts-inspired-take-on-the-battle-royale-genre--full-review---naraka-blad-9.avif
 ---
+
 NARAKA: BLADEPOINT
 
 lyndonguitar
@@ -45,19 +41,27 @@ Get
 NARAKA: BLADEPOINT is a multiplayer online battle royale game that takes place in a fantastical ancient Chinese-inspired world where players — sometimes in teams up to three — compete against each other to be the last one standing. The game stands out from other battle royale titles with its emphasis on fast-paced martial arts based combat and parkour mechanics. It is available for PC, Xbox, and PlayStation, with an official mobile version coming soon as well.
 
 
-**Pros:**
 
 
-+Fast-paced and skill-based combat
-
-+Fluid and intuitive parkour and traversal mechanics
-
-+A fresh take and a stand out experience from other battle royale games
-
-+Unique setting and AAA level of visuals
+## Pros
 
 
-**Cons:**
+
+## +Fast-paced and skill-based combat
+
+
+## +Fluid and intuitive parkour and traversal mechanics
+
+
+## +A fresh take and a stand out experience from other battle royale games
+
+
+## +Unique setting and AAA level of visuals
+
+
+
+
+## Cons
 
 
 -Performance issues

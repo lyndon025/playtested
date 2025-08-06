@@ -1,37 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Guardian Chronicle R is a tower defense hero collecting game featuring
-  puzzle elements and PvP / coop action.
+slug: 2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game-full-review-guardian-chronicle-r
+title: A satisfying PvP tower defense and hero fusing game | Full Review - Guardian Chronicle R
+game: Guardian Chronicle
+description: Guardian Chronicle R is a tower defense hero collecting game featuring puzzle elements and PvP / coop action.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-0.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-1.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-2.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-3.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-4.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-5.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-6.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-7.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-8.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-9.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-10.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-11.avif
+  - /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-12.avif
 pubDate: 2023-05-16
 tags:
-- action
-- casual
-- guardian-chronicle
-- ios
-- pc
-- strategy
-- taptap
+  - action
+  - casual
+  - guardian-chronicle
+  - ios
+  - pc
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-0.avif
-title: A satisfying PvP tower defense and hero fusing game | Full Review - Guardian
-  Chronicle R
-game: Guardian Chronicle
-gallery:
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-0.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-1.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-2.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-3.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-4.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-5.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-6.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-7.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-8.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-9.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-10.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-11.avif
-- /images/reviews/legacy/2023-05-16-a-satisfying-pvp-tower-defense-and-hero-fusing-game--full-review---guardian-chronicle-r-12.avif
 ---
+
 Guardian Chronicle R
 
 lyndonguitar
@@ -39,19 +39,27 @@ lyndonguitar
 Guardian Chronicle R is a tower defense hero collecting game featuring puzzle elements and PvP / coop action.
 
 
-**Pros:**
 
 
-+Satisfying puzzle and tower defense gameplay
-
-+Intuitive and easy to pick up game mechanics
-
-+Competitive PvP gameplay
-
-+Challenging singleplayer / coop action
+## Pros
 
 
-**Cons:**
+
+## +Satisfying puzzle and tower defense gameplay
+
+
+## +Intuitive and easy to pick up game mechanics
+
+
+## +Competitive PvP gameplay
+
+
+## +Challenging singleplayer / coop action
+
+
+
+
+## Cons
 
 
 -UI needs a little quality-of-life work

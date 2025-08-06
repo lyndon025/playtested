@@ -1,23 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: Metria is an action RPG game that recently had a global release on November
-  7, 2023. The game features a promising storyline, vibrant and colorful cel-shaded,
-  anime-inspired graphics, third-person combat with various character classes, and
-  seamless character switching.
+slug: 2023-11-08-metria-finally-launches-globally-launch-impressions-metria
+title: Metria finally launches globally | Launch Impressions - Metria
+game: Launch Impressions - Metria
+description: Metria is an action RPG game that recently had a global release on November 7, 2023. The game features a promising storyline, vibrant and colorful cel-shaded, anime-inspired graphics, third-person combat with various character classes, and seamless character switching.
 featured: false
 pubDate: 2023-11-08
 tags:
-- action
-- game boy advance
-- launch-impressions-metria
-- nes
-- platformer
-- taptap
+  - action
+  - game-boy-advance
+  - launch-impressions-metria
+  - nes
+  - platformer
+  - taptap
 thumb: ''
-title: Metria finally launches globally | Launch Impressions - Metria
-game: Launch Impressions - Metria
 ---
+
 Metria is an action RPG game that recently had a global release on November 7, 2023. The game features a promising storyline, vibrant and colorful cel-shaded, anime-inspired graphics, third-person combat with various character classes, and seamless character switching.
 
 Metria primarily plays as a third-person hack-and-slash action RPG with seamless character switching, with a party of three. The game features traditional character tropes, each with their unique skills and playstyles, such as swordsmen, spearmen, mages, healers, and archers. There are two skills and one ultimate, all of which recharges without the need for mana. Players are to explore a world subdivided into small regions and a bunch of loading screens (fast but to frequent for my taste). Players can take on various quests to progress, as well as gather resources from the world to craft gear, build facilities, or cook consumables.

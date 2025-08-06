@@ -1,54 +1,50 @@
 ---
-// File: src/pages/article/legacy/[slug].astro
+import { type CollectionEntry, getCollection } from "astro:content";
+import BlogLayout from "../../layouts/BlogLayout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import FeaturedCard from "../../components/FeaturedCard.astro";
+import Carousel from "../../components/Carousel.astro";
+import SiteOptions from "../../site.config.mjs";
+import { Image } from 'astro:assets';
 
-import { type CollectionEntry, getCollection, getEntryBySlug } from "astro:content";
-import BlogLayout   from "../../../layouts/BlogLayout.astro";
-import Header       from "../../../components/Header.astro";
-import Footer       from "../../../components/Footer.astro";
-import FeaturedCard from "../../../components/FeaturedCard.astro";
-import Carousel     from "../../../components/Carousel.astro";
-import SiteOptions  from "../../../site.config.mjs";
-
-// 1) Only include posts whose slug starts with "legacy/"
 export async function getStaticPaths() {
   const posts = await getCollection("article");
-  return posts
-    .filter((p) => p.slug.startsWith("legacy/"))
-    .map((p) => {
-      // p.slug is like "legacy/2024-07-26-…"
-      const [, postSlug] = p.slug.split("/");
-      return { params: { slug: postSlug } };
-    });
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: post,
+  }));
 }
 
-// 2) Inside the page, fetch via the full legacy path
-const slug     = Astro.params.slug as string;              // "2024-07-26-…"
-const fullSlug = `legacy/${slug}`;                         // "legacy/2024-07-26-…"
-const post     = await getEntryBySlug("article", fullSlug) as CollectionEntry<"article">;
-if (!post) throw Astro.error(404, `Legacy article not found: ${fullSlug}`);
+type Props = CollectionEntry<"article">;
 
-// Destructure frontmatter + renderable
+const post = Astro.props as Props;
 const {
-  title, pubDate, category, description,
-  thumb, author, tags, large, score, gallery
+  title,
+  pubDate,
+  category,
+  description,
+  thumb,
+  author,
+  tags,
+  large,
+  score,
+  gallery,
 } = post.data;
 const { Content } = await post.render();
 
-// “You might also like”: pick 3 random featured posts (excluding current)
+// Random featured posts
 const allPosts = await getCollection("article");
 const featuredPosts = allPosts
-  // 1) Exclude current
   .filter((p) => p.slug !== post.slug)
-  // 2) Only those marked featured in frontmatter
   .filter((p) => p.data.featured === true)
-  // 3) Shuffle order
   .sort(() => Math.random() - 0.5)
-  // 4) Take first 3
   .slice(0, 3);
 
-// Format date
 const formattedDate = new Intl.DateTimeFormat("en-US", {
-  year: "numeric", month: "long", day: "numeric",
+  year: "numeric",
+  month: "long",
+  day: "numeric",
 }).format(pubDate);
 ---
 
@@ -63,7 +59,7 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       </div>
     )}
 
-    <div class="flex items-start gap-4 mb-4">
+    <div class="flex flex-row items-start gap-4 mb-4">
       {score && (
         <div class="shrink-0">
           <div class="article-score-badge beside-title">
@@ -72,19 +68,20 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
           </div>
         </div>
       )}
-      <h1 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-slate-100 leading-tight">
+      <h1 class="text-3xl md:text-4xl lg:text-4xl font-bold tracking-tight text-gray-900 dark:text-slate-100 leading-tight">
         {title}
       </h1>
     </div>
 
     <div class="text-sm text-gray-500 dark:text-gray-400 mb-4">
-      {formattedDate} • {author} • Category: {category}
+      {formattedDate} • {author}
+      <span> • Category: {category}</span>
       <div class="mt-2">
         Tags:
         {tags.map((tag) => (
           <a
             href={`/tag/${tag.toLowerCase().replace(/\s+/g, "-")}`}
-            class="bg-gray-100 text-gray-600 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 rounded ml-1 no-underline hover:underline"
+            class="bg-gray-100 text-gray-600 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 rounded hover:bg-gray-200 dark:hover:bg-slate-600 ml-1 no-underline hover:underline"
           >
             {tag}
           </a>
@@ -94,13 +91,22 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 
     {large && (
       <div class="mb-8 clear-both">
-        <img src={large} alt={title} class="w-full h-auto rounded-lg shadow-md" />
+        <Image
+          src={large}
+          alt={title}
+          width={800}
+          height={450}
+          loading="eager"
+          class="w-full h-auto rounded-lg shadow-md"
+          placeholder="blur"
+        />
       </div>
     )}
 
-    <div class="prose prose-lg max-w-none text-gray-700 dark:text-gray-300">
+    <div class="prose prose-h2:text-2xl prose-lg max-w-none text-gray-700 dark:prose-strong:text-slate-100 dark:text-gray-300 prose-headings:text-gray-900 dark:prose-headings:text-slate-100 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-code:text-slate-700 dark:prose-code:text-slate-100 prose-pre:bg-gray-100 dark:prose-pre:bg-slate-800 prose-blockquote:border-gray-300 dark:prose-blockquote:border-gray-600 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-400 prose-h3:text-[1.2em]">
       <Content />
     </div>
+
   </article>
 
   {SiteOptions.showSimilarPosts && featuredPosts.length > 0 && (
@@ -111,7 +117,9 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
           {SiteOptions.labels.youMightAlsoLike}
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
-          {featuredPosts.map((p) => <FeaturedCard post={p} />)}
+          {featuredPosts.map((p) => (
+            <FeaturedCard post={p} />
+          ))}
         </div>
       </section>
     </>

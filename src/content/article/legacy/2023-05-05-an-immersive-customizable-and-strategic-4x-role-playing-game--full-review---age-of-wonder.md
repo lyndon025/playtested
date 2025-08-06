@@ -1,72 +1,77 @@
 ---
 author: lyndonguitar
 category: Review
-description: In Age of Wonders 4, players take on the role of a leader of an extremely
-  customizable faction in the game and strive to conquer the land in various ways,
-  participate in diplomacy, combat, research, and empire management gameplay to create
-  a deeply immersive and strategic gameplay. Players will be able to customize their
-  armies, heroes, and cities, as well as explore a vast and dynamic world filled with
-  hidden treasures and powerful artifacts.
+slug: 2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game-full-review-age-of-wonder
+title: An immersive, customizable, and strategic 4X role-playing game | Full Review - Age of Wonders 4
+game: Age of Wonders 4
+description: In Age of Wonders 4, players take on the role of a leader of an extremely customizable faction in the game and strive to conquer the land in various ways, participate in diplomacy, combat, research, and empire management gameplay to create a deeply immersive and strategic gameplay. Players will be able to customize their armies, heroes, and cities, as well as explore a vast and dynamic world filled with hidden treasures and powerful artifacts.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-0.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-1.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-2.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-3.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-4.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-5.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-6.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-7.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-8.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-9.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-10.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-11.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-12.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-13.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-14.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-15.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-16.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-17.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-18.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-19.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-20.avif
+  - /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-21.avif
 pubDate: 2023-05-05
 tags:
-- age-of-wonders-4
-- console
-- pc
-- playstation
-- playstation 5
-- strategy
-- taptap
-- xbox series
+  - age-of-wonders-4
+  - console
+  - pc
+  - playstation
+  - playstation-5
+  - strategy
+  - taptap
+  - xbox-series
 thumb: /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-0.avif
-title: An immersive, customizable, and strategic 4X role-playing game | Full Review
-  - Age of Wonders 4
-game: Age of Wonders 4
-gallery:
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-0.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-1.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-2.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-3.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-4.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-5.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-6.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-7.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-8.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-9.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-10.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-11.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-12.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-13.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-14.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-15.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-16.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-17.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-18.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-19.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-20.avif
-- /images/reviews/legacy/2023-05-05-an-immersive-customizable-and-strategic-4x-role-playing-game--full-review---age-of-wonder-21.avif
 ---
+
 Age of Wonders 4
 Gameplay
 
 In Age of Wonders 4, players take on the role of a leader of an extremely customizable faction in the game and strive to conquer the land in various ways, participate in diplomacy, combat, research, and empire management gameplay to create a deeply immersive and strategic gameplay. Players will be able to customize their armies, heroes, and cities, as well as explore a vast and dynamic world filled with hidden treasures and powerful artifacts.
 
 
-**Pros:**
 
 
-+Extreme faction and map customization
-
-+Immersive empire building and roleplaying mechanics
-
-+Engaging diplomacy and tech trees
-
-+Postgame progression system
-
-+Controller Support, unheard of in strategy titles
+## Pros
 
 
-**Cons:**
+
+## +Extreme faction and map customization
+
+
+## +Immersive empire building and roleplaying mechanics
+
+
+## +Engaging diplomacy and tech trees
+
+
+## +Postgame progression system
+
+
+## +Controller Support, unheard of in strategy titles
+
+
+
+
+## Cons
 
 
 -Minor UI selection issues

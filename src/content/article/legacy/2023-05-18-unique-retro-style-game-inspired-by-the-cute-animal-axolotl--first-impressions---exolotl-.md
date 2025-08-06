@@ -1,35 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Exolotl : Zian that takes players on an exciting retro platformer adventure
-  to save the Exolotl Planet from the clutches of the nefarious King Orion. With its
-  play on words in the title, "Exolotl" the game clearly draws inspiration from the
-  real-life cute animal, the axolotl. The character designs embody the charming features
-  of axolotls, adding a touch of whimsy and friendliness to the game.'
+slug: 2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl-first-impressions-exolotl
+title: 'Unique retro-style game inspired by the cute animal axolotl | First Impressions - Exolotl : Zian'
+game: 'Exolotl: ZIAN'
+description: 'Exolotl : Zian that takes players on an exciting retro platformer adventure to save the Exolotl Planet from the clutches of the nefarious King Orion. With its play on words in the title, "Exolotl" the game clearly draws inspiration from the real-life cute animal, the axolotl. The character designs embody the charming features of axolotls, adding a touch of whimsy and friendliness to the game.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--0.avif
+  - /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--1.avif
+  - /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--2.avif
+  - /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--3.avif
+  - /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--4.avif
+  - /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--5.avif
+  - /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--6.avif
 pubDate: 2023-05-18
 tags:
-- action
-- adventure
-- casual
-- exolotl-zian
-- indie
-- mobile
-- pc
-- taptap
+  - action
+  - adventure
+  - casual
+  - exolotl-zian
+  - indie
+  - mobile
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--0.avif
-title: 'Unique retro-style game inspired by the cute animal axolotl | First Impressions
-  - Exolotl : Zian'
-game: 'Exolotl: ZIAN'
-gallery:
-- /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--0.avif
-- /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--1.avif
-- /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--2.avif
-- /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--3.avif
-- /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--4.avif
-- /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--5.avif
-- /images/reviews/legacy/2023-05-18-unique-retro-style-game-inspired-by-the-cute-animal-axolotl--first-impressions---exolotl--6.avif
 ---
+
 Exolotl : Zian
 8.0
 Adventure

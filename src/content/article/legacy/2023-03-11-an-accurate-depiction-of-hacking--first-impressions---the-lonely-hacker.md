@@ -1,40 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: As a video game, The Lonely Hacker hits all the right notes when it comes
-  to the depiction of how hacking is done in real life. Real terminologies used such
-  as exploits, botnets, keyloggers, injections, and many more are integrated in the
-  gameplay. This may all seem mumbo jumbo for the layman, but trust me, it’s as real
-  as it can get for a video game.
-featured: false
-pubDate: 2023-03-11
-tags:
-- android
-- casual
-- educational
-- indie
-- ios
-- mobile
-- pc
-- rpg
-- simulation
-- strategy
-- taptap
-- the-lonely-hacker
-thumb: /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-0.avif
+slug: 2023-03-11-an-accurate-depiction-of-hacking-first-impressions-the-lonely-hacker
 title: An accurate depiction of hacking | First Impressions - The Lonely Hacker
 game: The Lonely Hacker
+description: As a video game, The Lonely Hacker hits all the right notes when it comes to the depiction of how hacking is done in real life. Real terminologies used such as exploits, botnets, keyloggers, injections, and many more are integrated in the gameplay. This may all seem mumbo jumbo for the layman, but trust me, it’s as real as it can get for a video game.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-0.avif
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-1.avif
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-2.avif
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-3.avif
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-4.avif
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-5.avif
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-6.avif
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-7.avif
-- /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-8.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-0.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-1.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-2.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-3.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-4.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-5.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-6.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-7.avif
+  - /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-8.avif
+pubDate: 2023-03-11
+tags:
+  - android
+  - casual
+  - educational
+  - indie
+  - ios
+  - mobile
+  - pc
+  - rpg
+  - simulation
+  - strategy
+  - taptap
+  - the-lonely-hacker
+thumb: /images/reviews/legacy/2023-03-11-an-accurate-depiction-of-hacking--first-impressions---the-lonely-hacker-0.avif
 ---
+
 As a video game, The Lonely Hacker hits all the right notes when it comes to the depiction of how hacking is done in real life. Real terminologies used such as exploits, botnets, keyloggers, injections, and many more are integrated in the gameplay. This may all seem mumbo jumbo for the layman, but trust me, it’s as real as it can get for a video game.
 
 The game takes on the role of an up-and-coming hacker sponsored by an organization called “The Agency”. Setting players up with starting cash, computer hardware, and a custom hacking OS which will be the main GUI of the game — slightly customizable by the way — via themes and wallpaper. The background music is a bit too cringey for me, but you can turn that off if you wish.

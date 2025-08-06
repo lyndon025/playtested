@@ -1,49 +1,55 @@
 ---
 author: lyndonguitar
 category: Review
-description: The untamed landscapes, the rugged characters, and the thrill of a quickdraw
-  duel – it's a recipe for unforgettable experiences. Kill the Crows, a fast-paced
-  arena roguelike shooter, tries to encapsulate this feeling in a top-down roguelite
-  format.
+slug: 2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format-review-kill-the-cr
+title: A dance of bullets and revenge, in top-down shooter roguelite format | Review - Kill the Crows
+game: Kill The Crows
+description: The untamed landscapes, the rugged characters, and the thrill of a quickdraw duel – it's a recipe for unforgettable experiences. Kill the Crows, a fast-paced arena roguelike shooter, tries to encapsulate this feeling in a top-down roguelite format.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-0.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-1.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-2.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-3.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-4.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-5.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-6.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-7.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-8.avif
+  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-9.avif
 pubDate: 2023-08-23
 tags:
-- action
-- indie
-- kill-the-crows
-- pc
-- taptap
+  - action
+  - indie
+  - kill-the-crows
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-0.avif
-title: A dance of bullets and revenge, in top-down shooter roguelite format | Review
-  - Kill the Crows
-game: Kill The Crows
-gallery:
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-0.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-1.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-2.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-3.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-4.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-5.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-6.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-7.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-8.avif
-- /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-9.avif
 ---
+
 Kill The Crows
 
 The untamed landscapes, the rugged characters, and the thrill of a quickdraw duel – it's a recipe for unforgettable experiences. Kill the Crows, a fast-paced arena roguelike shooter, tries to encapsulate this feeling in a top-down roguelite format.
 
 
-**Pros:**
 
 
-+Simple, easy to pick up controls and mechanics
-+Intense one-shot, one-kill combat
-+Progression that is done via milestones and not resources and currencies
-+Immersive gunslinging experience
+## Pros
 
 
-**Cons:**
+
+## +Simple, easy to pick up controls and mechanics
+
+## +Intense one-shot, one-kill combat
+
+## +Progression that is done via milestones and not resources and currencies
+
+## +Immersive gunslinging experience
+
+
+
+
+## Cons
 
 
 -Not much gameplay depth and variety to counter the repetitive nature of roguelite games

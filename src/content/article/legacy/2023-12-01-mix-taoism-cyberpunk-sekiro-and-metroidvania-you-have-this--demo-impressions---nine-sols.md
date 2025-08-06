@@ -1,26 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: I was able to play a short Demo of Nine Sols, an upcoming 2D platformer
-  with souls-lite and Sekiro elements. It's basically a mix of Taoism, Cyberpunk,
-  Sekiro, and Metroidvania, resulting in a title that seems familiar and unique at
-  the same time.
+slug: 2023-12-01-mix-taoism-cyberpunk-sekiro-and-metroidvania-you-have-this-demo-impressions-nine-sols
+title: Mix Taoism, Cyberpunk, Sekiro, and Metroidvania; you have this | Demo Impressions - Nine Sols
+game: Impressions - Nine Sols
+description: I was able to play a short Demo of Nine Sols, an upcoming 2D platformer with souls-lite and Sekiro elements. It's basically a mix of Taoism, Cyberpunk, Sekiro, and Metroidvania, resulting in a title that seems familiar and unique at the same time.
 featured: false
 pubDate: 2023-12-01
 tags:
-- adventure
-- casual
-- impressions-nine-sols
-- indie
-- linux
-- macos
-- pc
-- taptap
+  - adventure
+  - casual
+  - impressions-nine-sols
+  - indie
+  - linux
+  - macos
+  - pc
+  - taptap
 thumb: ''
-title: Mix Taoism, Cyberpunk, Sekiro, and Metroidvania; you have this | Demo Impressions
-  - Nine Sols
-game: Impressions - Nine Sols
 ---
+
 I was able to play a short Demo of Nine Sols, an upcoming 2D platformer with souls-lite and Sekiro elements. It's basically a mix of Taoism, Cyberpunk, Sekiro, and Metroidvania, resulting in a title that seems familiar and unique at the same time.
 
 The gameplay seamlessly blends classic platforming mechanics with fast, brutal action sequences, making each encounter a thrilling experience. Move around like in a 2D platformer Metroidvania game, jump, climb, and dash to avoid hazards... or maybe deflect attacks with a well timed parry.

@@ -1,53 +1,61 @@
 ---
 author: lyndonguitar
 category: Review
-description: Punch Kick Duck is a mobile beat’ em up game with a simple no frills
-  gameplay and a straightforward goal, to reach the top of the tower and escape.
+slug: 2023-02-10-other-animals-hate-him-for-these-three-simple-moves-punch-kick-duck-full-review
+title: Other animals hate him for these three simple moves | Punch Kick Duck - Full Review
+game: Punch Kick Duck
+description: Punch Kick Duck is a mobile beat’ em up game with a simple no frills gameplay and a straightforward goal, to reach the top of the tower and escape.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-0.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-1.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-2.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-3.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-4.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-5.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-6.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-7.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-8.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-9.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-10.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-11.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-12.avif
+  - /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-13.avif
 pubDate: 2023-02-10
 tags:
-- action
-- casual
-- ios
-- mobile
-- punch-kick-duck
-- taptap
+  - action
+  - casual
+  - ios
+  - mobile
+  - punch-kick-duck
+  - taptap
 thumb: /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-0.avif
-title: Other animals hate him for these three simple moves | Punch Kick Duck - Full
-  Review
-game: Punch Kick Duck
-gallery:
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-0.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-1.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-2.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-3.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-4.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-5.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-6.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-7.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-8.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-9.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-10.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-11.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-12.avif
-- /images/reviews/legacy/2023-02-10-other-animals-hate-him-for-these-three-simple-moves--punch-kick-duck---full-review-13.avif
 ---
+
 Punch Kick Duck is a mobile beat’ em up game with a simple no frills gameplay and a straightforward goal, to reach the top of the tower and escape.
 
 
-**Pros:**
 
 
-+Fun and satisfying combat mechanics
-
-+Challenging variety of enemies
-
-+Controller support
-
-+Play in landscape or vertical
+## Pros
 
 
-**Cons:**
+
+## +Fun and satisfying combat mechanics
+
+
+## +Challenging variety of enemies
+
+
+## +Controller support
+
+
+## +Play in landscape or vertical
+
+
+
+
+## Cons
 
 
 -Too short

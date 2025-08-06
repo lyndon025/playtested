@@ -1,39 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: HUMANITY takes players on a thought-provoking and visually mesmerizing
-  adventure as they control a dog guiding literal crowds of humans through a mysterious
-  and surreal world. With its unique puzzle mechanics, striking visuals, and immersive
-  atmosphere, this third-person puzzle game for PC and PlayStation offers an experience
-  that is both challenging and captivating.
+slug: 2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world-first-impressions-humanity
+title: A dog guiding humans through a mysterious and surreal world | First Impressions - HUMANITY
+game: Humanity
+description: HUMANITY takes players on a thought-provoking and visually mesmerizing adventure as they control a dog guiding literal crowds of humans through a mysterious and surreal world. With its unique puzzle mechanics, striking visuals, and immersive atmosphere, this third-person puzzle game for PC and PlayStation offers an experience that is both challenging and captivating.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-0.avif
+  - /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-1.avif
+  - /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-2.avif
+  - /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-3.avif
+  - /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-4.avif
+  - /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-5.avif
 pubDate: 2023-05-19
 tags:
-- action
-- casual
-- console
-- humanity
-- indie
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- puzzle
-- strategy
-- taptap
-- xbox series
+  - action
+  - casual
+  - console
+  - humanity
+  - indie
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - puzzle
+  - strategy
+  - taptap
+  - xbox-series
 thumb: /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-0.avif
-title: A dog guiding humans through a mysterious and surreal world | First Impressions
-  - HUMANITY
-game: Humanity
-gallery:
-- /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-0.avif
-- /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-1.avif
-- /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-2.avif
-- /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-3.avif
-- /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-4.avif
-- /images/reviews/legacy/2023-05-19-a-dog-guiding-humans-through-a-mysterious-and-surreal-world--first-impressions---humanity-5.avif
 ---
+
 HUMANITY
 8.2
 

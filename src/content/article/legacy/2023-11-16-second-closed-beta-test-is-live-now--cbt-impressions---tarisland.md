@@ -1,21 +1,21 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tarisland embarks on a journey to capture the magic of classic MMOs while
-  introducing its own twists. it currently has an on-going second closed beta test
-  that runs from November 16 and will last for at least two weeks.
+slug: 2023-11-16-second-closed-beta-test-is-live-now-cbt-impressions-tarisland
+title: Second Closed Beta Test is live now! | CBT Impressions - Tarisland
+game: CBT Impressions - Tarisland
+description: Tarisland embarks on a journey to capture the magic of classic MMOs while introducing its own twists. it currently has an on-going second closed beta test that runs from November 16 and will last for at least two weeks.
 featured: false
 pubDate: 2023-11-16
 tags:
-- adventure
-- cbt-impressions-tarisland
-- macos
-- pc
-- taptap
+  - adventure
+  - cbt-impressions-tarisland
+  - macos
+  - pc
+  - taptap
 thumb: ''
-title: Second Closed Beta Test is live now! | CBT Impressions - Tarisland
-game: CBT Impressions - Tarisland
 ---
+
 Tarisland embarks on a journey to capture the magic of classic MMOs while introducing its own twists. it currently has an on-going second closed beta test that runs from November 16 and will last for at least two weeks.
 
 As of this CBT, there are nine characters to choose from: Barbarian Fighter,  Ranger,  Paladin,  Warrior, Phantom Priest, Mage, Priest, including the two new characters for this beta test phase:  Shadow Swordsman, and Phantom Necromancer.  Which is a pretty solid class lineup so far and probably covers all bases as far as player preferences go.

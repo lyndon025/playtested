@@ -1,40 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: When I played the original Hello Neighbor back in 2018, It was an intriguing
-  family friendly puzzle stealth horror that was as frustrating as it exhilarating.
-  Hello Neighbor 2 largely maintains the same formula, improving many mechanics from
-  the first game but at the same time never really getting rid of the frustration
-  factor.
-featured: false
-pubDate: 2022-12-08
-tags:
-- action
-- adventure
-- console
-- hello-neighbor-2
-- indie
-- pc
-- playstation
-- playstation 5
-- strategy
-- taptap
-- xbox series
-thumb: /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-0.avif
+slug: 2022-12-08-a-family-friendly-stealth-horror-hello-neighbor-2-review
 title: A family friendly stealth horror? | Hello Neighbor 2 - Review
 game: Hello Neighbor 2
+description: When I played the original Hello Neighbor back in 2018, It was an intriguing family friendly puzzle stealth horror that was as frustrating as it exhilarating. Hello Neighbor 2 largely maintains the same formula, improving many mechanics from the first game but at the same time never really getting rid of the frustration factor.
+featured: false
 gallery:
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-0.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-1.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-2.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-3.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-4.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-5.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-6.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-7.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-8.avif
-- /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-9.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-0.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-1.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-2.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-3.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-4.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-5.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-6.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-7.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-8.avif
+  - /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-9.avif
+pubDate: 2022-12-08
+tags:
+  - action
+  - adventure
+  - console
+  - hello-neighbor-2
+  - indie
+  - pc
+  - playstation
+  - playstation-5
+  - strategy
+  - taptap
+  - xbox-series
+thumb: /images/reviews/legacy/2022-12-08-a-family-friendly-stealth-horror--hello-neighbor-2---review-0.avif
 ---
+
 When I played the original Hello Neighbor back in 2018, It was an intriguing family friendly puzzle stealth horror that was as frustrating as it exhilarating. Hello Neighbor 2 largely maintains the same formula, improving many mechanics from the first game but at the same time never really getting rid of the frustration factor.
 
 Hello Neighbor 2 takes us back to Raven Brooks in a sort of standalone story while still being a follow up to the original game story wise. You are a journalist who wants to investigate Mr. Peterson — poster boy for the whole game series and the original game’s villain — as a suspect in the disappearance of various children. Apart from him, the whole neighborhood is as suspicious too, warranting investigation as well.

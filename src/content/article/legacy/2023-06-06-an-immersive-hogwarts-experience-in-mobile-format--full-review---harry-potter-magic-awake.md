@@ -1,39 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Download Harry Potter: Magic Awakened is a free-to-play
-  third-person and deck-building game for mobile devices. It features a live-service
-  game format and stylized graphics that magically recreates the wonderful Wizarding
-  World of Harry Potter.'
+slug: 2023-06-06-an-immersive-hogwarts-experience-in-mobile-format-full-review-harry-potter-magic-awake
+title: 'An immersive Hogwarts experience in mobile format | Full Review - Harry Potter: Magic Awakened'
+game: 'Harry Potter: Magic Awakened'
+description: 'lyndonguitar Download Harry Potter: Magic Awakened is a free-to-play third-person and deck-building game for mobile devices. It features a live-service game format and stylized graphics that magically recreates the wonderful Wizarding World of Harry Potter.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-0.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-1.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-2.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-3.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-4.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-5.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-6.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-7.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-8.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-9.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-10.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-11.avif
+  - /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-12.avif
 pubDate: 2023-06-06
 tags:
-- adventure
-- android
-- harry-potter-magic-awakened
-- ios
-- mobile
-- strategy
-- taptap
+  - adventure
+  - android
+  - harry-potter-magic-awakened
+  - ios
+  - mobile
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-0.avif
-title: 'An immersive Hogwarts experience in mobile format | Full Review - Harry Potter:
-  Magic Awakened'
-game: 'Harry Potter: Magic Awakened'
-gallery:
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-0.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-1.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-2.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-3.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-4.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-5.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-6.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-7.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-8.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-9.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-10.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-11.avif
-- /images/reviews/legacy/2023-06-06-an-immersive-hogwarts-experience-in-mobile-format--full-review---harry-potter-magic-awake-12.avif
 ---
+
 Harry Potter: Magic AwakenedUS
 
 lyndonguitar
@@ -41,19 +39,27 @@ Download
 Harry Potter: Magic Awakened is a free-to-play third-person and deck-building game for mobile devices. It features a live-service game format and stylized graphics that magically recreates the wonderful Wizarding World of Harry Potter.
 
 
-**Pros:**
 
 
-+Immersive Hogwarts experience
-
-+Compelling storyline set shortly after the events of the series
-
-+Deck-building combat system with a unique twist
-
-+Familiar spells and creatures for Harry Potter fans
+## Pros
 
 
-**Cons:**
+
+## +Immersive Hogwarts experience
+
+
+## +Compelling storyline set shortly after the events of the series
+
+
+## +Deck-building combat system with a unique twist
+
+
+## +Familiar spells and creatures for Harry Potter fans
+
+
+
+
+## Cons
 
 
 -Immersion-breaking character inclusions for some of the companion cards

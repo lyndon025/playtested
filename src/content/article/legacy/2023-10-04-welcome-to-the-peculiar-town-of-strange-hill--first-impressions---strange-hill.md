@@ -1,32 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: The central mystery of Strange Hill revolves around your enigmatic neighbor,
-  Dr. Wood, and his assistant Gloria. As you uncover their secrets, you'll find yourself
-  embroiled in age-old conflicts among feuding clans and even traveling between worlds.
+slug: 2023-10-04-welcome-to-the-peculiar-town-of-strange-hill-first-impressions-strange-hill
+title: Welcome to the peculiar town of Strange Hill | First Impressions - Strange Hill
+game: Strange Hill
+description: The central mystery of Strange Hill revolves around your enigmatic neighbor, Dr. Wood, and his assistant Gloria. As you uncover their secrets, you'll find yourself embroiled in age-old conflicts among feuding clans and even traveling between worlds.
 featured: false
 pubDate: 2023-10-04
 tags:
-- adventure
-- android
-- console
-- ios
-- linux
-- macos
-- mobile
-- pc
-- playstation
-- playstation 3
-- playstation 4
-- strange-hill
-- taptap
-- xbox 360
-- xbox one
+  - adventure
+  - android
+  - console
+  - ios
+  - linux
+  - macos
+  - mobile
+  - pc
+  - playstation
+  - playstation-3
+  - playstation-4
+  - strange-hill
+  - taptap
+  - xbox-360
+  - xbox-one
 thumb: ''
-title: Welcome to the peculiar town of Strange Hill | First Impressions - Strange
-  Hill
-game: Strange Hill
 ---
+
 The central mystery of Strange Hill revolves around your enigmatic neighbor, Dr. Wood, and his assistant Gloria. As you uncover their secrets, you'll find yourself embroiled in age-old conflicts among feuding clans and even traveling between worlds.
 
 The gameplay primarily consists of a third-person platformer, with elements of stealth and shooter gameplay, although the these aspects are only lightly explored. You'll explore the town itself, take on different quests, including the main story.

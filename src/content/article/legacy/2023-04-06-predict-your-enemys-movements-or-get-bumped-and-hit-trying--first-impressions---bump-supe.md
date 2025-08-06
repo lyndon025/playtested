@@ -1,31 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: BUMP! Superbrawl’s concept is simple. Predict the enemies movements,
-  one turn, one hero at a time and win the match. Either by scoring higher or knocking
-  their heroes out, every match is very exciting and satisfying to win.
+slug: 2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying-first-impressions-bump-supe
+title: Predict your enemy’s movements, or get bumped and hit trying | First Impressions - BUMP! Superbrawl
+game: BUMP! Superbrawl
+description: BUMP! Superbrawl’s concept is simple. Predict the enemies movements, one turn, one hero at a time and win the match. Either by scoring higher or knocking their heroes out, every match is very exciting and satisfying to win.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-0.avif
+  - /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-1.avif
+  - /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-2.avif
+  - /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-3.avif
+  - /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-4.avif
+  - /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-5.avif
+  - /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-6.avif
 pubDate: 2023-04-06
 tags:
-- bump-superbrawl
-- casual
-- mobile
-- pc
-- strategy
-- taptap
+  - bump-superbrawl
+  - casual
+  - mobile
+  - pc
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-0.avif
-title: Predict your enemy’s movements, or get bumped and hit trying | First Impressions
-  - BUMP! Superbrawl
-game: BUMP! Superbrawl
-gallery:
-- /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-0.avif
-- /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-1.avif
-- /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-2.avif
-- /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-3.avif
-- /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-4.avif
-- /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-5.avif
-- /images/reviews/legacy/2023-04-06-predict-your-enemys-movements-or-get-bumped-and-hit-trying--first-impressions---bump-supe-6.avif
 ---
+
 BUMP! Superbrawl’s concept is simple. Predict the enemies movements, one turn, one hero at a time and win the match. Either by scoring higher or knocking their heroes out, every match is very exciting and satisfying to win.
 
 A team of three assorted heroes plus three in reserve is commanded by the player and pitted against another team in 1v1 competitive matches. The gameplay is relatively simple. Players are only allowed one character to move per turn, and the only action they can do is to move their character and attack in a certain direction right after (depending on the character). After only 1 to 2 rounds of gameplay, I already got the concept and was already ready for some serious battle.

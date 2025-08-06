@@ -1,22 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Verdurous Holiday, the upcoming expansion for Snowbreak: Containment
-  Zone, unveils a picturesque beach paradise on Yallu Island: a picturesque oasis
-  with tranquil beachesand lush landscapes nestled in the West Patra Sea.'
+slug: 2023-10-21-summer-in-november-snowbreak-containment-zones-upcoming-update
+title: "Summer in November! | Snowbreak: Containment Zone's upcoming update"
+game: "Snowbreak: Containment Zone's upcoming update"
+description: 'Verdurous Holiday, the upcoming expansion for Snowbreak: Containment Zone, unveils a picturesque beach paradise on Yallu Island: a picturesque oasis with tranquil beachesand lush landscapes nestled in the West Patra Sea.'
 featured: false
 pubDate: 2023-10-21
 tags:
-- action
-- adventure
-- pc
-- rpg
-- snowbreak-containment-zone-s-upcoming-update
-- taptap
+  - action
+  - adventure
+  - pc
+  - rpg
+  - snowbreak-containment-zone-s-upcoming-update
+  - taptap
 thumb: ''
-title: 'Summer in November! | Snowbreak: Containment Zone''s upcoming update'
-game: 'Snowbreak: Containment Zone''s upcoming update'
 ---
+
 Verdurous Holiday, the upcoming expansion for Snowbreak: Containment Zone, unveils a picturesque beach paradise on Yallu Island: a picturesque oasis with tranquil beachesand lush landscapes nestled in the West Patra Sea.
 
 The update offers new outfits like "Sparkling Swell" and "Sultry Sunshine" and introduces Mauxir, equipped with a tactical exosuit and a transforming robot, "Kebechet." . Of course, since this a Summer themed update, the new outfits are swimsuit based and players are in for a treat.

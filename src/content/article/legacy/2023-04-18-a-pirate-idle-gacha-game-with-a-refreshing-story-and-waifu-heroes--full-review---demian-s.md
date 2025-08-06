@@ -1,59 +1,66 @@
 ---
 author: lyndonguitar
 category: Review
-description: Demian Saga is a pirate-themed gacha game with charming visuals and filled
-  with lots of  waifu characters to collect.
+slug: 2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes-full-review-demian-s
+title: A pirate idle gacha game with a refreshing story and waifu heroes | Full Review - Demian Saga
+game: Demian Saga
+description: Demian Saga is a pirate-themed gacha game with charming visuals and filled with lots of  waifu characters to collect.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-0.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-1.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-2.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-3.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-4.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-5.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-6.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-7.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-8.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-9.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-10.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-11.avif
+  - /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-12.avif
 pubDate: 2023-04-18
 tags:
-- android
-- console
-- demian-saga
-- indie
-- ios
-- linux
-- macos
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- strategy
-- taptap
-- xbox one
+  - android
+  - console
+  - demian-saga
+  - indie
+  - ios
+  - linux
+  - macos
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-0.avif
-title: A pirate idle gacha game with a refreshing story and waifu heroes | Full Review
-  - Demian Saga
-game: Demian Saga
-gallery:
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-0.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-1.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-2.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-3.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-4.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-5.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-6.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-7.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-8.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-9.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-10.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-11.avif
-- /images/reviews/legacy/2023-04-18-a-pirate-idle-gacha-game-with-a-refreshing-story-and-waifu-heroes--full-review---demian-s-12.avif
 ---
+
 Demian Saga is a pirate-themed gacha game with charming visuals and filled with lots of  waifu characters to collect.
 
 
-**Pros:**
 
 
-+A refreshing narrative take
-
-+Pleasing visuals and character design (waifu)
-
-+A variety of activities to participate in
+## Pros
 
 
-**Cons:**
+
+## +A refreshing narrative take
+
+
+## +Pleasing visuals and character design (waifu)
+
+
+## +A variety of activities to participate in
+
+
+
+
+## Cons
 
 
 -Highly limiting time currency

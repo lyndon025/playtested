@@ -1,28 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Warhammer 40K: Darktide wasn’t universally praised at launch, mainly
-  due to its optimization and repetitive nature. However, Patch #13 brings about the
-  much-anticipated "Class Overhaul", which brings more engaging content into the game.
-  This update is a game-changer, not just for existing players but also as a first
-  impression for newcomers.'
+slug: 2023-10-04-massive-class-overhaul-and-more-impressions-warhammer-40k-darktide-patch-13
+title: 'Massive class overhaul and more | Impressions - Warhammer 40K: Darktide Patch 13'
+game: 'Warhammer 40K: Darktide Patch 13'
+description: 'Warhammer 40K: Darktide wasn’t universally praised at launch, mainly due to its optimization and repetitive nature. However, Patch #13 brings about the much-anticipated "Class Overhaul", which brings more engaging content into the game. This update is a game-changer, not just for existing players but also as a first impression for newcomers.'
 featured: false
 pubDate: 2023-10-04
 tags:
-- action
-- adventure
-- indie
-- pc
-- racing
-- shooter
-- taptap
-- warhammer-40k-darktide-patch-13
-- xbox series
+  - action
+  - adventure
+  - indie
+  - pc
+  - racing
+  - shooter
+  - taptap
+  - warhammer-40k-darktide-patch-13
+  - xbox-series
 thumb: ''
-title: 'Massive class overhaul and more | Impressions - Warhammer 40K: Darktide Patch
-  13'
-game: 'Warhammer 40K: Darktide Patch 13'
 ---
+
 Warhammer 40K: Darktide wasn’t universally praised at launch, mainly due to its optimization and repetitive nature. However, Patch #13 brings about the much-anticipated "Class Overhaul", which brings more engaging content into the game. This update is a game-changer, not just for existing players but also as a first impression for newcomers.
 
 Goodbye Feats, Hello Talent Trees:

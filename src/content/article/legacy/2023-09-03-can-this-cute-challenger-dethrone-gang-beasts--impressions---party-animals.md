@@ -1,31 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Party Animals is a multiplayer physics-based brawler and party game developed
-  by Recreate Games and published by Source Technology. The game features a variety
-  of anthropomorphic animals with unique looks engaging in chaotic and fun-filled
-  battles.
-featured: false
-pubDate: 2023-09-03
-tags:
-- action
-- casual
-- indie
-- party-animals
-- pc
-- taptap
-- xbox series
-thumb: /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif
+slug: 2023-09-03-can-this-cute-challenger-dethrone-gang-beasts-impressions-party-animals
 title: Can this cute challenger dethrone Gang Beasts?! | Impressions - Party Animals
 game: Party Animals
+description: Party Animals is a multiplayer physics-based brawler and party game developed by Recreate Games and published by Source Technology. The game features a variety of anthropomorphic animals with unique looks engaging in chaotic and fun-filled battles.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif
-- /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-1.avif
-- /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-2.avif
-- /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-3.avif
-- /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-4.avif
-- /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-5.avif
+  - /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif
+  - /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-1.avif
+  - /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-2.avif
+  - /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-3.avif
+  - /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-4.avif
+  - /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-5.avif
+pubDate: 2023-09-03
+tags:
+  - action
+  - casual
+  - indie
+  - party-animals
+  - pc
+  - taptap
+  - xbox-series
+thumb: /images/reviews/legacy/2023-09-03-can-this-cute-challenger-dethrone-gang-beasts--impressions---party-animals-0.avif
 ---
+
 Party Animals
 8.3
 Editors' Choice

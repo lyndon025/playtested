@@ -1,31 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cat of Khronos is a game that allows you to travel freely in the fourth
-  dimension —  time itself. You must use your god given ability to overcome obstacles
-  in the form of lamp post-looking guards, retrieve the fish for some reason, and
-  make it back in time to be transported into the next level.
+slug: 2023-05-27-cant-wrap-my-head-around-this-time-traveling-game-first-impressions-cat-of-khronos
+title: Can't wrap my head around this time-traveling game! | First Impressions - Cat of Khronos
+game: Cat of Khronos
+description: Cat of Khronos is a game that allows you to travel freely in the fourth dimension —  time itself. You must use your god given ability to overcome obstacles in the form of lamp post-looking guards, retrieve the fish for some reason, and make it back in time to be transported into the next level.
 featured: false
 pubDate: 2023-05-27
 tags:
-- adventure
-- android
-- card
-- cat-of-khronos
-- console
-- indie
-- ios
-- linux
-- macos
-- nintendo switch
-- pc
-- rpg
-- taptap
+  - adventure
+  - android
+  - card
+  - cat-of-khronos
+  - console
+  - indie
+  - ios
+  - linux
+  - macos
+  - nintendo-switch
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: Can't wrap my head around this time-traveling game! | First Impressions - Cat
-  of Khronos
-game: Cat of Khronos
 ---
+
 Cat of Khronos is a game that allows you to travel freely in the fourth dimension —  time itself. You must use your god given ability to overcome obstacles in the form of lamp post-looking guards, retrieve the fish for some reason, and make it back in time to be transported into the next level.
 
 If there was ever a game that could accurately convey the sensation of traversing the fourth dimension as a fourth dimensional being, Cat of Khronos would undoubtedly be one of the games that can be used as an example.

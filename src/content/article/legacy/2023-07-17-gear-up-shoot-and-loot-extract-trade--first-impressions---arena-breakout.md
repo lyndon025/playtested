@@ -1,25 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: Set in a war-torn city Kamona with a post-apocalyptic atmosphere, Arena
-  Breakout drops players into the midst of a fierce battle for survival. You'll find
-  yourself navigating through desolate streets, abandoned buildings, and treacherous
-  alleyways, all while engaging in heart-pounding do-or-die firefights against both
-  AI-controlled enemies and other players. The game's atmosphere is amazing, immersing
-  you in a war-torn world where danger lurks around every corner.
+slug: 2023-07-17-gear-up-shoot-and-loot-extract-trade-first-impressions-arena-breakout
+title: Gear up, Shoot and Loot, Extract, Trade | First Impressions - Arena Breakout
+game: Arena Breakout
+description: Set in a war-torn city Kamona with a post-apocalyptic atmosphere, Arena Breakout drops players into the midst of a fierce battle for survival. You'll find yourself navigating through desolate streets, abandoned buildings, and treacherous alleyways, all while engaging in heart-pounding do-or-die firefights against both AI-controlled enemies and other players. The game's atmosphere is amazing, immersing you in a war-torn world where danger lurks around every corner.
 featured: false
 pubDate: 2023-07-17
 tags:
-- action
-- android
-- arena-breakout
-- ios
-- shooter
-- taptap
+  - action
+  - android
+  - arena-breakout
+  - ios
+  - shooter
+  - taptap
 thumb: ''
-title: Gear up, Shoot and Loot, Extract, Trade | First Impressions - Arena Breakout
-game: Arena Breakout
 ---
+
 Set in a war-torn city Kamona with a post-apocalyptic atmosphere, Arena Breakout drops players into the midst of a fierce battle for survival. You'll find yourself navigating through desolate streets, abandoned buildings, and treacherous alleyways, all while engaging in heart-pounding do-or-die firefights against both AI-controlled enemies and other players. The game's atmosphere is amazing, immersing you in a war-torn world where danger lurks around every corner.
 
 The core gameplay mechanics of Arena Breakout revolves around dropping into Dark Zones, where they will need to loot for weapons, valuable items to sell, and survive enough to be able to extract and keep the loot, as failing to extract and dying will result in the loss of gear and loot.

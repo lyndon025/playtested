@@ -1,52 +1,60 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tumbling Zoo-rock it is a fun cute casual game where animals chase each
-  other, bump each other, and eat each other. Wait, doesn’t this happen in real life
-  too?
-featured: false
-pubDate: 2023-03-20
-tags:
-- pc
-- shooter
-- taptap
-- tumbling-zoo-rock-it-demo
-thumb: /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-0.avif
+slug: 2023-03-20-survival-of-the-fattest-full-review-tumbling-zoo-rock-it-demo
 title: Survival of the FATTEST | Full Review - Tumbling Zoo-rock it (Demo)
 game: Tumbling Zoo-rock it (Demo)
+description: Tumbling Zoo-rock it is a fun cute casual game where animals chase each other, bump each other, and eat each other. Wait, doesn’t this happen in real life too?
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-0.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-1.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-2.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-3.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-4.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-5.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-6.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-7.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-8.avif
-- /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-9.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-0.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-1.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-2.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-3.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-4.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-5.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-6.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-7.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-8.avif
+  - /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-9.avif
+pubDate: 2023-03-20
+tags:
+  - pc
+  - shooter
+  - taptap
+  - tumbling-zoo-rock-it-demo
+thumb: /images/reviews/legacy/2023-03-20-survival-of-the-fattest--full-review---tumbling-zoo-rock-it-demo-0.avif
 ---
+
 Tumbling Zoo-rock it is a fun cute casual game where animals chase each other, bump each other, and eat each other. Wait, doesn’t this happen in real life too?
 
 
-**Pros:**
 
 
-+Chill game
-
-+Cute simple visuals
-
-+Mechanics are deep for an .io consumption game
+## Pros
 
 
-**Cons:**
+
+## +Chill game
+
+
+## +Cute simple visuals
+
+
+## +Mechanics are deep for an .io consumption game
+
+
+
+
+## Cons
 
 
 -Limits your play to a few times per day only (unless you pay)
 
 -rudimentary zoo management element
 
-📝Notable points:
+
+## 📝Notable points:
 
 Ads with rewards
 

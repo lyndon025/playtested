@@ -1,48 +1,47 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Get Kingdom Two Crowns+ is a 2D side scrolling strategy
-  game that features beautiful pixel art, a serene soundtrack, and challenging empire
-  management strategy gameplay.
+slug: 2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy-full-review-kingdom-two-crowns
+title: Beautiful pixel art, simple side scrolling strategy | Full Review - Kingdom Two Crowns+
+game: 'Kingdom: Two Crowns'
+description: lyndonguitar Get Kingdom Two Crowns+ is a 2D side scrolling strategy game that features beautiful pixel art, a serene soundtrack, and challenging empire management strategy gameplay.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-0.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-1.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-2.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-3.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-4.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-5.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-6.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-7.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-8.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-9.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-10.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-11.avif
+  - /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-12.avif
 pubDate: 2023-05-09
 tags:
-- adventure
-- android
-- console
-- indie
-- ios
-- kingdom-two-crowns
-- macos
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- simulation
-- strategy
-- taptap
-- xbox one
+  - adventure
+  - android
+  - console
+  - indie
+  - ios
+  - kingdom-two-crowns
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - simulation
+  - strategy
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-0.avif
-title: Beautiful pixel art, simple side scrolling strategy | Full Review - Kingdom
-  Two Crowns+
-game: 'Kingdom: Two Crowns'
-gallery:
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-0.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-1.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-2.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-3.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-4.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-5.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-6.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-7.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-8.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-9.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-10.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-11.avif
-- /images/reviews/legacy/2023-05-09-beautiful-pixel-art-simple-side-scrolling-strategy--full-review---kingdom-two-crowns-12.avif
 ---
+
 Kingdom Two Crowns+
 
 lyndonguitar
@@ -50,19 +49,27 @@ Get
 Kingdom Two Crowns+ is a 2D side scrolling strategy game that features beautiful pixel art, a serene soundtrack, and challenging empire management strategy gameplay.
 
 
-**Pros:**
 
 
-+Gorgeous pixel art visuals
-
-+Relaxing atmosphere
-
-+Simple but additive Kingdom building mechanics
-
-+Split-screen coop - shared touchscreen input or optional controller
+## Pros
 
 
-**Cons:**
+
+## +Gorgeous pixel art visuals
+
+
+## +Relaxing atmosphere
+
+
+## +Simple but additive Kingdom building mechanics
+
+
+## +Split-screen coop - shared touchscreen input or optional controller
+
+
+
+
+## Cons
 
 
 -Game may seem repetitive

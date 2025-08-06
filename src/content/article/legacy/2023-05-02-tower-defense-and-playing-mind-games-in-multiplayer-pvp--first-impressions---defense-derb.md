@@ -1,31 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Defense Derby is a simple game to play, monsters attack your square castle,
-  and you have to place a variety of heroes on top of it to effectively survive the
-  waves of enemies marching around and towards your castle gate.
+slug: 2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp-first-impressions-defense-derb
+title: Tower Defense and playing mind games in multiplayer PvP | First Impressions - Defense Derby
+game: Defense Derby
+description: Defense Derby is a simple game to play, monsters attack your square castle, and you have to place a variety of heroes on top of it to effectively survive the waves of enemies marching around and towards your castle gate.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-0.avif
+  - /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-1.avif
+  - /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-2.avif
+  - /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-3.avif
+  - /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-4.avif
 pubDate: 2023-05-02
 tags:
-- action
-- android
-- defense-derby
-- indie
-- ios
-- pc
-- strategy
-- taptap
+  - action
+  - android
+  - defense-derby
+  - indie
+  - ios
+  - pc
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-0.avif
-title: Tower Defense and playing mind games in multiplayer PvP | First Impressions
-  - Defense Derby
-game: Defense Derby
-gallery:
-- /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-0.avif
-- /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-1.avif
-- /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-2.avif
-- /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-3.avif
-- /images/reviews/legacy/2023-05-02-tower-defense-and-playing-mind-games-in-multiplayer-pvp--first-impressions---defense-derb-4.avif
 ---
+
 Defense Derby
 8.1
 Strategy

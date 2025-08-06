@@ -1,26 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'In Snowbreak: Containment Zone, the player assumes the role of an Adjutant,
-  navigating the mysterious and devastated ‘containment zone’ while controlling a
-  squad of waifu heroes with diverse skills, gun types, and abilities. The game features
-  a gacha system for unlocking and acquiring new heroes, each with their own unique
-  traits and tiers.'
+slug: 2023-05-31-cute-girls-in-a-gacha-shooter-closed-beta-impressions-snowbreak-containment-zone
+title: 'Cute girls in a gacha shooter | Closed Beta Impressions - Snowbreak: Containment Zone'
+game: 'Closed Beta Impressions - Snowbreak: Containment Zone'
+description: 'In Snowbreak: Containment Zone, the player assumes the role of an Adjutant, navigating the mysterious and devastated ‘containment zone’ while controlling a squad of waifu heroes with diverse skills, gun types, and abilities. The game features a gacha system for unlocking and acquiring new heroes, each with their own unique traits and tiers.'
 featured: false
 pubDate: 2023-05-31
 tags:
-- action
-- adventure
-- closed-beta-impressions-snowbreak-containment-zone
-- mobile
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - closed-beta-impressions-snowbreak-containment-zone
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: 'Cute girls in a gacha shooter | Closed Beta Impressions - Snowbreak: Containment
-  Zone'
-game: 'Closed Beta Impressions - Snowbreak: Containment Zone'
 ---
+
 In Snowbreak: Containment Zone, the player assumes the role of an Adjutant, navigating the mysterious and devastated ‘containment zone’ while controlling a squad of waifu heroes with diverse skills, gun types, and abilities. The game features a gacha system for unlocking and acquiring new heroes, each with their own unique traits and tiers.
 
 Currently in closed beta testing for the PC and Android platforms starting today, I had the opportunity to try out the PC version for a quick spin.

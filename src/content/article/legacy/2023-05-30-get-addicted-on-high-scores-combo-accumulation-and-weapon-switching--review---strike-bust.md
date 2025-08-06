@@ -1,33 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Strike Buster Prototype is a retro style arcade game featuring combo-based
-  combat and twin-stick shooter controls.
+slug: 2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching-review-strike-bust
+title: Get addicted on high scores, combo accumulation, and weapon switching | Review - Strike Buster
+game: Strike Buster
+description: Strike Buster Prototype is a retro style arcade game featuring combo-based combat and twin-stick shooter controls.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-0.avif
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-1.avif
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-2.avif
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-3.avif
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-4.avif
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-5.avif
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-6.avif
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-7.avif
+  - /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-8.avif
 pubDate: 2023-05-30
 tags:
-- casual
-- indie
-- mobile
-- pc
-- rpg
-- strike-buster
-- taptap
+  - casual
+  - indie
+  - mobile
+  - pc
+  - rpg
+  - strike-buster
+  - taptap
 thumb: /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-0.avif
-title: Get addicted on high scores, combo accumulation, and weapon switching | Review
-  - Strike Buster
-game: Strike Buster
-gallery:
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-0.avif
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-1.avif
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-2.avif
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-3.avif
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-4.avif
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-5.avif
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-6.avif
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-7.avif
-- /images/reviews/legacy/2023-05-30-get-addicted-on-high-scores-combo-accumulation-and-weapon-switching--review---strike-bust-8.avif
 ---
+
 Strike Buster Prototype
 
 lyndonguitar
@@ -36,17 +36,24 @@ Gameplay
 Strike Buster Prototype is a retro style arcade game featuring combo-based combat and twin-stick shooter controls.
 
 
-**Pros:**
 
 
-+A good balance of retro aesthetic and modern look
-
-+Amazing rhythmic beat sound effects for the weapons
-
-+Weapon type system that encourages experimentation and constant switching
+## Pros
 
 
-**Cons:**
+
+## +A good balance of retro aesthetic and modern look
+
+
+## +Amazing rhythmic beat sound effects for the weapons
+
+
+## +Weapon type system that encourages experimentation and constant switching
+
+
+
+
+## Cons
 
 
 -No story

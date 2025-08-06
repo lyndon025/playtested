@@ -1,37 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Somnolent: Action RPG Fantasy is a third person action RPG game set
-  in a world where dreams exist and can be entered by warriors called dreamwalkers.'
+slug: 2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work-full-review-somnolent-action-rpg-fa
+title: 'A promising game, but seriously needs a lot of work | Full Review - Somnolent: Action RPG Fantasy'
+game: 'Somnolent: Action RPG Fantasy'
+description: 'Somnolent: Action RPG Fantasy is a third person action RPG game set in a world where dreams exist and can be entered by warriors called dreamwalkers.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-0.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-1.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-2.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-3.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-4.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-5.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-6.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-7.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-8.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-9.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-10.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-11.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-12.avif
+  - /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-13.avif
 pubDate: 2023-05-17
 tags:
-- action
-- ios
-- mobile
-- rpg
-- somnolent-action-rpg-fantasy
-- taptap
+  - action
+  - ios
+  - mobile
+  - rpg
+  - somnolent-action-rpg-fantasy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-0.avif
-title: 'A promising game, but seriously needs a lot of work | Full Review - Somnolent:
-  Action RPG Fantasy'
-game: 'Somnolent: Action RPG Fantasy'
-gallery:
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-0.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-1.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-2.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-3.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-4.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-5.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-6.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-7.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-8.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-9.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-10.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-11.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-12.avif
-- /images/reviews/legacy/2023-05-17-a-promising-game-but-seriously-needs-a-lot-of-work--full-review---somnolent-action-rpg-fa-13.avif
 ---
+
 Somnolent: Action RPG Fantasy
 
 lyndonguitar
@@ -39,17 +39,24 @@ lyndonguitar
 Somnolent: Action RPG Fantasy is a third person action RPG game set in a world where dreams exist and can be entered by warriors called dreamwalkers.
 
 
-**Pros:**
 
 
-+Good core gameplay idea
-
-+Charming clay-looking graphics
-
-+Unique premise and lore
+## Pros
 
 
-**Cons:**
+
+## +Good core gameplay idea
+
+
+## +Charming clay-looking graphics
+
+
+## +Unique premise and lore
+
+
+
+
+## Cons
 
 
 -Needs a lot of work

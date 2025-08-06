@@ -1,33 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Madtale is a mobile idle RPG game that puts players in a dark fairy tale
-  world filled with captivating stories and charming characters — heroes and villains,
-  both familiar or not.
-featured: false
-pubDate: 2023-07-13
-tags:
-- ios
-- madtale-idle-rpg
-- mobile
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif
+slug: 2023-07-13-an-automated-fairy-tale-adventure-full-review-madtale-idle-rpg
 title: 'An automated fairy tale adventure | Full Review - Madtale: Idle RPG'
 game: 'Madtale: Idle RPG'
+description: Madtale is a mobile idle RPG game that puts players in a dark fairy tale world filled with captivating stories and charming characters — heroes and villains, both familiar or not.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-1.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-2.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-3.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-4.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-5.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-6.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-7.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-8.avif
-- /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-9.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-1.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-2.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-3.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-4.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-5.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-6.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-7.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-8.avif
+  - /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-9.avif
+pubDate: 2023-07-13
+tags:
+  - ios
+  - madtale-idle-rpg
+  - mobile
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-07-13-an-automated-fairy-tale-adventure--full-review---madtale-idle-rpg-0.avif
 ---
+
 Madtale: Idle RPG
 
 lyndonguitar
@@ -35,21 +35,30 @@ lyndonguitar
 Madtale is a mobile idle RPG game that puts players in a dark fairy tale world filled with captivating stories and charming characters — heroes and villains, both familiar or not.
 
 
-**Pros:**
 
 
-+A captivating fairy tale storyline
-
-+Great Art Style
-
-+Wonderful voice acting and a fitting soundtrack
-
-+Battles are visually pleasing
-
-+Plethora of game modes to unlock and play
+## Pros
 
 
-**Cons:**
+
+## +A captivating fairy tale storyline
+
+
+## +Great Art Style
+
+
+## +Wonderful voice acting and a fitting soundtrack
+
+
+## +Battles are visually pleasing
+
+
+## +Plethora of game modes to unlock and play
+
+
+
+
+## Cons
 
 
 -The combat is too automated, making battles feel pre-determined with almost zero player input needed

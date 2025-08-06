@@ -1,31 +1,39 @@
 ---
-import { type CollectionEntry } from "astro:content"
-import SiteOptions from "../site.config.mjs"
-import ScoreBadge from "./ScoreBadge.astro"
+import { type CollectionEntry } from "astro:content";
+import SiteOptions from "../site.config.mjs";
+import ScoreBadge from "./ScoreBadge.astro";
+import { Image } from 'astro:assets';
 
 export interface Props {
-  post: CollectionEntry<"article">
-  showImage?: boolean
-  showCategory?: boolean
+  post: CollectionEntry<"article">;
+  showImage?: boolean;
+  showCategory?: boolean;
 }
 
-const { post, showImage = true, showCategory = true } = Astro.props
-const { title, pubDate, category, description, author, thumb, score } = post.data
+const { post, showImage = true, showCategory = true } = Astro.props;
+const { title, pubDate, category, description, author, thumb, score } = post.data;
 
 const formattedDate = new Intl.DateTimeFormat("en-US", {
   year: "numeric",
   month: "long",
   day: "numeric",
-}).format(pubDate)
+}).format(pubDate);
 ---
 
 <li class="flex flex-row gap-6 py-4 border-b border-gray-100 dark:border-gray-800 items-start">
   {showImage && thumb && (
-  <a href={`/article/${post.slug}`} class="block shrink-0 w-56 h-32 relative post-card-thumb">
-    <img src={thumb} alt={title} class="w-56 h-32 object-cover rounded-md border border-gray-200 dark:border-gray-700" loading="lazy" />
-    <ScoreBadge score={score} small={true} />
-  </a>
-)}
+    <a href={`/article/${post.slug}`} class="block shrink-0 relative post-card-thumb">
+      <Image
+        src={thumb}
+        alt={title}
+        width={224}
+        height={128}
+        class="w-56 h-32 object-cover rounded-md border border-gray-200 dark:border-gray-700"
+        placeholder="blur"
+      />
+      <ScoreBadge score={score} small={true} />
+    </a>
+  )}
 
   <div class="flex-1 flex flex-col min-w-0">
     <div class="flex items-center justify-between gap-2">
@@ -48,6 +56,8 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
         {description}
       </p>
     )}
-    <span class="text-xs text-gray-400 dark:text-gray-500 mt-2">{formattedDate}</span>
+    <span class="text-xs text-gray-400 dark:text-gray-500 mt-2">
+      {formattedDate}
+    </span>
   </div>
 </li>

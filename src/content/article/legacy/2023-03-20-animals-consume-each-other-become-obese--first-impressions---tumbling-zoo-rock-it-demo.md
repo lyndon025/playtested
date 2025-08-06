@@ -1,29 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tumbling Zoo-rock it, is a consumption game reminiscent of .io games
-  such as agar.io and hole.io where you need to consume food and other players to
-  make yourselves bigger, with the ultimate goal of becoming the biggest player on
-  the map by the timer ends.
+slug: 2023-03-20-animals-consume-each-other-become-obese-first-impressions-tumbling-zoo-rock-it-demo
+title: Animals consume each other, become obese | First Impressions - Tumbling Zoo-rock it (Demo)
+game: Tumbling Zoo-rock it (Demo)
+description: Tumbling Zoo-rock it, is a consumption game reminiscent of .io games such as agar.io and hole.io where you need to consume food and other players to make yourselves bigger, with the ultimate goal of becoming the biggest player on the map by the timer ends.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-0.avif
+  - /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-1.avif
+  - /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-2.avif
+  - /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-3.avif
+  - /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-4.avif
+  - /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-5.avif
 pubDate: 2023-03-20
 tags:
-- pc
-- shooter
-- taptap
-- tumbling-zoo-rock-it-demo
+  - pc
+  - shooter
+  - taptap
+  - tumbling-zoo-rock-it-demo
 thumb: /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-0.avif
-title: Animals consume each other, become obese | First Impressions - Tumbling Zoo-rock
-  it (Demo)
-game: Tumbling Zoo-rock it (Demo)
-gallery:
-- /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-0.avif
-- /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-1.avif
-- /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-2.avif
-- /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-3.avif
-- /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-4.avif
-- /images/reviews/legacy/2023-03-20-animals-consume-each-other-become-obese--first-impressions---tumbling-zoo-rock-it-demo-5.avif
 ---
+
 Tumbling Zoo-rock it, is a consumption game reminiscent of .io games such as agar.io and hole.io where you need to consume food and other players to make yourselves bigger, with the ultimate goal of becoming the biggest player on the map by the timer ends.
 
 The game basically adopts the same formula and adds some new changes to it that makes players put in more work in order to consume other players.

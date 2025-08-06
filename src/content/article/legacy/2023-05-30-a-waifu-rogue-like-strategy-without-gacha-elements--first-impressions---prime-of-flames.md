@@ -1,27 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: Prime of Flames is an roguelike strategy game that seamlessly blends
-  elements of turn-based strategy and party role-playing elements, creating a captivating
-  gameplay experience. Developed by Indie devs Rayka Studio, this title offers a plethora
-  of engaging features, diverse character choices, and waifu characters. Surprisingly,
-  it’s not a gacha game!
+slug: 2023-05-30-a-waifu-rogue-like-strategy-without-gacha-elements-first-impressions-prime-of-flames
+title: A waifu rogue-like strategy WITHOUT gacha elements! | First Impressions - Prime of Flames
+game: Prime of Flames
+description: Prime of Flames is an roguelike strategy game that seamlessly blends elements of turn-based strategy and party role-playing elements, creating a captivating gameplay experience. Developed by Indie devs Rayka Studio, this title offers a plethora of engaging features, diverse character choices, and waifu characters. Surprisingly, it’s not a gacha game!
 featured: false
 pubDate: 2023-05-30
 tags:
-- adventure
-- indie
-- macos
-- pc
-- prime-of-flames
-- rpg
-- strategy
-- taptap
+  - adventure
+  - indie
+  - macos
+  - pc
+  - prime-of-flames
+  - rpg
+  - strategy
+  - taptap
 thumb: ''
-title: A waifu rogue-like strategy WITHOUT gacha elements! | First Impressions - Prime
-  of Flames
-game: Prime of Flames
 ---
+
 Prime of Flames is an roguelike strategy game that seamlessly blends elements of turn-based strategy and party role-playing elements, creating a captivating gameplay experience. Developed by Indie devs Rayka Studio, this title offers a plethora of engaging features, diverse character choices, and waifu characters. Surprisingly, it’s not a gacha game!
 
 The core gameplay mechanics of Prime of Flames revolve around turn-based tactics, where players strategically place and maneuver their characters in a grid-based map to overcome various enemies. The combat system is very well designed, and is very intuitive in how it works. Different characters will have different attack types, ranges, and mannerisms. For example, Guard characters can protect their teammates, suddenly swapping places with their allies taking damage on their behalf, Some warriors can go berserk, granted with increased damage at the cost of being uncommandable, while Hunter or Priest characters can attack from a varying degrees of long ranges.

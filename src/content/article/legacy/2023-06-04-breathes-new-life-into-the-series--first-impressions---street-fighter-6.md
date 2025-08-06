@@ -1,48 +1,54 @@
 ---
 author: lyndonguitar
 category: Review
-description: Street Fighter 6 has come a long way. It features a 18-character roster
-  of both new and returning fighters rendered in new Full 3D art style that looks
-  much closer now to contemporaries like Tekken, than the classic 2D or artistic visuals
-  of Street Fighter, however, the spirit of Street Fighter is still felt here. Street
-  Fighter 6’s roster of 18 characters is mostly familiar, with 12 returning characters
-  and six being entirely new.
+slug: 2023-06-04-breathes-new-life-into-the-series-first-impressions-street-fighter-6
+title: Breathes new life into the series | First Impressions - Street Fighter 6
+game: Street Fighter 6
+description: Street Fighter 6 has come a long way. It features a 18-character roster of both new and returning fighters rendered in new Full 3D art style that looks much closer now to contemporaries like Tekken, than the classic 2D or artistic visuals of Street Fighter, however, the spirit of Street Fighter is still felt here. Street Fighter 6’s roster of 18 characters is mostly familiar, with 12 returning characters and six being entirely new.
 featured: false
 pubDate: 2023-06-04
 tags:
-- action
-- adventure
-- console
-- fighting
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- street-fighter-6
-- taptap
-- xbox series
+  - action
+  - adventure
+  - console
+  - fighting
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - street-fighter-6
+  - taptap
+  - xbox-series
 thumb: ''
-title: Breathes new life into the series | First Impressions - Street Fighter 6
-game: Street Fighter 6
 ---
+
 Street Fighter 6 has come a long way. It features a 18-character roster of both new and returning fighters rendered in new Full 3D art style that looks much closer now to contemporaries like Tekken, than the classic 2D or artistic visuals of Street Fighter, however, the spirit of Street Fighter is still felt here. Street Fighter 6’s roster of 18 characters is mostly familiar, with 12 returning characters and six being entirely new.
 
 
-**Pros:**
 
 
-+The action-packed catchy soundtrack
-
-+World Tour singleplayer “RPG” game mode
-
-+A new stellar mechanic called the Drive System
-
-+Very newcomer friendly with new control mechanics
-
-+Commentary option capturing the feel of a highly competing esports environment
+## Pros
 
 
-**Cons:**
+
+## +The action-packed catchy soundtrack
+
+
+## +World Tour singleplayer “RPG” game mode
+
+
+## +A new stellar mechanic called the Drive System
+
+
+## +Very newcomer friendly with new control mechanics
+
+
+## +Commentary option capturing the feel of a highly competing esports environment
+
+
+
+
+## Cons
 
 
 -Story is lackluster

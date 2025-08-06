@@ -1,30 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: With its physics-based combat, humorous tone, and challenging scenarios,
-  Extremely Realistic Siege Warfare Simulator offers a combination of strategy, puzzle
-  solving, and sandbox entertainment. Prepare to build your army, construct siege
-  equipment, and lead epic battles in this medieval world of strategic conquest. Originally
-  a PC game (which is still in Early Access on Steam), I was able to play the Android
-  demo version of Extremely Realistic Siege Warfare Simulator, which is coming soon.
+slug: 2023-05-27-a-light-rts-game-w-physics-based-combat-first-impressions-extremely-realistic-siege-wa
+title: A light RTS game w/ physics-based combat | First Impressions - Extremely Realistic Siege Warfare Sim
+game: Extremely Realistic Siege Warfare Sim
+description: With its physics-based combat, humorous tone, and challenging scenarios, Extremely Realistic Siege Warfare Simulator offers a combination of strategy, puzzle solving, and sandbox entertainment. Prepare to build your army, construct siege equipment, and lead epic battles in this medieval world of strategic conquest. Originally a PC game (which is still in Early Access on Steam), I was able to play the Android demo version of Extremely Realistic Siege Warfare Simulator, which is coming soon.
 featured: false
 pubDate: 2023-05-27
 tags:
-- action
-- casual
-- extremely-realistic-siege-warfare-sim
-- indie
-- macos
-- mobile
-- pc
-- simulation
-- strategy
-- taptap
+  - action
+  - casual
+  - extremely-realistic-siege-warfare-sim
+  - indie
+  - macos
+  - mobile
+  - pc
+  - simulation
+  - strategy
+  - taptap
 thumb: ''
-title: A light RTS game w/ physics-based combat | First Impressions - Extremely Realistic
-  Siege Warfare Sim
-game: Extremely Realistic Siege Warfare Sim
 ---
+
 With its physics-based combat, humorous tone, and challenging scenarios, Extremely Realistic Siege Warfare Simulator offers a combination of strategy, puzzle solving, and sandbox entertainment. Prepare to build your army, construct siege equipment, and lead epic battles in this medieval world of strategic conquest. Originally a PC game (which is still in Early Access on Steam), I was able to play the Android demo version of Extremely Realistic Siege Warfare Simulator, which is coming soon.
 
 Extremely Realistic Siege Warfare Simulator is essentially a real-time strategy game, where players can deploy units, command them in battle, and even assume control of them via third person view. The main focus of the game is siege warfare, and puts players on siege missions against a variety of AI defended fortresses.

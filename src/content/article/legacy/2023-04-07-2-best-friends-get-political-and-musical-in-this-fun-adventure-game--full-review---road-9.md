@@ -1,57 +1,67 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Road 96: Mile 0 is a narratively-driven first-person adventure game
-  with political commentary and dystopian themes.'
+slug: 2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game-full-review-road-9
+title: '2 best friends get political, and musical in this fun adventure game | Full Review - Road 96: Mile 0'
+game: 'Road 96: Mile 0'
+description: 'Road 96: Mile 0 is a narratively-driven first-person adventure game with political commentary and dystopian themes.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-0.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-1.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-2.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-3.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-4.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-5.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-6.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-7.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-8.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-9.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-10.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-11.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-12.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-13.avif
+  - /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-14.avif
 pubDate: 2023-04-07
 tags:
-- adventure
-- pc
-- road-96-mile-0
-- taptap
+  - adventure
+  - pc
+  - road-96-mile-0
+  - taptap
 thumb: /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-0.avif
-title: '2 best friends get political, and musical in this fun adventure game | Full
-  Review - Road 96: Mile 0'
-game: 'Road 96: Mile 0'
-gallery:
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-0.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-1.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-2.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-3.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-4.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-5.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-6.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-7.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-8.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-9.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-10.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-11.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-12.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-13.avif
-- /images/reviews/legacy/2023-04-07-2-best-friends-get-political-and-musical-in-this-fun-adventure-game--full-review---road-9-14.avif
 ---
+
 Road 96: Mile 0 is a narratively-driven first-person adventure game with political commentary and dystopian themes.
 
 
-**Pros:**
 
 
-+Masterpiece of a soundtrack
-
-+Thought-provoking social and political commentary
-
-+Profound and moving Story
-
-+Amazingly crafted rhythm game setpieces
+## Pros
 
 
-**Cons:**
+
+## +Masterpiece of a soundtrack
 
 
-+Technical performance not so great
+## +Thought-provoking social and political commentary
 
-+Overall not an improved experience over the original Road 96
+
+## +Profound and moving Story
+
+
+## +Amazingly crafted rhythm game setpieces
+
+
+
+
+## Cons
+
+
+
+## +Technical performance not so great
+
+
+## +Overall not an improved experience over the original Road 96
 
 Road 96: Mile 0 is actually the prequel to the critically acclaimed game Road 96, bearing the same first-person adventure gameplay, emphasizing narrative choices, consequences to actions, and social commentary. However, the gameplay setup is very much different from each other, especially with Road 96: Mile 0’s focus on a more fixed narrative, coupled with musical and rhythm themes.
 

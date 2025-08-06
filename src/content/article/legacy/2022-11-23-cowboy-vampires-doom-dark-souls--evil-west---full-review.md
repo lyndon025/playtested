@@ -1,56 +1,63 @@
 ---
 author: lyndonguitar
 category: Review
-description: Evil West is a newly released third person twisted mashup of all the
-  gritty genres that we all hate to love. Steampunk, Western, Supernatural Horror,
-  Gothic, Souls-like, Shooter, and the like.
-featured: false
-pubDate: 2022-11-23
-tags:
-- action
-- adventure
-- console
-- evil-west
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif
+slug: 2022-11-23-cowboy-vampires-doom-dark-souls-evil-west-full-review
 title: Cowboy, Vampires, Doom, Dark Souls | Evil West - Full Review
 game: Evil West
+description: Evil West is a newly released third person twisted mashup of all the gritty genres that we all hate to love. Steampunk, Western, Supernatural Horror, Gothic, Souls-like, Shooter, and the like.
+featured: false
 gallery:
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-1.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-2.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-3.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-4.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-5.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-6.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-7.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-8.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-9.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-10.avif
-- /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-11.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-1.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-2.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-3.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-4.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-5.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-6.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-7.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-8.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-9.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-10.avif
+  - /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-11.avif
+pubDate: 2022-11-23
+tags:
+  - action
+  - adventure
+  - console
+  - evil-west
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2022-11-23-cowboy-vampires-doom-dark-souls--evil-west---full-review-0.avif
 ---
-**Pros:**
+
+## Pros
 
 
-+fluid and snappy combat
 
-+focused linear map design
-
-+keeps it fresh from start to end
-
-+unlimited ammo, so you can focus on the action
-
-+full of personality, with its mixing of different genres
+## +fluid and snappy combat
 
 
-**Cons:**
+## +focused linear map design
+
+
+## +keeps it fresh from start to end
+
+
+## +unlimited ammo, so you can focus on the action
+
+
+## +full of personality, with its mixing of different genres
+
+
+
+
+## Cons
 
 
 -no manual saves

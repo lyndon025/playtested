@@ -1,29 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: POPUCOM is an upcoming multiplayer cooperative puzzle adventure platformer
-  that emphasizes color-switching, match-3 shooting, and utilizing various companions
-  cooperatively to progress through a mysterious vibrant world. Recently announced
-  a few days ago with a trailer and mini-game (more info further down below) to go
-  along with it, the game is set to be released for PC and PlayStation, offering a
-  multiplayer cooperative puzzle adventure experience.
-featured: false
-pubDate: 2023-09-11
-tags:
-- adventure
-- indie
-- pc
-- taptap
-- what-is-popucom
-thumb: /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-0.avif
+slug: 2023-09-11-a-color-switching-match-3-shooting-cooperative-game-what-is-popucom
 title: A color-switching, match-3 shooting, cooperative game? | What is POPUCOM?
 game: What is POPUCOM?
+description: POPUCOM is an upcoming multiplayer cooperative puzzle adventure platformer that emphasizes color-switching, match-3 shooting, and utilizing various companions cooperatively to progress through a mysterious vibrant world. Recently announced a few days ago with a trailer and mini-game (more info further down below) to go along with it, the game is set to be released for PC and PlayStation, offering a multiplayer cooperative puzzle adventure experience.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-0.avif
-- /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-1.avif
-- /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-2.avif
-- /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-3.avif
+  - /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-0.avif
+  - /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-1.avif
+  - /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-2.avif
+  - /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-3.avif
+pubDate: 2023-09-11
+tags:
+  - adventure
+  - indie
+  - pc
+  - taptap
+  - what-is-popucom
+thumb: /images/reviews/legacy/2023-09-11-a-color-switching-match-3-shooting-cooperative-game--what-is-popucom-0.avif
 ---
+
 POPUCOM is an upcoming multiplayer cooperative puzzle adventure platformer that emphasizes color-switching, match-3 shooting, and utilizing various companions cooperatively to progress through a mysterious vibrant world. Recently announced a few days ago with a trailer and mini-game (more info further down below) to go along with it, the game is set to be released for PC and PlayStation, offering a multiplayer cooperative puzzle adventure experience.
 
 POPUCOM transports players to a foreign world where they must collaborate with friends to restore life to a ravaged planet. Judging from the game’s trailer, the game's central gameplay mechanic revolves around match-3 color-switching, requiring players to change colors to match specific mechanisms and solve puzzles.

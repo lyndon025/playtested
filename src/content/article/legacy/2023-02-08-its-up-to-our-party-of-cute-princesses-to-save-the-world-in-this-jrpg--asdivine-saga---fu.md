@@ -1,63 +1,70 @@
 ---
 author: lyndonguitar
 category: Review
-description: Asdivine Saga is another Retro-JRPG in the likes of classic Final Fantasy
-  games like FFV and FFVI, The latest standalone entry in the somewhat popular and
-  at the same time obscure retro-style JRPG series Asdivine.
+slug: 2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg-asdivine-saga-fu
+title: it's up to our party of cute princesses to save the world in this JRPG | Asdivine Saga - Full Review
+game: Asdivine Saga
+description: Asdivine Saga is another Retro-JRPG in the likes of classic Final Fantasy games like FFV and FFVI, The latest standalone entry in the somewhat popular and at the same time obscure retro-style JRPG series Asdivine.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-0.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-1.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-2.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-3.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-4.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-5.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-6.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-7.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-8.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-9.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-10.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-11.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-12.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-13.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-14.avif
+  - /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-15.avif
 pubDate: 2023-02-08
 tags:
-- adventure
-- asdivine-saga
-- casual
-- console
-- indie
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
-- xbox one
+  - adventure
+  - asdivine-saga
+  - casual
+  - console
+  - indie
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-0.avif
-title: it's up to our party of cute princesses to save the world in this JRPG | Asdivine
-  Saga - Full Review
-game: Asdivine Saga
-gallery:
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-0.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-1.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-2.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-3.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-4.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-5.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-6.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-7.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-8.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-9.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-10.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-11.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-12.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-13.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-14.avif
-- /images/reviews/legacy/2023-02-08-its-up-to-our-party-of-cute-princesses-to-save-the-world-in-this-jrpg--asdivine-saga---fu-15.avif
 ---
+
 Asdivine Saga is another Retro-JRPG in the likes of classic Final Fantasy games like FFV and FFVI, The latest standalone entry in the somewhat popular and at the same time obscure retro-style JRPG series Asdivine.
 
 These games are made primarily for and popular on mobile platforms. Most of the games were also released on PC and consoles but turned out not quite as popular.
 
 
-**Pros:**
 
 
-+The story and premise is quite intriguing
-
-+The characters are likable and charming
-
-+Gameplay is fun enough to keep you interested
-
-+Different control options: touch, virtual gamepad, and physical gamepad.
+## Pros
 
 
-**Cons:**
+
+## +The story and premise is quite intriguing
+
+
+## +The characters are likable and charming
+
+
+## +Gameplay is fun enough to keep you interested
+
+
+## +Different control options: touch, virtual gamepad, and physical gamepad.
+
+
+
+
+## Cons
 
 
 -The UI design and experience is mediocre

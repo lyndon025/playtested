@@ -1,35 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Battle Chasers: Nightwar is a role-playing game (RPG) developed by Airship
-  Syndicate and published by THQ Nordic. An adaptation of Joe Madureira''s fantasy
-  comic book series of the same name and originally released as a PC game, it has
-  been ported to the mobile platforms as well. For the purpose of this review, I will
-  be talking about the Android version.'
+slug: 2023-05-29-turn-based-rpg-with-some-pretty-cool-mechanics-first-impressions-battle-chasers-nightw
+title: 'Turn-based RPG, with some pretty cool mechanics | First Impressions - Battle Chasers: Nightwar'
+game: 'Battle Chasers: Nightwar'
+description: "Battle Chasers: Nightwar is a role-playing game (RPG) developed by Airship Syndicate and published by THQ Nordic. An adaptation of Joe Madureira's fantasy comic book series of the same name and originally released as a PC game, it has been ported to the mobile platforms as well. For the purpose of this review, I will be talking about the Android version."
 featured: false
 pubDate: 2023-05-29
 tags:
-- android
-- battle-chasers-nightwar
-- console
-- indie
-- ios
-- linux
-- macos
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- strategy
-- taptap
-- xbox one
+  - android
+  - battle-chasers-nightwar
+  - console
+  - indie
+  - ios
+  - linux
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
 thumb: ''
-title: 'Turn-based RPG, with some pretty cool mechanics | First Impressions - Battle
-  Chasers: Nightwar'
-game: 'Battle Chasers: Nightwar'
 ---
+
 Battle Chasers: Nightwar is a role-playing game (RPG) developed by Airship Syndicate and published by THQ Nordic. An adaptation of Joe Madureira's fantasy comic book series of the same name and originally released as a PC game, it has been ported to the mobile platforms as well. For the purpose of this review, I will be talking about the Android version.
 
 The game immerses players in a captivating storyline where the main cast of characters finds themselves stranded on an island. In order to secure their escape, they must embark on a heroic quest to thwart the wicked schemes of an evil sorceress.

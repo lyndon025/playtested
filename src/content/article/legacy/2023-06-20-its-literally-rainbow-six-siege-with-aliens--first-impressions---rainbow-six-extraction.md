@@ -1,30 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Developed and published by Ubisoft, Rainbow Six: Extraction brings together
-  the tactical prowess and intensity of Rainbow Six Siege with a thrilling PvE (Player
-  vs. Environment) experience, heavily inspired by the successful limited-time game
-  mode, Outbreak, in Rainbow Six Siege, Extraction expands upon that cooperative gameplay
-  experience.'
+slug: 2023-06-20-its-literally-rainbow-six-siege-with-aliens-first-impressions-rainbow-six-extraction
+title: 'It’s literally Rainbow Six: Siege with Aliens | First Impressions - Rainbow Six: Extraction'
+game: 'Rainbow Six: Extraction'
+description: 'Developed and published by Ubisoft, Rainbow Six: Extraction brings together the tactical prowess and intensity of Rainbow Six Siege with a thrilling PvE (Player vs. Environment) experience, heavily inspired by the successful limited-time game mode, Outbreak, in Rainbow Six Siege, Extraction expands upon that cooperative gameplay experience.'
 featured: false
 pubDate: 2023-06-20
 tags:
-- action
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rainbow-six-extraction
-- shooter
-- taptap
-- xbox one
-- xbox series
+  - action
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rainbow-six-extraction
+  - shooter
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: ''
-title: 'It’s literally Rainbow Six: Siege with Aliens | First Impressions - Rainbow
-  Six: Extraction'
-game: 'Rainbow Six: Extraction'
 ---
+
 Developed and published by Ubisoft, Rainbow Six: Extraction brings together the tactical prowess and intensity of Rainbow Six Siege with a thrilling PvE (Player vs. Environment) experience, heavily inspired by the successful limited-time game mode, Outbreak, in Rainbow Six Siege, Extraction expands upon that cooperative gameplay experience.
 
 Extraction introduces a refreshing change to the traditional Rainbow Six formula by emphasizing tactical teamwork and coordination against a common enemy: the enigmatic alien threat known as the Archaeans. Players form a team of three operators — characters taken from Rainbow Six: Siege, each possessing unique gadgets and abilities that can complement one another. The synergy among teammates becomes crucial as you embark on more difficult missions ranging from gathering intel and hunting down elite enemies, to planting bombs and saving trapped operators in various infected zones. The level design is well-crafted, featuring intricate maps with multiple entry points, destructible environment, and environmental hazards that further challenge players.

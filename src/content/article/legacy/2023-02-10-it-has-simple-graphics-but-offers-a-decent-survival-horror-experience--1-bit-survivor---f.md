@@ -1,60 +1,64 @@
 ---
 author: lyndonguitar
 category: Review
-description: 1 Bit Survivor is a rogue-lite survival horror with simplistic 1-bit
-  graphics but an artistic stylized presentation. The atmosphere is definitely classic
-  Resident Evil 2 and 3-style, an obvious inspiration especially with sound bits when
-  starting a session complete with typewriter sounds to tell the story, and the menacing
-  sound effects that you hear. The comparison however ends there as the gameplay features
-  a 1-bit retro game design and monochromatic graphics.
+slug: 2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience-1-bit-survivor-f
+title: It has simple graphics but offers a decent survival horror experience | 1 Bit Survivor - Full Review
+game: 1 Bit Survivor
+description: 1 Bit Survivor is a rogue-lite survival horror with simplistic 1-bit graphics but an artistic stylized presentation. The atmosphere is definitely classic Resident Evil 2 and 3-style, an obvious inspiration especially with sound bits when starting a session complete with typewriter sounds to tell the story, and the menacing sound effects that you hear. The comparison however ends there as the gameplay features a 1-bit retro game design and monochromatic graphics.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-0.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-1.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-2.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-3.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-4.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-5.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-6.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-7.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-8.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-9.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-10.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-11.avif
+  - /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-12.avif
 pubDate: 2023-02-10
 tags:
-- 1-bit-survivor
-- adventure
-- android
-- casual
-- indie
-- ios
-- pc
-- rpg
-- strategy
-- taptap
+  - 1-bit-survivor
+  - adventure
+  - android
+  - casual
+  - indie
+  - ios
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-0.avif
-title: It has simple graphics but offers a decent survival horror experience | 1 Bit
-  Survivor - Full Review
-game: 1 Bit Survivor
-gallery:
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-0.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-1.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-2.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-3.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-4.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-5.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-6.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-7.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-8.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-9.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-10.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-11.avif
-- /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-decent-survival-horror-experience--1-bit-survivor---f-12.avif
 ---
+
 1 Bit Survivor is a rogue-lite survival horror with simplistic 1-bit graphics but an artistic stylized presentation. The atmosphere is definitely classic Resident Evil 2 and 3-style, an obvious inspiration especially with sound bits when starting a session complete with typewriter sounds to tell the story, and the menacing sound effects that you hear. The comparison however ends there as the gameplay features a 1-bit retro game design and monochromatic graphics.
 
 
-**Pros:**
 
 
-+Simple gameplay but will engage your mind
-
-+Charming stylized 1-bit visual presentation
-
-+A decent survival horror experience considering the limited 1-bit gameplay
-
-+Play in vertical or landscape format
+## Pros
 
 
-**Cons:**
+
+## +Simple gameplay but will engage your mind
+
+
+## +Charming stylized 1-bit visual presentation
+
+
+## +A decent survival horror experience considering the limited 1-bit gameplay
+
+
+## +Play in vertical or landscape format
+
+
+
+
+## Cons
 
 
 -Not much to do after beating it, other than replay it again.

@@ -1,71 +1,79 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dysmantle is a top down zombie survival crafting game developed by 10tons
-  Ltd that is available on Android, iOS, Nintendo Switch, PlayStation 4, Xbox One,
-  and PC. The game takes place on a deserted island after a global disaster has wiped
-  out most of humanity.
-featured: false
-pubDate: 2023-04-25
-tags:
-- action
-- adventure
-- console
-- dysmantle
-- indie
-- ios
-- linux
-- macos
-- mobile
-- nintendo switch
-- pc
-- rpg
-- simulation
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-0.avif
+slug: 2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile-full-review-dysmantle
 title: A refreshing zombie survival crafting game for mobile | Full Review - Dysmantle
 game: DYSMANTLE
+description: Dysmantle is a top down zombie survival crafting game developed by 10tons Ltd that is available on Android, iOS, Nintendo Switch, PlayStation 4, Xbox One, and PC. The game takes place on a deserted island after a global disaster has wiped out most of humanity.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-0.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-1.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-2.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-3.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-4.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-5.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-6.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-7.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-8.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-9.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-10.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-11.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-12.avif
-- /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-13.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-0.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-1.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-2.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-3.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-4.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-5.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-6.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-7.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-8.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-9.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-10.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-11.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-12.avif
+  - /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-13.avif
+pubDate: 2023-04-25
+tags:
+  - action
+  - adventure
+  - console
+  - dysmantle
+  - indie
+  - ios
+  - linux
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - rpg
+  - simulation
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2023-04-25-a-refreshing-zombie-survival-crafting-game-for-mobile--full-review---dysmantle-0.avif
 ---
+
 DYSMANTLE
 Gameplay
 
 Dysmantle is a top down zombie survival crafting game developed by 10tons Ltd that is available on Android, iOS, Nintendo Switch, PlayStation 4, Xbox One, and PC. The game takes place on a deserted island after a global disaster has wiped out most of humanity.
 
 
-**Pros:**
 
 
-+Unique 'Dysmantling' crafting system
-
-+Open-world map and mechanics
-
-+No pay to win mechanics
-
-+Controller Support
+## Pros
 
 
-**Cons:**
+
+## +Unique 'Dysmantling' crafting system
+
+
+## +Open-world map and mechanics
+
+
+## +No pay to win mechanics
+
+
+## +Controller Support
+
+
+
+
+## Cons
 
 
 -Can get repetitive and grindy
 
-📝Notable points:
+
+## 📝Notable points:
 
 New DLC ‘Doomsday’ coming out soon on mobile, and just released on PC.
 

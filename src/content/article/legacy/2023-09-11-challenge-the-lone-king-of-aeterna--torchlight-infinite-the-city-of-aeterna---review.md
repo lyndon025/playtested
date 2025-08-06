@@ -1,36 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Get Torchlight Infinite: The City of Aeterna is the latest
-  season of Torchlight Infinite, an action-RPG where players can expect fast-paced
-  combat, an abundance of loot, and a range of character customization options. The
-  game features fine graphics and smooth performance, making it one of the better
-  ARPG options on mobile today. The City of Aeterna, dubbed as “The Lost City” is
-  now returning as part of Torchlight Infinite’s latest content update.'
+slug: 2023-09-11-challenge-the-lone-king-of-aeterna-torchlight-infinite-the-city-of-aeterna-review
+title: 'Challenge The Lone King of Aeterna! | Torchlight Infinite: The City of Aeterna - Review'
+game: 'Torchlight: Infinite'
+description: 'lyndonguitar Get Torchlight Infinite: The City of Aeterna is the latest season of Torchlight Infinite, an action-RPG where players can expect fast-paced combat, an abundance of loot, and a range of character customization options. The game features fine graphics and smooth performance, making it one of the better ARPG options on mobile today. The City of Aeterna, dubbed as “The Lost City” is now returning as part of Torchlight Infinite’s latest content update.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-0.avif
+  - /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-1.avif
+  - /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-2.avif
+  - /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-3.avif
+  - /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-4.avif
+  - /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-5.avif
 pubDate: 2023-09-11
 tags:
-- action
-- adventure
-- android
-- ios
-- mobile
-- pc
-- rpg
-- taptap
-- torchlight-infinite
+  - action
+  - adventure
+  - android
+  - ios
+  - mobile
+  - pc
+  - rpg
+  - taptap
+  - torchlight-infinite
 thumb: /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-0.avif
-title: 'Challenge The Lone King of Aeterna! | Torchlight Infinite: The City of Aeterna
-  - Review'
-game: 'Torchlight: Infinite'
-gallery:
-- /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-0.avif
-- /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-1.avif
-- /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-2.avif
-- /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-3.avif
-- /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-4.avif
-- /images/reviews/legacy/2023-09-11-challenge-the-lone-king-of-aeterna--torchlight-infinite-the-city-of-aeterna---review-5.avif
 ---
+
 Torchlight: InfiniteGlobal
 
 lyndonguitar
@@ -39,23 +35,29 @@ Torchlight Infinite: The City of Aeterna is the latest season of Torchlight Infi
 
 What I liked about Torchlight Infinite as a whole is that it does not shy away from action-packed and over-the-top explosions and visuals. Even if you just started right away, the visual splendor of combat already feels like end-game levels of fun with the characters mowing down crowds of foes with ease. Of course, it only gets better as you play and unlock more skills to experiment with. That’s not to say there aren't any downsides, as the visual clutter is also its own downfall, not just in the combat, but in the menus as well.
 
-📖Story
 
-📖Story
+## 📖Story
+
+
+## 📖Story
 
 As for the overall premise, Torchlight Infinite places players in the role of a Hunter infected with the supernatural Aember, tasked with battling mutant creatures called Aemberons. The story revolves around partnering with Aria and embarking on a quest to defeat the Aemberon leader, Lean, who has stolen a valuable artifact. The story is largely forgettable, especially once you get going with the combat, which is the main highlight. It is definitely one of the weaker points of the game. My suggestion? But give it a chance if it gets you hooked. If not, just press skip and just follow the waypoints, skip to the good parts.
 
-🎮Gameplay
 
-🎮Gameplay
+## 🎮Gameplay
+
+
+## 🎮Gameplay
 
 As The City of Aeterna features Seasonal content, it means starting a new character from scratch to access most of the stuff. I chose Frostfire Gemma for my Season playthrough,— a mage class that harnesses special abilities through fire and ice attacks, as I love playing casters in ARPG games. Character movement is controlled with the left thumb, and you can assign up to five skills to the buttons on the right. Attacks typically auto-target, provided the player is facing roughly the direction of the enemy.
 
 The skill and perk system allows players to tailor their character's skills, modifiers, and power levels. The ability to unlock various upgrades and customize skills with effects adds depth to character development and encourages experimentation. The skill and perk system is an engaging mechanic overall, and one that adds variety and brings much experimentation even if you are only playing a single character.
 
-🎨Graphics
 
-🎨Graphics
+## 🎨Graphics
+
+
+## 🎨Graphics
 
 Torchlight Infinite has always been known for its vibrant and colorful art style, and The City of Aeterna is no exception. While Infinite is a slight departure to the original Torchlight series graphics with its cel-shaded-esque style, the graphics are still crisp and pleasing to the eye, enhancing the overall immersive experience. The game also runs smoothly, with optimizations for mobile phones and improved controller support (Even showing control schemes from Steam Deck, Xbox, and PlayStation controllers), ensuring that players can enjoy the action however they want.
 

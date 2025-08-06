@@ -1,59 +1,66 @@
 ---
 author: lyndonguitar
 category: Review
-description: Call of Dragons is a new upcoming fantasy strategy mobile game that features
-  city-building aspects combined with strategy war game and RPG elements. It is currently
-  available for testing on mobile devices and for PC as well as an emulated-port.
-featured: false
-pubDate: 2023-03-10
-tags:
-- call-of-dragons
-- ios
-- mobile
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif
+slug: 2023-03-10-a-stand-out-online-fantasy-strategy-game-full-review-call-of-dragons
 title: A stand out online fantasy strategy game | Full Review - Call of Dragons
 game: Call of Dragons
+description: Call of Dragons is a new upcoming fantasy strategy mobile game that features city-building aspects combined with strategy war game and RPG elements. It is currently available for testing on mobile devices and for PC as well as an emulated-port.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-1.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-2.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-3.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-4.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-5.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-6.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-7.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-8.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-9.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-10.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-11.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-12.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-13.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-14.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-15.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-16.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-17.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-18.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-19.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-20.avif
-- /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-21.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-1.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-2.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-3.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-4.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-5.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-6.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-7.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-8.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-9.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-10.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-11.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-12.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-13.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-14.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-15.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-16.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-17.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-18.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-19.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-20.avif
+  - /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-21.avif
+pubDate: 2023-03-10
+tags:
+  - call-of-dragons
+  - ios
+  - mobile
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-03-10-a-stand-out-online-fantasy-strategy-game--full-review---call-of-dragons-0.avif
 ---
+
 Call of Dragons is a new upcoming fantasy strategy mobile game that features city-building aspects combined with strategy war game and RPG elements. It is currently available for testing on mobile devices and for PC as well as an emulated-port.
 
 
-**Pros:**
 
 
-+Beautiful graphics and presentation
-
-+Highly engaging game mechanics
-
-+Commendable user experience
+## Pros
 
 
-**Cons:**
+
+## +Beautiful graphics and presentation
+
+
+## +Highly engaging game mechanics
+
+
+## +Commendable user experience
+
+
+
+
+## Cons
 
 
 -time consuming

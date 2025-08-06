@@ -1,38 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Monster Menu: The Scavenger''s Cookbook is a dungeon crawling surviving
-  turn-based RPG with a heavy focus on cooking and monster eating, released for the
-  Nintendo Switch and Playstation'
+slug: 2023-05-25-a-mixed-bag-of-delights-and-frustrations-full-review-monster-menu-the-scavengers-cookb
+title: "A mixed bag of delights and frustrations | Full Review - \uFEFFMonster Menu: The Scavenger's Cookbook"
+game: Monster Menu - The Scavenger's Cookbook
+description: "Monster Menu: The Scavenger's Cookbook is a dungeon crawling surviving turn-based RPG with a heavy focus on cooking and monster eating, released for the Nintendo Switch and Playstation"
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-0.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-1.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-2.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-3.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-4.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-5.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-6.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-7.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-8.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-9.avif
+  - /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-10.avif
 pubDate: 2023-05-25
 tags:
-- console
-- monster-menu-the-scavenger-s-cookbook
-- nintendo switch
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- strategy
-- taptap
+  - console
+  - monster-menu-the-scavenger-s-cookbook
+  - nintendo-switch
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-0.avif
-title: "A mixed bag of delights and frustrations | Full Review - \uFEFFMonster Menu:\
-  \ The Scavenger's Cookbook"
-game: Monster Menu - The Scavenger's Cookbook
-gallery:
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-0.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-1.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-2.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-3.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-4.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-5.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-6.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-7.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-8.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-9.avif
-- /images/reviews/legacy/2023-05-25-a-mixed-bag-of-delights-and-frustrations--full-review---monster-menu-the-scavengers-cookb-10.avif
 ---
+
 Monster Menu (NS, PS4, PS5)
 
 lyndonguitar
@@ -40,17 +39,24 @@ lyndonguitar
 Monster Menu: The Scavenger's Cookbook is a dungeon crawling surviving turn-based RPG with a heavy focus on cooking and monster eating, released for the Nintendo Switch and Playstation
 
 
-**Pros:**
 
 
-+Unique monster menu system, eat everything, cook everything!
-
-+A good mix of rogue-like and survival mechanics
-
-+Complete character and party customization
+## Pros
 
 
-**Cons:**
+
+## +Unique monster menu system, eat everything, cook everything!
+
+
+## +A good mix of rogue-like and survival mechanics
+
+
+## +Complete character and party customization
+
+
+
+
+## Cons
 
 
 -Combat can easily get repetitive over time

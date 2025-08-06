@@ -1,40 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Get Getting Over It+ is a physics-based platformer that
-  will require your patience, dexterity, and problem solving skills… well mostly,
-  your patience.
+slug: 2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone-full-review-getting-over-it
+title: Highly addictive, but its difficulty is not for everyone | Full Review - Getting Over It+
+game: Getting Over It+
+description: lyndonguitar Get Getting Over It+ is a physics-based platformer that will require your patience, dexterity, and problem solving skills… well mostly, your patience.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-0.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-1.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-2.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-3.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-4.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-5.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-6.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-7.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-8.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-9.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-10.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-11.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-12.avif
+  - /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-13.avif
 pubDate: 2023-05-09
 tags:
-- action
-- android
-- getting-over-it
-- ios
-- macos
-- pc
-- simulation
-- taptap
+  - action
+  - android
+  - getting-over-it
+  - ios
+  - macos
+  - pc
+  - simulation
+  - taptap
 thumb: /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-0.avif
-title: Highly addictive, but its difficulty is not for everyone | Full Review - Getting
-  Over It+
-game: Getting Over It+
-gallery:
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-0.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-1.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-2.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-3.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-4.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-5.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-6.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-7.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-8.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-9.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-10.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-11.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-12.avif
-- /images/reviews/legacy/2023-05-09-highly-addictive-but-its-difficulty-is-not-for-everyone--full-review---getting-over-it-13.avif
 ---
+
 Getting Over It+
 
 lyndonguitar
@@ -42,17 +41,24 @@ Get
 Getting Over It+ is a physics-based platformer that will require your patience, dexterity, and problem solving skills… well mostly, your patience.
 
 
-**Pros:**
 
 
-+Highly addictive — up until you reach your limits to try again another day
-
-+Challenging platformer puzzles
-
-+With high difficulty comes a highly rewarding experience
+## Pros
 
 
-**Cons:**
+
+## +Highly addictive — up until you reach your limits to try again another day
+
+
+## +Challenging platformer puzzles
+
+
+## +With high difficulty comes a highly rewarding experience
+
+
+
+
+## Cons
 
 
 -Game is highly punishing and frustrating, clearly not for everyone

@@ -1,26 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cities Skylines II is an immersive city-building experience that combines
-  creativity with strategic planning. As mayor of your virtual city, you'll shape
-  a thriving metropolis from the ground up.
+slug: 2023-10-26-simcity-died-so-that-cities-skylines-can-live-first-impressions-cities-skylines-ii
+title: SimCity died so that Cities Skylines can live | First Impressions - Cities Skylines II
+game: Cities Skylines II
+description: Cities Skylines II is an immersive city-building experience that combines creativity with strategic planning. As mayor of your virtual city, you'll shape a thriving metropolis from the ground up.
 featured: false
 pubDate: 2023-10-26
 tags:
-- cities-skylines-ii
-- console
-- pc
-- playstation
-- playstation 5
-- simulation
-- strategy
-- taptap
-- xbox series
+  - cities-skylines-ii
+  - console
+  - pc
+  - playstation
+  - playstation-5
+  - simulation
+  - strategy
+  - taptap
+  - xbox-series
 thumb: ''
-title: SimCity died so that Cities Skylines can live | First Impressions - Cities
-  Skylines II
-game: Cities Skylines II
 ---
+
 Cities Skylines II is an immersive city-building experience that combines creativity with strategic planning. As mayor of your virtual city, you'll shape a thriving metropolis from the ground up.
 
 When I started the game, performance hit me in the face with around 10+ FPS even in the main menu. I quickly adjusted the settings to prioritize performance, and immediately experienced a better-performing game, running at around 40-60 FPS on my aging i7-8700k processor paired with an RTX 3080. However, as I grew my city to over 30,000 citizens, my performance took significant hits, dropping below 30 FPS, accompanied by heavy frame drops and freezes. Sometimes, it even becomes a slideshow. So yeah, performance = BAD

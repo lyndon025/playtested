@@ -1,41 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Download In Prime of Flames, the story revolves around the
-  protagonist, who assumes the role of the "Star Envoy." As the Star Envoy, the player
-  embarks on a quest to uncover the truth behind the disaster that befell the land,
-  taking command of warriors from different clans, each possessing unique talents
-  and abilities.
+slug: 2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation-review-prime-of-fla
+title: Potentially hours of turn-based rogue-like fun and experimentation | Review - Prime of Flames
+game: Prime of Flames
+description: lyndonguitar Download In Prime of Flames, the story revolves around the protagonist, who assumes the role of the "Star Envoy." As the Star Envoy, the player embarks on a quest to uncover the truth behind the disaster that befell the land, taking command of warriors from different clans, each possessing unique talents and abilities.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-0.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-1.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-2.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-3.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-4.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-5.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-6.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-7.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-8.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-9.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-10.avif
+  - /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-11.avif
 pubDate: 2023-05-30
 tags:
-- adventure
-- indie
-- macos
-- mobile
-- pc
-- prime-of-flames
-- rpg
-- strategy
-- taptap
+  - adventure
+  - indie
+  - macos
+  - mobile
+  - pc
+  - prime-of-flames
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-0.avif
-title: Potentially hours of turn-based rogue-like fun and experimentation | Review
-  - Prime of Flames
-game: Prime of Flames
-gallery:
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-0.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-1.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-2.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-3.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-4.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-5.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-6.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-7.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-8.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-9.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-10.avif
-- /images/reviews/legacy/2023-05-30-potentially-hours-of-turn-based-rogue-like-fun-and-experimentation--review---prime-of-fla-11.avif
 ---
+
 Prime of Flames
 
 lyndonguitar
@@ -43,21 +40,30 @@ Download
 In Prime of Flames, the story revolves around the protagonist, who assumes the role of the "Star Envoy." As the Star Envoy, the player embarks on a quest to uncover the truth behind the disaster that befell the land, taking command of warriors from different clans, each possessing unique talents and abilities.
 
 
-**Pros:**
 
 
-+unique and stunning art style
-
-+huge variety of waifu characters
-
-+highly strategic combat mechanics and class system
-
-+full of quality of life features
-
-+full traditional game experience without Pay to Win or gacha elements
+## Pros
 
 
-**Cons:**
+
+## +unique and stunning art style
+
+
+## +huge variety of waifu characters
+
+
+## +highly strategic combat mechanics and class system
+
+
+## +full of quality of life features
+
+
+## +full traditional game experience without Pay to Win or gacha elements
+
+
+
+
+## Cons
 
 
 -UI and text english translation issues

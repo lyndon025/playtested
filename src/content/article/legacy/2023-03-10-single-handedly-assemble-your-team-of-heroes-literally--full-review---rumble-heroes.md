@@ -1,45 +1,51 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Rumble Heroes : Adventure RPG is a free-to-play mobile RPG where players
-  control a ragtag team of heroes looking to save the princess.'
+slug: 2023-03-10-single-handedly-assemble-your-team-of-heroes-literally-full-review-rumble-heroes
+title: Single-handedly assemble your team of heroes, literally | Full Review - Rumble Heroes
+game: Rumble Heroes
+description: 'Rumble Heroes : Adventure RPG is a free-to-play mobile RPG where players control a ragtag team of heroes looking to save the princess.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-0.avif
+  - /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-1.avif
+  - /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-2.avif
+  - /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-3.avif
+  - /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-4.avif
+  - /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-5.avif
+  - /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-6.avif
+  - /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-7.avif
 pubDate: 2023-03-10
 tags:
-- action
-- android
-- arcade
-- ios
-- mobile
-- rumble-heroes
-- strategy
-- taptap
+  - action
+  - android
+  - arcade
+  - ios
+  - mobile
+  - rumble-heroes
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-0.avif
-title: Single-handedly assemble your team of heroes, literally | Full Review - Rumble
-  Heroes
-game: Rumble Heroes
-gallery:
-- /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-0.avif
-- /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-1.avif
-- /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-2.avif
-- /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-3.avif
-- /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-4.avif
-- /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-5.avif
-- /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-6.avif
-- /images/reviews/legacy/2023-03-10-single-handedly-assemble-your-team-of-heroes-literally--full-review---rumble-heroes-7.avif
 ---
+
 Rumble Heroes : Adventure RPG is a free-to-play mobile RPG where players control a ragtag team of heroes looking to save the princess.
 
 
-**Pros:**
 
 
-+simple but fun one-handed gameplay
-
-+interesting adventure RPG elements
+## Pros
 
 
-**Cons:**
+
+## +simple but fun one-handed gameplay
+
+
+## +interesting adventure RPG elements
+
+
+
+
+## Cons
 
 
 -combat lacks depth

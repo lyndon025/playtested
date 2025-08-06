@@ -1,31 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Have you ever wondered how it is like on the other side? On the side
-  of the merchant selling goods to heroes and adventurers? The Last Shop - Craft &
-  Trade will exactly let you experience being one. Build a store, receive raw materials,
-  commission goods like weapons and armor to display at your shop. Heroes and adventurers
-  will flock to your store looking for valuable goods to purchase, and it’s up to
-  the player to sell and earn money.
-featured: false
-pubDate: 2023-04-06
-tags:
-- adventure
-- ios
-- simulation
-- taptap
-- the-last-shop-craft-trade
-thumb: /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif
+slug: 2023-04-06-unleash-your-inner-merchant-first-impressions-the-last-shop-craft-trade
 title: Unleash your inner merchant | First Impressions - The Last Shop - Craft & Trade
 game: The Last Shop - Craft & Trade
+description: Have you ever wondered how it is like on the other side? On the side of the merchant selling goods to heroes and adventurers? The Last Shop - Craft & Trade will exactly let you experience being one. Build a store, receive raw materials, commission goods like weapons and armor to display at your shop. Heroes and adventurers will flock to your store looking for valuable goods to purchase, and it’s up to the player to sell and earn money.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif
-- /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-1.avif
-- /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-2.avif
-- /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-3.avif
-- /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-4.avif
-- /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-5.avif
+  - /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif
+  - /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-1.avif
+  - /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-2.avif
+  - /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-3.avif
+  - /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-4.avif
+  - /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-5.avif
+pubDate: 2023-04-06
+tags:
+  - adventure
+  - ios
+  - simulation
+  - taptap
+  - the-last-shop-craft-trade
+thumb: /images/reviews/legacy/2023-04-06-unleash-your-inner-merchant--first-impressions---the-last-shop---craft--trade-0.avif
 ---
+
 Have you ever wondered how it is like on the other side? On the side of the merchant selling goods to heroes and adventurers? The Last Shop - Craft & Trade will exactly let you experience being one. Build a store, receive raw materials, commission goods like weapons and armor to display at your shop. Heroes and adventurers will flock to your store looking for valuable goods to purchase, and it’s up to the player to sell and earn money.
 
 The gameplay of The Last Shop - Craft & Trade banks heavily on the addictive nature of earning money, and so far it works so well. This is done by continually selling goods to adventurers in an ever increasing cycle of crafting increasingly better items, in turn selling for more and more money.

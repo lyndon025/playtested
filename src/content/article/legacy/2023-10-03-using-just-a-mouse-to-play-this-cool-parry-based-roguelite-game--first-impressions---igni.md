@@ -1,24 +1,21 @@
 ---
 author: lyndonguitar
 category: Review
-description: Ignistone invites players to embark on a treacherous but captivating
-  journey into the mysterious Mines below the surface, as they seek to recover the
-  stolen Ignistone. In this roguelite adventure, players engage in head-on 1v1 combat
-  against thieving adversaries, utilizing a variety of swords and amulets to enhance
-  their character's abilities.
+slug: 2023-10-03-using-just-a-mouse-to-play-this-cool-parry-based-roguelite-game-first-impressions-igni
+title: Using just a mouse to play this cool parry-based Roguelite game | First Impressions - IGNISTONE
+game: IGNISTONE
+description: Ignistone invites players to embark on a treacherous but captivating journey into the mysterious Mines below the surface, as they seek to recover the stolen Ignistone. In this roguelite adventure, players engage in head-on 1v1 combat against thieving adversaries, utilizing a variety of swords and amulets to enhance their character's abilities.
 featured: false
 pubDate: 2023-10-03
 tags:
-- action
-- ignistone
-- indie
-- pc
-- taptap
+  - action
+  - ignistone
+  - indie
+  - pc
+  - taptap
 thumb: ''
-title: Using just a mouse to play this cool parry-based Roguelite game | First Impressions
-  - IGNISTONE
-game: IGNISTONE
 ---
+
 Ignistone invites players to embark on a treacherous but captivating journey into the mysterious Mines below the surface, as they seek to recover the stolen Ignistone. In this roguelite adventure, players engage in head-on 1v1 combat against thieving adversaries, utilizing a variety of swords and amulets to enhance their character's abilities.
 
 The game's procedurally generated caverns are teeming with formidable enemies with different attack patterns and timings, rare items, and unexpected surprises, ensuring that no two Mine runs are alike.

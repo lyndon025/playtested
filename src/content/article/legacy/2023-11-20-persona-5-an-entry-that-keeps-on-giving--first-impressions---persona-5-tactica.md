@@ -1,30 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Persona 5 Tactica is a strategic 'tactics RPG' spin-off developed by
-  Atlus and P-Studio, released on PC, Xbox, PlayStation, and Switch. Set during the
-  events of Persona 5, the Phantom Thieves find themselves in the 'Kingdoms', facing
-  an armed group called Legionnaires.
+slug: 2023-11-20-persona-5-an-entry-that-keeps-on-giving-first-impressions-persona-5-tactica
+title: Persona 5, an entry that keeps on giving | First Impressions - Persona 5 Tactica
+game: Persona 5 Tactica
+description: Persona 5 Tactica is a strategic 'tactics RPG' spin-off developed by Atlus and P-Studio, released on PC, Xbox, PlayStation, and Switch. Set during the events of Persona 5, the Phantom Thieves find themselves in the 'Kingdoms', facing an armed group called Legionnaires.
 featured: false
 pubDate: 2023-11-20
 tags:
-- action
-- console
-- nintendo switch
-- pc
-- persona-5-tactica
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- strategy
-- taptap
-- xbox one
-- xbox series
+  - action
+  - console
+  - nintendo-switch
+  - pc
+  - persona-5-tactica
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: ''
-title: Persona 5, an entry that keeps on giving | First Impressions - Persona 5 Tactica
-game: Persona 5 Tactica
 ---
+
 Persona 5 Tactica is a strategic 'tactics RPG' spin-off developed by Atlus and P-Studio, released on PC, Xbox, PlayStation, and Switch. Set during the events of Persona 5, the Phantom Thieves find themselves in the 'Kingdoms', facing an armed group called Legionnaires.
 
 The game introduces a grid-based combat system with Chibi-style characters, departing from the traditional turn-based battles and anime-inspired art style. Persona 5 Tactica maintains the series' high production values, offering engaging tactical gameplay, nuanced storytelling, sleek presentation, and a fresh take on the Persona universe.

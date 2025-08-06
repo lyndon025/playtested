@@ -1,28 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Gget ready to embark on an epic journey into the post-apocalyptic metropolis
-  of New Eridu! Zenless Zone Zero's Closed Beta Test (CBT) sign-up is officially live,
-  and this is your chance to dive into the urban fantasy world filled with action
-  and intrigue.
+slug: 2023-11-06-cbt-sign-ups-are-now-live-impressions-zenless-zone-zero-teaser
+title: CBT sign-ups are now live! | Impressions - Zenless Zone Zero Teaser
+game: Zenless Zone Zero Teaser
+description: Gget ready to embark on an epic journey into the post-apocalyptic metropolis of New Eridu! Zenless Zone Zero's Closed Beta Test (CBT) sign-up is officially live, and this is your chance to dive into the urban fantasy world filled with action and intrigue.
 featured: false
 pubDate: 2023-11-06
 tags:
-- action
-- android
-- console
-- ios
-- mobile
-- pc
-- playstation
-- playstation 5
-- rpg
-- taptap
-- zenless-zone-zero-teaser
+  - action
+  - android
+  - console
+  - ios
+  - mobile
+  - pc
+  - playstation
+  - playstation-5
+  - rpg
+  - taptap
+  - zenless-zone-zero-teaser
 thumb: ''
-title: CBT sign-ups are now live! | Impressions - Zenless Zone Zero Teaser
-game: Zenless Zone Zero Teaser
 ---
+
 Gget ready to embark on an epic journey into the post-apocalyptic metropolis of New Eridu! Zenless Zone Zero's Closed Beta Test (CBT) sign-up is officially live, and this is your chance to dive into the urban fantasy world filled with action and intrigue.
 
 Zenless Zone Zero Equalizing Test

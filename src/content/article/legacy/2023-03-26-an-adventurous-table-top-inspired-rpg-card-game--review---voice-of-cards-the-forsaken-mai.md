@@ -1,53 +1,60 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Voice of Cards: The Forsaken Maiden is a table-top RPG game in video
-  game format. It has recently been ported to the Android and iOS Mobile platforms,
-  after first releasing back in 2022 for Playstation 4, Nintendo Switch, and PC.'
+slug: 2023-03-26-an-adventurous-table-top-inspired-rpg-card-game-review-voice-of-cards-the-forsaken-mai
+title: 'An adventurous table-top inspired RPG card game | Review - Voice of Cards: The Forsaken Maiden'
+game: 'Voice of Cards: The Forsaken Maiden'
+description: 'Voice of Cards: The Forsaken Maiden is a table-top RPG game in video game format. It has recently been ported to the Android and iOS Mobile platforms, after first releasing back in 2022 for Playstation 4, Nintendo Switch, and PC.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-0.avif
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-1.avif
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-2.avif
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-3.avif
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-4.avif
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-5.avif
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-6.avif
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-7.avif
+  - /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-8.avif
 pubDate: 2023-03-26
 tags:
-- console
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- strategy
-- taptap
-- voice-of-cards-the-forsaken-maiden
+  - console
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - strategy
+  - taptap
+  - voice-of-cards-the-forsaken-maiden
 thumb: /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-0.avif
-title: 'An adventurous table-top inspired RPG card game | Review - Voice of Cards:
-  The Forsaken Maiden'
-game: 'Voice of Cards: The Forsaken Maiden'
-gallery:
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-0.avif
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-1.avif
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-2.avif
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-3.avif
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-4.avif
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-5.avif
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-6.avif
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-7.avif
-- /images/reviews/legacy/2023-03-26-an-adventurous-table-top-inspired-rpg-card-game--review---voice-of-cards-the-forsaken-mai-8.avif
 ---
+
 Voice of Cards: The Forsaken Maiden is a table-top RPG game in video game format. It has recently been ported to the Android and iOS Mobile platforms, after first releasing back in 2022 for Playstation 4, Nintendo Switch, and PC.
 
 
-**Pros:**
 
 
-+Open exploration and an adventurous tone
-
-+Table-top RPG based aesthetic and gameplay
-
-+Engaging turn-based combat system
-
-+premium game with no ads, or pay-to-win mechanics, but there are purchasable cosmetics
+## Pros
 
 
-**Cons:**
+
+## +Open exploration and an adventurous tone
+
+
+## +Table-top RPG based aesthetic and gameplay
+
+
+## +Engaging turn-based combat system
+
+
+## +premium game with no ads, or pay-to-win mechanics, but there are purchasable cosmetics
+
+
+
+
+## Cons
 
 
 -non-table-top RPG players might find the game slow

@@ -1,46 +1,49 @@
 ---
 author: lyndonguitar
 category: Review
-description: Bibots is a roguelite dungeon crawler shooter where players take on the
-  role of a warrior that can pilot mech armors called Bibots. As Tayar, you are the
-  only one left standing (literally) and the only savior of his world.
+slug: 2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge-review
+title: Fair or unfair, this roguelite shooter certainly presents a formidable challenge | Review - Bibots
+game: Bibots
+description: Bibots is a roguelite dungeon crawler shooter where players take on the role of a warrior that can pilot mech armors called Bibots. As Tayar, you are the only one left standing (literally) and the only savior of his world.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---0.avif
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---1.avif
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---2.avif
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---3.avif
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---4.avif
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---5.avif
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---6.avif
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---7.avif
+  - /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---8.avif
 pubDate: 2023-08-25
 tags:
-- action
-- bibots
-- indie
-- mobile
-- pc
-- taptap
+  - action
+  - bibots
+  - indie
+  - mobile
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---0.avif
-title: Fair or unfair, this roguelite shooter certainly presents a formidable challenge
-  | Review - Bibots
-game: Bibots
-gallery:
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---0.avif
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---1.avif
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---2.avif
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---3.avif
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---4.avif
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---5.avif
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---6.avif
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---7.avif
-- /images/reviews/legacy/2023-08-25-fair-or-unfair-this-roguelite-shooter-certainly-presents-a-formidable-challenge--review---8.avif
 ---
+
 Bibots
 
 Bibots is a roguelite dungeon crawler shooter where players take on the role of a warrior that can pilot mech armors called Bibots. As Tayar, you are the only one left standing (literally) and the only savior of his world.
 
 
-**Pros:**
+
+
+## Pros
 - Pleasing HD visuals
 - Intense bullet-hell action
 - Variety of weapons and upgrades to experiment with
 - Procedurally generated levels and easy traversal mechanics
 
 
-**Cons:**
+
+
+## Cons
 - The touch controls are floaty and clunky
 - The titular Bibots are underutilized as a gameplay concept
 - Persistent progression is a bit grindy, even for a roguelite

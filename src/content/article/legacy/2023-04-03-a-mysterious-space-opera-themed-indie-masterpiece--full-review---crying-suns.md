@@ -1,56 +1,63 @@
 ---
 author: lyndonguitar
 category: Review
-description: Crying Suns is a tactical rogue-lite strategy game with heavy narrative
-  elements and a focus on exploration. It was originally released on PCs but has now
-  since been ported to the Mobile platform. For this article I will be playing the
-  mobile version.
-featured: false
-pubDate: 2023-04-03
-tags:
-- crying-suns
-- indie
-- ios
-- macos
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif
+slug: 2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece-full-review-crying-suns
 title: A mysterious space-opera themed indie masterpiece | Full Review - Crying Suns
 game: Crying Suns
+description: Crying Suns is a tactical rogue-lite strategy game with heavy narrative elements and a focus on exploration. It was originally released on PCs but has now since been ported to the Mobile platform. For this article I will be playing the mobile version.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-1.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-2.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-3.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-4.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-5.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-6.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-7.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-8.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-9.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-10.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-11.avif
-- /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-12.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-1.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-2.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-3.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-4.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-5.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-6.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-7.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-8.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-9.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-10.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-11.avif
+  - /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-12.avif
+pubDate: 2023-04-03
+tags:
+  - crying-suns
+  - indie
+  - ios
+  - macos
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-04-03-a-mysterious-space-opera-themed-indie-masterpiece--full-review---crying-suns-0.avif
 ---
+
 Crying Suns is a tactical rogue-lite strategy game with heavy narrative elements and a focus on exploration. It was originally released on PCs but has now since been ported to the Mobile platform. For this article I will be playing the mobile version.
 
 
-**Pros:**
 
 
-+Immersive role playing elements
-
-+Dynamic storytelling
-
-+Excellent writing as a sci-fi story
-
-+High degree of replayability
+## Pros
 
 
-**Cons:**
+
+## +Immersive role playing elements
+
+
+## +Dynamic storytelling
+
+
+## +Excellent writing as a sci-fi story
+
+
+## +High degree of replayability
+
+
+
+
+## Cons
 
 
 -Small UI elements and text for mobile phones

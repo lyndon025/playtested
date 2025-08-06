@@ -1,36 +1,34 @@
 ---
 author: lyndonguitar
 category: Tech
-description: Ever since I was a child, I always dreamt of taking my games with me
-  when going out, and It always came with huge compromises. It meant that I wouldn’t
-  be taking my console or PC games with me, and I’m stuck with a portable handheld
-  with its own different and toned down games (Gameboy, Playstation Portable, Nintendo
-  DS, Switch, etc)
-featured: false
-pubDate: 2022-11-27
-tags:
-- action
-- indie
-- massively multiplayer
-- pc
-- taptap
-- the-greatest-piece-of-gaming-tech-that-i-ve-ever-owned
-thumb: /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif
+slug: 2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned
 title: The greatest piece of gaming tech that I've ever owned
 game: The greatest piece of gaming tech that I've ever owned
+description: Ever since I was a child, I always dreamt of taking my games with me when going out, and It always came with huge compromises. It meant that I wouldn’t be taking my console or PC games with me, and I’m stuck with a portable handheld with its own different and toned down games (Gameboy, Playstation Portable, Nintendo DS, Switch, etc)
+featured: false
 gallery:
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-1.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-2.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-3.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-4.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-5.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-6.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-7.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-8.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-9.avif
-- /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-10.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-1.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-2.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-3.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-4.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-5.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-6.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-7.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-8.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-9.avif
+  - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-10.avif
+pubDate: 2022-11-27
+tags:
+  - action
+  - indie
+  - massively-multiplayer
+  - pc
+  - taptap
+  - the-greatest-piece-of-gaming-tech-that-i-ve-ever-owned
+thumb: /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif
 ---
+
 Ever since I was a child, I always dreamt of taking my games with me when going out, and It always came with huge compromises. It meant that I wouldn’t be taking my console or PC games with me, and I’m stuck with a portable handheld with its own different and toned down games (Gameboy, Playstation Portable, Nintendo DS, Switch, etc)
 
 Not anymore. Last year, the Valve Steam Deck was announced. While it released early this year with extreme scarcity, recently it became relatively abundant that I was finally able to purchase and receive it around two months ago. Here are my thoughts.
@@ -45,21 +43,29 @@ It is powered by the Steam Platform, the same client that most PC users have bee
 
 Cut to the chase, here’s an easy to digest breakdown of some of the things the Steam Deck can do:
 
-+ Comes in 64, 256, 512GB options, with the ability to expand storage via SD Card or easy replacement in the internal SSD to 1TB or even 2TB
 
-+ Same library collection as your PC, it uses Steam platform and can also play games from other platforms like Epic, Battlenet, and Origin/Uplay.
+## + Comes in 64, 256, 512GB options, with the ability to expand storage via SD Card or easy replacement in the internal SSD to 1TB or even 2TB
 
-+ Play almost any PC game, indie or even AAA titles. From Hades or Stardew Valley, to Spider-Man Remastered or Cyberpunk 2077, it is playable.
 
-+ Play handheld or connect to a Display / TV via any generic USB-C to HDMI dock or the official Steam Deck Dock.
+## + Same library collection as your PC, it uses Steam platform and can also play games from other platforms like Epic, Battlenet, and Origin/Uplay.
 
-+ Support for almost any PC accessory: Xbox, Playstation, Switch controllers, bluetooth or wired earphones, gaming keyboards and mice, etc.
 
-+ Use game streaming services like Xbox Gamepass, Playstation Now, NVIDIA Geforce, or its built-in local streaming solution Steam Remote Play.
+## + Play almost any PC game, indie or even AAA titles. From Hades or Stardew Valley, to Spider-Man Remastered or Cyberpunk 2077, it is playable.
 
-+ Use it as a desktop PC, install office apps or even just browse the web.
 
-+ Install Windows 10 or 11 on it to make it a more traditional PC if you like.
+## + Play handheld or connect to a Display / TV via any generic USB-C to HDMI dock or the official Steam Deck Dock.
+
+
+## + Support for almost any PC accessory: Xbox, Playstation, Switch controllers, bluetooth or wired earphones, gaming keyboards and mice, etc.
+
+
+## + Use game streaming services like Xbox Gamepass, Playstation Now, NVIDIA Geforce, or its built-in local streaming solution Steam Remote Play.
+
+
+## + Use it as a desktop PC, install office apps or even just browse the web.
+
+
+## + Install Windows 10 or 11 on it to make it a more traditional PC if you like.
 
 For non-gamers, console users, newcomers, worry not; As the interface is easy to navigate. You just browse the Steam Store to find games to purchase / download and just click play. The Steam Deck just like any game console you ever used. No tinkering required nor complex tutorials to follow. Although learning how to tinker comes with great benefits.
 

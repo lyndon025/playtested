@@ -1,30 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Brotato is a brand new mobile-port of the acclaimed PC game of the same
-  name, a survival rogue-lite game that you can play with only one hand, now currently
-  in Open Beta.
-featured: false
-pubDate: 2023-02-19
-tags:
-- brotato-open-beta
-- mobile
-- pc
-- racing
-- taptap
-thumb: /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-0.avif
+slug: 2023-02-19-one-handed-addicting-fun-first-impressions-brotato-open-beta
 title: One handed addicting fun | First Impressions - Brotato (Open Beta)
 game: Brotato (Open Beta)
+description: Brotato is a brand new mobile-port of the acclaimed PC game of the same name, a survival rogue-lite game that you can play with only one hand, now currently in Open Beta.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-0.avif
-- /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-1.avif
-- /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-2.avif
-- /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-3.avif
-- /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-4.avif
-- /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-5.avif
-- /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-6.avif
-- /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-7.avif
+  - /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-0.avif
+  - /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-1.avif
+  - /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-2.avif
+  - /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-3.avif
+  - /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-4.avif
+  - /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-5.avif
+  - /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-6.avif
+  - /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-7.avif
+pubDate: 2023-02-19
+tags:
+  - brotato-open-beta
+  - mobile
+  - pc
+  - racing
+  - taptap
+thumb: /images/reviews/legacy/2023-02-19-one-handed-addicting-fun--first-impressions---brotato-open-beta-0.avif
 ---
+
 Brotato is a brand new mobile-port of the acclaimed PC game of the same name, a survival rogue-lite game that you can play with only one hand, now currently in Open Beta.
 
 In Brotato, you control a character from a selection of five different classes with different starting stats and bonuses. Then you get to pick your starting weapon and difficulty modifiers (if unlocked, eventually).

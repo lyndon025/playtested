@@ -1,45 +1,48 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing-review-stray-gods-the-roleplaying
+title: 'Greek gods in the modern world and some good singing | Review - Stray Gods: The Roleplaying Musical'
+game: 'Stray Gods: The Roleplaying Musical'
 description: 'Stray Gods: The Roleplaying Musical Graphics & Music'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-0.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-1.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-2.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-3.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-4.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-5.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-6.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-7.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-8.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-9.avif
+  - /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-10.avif
 pubDate: 2023-08-13
 tags:
-- adventure
-- console
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- stray-gods-the-roleplaying-musical
-- taptap
-- xbox one
+  - adventure
+  - console
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - stray-gods-the-roleplaying-musical
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-0.avif
-title: 'Greek gods in the modern world and some good singing | Review - Stray Gods:
-  The Roleplaying Musical'
-game: 'Stray Gods: The Roleplaying Musical'
-gallery:
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-0.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-1.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-2.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-3.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-4.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-5.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-6.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-7.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-8.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-9.avif
-- /images/reviews/legacy/2023-08-13-greek-gods-in-the-modern-world-and-some-good-singing--review---stray-gods-the-roleplaying-10.avif
 ---
+
 Stray Gods: The Roleplaying Musical
 Graphics & Music
 
 Stray Gods: The Roleplaying Musical fuses urban fantasy, Greek mythology, and musical elements into a captivating experience that resonates with both the heart and the senses.
 
 
-**Pros:**
+
+
+## Pros
 - captivating hand-drawn cartoon art style
 - impressive voice acting, both for the dialogue and songs
 - engaging narrative that explores themes of life, loss, and the unknown
@@ -48,7 +51,9 @@ Stray Gods: The Roleplaying Musical fuses urban fantasy, Greek mythology, and mu
 
 
 
-**Cons:**
+
+
+## Cons
 - slow pacing
 - sound mixing is questionable
 - save file and performance issues

@@ -1,30 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dumb Ways to Climb, developed by PlaySide Studios Ltd, attempts to combine
-  the charm of the Dumb Ways to Die franchise with the viral gameplay of the popular
-  vertical platformer PC game Only Up!.
+slug: 2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves-review-dumb-ways-to-climb
+title: Only for those looking to punish and frustrate themselves | Review - Dumb Ways to Climb
+game: Dumb Ways to Climb
+description: Dumb Ways to Climb, developed by PlaySide Studios Ltd, attempts to combine the charm of the Dumb Ways to Die franchise with the viral gameplay of the popular vertical platformer PC game Only Up!.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-0.avif
+  - /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-1.avif
+  - /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-2.avif
+  - /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-3.avif
+  - /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-4.avif
+  - /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-5.avif
 pubDate: 2023-07-18
 tags:
-- casual
-- dumb-ways-to-climb
-- ios
-- mobile
-- puzzle
-- taptap
+  - casual
+  - dumb-ways-to-climb
+  - ios
+  - mobile
+  - puzzle
+  - taptap
 thumb: /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-0.avif
-title: Only for those looking to punish and frustrate themselves | Review - Dumb Ways
-  to Climb
-game: Dumb Ways to Climb
-gallery:
-- /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-0.avif
-- /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-1.avif
-- /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-2.avif
-- /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-3.avif
-- /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-4.avif
-- /images/reviews/legacy/2023-07-18-only-for-those-looking-to-punish-and-frustrate-themselves--review---dumb-ways-to-climb-5.avif
 ---
+
 Dumb Ways to Climb
 
 lyndonguitar
@@ -33,15 +32,21 @@ Download
 Dumb Ways to Climb, developed by PlaySide Studios Ltd, attempts to combine the charm of the Dumb Ways to Die franchise with the viral gameplay of the popular vertical platformer PC game Only Up!.
 
 
-**Pros:**
 
 
-+Nice graphics
-
-+Nerve-racking platforming experience
+## Pros
 
 
-**Cons:**
+
+## +Nice graphics
+
+
+## +Nerve-racking platforming experience
+
+
+
+
+## Cons
 
 
 -Clunky and unresponsive control scheme

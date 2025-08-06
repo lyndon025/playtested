@@ -1,36 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Melatonin is a minimalistic rhythm game about sleeping and dreams. Where
-  different aspects of our lives such as Tech, Food, Shopping, Money, Dating, Exercise
-  and many others are beautifully represented into twenty different dreamy levels
-  with their own distinct sequences, mechanics; complete with their own song and melody
-  to harmonize with.
-featured: false
-pubDate: 2022-12-16
-tags:
-- action
-- console
-- indie
-- macos
-- melatonin
-- nintendo switch
-- pc
-- taptap
-thumb: /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-0.avif
+slug: 2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game-melatonin-review
 title: Fall asleep in this minimalistic rhythm game | Melatonin - Review
 game: Melatonin
+description: Melatonin is a minimalistic rhythm game about sleeping and dreams. Where different aspects of our lives such as Tech, Food, Shopping, Money, Dating, Exercise and many others are beautifully represented into twenty different dreamy levels with their own distinct sequences, mechanics; complete with their own song and melody to harmonize with.
+featured: false
 gallery:
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-0.avif
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-1.avif
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-2.avif
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-3.avif
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-4.avif
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-5.avif
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-6.avif
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-7.avif
-- /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-8.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-0.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-1.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-2.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-3.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-4.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-5.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-6.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-7.avif
+  - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-8.avif
+pubDate: 2022-12-16
+tags:
+  - action
+  - console
+  - indie
+  - macos
+  - melatonin
+  - nintendo-switch
+  - pc
+  - taptap
+thumb: /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-0.avif
 ---
+
 Melatonin is a minimalistic rhythm game about sleeping and dreams. Where different aspects of our lives such as Tech, Food, Shopping, Money, Dating, Exercise and many others are beautifully represented into twenty different dreamy levels with their own distinct sequences, mechanics; complete with their own song and melody to harmonize with.
 
 Melatonin is not your typical rhythm game. There are no UI elements and button prompts. There are no overly complex gestures or an overwhelming number of buttons used. Instead, it uses clever visual and matching audio cues to assist the player in correctly pressing the needed button, sometimes it's just a single button, sometimes, just two directions.

@@ -1,64 +1,68 @@
 ---
 author: lyndonguitar
 category: Review
-description: In the indie-games industry, production costs are limited. Usually, game
-  creators cannot always afford to create photorealistic graphics and an expansive
-  combination of story and gameplay. This usually leads to popular common denominators,
-  such as retro art-style, and rogue-like gameplay, and Dungreed is one such example.
-  The only difference now lies in the gameplay, does Dungreed have what it takes to
-  get your attention?
+slug: 2023-02-10-another-quality-mobile-roguelite-you-should-probably-play-dungreed-full-review
+title: Another quality mobile roguelite you should probably play! | Dungreed - Full Review
+game: Dungreed
+description: In the indie-games industry, production costs are limited. Usually, game creators cannot always afford to create photorealistic graphics and an expansive combination of story and gameplay. This usually leads to popular common denominators, such as retro art-style, and rogue-like gameplay, and Dungreed is one such example. The only difference now lies in the gameplay, does Dungreed have what it takes to get your attention?
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-0.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-1.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-2.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-3.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-4.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-5.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-6.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-7.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-8.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-9.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-10.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-11.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-12.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-13.avif
+  - /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-14.avif
 pubDate: 2023-02-10
 tags:
-- action
-- adventure
-- console
-- dungreed
-- indie
-- ios
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- taptap
+  - action
+  - adventure
+  - console
+  - dungreed
+  - indie
+  - ios
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - taptap
 thumb: /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-0.avif
-title: Another quality mobile roguelite you should probably play! | Dungreed - Full
-  Review
-game: Dungreed
-gallery:
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-0.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-1.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-2.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-3.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-4.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-5.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-6.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-7.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-8.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-9.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-10.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-11.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-12.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-13.avif
-- /images/reviews/legacy/2023-02-10-another-quality-mobile-roguelite-you-should-probably-play--dungreed---full-review-14.avif
 ---
+
 In the indie-games industry, production costs are limited. Usually, game creators cannot always afford to create photorealistic graphics and an expansive combination of story and gameplay. This usually leads to popular common denominators, such as retro art-style, and rogue-like gameplay, and Dungreed is one such example. The only difference now lies in the gameplay, does Dungreed have what it takes to get your attention?
 
 
-**Pros:**
 
 
-+High quality pixel-art
-
-+Wide variety of weapons, including PLASMA RIFLES
-
-+Quality fast travel system
-
-+Controller Support
+## Pros
 
 
-**Cons:**
+
+## +High quality pixel-art
+
+
+## +Wide variety of weapons, including PLASMA RIFLES
+
+
+## +Quality fast travel system
+
+
+## +Controller Support
+
+
+
+
+## Cons
 
 
 -Starts off slow

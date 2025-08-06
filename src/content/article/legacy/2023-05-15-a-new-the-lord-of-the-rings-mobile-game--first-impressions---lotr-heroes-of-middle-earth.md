@@ -1,31 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-05-15-a-new-the-lord-of-the-rings-mobile-game-first-impressions-lotr-heroes-of-middle-earth
+title: A new The Lord of the Rings mobile game! | First Impressions - LOTR Heroes of Middle Earth
+game: 'LotR: Heroes of Middle-earth'
 description: 'The Lord of the Rings: Heroes 7.7 RPG Fantasy Download'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-0.avif
+  - /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-1.avif
+  - /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-2.avif
+  - /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-3.avif
+  - /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-4.avif
+  - /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-5.avif
+  - /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-6.avif
+  - /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-7.avif
 pubDate: 2023-05-15
 tags:
-- adventure
-- android
-- ios
-- lotr-heroes-of-middle-earth
-- mobile
-- rpg
-- taptap
+  - adventure
+  - android
+  - ios
+  - lotr-heroes-of-middle-earth
+  - mobile
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-0.avif
-title: A new The Lord of the Rings mobile game! | First Impressions - LOTR Heroes
-  of Middle Earth
-game: 'LotR: Heroes of Middle-earth'
-gallery:
-- /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-0.avif
-- /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-1.avif
-- /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-2.avif
-- /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-3.avif
-- /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-4.avif
-- /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-5.avif
-- /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-6.avif
-- /images/reviews/legacy/2023-05-15-a-new-the-lord-of-the-rings-mobile-game--first-impressions---lotr-heroes-of-middle-earth-7.avif
 ---
+
 The Lord of the Rings: Heroes
 7.7
 RPG

@@ -1,37 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: At its core, Door Kickers is a top-down real-time strategy game that
-  puts you in command of an elite SWAT team, from planning to execution. Your mission
-  is to neutralize threats, save hostages, and complete objectives within a variety
-  of scenarios. The game's strength lies in its tactical depth — both in pre-planning
-  and in the actual real-time execution, offering an impressive array of tools and
-  options to tackle each mission.
+slug: 2023-05-16-command-an-elite-swat-team-from-planning-to-execution-first-impressions-door-kickers
+title: Command an elite SWAT team from planning to execution | First Impressions - Door Kickers
+game: Door Kickers
+description: At its core, Door Kickers is a top-down real-time strategy game that puts you in command of an elite SWAT team, from planning to execution. Your mission is to neutralize threats, save hostages, and complete objectives within a variety of scenarios. The game's strength lies in its tactical depth — both in pre-planning and in the actual real-time execution, offering an impressive array of tools and options to tackle each mission.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-0.avif
+  - /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-1.avif
+  - /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-2.avif
+  - /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-3.avif
+  - /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-4.avif
 pubDate: 2023-05-16
 tags:
-- action
-- android
-- door-kickers
-- indie
-- ios
-- linux
-- macos
-- pc
-- simulation
-- strategy
-- taptap
+  - action
+  - android
+  - door-kickers
+  - indie
+  - ios
+  - linux
+  - macos
+  - pc
+  - simulation
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-0.avif
-title: Command an elite SWAT team from planning to execution | First Impressions -
-  Door Kickers
-game: Door Kickers
-gallery:
-- /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-0.avif
-- /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-1.avif
-- /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-2.avif
-- /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-3.avif
-- /images/reviews/legacy/2023-05-16-command-an-elite-swat-team-from-planning-to-execution--first-impressions---door-kickers-4.avif
 ---
+
 Door Kickers
 9.6
 Strategy

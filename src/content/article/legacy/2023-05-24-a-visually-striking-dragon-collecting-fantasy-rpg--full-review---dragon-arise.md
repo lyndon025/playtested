@@ -1,49 +1,59 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dragon Arise is a dragon collecting fantasy RPG that takes players on
-  a whimsical journey into a world filled with dragons and epic battles.
+slug: 2023-05-24-a-visually-striking-dragon-collecting-fantasy-rpg-full-review-dragon-arise
+title: A visually striking dragon collecting fantasy RPG! | Full Review - Dragon Arise
+game: Dragon Arise
+description: Dragon Arise is a dragon collecting fantasy RPG that takes players on a whimsical journey into a world filled with dragons and epic battles.
 featured: false
 pubDate: 2023-05-24
 tags:
-- action
-- adventure
-- casual
-- console
-- dragon-arise
-- family
-- fighting
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- xbox one
-- xbox series
+  - action
+  - adventure
+  - casual
+  - console
+  - dragon-arise
+  - family
+  - fighting
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: ''
-title: A visually striking dragon collecting fantasy RPG! | Full Review - Dragon Arise
-game: Dragon Arise
 ---
+
 Dragon Arise is a dragon collecting fantasy RPG that takes players on a whimsical journey into a world filled with dragons and epic battles.
 
 
-**Pros:**
 
 
-+Strategic squad building gameplay
-
-+Automated battles
-
-+Remarkable graphics
-
-+Plenty of side activities and extra gameplay mechanics
-
-+Intuitive progression mechanics
+## Pros
 
 
-**Cons:**
+
+## +Strategic squad building gameplay
+
+
+## +Automated battles
+
+
+## +Remarkable graphics
+
+
+## +Plenty of side activities and extra gameplay mechanics
+
+
+## +Intuitive progression mechanics
+
+
+
+
+## Cons
 
 
 -Not much depth in actual combat

@@ -1,23 +1,21 @@
 ---
 author: lyndonguitar
 category: Review
-description: Friends vs Friends is an online PvP shooter game that offers a unique
-  blend of FPS combat and deck building gameplay. In this game, players choose a character
-  from a selection of groups of anthropomorphic friends and customize their loadout
-  using a card-based system. Each card represents a specific ability or weapon that
-  players can use during battles.
+slug: 2023-06-06-a-deck-buildingfps-game-hybrid-first-impressions-friends-vs-friends
+title: A deck building/FPS game hybrid | First Impressions - Friends vs Friends
+game: Friends vs Friends
+description: Friends vs Friends is an online PvP shooter game that offers a unique blend of FPS combat and deck building gameplay. In this game, players choose a character from a selection of groups of anthropomorphic friends and customize their loadout using a card-based system. Each card represents a specific ability or weapon that players can use during battles.
 featured: false
 pubDate: 2023-06-06
 tags:
-- action
-- friends-vs-friends
-- indie
-- pc
-- taptap
+  - action
+  - friends-vs-friends
+  - indie
+  - pc
+  - taptap
 thumb: ''
-title: A deck building/FPS game hybrid | First Impressions - Friends vs Friends
-game: Friends vs Friends
 ---
+
 Friends vs Friends is an online PvP shooter game that offers a unique blend of FPS combat and deck building gameplay. In this game, players choose a character from a selection of groups of anthropomorphic friends and customize their loadout using a card-based system. Each card represents a specific ability or weapon that players can use during battles.
 
 The core gameplay revolves around intense FPS fights between players – in either 1v1 or 2v2 format, where they utilize their chosen character's unique skill and strategically deploy cards from their deck. As a player, you'll have to make tactical decisions on which cards to use at specific moments, considering their strengths, weaknesses, and synergies. At the end of the day though, it ultimately boils down to the FPS action as shooting them down is ultimately the most reliable way of killing them.

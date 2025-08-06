@@ -1,50 +1,57 @@
 ---
 author: lyndonguitar
 category: Review
-description: We Love Katamari REROLL+ Royal Reverie We Love Katamari REROLL+ Royal
-  Reverie is a remastered version of the beloved second title in the Katamari Damacy
-  series released for modern systems; PC, Playstation, Xbox, and Switch.
+slug: 2023-06-08-an-absolute-piece-of-insanity-and-absurdity-full-review-we-love-katamari-reroll-royal
+title: An absolute piece of insanity and absurdity | Full Review - We Love Katamari REROLL+ Royal Reverie
+game: We Love Katamari REROLL+ Royal Reverie
+description: We Love Katamari REROLL+ Royal Reverie We Love Katamari REROLL+ Royal Reverie is a remastered version of the beloved second title in the Katamari Damacy series released for modern systems; PC, Playstation, Xbox, and Switch.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--0.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--1.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--2.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--3.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--4.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--5.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--6.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--7.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--8.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--9.avif
+  - /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--10.avif
 pubDate: 2023-06-08
 tags:
-- action
-- pc
-- taptap
-- we-love-katamari-reroll-royal-reverie
+  - action
+  - pc
+  - taptap
+  - we-love-katamari-reroll-royal-reverie
 thumb: /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--0.avif
-title: An absolute piece of insanity and absurdity | Full Review - We Love Katamari
-  REROLL+ Royal Reverie
-game: We Love Katamari REROLL+ Royal Reverie
-gallery:
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--0.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--1.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--2.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--3.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--4.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--5.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--6.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--7.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--8.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--9.avif
-- /images/reviews/legacy/2023-06-08-an-absolute-piece-of-insanity-and-absurdity--full-review---we-love-katamari-reroll-royal--10.avif
 ---
+
 We Love Katamari REROLL+ Royal Reverie
 We Love Katamari REROLL+ Royal Reverie is a remastered version of the beloved second title in the Katamari Damacy series released for modern systems; PC, Playstation, Xbox, and Switch.
 
 
-**Pros:**
 
 
-+Unique and whimsical gameplay
-
-+Charming simplistic visuals
-
-+Creative level design
-
-+Catchy Soundtrack
+## Pros
 
 
-**Cons:**
+
+## +Unique and whimsical gameplay
+
+
+## +Charming simplistic visuals
+
+
+## +Creative level design
+
+
+## +Catchy Soundtrack
+
+
+
+
+## Cons
 
 
 -Controls are a bit unorthodox at first

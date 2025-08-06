@@ -1,27 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'RoboCop: Rogue City is one of the most surprising game releases this
-  year (and one of the most unexpected announcements from as far back as 2021). Just
-  when you might have thought that RoboCop isn''t the pop culture icon it once was,
-  it has returned from dormancy and come back to life.'
+slug: 2023-11-07-a-surprising-video-game-adaptation-30-years-later-first-impressions-robocop-rogue-city
+title: A surprising video game adaptation, 30+ years later | First Impressions - Robocop Rogue City
+game: 'RoboCop: Rogue City'
+description: "RoboCop: Rogue City is one of the most surprising game releases this year (and one of the most unexpected announcements from as far back as 2021). Just when you might have thought that RoboCop isn't the pop culture icon it once was, it has returned from dormancy and come back to life."
 featured: false
 pubDate: 2023-11-07
 tags:
-- action
-- adventure
-- console
-- pc
-- playstation
-- playstation 5
-- robocop-rogue-city
-- taptap
-- xbox series
+  - action
+  - adventure
+  - console
+  - pc
+  - playstation
+  - playstation-5
+  - robocop-rogue-city
+  - taptap
+  - xbox-series
 thumb: ''
-title: A surprising video game adaptation, 30+ years later | First Impressions - Robocop
-  Rogue City
-game: 'RoboCop: Rogue City'
 ---
+
 RoboCop: Rogue City is one of the most surprising game releases this year (and one of the most unexpected announcements from as far back as 2021). Just when you might have thought that RoboCop isn't the pop culture icon it once was, it has returned from dormancy and come back to life.
 
 Developing a video game adaptation of an action movie from 1987 isn't typically a top priority for most developers and publishers these days. However, Teyon and Nacon aren't your typical companies. Fortunately, they understandably want to capitalize on the coolness of '80s action movies, having previously delivered the mildly excellent Terminator: Resistance in 2019. And now, we have RoboCop: Rogue City.

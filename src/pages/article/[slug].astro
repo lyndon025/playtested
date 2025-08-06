@@ -6,6 +6,7 @@ import Footer from "../../components/Footer.astro";
 import FeaturedCard from "../../components/FeaturedCard.astro";
 import Carousel from "../../components/Carousel.astro";
 import SiteOptions from "../../site.config.mjs";
+import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
   const posts = await getCollection("article");
@@ -32,16 +33,12 @@ const {
 } = post.data;
 const { Content } = await post.render();
 
-// “You might also like”: pick 3 random featured posts (excluding current)
+// Random featured posts
 const allPosts = await getCollection("article");
 const featuredPosts = allPosts
-  // 1) Exclude current
   .filter((p) => p.slug !== post.slug)
-  // 2) Only those marked featured in frontmatter
   .filter((p) => p.data.featured === true)
-  // 3) Shuffle order
   .sort(() => Math.random() - 0.5)
-  // 4) Take first 3
   .slice(0, 3);
 
 const formattedDate = new Intl.DateTimeFormat("en-US", {
@@ -54,17 +51,14 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 <BlogLayout title={title} description={description}>
   <Header showTitle />
 
-  <!-- Article Container -->
   <article class="relative mt-8">
 
-    <!-- Float Carousel Right -->
     {gallery?.length > 0 && (
       <div class="float-right w-full max-w-[420px] ml-8 mb-4">
         <Carousel images={gallery} />
       </div>
     )}
 
-    <!-- SCORE + TITLE (inline layout) -->
     <div class="flex flex-row items-start gap-4 mb-4">
       {score && (
         <div class="shrink-0">
@@ -79,7 +73,6 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       </h1>
     </div>
 
-    <!-- Meta Info -->
     <div class="text-sm text-gray-500 dark:text-gray-400 mb-4">
       {formattedDate} • {author}
       <span> • Category: {category}</span>
@@ -96,21 +89,26 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       </div>
     </div>
 
-    <!-- LARGE IMAGE (optional, below the wrap zone) -->
     {large && (
       <div class="mb-8 clear-both">
-        <img src={large} alt={title} class="w-full h-auto rounded-lg shadow-md" />
+        <Image
+          src={large}
+          alt={title}
+          width={800}
+          height={450}
+          loading="eager"
+          class="w-full h-auto rounded-lg shadow-md"
+          placeholder="blur"
+        />
       </div>
     )}
 
-    <!-- Main Article Content -->
     <div class="prose prose-h2:text-2xl prose-lg max-w-none text-gray-700 dark:prose-strong:text-slate-100 dark:text-gray-300 prose-headings:text-gray-900 dark:prose-headings:text-slate-100 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-code:text-slate-700 dark:prose-code:text-slate-100 prose-pre:bg-gray-100 dark:prose-pre:bg-slate-800 prose-blockquote:border-gray-300 dark:prose-blockquote:border-gray-600 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-400 prose-h3:text-[1.2em]">
       <Content />
     </div>
 
   </article>
 
-  <!-- You Might Also Like -->
   {SiteOptions.showSimilarPosts && featuredPosts.length > 0 && (
     <>
       <hr class="border-t border-gray-200 dark:border-gray-700 my-12" />

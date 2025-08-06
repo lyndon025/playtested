@@ -1,31 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-04-30-combines-elements-of-card-game-and-dungeon-crawling-first-impressions-card-hog
+title: Combines elements of card game and dungeon crawling | First Impressions - Card Hog
+game: Card Hog
 description: Card Hog - Dungeon Crawler 8.7 Puzzle Strategy
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif
+  - /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-1.avif
+  - /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-2.avif
+  - /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-3.avif
+  - /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-4.avif
 pubDate: 2023-04-30
 tags:
-- android
-- card
-- card-hog
-- casual
-- indie
-- ios
-- pc
-- rpg
-- strategy
-- taptap
+  - android
+  - card
+  - card-hog
+  - casual
+  - indie
+  - ios
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif
-title: Combines elements of card game and dungeon crawling | First Impressions - Card
-  Hog
-game: Card Hog
-gallery:
-- /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif
-- /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-1.avif
-- /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-2.avif
-- /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-3.avif
-- /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-4.avif
 ---
+
 Card Hog - Dungeon Crawler
 8.7
 Puzzle

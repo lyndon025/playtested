@@ -1,34 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Evertale would probably be an accurate game to show as an example if
-  somebody asked the question, What If Pokemon and Final Fantasy had a child and released
-  it on mobile platforms?
-featured: false
-pubDate: 2023-03-16
-tags:
-- android
-- evertale
-- ios
-- mobile
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif
+slug: 2023-03-16-final-fantasy-and-pokemon-had-a-baby-first-impressions-evertale
 title: Final Fantasy and Pokemon had a baby | First Impressions - Evertale
 game: Evertale
+description: Evertale would probably be an accurate game to show as an example if somebody asked the question, What If Pokemon and Final Fantasy had a child and released it on mobile platforms?
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-1.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-2.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-3.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-4.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-5.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-6.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-7.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-8.avif
-- /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-9.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-1.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-2.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-3.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-4.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-5.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-6.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-7.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-8.avif
+  - /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-9.avif
+pubDate: 2023-03-16
+tags:
+  - android
+  - evertale
+  - ios
+  - mobile
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-03-16-final-fantasy-and-pokemon-had-a-baby--first-impressions---evertale-0.avif
 ---
+
 Evertale would probably be an accurate game to show as an example if somebody asked the question, What If Pokemon and Final Fantasy had a child and released it on mobile platforms?
 
 Evertale is a JRPG turn-based combat game that draws heavy inspiration from the Pokemon series of video games, by featuring monster and character collecting aspects, packaged in a gacha gaming manner.

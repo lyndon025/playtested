@@ -1,41 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: One of the most hyped games in recent years is a few days away! Hogwarts
-  Legacy is a single player open-world action RPG set in the Harry Potter world. It
-  takes place long before the events of the actual books / movies in a sort of a prequel
-  setup, like the Star Wars Knights of the Old Republic games.
+slug: 2023-02-08-be-the-wizard-youve-always-wanted-to-be-first-impressions-hogwarts-legacy-3-day-early
+title: Be the wizard you’ve always wanted to be! | First Impressions - Hogwarts Legacy (3-Day Early Access)
+game: Hogwarts Legacy
+description: One of the most hyped games in recent years is a few days away! Hogwarts Legacy is a single player open-world action RPG set in the Harry Potter world. It takes place long before the events of the actual books / movies in a sort of a prequel setup, like the Star Wars Knights of the Old Republic games.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--0.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--1.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--2.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--3.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--4.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--5.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--6.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--7.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--8.avif
+  - /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--9.avif
 pubDate: 2023-02-08
 tags:
-- action
-- console
-- hogwarts-legacy
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- taptap
-- xbox one
-- xbox series
+  - action
+  - console
+  - hogwarts-legacy
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--0.avif
-title: Be the wizard you’ve always wanted to be! | First Impressions - Hogwarts Legacy
-  (3-Day Early Access)
-game: Hogwarts Legacy
-gallery:
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--0.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--1.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--2.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--3.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--4.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--5.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--6.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--7.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--8.avif
-- /images/reviews/legacy/2023-02-08-be-the-wizard-youve-always-wanted-to-be--first-impressions---hogwarts-legacy-3-day-early--9.avif
 ---
+
 One of the most hyped games in recent years is a few days away! Hogwarts Legacy is a single player open-world action RPG set in the Harry Potter world. It takes place long before the events of the actual books / movies in a sort of a prequel setup, like the Star Wars Knights of the Old Republic games.
 
 It will be released on PC and current gen systems on February 10, with previous gen systems and Nintendo Switch to follow in the next few months.

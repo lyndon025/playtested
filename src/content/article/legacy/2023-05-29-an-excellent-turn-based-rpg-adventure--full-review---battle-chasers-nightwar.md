@@ -1,64 +1,73 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Battle Chasers: Nightwar Battle Chasers: Nightwar is a turn-based RPG
-  game in a fantasy world where players command a group of heroes on a quest to uncover
-  the secrets of The Lost Vale and defeat an evil sorceress.'
-featured: false
-pubDate: 2023-05-29
-tags:
-- android
-- battle-chasers-nightwar
-- console
-- indie
-- ios
-- linux
-- macos
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- strategy
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif
+slug: 2023-05-29-an-excellent-turn-based-rpg-adventure-full-review-battle-chasers-nightwar
 title: 'An excellent turn-based RPG adventure | Full Review - Battle Chasers: Nightwar'
 game: 'Battle Chasers: Nightwar'
+description: 'Battle Chasers: Nightwar Battle Chasers: Nightwar is a turn-based RPG game in a fantasy world where players command a group of heroes on a quest to uncover the secrets of The Lost Vale and defeat an evil sorceress.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-1.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-2.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-3.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-4.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-5.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-6.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-7.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-8.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-9.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-10.avif
-- /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-11.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-1.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-2.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-3.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-4.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-5.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-6.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-7.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-8.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-9.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-10.avif
+  - /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-11.avif
+pubDate: 2023-05-29
+tags:
+  - android
+  - battle-chasers-nightwar
+  - console
+  - indie
+  - ios
+  - linux
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2023-05-29-an-excellent-turn-based-rpg-adventure--full-review---battle-chasers-nightwar-0.avif
 ---
+
 Battle Chasers: Nightwar
 Battle Chasers: Nightwar is a turn-based RPG game in a fantasy world where players command a group of heroes on a quest to uncover the secrets of The Lost Vale and defeat an evil sorceress.
 
 
-**Pros:**
 
 
-+Engaging storyline
-
-+Strategic turn-based gameplay with unique mechanics
-
-+The combat is flashy, kinetic, and pure fun
-
-+Exploration and overworld Navigation
-
-+Effectively translates the essence of the comic series into video game format.
+## Pros
 
 
-**Cons:**
+
+## +Engaging storyline
+
+
+## +Strategic turn-based gameplay with unique mechanics
+
+
+## +The combat is flashy, kinetic, and pure fun
+
+
+## +Exploration and overworld Navigation
+
+
+## +Effectively translates the essence of the comic series into video game format.
+
+
+
+
+## Cons
 
 
 -Confusing Map Design

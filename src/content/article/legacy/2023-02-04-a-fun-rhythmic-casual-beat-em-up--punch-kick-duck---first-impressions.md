@@ -1,32 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: You are imprisoned at the bottom of a tower and have escaped. Your fellow
-  animals are out to stop you from going up and escaping. As luck would have it, you
-  can do three simple moves; Punch Kick Duck, and that’s the title of the game. That’s
-  all you need really, to stop them from stopping you in this fun and lovely rhythmic
-  beat ‘em up made specifically for mobile phones.
-featured: false
-pubDate: 2023-02-04
-tags:
-- action
-- casual
-- ios
-- mobile
-- punch-kick-duck
-- taptap
-thumb: /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-0.avif
+slug: 2023-02-04-a-fun-rhythmic-casual-beat-em-up-punch-kick-duck-first-impressions
 title: A fun rhythmic casual beat’ em up | Punch Kick Duck - First Impressions
 game: Punch Kick Duck
+description: You are imprisoned at the bottom of a tower and have escaped. Your fellow animals are out to stop you from going up and escaping. As luck would have it, you can do three simple moves; Punch Kick Duck, and that’s the title of the game. That’s all you need really, to stop them from stopping you in this fun and lovely rhythmic beat ‘em up made specifically for mobile phones.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-0.avif
-- /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-1.avif
-- /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-2.avif
-- /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-3.avif
-- /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-4.avif
-- /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-5.avif
-- /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-6.avif
+  - /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-0.avif
+  - /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-1.avif
+  - /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-2.avif
+  - /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-3.avif
+  - /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-4.avif
+  - /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-5.avif
+  - /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-6.avif
+pubDate: 2023-02-04
+tags:
+  - action
+  - casual
+  - ios
+  - mobile
+  - punch-kick-duck
+  - taptap
+thumb: /images/reviews/legacy/2023-02-04-a-fun-rhythmic-casual-beat-em-up--punch-kick-duck---first-impressions-0.avif
 ---
+
 You are imprisoned at the bottom of a tower and have escaped. Your fellow animals are out to stop you from going up and escaping. As luck would have it, you can do three simple moves; Punch Kick Duck, and that’s the title of the game. That’s all you need really, to stop them from stopping you in this fun and lovely rhythmic beat ‘em up made specifically for mobile phones.
 
 You can play Punch Kick Duck in either landscape or portrait mode, with controller support as well. Whatever works best for you. The game itself is easy to learn; just three types of attack. But it’s hard to master, because each enemy has their own attack-type that you need to counter in a rock-paper-scissors format. Punch beats Kick, Kick beats Duck, and Duck beats Punch. No need to move, as the game auto-moves your character.

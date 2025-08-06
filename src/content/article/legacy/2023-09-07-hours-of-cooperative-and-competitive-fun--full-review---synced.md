@@ -1,35 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Get SYNCED is an ambitious entry into the looter shooter
-  genre, offering a unique blend of cooperative and PvP gameplay set in a post-apocalyptic
-  world overrun by advanced nanomachines. It takes a lot of inspirations from other
-  genres too, mixing rogue-lite elements, battle royale mechanics, and even Pokemon
-  style of capturing and commanding powerful Nano creatures. SYNCED is set to release
-  on September 8 for PC, Xbox, and Playstation systems.
-featured: false
-pubDate: 2023-09-07
-tags:
-- action
-- adventure
-- pc
-- synced
-- taptap
-thumb: /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif
+slug: 2023-09-07-hours-of-cooperative-and-competitive-fun-full-review-synced
 title: Hours of cooperative and competitive fun! | Full Review - SYNCED
 game: SYNCED
+description: lyndonguitar Get SYNCED is an ambitious entry into the looter shooter genre, offering a unique blend of cooperative and PvP gameplay set in a post-apocalyptic world overrun by advanced nanomachines. It takes a lot of inspirations from other genres too, mixing rogue-lite elements, battle royale mechanics, and even Pokemon style of capturing and commanding powerful Nano creatures. SYNCED is set to release on September 8 for PC, Xbox, and Playstation systems.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-1.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-2.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-3.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-4.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-5.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-6.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-7.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-8.avif
-- /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-9.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-1.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-2.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-3.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-4.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-5.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-6.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-7.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-8.avif
+  - /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-9.avif
+pubDate: 2023-09-07
+tags:
+  - action
+  - adventure
+  - pc
+  - synced
+  - taptap
+thumb: /images/reviews/legacy/2023-09-07-hours-of-cooperative-and-competitive-fun--full-review---synced-0.avif
 ---
+
 SYNCED
 
 lyndonguitar
@@ -37,25 +34,38 @@ Get
 SYNCED is an ambitious entry into the looter shooter genre, offering a unique blend of cooperative and PvP gameplay set in a post-apocalyptic world overrun by advanced nanomachines. It takes a lot of inspirations from other genres too, mixing rogue-lite elements, battle royale mechanics, and even Pokemon style of capturing and commanding powerful Nano creatures. SYNCED is set to release on September 8 for PC, Xbox, and Playstation systems.
 
 
-**Pros:**
+
+
+## Pros
 
 
 
-**Pros:**
 
 
-+Satisfying FPS combat mechanics
-+Incredibly detailed graphics that incorporate advanced features like RTX and DLSS
-+Rogue-lite elements with random upgrades, bringing freshness to every session
-+Runs and missions get preserved in the case of disconnecting or quitting the game
-+Consistently thrilling and frantically action-packed PvPvE game mode
-
-
-**Cons:**
+## Pros
 
 
 
-**Cons:**
+## +Satisfying FPS combat mechanics
+
+## +Incredibly detailed graphics that incorporate advanced features like RTX and DLSS
+
+## +Rogue-lite elements with random upgrades, bringing freshness to every session
+
+## +Runs and missions get preserved in the case of disconnecting or quitting the game
+
+## +Consistently thrilling and frantically action-packed PvPvE game mode
+
+
+
+
+## Cons
+
+
+
+
+
+## Cons
 
 
 -Expect stutters even if you can run the game well

@@ -1,38 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Download Grand Cross: Age of Titans is a newly released
-  video game that blends elements of anime-style aesthetics, storytelling, city-building
-  strategy, and intense troop battles. It was globally released for iOS, Android,
-  and PC last August 1. Developed by Netmarble, the same studio behind the renowned
-  RPG game Seven Deadly Sins: Grand Cross, even though they both Grand Cross in their
-  names, the games are not connected storywise'
-featured: false
-pubDate: 2023-08-13
-tags:
-- grand-cross-age-of-titans
-- mobile
-- pc
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif
+slug: 2023-08-13-mmorts-anime-isekai-and-mechas-full-review-grand-cross-age-of-titans
 title: 'MMORTS, Anime, Isekai, and Mechas | Full Review - Grand Cross: Age of Titans'
 game: 'Grand Cross: Age of Titans'
+description: 'lyndonguitar Download Grand Cross: Age of Titans is a newly released video game that blends elements of anime-style aesthetics, storytelling, city-building strategy, and intense troop battles. It was globally released for iOS, Android, and PC last August 1. Developed by Netmarble, the same studio behind the renowned RPG game Seven Deadly Sins: Grand Cross, even though they both Grand Cross in their names, the games are not connected storywise'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-1.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-2.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-3.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-4.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-5.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-6.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-7.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-8.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-9.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-10.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-11.avif
-- /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-12.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-1.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-2.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-3.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-4.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-5.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-6.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-7.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-8.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-9.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-10.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-11.avif
+  - /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-12.avif
+pubDate: 2023-08-13
+tags:
+  - grand-cross-age-of-titans
+  - mobile
+  - pc
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-08-13-mmorts-anime-isekai-and-mechas--full-review---grand-cross-age-of-titans-0.avif
 ---
+
 GRAND CROSS : Age of Titans
 
 lyndonguitar
@@ -40,7 +37,9 @@ Download
 Grand Cross: Age of Titans is a newly released video game that blends elements of anime-style aesthetics, storytelling, city-building strategy, and intense troop battles. It was globally released for iOS, Android, and PC last August 1. Developed by Netmarble, the same studio behind the renowned RPG game Seven Deadly Sins: Grand Cross, even though they both Grand Cross in their names, the games are not connected storywise
 
 
-**Pros:**
+
+
+## Pros
 - Interesting story and unique meta-commentary of the self-aware main character
 - Refreshing blend of anime and city-building
 - Detailed presentation
@@ -48,7 +47,9 @@ Grand Cross: Age of Titans is a newly released video game that blends elements o
 - Supports multi-languages
 
 
-**Cons:**
+
+
+## Cons
 - There might be too much dialogue, cutscenes, and tutorial
 - Requires a lot of real-world waiting
 - Heavy pay to win mechanics

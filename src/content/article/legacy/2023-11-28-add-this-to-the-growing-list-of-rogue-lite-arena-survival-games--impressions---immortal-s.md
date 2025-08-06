@@ -1,26 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: Immortal Survivors is a recently released rogue-lite arena survival game
-  on Android via TapTap that takes players on a journey through the demon-infested
-  land of Shenzhou. The game boasts a distinctive art style, merging traditional Chinese
-  drawings with cartoon graphics, offering a unique visual experience.
+slug: 2023-11-28-add-this-to-the-growing-list-of-rogue-lite-arena-survival-games-impressions-immortal-s
+title: Add this to the growing list of rogue-lite arena survival games | Impressions - Immortal Survivors
+game: Immortal Survivors
+description: Immortal Survivors is a recently released rogue-lite arena survival game on Android via TapTap that takes players on a journey through the demon-infested land of Shenzhou. The game boasts a distinctive art style, merging traditional Chinese drawings with cartoon graphics, offering a unique visual experience.
 featured: false
 pubDate: 2023-11-28
 tags:
-- action
-- android
-- immortal-survivors
-- ios
-- mobile
-- pc
-- rpg
-- taptap
+  - action
+  - android
+  - immortal-survivors
+  - ios
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: Add this to the growing list of rogue-lite arena survival games | Impressions
-  - Immortal Survivors
-game: Immortal Survivors
 ---
+
 Immortal Survivors is a recently released rogue-lite arena survival game on Android via TapTap that takes players on a journey through the demon-infested land of Shenzhou. The game boasts a distinctive art style, merging traditional Chinese drawings with cartoon graphics, offering a unique visual experience.
 
 As the genre's one-handed control scheme evolves into a more dynamic two-handed approach for this game, Immortal Survivors introduces elements of aiming and dashing, elevating the player's engagement compared to genre flagships like Brotato and Vampire Survivors. It's almost an ARPG game now, but with auto-attack and auto-activation of skills.

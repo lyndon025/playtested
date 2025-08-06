@@ -1,39 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: From the same studio behind the popular game Plague Inc., Rebel Inc.
-  puts players in the role of a leader tasked with stabilizing a war-torn region by
-  managing military and civilian initiatives, balancing the needs of the population,
-  and combating insurgent forces.
-featured: false
-pubDate: 2023-05-22
-tags:
-- android
-- ios
-- mobile
-- rebel-inc
-- simulation
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif
+slug: 2023-05-22-a-political-sim-with-a-unique-premise-full-review-rebel-inc
 title: A political sim with a unique premise | Full Review - Rebel Inc.
 game: Rebel Inc.
+description: From the same studio behind the popular game Plague Inc., Rebel Inc. puts players in the role of a leader tasked with stabilizing a war-torn region by managing military and civilian initiatives, balancing the needs of the population, and combating insurgent forces.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-1.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-2.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-3.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-4.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-5.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-6.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-7.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-8.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-9.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-10.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-11.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-12.avif
-- /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-13.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-1.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-2.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-3.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-4.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-5.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-6.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-7.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-8.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-9.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-10.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-11.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-12.avif
+  - /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-13.avif
+pubDate: 2023-05-22
+tags:
+  - android
+  - ios
+  - mobile
+  - rebel-inc
+  - simulation
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-05-22-a-political-sim-with-a-unique-premise--full-review---rebel-inc-0.avif
 ---
+
 Rebel Inc.
 
 lyndonguitar
@@ -43,26 +42,35 @@ Gameplay
 From the same studio behind the popular game Plague Inc., Rebel Inc. puts players in the role of a leader tasked with stabilizing a war-torn region by managing military and civilian initiatives, balancing the needs of the population, and combating insurgent forces.
 
 
-**Pros:**
 
 
-+An immersive political sim experience
-
-+A challenging balancing-act between handling civilians, the government, and insurgents
-
-+Unique premise of stabilizating a war-torn region
-
-+Lots of maps and scenarios to play in
+## Pros
 
 
-**Cons:**
+
+## +An immersive political sim experience
+
+
+## +A challenging balancing-act between handling civilians, the government, and insurgents
+
+
+## +Unique premise of stabilizating a war-torn region
+
+
+## +Lots of maps and scenarios to play in
+
+
+
+
+## Cons
 
 
 -New players might find the mechanics confusing
 
 -Events aren’t as varied as I expected
 
-📝Notable points:
+
+## 📝Notable points:
 
 Perfectly playable in free-to-play, but the paid version has some added depth and quality of life features.
 

@@ -1,63 +1,68 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Wanted: Dead, we’ve all seen this type of game before: A hack-n-slash
-  and shooter hybrid — Devil May Cry is a touchstone example of this, — as well as
-  most shooter games that have some form of melee combat baked in, but still, it''s
-  refreshing to see newcomers in the hack and slash shooter hybrid genre.'
-featured: false
-pubDate: 2023-02-16
-tags:
-- action
-- adventure
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- shooter
-- taptap
-- wanted-dead
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-0.avif
+slug: 2023-02-16-shoot-them-dead-or-slash-them-to-pieces-full-review-wanted-dead
 title: 'Shoot them dead or slash them to pieces | Full Review - Wanted: Dead'
 game: 'Wanted: Dead'
+description: "Wanted: Dead, we’ve all seen this type of game before: A hack-n-slash and shooter hybrid — Devil May Cry is a touchstone example of this, — as well as most shooter games that have some form of melee combat baked in, but still, it's refreshing to see newcomers in the hack and slash shooter hybrid genre."
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-0.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-1.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-2.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-3.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-4.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-5.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-6.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-7.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-8.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-9.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-10.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-11.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-12.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-13.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-14.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-15.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-16.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-17.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-18.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-19.avif
-- /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-20.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-0.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-1.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-2.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-3.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-4.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-5.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-6.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-7.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-8.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-9.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-10.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-11.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-12.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-13.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-14.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-15.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-16.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-17.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-18.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-19.avif
+  - /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-20.avif
+pubDate: 2023-02-16
+tags:
+  - action
+  - adventure
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - shooter
+  - taptap
+  - wanted-dead
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-02-16-shoot-them-dead-or-slash-them-to-pieces--full-review---wanted-dead-0.avif
 ---
+
 Wanted: Dead, we’ve all seen this type of game before: A hack-n-slash and shooter hybrid — Devil May Cry is a touchstone example of this, — as well as most shooter games that have some form of melee combat baked in, but still, it's refreshing to see newcomers in the hack and slash shooter hybrid genre.
 
 
-**Pros:**
 
 
-+seamlessly switch between swordplay and gunplay
-
-+decent hack and slash combat action
+## Pros
 
 
-**Cons:**
+
+## +seamlessly switch between swordplay and gunplay
+
+
+## +decent hack and slash combat action
+
+
+
+
+## Cons
 
 
 -Forgettable story

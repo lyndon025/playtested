@@ -1,60 +1,67 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Bayonetta Origins: Cereza and the Lost Demon is a brand new adventure
-  game with puzzle elements, and a cooperative experience designed to be played in
-  single player.'
+slug: 2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer-full-review-bayonetta-orig
+title: A beautiful coop game, designed to be played in singleplayer | Full Review - Bayonetta Origins
+game: Bayonetta Origins
+description: 'Bayonetta Origins: Cereza and the Lost Demon is a brand new adventure game with puzzle elements, and a cooperative experience designed to be played in single player.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-0.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-1.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-2.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-3.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-4.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-5.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-6.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-7.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-8.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-9.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-10.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-11.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-12.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-13.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-14.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-15.avif
+  - /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-16.avif
 pubDate: 2023-03-20
 tags:
-- action
-- adventure
-- bayonetta-origins
-- console
-- nintendo switch
-- taptap
+  - action
+  - adventure
+  - bayonetta-origins
+  - console
+  - nintendo-switch
+  - taptap
 thumb: /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-0.avif
-title: A beautiful coop game, designed to be played in singleplayer | Full Review
-  - Bayonetta Origins
-game: Bayonetta Origins
-gallery:
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-0.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-1.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-2.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-3.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-4.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-5.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-6.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-7.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-8.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-9.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-10.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-11.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-12.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-13.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-14.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-15.avif
-- /images/reviews/legacy/2023-03-20-a-beautiful-coop-game-designed-to-be-played-in-singleplayer--full-review---bayonetta-orig-16.avif
 ---
+
 Bayonetta Origins: Cereza and the Lost Demon is a brand new adventure game with puzzle elements, and a cooperative experience designed to be played in single player.
 
 
-**Pros:**
 
 
-+Beautiful graphics and presentation
-
-+Highly engaging game mechanics
-
-+Extraordinary two-character gameplay
+## Pros
 
 
-**Cons:**
+
+## +Beautiful graphics and presentation
+
+
+## +Highly engaging game mechanics
+
+
+## +Extraordinary two-character gameplay
+
+
+
+
+## Cons
 
 
 -Minor camera problems
 
-📝Notable points:
+
+## 📝Notable points:
 
 Not everyone is going to like the departure from the classic Bayonetta gameplay, so those people might like to sit this one out.
 

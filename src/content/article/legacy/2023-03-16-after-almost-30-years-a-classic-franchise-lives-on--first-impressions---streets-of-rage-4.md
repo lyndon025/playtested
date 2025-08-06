@@ -1,42 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: As someone who never played the 90s classics during its heyday but have
-  played, watched, and experienced them as a “retro” game status throughout the recent
-  years, It is quite a delight to finally play the beat 'em up game Streets of Rage
-  4, the latest installment in the Streets of Rage series after almost 30 years of
-  hiatus.
+slug: 2023-03-16-after-almost-30-years-a-classic-franchise-lives-on-first-impressions-streets-of-rage-4
+title: After almost 30 years, a classic franchise lives on | First Impressions - Streets of Rage 4
+game: Streets of Rage 4
+description: As someone who never played the 90s classics during its heyday but have played, watched, and experienced them as a “retro” game status throughout the recent years, It is quite a delight to finally play the beat 'em up game Streets of Rage 4, the latest installment in the Streets of Rage series after almost 30 years of hiatus.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-0.avif
+  - /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-1.avif
+  - /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-2.avif
+  - /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-3.avif
+  - /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-4.avif
+  - /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-5.avif
+  - /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-6.avif
+  - /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-7.avif
 pubDate: 2023-03-16
 tags:
-- action
-- adventure
-- console
-- fighting
-- indie
-- ios
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- streets-of-rage-4
-- taptap
-- xbox one
+  - action
+  - adventure
+  - console
+  - fighting
+  - indie
+  - ios
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - streets-of-rage-4
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-0.avif
-title: After almost 30 years, a classic franchise lives on | First Impressions - Streets
-  of Rage 4
-game: Streets of Rage 4
-gallery:
-- /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-0.avif
-- /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-1.avif
-- /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-2.avif
-- /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-3.avif
-- /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-4.avif
-- /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-5.avif
-- /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-6.avif
-- /images/reviews/legacy/2023-03-16-after-almost-30-years-a-classic-franchise-lives-on--first-impressions---streets-of-rage-4-7.avif
 ---
+
 As someone who never played the 90s classics during its heyday but have played, watched, and experienced them as a “retro” game status throughout the recent years, It is quite a delight to finally play the beat 'em up game Streets of Rage 4, the latest installment in the Streets of Rage series after almost 30 years of hiatus.
 
 One of the first things that struck me about Streets of Rage 4 was the art style. The game features hand-drawn graphics with super vibrant colors and detailed backgrounds that are a true delight for the eyes. The character designs are faithful to the original games while also adding some new HD vibrant touches to keep things fresh and pleasing. Each character has their own unique style, fighting moves, and they all look striking in action.

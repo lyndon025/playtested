@@ -2,6 +2,7 @@
 import { type CollectionEntry } from "astro:content";
 import SiteOptions from "../site.config.mjs";
 import ScoreBadge from "./ScoreBadge.astro";
+import { Image } from 'astro:assets';
 
 export interface Props {
   post: CollectionEntry<"article">;
@@ -15,11 +16,19 @@ const roundedScore = typeof score === 'number' ? Math.round(score) : null;
   {
     SiteOptions.showThumbnailOnFeaturedPosts && thumb && (
       <a href={`/article/${post.slug}`} class="w-full block group relative featured-card-thumb">
-  <div class="w-full aspect-w-16 aspect-h-9 mb-6 rounded-xl overflow-hidden shadow-md max-w-4xl mx-auto relative">
-    <img src={thumb} alt={title} class="w-full h-full object-cover" />
-    <ScoreBadge score={score} />
-  </div>
-</a>
+        <div class="w-full aspect-w-16 aspect-h-9 mb-6 rounded-xl overflow-hidden shadow-md max-w-4xl mx-auto relative">
+          <Image
+            src={thumb}
+            alt={title}
+            width={640}
+            height={360}
+            loading="eager"
+            class="w-full h-full object-cover"
+            placeholder="blur"
+          />
+          <ScoreBadge score={roundedScore} />
+        </div>
+      </a>
     )
   }
 

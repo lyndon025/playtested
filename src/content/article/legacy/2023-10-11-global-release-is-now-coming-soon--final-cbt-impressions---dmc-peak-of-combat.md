@@ -1,23 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'When I previewed the game back a few months ago, I touted it as a game
-  that stays true to its roots gameplay wise. Well, Devil May Cry: Peak of Combat
-  continues to uphold the core hack-and-slash gameplay style that the series is renowned
-  for.'
+slug: 2023-10-11-global-release-is-now-coming-soon-final-cbt-impressions-dmc-peak-of-combat
+title: 'Global Release is now coming soon | Final CBT Impressions - DMC: Peak of Combat'
+game: 'Final CBT Impressions - DMC: Peak of Combat'
+description: 'When I previewed the game back a few months ago, I touted it as a game that stays true to its roots gameplay wise. Well, Devil May Cry: Peak of Combat continues to uphold the core hack-and-slash gameplay style that the series is renowned for.'
 featured: false
 pubDate: 2023-10-11
 tags:
-- action
-- android
-- final-cbt-impressions-dmc-peak-of-combat
-- ios
-- mobile
-- taptap
+  - action
+  - android
+  - final-cbt-impressions-dmc-peak-of-combat
+  - ios
+  - mobile
+  - taptap
 thumb: ''
-title: 'Global Release is now coming soon | Final CBT Impressions - DMC: Peak of Combat'
-game: 'Final CBT Impressions - DMC: Peak of Combat'
 ---
+
 When I previewed the game back a few months ago, I touted it as a game that stays true to its roots gameplay wise. Well, Devil May Cry: Peak of Combat continues to uphold the core hack-and-slash gameplay style that the series is renowned for.
 
 The game is now coming soon globally, and as per the information provided in the iOS store listing, Devil May Cry: Peak of Combat is expected to have a worldwide release scheduled for December 2, 2023.

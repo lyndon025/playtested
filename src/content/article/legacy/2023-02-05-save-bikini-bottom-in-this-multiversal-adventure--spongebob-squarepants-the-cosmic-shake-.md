@@ -1,60 +1,66 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'SpongeBob SquarePants: The Cosmic Shake is a 3D platformer game that
-  is based on the Nickelodeon animated series SpongeBob SquarePants. It is the spiritual
-  successor to 2020’s Battle for Bikini Bottom – Rehydrated, which is in itself a
-  remake of the original 2003 Battle for Bikini Bottom.'
+slug: 2023-02-05-save-bikini-bottom-in-this-multiversal-adventure-spongebob-squarepants-the-cosmic-shake
+title: 'Save Bikini Bottom in this multiversal adventure | SpongeBob SquarePants: The Cosmic Shake - Review'
+game: 'SpongeBob SquarePants: The Cosmic Shake'
+description: 'SpongeBob SquarePants: The Cosmic Shake is a 3D platformer game that is based on the Nickelodeon animated series SpongeBob SquarePants. It is the spiritual successor to 2020’s Battle for Bikini Bottom – Rehydrated, which is in itself a remake of the original 2003 Battle for Bikini Bottom.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--0.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--1.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--2.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--3.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--4.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--5.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--6.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--7.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--8.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--9.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--10.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--11.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--12.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--13.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--14.avif
+  - /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--15.avif
 pubDate: 2023-02-05
 tags:
-- action
-- console
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- spongebob-squarepants-the-cosmic-shake
-- taptap
-- xbox one
+  - action
+  - console
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - spongebob-squarepants-the-cosmic-shake
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--0.avif
-title: 'Save Bikini Bottom in this multiversal adventure | SpongeBob SquarePants:
-  The Cosmic Shake - Review'
-game: 'SpongeBob SquarePants: The Cosmic Shake'
-gallery:
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--0.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--1.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--2.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--3.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--4.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--5.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--6.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--7.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--8.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--9.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--10.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--11.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--12.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--13.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--14.avif
-- /images/reviews/legacy/2023-02-05-save-bikini-bottom-in-this-multiversal-adventure--spongebob-squarepants-the-cosmic-shake--15.avif
 ---
+
 SpongeBob SquarePants: The Cosmic Shake is a 3D platformer game that is based on the Nickelodeon animated series SpongeBob SquarePants. It is the spiritual successor to 2020’s Battle for Bikini Bottom – Rehydrated, which is in itself a remake of the original 2003 Battle for Bikini Bottom.
 
 
-**Pros:**
 
 
-+Beautiful and Amazing level design
-
-+Fun and engaging platforming aspects
-
-+Feels like a special episode from the animated series
-
-+The original voice actors, many of the soundtrack and soundbits are back
+## Pros
 
 
-**Cons:**
+
+## +Beautiful and Amazing level design
+
+
+## +Fun and engaging platforming aspects
+
+
+## +Feels like a special episode from the animated series
+
+
+## +The original voice actors, many of the soundtrack and soundbits are back
+
+
+
+
+## Cons
 
 
 -Felt like a downgrade from Battle for Bikini Bottom

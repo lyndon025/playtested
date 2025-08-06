@@ -1,28 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: Defense Derby revolves around defending your square castle from waves
-  of relentless monsters. Strategic placement of heroes atop the castle is crucial
-  for survival. The game offers a diverse range of units inspired by the fantasy genre,
-  including mages, archers, swordsmen, riflemen, and wizards. Each unit possesses
-  unique attributes, attack ranges, and attack types, allowing players to develop
-  diverse tactical approaches.
+slug: 2023-07-12-defend-your-castle-using-the-power-of-bidding-first-impressions-defense-derby
+title: Defend your castle using the power of… bidding? | First Impressions - Defense Derby
+game: Defense Derby
+description: Defense Derby revolves around defending your square castle from waves of relentless monsters. Strategic placement of heroes atop the castle is crucial for survival. The game offers a diverse range of units inspired by the fantasy genre, including mages, archers, swordsmen, riflemen, and wizards. Each unit possesses unique attributes, attack ranges, and attack types, allowing players to develop diverse tactical approaches.
 featured: false
 pubDate: 2023-07-12
 tags:
-- action
-- android
-- defense-derby
-- indie
-- ios
-- pc
-- strategy
-- taptap
+  - action
+  - android
+  - defense-derby
+  - indie
+  - ios
+  - pc
+  - strategy
+  - taptap
 thumb: ''
-title: Defend your castle using the power of… bidding? | First Impressions - Defense
-  Derby
-game: Defense Derby
 ---
+
 Defense Derby revolves around defending your square castle from waves of relentless monsters. Strategic placement of heroes atop the castle is crucial for survival. The game offers a diverse range of units inspired by the fantasy genre, including mages, archers, swordsmen, riflemen, and wizards. Each unit possesses unique attributes, attack ranges, and attack types, allowing players to develop diverse tactical approaches.
 
 Defense Derby features a fun multiplayer mode, known as "Derby." In this mode, four players compete individually, in their own castles, to survive waves of enemies. The last castle standing emerges as the victorious player. Aside from watching your own castle defense, you can also spectate your opponents castles and see how they fare. What sets Derby apart is the innovative bidding system. Prior to each round, players construct their deck of cards by bidding on available options. Initially, players start with two cards, and subsequent bidding rounds determine additional cards and limit opponents' choices.

@@ -1,33 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'At face value, Depersonalization’s aesthetic and general feeling unquestionably
-  reminded me of the many anime visual novel games I’ve played before: the chilling
-  soundtrack, the eerie anime art, the intriguing story elements, and the various
-  choices you are presented in the game.'
+slug: 2022-12-21-still-in-early-access-but-the-concept-looks-neat-depersonalization-first-impressions
+title: Still in Early Access, but the concept looks neat | Depersonalization - First Impressions
+game: Depersonalization
+description: 'At face value, Depersonalization’s aesthetic and general feeling unquestionably reminded me of the many anime visual novel games I’ve played before: the chilling soundtrack, the eerie anime art, the intriguing story elements, and the various choices you are presented in the game.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-0.avif
+  - /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-1.avif
+  - /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-2.avif
+  - /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-3.avif
+  - /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-4.avif
+  - /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-5.avif
+  - /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-6.avif
 pubDate: 2022-12-21
 tags:
-- depersonalization
-- linux
-- macos
-- pc
-- platformer
-- taptap
-- web
+  - depersonalization
+  - linux
+  - macos
+  - pc
+  - platformer
+  - taptap
+  - web
 thumb: /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-0.avif
-title: Still in Early Access, but the concept looks neat | Depersonalization - First
-  Impressions
-game: Depersonalization
-gallery:
-- /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-0.avif
-- /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-1.avif
-- /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-2.avif
-- /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-3.avif
-- /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-4.avif
-- /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-5.avif
-- /images/reviews/legacy/2022-12-21-still-in-early-access-but-the-concept-looks-neat--depersonalization---first-impressions-6.avif
 ---
+
 At face value, Depersonalization’s aesthetic and general feeling unquestionably reminded me of the many anime visual novel games I’ve played before: the chilling soundtrack, the eerie anime art, the intriguing story elements, and the various choices you are presented in the game.
 
 Anime-wise, the art style is a mix of gothic, medieval, and noir, with heavy use of lovecraftian elements. However, behind all that impressive eye-candy is a game that is indeed an example of a true Early Access game, If i’m judging by its heavily unfinished state.

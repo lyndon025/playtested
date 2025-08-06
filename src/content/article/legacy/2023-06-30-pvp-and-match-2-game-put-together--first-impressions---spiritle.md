@@ -1,25 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Spiritle features a story premise that revolves around spirits and the
-  4 elements: Nature, Earth, Water and Fire, and shines in its art style, featuring
-  a charming and cartoonish paint-like aesthetic. The characters and overall visual
-  design are appealing, however, beyond the introduction story, the lore is practically
-  non-existent, as it is actually a competitive Match-2 game with a focus on PvP battles.
-  The game is free to play, with only cosmetics as in-app purchases.'
+slug: 2023-06-30-pvp-and-match-2-game-put-together-first-impressions-spiritle
+title: PvP and match-2 game put together | First Impressions - Spiritle
+game: Spiritle
+description: 'Spiritle features a story premise that revolves around spirits and the 4 elements: Nature, Earth, Water and Fire, and shines in its art style, featuring a charming and cartoonish paint-like aesthetic. The characters and overall visual design are appealing, however, beyond the introduction story, the lore is practically non-existent, as it is actually a competitive Match-2 game with a focus on PvP battles. The game is free to play, with only cosmetics as in-app purchases.'
 featured: false
 pubDate: 2023-06-30
 tags:
-- casual
-- indie
-- pc
-- spiritle
-- strategy
-- taptap
+  - casual
+  - indie
+  - pc
+  - spiritle
+  - strategy
+  - taptap
 thumb: ''
-title: PvP and match-2 game put together | First Impressions - Spiritle
-game: Spiritle
 ---
+
 Spiritle features a story premise that revolves around spirits and the 4 elements: Nature, Earth, Water and Fire, and shines in its art style, featuring a charming and cartoonish paint-like aesthetic. The characters and overall visual design are appealing, however, beyond the introduction story, the lore is practically non-existent, as it is actually a competitive Match-2 game with a focus on PvP battles. The game is free to play, with only cosmetics as in-app purchases.
 
 Gameplay wise, it is a match-two game where you need to unravel the tiles nature (its biome, e.g. volcano, swamplands, grasslands, etc) and match the same tiles to be able to attack. The premise of moving around the tiles and finding a matching biome is a bit weird at first, especially after the cute story intro they set up for the game, but it gets better as you play.

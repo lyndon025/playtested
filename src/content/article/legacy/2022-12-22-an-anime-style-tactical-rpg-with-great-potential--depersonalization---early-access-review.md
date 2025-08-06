@@ -1,56 +1,62 @@
 ---
 author: lyndonguitar
 category: Review
-description: Depersonalization is a new anime-style tactical RPG recently released
-  in Early Access today, and at its heart is an interesting story intertwined with
-  a promising gameplay, both of which are immediately noticeably to be in the early
-  stages of the development.
+slug: 2022-12-22-an-anime-style-tactical-rpg-with-great-potential-depersonalization-early-access-review
+title: An anime-style tactical RPG with great potential | Depersonalization - Early Access Review
+game: Depersonalization - Early Access
+description: Depersonalization is a new anime-style tactical RPG recently released in Early Access today, and at its heart is an interesting story intertwined with a promising gameplay, both of which are immediately noticeably to be in the early stages of the development.
 featured: false
+gallery:
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-0.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-1.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-2.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-3.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-4.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-5.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-6.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-7.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-8.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-9.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-10.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-11.avif
+  - /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-12.avif
 pubDate: 2022-12-22
 tags:
-- action
-- adventure
-- casual
-- depersonalization-early-access
-- indie
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - casual
+  - depersonalization-early-access
+  - indie
+  - pc
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-0.avif
-title: An anime-style tactical RPG with great potential | Depersonalization - Early
-  Access Review
-game: Depersonalization - Early Access
-gallery:
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-0.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-1.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-2.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-3.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-4.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-5.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-6.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-7.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-8.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-9.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-10.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-11.avif
-- /images/reviews/legacy/2022-12-22-an-anime-style-tactical-rpg-with-great-potential--depersonalization---early-access-review-12.avif
 ---
+
 Depersonalization is a new anime-style tactical RPG recently released in Early Access today, and at its heart is an interesting story intertwined with a promising gameplay, both of which are immediately noticeably to be in the early stages of the development.
 
 
-**Pros:**
 
 
-+interesting story elements
-
-+a great mix of anime and pixel art
-
-+deep role playing mechanics
-
-+extremely high replayability
+## Pros
 
 
-**Cons:**
+
+## +interesting story elements
+
+
+## +a great mix of anime and pixel art
+
+
+## +deep role playing mechanics
+
+
+## +extremely high replayability
+
+
+
+
+## Cons
 
 
 -wonky software-translated text and voice-acting

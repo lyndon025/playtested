@@ -1,34 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dragon and Home is a MMORPG sandbox crafting game that already been released
-  for PC in 2021 and is currently on Open Beta for mobile devices in the North American
-  Region.
+slug: 2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in-open-beta-preview-dragon-and
+title: A potential MMORPG hit for mobile, if more work is put in | Open Beta Preview - Dragon and Home
+game: Open Beta Preview - Dragon and Home
+description: Dragon and Home is a MMORPG sandbox crafting game that already been released for PC in 2021 and is currently on Open Beta for mobile devices in the North American Region.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--0.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--1.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--2.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--3.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--4.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--5.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--6.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--7.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--8.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--9.avif
+  - /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--10.avif
 pubDate: 2023-05-13
 tags:
-- mobile
-- open-beta-preview-dragon-and-home
-- pc
-- platformer
-- taptap
+  - mobile
+  - open-beta-preview-dragon-and-home
+  - pc
+  - platformer
+  - taptap
 thumb: /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--0.avif
-title: A potential MMORPG hit for mobile, if more work is put in | Open Beta Preview
-  - Dragon and Home
-game: Open Beta Preview - Dragon and Home
-gallery:
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--0.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--1.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--2.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--3.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--4.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--5.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--6.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--7.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--8.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--9.avif
-- /images/reviews/legacy/2023-05-13-a-potential-mmorpg-hit-for-mobile-if-more-work-is-put-in--open-beta-preview---dragon-and--10.avif
 ---
+
 Dragon And Home
 
 lyndonguitar
@@ -38,17 +37,24 @@ Graphics & Music
 Dragon and Home is a MMORPG sandbox crafting game that already been released for PC in 2021 and is currently on Open Beta for mobile devices in the North American Region.
 
 
-**Pros:**
 
 
-+A mix of sandbox-style crafting gameplay and MMORPG elements
-
-+The visuals and soundtrack exceed my expectations
-
-+Lots of content and huge world to explore
+## Pros
 
 
-**Cons:**
+
+## +A mix of sandbox-style crafting gameplay and MMORPG elements
+
+
+## +The visuals and soundtrack exceed my expectations
+
+
+## +Lots of content and huge world to explore
+
+
+
+
+## Cons
 
 
 -Grindy progression

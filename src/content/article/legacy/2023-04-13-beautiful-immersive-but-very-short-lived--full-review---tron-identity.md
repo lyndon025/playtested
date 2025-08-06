@@ -1,53 +1,61 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Tron: Identity is a visual novel adventure game set in the world of
-  Tron, where players play in the role of Query, a detective program tasked to investigate
-  a mysterious situation.'
-featured: false
-pubDate: 2023-04-13
-tags:
-- adventure
-- casual
-- console
-- indie
-- macos
-- nintendo switch
-- pc
-- taptap
-- tron-identity
-thumb: /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif
+slug: 2023-04-13-beautiful-immersive-but-very-short-lived-full-review-tron-identity
 title: 'Beautiful, Immersive, but very short-lived | Full Review - Tron: Identity'
 game: 'Tron: Identity'
+description: 'Tron: Identity is a visual novel adventure game set in the world of Tron, where players play in the role of Query, a detective program tasked to investigate a mysterious situation.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-1.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-2.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-3.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-4.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-5.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-6.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-7.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-8.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-9.avif
-- /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-10.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-1.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-2.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-3.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-4.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-5.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-6.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-7.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-8.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-9.avif
+  - /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-10.avif
+pubDate: 2023-04-13
+tags:
+  - adventure
+  - casual
+  - console
+  - indie
+  - macos
+  - nintendo-switch
+  - pc
+  - taptap
+  - tron-identity
+thumb: /images/reviews/legacy/2023-04-13-beautiful-immersive-but-very-short-lived--full-review---tron-identity-0.avif
 ---
+
 Tron: Identity is a visual novel adventure game set in the world of Tron, where players play in the role of Query, a detective program tasked to investigate a mysterious situation.
 
 
-**Pros:**
 
 
-+amazing interactive storytelling
-
-+choices matter and branching out story for replayability
-
-+a dedicated game mode for the puzzle element
-
-+lots of accessibility options: skip puzzles, increase UI text, etc.
+## Pros
 
 
-**Cons:**
+
+## +amazing interactive storytelling
+
+
+## +choices matter and branching out story for replayability
+
+
+## +a dedicated game mode for the puzzle element
+
+
+## +lots of accessibility options: skip puzzles, increase UI text, etc.
+
+
+
+
+## Cons
 
 
 -very, very short

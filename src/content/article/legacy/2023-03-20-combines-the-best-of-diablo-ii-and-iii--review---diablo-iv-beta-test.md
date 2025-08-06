@@ -1,45 +1,43 @@
 ---
 author: lyndonguitar
 category: Review
-description: Diablo IV is an action RPG developed and published by Blizzard, and the
-  fourth game in the critically acclaimed and highly popular Diablo game series. It
-  is scheduled for release on June 6, 2023, with a beta test currently in progress.
-  The early access runs from March 17 to 19, with an open beta available next week
-  March 24-26, free to try for everyone.
-featured: false
-pubDate: 2023-03-20
-tags:
-- action
-- diablo
-- macos
-- pc
-- playstation
-- rpg
-- taptap
-thumb: /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-0.avif
+slug: 2023-03-20-combines-the-best-of-diablo-ii-and-iii-review-diablo-iv-beta-test
 title: Combines the best of Diablo II and III | Review - Diablo IV Beta Test
 game: Diablo
+description: Diablo IV is an action RPG developed and published by Blizzard, and the fourth game in the critically acclaimed and highly popular Diablo game series. It is scheduled for release on June 6, 2023, with a beta test currently in progress. The early access runs from March 17 to 19, with an open beta available next week March 24-26, free to try for everyone.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-0.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-1.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-2.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-3.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-4.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-5.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-6.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-7.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-8.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-9.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-10.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-11.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-12.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-13.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-14.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-15.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-16.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-17.avif
-- /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-18.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-0.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-1.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-2.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-3.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-4.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-5.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-6.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-7.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-8.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-9.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-10.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-11.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-12.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-13.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-14.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-15.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-16.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-17.avif
+  - /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-18.avif
+pubDate: 2023-03-20
+tags:
+  - action
+  - diablo
+  - macos
+  - pc
+  - playstation
+  - rpg
+  - taptap
+thumb: /images/reviews/legacy/2023-03-20-combines-the-best-of-diablo-ii-and-iii--review---diablo-iv-beta-test-0.avif
 ---
+
 Diablo IV is an action RPG developed and published by Blizzard, and the fourth game in the critically acclaimed and highly popular Diablo game series. It is scheduled for release on June 6, 2023, with a beta test currently in progress. The early access runs from March 17 to 19, with an open beta available next week March 24-26, free to try for everyone.
 
 I got the chance to play the early access beta test of the upcoming game Diablo IV, and my experience with the gameplay has been nothing short of amazing so far. It still looks and plays like a proper Diablo game, with respect to both Diablo II and III.

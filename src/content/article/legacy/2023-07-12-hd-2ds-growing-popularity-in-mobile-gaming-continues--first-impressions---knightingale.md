@@ -1,26 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: Knightingale revolves around forming a party of five combatants from
-  the player's available heroes, progressing through the story, and encountering formidable
-  opponents. The game offers a degree of openness, enabling players to explore towns,
-  interact with NPCs, engage in trading, and partake in side activities like bulletin
-  board or dungeon crawling.
+slug: 2023-07-12-hd-2ds-growing-popularity-in-mobile-gaming-continues-first-impressions-knightingale
+title: HD-2D’s growing popularity in mobile gaming continues | First Impressions - Knightingale
+game: Knightingale
+description: Knightingale revolves around forming a party of five combatants from the player's available heroes, progressing through the story, and encountering formidable opponents. The game offers a degree of openness, enabling players to explore towns, interact with NPCs, engage in trading, and partake in side activities like bulletin board or dungeon crawling.
 featured: false
 pubDate: 2023-07-12
 tags:
-- action
-- adventure
-- knightingale
-- mobile
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - knightingale
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: HD-2D’s growing popularity in mobile gaming continues | First Impressions -
-  Knightingale
-game: Knightingale
 ---
+
 Knightingale revolves around forming a party of five combatants from the player's available heroes, progressing through the story, and encountering formidable opponents. The game offers a degree of openness, enabling players to explore towns, interact with NPCs, engage in trading, and partake in side activities like bulletin board or dungeon crawling.
 
 Knightingale possesses the same allure as other JRPG games, boasting a beautiful soundtrack, turn-based combat, narrative-focused gameplay, Japanese voice acting, and an anime-inspired art style.

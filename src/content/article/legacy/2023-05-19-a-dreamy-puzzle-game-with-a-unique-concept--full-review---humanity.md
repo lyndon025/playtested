@@ -1,59 +1,66 @@
 ---
 author: lyndonguitar
 category: Review
-description: HUMANITY HUMANITY is a third-person puzzle game available for PC and
-  PlayStation where you assume the role of a dog guiding crowds of humans to their
-  destination.
-featured: false
-pubDate: 2023-05-19
-tags:
-- action
-- casual
-- console
-- humanity
-- indie
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- puzzle
-- strategy
-- taptap
-- xbox series
-thumb: /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif
+slug: 2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept-full-review-humanity
 title: A dreamy puzzle game with a unique concept | Full Review - HUMANITY
 game: Humanity
+description: HUMANITY HUMANITY is a third-person puzzle game available for PC and PlayStation where you assume the role of a dog guiding crowds of humans to their destination.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-1.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-2.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-3.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-4.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-5.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-6.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-7.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-8.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-9.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-10.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-11.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-12.avif
-- /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-13.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-1.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-2.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-3.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-4.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-5.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-6.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-7.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-8.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-9.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-10.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-11.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-12.avif
+  - /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-13.avif
+pubDate: 2023-05-19
+tags:
+  - action
+  - casual
+  - console
+  - humanity
+  - indie
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - puzzle
+  - strategy
+  - taptap
+  - xbox-series
+thumb: /images/reviews/legacy/2023-05-19-a-dreamy-puzzle-game-with-a-unique-concept--full-review---humanity-0.avif
 ---
+
 HUMANITY
 HUMANITY is a third-person puzzle game available for PC and PlayStation where you assume the role of a dog guiding crowds of humans to their destination.
 
 
-**Pros:**
 
 
-+Unique puzzle concept featuring huge crowds of humans
-
-+Mesmerizing visuals and therapeutic soundtrack
-
-+Challenging and diverse selection of levels
+## Pros
 
 
-**Cons:**
+
+## +Unique puzzle concept featuring huge crowds of humans
+
+
+## +Mesmerizing visuals and therapeutic soundtrack
+
+
+## +Challenging and diverse selection of levels
+
+
+
+
+## Cons
 
 
 -The third person control feels unnecessary from a puzzle game standpoint

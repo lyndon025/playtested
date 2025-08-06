@@ -1,69 +1,74 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dead Space is a survival horror game set on a derelict mining ship in
-  space, populated by swarms of zombie-like creatures called Necromorphs. It is a
-  remake of the 2008 classic, which was released with critical acclaim. Continued
-  by another amazing game in 2011 with Dead Space 2, followed by a mixed reception
-  to the third game in 2013, in which the franchise has been on hiatus since until
-  now.
+slug: 2023-01-31-how-to-remake-a-classic-survival-horror-properly-dead-space-remake-full-review
+title: How to remake a classic survival horror properly | Dead Space Remake - Full Review
+game: Dead Space Remake
+description: Dead Space is a survival horror game set on a derelict mining ship in space, populated by swarms of zombie-like creatures called Necromorphs. It is a remake of the 2008 classic, which was released with critical acclaim. Continued by another amazing game in 2011 with Dead Space 2, followed by a mixed reception to the third game in 2013, in which the franchise has been on hiatus since until now.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-0.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-1.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-2.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-3.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-4.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-5.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-6.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-7.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-8.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-9.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-10.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-11.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-12.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-13.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-14.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-15.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-16.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-17.avif
+  - /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-18.avif
 pubDate: 2023-01-31
 tags:
-- action
-- console
-- dead-space-remake
-- pc
-- playstation 3
-- shooter
-- taptap
-- xbox 360
-- xbox one
+  - action
+  - console
+  - dead-space-remake
+  - pc
+  - playstation-3
+  - shooter
+  - taptap
+  - xbox-360
+  - xbox-one
 thumb: /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-0.avif
-title: How to remake a classic survival horror properly | Dead Space Remake - Full
-  Review
-game: Dead Space Remake
-gallery:
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-0.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-1.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-2.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-3.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-4.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-5.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-6.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-7.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-8.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-9.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-10.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-11.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-12.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-13.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-14.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-15.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-16.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-17.avif
-- /images/reviews/legacy/2023-01-31-how-to-remake-a-classic-survival-horror-properly--dead-space-remake---full-review-18.avif
 ---
+
 Dead Space is a survival horror game set on a derelict mining ship in space, populated by swarms of zombie-like creatures called Necromorphs. It is a remake of the 2008 classic, which was released with critical acclaim. Continued by another amazing game in 2011 with Dead Space 2, followed by a mixed reception to the third game in 2013, in which the franchise has been on hiatus since until now.
 
 Is the remake worth revisiting? Is it a worthy first impression for franchise newcomers?
 
 
-**Pros:**
 
 
-+Faithful retelling of the original
-
-+The story is more fleshed out and improved compared to the original
-
-+An immersive atmospheric experience
-
-+Terrifying as a survival horror game
-
-+Tailored to both long-time fans and newcomers
+## Pros
 
 
-**Cons:**
+
+## +Faithful retelling of the original
+
+
+## +The story is more fleshed out and improved compared to the original
+
+
+## +An immersive atmospheric experience
+
+
+## +Terrifying as a survival horror game
+
+
+## +Tailored to both long-time fans and newcomers
+
+
+
+
+## Cons
 
 
 -No cons

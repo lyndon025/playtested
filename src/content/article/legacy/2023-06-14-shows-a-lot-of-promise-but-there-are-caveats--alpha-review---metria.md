@@ -1,29 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: RPG METRIA the Starlight 7.6 Editors' Choice RPG Download
-featured: false
-pubDate: 2023-06-14
-tags:
-- alpha-review-metria
-- mobile
-- simulation
-- taptap
-- web
-thumb: /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-0.avif
+slug: 2023-06-14-shows-a-lot-of-promise-but-there-are-caveats-alpha-review-metria
 title: Shows a lot of promise, but there are caveats | Alpha Review - Metria
 game: Alpha Review - Metria
+description: RPG METRIA the Starlight 7.6 Editors' Choice RPG Download
+featured: false
 gallery:
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-0.avif
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-1.avif
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-2.avif
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-3.avif
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-4.avif
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-5.avif
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-6.avif
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-7.avif
-- /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-8.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-0.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-1.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-2.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-3.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-4.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-5.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-6.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-7.avif
+  - /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-8.avif
+pubDate: 2023-06-14
+tags:
+  - alpha-review-metria
+  - mobile
+  - simulation
+  - taptap
+  - web
+thumb: /images/reviews/legacy/2023-06-14-shows-a-lot-of-promise-but-there-are-caveats--alpha-review---metria-0.avif
 ---
+
 RPG METRIA the Starlight
 7.6
 Editors' Choice
@@ -33,17 +35,24 @@ Download
 Metria is an action RPG currently in development for mobile devices. It is currently conducting an Alpha test from June 13, 2023, to June 20, 2023, and players are free to test out this title. Since this is an Alpha test, expect it to be in a very early state, far from being playable and enjoyable.
 
 
-**Pros:**
 
 
-+The story is interesting
-
-+The world is vibrant and colorful
-
-+Third person combat shows a lot of promise
+## Pros
 
 
-**Cons:**
+
+## +The story is interesting
+
+
+## +The world is vibrant and colorful
+
+
+## +Third person combat shows a lot of promise
+
+
+
+
+## Cons
 
 
 -Lots of loading screens

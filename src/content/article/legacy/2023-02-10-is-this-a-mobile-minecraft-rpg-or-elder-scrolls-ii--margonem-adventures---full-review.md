@@ -1,53 +1,58 @@
 ---
 author: lyndonguitar
 category: Review
-description: Margonem Adventures is a first person RPG and 3D dungeon crawler with
-  Minecraft looking graphics, packed in traditional mobile game format, for better
-  or for worse.
+slug: 2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii-margonem-adventures-full-review
+title: Is this a Mobile Minecraft RPG or Elder Scrolls II? | Margonem Adventures - Full Review
+game: Margonem
+description: Margonem Adventures is a first person RPG and 3D dungeon crawler with Minecraft looking graphics, packed in traditional mobile game format, for better or for worse.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-0.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-1.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-2.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-3.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-4.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-5.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-6.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-7.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-8.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-9.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-10.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-11.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-12.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-13.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-14.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-15.avif
+  - /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-16.avif
 pubDate: 2023-02-10
 tags:
-- margonem
-- massively multiplayer
-- mobile
-- pc
-- rpg
-- taptap
+  - margonem
+  - massively-multiplayer
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-0.avif
-title: Is this a Mobile Minecraft RPG or Elder Scrolls II? | Margonem Adventures -
-  Full Review
-game: Margonem
-gallery:
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-0.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-1.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-2.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-3.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-4.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-5.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-6.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-7.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-8.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-9.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-10.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-11.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-12.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-13.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-14.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-15.avif
-- /images/reviews/legacy/2023-02-10-is-this-a-mobile-minecraft-rpg-or-elder-scrolls-ii--margonem-adventures---full-review-16.avif
 ---
+
 Margonem Adventures is a first person RPG and 3D dungeon crawler with Minecraft looking graphics, packed in traditional mobile game format, for better or for worse.
 
 
-**Pros:**
 
 
-+Interesting deck building style of combat
-
-+A decent time-killer to play in short bursts
+## Pros
 
 
-**Cons:**
+
+## +Interesting deck building style of combat
+
+
+## +A decent time-killer to play in short bursts
+
+
+
+
+## Cons
 
 
 -Energy system to limit play

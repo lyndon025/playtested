@@ -1,40 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: After Resident Evil 2 and 3 were remade, the next logical target (aside
-  from Code Veronica) was a Resident Evil 4 remake. I was one of the naysayers back
-  then saying that Resident Evil 4, with its still decent 3D graphics, doesn’t need
-  a remake yet. Boy I was wrong. This first impression is all about me eating my words
-  and playing myself, because let me tell you, Resident Evil 4 Remake (or just Resident
-  Evil 4) is a beautiful reimagining of the 2005 masterpiece.
+slug: 2023-03-27-the-best-remake-capcom-has-put-out-so-far-first-impressions-resident-evil-4-remake
+title: The best remake Capcom has put out so far | First Impressions - Resident Evil 4 Remake
+game: Resident Evil 4
+description: After Resident Evil 2 and 3 were remade, the next logical target (aside from Code Veronica) was a Resident Evil 4 remake. I was one of the naysayers back then saying that Resident Evil 4, with its still decent 3D graphics, doesn’t need a remake yet. Boy I was wrong. This first impression is all about me eating my words and playing myself, because let me tell you, Resident Evil 4 Remake (or just Resident Evil 4) is a beautiful reimagining of the 2005 masterpiece.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-0.avif
+  - /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-1.avif
+  - /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-2.avif
+  - /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-3.avif
+  - /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-4.avif
+  - /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-5.avif
+  - /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-6.avif
+  - /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-7.avif
 pubDate: 2023-03-27
 tags:
-- action
-- adventure
-- console
-- ios
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- resident-evil-4
-- taptap
-- xbox series
+  - action
+  - adventure
+  - console
+  - ios
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - resident-evil-4
+  - taptap
+  - xbox-series
 thumb: /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-0.avif
-title: The best remake Capcom has put out so far | First Impressions - Resident Evil
-  4 Remake
-game: Resident Evil 4
-gallery:
-- /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-0.avif
-- /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-1.avif
-- /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-2.avif
-- /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-3.avif
-- /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-4.avif
-- /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-5.avif
-- /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-6.avif
-- /images/reviews/legacy/2023-03-27-the-best-remake-capcom-has-put-out-so-far--first-impressions---resident-evil-4-remake-7.avif
 ---
+
 After Resident Evil 2 and 3 were remade, the next logical target (aside from Code Veronica) was a Resident Evil 4 remake. I was one of the naysayers back then saying that Resident Evil 4, with its still decent 3D graphics, doesn’t need a remake yet. Boy I was wrong. This first impression is all about me eating my words and playing myself, because let me tell you, Resident Evil 4 Remake (or just Resident Evil 4) is a beautiful reimagining of the 2005 masterpiece.
 
 Immediately I was presented with the story introduction which expanded upon the original game further, with more details and scenes added to it, and more flashbacks to Resident Evil 2’s own remake that also featured Leon S. Kennedy as a then rookie cop. The exposition scenes and the initial prologue chapter are longer than I remember. It looks like the canon being used coming into this game is from the remake of the second game.

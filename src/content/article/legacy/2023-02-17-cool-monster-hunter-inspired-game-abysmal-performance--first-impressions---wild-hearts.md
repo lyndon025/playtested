@@ -1,39 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Wild Hearts is a new game that offers a unique blend of Monster Hunter-style
-  gameplay and Fortnite building mechanics: an ancient technology called Karakuri
-  magic. Players take on the role of a customizable hunter tasked with tracking down
-  and defeating massive monsters known as Kemono, which are negatively affecting the
-  world of Azuma and its inhabitants.'
+slug: 2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance-first-impressions-wild-hearts
+title: Cool Monster Hunter inspired game, abysmal performance | First Impressions - Wild Hearts
+game: Wild Hearts
+description: 'Wild Hearts is a new game that offers a unique blend of Monster Hunter-style gameplay and Fortnite building mechanics: an ancient technology called Karakuri magic. Players take on the role of a customizable hunter tasked with tracking down and defeating massive monsters known as Kemono, which are negatively affecting the world of Azuma and its inhabitants.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-0.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-1.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-2.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-3.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-4.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-5.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-6.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-7.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-8.avif
+  - /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-9.avif
 pubDate: 2023-02-17
 tags:
-- action
-- adventure
-- console
-- pc
-- playstation
-- playstation 5
-- taptap
-- wild-hearts
-- xbox series
+  - action
+  - adventure
+  - console
+  - pc
+  - playstation
+  - playstation-5
+  - taptap
+  - wild-hearts
+  - xbox-series
 thumb: /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-0.avif
-title: Cool Monster Hunter inspired game, abysmal performance | First Impressions
-  - Wild Hearts
-game: Wild Hearts
-gallery:
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-0.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-1.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-2.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-3.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-4.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-5.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-6.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-7.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-8.avif
-- /images/reviews/legacy/2023-02-17-cool-monster-hunter-inspired-game-abysmal-performance--first-impressions---wild-hearts-9.avif
 ---
+
 Wild Hearts is a new game that offers a unique blend of Monster Hunter-style gameplay and Fortnite building mechanics: an ancient technology called Karakuri magic. Players take on the role of a customizable hunter tasked with tracking down and defeating massive monsters known as Kemono, which are negatively affecting the world of Azuma and its inhabitants.
 
 The game features a mix of exploration, combat, base building, and crafting. While the game is not an open-world title, it offers several large areas for players to freely explore. Each area is packed with hidden secrets, crafting materials, and challenging enemies, from harmless creatures to gigantic monsters that offer a unique experience every time. The world of Azuma feels alive,  heavily inspired by Japanese and Chinese culture, which is evident in its design and aesthetics. The attention to detail in the environment and level design is impressive.

@@ -1,48 +1,54 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'The Doomsland: Survivors is a top down zombie shooter with rogue-lite
-  elements.'
+slug: 2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time-full-review-the-doomsland-survivors
+title: 'Fight through hordes of zombies, one room at a time | Full Review - The Doomsland: Survivors'
+game: 'The Doomsland: Survivors'
+description: 'The Doomsland: Survivors is a top down zombie shooter with rogue-lite elements.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-0.avif
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-1.avif
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-2.avif
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-3.avif
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-4.avif
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-5.avif
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-6.avif
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-7.avif
+  - /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-8.avif
 pubDate: 2023-04-07
 tags:
-- action
-- adventure
-- indie
-- macos
-- pc
-- rpg
-- simulation
-- strategy
-- taptap
-- the-doomsland-survivors
+  - action
+  - adventure
+  - indie
+  - macos
+  - pc
+  - rpg
+  - simulation
+  - strategy
+  - taptap
+  - the-doomsland-survivors
 thumb: /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-0.avif
-title: 'Fight through hordes of zombies, one room at a time | Full Review - The Doomsland:
-  Survivors'
-game: 'The Doomsland: Survivors'
-gallery:
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-0.avif
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-1.avif
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-2.avif
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-3.avif
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-4.avif
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-5.avif
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-6.avif
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-7.avif
-- /images/reviews/legacy/2023-04-07-fight-through-hordes-of-zombies-one-room-at-a-time--full-review---the-doomsland-survivors-8.avif
 ---
+
 The Doomsland: Survivors is a top down zombie shooter with rogue-lite elements.
 
 
-**Pros:**
 
 
-+A challenging rogue-lite experience
-
-+Interesting combat and random power-ups to select
+## Pros
 
 
-**Cons:**
+
+## +A challenging rogue-lite experience
+
+
+## +Interesting combat and random power-ups to select
+
+
+
+
+## Cons
 
 
 -Very hard difficulty even from the start

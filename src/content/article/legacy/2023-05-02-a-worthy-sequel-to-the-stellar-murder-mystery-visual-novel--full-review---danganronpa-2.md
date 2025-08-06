@@ -1,47 +1,47 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Danganronpa 2: Goodbye Despair Danganronpa 2: Goodbye Despair 8.3 Adventure
-  RPG'
+slug: 2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel-full-review-danganronpa-2
+title: A worthy sequel to the stellar murder mystery visual novel | Full Review - Danganronpa 2
+game: Danganronpa 2
+description: 'Danganronpa 2: Goodbye Despair Danganronpa 2: Goodbye Despair 8.3 Adventure RPG'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-0.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-1.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-2.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-3.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-4.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-5.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-6.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-7.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-8.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-9.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-10.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-11.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-12.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-13.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-14.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-15.avif
+  - /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-16.avif
 pubDate: 2023-05-02
 tags:
-- adventure
-- casual
-- console
-- danganronpa-2
-- ios
-- linux
-- macos
-- pc
-- playstation
-- playstation 4
-- ps vita
-- psp
-- taptap
+  - adventure
+  - casual
+  - console
+  - danganronpa-2
+  - ios
+  - linux
+  - macos
+  - pc
+  - playstation
+  - playstation-4
+  - ps-vita
+  - psp
+  - taptap
 thumb: /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-0.avif
-title: A worthy sequel to the stellar murder mystery visual novel | Full Review -
-  Danganronpa 2
-game: Danganronpa 2
-gallery:
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-0.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-1.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-2.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-3.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-4.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-5.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-6.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-7.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-8.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-9.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-10.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-11.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-12.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-13.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-14.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-15.avif
-- /images/reviews/legacy/2023-05-02-a-worthy-sequel-to-the-stellar-murder-mystery-visual-novel--full-review---danganronpa-2-16.avif
 ---
+
 Danganronpa 2: Goodbye Despair
 Danganronpa 2: Goodbye Despair
 8.3
@@ -51,19 +51,27 @@ RPG
 Danganronpa 2: Goodbye Despair is a murder mystery visual novel game, a sequel to the original Danganronpa game that still features the same adventure and investigative mechanics.
 
 
-**Pros:**
 
 
-+Compelling murder mystery premise
-
-+Large map and a refreshing environment
-
-+Story full of twists and turns
-
-+Catchy upbeat soundtrack
+## Pros
 
 
-**Cons:**
+
+## +Compelling murder mystery premise
+
+
+## +Large map and a refreshing environment
+
+
+## +Story full of twists and turns
+
+
+## +Catchy upbeat soundtrack
+
+
+
+
+## Cons
 
 
 -Exaggerated logic with some of the cases

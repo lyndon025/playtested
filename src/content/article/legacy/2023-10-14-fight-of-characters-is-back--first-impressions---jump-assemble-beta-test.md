@@ -1,24 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: More than 10 years ago, me and my friends used to play this popular Warcraft
-  III mod called "Fight of Characters". It's basically a Dota/MOBA like game that
-  instead features popular characters from popular Animes such as Dragon Ball, One
-  Piece, Naruto, and more.
+slug: 2023-10-14-fight-of-characters-is-back-first-impressions-jump-assemble-beta-test
+title: 'Fight of Characters is back?!? | First Impressions - JUMP: Assemble (Beta Test)'
+game: 'JUMP: Assemble (Beta Test)'
+description: More than 10 years ago, me and my friends used to play this popular Warcraft III mod called "Fight of Characters". It's basically a Dota/MOBA like game that instead features popular characters from popular Animes such as Dragon Ball, One Piece, Naruto, and more.
 featured: false
 pubDate: 2023-10-14
 tags:
-- casual
-- jump-assemble-beta-test
-- mobile
-- pc
-- strategy
-- taptap
+  - casual
+  - jump-assemble-beta-test
+  - mobile
+  - pc
+  - strategy
+  - taptap
 thumb: ''
-title: 'Fight of Characters is back?!? | First Impressions - JUMP: Assemble (Beta
-  Test)'
-game: 'JUMP: Assemble (Beta Test)'
 ---
+
 More than 10 years ago, me and my friends used to play this popular Warcraft III mod called "Fight of Characters". It's basically a Dota/MOBA like game that instead features popular characters from popular Animes such as Dragon Ball, One Piece, Naruto, and more.
 
 Well, JUMP: Assemble is exactly that game fully realized into full pledge MOBA for mobile devices, and it comes with official license from Weekly Shōnen Jump! It features characters from eighth different Weekly Shonen Jump properties: One Piece. Dragon Ball. Naruto. Bleach. Demon Slayer: Kimetsu no Yaiba, Jujutsu Kaisen, Undead, Unluck, Mashle: Magic and Muscles.

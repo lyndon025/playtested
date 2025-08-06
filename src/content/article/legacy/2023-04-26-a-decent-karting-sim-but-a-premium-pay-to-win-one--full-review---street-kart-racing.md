@@ -1,52 +1,58 @@
 ---
 author: lyndonguitar
 category: Review
-description: Street Kart Racing is a racing-sim featuring Go-Karts, real life racing
-  superstars, and real life tracks to play in. It’s focus is realism over arcade racing,
-  with the no nonsense catchphrase  “No Assist, No Excuses”.
+slug: 2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one-full-review-street-kart-racing
+title: A decent Karting Sim, but a premium pay-to-win one | Full Review - Street Kart Racing
+game: Street Kart Racing
+description: Street Kart Racing is a racing-sim featuring Go-Karts, real life racing superstars, and real life tracks to play in. It’s focus is realism over arcade racing, with the no nonsense catchphrase  “No Assist, No Excuses”.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-0.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-1.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-2.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-3.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-4.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-5.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-6.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-7.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-8.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-9.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-10.avif
+  - /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-11.avif
 pubDate: 2023-04-26
 tags:
-- ios
-- mobile
-- racing
-- simulation
-- street-kart-racing
-- taptap
+  - ios
+  - mobile
+  - racing
+  - simulation
+  - street-kart-racing
+  - taptap
 thumb: /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-0.avif
-title: A decent Karting Sim, but a premium pay-to-win one | Full Review - Street Kart
-  Racing
-game: Street Kart Racing
-gallery:
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-0.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-1.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-2.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-3.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-4.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-5.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-6.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-7.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-8.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-9.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-10.avif
-- /images/reviews/legacy/2023-04-26-a-decent-karting-sim-but-a-premium-pay-to-win-one--full-review---street-kart-racing-11.avif
 ---
+
 Street Kart Racing
 
 Street Kart Racing is a racing-sim featuring Go-Karts, real life racing superstars, and real life tracks to play in. It’s focus is realism over arcade racing, with the no nonsense catchphrase  “No Assist, No Excuses”.
 
 
-**Pros:**
 
 
-+Realistic driving physics
-
-+Photorealistic visuals
-
-+Real life tracks
+## Pros
 
 
-**Cons:**
+
+## +Realistic driving physics
+
+
+## +Photorealistic visuals
+
+
+## +Real life tracks
+
+
+
+
+## Cons
 
 
 -P2W mechanics on top of being a paid game

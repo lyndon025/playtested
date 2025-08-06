@@ -1,38 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: What if the idea of a city building game is turned on its head? Whereas
-  the main objective of the game is not to build a huge bustling city, but instead
-  to build a natural living world without any trace of technology or artificiality?
-  Terra Nil is exactly that game for a change. A strategy game where players construct
-  and deconstruct terraforming structures with the ultimate goal of restoring the
-  land.
-featured: false
-pubDate: 2023-03-31
-tags:
-- android
-- casual
-- indie
-- ios
-- linux
-- macos
-- pc
-- simulation
-- strategy
-- taptap
-- terra-nil
-thumb: /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-0.avif
+slug: 2023-03-31-restore-the-planet-one-step-at-a-time-first-impressions-terra-nil
 title: Restore the planet, one step at a time | First Impressions - Terra Nil
 game: Terra Nil
+description: What if the idea of a city building game is turned on its head? Whereas the main objective of the game is not to build a huge bustling city, but instead to build a natural living world without any trace of technology or artificiality? Terra Nil is exactly that game for a change. A strategy game where players construct and deconstruct terraforming structures with the ultimate goal of restoring the land.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-0.avif
-- /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-1.avif
-- /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-2.avif
-- /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-3.avif
-- /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-4.avif
-- /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-5.avif
-- /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-6.avif
+  - /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-0.avif
+  - /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-1.avif
+  - /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-2.avif
+  - /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-3.avif
+  - /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-4.avif
+  - /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-5.avif
+  - /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-6.avif
+pubDate: 2023-03-31
+tags:
+  - android
+  - casual
+  - indie
+  - ios
+  - linux
+  - macos
+  - pc
+  - simulation
+  - strategy
+  - taptap
+  - terra-nil
+thumb: /images/reviews/legacy/2023-03-31-restore-the-planet-one-step-at-a-time--first-impressions---terra-nil-0.avif
 ---
+
 What if the idea of a city building game is turned on its head? Whereas the main objective of the game is not to build a huge bustling city, but instead to build a natural living world without any trace of technology or artificiality? Terra Nil is exactly that game for a change. A strategy game where players construct and deconstruct terraforming structures with the ultimate goal of restoring the land.
 
 One of the things that got me hooked immediately was the therapeutic aspect. The Simcity 4-looking visuals look beautiful, there’s something in the art style that is highly mesmerizing. It’s a very soothing experience, coupled with a highly relaxing ambient music, it’s a tranquillizing game that just fits perfectly with what it advocates.

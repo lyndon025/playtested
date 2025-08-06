@@ -1,36 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-12-22-rampaging-titans-and-titan-hunting-mechas-for-pc-now-possible-on-mobile-cloud-gigabash
+title: Rampaging Titans and Titan-hunting Mechas for PC, now possible on Mobile (Cloud) | GigaBash
+game: Gigabash
 description: 'Pocket Playfest: An Indie Celebration 2023 Winter Edition'
 featured: false
 pubDate: 2023-12-22
 tags:
-- action
-- console
-- gigabash
-- indie
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- taptap
-- xbox one
+  - action
+  - console
+  - gigabash
+  - indie
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - taptap
+  - xbox-one
 thumb: ''
-title: Rampaging Titans and Titan-hunting Mechas for PC, now possible on Mobile (Cloud)
-  | GigaBash
-game: Gigabash
 ---
+
 Pocket Playfest: An Indie Celebration 2023 Winter Edition
 
 In a recent hands-on exclusive experience this past weekend, I had the privilege of testing a handful of titles on TapTap's experimental cloud gaming service, setting the stage for this 16-day event where indie game developers show-off their creations exclusively on the TapTap mobile platform — fully playable PC games without the need for an actual PC, Android/iOS version, or the need to download the games and install them.  Granted, you’d need to have a reliable internet service to be able to stream these games, and preferably are located in US and Canada for consistent play and latency, at least for now.
 
-🔗Join the Playfest
+
+## 🔗Join the Playfest
 
 TapTap Pocket Playfest 2023 Winter Edition
 https://www.taptap.io/events/playfest2023winter
 
-📅 Schedule
+
+## 📅 Schedule
 Dates: December 23, 12 AM PT - January 7, 11:59 PM PT.
 Playfest Winners & Player Rewards Announcement: January 8, 12 AM PT.
 

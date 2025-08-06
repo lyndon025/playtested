@@ -1,33 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dead by Daylight is a multiplayer survival horror game that has gained
-  immense popularity among gamers since its initial debut in 2016 for PC and consoles.
-  It was later made available for mobile devices in 2020. I tried out the recent revamped
-  mobile version of the game called Dead by Daylight Mobile and had the chance to
-  explore its various features and gameplay.
+slug: 2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed-first-impressions-dead-by-dayli
+title: Four survivors attempt to escape from being sacrificed | First Impressions - Dead by Daylight Mobile
+game: Dead by Daylight Mobile
+description: Dead by Daylight is a multiplayer survival horror game that has gained immense popularity among gamers since its initial debut in 2016 for PC and consoles. It was later made available for mobile devices in 2020. I tried out the recent revamped mobile version of the game called Dead by Daylight Mobile and had the chance to explore its various features and gameplay.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-0.avif
+  - /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-1.avif
+  - /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-2.avif
+  - /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-3.avif
+  - /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-4.avif
+  - /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-5.avif
+  - /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-6.avif
 pubDate: 2023-03-21
 tags:
-- action
-- dead-by-daylight-mobile
-- ios
-- mobile
-- rpg
-- taptap
+  - action
+  - dead-by-daylight-mobile
+  - ios
+  - mobile
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-0.avif
-title: Four survivors attempt to escape from being sacrificed | First Impressions
-  - Dead by Daylight Mobile
-game: Dead by Daylight Mobile
-gallery:
-- /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-0.avif
-- /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-1.avif
-- /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-2.avif
-- /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-3.avif
-- /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-4.avif
-- /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-5.avif
-- /images/reviews/legacy/2023-03-21-four-survivors-attempt-to-escape-from-being-sacrificed--first-impressions---dead-by-dayli-6.avif
 ---
+
 Dead by Daylight is a multiplayer survival horror game that has gained immense popularity among gamers since its initial debut in 2016 for PC and consoles. It was later made available for mobile devices in 2020. I tried out the recent revamped mobile version of the game called Dead by Daylight Mobile and had the chance to explore its various features and gameplay.
 
 The survivors form a team of four players, taken from a pool of a wide selection of characters, and play in third person view. Their goal is to repair all the generators in the map and activate the exit gate to escape. In many things that they do, such as healing, or repairing generators, there are QTE-like skill checks that you need to perform with a high risk-reward element. The whole premise is very simplistic, but is littered with many interesting elements that make the game exciting for both sides as it plays.

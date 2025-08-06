@@ -1,60 +1,67 @@
 ---
 author: lyndonguitar
 category: Review
-description: Minecraft Legends is an action strategy game set in the Minecraft universe
-  of video games. Released for Windows, Playstation, Xbox, and Nintendo Switch.
+slug: 2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off-full-review-minecraft-legends
+title: A charming and fun action-strategy Minecraft spin-off | Full Review - Minecraft Legends
+game: Minecraft Legends
+description: Minecraft Legends is an action strategy game set in the Minecraft universe of video games. Released for Windows, Playstation, Xbox, and Nintendo Switch.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-0.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-1.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-2.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-3.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-4.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-5.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-6.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-7.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-8.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-9.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-10.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-11.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-12.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-13.avif
+  - /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-14.avif
 pubDate: 2023-04-21
 tags:
-- adventure
-- console
-- minecraft-legends
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- xbox one
-- xbox series
+  - adventure
+  - console
+  - minecraft-legends
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-0.avif
-title: A charming and fun action-strategy Minecraft spin-off | Full Review - Minecraft
-  Legends
-game: Minecraft Legends
-gallery:
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-0.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-1.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-2.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-3.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-4.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-5.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-6.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-7.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-8.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-9.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-10.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-11.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-12.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-13.avif
-- /images/reviews/legacy/2023-04-21-a-charming-and-fun-action-strategy-minecraft-spin-off--full-review---minecraft-legends-14.avif
 ---
+
 Minecraft Legends
 Gameplay
 
 Minecraft Legends is an action strategy game set in the Minecraft universe of video games. Released for Windows, Playstation, Xbox, and Nintendo Switch.
 
 
-**Pros:**
 
 
-+Refreshing new take with its action strategy gameplay
-
-+Keeps the Minecraft feel and tone intact
-
-+Cooperative gameplay mode for the whole campaign
+## Pros
 
 
-**Cons:**
+
+## +Refreshing new take with its action strategy gameplay
+
+
+## +Keeps the Minecraft feel and tone intact
+
+
+## +Cooperative gameplay mode for the whole campaign
+
+
+
+
+## Cons
 
 
 -Main campaign is very short

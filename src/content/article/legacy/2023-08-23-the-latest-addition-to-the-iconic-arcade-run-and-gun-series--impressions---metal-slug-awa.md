@@ -1,28 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Metal Slug: Awakening, the latest addition to the Metal Slug series,
-  combines nostalgia with modern mobile gaming dynamics. While adhering to the classic
-  run-and-gun formula that fans adore, the game introduces a control scheme tailored
-  to touch controls, offering accessibility for players of all levels.  It even includes
-  an auto-target feature.'
+slug: 2023-08-23-the-latest-addition-to-the-iconic-arcade-run-and-gun-series-impressions-metal-slug-awa
+title: 'The latest addition to the iconic arcade run-and-gun series | Impressions - Metal Slug: Awakening'
+game: 'Metal Slug: Awakening'
+description: 'Metal Slug: Awakening, the latest addition to the Metal Slug series, combines nostalgia with modern mobile gaming dynamics. While adhering to the classic run-and-gun formula that fans adore, the game introduces a control scheme tailored to touch controls, offering accessibility for players of all levels.  It even includes an auto-target feature.'
 featured: false
 pubDate: 2023-08-23
 tags:
-- action
-- adventure
-- casual
-- massively multiplayer
-- metal-slug-awakening
-- mobile
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - casual
+  - massively-multiplayer
+  - metal-slug-awakening
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: 'The latest addition to the iconic arcade run-and-gun series | Impressions
-  - Metal Slug: Awakening'
-game: 'Metal Slug: Awakening'
 ---
+
 Metal Slug: Awakening, the latest addition to the Metal Slug series, combines nostalgia with modern mobile gaming dynamics. While adhering to the classic run-and-gun formula that fans adore, the game introduces a control scheme tailored to touch controls, offering accessibility for players of all levels.  It even includes an auto-target feature.
 
 The upgraded three-dimensional graphics within the familiar side-scrolling perspective adds a visual upgrade that retains the series' charm. Multiple playable characters that fans will love and recognize, diverse weaponry from conventional to outlandish, and engaging rides contribute to wide range of combat scenarios. Aside from the traditional chapter-ized story mode, the inclusion of a variety of game modes like PvP, Coop, and even a roguelite-esque game mode greatly enhances replay value.

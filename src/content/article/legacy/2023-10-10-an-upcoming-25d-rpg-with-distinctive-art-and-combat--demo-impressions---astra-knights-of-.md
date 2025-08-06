@@ -1,25 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'ASTRA: Knights of Veda is an upcoming 2.5D gacha RPG with a captivating
-  dark narrative and visually captivating art. It is set to release on PC, with a
-  demo already available for players to try, and a mobile version is also in development.
-  The gameplay in ASTRA shares similarities with titles such as Dragon Blaze and Astlibra
-  Revision, offering a hack and slash RPG experience.'
+slug: 2023-10-10-an-upcoming-25d-rpg-with-distinctive-art-and-combat-demo-impressions-astra-knights-of
+title: 'An upcoming 2.5D RPG with distinctive art and combat | Demo Impressions - ASTRA: Knights of Veda'
+game: 'Impressions - ASTRA: Knights of Veda'
+description: 'ASTRA: Knights of Veda is an upcoming 2.5D gacha RPG with a captivating dark narrative and visually captivating art. It is set to release on PC, with a demo already available for players to try, and a mobile version is also in development. The gameplay in ASTRA shares similarities with titles such as Dragon Blaze and Astlibra Revision, offering a hack and slash RPG experience.'
 featured: false
 pubDate: 2023-10-10
 tags:
-- action
-- impressions-astra-knights-of-veda
-- mobile
-- pc
-- rpg
-- taptap
+  - action
+  - impressions-astra-knights-of-veda
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: 'An upcoming 2.5D RPG with distinctive art and combat | Demo Impressions -
-  ASTRA: Knights of Veda'
-game: 'Impressions - ASTRA: Knights of Veda'
 ---
+
 ASTRA: Knights of Veda is an upcoming 2.5D gacha RPG with a captivating dark narrative and visually captivating art. It is set to release on PC, with a demo already available for players to try, and a mobile version is also in development. The gameplay in ASTRA shares similarities with titles such as Dragon Blaze and Astlibra Revision, offering a hack and slash RPG experience.
 
 The game starts slowly, requiring over an hour to complete the tutorial level and delve into gacha mechanics and the adventure mode. While the storyline is compelling with its dark and unsettling themes, the cutscenes tend to be overly lengthy, leading to pacing issues and excessive dialogue. Fortunately, you can fast forward through them while still comfortably grasping the story's essence, or you can outright skip the cutscenes if you prefer.

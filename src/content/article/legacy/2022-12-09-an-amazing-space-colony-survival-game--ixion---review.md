@@ -1,37 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: IXION is a new science fiction space opera, wrapped in a game where you
-  need to manage your state of the art colony ship “Tiqqun”. To ensure the survival
-  of humanity amidst the treacherous nature of space, and maybe explore the cosmos
-  and find a new habitable planet for them to colonize.
-featured: false
-pubDate: 2022-12-09
-tags:
-- indie
-- ixion
-- pc
-- simulation
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-0.avif
+slug: 2022-12-09-an-amazing-space-colony-survival-game-ixion-review
 title: An amazing space colony survival game | IXION - Review
 game: IXION
+description: IXION is a new science fiction space opera, wrapped in a game where you need to manage your state of the art colony ship “Tiqqun”. To ensure the survival of humanity amidst the treacherous nature of space, and maybe explore the cosmos and find a new habitable planet for them to colonize.
+featured: false
 gallery:
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-0.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-1.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-2.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-3.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-4.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-5.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-6.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-7.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-8.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-9.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-10.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-11.avif
-- /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-12.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-0.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-1.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-2.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-3.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-4.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-5.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-6.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-7.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-8.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-9.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-10.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-11.avif
+  - /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-12.avif
+pubDate: 2022-12-09
+tags:
+  - indie
+  - ixion
+  - pc
+  - simulation
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2022-12-09-an-amazing-space-colony-survival-game--ixion---review-0.avif
 ---
+
 IXION is a new science fiction space opera, wrapped in a game where you need to manage your state of the art colony ship “Tiqqun”. To ensure the survival of humanity amidst the treacherous nature of space, and maybe explore the cosmos and find a new habitable planet for them to colonize.
 
 IXION starts off on a high note, with a Hollywood level production value for its visually stunning presentation that is sustained throughout the whole game. Being a space exploration enthusiast myself, I got goosebumps at the introduction sequence with its grand premise and a matching angelic musical score. It honestly felt like a proper Hollywood opener, and not one that would typically open a PC colony sim game.

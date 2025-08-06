@@ -1,33 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Elderand is a 2D retro-inspired action platformer that has recently been
-  released, and it is not for the faint of heart.
-featured: false
-pubDate: 2023-02-18
-tags:
-- action
-- adventure
-- elderand
-- indie
-- pc
-- rpg
-- taptap
-thumb: /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif
+slug: 2023-02-18-this-retro-inspired-action-platformer-is-hard-first-impressions-elderand
 title: This retro-inspired action platformer is HARD | First Impressions - Elderand
 game: Elderand
+description: Elderand is a 2D retro-inspired action platformer that has recently been released, and it is not for the faint of heart.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-1.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-2.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-3.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-4.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-5.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-6.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-7.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-8.avif
-- /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-9.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-1.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-2.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-3.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-4.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-5.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-6.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-7.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-8.avif
+  - /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-9.avif
+pubDate: 2023-02-18
+tags:
+  - action
+  - adventure
+  - elderand
+  - indie
+  - pc
+  - rpg
+  - taptap
+thumb: /images/reviews/legacy/2023-02-18-this-retro-inspired-action-platformer-is-hard--first-impressions---elderand-0.avif
 ---
+
 Elderand is a 2D retro-inspired action platformer that has recently been released, and it is not for the faint of heart.
 
 You play as a mercenary chosen because of a mysterious prophecy to eradicate the land of evil. The game is a skill-based combat game where players must face terrifying creatures and beings to progress through the game.

@@ -1,29 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Myth: Gods of Asgard takes players on an epic adventure through a familiar
-  world based on Norse mythology. As a hack and slash action role-playing game, it
-  offers a unique and immersive experience, intense combat system, a rich narrative,
-  and stunning visuals. I was able to try out the Android version of the game, in
-  which a Closed Beta Test is scheduled for June 3, 2023'
+slug: 2023-06-01-a-visually-striking-hack-and-slash-norse-arpg-first-impressions-myth-gods-of-asgard
+title: 'A visually striking hack and slash Norse ARPG! | First Impressions - Myth: Gods of Asgard'
+game: 'Myth: Gods of Asgard'
+description: 'Myth: Gods of Asgard takes players on an epic adventure through a familiar world based on Norse mythology. As a hack and slash action role-playing game, it offers a unique and immersive experience, intense combat system, a rich narrative, and stunning visuals. I was able to try out the Android version of the game, in which a Closed Beta Test is scheduled for June 3, 2023'
 featured: false
 pubDate: 2023-06-01
 tags:
-- action
-- adventure
-- casual
-- indie
-- mobile
-- myth-gods-of-asgard
-- pc
-- rpg
-- strategy
-- taptap
+  - action
+  - adventure
+  - casual
+  - indie
+  - mobile
+  - myth-gods-of-asgard
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: ''
-title: 'A visually striking hack and slash Norse ARPG! | First Impressions - Myth:
-  Gods of Asgard'
-game: 'Myth: Gods of Asgard'
 ---
+
 Myth: Gods of Asgard takes players on an epic adventure through a familiar world based on Norse mythology. As a hack and slash action role-playing game, it offers a unique and immersive experience, intense combat system, a rich narrative, and stunning visuals. I was able to try out the Android version of the game, in which a Closed Beta Test is scheduled for June 3, 2023
 
 Players can expect to encounter, summon, or even control familiar gods, such as Odin, Sif, and Thor, while also discovering lesser-known figures from Norse lore. Myth: Gods of Asgard also features full-on voice acting, what I liked from this game is that despite the compelling story, the cutscenes and dialogue are short and are minimal. It jumps straight to the hack and slash actions for the most part.

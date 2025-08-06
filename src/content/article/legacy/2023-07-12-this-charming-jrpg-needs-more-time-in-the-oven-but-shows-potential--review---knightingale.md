@@ -1,56 +1,64 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Knightingale is an upcoming HD-2D RPG game with an adventurous
-  story, engaging turn-based combat, and traditional gacha mechanics.
+slug: 2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential-review-knightingale
+title: This charming JRPG needs more time in the oven, but shows potential | Review - Knightingale
+game: Knightingale
+description: lyndonguitar Knightingale is an upcoming HD-2D RPG game with an adventurous story, engaging turn-based combat, and traditional gacha mechanics.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-0.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-1.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-2.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-3.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-4.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-5.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-6.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-7.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-8.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-9.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-10.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-11.avif
+  - /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-12.avif
 pubDate: 2023-07-12
 tags:
-- action
-- adventure
-- knightingale
-- mobile
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - knightingale
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-0.avif
-title: This charming JRPG needs more time in the oven, but shows potential | Review
-  - Knightingale
-game: Knightingale
-gallery:
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-0.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-1.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-2.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-3.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-4.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-5.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-6.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-7.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-8.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-9.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-10.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-11.avif
-- /images/reviews/legacy/2023-07-12-this-charming-jrpg-needs-more-time-in-the-oven-but-shows-potential--review---knightingale-12.avif
 ---
+
 Knightingale
 
 lyndonguitar
 Knightingale is an upcoming HD-2D RPG game with an adventurous story, engaging turn-based combat, and traditional gacha mechanics.
 
 
-**Pros:**
 
 
-+Beautiful soundtrack
-
-+HD-2D graphics
-
-+Flexible weapon and ability mechanics
-
-+Skipping the story cutscene still gives you a text summary
+## Pros
 
 
-**Cons:**
+
+## +Beautiful soundtrack
+
+
+## +HD-2D graphics
+
+
+## +Flexible weapon and ability mechanics
+
+
+## +Skipping the story cutscene still gives you a text summary
+
+
+
+
+## Cons
 
 
 -Only runs in 16:9 aspect ratio; which doesn’t fit with the majority of mobile phones

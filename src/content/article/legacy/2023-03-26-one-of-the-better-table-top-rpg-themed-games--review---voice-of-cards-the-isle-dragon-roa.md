@@ -1,51 +1,56 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Voice of Cards: The Isle Dragon Roars is an RPG game with table-top
-  card-game inspired presentation and mechanics. Released in 2021 for the Playstation
-  4, Nintendo Switch, and PC, it has now been recently ported for Android and iOS
-  mobile platforms.'
+slug: 2023-03-26-one-of-the-better-table-top-rpg-themed-games-review-voice-of-cards-the-isle-dragon-roa
+title: 'One of the better table-top RPG themed games | Review - Voice of Cards: The Isle Dragon Roars'
+game: 'Voice of Cards: The Isle Dragon Roars'
+description: 'Voice of Cards: The Isle Dragon Roars is an RPG game with table-top card-game inspired presentation and mechanics. Released in 2021 for the Playstation 4, Nintendo Switch, and PC, it has now been recently ported for Android and iOS mobile platforms.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-0.avif
+  - /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-1.avif
+  - /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-2.avif
+  - /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-3.avif
+  - /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-4.avif
+  - /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-5.avif
+  - /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-6.avif
+  - /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-7.avif
 pubDate: 2023-03-26
 tags:
-- console
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- strategy
-- taptap
-- voice-of-cards-the-isle-dragon-roars
+  - console
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - strategy
+  - taptap
+  - voice-of-cards-the-isle-dragon-roars
 thumb: /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-0.avif
-title: 'One of the better table-top RPG themed games | Review - Voice of Cards: The
-  Isle Dragon Roars'
-game: 'Voice of Cards: The Isle Dragon Roars'
-gallery:
-- /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-0.avif
-- /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-1.avif
-- /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-2.avif
-- /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-3.avif
-- /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-4.avif
-- /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-5.avif
-- /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-6.avif
-- /images/reviews/legacy/2023-03-26-one-of-the-better-table-top-rpg-themed-games--review---voice-of-cards-the-isle-dragon-roa-7.avif
 ---
+
 Voice of Cards: The Isle Dragon Roars is an RPG game with table-top card-game inspired presentation and mechanics. Released in 2021 for the Playstation 4, Nintendo Switch, and PC, it has now been recently ported for Android and iOS mobile platforms.
 
 
-**Pros:**
 
 
-+Table-top RPG based aesthetic and gameplay
-
-+Engaging turn-based combat system
-
-+premium game with no ads, or pay-to-win mechanics, but there are purchasable cosmetics
+## Pros
 
 
-**Cons:**
+
+## +Table-top RPG based aesthetic and gameplay
+
+
+## +Engaging turn-based combat system
+
+
+## +premium game with no ads, or pay-to-win mechanics, but there are purchasable cosmetics
+
+
+
+
+## Cons
 
 
 -non-table-top RPG players might find the game slow paced

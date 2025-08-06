@@ -1,45 +1,42 @@
 ---
 author: lyndonguitar
 category: Review
-description: Nostalgia is a powerful thing, so powerful that the once bygone era of
-  16-bit video games is now back and currently an oversaturated market more than ever.
-  Every once in a while though, you find a gem worth playing. This time, it's titled
-  Chained Echoes, a nostalgic 16-bit JRPG game in a fantasy world where Dragons and
-  Mechas exist.
+slug: 2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world-chained-echoes-first-impre
+title: 16-bit JRPGs still have a place in this modern gaming world | Chained Echoes - First Impressions
+game: Chained Echoes
+description: Nostalgia is a powerful thing, so powerful that the once bygone era of 16-bit video games is now back and currently an oversaturated market more than ever. Every once in a while though, you find a gem worth playing. This time, it's titled Chained Echoes, a nostalgic 16-bit JRPG game in a fantasy world where Dragons and Mechas exist.
 featured: false
+gallery:
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-0.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-1.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-2.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-3.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-4.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-5.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-6.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-7.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-8.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-9.avif
+  - /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-10.avif
 pubDate: 2022-12-09
 tags:
-- chained-echoes
-- console
-- indie
-- linux
-- macos
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- taptap
-- xbox one
-- xbox series
+  - chained-echoes
+  - console
+  - indie
+  - linux
+  - macos
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-0.avif
-title: 16-bit JRPGs still have a place in this modern gaming world | Chained Echoes
-  - First Impressions
-game: Chained Echoes
-gallery:
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-0.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-1.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-2.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-3.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-4.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-5.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-6.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-7.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-8.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-9.avif
-- /images/reviews/legacy/2022-12-09-16-bit-jrpgs-still-have-a-place-in-this-modern-gaming-world--chained-echoes---first-impre-10.avif
 ---
+
 Nostalgia is a powerful thing, so powerful that the once bygone era of 16-bit video games is now back and currently an oversaturated market more than ever. Every once in a while though, you find a gem worth playing. This time, it's titled Chained Echoes, a nostalgic 16-bit JRPG game in a fantasy world where Dragons and Mechas exist.
 
 Chained Echoes takes place on the continent of Valandis, a land teeming with magic and rich history, currently ruled by three warring kingdoms: Taryn, Escanya, and Garvos. Mostly set one year after a massive catastrophe resulting in heavy casualties for everyone, which forced all three kingdoms to sign a peace treaty. This is where the main characters come in, to stop an impending resurgence of the war and if possible, end it for good.

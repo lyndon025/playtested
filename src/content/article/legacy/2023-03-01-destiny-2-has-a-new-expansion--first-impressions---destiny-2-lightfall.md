@@ -1,34 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Destiny 2: Lightfall comes with a new storyline, a new playable area,
-  and refined game mechanics to the long-standing popular MMORPG FPS game.'
-featured: false
-pubDate: 2023-03-01
-tags:
-- console
-- destiny-2-lightfall
-- massively multiplayer
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-0.avif
+slug: 2023-03-01-destiny-2-has-a-new-expansion-first-impressions-destiny-2-lightfall
 title: 'Destiny 2 has a new expansion! | First Impressions - Destiny 2: Lightfall'
 game: 'Destiny 2: Lightfall'
+description: 'Destiny 2: Lightfall comes with a new storyline, a new playable area, and refined game mechanics to the long-standing popular MMORPG FPS game.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-0.avif
-- /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-1.avif
-- /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-2.avif
-- /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-3.avif
-- /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-4.avif
-- /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-5.avif
-- /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-6.avif
-- /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-7.avif
+  - /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-0.avif
+  - /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-1.avif
+  - /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-2.avif
+  - /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-3.avif
+  - /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-4.avif
+  - /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-5.avif
+  - /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-6.avif
+  - /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-7.avif
+pubDate: 2023-03-01
+tags:
+  - console
+  - destiny-2-lightfall
+  - massively-multiplayer
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-03-01-destiny-2-has-a-new-expansion--first-impressions---destiny-2-lightfall-0.avif
 ---
+
 Destiny 2: Lightfall comes with a new storyline, a new playable area, and refined game mechanics to the long-standing popular MMORPG FPS game.
 
 For the uninitiated, the base game - Destiny 2, is a free-to-play MMORPG FPS game where players take on the role of a Guardian, a protector of Earth's last city, and engage in various activities such as story missions, strikes, raids, and PvP battles.

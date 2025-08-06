@@ -1,40 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Get Snowbreak: Containment Zone is a third person PVE-shooter
-  set in a futuristic post-apocalyptic world featuring AAA level of visuals, waifu
-  characters, and gacha gaming mechanics.'
+slug: 2023-05-31-fun-gunplay-meets-cute-gacha-girls-closed-beta-review-snowbreak-containment-zone
+title: 'Fun gunplay meets cute gacha girls | Closed Beta Review - Snowbreak: Containment Zone'
+game: 'Snowbreak: Containment Zone'
+description: 'lyndonguitar Get Snowbreak: Containment Zone is a third person PVE-shooter set in a futuristic post-apocalyptic world featuring AAA level of visuals, waifu characters, and gacha gaming mechanics.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-0.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-1.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-2.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-3.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-4.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-5.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-6.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-7.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-8.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-9.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-10.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-11.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-12.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-13.avif
+  - /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-14.avif
 pubDate: 2023-05-31
 tags:
-- action
-- adventure
-- mobile
-- pc
-- rpg
-- snowbreak-containment-zone
-- taptap
+  - action
+  - adventure
+  - mobile
+  - pc
+  - rpg
+  - snowbreak-containment-zone
+  - taptap
 thumb: /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-0.avif
-title: 'Fun gunplay meets cute gacha girls | Closed Beta Review - Snowbreak: Containment
-  Zone'
-game: 'Snowbreak: Containment Zone'
-gallery:
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-0.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-1.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-2.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-3.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-4.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-5.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-6.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-7.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-8.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-9.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-10.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-11.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-12.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-13.avif
-- /images/reviews/legacy/2023-05-31-fun-gunplay-meets-cute-gacha-girls--closed-beta-review---snowbreak-containment-zone-14.avif
 ---
+
 Snowbreak: Containment ZoneGlobal
 
 lyndonguitar
@@ -42,21 +41,30 @@ Get
 Snowbreak: Containment Zone is a third person PVE-shooter set in a futuristic post-apocalyptic world featuring AAA level of visuals, waifu characters, and gacha gaming mechanics.
 
 
-**Pros:**
 
 
-+Amazing gunplay and shooter gameplay
-
-+Beautiful character designs and abilities
-
-+Stunning AAA level of visuals
-
-+Intriguing storyline
-
-+Controller support
+## Pros
 
 
-**Cons:**
+
+## +Amazing gunplay and shooter gameplay
+
+
+## +Beautiful character designs and abilities
+
+
+## +Stunning AAA level of visuals
+
+
+## +Intriguing storyline
+
+
+## +Controller support
+
+
+
+
+## Cons
 
 
 -Lackluster enemy AI

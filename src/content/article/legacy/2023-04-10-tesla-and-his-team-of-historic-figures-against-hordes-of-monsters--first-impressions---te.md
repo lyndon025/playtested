@@ -1,41 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tesla Force is set in a world where Nikola Tesla's inventions have started
-  glitching and are opening portals around the world, spawning beings from another
-  dimension that mostly resembles lovecraftian horror beings. It’s up to Nikola Tesla
-  himself and his ragtag group of historical figures to stop this madness once and
-  for all.
+slug: 2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters-first-impressions-te
+title: Tesla and his team of historic figures against hordes of monsters | First Impressions - Tesla Force
+game: Tesla Force
+description: Tesla Force is set in a world where Nikola Tesla's inventions have started glitching and are opening portals around the world, spawning beings from another dimension that mostly resembles lovecraftian horror beings. It’s up to Nikola Tesla himself and his ragtag group of historical figures to stop this madness once and for all.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-0.avif
+  - /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-1.avif
+  - /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-2.avif
+  - /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-3.avif
+  - /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-4.avif
+  - /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-5.avif
 pubDate: 2023-04-10
 tags:
-- action
-- adventure
-- arcade
-- console
-- indie
-- ios
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- shooter
-- taptap
-- tesla-force
-- xbox one
+  - action
+  - adventure
+  - arcade
+  - console
+  - indie
+  - ios
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - shooter
+  - taptap
+  - tesla-force
+  - xbox-one
 thumb: /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-0.avif
-title: Tesla and his team of historic figures against hordes of monsters | First Impressions
-  - Tesla Force
-game: Tesla Force
-gallery:
-- /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-0.avif
-- /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-1.avif
-- /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-2.avif
-- /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-3.avif
-- /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-4.avif
-- /images/reviews/legacy/2023-04-10-tesla-and-his-team-of-historic-figures-against-hordes-of-monsters--first-impressions---te-5.avif
 ---
+
 Tesla Force is set in a world where Nikola Tesla's inventions have started glitching and are opening portals around the world, spawning beings from another dimension that mostly resembles lovecraftian horror beings. It’s up to Nikola Tesla himself and his ragtag group of historical figures to stop this madness once and for all.
 
 Players can play as one of the four characters – Tesla, Lovecraft, Curie, and Shelley; and embark on a rogue-lite progression campaign with the characters using various electropunk-based weapons, abilities, and technologies to battle and kill monsters.

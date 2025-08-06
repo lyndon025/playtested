@@ -1,32 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: If you’re looking for a martial arts game that will remind you of the
-  classic kung-fu movies you loved as a kid (maybe until now), SIFU has got it for
-  you. Finally, It is now released for the Nintendo Switch.
-featured: false
-pubDate: 2022-11-10
-tags:
-- action
-- console
-- fighting
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- sifu
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif
+slug: 2022-11-10-finally-a-proper-kung-fu-game-sifu-short-review
 title: 'Finally, a proper Kung fu game! | SIFU: Short Review'
 game: Sifu
+description: If you’re looking for a martial arts game that will remind you of the classic kung-fu movies you loved as a kid (maybe until now), SIFU has got it for you. Finally, It is now released for the Nintendo Switch.
+featured: false
 gallery:
-- /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif
-- /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-1.avif
-- /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-2.avif
+  - /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif
+  - /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-1.avif
+  - /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-2.avif
+pubDate: 2022-11-10
+tags:
+  - action
+  - console
+  - fighting
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - sifu
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif
 ---
+
 SIFU (Nintendo Switch) - Short Review
 
 If you’re looking for a martial arts game that will remind you of the classic kung-fu movies you loved as a kid (maybe until now), SIFU has got it for you. Finally, It is now released for the Nintendo Switch.

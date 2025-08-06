@@ -1,26 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: Recently, I had the opportunity to try Wizard of Legend Mobile, the mobile
-  port of the popular Wizard of Legend originally released on PC in 2018 and on other
-  consoles.  Well, it's basically the same game just on your mobile phone.
+slug: 2023-10-27-this-spellcasting-rogue-lite-hit-is-now-on-mobile-impressions-wizard-of-legend-mobile
+title: This spellcasting rogue-lite hit is now on mobile | Impressions - Wizard of Legend Mobile
+game: Wizard of Legend Mobile
+description: Recently, I had the opportunity to try Wizard of Legend Mobile, the mobile port of the popular Wizard of Legend originally released on PC in 2018 and on other consoles.  Well, it's basically the same game just on your mobile phone.
 featured: false
 pubDate: 2023-10-27
 tags:
-- action
-- indie
-- linux
-- macos
-- mobile
-- pc
-- rpg
-- taptap
-- wizard-of-legend-mobile
+  - action
+  - indie
+  - linux
+  - macos
+  - mobile
+  - pc
+  - rpg
+  - taptap
+  - wizard-of-legend-mobile
 thumb: ''
-title: This spellcasting rogue-lite hit is now on mobile | Impressions - Wizard of
-  Legend Mobile
-game: Wizard of Legend Mobile
 ---
+
 Recently, I had the opportunity to try Wizard of Legend Mobile, the mobile port of the popular Wizard of Legend originally released on PC in 2018 and on other consoles.  Well, it's basically the same game just on your mobile phone.
 
 Wizard of Legend Mobile is all about action-packed spell casting combat and roguelike dungeon crawling. The game thrusts you into the role of an up and coming wizard who must overcome the yearly Chaos Trials, a series of magical challenges that test your spellcasting skills and combat prowess. From the get-go, the action is relentless, and the game is very difficult to both play and progress into.

@@ -1,61 +1,68 @@
 ---
 author: lyndonguitar
 category: Review
-description: Kerbal Space Program 2 is now released in Early Access. Is it a decent
-  follow-up to one of the greatest spacecraft physics simulation games of all time
-  — Kerbal Space Program?
-featured: false
-pubDate: 2023-02-26
-tags:
-- console
-- educational
-- indie
-- kerbal-space-program-2
-- mobile
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- simulation
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-0.avif
+slug: 2023-02-26-a-sluggish-early-access-lift-off-full-review-kerbal-space-program-2
 title: A sluggish Early Access lift-off | Full Review - Kerbal Space Program 2
 game: Kerbal Space Program 2
+description: Kerbal Space Program 2 is now released in Early Access. Is it a decent follow-up to one of the greatest spacecraft physics simulation games of all time — Kerbal Space Program?
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-0.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-1.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-2.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-3.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-4.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-5.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-6.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-7.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-8.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-9.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-10.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-11.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-12.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-13.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-14.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-15.avif
-- /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-16.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-0.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-1.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-2.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-3.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-4.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-5.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-6.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-7.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-8.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-9.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-10.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-11.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-12.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-13.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-14.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-15.avif
+  - /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-16.avif
+pubDate: 2023-02-26
+tags:
+  - console
+  - educational
+  - indie
+  - kerbal-space-program-2
+  - mobile
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - simulation
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-0.avif
 ---
+
 Kerbal Space Program 2 is now released in Early Access. Is it a decent follow-up to one of the greatest spacecraft physics simulation games of all time — Kerbal Space Program?
 
 
-**Pros:**
 
 
-+A highly educational game about real-life spacecraft physics
-
-+Highly accurate simulation of space orbits
-
-+A good foundation is laid for future content
+## Pros
 
 
-**Cons:**
+
+## +A highly educational game about real-life spacecraft physics
+
+
+## +Highly accurate simulation of space orbits
+
+
+## +A good foundation is laid for future content
+
+
+
+
+## Cons
 
 
 -Missing even the core features from the first game

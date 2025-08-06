@@ -1,56 +1,65 @@
 ---
 author: lyndonguitar
 category: Review
-description: WHAT THE CAR? Is an absurd “racing” game featuring an ever evolving race
-  car that is just about everything you could think of except being an actual car.
-featured: false
-pubDate: 2023-05-09
-tags:
-- action
-- adventure
-- casual
-- indie
-- ios
-- macos
-- mobile
-- pc
-- racing
-- taptap
-- what-the-car
-thumb: /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif
+slug: 2023-05-09-fun-funny-and-goofy-full-review-what-the-car
 title: Fun, Funny, and Goofy | Full Review - WHAT THE CAR?
 game: WHAT THE CAR?
+description: WHAT THE CAR? Is an absurd “racing” game featuring an ever evolving race car that is just about everything you could think of except being an actual car.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-1.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-2.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-3.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-4.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-5.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-6.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-7.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-8.avif
-- /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-9.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-1.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-2.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-3.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-4.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-5.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-6.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-7.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-8.avif
+  - /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-9.avif
+pubDate: 2023-05-09
+tags:
+  - action
+  - adventure
+  - casual
+  - indie
+  - ios
+  - macos
+  - mobile
+  - pc
+  - racing
+  - taptap
+  - what-the-car
+thumb: /images/reviews/legacy/2023-05-09-fun-funny-and-goofy--full-review---what-the-car-0.avif
 ---
+
 WHAT THE CAR?
 Gameplay
 
 WHAT THE CAR? Is an absurd “racing” game featuring an ever evolving race car that is just about everything you could think of except being an actual car.
 
 
-**Pros:**
 
 
-+Fun engaging racing game with hundreds of unique levels
-
-+Different car mechanics for every episode and chapters
-
-+Full of car-centric quips, jokes, and a humorous soundtrack to boot
-
-+Level editor
+## Pros
 
 
-**Cons:**
+
+## +Fun engaging racing game with hundreds of unique levels
+
+
+## +Different car mechanics for every episode and chapters
+
+
+## +Full of car-centric quips, jokes, and a humorous soundtrack to boot
+
+
+## +Level editor
+
+
+
+
+## Cons
 
 
 -No ‘wheel-to-wheel’ real racing

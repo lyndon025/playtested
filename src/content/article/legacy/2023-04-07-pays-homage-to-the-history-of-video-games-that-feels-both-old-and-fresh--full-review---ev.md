@@ -1,62 +1,70 @@
 ---
 author: lyndonguitar
 category: Review
-description: Evoland 2 is a classic / modern adventure RPG game with a time-traveling
-  theme, not just with the settings, but with whole video game eras and genres altogether.
+slug: 2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh-full-review-ev
+title: Pays homage to the history of video games that feels both old and fresh | Full Review - Evoland 2
+game: Evoland 2
+description: Evoland 2 is a classic / modern adventure RPG game with a time-traveling theme, not just with the settings, but with whole video game eras and genres altogether.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-0.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-1.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-2.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-3.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-4.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-5.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-6.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-7.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-8.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-9.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-10.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-11.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-12.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-13.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-14.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-15.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-16.avif
+  - /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-17.avif
 pubDate: 2023-04-07
 tags:
-- action
-- adventure
-- android
-- arcade
-- evoland-2
-- indie
-- ios
-- macos
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - android
+  - arcade
+  - evoland-2
+  - indie
+  - ios
+  - macos
+  - pc
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-0.avif
-title: Pays homage to the history of video games that feels both old and fresh | Full
-  Review - Evoland 2
-game: Evoland 2
-gallery:
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-0.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-1.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-2.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-3.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-4.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-5.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-6.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-7.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-8.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-9.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-10.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-11.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-12.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-13.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-14.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-15.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-16.avif
-- /images/reviews/legacy/2023-04-07-pays-homage-to-the-history-of-video-games-that-feels-both-old-and-fresh--full-review---ev-17.avif
 ---
+
 Evoland 2 is a classic / modern adventure RPG game with a time-traveling theme, not just with the settings, but with whole video game eras and genres altogether.
 
 
-**Pros:**
 
 
-+Unique alternating blend of different game styles and mechanics across video game history
-
-+Cohesive time-traveling narrative
-
-+Colorful cast of charming characters
-
-+Controller Support
+## Pros
 
 
-**Cons:**
+
+## +Unique alternating blend of different game styles and mechanics across video game history
+
+
+## +Cohesive time-traveling narrative
+
+
+## +Colorful cast of charming characters
+
+
+## +Controller Support
+
+
+
+
+## Cons
 
 
 -Difficult to use touch controls

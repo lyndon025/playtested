@@ -1,30 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Kemono Friends: Kingdom is an upcoming gacha game featuring cute waifu
-  characters wearing animal themed outfits. It is currently tagged as coming soon
-  for both Android, with pre-registration now available, while the iOS version is
-  available for Malaysia and Singapore regions.'
+slug: 2023-04-25-collect-waifu-animal-girls-save-the-park-pre-reg-now-available-kemono-friends-kingdom
+title: 'Collect waifu animal girls, save the park | Pre-reg now available - Kemono Friends: Kingdom'
+game: 'Pre-reg now available - Kemono Friends: Kingdom'
+description: 'Kemono Friends: Kingdom is an upcoming gacha game featuring cute waifu characters wearing animal themed outfits. It is currently tagged as coming soon for both Android, with pre-registration now available, while the iOS version is available for Malaysia and Singapore regions.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-0.avif
+  - /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-1.avif
+  - /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-2.avif
+  - /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-3.avif
+  - /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-4.avif
 pubDate: 2023-04-25
 tags:
-- action
-- adventure
-- mobile
-- pc
-- pre-reg-now-available-kemono-friends-kingdom
-- taptap
+  - action
+  - adventure
+  - mobile
+  - pc
+  - pre-reg-now-available-kemono-friends-kingdom
+  - taptap
 thumb: /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-0.avif
-title: 'Collect waifu animal girls, save the park | Pre-reg now available - Kemono
-  Friends: Kingdom'
-game: 'Pre-reg now available - Kemono Friends: Kingdom'
-gallery:
-- /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-0.avif
-- /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-1.avif
-- /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-2.avif
-- /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-3.avif
-- /images/reviews/legacy/2023-04-25-collect-waifu-animal-girls-save-the-park--pre-reg-now-available---kemono-friends-kingdom-4.avif
 ---
+
 Kemono Friends: KingdomGlobal
 8.6
 Strategy

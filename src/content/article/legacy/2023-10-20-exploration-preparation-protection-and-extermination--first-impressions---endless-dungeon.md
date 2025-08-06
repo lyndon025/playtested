@@ -1,30 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: In Endless Dungeon, you explore a mysterious abandoned space station
-  alongside other stranded heroes. Prepare for the dangers that lie ahead by managing
-  your resources and constructing defenses, protecting the Crystal Bot from harm,
-  and eliminating any hostiles that stand ready to kill you, be they monsters, bugs,
-  or robots.
+slug: 2023-10-20-exploration-preparation-protection-and-extermination-first-impressions-endless-dungeon
+title: Exploration, preparation, protection, and extermination | First Impressions - ENDLESS Dungeon
+game: Endless Dungeon
+description: In Endless Dungeon, you explore a mysterious abandoned space station alongside other stranded heroes. Prepare for the dangers that lie ahead by managing your resources and constructing defenses, protecting the Crystal Bot from harm, and eliminating any hostiles that stand ready to kill you, be they monsters, bugs, or robots.
 featured: false
 pubDate: 2023-10-20
 tags:
-- action
-- console
-- endless-dungeon
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- strategy
-- taptap
-- xbox series
+  - action
+  - console
+  - endless-dungeon
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - strategy
+  - taptap
+  - xbox-series
 thumb: ''
-title: Exploration, preparation, protection, and extermination | First Impressions
-  - ENDLESS Dungeon
-game: Endless Dungeon
 ---
+
 In Endless Dungeon, you explore a mysterious abandoned space station alongside other stranded heroes. Prepare for the dangers that lie ahead by managing your resources and constructing defenses, protecting the Crystal Bot from harm, and eliminating any hostiles that stand ready to kill you, be they monsters, bugs, or robots.
 
 The game hooks you right in from the very start, from its initial tutorial to its actual rogue-lite gameplay, you’d want to keep playing for more. The objective: reach the core or perish in the attempt, and then try again with better knowledge and gear, rinse and repeat. Whether played solo or with friends, Endless Dungeon offers a fun-filled addicting experience.

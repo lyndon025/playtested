@@ -1,35 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Stranded on a hostile alien planet, crew is missing, you need to survive
-  in this third person sci-fi shooter game - Scars Above.
-featured: false
-pubDate: 2023-03-02
-tags:
-- action
-- adventure
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- scars-above
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-0.avif
+slug: 2023-03-02-shoot-your-way-out-of-this-alien-planet-first-impressions-scars-above
 title: Shoot your way out of this alien planet | First Impressions - Scars Above
 game: Scars Above
+description: Stranded on a hostile alien planet, crew is missing, you need to survive in this third person sci-fi shooter game - Scars Above.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-0.avif
-- /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-1.avif
-- /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-2.avif
-- /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-3.avif
-- /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-4.avif
-- /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-5.avif
-- /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-6.avif
-- /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-7.avif
+  - /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-0.avif
+  - /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-1.avif
+  - /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-2.avif
+  - /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-3.avif
+  - /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-4.avif
+  - /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-5.avif
+  - /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-6.avif
+  - /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-7.avif
+pubDate: 2023-03-02
+tags:
+  - action
+  - adventure
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - scars-above
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-03-02-shoot-your-way-out-of-this-alien-planet--first-impressions---scars-above-0.avif
 ---
+
 Stranded on a hostile alien planet, crew is missing, you need to survive in this third person sci-fi shooter game - Scars Above.
 
 The entire gameplay premise of Scars Above reminds me of Returnal: alone, stranded on a strange alien world, and you have to survive amongst hostile alien creatures while uncovering the mystery behind it all. The comparisons end there, as the gameplay and story is vastly different.

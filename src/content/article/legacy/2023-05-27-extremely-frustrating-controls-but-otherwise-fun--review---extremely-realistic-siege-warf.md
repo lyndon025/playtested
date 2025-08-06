@@ -1,40 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Extremely Realistic Siege Warfare Simulator is a real-time strategy sandbox
-  simulation game of medieval siege warfare. The title itself serves as a description
-  of the game, although the phrase "Extremely Realistic" is somewhat exaggerated and
-  meant in a lighthearted, humorous manner.
+slug: 2023-05-27-extremely-frustrating-controls-but-otherwise-fun-review-extremely-realistic-siege-warf
+title: Extremely frustrating controls but otherwise fun | Review - Extremely Realistic Siege Warfare Sim
+game: Extremely Realistic Siege Warfare Sim
+description: Extremely Realistic Siege Warfare Simulator is a real-time strategy sandbox simulation game of medieval siege warfare. The title itself serves as a description of the game, although the phrase "Extremely Realistic" is somewhat exaggerated and meant in a lighthearted, humorous manner.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-0.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-1.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-2.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-3.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-4.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-5.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-6.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-7.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-8.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-9.avif
+  - /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-10.avif
 pubDate: 2023-05-27
 tags:
-- action
-- casual
-- extremely-realistic-siege-warfare-sim
-- indie
-- macos
-- mobile
-- pc
-- simulation
-- strategy
-- taptap
+  - action
+  - casual
+  - extremely-realistic-siege-warfare-sim
+  - indie
+  - macos
+  - mobile
+  - pc
+  - simulation
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-0.avif
-title: Extremely frustrating controls but otherwise fun | Review - Extremely Realistic
-  Siege Warfare Sim
-game: Extremely Realistic Siege Warfare Sim
-gallery:
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-0.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-1.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-2.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-3.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-4.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-5.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-6.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-7.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-8.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-9.avif
-- /images/reviews/legacy/2023-05-27-extremely-frustrating-controls-but-otherwise-fun--review---extremely-realistic-siege-warf-10.avif
 ---
+
 Extremely Realistic Siege Warfare Simulator
 
 lyndonguitar
@@ -44,17 +42,24 @@ Gameplay
 Extremely Realistic Siege Warfare Simulator is a real-time strategy sandbox simulation game of medieval siege warfare. The title itself serves as a description of the game, although the phrase "Extremely Realistic" is somewhat exaggerated and meant in a lighthearted, humorous manner.
 
 
-**Pros:**
 
 
-+Physics-based combat that is both entertaining and engaging
-
-+Variety of gameplay modes: multiplayer, singleplayer, co-op
-
-+Challenging variety of missions and keeps players engaged
+## Pros
 
 
-**Cons:**
+
+## +Physics-based combat that is both entertaining and engaging
+
+
+## +Variety of gameplay modes: multiplayer, singleplayer, co-op
+
+
+## +Challenging variety of missions and keeps players engaged
+
+
+
+
+## Cons
 
 
 -Frustrating control issues, with the camera and selecting units

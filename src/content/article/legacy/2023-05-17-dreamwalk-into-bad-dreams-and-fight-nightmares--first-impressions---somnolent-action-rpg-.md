@@ -1,35 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: The eponymous Somnolent is a world called the dreamcatcher where the
-  game is also set. It is a place where good dreams pass through, while bad dreams
-  get stuck. In layman's terms, Somnolent functions as a filter. This requires the
-  dreamwalkers — warriors summoned to defend dreams — to constantly purge Somnolent
-  of the bad dreams that get trapped in the lands and the nightmarish monsters spawned
-  by them.
+slug: 2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares-first-impressions-somnolent-action-rpg
+title: 'Dreamwalk into bad dreams and fight nightmares | First Impressions - Somnolent: Action RPG Fantasy'
+game: 'Somnolent: Action RPG Fantasy'
+description: The eponymous Somnolent is a world called the dreamcatcher where the game is also set. It is a place where good dreams pass through, while bad dreams get stuck. In layman's terms, Somnolent functions as a filter. This requires the dreamwalkers — warriors summoned to defend dreams — to constantly purge Somnolent of the bad dreams that get trapped in the lands and the nightmarish monsters spawned by them.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--0.avif
+  - /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--1.avif
+  - /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--2.avif
+  - /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--3.avif
+  - /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--4.avif
+  - /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--5.avif
+  - /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--6.avif
+  - /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--7.avif
 pubDate: 2023-05-17
 tags:
-- action
-- ios
-- mobile
-- rpg
-- somnolent-action-rpg-fantasy
-- taptap
+  - action
+  - ios
+  - mobile
+  - rpg
+  - somnolent-action-rpg-fantasy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--0.avif
-title: 'Dreamwalk into bad dreams and fight nightmares | First Impressions - Somnolent:
-  Action RPG Fantasy'
-game: 'Somnolent: Action RPG Fantasy'
-gallery:
-- /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--0.avif
-- /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--1.avif
-- /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--2.avif
-- /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--3.avif
-- /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--4.avif
-- /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--5.avif
-- /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--6.avif
-- /images/reviews/legacy/2023-05-17-dreamwalk-into-bad-dreams-and-fight-nightmares--first-impressions---somnolent-action-rpg--7.avif
 ---
+
 Somnolent: Action RPG Fantasy
 5.9
 RPG

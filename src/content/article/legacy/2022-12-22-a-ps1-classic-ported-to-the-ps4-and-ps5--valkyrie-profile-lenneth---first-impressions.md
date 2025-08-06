@@ -1,36 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release
-  the Valkyrie Profile: Lenneth, the recent mobile ports, to now its modern PS4 and
-  PS5 release.'
+slug: 2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5-valkyrie-profile-lenneth-first-impressions
+title: 'A PS1 classic ported to the PS4 and PS5 | Valkyrie Profile: Lenneth - First Impressions'
+game: 'Valkyrie Profile: Lenneth'
+description: 'Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release the Valkyrie Profile: Lenneth, the recent mobile ports, to now its modern PS4 and PS5 release.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-0.avif
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-1.avif
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-2.avif
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-3.avif
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-4.avif
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-5.avif
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-6.avif
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-7.avif
+  - /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-8.avif
 pubDate: 2022-12-22
 tags:
-- console
-- mobile
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- simulation
-- taptap
-- valkyrie-profile-lenneth
+  - console
+  - mobile
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - simulation
+  - taptap
+  - valkyrie-profile-lenneth
 thumb: /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-0.avif
-title: 'A PS1 classic ported to the PS4 and PS5 | Valkyrie Profile: Lenneth - First
-  Impressions'
-game: 'Valkyrie Profile: Lenneth'
-gallery:
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-0.avif
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-1.avif
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-2.avif
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-3.avif
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-4.avif
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-5.avif
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-6.avif
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-7.avif
-- /images/reviews/legacy/2022-12-22-a-ps1-classic-ported-to-the-ps4-and-ps5--valkyrie-profile-lenneth---first-impressions-8.avif
 ---
+
 Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release the Valkyrie Profile: Lenneth, the recent mobile ports, to now its modern PS4 and PS5 release.
 
 While there are multiple playable characters and party members in Valkyrie Profile: Lenneth, you primarily control Lenneth, the primary protagonist and a lady warrior serving Odin, tasked with recruiting the Einherjar — fallen heroes who have died in battle — to fight in the impending Ragnarok. Concepts in which we all are too familiar with recent Norse mythology games like God of War, Assassin’s Creed, and even Valheim, coming out recently.

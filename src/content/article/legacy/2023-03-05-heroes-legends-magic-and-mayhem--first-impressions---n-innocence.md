@@ -1,33 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: N-INNOCENCE is a mobile game that takes you on a journey through a world
-  of heroes, legends, magic, and mayhem. With its gacha-infused side-scrolling RPG
-  fighting gameplay, this game offers a unique experience that is both addicting and
-  exciting. It is currently out now at a limited capacity, for North American Regions
-  only on both Android and iOS.
-featured: false
-pubDate: 2023-03-05
-tags:
-- action
-- mobile
-- n-innocence
-- playstation 2
-- playstation 3
-- taptap
-thumb: /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-0.avif
+slug: 2023-03-05-heroes-legends-magic-and-mayhem-first-impressions-n-innocence
 title: Heroes, legends, magic, and mayhem | First Impressions - N-INNOCENCE
 game: N-INNOCENCE
+description: N-INNOCENCE is a mobile game that takes you on a journey through a world of heroes, legends, magic, and mayhem. With its gacha-infused side-scrolling RPG fighting gameplay, this game offers a unique experience that is both addicting and exciting. It is currently out now at a limited capacity, for North American Regions only on both Android and iOS.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-0.avif
-- /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-1.avif
-- /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-2.avif
-- /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-3.avif
-- /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-4.avif
-- /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-5.avif
-- /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-6.avif
-- /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-7.avif
+  - /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-0.avif
+  - /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-1.avif
+  - /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-2.avif
+  - /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-3.avif
+  - /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-4.avif
+  - /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-5.avif
+  - /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-6.avif
+  - /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-7.avif
+pubDate: 2023-03-05
+tags:
+  - action
+  - mobile
+  - n-innocence
+  - playstation-2
+  - playstation-3
+  - taptap
+thumb: /images/reviews/legacy/2023-03-05-heroes-legends-magic-and-mayhem--first-impressions---n-innocence-0.avif
 ---
+
 N-INNOCENCE is a mobile game that takes you on a journey through a world of heroes, legends, magic, and mayhem. With its gacha-infused side-scrolling RPG fighting gameplay, this game offers a unique experience that is both addicting and exciting. It is currently out now at a limited capacity, for North American Regions only on both Android and iOS.
 
 You find out you are transported into a magical world full of mythological and legendary beings from across human history and folklore, including a female Thor from Norse mythology.

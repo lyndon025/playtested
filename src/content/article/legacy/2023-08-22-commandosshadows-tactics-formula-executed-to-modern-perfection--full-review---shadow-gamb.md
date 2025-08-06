@@ -1,47 +1,47 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Shadow Gambit: The Cursed Crew Shadow Gambit: The Cursed Crew is a stealth
-  strategy game that transports players to an alternate history of the Golden Age
-  of Piracy. Players assume the role of Afia, a cursed pirate with a daring mission
-  – to gather the legendary Black Pearls and bring her cursed crew back to life.'
+slug: 2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection-full-review-shadow-gamb
+title: Commandos/Shadows Tactics formula executed to modern perfection | Full Review - Shadow Gambit
+game: Shadow Gambit
+description: 'Shadow Gambit: The Cursed Crew Shadow Gambit: The Cursed Crew is a stealth strategy game that transports players to an alternate history of the Golden Age of Piracy. Players assume the role of Afia, a cursed pirate with a daring mission – to gather the legendary Black Pearls and bring her cursed crew back to life.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-0.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-1.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-2.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-3.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-4.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-5.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-6.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-7.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-8.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-9.avif
+  - /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-10.avif
 pubDate: 2023-08-22
 tags:
-- action
-- adventure
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- shadow-gambit
-- strategy
-- taptap
-- xbox series
+  - action
+  - adventure
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - shadow-gambit
+  - strategy
+  - taptap
+  - xbox-series
 thumb: /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-0.avif
-title: Commandos/Shadows Tactics formula executed to modern perfection | Full Review
-  - Shadow Gambit
-game: Shadow Gambit
-gallery:
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-0.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-1.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-2.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-3.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-4.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-5.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-6.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-7.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-8.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-9.avif
-- /images/reviews/legacy/2023-08-22-commandosshadows-tactics-formula-executed-to-modern-perfection--full-review---shadow-gamb-10.avif
 ---
+
 Shadow Gambit: The Cursed Crew
 Shadow Gambit: The Cursed Crew is a stealth strategy game that transports players to an alternate history of the Golden Age of Piracy. Players assume the role of Afia, a cursed pirate with a daring mission – to gather the legendary Black Pearls and bring her cursed crew back to life.
 
 
-**Pros:**
+
+
+## Pros
 - Unique setting and story
 - Innovative stealth gameplay mechanics
 - Challenging missions and situations that require timing and proper execution
@@ -50,7 +50,9 @@ Shadow Gambit: The Cursed Crew is a stealth strategy game that transports player
 
 
 
-**Cons:**
+
+
+## Cons
 - minor performance drops during zoomed out view
 - cutscene dialogues cannot be skipped per line, only as a whole
 

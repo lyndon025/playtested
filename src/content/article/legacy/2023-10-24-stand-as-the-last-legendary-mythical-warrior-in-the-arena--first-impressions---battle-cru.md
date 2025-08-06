@@ -1,31 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Battle Crush Beta delivers a dynamic gaming experience that merges the
-  thrill of a battle royale with the hero-based gameplay of a MOBA. The current CBT
-  version features a unique cast of 15 Calixers, mythological and legendary heroes
-  with distinct abilities, and playstyles. All heroes are unlocked, so those participating
-  in the beta test can try each hero.
+slug: 2023-10-24-stand-as-the-last-legendary-mythical-warrior-in-the-arena-first-impressions-battle-cru
+title: Stand as the last legendary mythical warrior in the arena | First Impressions - Battle Crush Beta
+game: Battle Crush Beta
+description: Battle Crush Beta delivers a dynamic gaming experience that merges the thrill of a battle royale with the hero-based gameplay of a MOBA. The current CBT version features a unique cast of 15 Calixers, mythological and legendary heroes with distinct abilities, and playstyles. All heroes are unlocked, so those participating in the beta test can try each hero.
 featured: false
 pubDate: 2023-10-24
 tags:
-- action
-- android
-- battle-crush-beta
-- console
-- indie
-- ios
-- linux
-- macos
-- nintendo switch
-- pc
-- strategy
-- taptap
+  - action
+  - android
+  - battle-crush-beta
+  - console
+  - indie
+  - ios
+  - linux
+  - macos
+  - nintendo-switch
+  - pc
+  - strategy
+  - taptap
 thumb: ''
-title: Stand as the last legendary mythical warrior in the arena | First Impressions
-  - Battle Crush Beta
-game: Battle Crush Beta
 ---
+
 Battle Crush Beta delivers a dynamic gaming experience that merges the thrill of a battle royale with the hero-based gameplay of a MOBA. The current CBT version features a unique cast of 15 Calixers, mythological and legendary heroes with distinct abilities, and playstyles. All heroes are unlocked, so those participating in the beta test can try each hero.
 
 With a fast-paced, shrinking arena, players must fight to be the last one standing in intense 30-player battles. The game's visual style is characterized by simple yet striking graphics, delivering a casual and lighthearted atmosphere.

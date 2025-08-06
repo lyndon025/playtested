@@ -1,61 +1,68 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Wo Long: Fallen Dynasty is a fast-paced, souls-like third person RPG
-  set in a fictionalized version of ancient Three Kingdoms China.'
+slug: 2023-03-04-beautiful-fast-paced-combat-high-difficulty-full-review-wo-long-fallen-dynasty
+title: 'Beautiful fast-paced combat, high difficulty | Full Review - Wo Long: Fallen Dynasty'
+game: 'Wo Long: Fallen Dynasty'
+description: 'Wo Long: Fallen Dynasty is a fast-paced, souls-like third person RPG set in a fictionalized version of ancient Three Kingdoms China.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-0.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-1.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-2.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-3.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-4.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-5.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-6.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-7.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-8.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-9.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-10.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-11.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-12.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-13.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-14.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-15.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-16.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-17.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-18.avif
+  - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-19.avif
 pubDate: 2023-03-04
 tags:
-- action
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- wo-long-fallen-dynasty
-- xbox one
-- xbox series
+  - action
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - wo-long-fallen-dynasty
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-0.avif
-title: 'Beautiful fast-paced combat, high difficulty | Full Review - Wo Long: Fallen
-  Dynasty'
-game: 'Wo Long: Fallen Dynasty'
-gallery:
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-0.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-1.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-2.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-3.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-4.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-5.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-6.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-7.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-8.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-9.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-10.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-11.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-12.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-13.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-14.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-15.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-16.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-17.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-18.avif
-- /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-19.avif
 ---
+
 Wo Long: Fallen Dynasty is a fast-paced, souls-like third person RPG set in a fictionalized version of ancient Three Kingdoms China.
 
 
-**Pros:**
 
 
-+fun combat mechanics
-
-+fairly challenging enemies
-
-+varied boss fights
+## Pros
 
 
-**Cons:**
+
+## +fun combat mechanics
+
+
+## +fairly challenging enemies
+
+
+## +varied boss fights
+
+
+
+
+## Cons
 
 
 -Major performance and optimization issues

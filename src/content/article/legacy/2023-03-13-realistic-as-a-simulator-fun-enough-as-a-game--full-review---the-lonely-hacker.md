@@ -1,64 +1,73 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Lonely Hacker is a hacking simulation game for mobile devices, currently
-  available for Android, with current plans to expand on iOS and console platforms.
-featured: false
-pubDate: 2023-03-13
-tags:
-- android
-- casual
-- educational
-- indie
-- ios
-- mobile
-- pc
-- rpg
-- simulation
-- strategy
-- taptap
-- the-lonely-hacker
-thumb: /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif
+slug: 2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game-full-review-the-lonely-hacker
 title: Realistic as a simulator, fun enough as a game | Full Review - The Lonely Hacker
 game: The Lonely Hacker
+description: The Lonely Hacker is a hacking simulation game for mobile devices, currently available for Android, with current plans to expand on iOS and console platforms.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-1.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-2.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-3.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-4.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-5.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-6.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-7.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-8.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-9.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-10.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-11.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-12.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-13.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-14.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-15.avif
-- /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-16.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-1.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-2.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-3.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-4.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-5.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-6.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-7.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-8.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-9.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-10.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-11.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-12.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-13.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-14.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-15.avif
+  - /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-16.avif
+pubDate: 2023-03-13
+tags:
+  - android
+  - casual
+  - educational
+  - indie
+  - ios
+  - mobile
+  - pc
+  - rpg
+  - simulation
+  - strategy
+  - taptap
+  - the-lonely-hacker
+thumb: /images/reviews/legacy/2023-03-13-realistic-as-a-simulator-fun-enough-as-a-game--full-review---the-lonely-hacker-0.avif
 ---
+
 The Lonely Hacker is a hacking simulation game for mobile devices, currently available for Android, with current plans to expand on iOS and console platforms.
 
 
-**Pros:**
 
 
-+Accurate depiction of hacking
-
-+Highly addicting
-
-+no microtransactions or in-app purchases
+## Pros
 
 
-**Cons:**
+
+## +Accurate depiction of hacking
+
+
+## +Highly addicting
+
+
+## +no microtransactions or in-app purchases
+
+
+
+
+## Cons
 
 
 -Can be somewhat repetitive
 
-📝Notable points:
+
+## 📝Notable points:
 
 Developer is active and has plans for more content
 

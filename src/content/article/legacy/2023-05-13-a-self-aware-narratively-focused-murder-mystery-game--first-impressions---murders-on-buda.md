@@ -1,36 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: Just fresh from my review of another fourth wall breaking mystery game,
-  now we have another mobile game in Murders of Budapest. This time it’s less of a
-  detective point-and-click mystery and more of a murder mystery visual-novel this
-  time around.
+slug: 2023-05-13-a-self-aware-narratively-focused-murder-mystery-game-first-impressions-murders-on-buda
+title: A self-aware narratively focused murder mystery game | First Impressions - Murders on Budapest
+game: Murders on Budapest
+description: Just fresh from my review of another fourth wall breaking mystery game, now we have another mobile game in Murders of Budapest. This time it’s less of a detective point-and-click mystery and more of a murder mystery visual-novel this time around.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-0.avif
+  - /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-1.avif
+  - /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-2.avif
+  - /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-3.avif
+  - /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-4.avif
 pubDate: 2023-05-13
 tags:
-- action
-- adventure
-- console
-- mobile
-- murders-on-budapest
-- pc
-- playstation
-- playstation 4
-- rpg
-- shooter
-- taptap
-- xbox one
+  - action
+  - adventure
+  - console
+  - mobile
+  - murders-on-budapest
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - shooter
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-0.avif
-title: A self-aware narratively focused murder mystery game | First Impressions -
-  Murders on Budapest
-game: Murders on Budapest
-gallery:
-- /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-0.avif
-- /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-1.avif
-- /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-2.avif
-- /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-3.avif
-- /images/reviews/legacy/2023-05-13-a-self-aware-narratively-focused-murder-mystery-game--first-impressions---murders-on-buda-4.avif
 ---
+
 Murders on Budapest!
 8.3
 Adventure

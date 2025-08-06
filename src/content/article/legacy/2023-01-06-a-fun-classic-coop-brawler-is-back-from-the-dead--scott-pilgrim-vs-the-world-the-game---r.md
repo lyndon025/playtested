@@ -1,38 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Scott Pilgrim vs. The World has come a long way, from its graphic novel
-  / comic book origins, to its surprising jump to a charming live action film adaptation.
-  Alongside the film is a comic book style retro arcade brawler game that was pulled
-  from stores in 2014, with no way of acquiring a copy. Now, thanks to all the online
-  requests, it is re-released and now available on PC as Scott Pilgrim vs. The World:
-  The Game – Complete Edition.'
+slug: 2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead-scott-pilgrim-vs-the-world-the-game-r
+title: 'A fun classic coop brawler is back from the dead | Scott Pilgrim vs The World: The Game - Review'
+game: 'Scott Pilgrim vs. the World: The Game'
+description: 'Scott Pilgrim vs. The World has come a long way, from its graphic novel / comic book origins, to its surprising jump to a charming live action film adaptation. Alongside the film is a comic book style retro arcade brawler game that was pulled from stores in 2014, with no way of acquiring a copy. Now, thanks to all the online requests, it is re-released and now available on PC as Scott Pilgrim vs. The World: The Game – Complete Edition.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-0.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-1.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-2.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-3.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-4.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-5.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-6.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-7.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-8.avif
+  - /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-9.avif
 pubDate: 2023-01-06
 tags:
-- arcade
-- fighting
-- platformer
-- playstation 3
-- scott-pilgrim-vs-the-world-the-game
-- taptap
-- xbox 360
+  - arcade
+  - fighting
+  - platformer
+  - playstation-3
+  - scott-pilgrim-vs-the-world-the-game
+  - taptap
+  - xbox-360
 thumb: /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-0.avif
-title: 'A fun classic coop brawler is back from the dead | Scott Pilgrim vs The World:
-  The Game - Review'
-game: 'Scott Pilgrim vs. the World: The Game'
-gallery:
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-0.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-1.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-2.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-3.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-4.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-5.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-6.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-7.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-8.avif
-- /images/reviews/legacy/2023-01-06-a-fun-classic-coop-brawler-is-back-from-the-dead--scott-pilgrim-vs-the-world-the-game---r-9.avif
 ---
+
 Scott Pilgrim vs. The World has come a long way, from its graphic novel / comic book origins, to its surprising jump to a charming live action film adaptation. Alongside the film is a comic book style retro arcade brawler game that was pulled from stores in 2014, with no way of acquiring a copy. Now, thanks to all the online requests, it is re-released and now available on PC as Scott Pilgrim vs. The World: The Game – Complete Edition.
 
 The story follows the nerdy skinny musician Scott Pilgrim, dating an eccentric gorgeous girl named Ramona Flowers. The problem is, she has these Seven ‘Evil Exes’ that are still in her life and all are out to stop her and Scott. Mystic Pirates, Vegan Rock Stars, and Bi Ninjas are out to get him. All of her exes have one thing in common: seemingly larger than life personas and are all very intimidating. Scott Pilgrim has to defeat them so they can be left alone and date in peace.

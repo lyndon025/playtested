@@ -1,39 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Wo Long: Fallen Dynasty is a fast-paced, action-packed RPG that draws
-  inspiration from the Souls-like genre popularized by Dark Souls and recently, Elden
-  Ring.'
+slug: 2023-03-03-the-three-kingdoms-era-infested-with-demons-first-impressions-wo-long-fallen-dynasty
+title: 'The Three Kingdoms era, infested with demons | First Impressions - Wo Long: Fallen Dynasty'
+game: 'Wo Long: Fallen Dynasty'
+description: 'Wo Long: Fallen Dynasty is a fast-paced, action-packed RPG that draws inspiration from the Souls-like genre popularized by Dark Souls and recently, Elden Ring.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-0.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-1.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-2.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-3.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-4.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-5.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-6.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-7.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-8.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-9.avif
+  - /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-10.avif
 pubDate: 2023-03-03
 tags:
-- action
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- wo-long-fallen-dynasty
-- xbox one
-- xbox series
+  - action
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - wo-long-fallen-dynasty
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-0.avif
-title: 'The Three Kingdoms era, infested with demons | First Impressions - Wo Long:
-  Fallen Dynasty'
-game: 'Wo Long: Fallen Dynasty'
-gallery:
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-0.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-1.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-2.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-3.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-4.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-5.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-6.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-7.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-8.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-9.avif
-- /images/reviews/legacy/2023-03-03-the-three-kingdoms-era-infested-with-demons--first-impressions---wo-long-fallen-dynasty-10.avif
 ---
+
 Wo Long: Fallen Dynasty is a fast-paced, action-packed RPG that draws inspiration from the Souls-like genre popularized by Dark Souls and recently, Elden Ring.
 
 Developed by KOEI and published by Team Ninja, players take on the role of a customizable protagonist and are inserted in a world of historical fantasy set in the Three-Kingdoms Era, complete with demons. Players must battle their way through hordes of demons and historical figures using a variety of weapons, spells, and skills; and must rise from zero to hero.

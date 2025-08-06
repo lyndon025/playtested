@@ -1,34 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Download In Tavern Brawls, players engage in thrilling card
-  battles with tactical and resource management elements, choose a hero character
-  to lead the battles, strategize your cards, and watch them battle it out... automatically.
+slug: 2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game-full-review-tavern-braw
+title: Feels barebones but nonetheless a promising strategy card game | Full Review - Tavern Brawls
+game: Tavern Brawls
+description: lyndonguitar Download In Tavern Brawls, players engage in thrilling card battles with tactical and resource management elements, choose a hero character to lead the battles, strategize your cards, and watch them battle it out... automatically.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-0.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-1.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-2.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-3.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-4.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-5.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-6.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-7.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-8.avif
+  - /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-9.avif
 pubDate: 2023-07-12
 tags:
-- board games
-- ios
-- mobile
-- strategy
-- taptap
-- tavern-brawls
+  - board-games
+  - ios
+  - mobile
+  - strategy
+  - taptap
+  - tavern-brawls
 thumb: /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-0.avif
-title: Feels barebones but nonetheless a promising strategy card game | Full Review
-  - Tavern Brawls
-game: Tavern Brawls
-gallery:
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-0.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-1.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-2.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-3.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-4.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-5.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-6.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-7.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-8.avif
-- /images/reviews/legacy/2023-07-12-feels-barebones-but-nonetheless-a-promising-strategy-card-game--full-review---tavern-braw-9.avif
 ---
+
 ARCANE RUSH: Auto Battler
 
 lyndonguitar
@@ -36,17 +35,24 @@ Download
 In Tavern Brawls, players engage in thrilling card battles with tactical and resource management elements, choose a hero character to lead the battles, strategize your cards, and watch them battle it out... automatically.
 
 
-**Pros:**
 
 
-+The best of strategy card and auto chess mechanics
-
-+No non-sense battle resolution
-
-+Strategic Depth
+## Pros
 
 
-**Cons:**
+
+## +The best of strategy card and auto chess mechanics
+
+
+## +No non-sense battle resolution
+
+
+## +Strategic Depth
+
+
+
+
+## Cons
 
 
 -Emphasis on same-race combos limits overall synergies
@@ -55,7 +61,8 @@ In Tavern Brawls, players engage in thrilling card battles with tactical and res
 
 -Difficulty spike and intense grinding needed to progress even early in the game
 
-📝Notable points:
+
+## 📝Notable points:
 
 These pros and cons are based on the soft launch version of Tavern Brawls available on Android and iOS. Some aspects of the game may have been updated or changed since the time of writing.
 

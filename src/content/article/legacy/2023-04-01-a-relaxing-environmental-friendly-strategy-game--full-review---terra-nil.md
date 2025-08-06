@@ -1,58 +1,67 @@
 ---
 author: lyndonguitar
 category: Review
-description: Terra Nil is a nature building / reverse city building strategy game
-  developed by Free Lives and released for both Mobile platforms and PC.
-featured: false
-pubDate: 2023-04-01
-tags:
-- android
-- casual
-- indie
-- ios
-- linux
-- macos
-- mobile
-- pc
-- simulation
-- strategy
-- taptap
-- terra-nil
-thumb: /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-0.avif
+slug: 2023-04-01-a-relaxing-environmental-friendly-strategy-game-full-review-terra-nil
 title: A relaxing environmental friendly strategy game | Full Review - Terra Nil
 game: Terra Nil
+description: Terra Nil is a nature building / reverse city building strategy game developed by Free Lives and released for both Mobile platforms and PC.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-0.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-1.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-2.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-3.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-4.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-5.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-6.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-7.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-8.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-9.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-10.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-11.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-12.avif
-- /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-13.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-0.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-1.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-2.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-3.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-4.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-5.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-6.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-7.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-8.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-9.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-10.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-11.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-12.avif
+  - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-13.avif
+pubDate: 2023-04-01
+tags:
+  - android
+  - casual
+  - indie
+  - ios
+  - linux
+  - macos
+  - mobile
+  - pc
+  - simulation
+  - strategy
+  - taptap
+  - terra-nil
+thumb: /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-0.avif
 ---
+
 Terra Nil is a nature building / reverse city building strategy game developed by Free Lives and released for both Mobile platforms and PC.
 
 
-**Pros:**
 
 
-+Beautiful visuals
-
-+Soothing ambient music
-
-+Innovative gameplay mechanics
-
-+Pro-environmental advocacy
+## Pros
 
 
-**Cons:**
+
+## +Beautiful visuals
+
+
+## +Soothing ambient music
+
+
+## +Innovative gameplay mechanics
+
+
+## +Pro-environmental advocacy
+
+
+
+
+## Cons
 
 
 -Too short for its price

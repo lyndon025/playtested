@@ -1,29 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Rainbow Six Mobile features the same PvP FPS experience that started
-  with Rainbow Six Siege back in 2015, which has continuously been updated throughout
-  the years with new content, operators, and changes.
+slug: 2023-08-31-team-based-fps-with-destructible-environments-soft-launch-impressions-rainbow-six-mobi
+title: Team-based FPS with destructible environments | Soft Launch Impressions - Rainbow Six Mobile
+game: Soft Launch Impressions - Rainbow Six Mobile
+description: Rainbow Six Mobile features the same PvP FPS experience that started with Rainbow Six Siege back in 2015, which has continuously been updated throughout the years with new content, operators, and changes.
 featured: false
 pubDate: 2023-08-31
 tags:
-- action
-- console
-- mobile
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- shooter
-- soft-launch-impressions-rainbow-six-mobile
-- taptap
-- xbox one
-- xbox series
+  - action
+  - console
+  - mobile
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - shooter
+  - soft-launch-impressions-rainbow-six-mobile
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: ''
-title: Team-based FPS with destructible environments | Soft Launch Impressions - Rainbow
-  Six Mobile
-game: Soft Launch Impressions - Rainbow Six Mobile
 ---
+
 Rainbow Six Mobile features the same PvP FPS experience that started with Rainbow Six Siege back in 2015, which has continuously been updated throughout the years with new content, operators, and changes.
 
 Mechanically, Rainbow Six Mobile is a unique FPS game with distinct features that differentiate it from the oversaturated battle royale market that we currently have. It is a team-based PvP shooter, with a focus on player abilities, verticality, and destructible environments.

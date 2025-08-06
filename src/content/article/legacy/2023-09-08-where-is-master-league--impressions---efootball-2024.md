@@ -1,24 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: eFootball 2024 is the latest yearly iteration of the eFootball series,
-  which was previously known as Pro Evolution Soccer (PES), released for mobile devices,
-  PC, and consoles. The base game is free-to-play, but eFootball 2024 generates revenue
-  through microtransactions. Players have the option to spend real money within the
-  game to purchase various in-game items and content.
+slug: 2023-09-08-where-is-master-league-impressions-efootball-2024
+title: Where is Master League? | Impressions - eFootball 2024
+game: eFootball 2024
+description: eFootball 2024 is the latest yearly iteration of the eFootball series, which was previously known as Pro Evolution Soccer (PES), released for mobile devices, PC, and consoles. The base game is free-to-play, but eFootball 2024 generates revenue through microtransactions. Players have the option to spend real money within the game to purchase various in-game items and content.
 featured: false
 pubDate: 2023-09-08
 tags:
-- efootball-2024
-- mobile
-- pc
-- simulation
-- sports
-- taptap
+  - efootball-2024
+  - mobile
+  - pc
+  - simulation
+  - sports
+  - taptap
 thumb: ''
-title: Where is Master League? | Impressions - eFootball 2024
-game: eFootball 2024
 ---
+
 eFootball 2024 is the latest yearly iteration of the eFootball series, which was previously known as Pro Evolution Soccer (PES), released for mobile devices, PC, and consoles. The base game is free-to-play, but eFootball 2024 generates revenue through microtransactions. Players have the option to spend real money within the game to purchase various in-game items and content.
 
 The game offers a pretty realistic simulation of soccer, with attention to player movements, ball physics, and tactical depth. I played the mobile version in which the graphics have always taken a deep dive compared to the photorealistic console and PC counterparts, but they still look decent, especially when everything is zoomed out and the graphics are set to 'High' settings.

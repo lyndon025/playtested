@@ -1,21 +1,21 @@
 ---
 author: lyndonguitar
 category: Review
-description: EA Sports FC Tactical is a football mobile game with a unique twist to
-  it's gameplay. It's tactical turn-based instead of real-time.
+slug: 2023-10-03-a-turn-based-fifa-how-bypass-the-infinite-loading-and-beta-impressions-ea-sports-fc-ta
+title: A turn-based FIFA? | How bypass the infinite loading and Beta Impressions - EA Sports FC Tactical
+game: How bypass the infinite loading and Beta Impressions - EA Sports FC Tactical
+description: EA Sports FC Tactical is a football mobile game with a unique twist to it's gameplay. It's tactical turn-based instead of real-time.
 featured: false
 pubDate: 2023-10-03
 tags:
-- how-bypass-the-infinite-loading-and-beta-impressions-ea-sports-fc-tactical
-- mobile
-- strategy
-- taptap
-- web
+  - how-bypass-the-infinite-loading-and-beta-impressions-ea-sports-fc-tactical
+  - mobile
+  - strategy
+  - taptap
+  - web
 thumb: ''
-title: A turn-based FIFA? | How bypass the infinite loading and Beta Impressions -
-  EA Sports FC Tactical
-game: How bypass the infinite loading and Beta Impressions - EA Sports FC Tactical
 ---
+
 EA Sports FC Tactical is a football mobile game with a unique twist to it's gameplay. It's tactical turn-based instead of real-time.
 
 Gameplay-wise, EA Sports FC Tactical introduces tactical turn-based matches. While the player movement across the field is automated and presented in a coaching board style, the game shifts into an action-packed matchup mode when players encounter each other. Here, strategic choices like tackling, intercepting, dribbling, passing, or shooting come into play, and the outcomes depend on player ratings and chosen actions.

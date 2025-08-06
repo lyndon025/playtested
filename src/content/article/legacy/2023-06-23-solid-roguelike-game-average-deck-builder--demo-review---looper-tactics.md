@@ -1,47 +1,54 @@
 ---
 author: lyndonguitar
 category: Review
-description: Looper Tactics is a turn-based strategy card game infused with roguelike
-  elements, and presents players with a journey through a procedurally generated world
-  of eternal life and death.
-featured: false
-pubDate: 2023-06-23
-tags:
-- casual
-- indie
-- pc
-- review-looper-tactics
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif
+slug: 2023-06-23-solid-roguelike-game-average-deck-builder-demo-review-looper-tactics
 title: Solid roguelike game, average deck builder | Demo Review - Looper Tactics
 game: Review - Looper Tactics
+description: Looper Tactics is a turn-based strategy card game infused with roguelike elements, and presents players with a journey through a procedurally generated world of eternal life and death.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif
-- /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-1.avif
-- /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-2.avif
-- /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-3.avif
-- /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-4.avif
-- /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-5.avif
-- /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-6.avif
+  - /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif
+  - /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-1.avif
+  - /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-2.avif
+  - /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-3.avif
+  - /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-4.avif
+  - /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-5.avif
+  - /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-6.avif
+pubDate: 2023-06-23
+tags:
+  - casual
+  - indie
+  - pc
+  - review-looper-tactics
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-06-23-solid-roguelike-game-average-deck-builder--demo-review---looper-tactics-0.avif
 ---
+
 Looper Tactics
 
 Looper Tactics is a turn-based strategy card game infused with roguelike elements, and presents players with a journey through a procedurally generated world of eternal life and death.
 
 
-**Pros:**
 
 
-+Procedurally generated world
-
-+Engaging deck building and strategic card gameplay
-
-+Roguelike but with emphasis on continuity and persistent progression
+## Pros
 
 
-**Cons:**
+
+## +Procedurally generated world
+
+
+## +Engaging deck building and strategic card gameplay
+
+
+## +Roguelike but with emphasis on continuity and persistent progression
+
+
+
+
+## Cons
 
 
 -Lack of unique or special mechanics
@@ -50,7 +57,8 @@ Looper Tactics is a turn-based strategy card game infused with roguelike element
 
 -Some story elements feel gimmicky
 
-📝Notable points: That these pros and cons are based on Demo build and does not accurately represent the quality of the finished product
+
+## 📝Notable points: That these pros and cons are based on Demo build and does not accurately represent the quality of the finished product
 
 Looper Tactics aims to combine turn-based strategy and roguelike mechanics, providing an interesting twist on traditional deck building. Visually, Looper Tactics adopts a minimalist art style with a focus on simplicity. The game's aesthetics, while not groundbreaking, effectively convey the atmosphere of an otherworldly realm as well as a tabletop RPG setting. The tile-based maps are visually distinct, with each tile clearly represented. Although the game's graphics are not visually stunning, they serve their purpose by providing clarity and facilitating gameplay understanding.
 

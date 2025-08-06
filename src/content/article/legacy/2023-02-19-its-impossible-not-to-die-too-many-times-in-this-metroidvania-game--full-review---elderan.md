@@ -1,62 +1,68 @@
 ---
 author: lyndonguitar
 category: Review
-description: There’s been a resurgence of Metroidvania games lately, and it’s not
-  stopping anytime soon. Elderand is another addition to the growing list, and it
-  is not for the faint of heart, both with regard to gameplay and theme.
+slug: 2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game-full-review-elderan
+title: It’s impossible not to die too many times in this Metroidvania game | Full Review - Elderand
+game: Elderand
+description: There’s been a resurgence of Metroidvania games lately, and it’s not stopping anytime soon. Elderand is another addition to the growing list, and it is not for the faint of heart, both with regard to gameplay and theme.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-0.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-1.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-2.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-3.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-4.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-5.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-6.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-7.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-8.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-9.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-10.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-11.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-12.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-13.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-14.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-15.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-16.avif
+  - /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-17.avif
 pubDate: 2023-02-19
 tags:
-- action
-- adventure
-- elderand
-- indie
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - elderand
+  - indie
+  - pc
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-0.avif
-title: It’s impossible not to die too many times in this Metroidvania game | Full
-  Review - Elderand
-game: Elderand
-gallery:
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-0.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-1.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-2.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-3.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-4.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-5.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-6.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-7.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-8.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-9.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-10.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-11.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-12.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-13.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-14.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-15.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-16.avif
-- /images/reviews/legacy/2023-02-19-its-impossible-not-to-die-too-many-times-in-this-metroidvania-game--full-review---elderan-17.avif
 ---
+
 There’s been a resurgence of Metroidvania games lately, and it’s not stopping anytime soon. Elderand is another addition to the growing list, and it is not for the faint of heart, both with regard to gameplay and theme.
 
 
-**Pros:**
 
 
-+Satisfying skill-based combat
-
-+A highly detailed pixel art world
+## Pros
 
 
-**Cons:**
+
+## +Satisfying skill-based combat
+
+
+## +A highly detailed pixel art world
+
+
+
+
+## Cons
 
 
 -The story is not exactly gripping
 
 You play as a mercenary chosen because of a mysterious prophecy to eradicate the land of evil. This prophecy seemed to be ill-fated right from the very start, sinking your ship and leaving your crew dead and you stranded on an ominous island that is to be our game’s setting.
 
-"I don't know their meaning, but it can't be good"
+
+## "I don't know their meaning, but it can't be good"
 
 The story is not exactly gripping, and can be pretentious at times with its extremely cryptic texts and dialogue. Players can also collect scattered letters and journals from the poor souls who came before them to learn more about the lore and story. There is no voice dialogue, so everything is in text form. Fortunately, the enigmatic retro-inspired soundtrack is decent enough to provide a haunting audio experience while playing the game.
 

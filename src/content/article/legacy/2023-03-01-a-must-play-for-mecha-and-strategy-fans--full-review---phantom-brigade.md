@@ -1,61 +1,69 @@
 ---
 author: lyndonguitar
 category: Review
-description: Phantom Brigade is turn-based tactical RPG puts players in charge of
-  the Phantom Brigade, a band of mech pilots trying to liberate its land from its
-  oppressive invaders.
-featured: false
-pubDate: 2023-03-01
-tags:
-- indie
-- pc
-- phantom-brigade
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-0.avif
+slug: 2023-03-01-a-must-play-for-mecha-and-strategy-fans-full-review-phantom-brigade
 title: A must-play for Mecha and Strategy fans | Full Review - Phantom Brigade
 game: Phantom Brigade
+description: Phantom Brigade is turn-based tactical RPG puts players in charge of the Phantom Brigade, a band of mech pilots trying to liberate its land from its oppressive invaders.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-0.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-1.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-2.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-3.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-4.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-5.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-6.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-7.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-8.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-9.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-10.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-11.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-12.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-13.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-14.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-15.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-16.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-17.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-18.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-19.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-20.avif
-- /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-21.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-0.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-1.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-2.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-3.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-4.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-5.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-6.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-7.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-8.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-9.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-10.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-11.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-12.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-13.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-14.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-15.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-16.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-17.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-18.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-19.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-20.avif
+  - /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-21.avif
+pubDate: 2023-03-01
+tags:
+  - indie
+  - pc
+  - phantom-brigade
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-03-01-a-must-play-for-mecha-and-strategy-fans--full-review---phantom-brigade-0.avif
 ---
+
 Phantom Brigade is turn-based tactical RPG puts players in charge of the Phantom Brigade, a band of mech pilots trying to liberate its land from its oppressive invaders.
 
 
-**Pros:**
 
 
-+Innovative combat system
-
-+Addicting progression
-
-+High degree of customization
-
-+Open-ended campaign
+## Pros
 
 
-**Cons:**
+
+## +Innovative combat system
+
+
+## +Addicting progression
+
+
+## +High degree of customization
+
+
+## +Open-ended campaign
+
+
+
+
+## Cons
 
 
 -UI needs a bit of work

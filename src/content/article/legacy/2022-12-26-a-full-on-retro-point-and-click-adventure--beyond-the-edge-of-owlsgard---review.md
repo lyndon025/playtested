@@ -1,53 +1,60 @@
 ---
 author: lyndonguitar
 category: Review
-description: Beyond The Edge Of Owlsgard is an old-school point and click adventure
-  game reminiscent of the classic animated movies of the 90s as well as classic video
-  games like The Secret of Monkey Island, Sam and Max, and Kings Quest.
-featured: false
-pubDate: 2022-12-26
-tags:
-- adventure
-- beyond-the-edge-of-owlsgard
-- indie
-- linux
-- pc
-- taptap
-thumb: /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-0.avif
+slug: 2022-12-26-a-full-on-retro-point-and-click-adventure-beyond-the-edge-of-owlsgard-review
 title: A full-on retro point and click adventure | Beyond The Edge Of Owlsgard - Review
 game: Beyond The Edge Of Owlsgard
+description: Beyond The Edge Of Owlsgard is an old-school point and click adventure game reminiscent of the classic animated movies of the 90s as well as classic video games like The Secret of Monkey Island, Sam and Max, and Kings Quest.
+featured: false
 gallery:
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-0.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-1.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-2.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-3.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-4.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-5.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-6.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-7.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-8.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-9.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-10.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-11.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-12.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-13.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-14.avif
-- /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-15.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-0.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-1.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-2.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-3.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-4.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-5.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-6.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-7.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-8.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-9.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-10.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-11.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-12.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-13.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-14.avif
+  - /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-15.avif
+pubDate: 2022-12-26
+tags:
+  - adventure
+  - beyond-the-edge-of-owlsgard
+  - indie
+  - linux
+  - pc
+  - taptap
+thumb: /images/reviews/legacy/2022-12-26-a-full-on-retro-point-and-click-adventure--beyond-the-edge-of-owlsgard---review-0.avif
 ---
+
 Beyond The Edge Of Owlsgard is an old-school point and click adventure game reminiscent of the classic animated movies of the 90s as well as classic video games like The Secret of Monkey Island, Sam and Max, and Kings Quest.
 
 
-**Pros:**
 
 
-+A lighthearted story
-
-+Faithful to 90s point and click aesthetics
-
-+Modern game mode to make it more accessible
+## Pros
 
 
-**Cons:**
+
+## +A lighthearted story
+
+
+## +Faithful to 90s point and click aesthetics
+
+
+## +Modern game mode to make it more accessible
+
+
+
+
+## Cons
 
 
 -too difficult and can be frustrating

@@ -1,64 +1,71 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tesla Force is a rogue-lite survival twin stick shooter developed and
-  published by 10tons Ltd, set in an alternate history, pervaded by lovecraftian horror
-  themes. It is available for mobile platforms, Switch, PC, and modern consoles.
+slug: 2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience-full-review-tesla
+title: A casual twin-stick shooter and a challenging rogue-lite experience | Full Review - Tesla Force
+game: Tesla Force
+description: Tesla Force is a rogue-lite survival twin stick shooter developed and published by 10tons Ltd, set in an alternate history, pervaded by lovecraftian horror themes. It is available for mobile platforms, Switch, PC, and modern consoles.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--0.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--1.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--2.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--3.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--4.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--5.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--6.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--7.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--8.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--9.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--10.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--11.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--12.avif
+  - /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--13.avif
 pubDate: 2023-04-11
 tags:
-- action
-- adventure
-- arcade
-- console
-- indie
-- ios
-- mobile
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- shooter
-- taptap
-- tesla-force
-- xbox one
+  - action
+  - adventure
+  - arcade
+  - console
+  - indie
+  - ios
+  - mobile
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - shooter
+  - taptap
+  - tesla-force
+  - xbox-one
 thumb: /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--0.avif
-title: A casual twin-stick shooter and a challenging rogue-lite experience | Full
-  Review - Tesla Force
-game: Tesla Force
-gallery:
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--0.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--1.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--2.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--3.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--4.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--5.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--6.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--7.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--8.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--9.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--10.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--11.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--12.avif
-- /images/reviews/legacy/2023-04-11-a-casual-twin-stick-shooter-and-a-challenging-rogue-lite-experience--full-review---tesla--13.avif
 ---
+
 Tesla Force is a rogue-lite survival twin stick shooter developed and published by 10tons Ltd, set in an alternate history, pervaded by lovecraftian horror themes. It is available for mobile platforms, Switch, PC, and modern consoles.
 
 
-**Pros:**
 
 
-+A casual arcade gameplay with a challenging rogue-lite experience
-
-+Procedurally generated campaign
-
-+A wide variety of weapons, power-ups, upgrades, and abilities.
-
-+Physical controller support
+## Pros
 
 
-**Cons:**
+
+## +A casual arcade gameplay with a challenging rogue-lite experience
+
+
+## +Procedurally generated campaign
+
+
+## +A wide variety of weapons, power-ups, upgrades, and abilities.
+
+
+## +Physical controller support
+
+
+
+
+## Cons
 
 
 -The mobile version has no multiplayer unlike the PC and Consoles

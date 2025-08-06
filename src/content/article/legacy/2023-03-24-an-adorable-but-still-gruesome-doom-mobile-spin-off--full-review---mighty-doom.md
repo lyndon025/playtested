@@ -1,55 +1,62 @@
 ---
 author: lyndonguitar
 category: Review
-description: Mighty DOOM is a top down single handed rogue-lite shooter set in the
-  DOOM universe. It is available for Android and iOS as a free-to-play title with
-  in-app purchases.
+slug: 2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off-full-review-mighty-doom
+title: An adorable but still gruesome DOOM Mobile spin-off | Full Review - Mighty DOOM
+game: Mighty DOOM
+description: Mighty DOOM is a top down single handed rogue-lite shooter set in the DOOM universe. It is available for Android and iOS as a free-to-play title with in-app purchases.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-0.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-1.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-2.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-3.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-4.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-5.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-6.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-7.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-8.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-9.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-10.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-11.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-12.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-13.avif
+  - /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-14.avif
 pubDate: 2023-03-24
 tags:
-- action
-- android
-- ios
-- mighty-doom
-- mobile
-- taptap
+  - action
+  - android
+  - ios
+  - mighty-doom
+  - mobile
+  - taptap
 thumb: /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-0.avif
-title: An adorable but still gruesome DOOM Mobile spin-off | Full Review - Mighty
-  DOOM
-game: Mighty DOOM
-gallery:
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-0.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-1.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-2.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-3.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-4.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-5.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-6.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-7.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-8.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-9.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-10.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-11.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-12.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-13.avif
-- /images/reviews/legacy/2023-03-24-an-adorable-but-still-gruesome-doom-mobile-spin-off--full-review---mighty-doom-14.avif
 ---
+
 Mighty DOOM is a top down single handed rogue-lite shooter set in the DOOM universe. It is available for Android and iOS as a free-to-play title with in-app purchases.
 
 
-**Pros:**
 
 
-+Engaging rogue-lite mechanics
-
-+Fun and satisfying combat
-
-+Awesome takedown animations
-
-+Adorable graphics but still gruesome
+## Pros
 
 
-**Cons:**
+
+## +Engaging rogue-lite mechanics
+
+
+## +Fun and satisfying combat
+
+
+## +Awesome takedown animations
+
+
+## +Adorable graphics but still gruesome
+
+
+
+
+## Cons
 
 
 -Artificial difficulty spike to encourage spending money

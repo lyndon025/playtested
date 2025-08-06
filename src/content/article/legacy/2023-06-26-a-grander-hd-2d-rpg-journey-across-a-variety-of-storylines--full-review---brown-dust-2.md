@@ -1,39 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Brown Dust 2, the somewhat both direct and spiritual successor to the
-  popular Brave 9 / Brown Dust, takes players on a grander journey filled with time
-  travel, world-traveling elements, and captivating narratives.
+slug: 2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines-full-review-brown-dust-2
+title: A grander HD-2D RPG journey across a variety of storylines | Full Review - Brown Dust 2
+game: Brown Dust 2
+description: Brown Dust 2, the somewhat both direct and spiritual successor to the popular Brave 9 / Brown Dust, takes players on a grander journey filled with time travel, world-traveling elements, and captivating narratives.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-0.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-1.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-2.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-3.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-4.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-5.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-6.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-7.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-8.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-9.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-10.avif
+  - /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-11.avif
 pubDate: 2023-06-26
 tags:
-- adventure
-- brown-dust-2
-- indie
-- linux
-- macos
-- mobile
-- pc
-- rpg
-- taptap
+  - adventure
+  - brown-dust-2
+  - indie
+  - linux
+  - macos
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-0.avif
-title: A grander HD-2D RPG journey across a variety of storylines | Full Review -
-  Brown Dust 2
-game: Brown Dust 2
-gallery:
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-0.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-1.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-2.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-3.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-4.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-5.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-6.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-7.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-8.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-9.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-10.avif
-- /images/reviews/legacy/2023-06-26-a-grander-hd-2d-rpg-journey-across-a-variety-of-storylines--full-review---brown-dust-2-11.avif
 ---
+
 BrownDust2 - Adventure RPG
 
 lyndonguitar
@@ -42,21 +41,30 @@ PC Version
 Brown Dust 2, the somewhat both direct and spiritual successor to the popular Brave 9 / Brown Dust, takes players on a grander journey filled with time travel, world-traveling elements, and captivating narratives.
 
 
-**Pros:**
 
 
-+Stunning HD-2D Graphics
-
-+Strategic Turn-Based Combat
-
-+Waifu elements while still having male characters to collect
-
-+Diverse localization options (english, japanese, korean, chinese text; japanese and korean voice-overs)
-
-+Quality of life features such as auto-walk and supports both portrait and landscape modes
+## Pros
 
 
-**Cons:**
+
+## +Stunning HD-2D Graphics
+
+
+## +Strategic Turn-Based Combat
+
+
+## +Waifu elements while still having male characters to collect
+
+
+## +Diverse localization options (english, japanese, korean, chinese text; japanese and korean voice-overs)
+
+
+## +Quality of life features such as auto-walk and supports both portrait and landscape modes
+
+
+
+
+## Cons
 
 
 -Limited story focus by having multiple unrelated story packs instead of one connected grand story

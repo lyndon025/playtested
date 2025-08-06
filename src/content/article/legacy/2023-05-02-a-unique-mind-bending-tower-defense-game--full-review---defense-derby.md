@@ -1,35 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Defense Derby is a mobile multiplayer tower defense game featuring hero
-  collection and a unique mind bending multiplayer format. It is currently in a beta
-  test until May 11.
-featured: false
-pubDate: 2023-05-02
-tags:
-- action
-- android
-- defense-derby
-- indie
-- ios
-- mobile
-- pc
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-0.avif
+slug: 2023-05-02-a-unique-mind-bending-tower-defense-game-full-review-defense-derby
 title: A unique mind bending tower defense game | Full Review - Defense Derby
 game: Defense Derby
+description: Defense Derby is a mobile multiplayer tower defense game featuring hero collection and a unique mind bending multiplayer format. It is currently in a beta test until May 11.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-0.avif
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-1.avif
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-2.avif
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-3.avif
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-4.avif
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-5.avif
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-6.avif
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-7.avif
-- /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-8.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-0.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-1.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-2.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-3.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-4.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-5.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-6.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-7.avif
+  - /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-8.avif
+pubDate: 2023-05-02
+tags:
+  - action
+  - android
+  - defense-derby
+  - indie
+  - ios
+  - mobile
+  - pc
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-0.avif
 ---
+
 Defense Derby
 
 lyndonguitar

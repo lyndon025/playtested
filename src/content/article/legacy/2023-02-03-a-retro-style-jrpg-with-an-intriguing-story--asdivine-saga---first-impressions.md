@@ -1,37 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Asdivine Saga is the latest standalone entry in the somewhat popular
-  and at the same time obscure retro-style JRPG series Asdivine. While made primarily
-  for and popular on mobile platforms, most of the games were also released on PC
-  and consoles but turned out not quite as popular.
-featured: false
-pubDate: 2023-02-03
-tags:
-- adventure
-- asdivine-saga
-- casual
-- console
-- indie
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-0.avif
+slug: 2023-02-03-a-retro-style-jrpg-with-an-intriguing-story-asdivine-saga-first-impressions
 title: A retro-style JRPG with an intriguing story | Asdivine Saga - First Impressions
 game: Asdivine Saga
+description: Asdivine Saga is the latest standalone entry in the somewhat popular and at the same time obscure retro-style JRPG series Asdivine. While made primarily for and popular on mobile platforms, most of the games were also released on PC and consoles but turned out not quite as popular.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-0.avif
-- /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-1.avif
-- /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-2.avif
-- /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-3.avif
-- /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-4.avif
-- /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-5.avif
-- /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-6.avif
-- /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-7.avif
+  - /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-0.avif
+  - /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-1.avif
+  - /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-2.avif
+  - /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-3.avif
+  - /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-4.avif
+  - /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-5.avif
+  - /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-6.avif
+  - /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-7.avif
+pubDate: 2023-02-03
+tags:
+  - adventure
+  - asdivine-saga
+  - casual
+  - console
+  - indie
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2023-02-03-a-retro-style-jrpg-with-an-intriguing-story--asdivine-saga---first-impressions-0.avif
 ---
+
 Asdivine Saga is the latest standalone entry in the somewhat popular and at the same time obscure retro-style JRPG series Asdivine. While made primarily for and popular on mobile platforms, most of the games were also released on PC and consoles but turned out not quite as popular.
 
 Asdivine Saga starts us off with the typical upbeat introduction of the main character, Vyse, an already established hot-headed fighter by the time the game starts. It wastes no time immersing us in the story and the stakes involved. You see, Vyse lives in Nondia, a neutral territory far from the warring kingdoms of Lightoria and Zandark (“light” and “dark”, I see what you did there). Both kingdoms are trying to recruit Nondians to their cause, and Vyse is caught in the middle of the conflict.

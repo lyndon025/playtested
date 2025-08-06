@@ -1,36 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Valorant is coming with a new update (Patch 7.0) this June 27, which
-  introduces the highly requested Team Deathmatch mode along with three exclusive
-  maps made specifically for the game mode: Piazza, District, and Kasbah. In terms
-  of aesthetics, Piazza bears a resemblance to Ascent with its European architecture,
-  District resembles Split with its urban Japanese setting, and Kasbah shares similarities
-  with Bind with its African location.'
+slug: 2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version-valorant-update-70
+title: Valorant coming with a new update! Team Deathmatch? Mobile version? | Valorant Update 7.0
+game: Valorant
+description: 'Valorant is coming with a new update (Patch 7.0) this June 27, which introduces the highly requested Team Deathmatch mode along with three exclusive maps made specifically for the game mode: Piazza, District, and Kasbah. In terms of aesthetics, Piazza bears a resemblance to Ascent with its European architecture, District resembles Split with its urban Japanese setting, and Kasbah shares similarities with Bind with its African location.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-0.avif
+  - /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-1.avif
+  - /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-2.avif
+  - /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-3.avif
 pubDate: 2023-06-21
 tags:
-- action
-- console
-- mobile
-- pc
-- playstation
-- playstation 5
-- shooter
-- strategy
-- taptap
-- valorant
-- xbox series
+  - action
+  - console
+  - mobile
+  - pc
+  - playstation
+  - playstation-5
+  - shooter
+  - strategy
+  - taptap
+  - valorant
+  - xbox-series
 thumb: /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-0.avif
-title: Valorant coming with a new update! Team Deathmatch? Mobile version? | Valorant
-  Update 7.0
-game: Valorant
-gallery:
-- /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-0.avif
-- /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-1.avif
-- /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-2.avif
-- /images/reviews/legacy/2023-06-21-valorant-coming-with-a-new-update-team-deathmatch-mobile-version--valorant-update-70-3.avif
 ---
+
 VALORANT Mobile
 9.1
 Multiplayer

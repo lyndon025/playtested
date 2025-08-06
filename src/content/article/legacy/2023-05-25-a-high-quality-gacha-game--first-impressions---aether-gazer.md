@@ -1,26 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: Aether Gazer is a Action RPG gacha game set in a virtual world where
-  humans have transcended into after a catastrophic war and have since forgotten their
-  true origins. Players take on the role of the administrator of “Aether Gazer''.
-  Fighters called Modifiers are tasked to protect this virtual world from corrupted
-  beings called Visbanes.
+slug: 2023-05-25-a-high-quality-gacha-game-first-impressions-aether-gazer
+title: A high quality gacha game? | First Impressions - Aether Gazer
+game: Aether Gazer
+description: Aether Gazer is a Action RPG gacha game set in a virtual world where humans have transcended into after a catastrophic war and have since forgotten their true origins. Players take on the role of the administrator of “Aether Gazer''. Fighters called Modifiers are tasked to protect this virtual world from corrupted beings called Visbanes.
 featured: false
 pubDate: 2023-05-25
 tags:
-- action
-- aether-gazer
-- android
-- ios
-- mobile
-- pc
-- rpg
-- taptap
+  - action
+  - aether-gazer
+  - android
+  - ios
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: A high quality gacha game? | First Impressions - Aether Gazer
-game: Aether Gazer
 ---
+
 Aether Gazer is a Action RPG gacha game set in a virtual world where humans have transcended into after a catastrophic war and have since forgotten their true origins. Players take on the role of the administrator of “Aether Gazer''. Fighters called Modifiers are tasked to protect this virtual world from corrupted beings called Visbanes.
 
 Aether Gazer offers a wide array of playable characters to collect, each with their unique designs, personalities, and abilities. With all the waifu games coming out lately, it’s worth noting that this is not one of them, as it also features male characters to collect. The characters are beautifully designed with anime-inspired art style, featuring elaborate costumes, expressive facial features, and eye-catching animations.

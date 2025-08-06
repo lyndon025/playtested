@@ -1,35 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Phantom Blade: Executioners is a 2D side-scrolling martial arts hack
-  and slash game available on PC, Android, and iOS, featuring full crossplay functionality.
-  It is currently hosting a live open beta test from June 26 to July 10, 2023.'
+slug: 2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review-phantom-blade-exe
+title: 'An intense side-scrolling hack and slash ARPG coming soon| Beta Review - Phantom Blade: Executioners'
+game: 'Beta Review - Phantom Blade: Executioners'
+description: 'Phantom Blade: Executioners is a 2D side-scrolling martial arts hack and slash game available on PC, Android, and iOS, featuring full crossplay functionality. It is currently hosting a live open beta test from June 26 to July 10, 2023.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-0.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-1.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-2.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-3.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-4.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-5.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-6.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-7.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-8.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-9.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-10.avif
+  - /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-11.avif
 pubDate: 2023-06-27
 tags:
-- beta-review-phantom-blade-executioners
-- mobile
-- pc
-- platformer
-- taptap
+  - beta-review-phantom-blade-executioners
+  - mobile
+  - pc
+  - platformer
+  - taptap
 thumb: /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-0.avif
-title: 'An intense side-scrolling hack and slash ARPG coming soon| Beta Review - Phantom
-  Blade: Executioners'
-game: 'Beta Review - Phantom Blade: Executioners'
-gallery:
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-0.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-1.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-2.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-3.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-4.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-5.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-6.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-7.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-8.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-9.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-10.avif
-- /images/reviews/legacy/2023-06-27-an-intense-side-scrolling-hack-and-slash-arpg-coming-soon-beta-review---phantom-blade-exe-11.avif
 ---
+
 Phantom Blade: Executioners
 
 lyndonguitar
@@ -38,21 +37,30 @@ Pre-register
 Phantom Blade: Executioners is a 2D side-scrolling martial arts hack and slash game available on PC, Android, and iOS, featuring full crossplay functionality. It is currently hosting a live open beta test from June 26 to July 10, 2023.
 
 
-**Pros:**
 
 
-+Four characters that players can all play, each with their own progression
-
-+Unique art style, a blend of Chinese Art and Anime.
-
-+Plethora of unlockable skills that can be mixed, matched, and synergized with each other
-
-+Clever approach to its combo chains combat system
-
-+Crossplay with PC, Android, and iOS
+## Pros
 
 
-**Cons:**
+
+## +Four characters that players can all play, each with their own progression
+
+
+## +Unique art style, a blend of Chinese Art and Anime.
+
+
+## +Plethora of unlockable skills that can be mixed, matched, and synergized with each other
+
+
+## +Clever approach to its combo chains combat system
+
+
+## +Crossplay with PC, Android, and iOS
+
+
+
+
+## Cons
 
 
 -Minor performance problems
@@ -61,11 +69,14 @@ Phantom Blade: Executioners is a 2D side-scrolling martial arts hack and slash g
 
 -Mixed voice acting quality
 
-📝Notable points:
 
-*No automated or idle mechanics
+## 📝Notable points:
 
-*These pros and cons are based on beta build and does not accurately represent the quality of the finished product
+
+## *No automated or idle mechanics
+
+
+## *These pros and cons are based on beta build and does not accurately represent the quality of the finished product
 
 Not to be confused with the similarly titled AAA third-person hack and slash game Phantom Blade Zero, which unsurprisingly comes from the same developers, S-Game. Phantom Blade: Executioners takes a completely mobile-centric approach to the beloved Phantom Blade franchise.
 

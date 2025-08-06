@@ -1,33 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Tron: Identity takes us back to the Tron Universe, in a never before
-  seen world, or server as it might be called – in a puzzle adventure game format
-  where the player’s decisions matter. The players control the detective program Query,
-  tasked to investigate a mysterious event, finding out the whos, whys, and whats.'
-featured: false
-pubDate: 2023-04-13
-tags:
-- adventure
-- casual
-- console
-- indie
-- macos
-- nintendo switch
-- pc
-- taptap
-- tron-identity
-thumb: /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-0.avif
+slug: 2023-04-13-a-welcome-addition-to-the-tron-franchise-first-impressions-tron-identity
 title: 'A welcome addition to the TRON franchise | First Impressions - Tron: Identity'
 game: 'Tron: Identity'
+description: 'Tron: Identity takes us back to the Tron Universe, in a never before seen world, or server as it might be called – in a puzzle adventure game format where the player’s decisions matter. The players control the detective program Query, tasked to investigate a mysterious event, finding out the whos, whys, and whats.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-0.avif
-- /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-1.avif
-- /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-2.avif
-- /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-3.avif
-- /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-4.avif
-- /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-5.avif
+  - /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-0.avif
+  - /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-1.avif
+  - /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-2.avif
+  - /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-3.avif
+  - /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-4.avif
+  - /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-5.avif
+pubDate: 2023-04-13
+tags:
+  - adventure
+  - casual
+  - console
+  - indie
+  - macos
+  - nintendo-switch
+  - pc
+  - taptap
+  - tron-identity
+thumb: /images/reviews/legacy/2023-04-13-a-welcome-addition-to-the-tron-franchise--first-impressions---tron-identity-0.avif
 ---
+
 Tron: Identity takes us back to the Tron Universe, in a never before seen world, or server as it might be called – in a puzzle adventure game format where the player’s decisions matter. The players control the detective program Query, tasked to investigate a mysterious event, finding out the whos, whys, and whats.
 
 Immediately from the start, I was hooked by the amazing storytelling and beautiful 2D visual novel art-style with 3D parallax and neon effects. There is no voice acting, and the game is purely read by the player — which is even more impressive that I got compelled by that much.

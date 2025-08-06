@@ -1,41 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Download Myth: Gods of Asgard is a hack and slash action
-  role-playing game set in Norse mythology, with a visually stunning art style, combat,
-  and a gacha system.'
+slug: 2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals-review-myth-gods-of-asgard
+title: 'Intense combat system, a rich narrative, and stunning visuals | Review - Myth: Gods of Asgard'
+game: 'Myth: Gods of Asgard'
+description: 'lyndonguitar Download Myth: Gods of Asgard is a hack and slash action role-playing game set in Norse mythology, with a visually stunning art style, combat, and a gacha system.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-0.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-1.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-2.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-3.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-4.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-5.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-6.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-7.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-8.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-9.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-10.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-11.avif
+  - /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-12.avif
 pubDate: 2023-06-01
 tags:
-- action
-- adventure
-- casual
-- indie
-- mobile
-- myth-gods-of-asgard
-- pc
-- rpg
-- strategy
-- taptap
+  - action
+  - adventure
+  - casual
+  - indie
+  - mobile
+  - myth-gods-of-asgard
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-0.avif
-title: 'Intense combat system, a rich narrative, and stunning visuals | Review - Myth:
-  Gods of Asgard'
-game: 'Myth: Gods of Asgard'
-gallery:
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-0.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-1.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-2.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-3.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-4.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-5.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-6.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-7.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-8.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-9.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-10.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-11.avif
-- /images/reviews/legacy/2023-06-01-intense-combat-system-a-rich-narrative-and-stunning-visuals--review---myth-gods-of-asgard-12.avif
 ---
+
 Myth: Gods of AsgardGlobal
 
 lyndonguitar
@@ -43,21 +42,30 @@ Download
 Myth: Gods of Asgard is a hack and slash action role-playing game set in Norse mythology, with a visually stunning art style, combat, and a gacha system.
 
 
-**Pros:**
 
 
-+Based on norse mythology we are all familiar with
-
-+Stunning comic-book inspired visuals and art style
-
-+Combat is a finely tuned and thrilling intense experience
-
-+Gacha system focuses on powers and summons, not the actual hero characters
-
-+Diverse game modes from singleplayer campaign to asymmetric multiplayer mode
+## Pros
 
 
-**Cons:**
+
+## +Based on norse mythology we are all familiar with
+
+
+## +Stunning comic-book inspired visuals and art style
+
+
+## +Combat is a finely tuned and thrilling intense experience
+
+
+## +Gacha system focuses on powers and summons, not the actual hero characters
+
+
+## +Diverse game modes from singleplayer campaign to asymmetric multiplayer mode
+
+
+
+
+## Cons
 
 
 -over the top and below average voice acting quality

@@ -1,34 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Quasimorph is a mix of classic turn-based roguelike RPG with an extraction
-  twist, where the player's progress and acquired loot depend on their survival in
-  missions.
+slug: 2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore-demo-review-quasimorph
+title: A Hardcore retro roguelike extraction game, perhaps too hardcore | Demo Review - Quasimorph
+game: Review - Quasimorph
+description: Quasimorph is a mix of classic turn-based roguelike RPG with an extraction twist, where the player's progress and acquired loot depend on their survival in missions.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-0.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-1.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-2.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-3.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-4.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-5.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-6.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-7.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-8.avif
+  - /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-9.avif
 pubDate: 2023-06-23
 tags:
-- casual
-- indie
-- pc
-- racing
-- review-quasimorph
-- taptap
+  - casual
+  - indie
+  - pc
+  - racing
+  - review-quasimorph
+  - taptap
 thumb: /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-0.avif
-title: A Hardcore retro roguelike extraction game, perhaps too hardcore | Demo Review
-  - Quasimorph
-game: Review - Quasimorph
-gallery:
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-0.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-1.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-2.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-3.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-4.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-5.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-6.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-7.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-8.avif
-- /images/reviews/legacy/2023-06-23-a-hardcore-retro-roguelike-extraction-game-perhaps-too-hardcore--demo-review---quasimorph-9.avif
 ---
+
 Quasimorphosis
 
 lyndonguitar
@@ -37,17 +36,24 @@ Test
 Quasimorph is a mix of classic turn-based roguelike RPG with an extraction twist, where the player's progress and acquired loot depend on their survival in missions.
 
 
-**Pros:**
 
 
-+Engaging fusion of turn-based roguelike RPG and extraction mechanics.
-
-+Methodical combat mechanics that reward strategic thinking
-
-+Intricate inventory system and hardcore health mechanics.
+## Pros
 
 
-**Cons:**
+
+## +Engaging fusion of turn-based roguelike RPG and extraction mechanics.
+
+
+## +Methodical combat mechanics that reward strategic thinking
+
+
+## +Intricate inventory system and hardcore health mechanics.
+
+
+
+
+## Cons
 
 
 -Lack of a text-skipping feature, making dialogue frustrating
@@ -56,7 +62,8 @@ Quasimorph is a mix of classic turn-based roguelike RPG with an extraction twist
 
 -It’s hardcore difficulty is not for a lot of people
 
-📝Notable points: That these pros and cons are based on Demo build and does not accurately represent the quality of the finished product
+
+## 📝Notable points: That these pros and cons are based on Demo build and does not accurately represent the quality of the finished product
 
 The title can be confusing as the game was originally called Quasimorphosis but has recently been changed to just Quasimorph. However, the game itself remains the same, with improvements and changes, particularly in the character's appearance and movement on the map.
 

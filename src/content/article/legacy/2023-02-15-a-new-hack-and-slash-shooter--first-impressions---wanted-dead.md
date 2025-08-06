@@ -1,40 +1,41 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Wanted: Dead a new action-packed game that blends the fast-paced gameplay
-  of a hack and slash game with the excitement of a third-person shooter.'
-featured: false
-pubDate: 2023-02-15
-tags:
-- action
-- adventure
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- shooter
-- taptap
-- wanted-dead
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-0.avif
+slug: 2023-02-15-a-new-hack-and-slash-shooter-first-impressions-wanted-dead
 title: 'A new hack and slash shooter! | First Impressions - Wanted: Dead'
 game: 'Wanted: Dead'
+description: 'Wanted: Dead a new action-packed game that blends the fast-paced gameplay of a hack and slash game with the excitement of a third-person shooter.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-0.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-1.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-2.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-3.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-4.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-5.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-6.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-7.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-8.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-9.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-10.avif
-- /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-11.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-0.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-1.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-2.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-3.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-4.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-5.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-6.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-7.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-8.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-9.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-10.avif
+  - /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-11.avif
+pubDate: 2023-02-15
+tags:
+  - action
+  - adventure
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - shooter
+  - taptap
+  - wanted-dead
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-02-15-a-new-hack-and-slash-shooter--first-impressions---wanted-dead-0.avif
 ---
+
 Wanted: Dead a new action-packed game that blends the fast-paced gameplay of a hack and slash game with the excitement of a third-person shooter.
 
 You play as Lieutenant Hannah Stone, a hardboiled Hong Kong cop, leader of the police squad named Zombie Unit. Your mission is to uncover a corporate conspiracy in a cyberpunk world full of cybernetic mercenaries, gangs, and private militaries.

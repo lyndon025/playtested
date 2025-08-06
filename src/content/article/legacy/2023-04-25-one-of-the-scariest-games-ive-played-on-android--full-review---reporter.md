@@ -1,59 +1,69 @@
 ---
 author: lyndonguitar
 category: Review
-description: Reporter - Scary Horror Game Reporter is a first-person adventure horror
-  game that takes place in an antiquated, abandoned hospital. The game is developed
-  by AGaming+ and is available on Android devices.
-featured: false
-pubDate: 2023-04-25
-tags:
-- action
-- android
-- mobile
-- reporter
-- taptap
-thumb: /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif
+slug: 2023-04-25-one-of-the-scariest-games-ive-played-on-android-full-review-reporter
 title: One of the scariest games I’ve played on android | Full Review - Reporter
 game: Reporter
+description: Reporter - Scary Horror Game Reporter is a first-person adventure horror game that takes place in an antiquated, abandoned hospital. The game is developed by AGaming+ and is available on Android devices.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-1.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-2.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-3.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-4.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-5.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-6.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-7.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-8.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-9.avif
-- /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-10.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-1.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-2.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-3.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-4.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-5.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-6.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-7.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-8.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-9.avif
+  - /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-10.avif
+pubDate: 2023-04-25
+tags:
+  - action
+  - android
+  - mobile
+  - reporter
+  - taptap
+thumb: /images/reviews/legacy/2023-04-25-one-of-the-scariest-games-ive-played-on-android--full-review---reporter-0.avif
 ---
+
 Reporter - Scary Horror Game
 Reporter is a first-person adventure horror game that takes place in an antiquated, abandoned hospital. The game is developed by AGaming+ and is available on Android devices.
 
 
-**Pros:**
 
 
-+creepy atmosphere
-
-+actually scary without using many cheap jumpscares
-
-+console-level graphics
+## Pros
 
 
-**Cons:**
+
+## +creepy atmosphere
+
+
+## +actually scary without using many cheap jumpscares
+
+
+## +console-level graphics
+
+
+
+
+## Cons
 
 
 -very short, only an hour of story
 
 -inconsequential story
 
-📝Notable points:
 
-*Voice-overs are only in Russian language
+## 📝Notable points:
 
-*One-time purchase only with no IAPs
+
+## *Voice-overs are only in Russian language
+
+
+## *One-time purchase only with no IAPs
 
 Reporter follows the story of a journalist who is investigating a mysterious series of macabre events. This investigation has taken him to this old, abandoned hospital. As the player, you take on the role of this journalist and must explore the hospital, solve puzzles, and uncover clues while avoiding monsters to progress through the game. The game features an unsettling atmosphere, mild jump scares, and a variety of Resident Evil 7 inspired puzzler gameplay.
 

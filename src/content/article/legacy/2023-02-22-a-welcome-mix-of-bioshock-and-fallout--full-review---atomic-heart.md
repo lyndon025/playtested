@@ -1,69 +1,78 @@
 ---
 author: lyndonguitar
 category: Review
-description: Atomic Heart is a new Action-FPS game with RPG, Open World, and horror
-  elements, set in a utopian soviet-era society gone wrong.
-featured: false
-pubDate: 2023-02-22
-tags:
-- action
-- adventure
-- atomic-heart
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- shooter
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-0.avif
+slug: 2023-02-22-a-welcome-mix-of-bioshock-and-fallout-full-review-atomic-heart
 title: A welcome mix of Bioshock and Fallout | Full Review - Atomic Heart
 game: Atomic Heart
+description: Atomic Heart is a new Action-FPS game with RPG, Open World, and horror elements, set in a utopian soviet-era society gone wrong.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-0.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-1.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-2.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-3.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-4.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-5.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-6.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-7.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-8.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-9.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-10.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-11.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-12.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-13.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-14.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-15.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-16.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-17.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-18.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-19.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-20.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-21.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-22.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-23.avif
-- /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-24.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-0.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-1.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-2.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-3.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-4.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-5.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-6.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-7.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-8.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-9.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-10.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-11.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-12.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-13.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-14.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-15.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-16.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-17.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-18.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-19.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-20.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-21.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-22.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-23.avif
+  - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-24.avif
+pubDate: 2023-02-22
+tags:
+  - action
+  - adventure
+  - atomic-heart
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - shooter
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-0.avif
 ---
+
 Atomic Heart is a new Action-FPS game with RPG, Open World, and horror elements, set in a utopian soviet-era society gone wrong.
 
 
-**Pros:**
 
 
-+Finely tuned compelling combat
-
-+Stunning graphics and level design
-
-+Main character is full of personality
-
-+Smooth performance and optimization
+## Pros
 
 
-**Cons:**
+
+## +Finely tuned compelling combat
+
+
+## +Stunning graphics and level design
+
+
+## +Main character is full of personality
+
+
+## +Smooth performance and optimization
+
+
+
+
+## Cons
 
 
 -Open-world feels out of place

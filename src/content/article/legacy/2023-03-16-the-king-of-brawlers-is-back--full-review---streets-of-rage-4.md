@@ -1,62 +1,69 @@
 ---
 author: lyndonguitar
 category: Review
-description: Streets of Rage 4 is a side-scrolling retro beat 'em up game that truly
-  captures the essence of the original series while also bringing modern elements
-  to the table.
-featured: false
-pubDate: 2023-03-16
-tags:
-- action
-- adventure
-- console
-- fighting
-- indie
-- ios
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- streets-of-rage-4
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-0.avif
+slug: 2023-03-16-the-king-of-brawlers-is-back-full-review-streets-of-rage-4
 title: The King of Brawlers is back! | Full Review - Streets of Rage 4
 game: Streets of Rage 4
+description: Streets of Rage 4 is a side-scrolling retro beat 'em up game that truly captures the essence of the original series while also bringing modern elements to the table.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-0.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-1.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-2.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-3.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-4.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-5.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-6.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-7.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-8.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-9.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-10.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-11.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-12.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-13.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-14.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-15.avif
-- /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-16.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-0.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-1.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-2.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-3.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-4.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-5.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-6.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-7.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-8.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-9.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-10.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-11.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-12.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-13.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-14.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-15.avif
+  - /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-16.avif
+pubDate: 2023-03-16
+tags:
+  - action
+  - adventure
+  - console
+  - fighting
+  - indie
+  - ios
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - streets-of-rage-4
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2023-03-16-the-king-of-brawlers-is-back--full-review---streets-of-rage-4-0.avif
 ---
+
 Streets of Rage 4 is a side-scrolling retro beat 'em up game that truly captures the essence of the original series while also bringing modern elements to the table.
 
 
-**Pros:**
 
 
-+Beautiful art style and 2D graphics
-
-+Simple but fun gameplay
-
-+Controller Support
+## Pros
 
 
-**Cons:**
+
+## +Beautiful art style and 2D graphics
+
+
+## +Simple but fun gameplay
+
+
+## +Controller Support
+
+
+
+
+## Cons
 
 
 -No cons

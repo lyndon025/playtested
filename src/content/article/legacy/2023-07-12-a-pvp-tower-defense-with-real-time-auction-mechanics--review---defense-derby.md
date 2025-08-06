@@ -1,35 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Download Defense Derby is a mobile multiplayer tower defense
-  game that brings unique mechanics with its gameplay. With a captivating combination
-  of hero collection and a unique bidding system, this title offers an addictive and
-  strategic experience.
-featured: false
-pubDate: 2023-07-12
-tags:
-- action
-- android
-- defense-derby
-- indie
-- ios
-- mobile
-- pc
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-0.avif
+slug: 2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics-review-defense-derby
 title: A PvP tower defense with real-time auction mechanics | Review - Defense Derby
 game: Defense Derby
+description: lyndonguitar Download Defense Derby is a mobile multiplayer tower defense game that brings unique mechanics with its gameplay. With a captivating combination of hero collection and a unique bidding system, this title offers an addictive and strategic experience.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-0.avif
-- /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-1.avif
-- /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-2.avif
-- /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-3.avif
-- /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-4.avif
-- /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-5.avif
-- /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-6.avif
-- /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-7.avif
+  - /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-0.avif
+  - /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-1.avif
+  - /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-2.avif
+  - /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-3.avif
+  - /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-4.avif
+  - /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-5.avif
+  - /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-6.avif
+  - /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-7.avif
+pubDate: 2023-07-12
+tags:
+  - action
+  - android
+  - defense-derby
+  - indie
+  - ios
+  - mobile
+  - pc
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-07-12-a-pvp-tower-defense-with-real-time-auction-mechanics--review---defense-derby-0.avif
 ---
+
 Defense Derby
 
 lyndonguitar
@@ -37,22 +36,30 @@ Download
 Defense Derby is a mobile multiplayer tower defense game that brings unique mechanics with its gameplay. With a captivating combination of hero collection and a unique bidding system, this title offers an addictive and strategic experience.
 
 
-**Pros:**
 
 
-+Unique bidding mechanics
-
-+Strategic tower defense gameplay
-
-+Asynchronous tower defense PvP mechanics
+## Pros
 
 
-**Cons:**
+
+## +Unique bidding mechanics
+
+
+## +Strategic tower defense gameplay
+
+
+## +Asynchronous tower defense PvP mechanics
+
+
+
+
+## Cons
 
 
 -In-App purchases can change the balance of PvP
 
-📝Notable points:
+
+## 📝Notable points:
 
 These pros and cons are based on the soft launch version of Defense Derby available on Android.Some aspects of the game may have been updated or changed since the time of writing.
 

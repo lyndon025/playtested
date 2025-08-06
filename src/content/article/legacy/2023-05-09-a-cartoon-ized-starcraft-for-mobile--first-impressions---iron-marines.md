@@ -1,33 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Iron Marines+ is a real time strategy game released for mobile devices
-  originally back in 2017, and has since been ported to PC, and then recently released
-  as Iron Marines+, a version of the game that is exclusive to Apple Arcade, a subscription-based
-  gaming service offered by Apple.
-featured: false
-pubDate: 2023-05-09
-tags:
-- action
-- android
-- indie
-- ios
-- iron-marines
-- macos
-- mobile
-- pc
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-0.avif
+slug: 2023-05-09-a-cartoon-ized-starcraft-for-mobile-first-impressions-iron-marines
 title: A cartoon-ized StarCraft for mobile | First Impressions - Iron Marines+
 game: Iron Marines
+description: Iron Marines+ is a real time strategy game released for mobile devices originally back in 2017, and has since been ported to PC, and then recently released as Iron Marines+, a version of the game that is exclusive to Apple Arcade, a subscription-based gaming service offered by Apple.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-0.avif
-- /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-1.avif
-- /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-2.avif
-- /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-3.avif
-- /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-4.avif
+  - /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-0.avif
+  - /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-1.avif
+  - /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-2.avif
+  - /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-3.avif
+  - /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-4.avif
+pubDate: 2023-05-09
+tags:
+  - action
+  - android
+  - indie
+  - ios
+  - iron-marines
+  - macos
+  - mobile
+  - pc
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-05-09-a-cartoon-ized-starcraft-for-mobile--first-impressions---iron-marines-0.avif
 ---
+
 Iron Marines+
 --
 Action

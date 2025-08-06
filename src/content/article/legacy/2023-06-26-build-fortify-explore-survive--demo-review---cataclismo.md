@@ -1,28 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cataclismo is a town building and tower defense real-time pausable strategy
-  game where you build and defend the towers and walls of humanity that are struggling
-  to survive in a fantasy world plagued by a hazardous mist and eerie creatures.
-featured: false
-pubDate: 2023-06-26
-tags:
-- review-cataclismo
-- simulation
-- taptap
-- web
-thumb: /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-0.avif
+slug: 2023-06-26-build-fortify-explore-survive-demo-review-cataclismo
 title: Build, Fortify, Explore, Survive | Demo Review - Cataclismo
 game: Review - Cataclismo
+description: Cataclismo is a town building and tower defense real-time pausable strategy game where you build and defend the towers and walls of humanity that are struggling to survive in a fantasy world plagued by a hazardous mist and eerie creatures.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-0.avif
-- /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-1.avif
-- /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-2.avif
-- /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-3.avif
-- /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-4.avif
-- /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-5.avif
-- /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-6.avif
+  - /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-0.avif
+  - /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-1.avif
+  - /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-2.avif
+  - /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-3.avif
+  - /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-4.avif
+  - /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-5.avif
+  - /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-6.avif
+pubDate: 2023-06-26
+tags:
+  - review-cataclismo
+  - simulation
+  - taptap
+  - web
+thumb: /images/reviews/legacy/2023-06-26-build-fortify-explore-survive--demo-review---cataclismo-0.avif
 ---
+
 Cataclismo
 
 Cataclismo is a town building and tower defense real-time pausable strategy game where you build and defend the towers and walls of humanity that are struggling to survive in a fantasy world plagued by a hazardous mist and eerie creatures.

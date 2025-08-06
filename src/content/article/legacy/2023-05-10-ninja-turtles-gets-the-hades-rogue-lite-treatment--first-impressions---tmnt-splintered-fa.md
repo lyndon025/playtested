@@ -1,34 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: TMNT Splintered Fate is a rogue-lite hack and slash action RPG game featuring
-  kinetic action-packed gameplay, fluid combat system, and an addictive dungeon crawling
-  element.
+slug: 2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment-first-impressions-tmnt-splintered-fa
+title: Ninja Turtles gets the Hades rogue-lite treatment | First Impressions - TMNT Splintered Fate
+game: TMNT Splintered Fate
+description: TMNT Splintered Fate is a rogue-lite hack and slash action RPG game featuring kinetic action-packed gameplay, fluid combat system, and an addictive dungeon crawling element.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-0.avif
+  - /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-1.avif
+  - /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-2.avif
+  - /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-3.avif
+  - /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-4.avif
+  - /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-5.avif
+  - /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-6.avif
 pubDate: 2023-05-10
 tags:
-- action
-- adventure
-- console
-- ios
-- nintendo switch
-- pc
-- rpg
-- taptap
-- tmnt-splintered-fate
+  - action
+  - adventure
+  - console
+  - ios
+  - nintendo-switch
+  - pc
+  - rpg
+  - taptap
+  - tmnt-splintered-fate
 thumb: /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-0.avif
-title: Ninja Turtles gets the Hades rogue-lite treatment | First Impressions - TMNT
-  Splintered Fate
-game: TMNT Splintered Fate
-gallery:
-- /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-0.avif
-- /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-1.avif
-- /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-2.avif
-- /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-3.avif
-- /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-4.avif
-- /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-5.avif
-- /images/reviews/legacy/2023-05-10-ninja-turtles-gets-the-hades-rogue-lite-treatment--first-impressions---tmnt-splintered-fa-6.avif
 ---
+
 TMNT Splintered Fate
 7.7
 Action

@@ -1,36 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Download BRIXITY is an innovative sandbox city-building
-  game that invites players to embark on a creative journey of restoration and construction.
-  Set in a world that suffered a collapse five centuries ago, players are tasked with
-  rebuilding Earth using the remarkable BRIX technology.
-featured: false
-pubDate: 2023-08-25
-tags:
-- adventure
-- brixity
-- indie
-- mobile
-- pc
-- taptap
-thumb: /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif
+slug: 2023-08-25-an-original-city-builder-suitable-for-all-ages-review-brixity
 title: An original city-builder suitable for all ages | Review - BRIXITY
 game: BRIXITY
+description: lyndonguitar Download BRIXITY is an innovative sandbox city-building game that invites players to embark on a creative journey of restoration and construction. Set in a world that suffered a collapse five centuries ago, players are tasked with rebuilding Earth using the remarkable BRIX technology.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-1.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-2.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-3.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-4.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-5.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-6.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-7.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-8.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-9.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-10.avif
-- /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-11.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-1.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-2.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-3.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-4.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-5.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-6.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-7.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-8.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-9.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-10.avif
+  - /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-11.avif
+pubDate: 2023-08-25
+tags:
+  - adventure
+  - brixity
+  - indie
+  - mobile
+  - pc
+  - taptap
+thumb: /images/reviews/legacy/2023-08-25-an-original-city-builder-suitable-for-all-ages--review---brixity-0.avif
 ---
+
 BRIXITY - Sandbox&Multiplayer
 
 lyndonguitar
@@ -38,14 +37,18 @@ Download
 BRIXITY is an innovative sandbox city-building game that invites players to embark on a creative journey of restoration and construction. Set in a world that suffered a collapse five centuries ago, players are tasked with rebuilding Earth using the remarkable BRIX technology.
 
 
-**Pros:**
+
+
+## Pros
 - Wholesome gameplay for all ages
 - Charming and cute visuals
 - Freedom to build custom buildings and structures and share it with the community
 - Explore both your own city and those by others in third person
 
 
-**Cons:**
+
+
+## Cons
 - Paywalls limit players’ creativity and choices
 - time consuming, progression and currency requires real-time waiting
 

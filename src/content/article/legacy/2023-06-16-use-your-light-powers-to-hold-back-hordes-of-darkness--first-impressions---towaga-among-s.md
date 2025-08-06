@@ -1,30 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Towaga: Among Shadows is a  2D shoot ''em up game that blends dual/single
-  stick shooting and tower defense elements. It was previously released for Switch,
-  PC, Playstation, Apple Arcade, and has since made its way to mobile platforms (iOS,
-  Android) with a recent release last June 15, 2023.'
+slug: 2023-06-16-use-your-light-powers-to-hold-back-hordes-of-darkness-first-impressions-towaga-among-s
+title: Use your light powers to hold back hordes of darkness | First Impressions - Towaga Among Shadows
+game: 'Towaga: Among Shadows'
+description: "Towaga: Among Shadows is a  2D shoot 'em up game that blends dual/single stick shooting and tower defense elements. It was previously released for Switch, PC, Playstation, Apple Arcade, and has since made its way to mobile platforms (iOS, Android) with a recent release last June 15, 2023."
 featured: false
 pubDate: 2023-06-16
 tags:
-- action
-- console
-- ios
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- shooter
-- taptap
-- towaga-among-shadows
-- xbox one
+  - action
+  - console
+  - ios
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - shooter
+  - taptap
+  - towaga-among-shadows
+  - xbox-one
 thumb: ''
-title: Use your light powers to hold back hordes of darkness | First Impressions -
-  Towaga Among Shadows
-game: 'Towaga: Among Shadows'
 ---
+
 Towaga: Among Shadows is a  2D shoot 'em up game that blends dual/single stick shooting and tower defense elements. It was previously released for Switch, PC, Playstation, Apple Arcade, and has since made its way to mobile platforms (iOS, Android) with a recent release last June 15, 2023.
 
 The gameplay in Towaga: Among Shadows offers a fresh take on the shoot 'em up genre. As Chimu, players must defend the Temple of Towaga by using their supernatural powers to shoot beams of light at shadow creatures, one phase at a time. It’s literally like pointing a strong flashlight towards enemies, and it’s visually satisfying to do.

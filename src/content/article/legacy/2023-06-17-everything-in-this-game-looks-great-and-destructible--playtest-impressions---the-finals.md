@@ -1,32 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Get THE FINALS is a tournament-based game with elimination
-  in an arena setting and looks as if Battlefield, with its amazing graphics, lighting,
-  sound design, and destructible environments, had a baby with Overwatch's teammate-based
-  combat and flashy abilities. This isn't a surprise, as the developer, Embark Studios,
-  was founded by former DICE developers, the creators of the Battlefield games. A
-  closed beta has gone live now on Steam, and players can try and request access.
+slug: 2023-06-17-everything-in-this-game-looks-great-and-destructible-playtest-impressions-the-finals
+title: Everything in this game looks great... and destructible | Playtest Impressions - THE FINALS
+game: Playtest Impressions - THE FINALS
+description: lyndonguitar Get THE FINALS is a tournament-based game with elimination in an arena setting and looks as if Battlefield, with its amazing graphics, lighting, sound design, and destructible environments, had a baby with Overwatch's teammate-based combat and flashy abilities. This isn't a surprise, as the developer, Embark Studios, was founded by former DICE developers, the creators of the Battlefield games. A closed beta has gone live now on Steam, and players can try and request access.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-0.avif
+  - /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-1.avif
+  - /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-2.avif
+  - /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-3.avif
+  - /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-4.avif
+  - /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-5.avif
+  - /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-6.avif
 pubDate: 2023-06-17
 tags:
-- macos
-- pc
-- playtest-impressions-the-finals
-- taptap
+  - macos
+  - pc
+  - playtest-impressions-the-finals
+  - taptap
 thumb: /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-0.avif
-title: Everything in this game looks great... and destructible | Playtest Impressions
-  - THE FINALS
-game: Playtest Impressions - THE FINALS
-gallery:
-- /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-0.avif
-- /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-1.avif
-- /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-2.avif
-- /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-3.avif
-- /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-4.avif
-- /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-5.avif
-- /images/reviews/legacy/2023-06-17-everything-in-this-game-looks-great-and-destructible--playtest-impressions---the-finals-6.avif
 ---
+
 THE FINALS
 
 lyndonguitar
@@ -36,22 +32,30 @@ THE FINALS is a tournament-based game with elimination in an arena setting and l
 8-minutes gameplay footage above courtesy of IGN
 
 
-**Pros:**
 
 
-+Best-in-class destructible environments that affect the gameplay
-
-+High-quality graphics
-
-+Great sound design with the weapons
+## Pros
 
 
-**Cons:**
+
+## +Best-in-class destructible environments that affect the gameplay
+
+
+## +High-quality graphics
+
+
+## +Great sound design with the weapons
+
+
+
+
+## Cons
 
 
 -Players looking for an ultra-fast paced experience may not like the more grounded nature of this game
 
-📝Notable points:
+
+## 📝Notable points:
 
 That these pros and cons are based on the closed beta builds and are subject to change as the game develops and new updates are released.
 

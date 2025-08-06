@@ -1,35 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Imagine if Air Hockey was instead played in human size with six players
-  having their own superhuman powers with absolutely no physical restraints or rules,
-  Omega Strikers is exactly just that and more. It is a 3v3 free-to-play multiplayer
-  game that is available for Mobile, PC, Xbox, Playstation, and Switch, with complete
-  crossplay functionality. For the purpose of this article, I will be talking about
-  the Mobile version with predominantly touchscreen controls.
-featured: false
-pubDate: 2023-05-02
-tags:
-- action
-- console
-- ios
-- mobile
-- nintendo switch
-- omega-strikers
-- pc
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif
+slug: 2023-05-02-air-hockey-and-moba-had-a-baby-first-impressions-omega-strikers
 title: Air Hockey and MOBA had a baby | First Impressions - Omega Strikers
 game: Omega Strikers
+description: Imagine if Air Hockey was instead played in human size with six players having their own superhuman powers with absolutely no physical restraints or rules, Omega Strikers is exactly just that and more. It is a 3v3 free-to-play multiplayer game that is available for Mobile, PC, Xbox, Playstation, and Switch, with complete crossplay functionality. For the purpose of this article, I will be talking about the Mobile version with predominantly touchscreen controls.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif
-- /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-1.avif
-- /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-2.avif
-- /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-3.avif
-- /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-4.avif
-- /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-5.avif
+  - /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif
+  - /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-1.avif
+  - /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-2.avif
+  - /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-3.avif
+  - /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-4.avif
+  - /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-5.avif
+pubDate: 2023-05-02
+tags:
+  - action
+  - console
+  - ios
+  - mobile
+  - nintendo-switch
+  - omega-strikers
+  - pc
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-05-02-air-hockey-and-moba-had-a-baby--first-impressions---omega-strikers-0.avif
 ---
+
 Omega Strikers
 8.2
 Action

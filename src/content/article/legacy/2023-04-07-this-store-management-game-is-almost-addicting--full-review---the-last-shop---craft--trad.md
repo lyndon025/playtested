@@ -1,45 +1,50 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Last Shop - Craft & Trade is a store management game where players
-  manage a town shop, selling weapons, armors, and supplies to adventurers in a survivalist
-  town across an apocalyptic setting.
+slug: 2023-04-07-this-store-management-game-is-almost-addicting-full-review-the-last-shop-craft-trad
+title: This store management game is almost addicting | Full Review - The Last Shop - Craft & Trade
+game: The Last Shop - Craft & Trade
+description: The Last Shop - Craft & Trade is a store management game where players manage a town shop, selling weapons, armors, and supplies to adventurers in a survivalist town across an apocalyptic setting.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-0.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-1.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-2.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-3.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-4.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-5.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-6.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-7.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-8.avif
+  - /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-9.avif
 pubDate: 2023-04-07
 tags:
-- adventure
-- ios
-- simulation
-- taptap
-- the-last-shop-craft-trade
+  - adventure
+  - ios
+  - simulation
+  - taptap
+  - the-last-shop-craft-trade
 thumb: /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-0.avif
-title: This store management game is almost addicting | Full Review - The Last Shop
-  - Craft & Trade
-game: The Last Shop - Craft & Trade
-gallery:
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-0.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-1.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-2.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-3.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-4.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-5.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-6.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-7.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-8.avif
-- /images/reviews/legacy/2023-04-07-this-store-management-game-is-almost-addicting--full-review---the-last-shop---craft--trad-9.avif
 ---
+
 The Last Shop - Craft & Trade is a store management game where players manage a town shop, selling weapons, armors, and supplies to adventurers in a survivalist town across an apocalyptic setting.
 
 
-**Pros:**
 
 
-+Borderline addictive merchant simulation
-
-+Bonus gameplay elements like town building and hero management
+## Pros
 
 
-**Cons:**
+
+## +Borderline addictive merchant simulation
+
+
+## +Bonus gameplay elements like town building and hero management
+
+
+
+
+## Cons
 
 
 -Gets grindy

@@ -1,34 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Download Refactor is a roguelike tower defense game featuring
-  a Tetris-like building system and refreshing twists to the tower defense genre.
-featured: false
-pubDate: 2023-05-30
-tags:
-- action
-- adventure
-- indie
-- linux
-- macos
-- mobile
-- pc
-- refactor
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-0.avif
+slug: 2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense-review-refactor
 title: A mind-bending Tetris-inspired roguelike Tower Defense | Review - Refactor
 game: Refactor
+description: lyndonguitar Download Refactor is a roguelike tower defense game featuring a Tetris-like building system and refreshing twists to the tower defense genre.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-0.avif
-- /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-1.avif
-- /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-2.avif
-- /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-3.avif
-- /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-4.avif
-- /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-5.avif
-- /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-6.avif
-- /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-7.avif
+  - /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-0.avif
+  - /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-1.avif
+  - /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-2.avif
+  - /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-3.avif
+  - /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-4.avif
+  - /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-5.avif
+  - /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-6.avif
+  - /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-7.avif
+pubDate: 2023-05-30
+tags:
+  - action
+  - adventure
+  - indie
+  - linux
+  - macos
+  - mobile
+  - pc
+  - refactor
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-05-30-a-mind-bending-tetris-inspired-roguelike-tower-defense--review---refactor-0.avif
 ---
+
 Refactor
 
 lyndonguitar
@@ -36,19 +37,27 @@ Download
 Refactor is a roguelike tower defense game featuring a Tetris-like building system and refreshing twists to the tower defense genre.
 
 
-**Pros:**
 
 
-+Unique but familiar Tetris-like building system
-
-+Innovative tower defense mechanics
-
-+Risk-and-reward resource management elements
-
-+Nostalgic Visual and Audio Experience
+## Pros
 
 
-**Cons:**
+
+## +Unique but familiar Tetris-like building system
+
+
+## +Innovative tower defense mechanics
+
+
+## +Risk-and-reward resource management elements
+
+
+## +Nostalgic Visual and Audio Experience
+
+
+
+
+## Cons
 
 
 -It’s mind-bending difficulty might not be for everyone

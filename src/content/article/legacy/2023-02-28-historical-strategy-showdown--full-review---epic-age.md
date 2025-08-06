@@ -1,53 +1,61 @@
 ---
 author: lyndonguitar
 category: Review
-description: Hero collecting, empire management, politics, tactical warfare, and role
-  playing, Epic Age is all of these things combined, and it's playable on Mobile devices!
-featured: false
-pubDate: 2023-02-28
-tags:
-- epic-age
-- ios
-- mobile
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif
+slug: 2023-02-28-historical-strategy-showdown-full-review-epic-age
 title: Historical strategy showdown | Full Review - Epic Age
 game: Epic Age
+description: Hero collecting, empire management, politics, tactical warfare, and role playing, Epic Age is all of these things combined, and it's playable on Mobile devices!
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-1.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-2.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-3.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-4.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-5.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-6.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-7.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-8.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-9.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-10.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-11.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-12.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-13.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-14.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-15.avif
-- /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-16.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-1.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-2.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-3.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-4.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-5.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-6.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-7.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-8.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-9.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-10.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-11.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-12.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-13.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-14.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-15.avif
+  - /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-16.avif
+pubDate: 2023-02-28
+tags:
+  - epic-age
+  - ios
+  - mobile
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-02-28-historical-strategy-showdown--full-review---epic-age-0.avif
 ---
+
 Hero collecting, empire management, politics, tactical warfare, and role playing, Epic Age is all of these things combined, and it's playable on Mobile devices!
 
 
-**Pros:**
 
 
-+Addicting civilization building gameplay
-
-+Fun hero collecting mechanic
-
-+Amazingly detailed graphics
+## Pros
 
 
-**Cons:**
+
+## +Addicting civilization building gameplay
+
+
+## +Fun hero collecting mechanic
+
+
+## +Amazingly detailed graphics
+
+
+
+
+## Cons
 
 
 -Requires a lot of real-world waiting

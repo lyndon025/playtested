@@ -1,22 +1,20 @@
 ---
 author: lyndonguitar
 category: Review
-description: We Love Katamari REROLL+ Royal Reverie is an enhanced edition of the
-  classic PS2 from 2005 that takes players on a whimsical and quirky adventure as
-  they step into the shoes of the Prince once again, as well as the King of All Cosmos
-  during his boyhood.
+slug: 2023-06-08-roll-up-everything-in-sight-and-make-some-stars-first-impressions-we-love-katamari-rer
+title: Roll up everything in sight and make some stars | First Impressions - We Love Katamari REROLL+
+game: We Love Katamari REROLL+
+description: We Love Katamari REROLL+ Royal Reverie is an enhanced edition of the classic PS2 from 2005 that takes players on a whimsical and quirky adventure as they step into the shoes of the Prince once again, as well as the King of All Cosmos during his boyhood.
 featured: false
 pubDate: 2023-06-08
 tags:
-- action
-- pc
-- taptap
-- we-love-katamari-reroll
+  - action
+  - pc
+  - taptap
+  - we-love-katamari-reroll
 thumb: ''
-title: Roll up everything in sight and make some stars | First Impressions - We Love
-  Katamari REROLL+
-game: We Love Katamari REROLL+
 ---
+
 We Love Katamari REROLL+ Royal Reverie is an enhanced edition of the classic PS2 from 2005 that takes players on a whimsical and quirky adventure as they step into the shoes of the Prince once again, as well as the King of All Cosmos during his boyhood.
 
 The graphics have been overhauled for modern systems, but still retains that simple low poly aesthetic — it is still the charming and vibrant Katamari world that fans know. From the colorful landscapes to the quirky characters, every aspect of the game is even more visually captivating than before.

@@ -1,37 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Kerbal Space Program 2, or KSP2, is essentially a space flight simulator
-  that offers players the opportunity to design, engineer, build, and launch their
-  own rockets, spacecraft, and planes as they attempt to explore the vast reaches
-  of the fictional Kerbol System and beyond.
+slug: 2023-02-25-launch-rockets-into-space-in-realistic-fashion-first-impressions-kerbal-space-program
+title: Launch rockets into space, in realistic fashion | First Impressions - Kerbal Space Program 2
+game: Kerbal Space Program 2
+description: Kerbal Space Program 2, or KSP2, is essentially a space flight simulator that offers players the opportunity to design, engineer, build, and launch their own rockets, spacecraft, and planes as they attempt to explore the vast reaches of the fictional Kerbol System and beyond.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--0.avif
+  - /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--1.avif
+  - /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--2.avif
+  - /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--3.avif
+  - /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--4.avif
+  - /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--5.avif
 pubDate: 2023-02-25
 tags:
-- console
-- educational
-- indie
-- kerbal-space-program-2
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- simulation
-- taptap
-- xbox one
-- xbox series
+  - console
+  - educational
+  - indie
+  - kerbal-space-program-2
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - simulation
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--0.avif
-title: Launch rockets into space, in realistic fashion | First Impressions - Kerbal
-  Space Program 2
-game: Kerbal Space Program 2
-gallery:
-- /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--0.avif
-- /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--1.avif
-- /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--2.avif
-- /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--3.avif
-- /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--4.avif
-- /images/reviews/legacy/2023-02-25-launch-rockets-into-space-in-realistic-fashion--first-impressions---kerbal-space-program--5.avif
 ---
+
 Kerbal Space Program 2, or KSP2, is essentially a space flight simulator that offers players the opportunity to design, engineer, build, and launch their own rockets, spacecraft, and planes as they attempt to explore the vast reaches of the fictional Kerbol System and beyond.
 
 Players control the Kerbals, an up and coming alien species living in the Kerbol Star System. They’re cute, quirky, clumsy, and funny looking green aliens that add a sense of humor and silliness to the game, providing us relief from the grim and dangerous nature of space travel.

@@ -1,60 +1,68 @@
 ---
 author: lyndonguitar
 category: Review
-description: Vampire Survivors might not seem like a really good nor addictive game
-  judging from the pixel art graphics, but trust me, it is one of the most addicting
-  games that have come out in recent years.
-featured: false
-pubDate: 2023-03-20
-tags:
-- action
-- android
-- casual
-- console
-- indie
-- ios
-- mobile
-- nintendo switch
-- pc
-- rpg
-- taptap
-- vampire-survivors
-- web
-- xbox one
-thumb: /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif
+slug: 2023-03-20-this-game-is-so-good-it-created-its-own-genre-full-review-vampire-survivors
 title: This game is so good it created its own genre | Full Review - Vampire Survivors
 game: Vampire Survivors
+description: Vampire Survivors might not seem like a really good nor addictive game judging from the pixel art graphics, but trust me, it is one of the most addicting games that have come out in recent years.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-1.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-2.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-3.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-4.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-5.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-6.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-7.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-8.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-9.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-10.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-11.avif
-- /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-12.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-1.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-2.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-3.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-4.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-5.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-6.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-7.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-8.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-9.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-10.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-11.avif
+  - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-12.avif
+pubDate: 2023-03-20
+tags:
+  - action
+  - android
+  - casual
+  - console
+  - indie
+  - ios
+  - mobile
+  - nintendo-switch
+  - pc
+  - rpg
+  - taptap
+  - vampire-survivors
+  - web
+  - xbox-one
+thumb: /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif
 ---
+
 Vampire Survivors might not seem like a really good nor addictive game judging from the pixel art graphics, but trust me, it is one of the most addicting games that have come out in recent years.
 
 
-**Pros:**
 
 
-+Highly addicting
-
-+Deep gameplay and challenging difficulty
-
-+Mindless fun, can play with just one hand
-
-+Completely free to play with no pay to win mechanics
+## Pros
 
 
-**Cons:**
+
+## +Highly addicting
+
+
+## +Deep gameplay and challenging difficulty
+
+
+## +Mindless fun, can play with just one hand
+
+
+## +Completely free to play with no pay to win mechanics
+
+
+
+
+## Cons
 
 
 -The basic retro graphics are not for everyone

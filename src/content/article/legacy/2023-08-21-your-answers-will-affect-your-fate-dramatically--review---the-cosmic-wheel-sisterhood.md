@@ -1,51 +1,55 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Cosmic Wheel Sisterhood is a captivating story-driven game that presents
-  players with an immersive narrative experience that revolves around Fortuna, a fortune-teller
-  Witch banished to exile on an asteroid. Developed by the creators of The Red Strings
-  Club and feeling like a spiritual successor, The game's premise is rooted in crafting
-  a personalized Tarot deck, reclaiming freedom, and influencing the destiny of the
-  cosmic Witch society.
+slug: 2023-08-21-your-answers-will-affect-your-fate-dramatically-review-the-cosmic-wheel-sisterhood
+title: Your answers will affect your fate, dramatically | Review - The Cosmic Wheel Sisterhood
+game: The Cosmic Wheel Sisterhood
+description: The Cosmic Wheel Sisterhood is a captivating story-driven game that presents players with an immersive narrative experience that revolves around Fortuna, a fortune-teller Witch banished to exile on an asteroid. Developed by the creators of The Red Strings Club and feeling like a spiritual successor, The game's premise is rooted in crafting a personalized Tarot deck, reclaiming freedom, and influencing the destiny of the cosmic Witch society.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-0.avif
+  - /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-1.avif
+  - /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-2.avif
+  - /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-3.avif
+  - /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-4.avif
+  - /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-5.avif
+  - /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-6.avif
+  - /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-7.avif
 pubDate: 2023-08-21
 tags:
-- adventure
-- console
-- indie
-- nintendo switch
-- pc
-- taptap
-- the-cosmic-wheel-sisterhood
+  - adventure
+  - console
+  - indie
+  - nintendo-switch
+  - pc
+  - taptap
+  - the-cosmic-wheel-sisterhood
 thumb: /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-0.avif
-title: Your answers will affect your fate, dramatically | Review - The Cosmic Wheel
-  Sisterhood
-game: The Cosmic Wheel Sisterhood
-gallery:
-- /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-0.avif
-- /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-1.avif
-- /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-2.avif
-- /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-3.avif
-- /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-4.avif
-- /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-5.avif
-- /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-6.avif
-- /images/reviews/legacy/2023-08-21-your-answers-will-affect-your-fate-dramatically--review---the-cosmic-wheel-sisterhood-7.avif
 ---
+
 The Cosmic Wheel Sisterhood
 
 The Cosmic Wheel Sisterhood is a captivating story-driven game that presents players with an immersive narrative experience that revolves around Fortuna, a fortune-teller Witch banished to exile on an asteroid. Developed by the creators of The Red Strings Club and feeling like a spiritual successor, The game's premise is rooted in crafting a personalized Tarot deck, reclaiming freedom, and influencing the destiny of the cosmic Witch society.
 
 
-**Pros:**
 
 
-+Intriguing Narrative that carries the whole game
-+Personalize your own Tarot Deck of cards, including the artwork
-+Well written story and characters
-+Choices do matter
+## Pros
 
 
-**Cons:**
+
+## +Intriguing Narrative that carries the whole game
+
+## +Personalize your own Tarot Deck of cards, including the artwork
+
+## +Well written story and characters
+
+## +Choices do matter
+
+
+
+
+## Cons
 
 
 -Zero voice acting, players must read everything in this narrative driven game

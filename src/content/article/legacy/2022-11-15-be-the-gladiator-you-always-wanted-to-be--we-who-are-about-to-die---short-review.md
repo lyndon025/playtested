@@ -1,28 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2022-11-15-be-the-gladiator-you-always-wanted-to-be-we-who-are-about-to-die-short-review
+title: Be the Gladiator you always wanted to be | We Who Are About to Die - Short Review
+game: We who are about to Die
 description: We Who Are About to Die - Short Review (Early Access)
 featured: false
+gallery:
+  - /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-0.avif
+  - /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-1.avif
+  - /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-2.avif
+  - /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-3.avif
 pubDate: 2022-11-15
 tags:
-- action
-- indie
-- pc
-- rpg
-- simulation
-- strategy
-- taptap
-- we-who-are-about-to-die
+  - action
+  - indie
+  - pc
+  - rpg
+  - simulation
+  - strategy
+  - taptap
+  - we-who-are-about-to-die
 thumb: /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-0.avif
-title: Be the Gladiator you always wanted to be | We Who Are About to Die - Short
-  Review
-game: We who are about to Die
-gallery:
-- /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-0.avif
-- /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-1.avif
-- /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-2.avif
-- /images/reviews/legacy/2022-11-15-be-the-gladiator-you-always-wanted-to-be--we-who-are-about-to-die---short-review-3.avif
 ---
+
 We Who Are About to Die - Short Review (Early Access)
 
 With how popular rogue-lite games are becoming lately, as well as the consistent popularity of the Ancient Rome setting throughout the years, I’m a bit surprised that we don’t have enough Gladiator style focused games already. Saturating the market like the zombie or world war tropes we have today. That soon is about to change, as we now have We Who Are About to Die, recently released on Steam Early Access.

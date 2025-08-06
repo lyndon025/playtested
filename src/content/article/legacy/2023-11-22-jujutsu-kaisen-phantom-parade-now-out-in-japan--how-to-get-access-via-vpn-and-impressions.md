@@ -1,26 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Jujutsu Kaisen: Phantom Parade is finally out now, after a myriad of
-  delays from 2022 to the tail end of 2023, with a limited release yesterday November
-  21, 2023.'
+slug: 2023-11-22-jujutsu-kaisen-phantom-parade-now-out-in-japan-how-to-get-access-via-vpn-and-impressions
+title: 'Jujutsu Kaisen: Phantom Parade Now out in Japan! | How to get access via VPN, and Impressions'
+game: How to get access via VPN, and
+description: 'Jujutsu Kaisen: Phantom Parade is finally out now, after a myriad of delays from 2022 to the tail end of 2023, with a limited release yesterday November 21, 2023.'
 featured: false
 pubDate: 2023-11-22
 tags:
-- action
-- adventure
-- arcade
-- how-to-get-access-via-vpn-and
-- mobile
-- pc
-- playstation 3
-- taptap
-- xbox 360
+  - action
+  - adventure
+  - arcade
+  - how-to-get-access-via-vpn-and
+  - mobile
+  - pc
+  - playstation-3
+  - taptap
+  - xbox-360
 thumb: ''
-title: 'Jujutsu Kaisen: Phantom Parade Now out in Japan! | How to get access via VPN,
-  and Impressions'
-game: How to get access via VPN, and
 ---
+
 Jujutsu Kaisen: Phantom Parade is finally out now, after a myriad of delays from 2022 to the tail end of 2023, with a limited release yesterday November 21, 2023.
 
 However, the game is only available for the Japan region, and not all VPN services work properly with the servers. What worked for me though is OvpnSpider on Android so you can also try that out (it's free).

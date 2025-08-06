@@ -1,36 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'There is a new SpongeBob game in town, and it is the spiritual successor
-  to 2020''s Battle for Bikini Bottom – Rehydrated, which is in itself a remake of
-  the original 2003 Battle for Bikini Bottom. SpongeBob SquarePants: The Cosmic Shake
-  is a 3D platformer game that is based on the Nickelodeon animated series SpongeBob
-  SquarePants.'
-featured: false
-pubDate: 2023-02-01
-tags:
-- action
-- console
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- spongebob-squarepants-the-cosmic-shake
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-0.avif
+slug: 2023-02-01-a-new-spongebob-game-spongebob-squarepants-the-cosmic-shake-first-impressions
 title: 'A new SpongeBob game! | SpongeBob SquarePants: The Cosmic Shake - First Impressions'
 game: 'SpongeBob SquarePants: The Cosmic Shake'
+description: "There is a new SpongeBob game in town, and it is the spiritual successor to 2020's Battle for Bikini Bottom – Rehydrated, which is in itself a remake of the original 2003 Battle for Bikini Bottom. SpongeBob SquarePants: The Cosmic Shake is a 3D platformer game that is based on the Nickelodeon animated series SpongeBob SquarePants."
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-0.avif
-- /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-1.avif
-- /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-2.avif
-- /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-3.avif
-- /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-4.avif
-- /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-5.avif
-- /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-6.avif
-- /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-7.avif
+  - /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-0.avif
+  - /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-1.avif
+  - /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-2.avif
+  - /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-3.avif
+  - /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-4.avif
+  - /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-5.avif
+  - /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-6.avif
+  - /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-7.avif
+pubDate: 2023-02-01
+tags:
+  - action
+  - console
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - spongebob-squarepants-the-cosmic-shake
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2023-02-01-a-new-spongebob-game--spongebob-squarepants-the-cosmic-shake---first-impressions-0.avif
 ---
+
 There is a new SpongeBob game in town, and it is the spiritual successor to 2020's Battle for Bikini Bottom – Rehydrated, which is in itself a remake of the original 2003 Battle for Bikini Bottom. SpongeBob SquarePants: The Cosmic Shake is a 3D platformer game that is based on the Nickelodeon animated series SpongeBob SquarePants.
 
 You control the titular character SpongeBob, in his quest to restore his town of Bikini Bottom to normality, after a magic wishing mishap that caused his universe to collide with other alternate universes. Universes that SpongeBob must to travel to and visit. It seems that multiversal adventures are the craze these days.

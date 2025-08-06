@@ -1,31 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'NARAKA: BLADEPOINT is a online multiplayer game offers a fresh take
-  on the battle royale formula, introducing unique martial arts-based mechanics that
-  set it apart from its competitors. Players take on the role of powerful heroes,
-  each with their own unique abilities and playstyles. The game is available for PC,
-  Xbox, and PlayStation, with an official mobile version coming soon as well.'
+slug: 2023-07-17-martial-arts-focused-battle-royale-now-free-to-play-first-impressions-naraka-bladepoin
+title: 'Martial arts focused battle royale, now free to play! | First Impressions - NARAKA: BLADEPOINT'
+game: Naraka Bladepoint
+description: 'NARAKA: BLADEPOINT is a online multiplayer game offers a fresh take on the battle royale formula, introducing unique martial arts-based mechanics that set it apart from its competitors. Players take on the role of powerful heroes, each with their own unique abilities and playstyles. The game is available for PC, Xbox, and PlayStation, with an official mobile version coming soon as well.'
 featured: false
 pubDate: 2023-07-17
 tags:
-- action
-- adventure
-- console
-- massively multiplayer
-- mobile
-- naraka-bladepoint
-- pc
-- playstation
-- playstation 5
-- rpg
-- taptap
-- xbox series
+  - action
+  - adventure
+  - console
+  - massively-multiplayer
+  - mobile
+  - naraka-bladepoint
+  - pc
+  - playstation
+  - playstation-5
+  - rpg
+  - taptap
+  - xbox-series
 thumb: ''
-title: 'Martial arts focused battle royale, now free to play! | First Impressions
-  - NARAKA: BLADEPOINT'
-game: Naraka Bladepoint
 ---
+
 NARAKA: BLADEPOINT is a online multiplayer game offers a fresh take on the battle royale formula, introducing unique martial arts-based mechanics that set it apart from its competitors. Players take on the role of powerful heroes, each with their own unique abilities and playstyles. The game is available for PC, Xbox, and PlayStation, with an official mobile version coming soon as well.
 
 The game offers a diverse roster of heroes to choose from, with a progression system to unlock most of them. The combat system in the game is skill-based with a focus on melee engagements but still offers the choice to use ancient ranged weapons. Players can engage in intense duels using a variety of weapons, including swords, spears, and even firearms like portable cannons or archers.

@@ -1,34 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'In Danganronpa: Trigger Happy Havoc, A group of high school students
-  find themselves trapped in their new school and are forced to participate in a twisted
-  battle royale game of murder and survival.'
-featured: false
-pubDate: 2023-04-28
-tags:
-- console
-- danganronpa
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- ps vita
-- puzzle
-- taptap
-thumb: /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-0.avif
+slug: 2023-04-28-a-visual-novel-style-among-us-before-it-was-cool-first-impressions-danganronpa
 title: A Visual Novel-style Among Us before it was cool | First Impressions - Danganronpa
 game: Danganronpa
+description: 'In Danganronpa: Trigger Happy Havoc, A group of high school students find themselves trapped in their new school and are forced to participate in a twisted battle royale game of murder and survival.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-0.avif
-- /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-1.avif
-- /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-2.avif
-- /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-3.avif
-- /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-4.avif
-- /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-5.avif
-- /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-6.avif
-- /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-7.avif
+  - /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-0.avif
+  - /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-1.avif
+  - /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-2.avif
+  - /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-3.avif
+  - /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-4.avif
+  - /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-5.avif
+  - /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-6.avif
+  - /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-7.avif
+pubDate: 2023-04-28
+tags:
+  - console
+  - danganronpa
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - ps-vita
+  - puzzle
+  - taptap
+thumb: /images/reviews/legacy/2023-04-28-a-visual-novel-style-among-us-before-it-was-cool--first-impressions---danganronpa-0.avif
 ---
+
 Danganronpa: Trigger Happy Hav
 7.7
 Adventure

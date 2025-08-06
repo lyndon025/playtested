@@ -1,23 +1,21 @@
 ---
 author: lyndonguitar
 category: Review
-description: Starstride is an online Action RPG that blends the unlikely combination
-  of high fantasy with sci-fi, and it works out quite well. Two allied factions, Neoterrans
-  and Wokens, are at war against a mysterious alien civilization. Your character is
-  one of the few powerful fighters remaining after a mysterious defeat at the hands
-  of the enemy's leader.
+slug: 2023-09-24-indie-spotlight-seems-inspired-by-phantasy-star-online-impressions-starstride
+title: '[Indie Spotlight] Seems inspired by Phantasy Star Online | Impressions - Starstride'
+game: Starstride
+description: Starstride is an online Action RPG that blends the unlikely combination of high fantasy with sci-fi, and it works out quite well. Two allied factions, Neoterrans and Wokens, are at war against a mysterious alien civilization. Your character is one of the few powerful fighters remaining after a mysterious defeat at the hands of the enemy's leader.
 featured: false
 pubDate: 2023-09-24
 tags:
-- action
-- indie
-- pc
-- starstride
-- taptap
+  - action
+  - indie
+  - pc
+  - starstride
+  - taptap
 thumb: ''
-title: '[Indie Spotlight] Seems inspired by Phantasy Star Online | Impressions - Starstride'
-game: Starstride
 ---
+
 Starstride is an online Action RPG that blends the unlikely combination of high fantasy with sci-fi, and it works out quite well. Two allied factions, Neoterrans and Wokens, are at war against a mysterious alien civilization. Your character is one of the few powerful fighters remaining after a mysterious defeat at the hands of the enemy's leader.
 
 It might appear daunting and unusual at first, but this uniqueness is what makes it a refreshing addition to storytelling premises and world-building. Thinking about it, the whole premise, even the character designs seems heavily inspired by the Phantasy Star Online series of games.

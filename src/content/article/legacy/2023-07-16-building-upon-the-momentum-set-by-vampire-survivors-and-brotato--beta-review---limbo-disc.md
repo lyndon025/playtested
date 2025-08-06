@@ -1,31 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: Limbo Disco is an upcoming free-to-play mobile game that combines elements
-  of roguelike, wave survival, and cartoon aesthetics. The game follows in the footsteps
-  of similar titles Vampire Survivors and Brotato, with its addicting allure entirely
-  playable with one-hand.
+slug: 2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato-beta-review-limbo-disc
+title: Building upon the momentum set by Vampire Survivors and Brotato | Beta Review - Limbo Disco
+game: Beta Review - Limbo Disco
+description: Limbo Disco is an upcoming free-to-play mobile game that combines elements of roguelike, wave survival, and cartoon aesthetics. The game follows in the footsteps of similar titles Vampire Survivors and Brotato, with its addicting allure entirely playable with one-hand.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-0.avif
+  - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-1.avif
+  - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-2.avif
+  - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-3.avif
+  - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-4.avif
+  - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-5.avif
+  - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-6.avif
 pubDate: 2023-07-16
 tags:
-- beta-review-limbo-disco
-- educational
-- mobile
-- pc
-- taptap
+  - beta-review-limbo-disco
+  - educational
+  - mobile
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-0.avif
-title: Building upon the momentum set by Vampire Survivors and Brotato | Beta Review
-  - Limbo Disco
-game: Beta Review - Limbo Disco
-gallery:
-- /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-0.avif
-- /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-1.avif
-- /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-2.avif
-- /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-3.avif
-- /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-4.avif
-- /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-5.avif
-- /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-6.avif
 ---
+
 Limbo DiscoTest Global
 --
 Action

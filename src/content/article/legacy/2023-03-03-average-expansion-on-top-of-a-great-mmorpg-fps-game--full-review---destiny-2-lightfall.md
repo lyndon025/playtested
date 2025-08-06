@@ -1,58 +1,64 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Destiny 2: Lightfall is the latest expansion for the popular online
-  multiplayer RPG FPS Destiny 2, developed by Bungie (creators of Halo series).'
+slug: 2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game-full-review-destiny-2-lightfall
+title: 'Average expansion on top of a great MMORPG FPS game | Full Review - Destiny 2: Lightfall'
+game: 'Destiny 2: Lightfall'
+description: 'Destiny 2: Lightfall is the latest expansion for the popular online multiplayer RPG FPS Destiny 2, developed by Bungie (creators of Halo series).'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-0.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-1.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-2.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-3.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-4.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-5.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-6.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-7.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-8.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-9.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-10.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-11.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-12.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-13.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-14.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-15.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-16.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-17.avif
+  - /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-18.avif
 pubDate: 2023-03-03
 tags:
-- console
-- destiny-2-lightfall
-- massively multiplayer
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- xbox one
-- xbox series
+  - console
+  - destiny-2-lightfall
+  - massively-multiplayer
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-0.avif
-title: 'Average expansion on top of a great MMORPG FPS game | Full Review - Destiny
-  2: Lightfall'
-game: 'Destiny 2: Lightfall'
-gallery:
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-0.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-1.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-2.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-3.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-4.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-5.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-6.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-7.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-8.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-9.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-10.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-11.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-12.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-13.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-14.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-15.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-16.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-17.avif
-- /images/reviews/legacy/2023-03-03-average-expansion-on-top-of-a-great-mmorpg-fps-game--full-review---destiny-2-lightfall-18.avif
 ---
+
 Destiny 2: Lightfall is the latest expansion for the popular online multiplayer RPG FPS Destiny 2, developed by Bungie (creators of Halo series).
 
 
-**Pros:**
 
 
-+New subclasses to play
-
-+New area and story campaign to experience
+## Pros
 
 
-**Cons:**
+
+## +New subclasses to play
+
+
+## +New area and story campaign to experience
+
+
+
+
+## Cons
 
 
 -Uninspired campaign and level design

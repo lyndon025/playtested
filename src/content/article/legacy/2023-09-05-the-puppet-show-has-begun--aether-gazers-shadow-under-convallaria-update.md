@@ -1,26 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: First of all, Aether Gazer is a hack-and-slash gacha ARPG game available
-  for Android and iOS with a compelling, fully voiced narrative. (Endorsed by the
-  Aether Gazer website, PC is also playable via emulator)
-featured: false
-pubDate: 2023-09-05
-tags:
-- aether-gazers-shadow-under-convallaria-update
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif
+slug: 2023-09-05-the-puppet-show-has-begun-aether-gazers-shadow-under-convallaria-update
 title: The Puppet Show has begun! | Aether Gazer’s Shadow Under Convallaria update
 game: Aether Gazer’s Shadow Under Convallaria update
+description: First of all, Aether Gazer is a hack-and-slash gacha ARPG game available for Android and iOS with a compelling, fully voiced narrative. (Endorsed by the Aether Gazer website, PC is also playable via emulator)
+featured: false
 gallery:
-- /images/reviews/legacy/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif
-- /images/reviews/legacy/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-1.avif
-- /images/reviews/legacy/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-2.avif
+  - /images/reviews/legacy/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif
+  - /images/reviews/legacy/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-1.avif
+  - /images/reviews/legacy/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-2.avif
+pubDate: 2023-09-05
+tags:
+  - aether-gazers-shadow-under-convallaria-update
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-09-05-the-puppet-show-has-begun--aether-gazers-shadow-under-convallaria-update-0.avif
 ---
+
 First of all, Aether Gazer is a hack-and-slash gacha ARPG game available for Android and iOS with a compelling, fully voiced narrative. (Endorsed by the Aether Gazer website, PC is also playable via emulator)
 
 Aether Gazer website,

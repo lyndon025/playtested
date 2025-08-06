@@ -1,27 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Contra: Tournament is a third-person battle royale survival game designed
-  for mobile devices. In this fresh but pleasantly surprising take on the Contra franchise,
-  you and up to 100 players engage in a fierce battle to claim the title of the ultimate
-  winner within a vast and sprawling map. A Closed Beta Test for Contra: Tournament
-  has recently started, allowing players to experience and provide feedback on this
-  upcoming new title.'
+slug: 2023-06-29-i-did-not-expect-this-from-a-contra-game-pleasantly-surprised-impressions-contra-tourn
+title: 'I did not expect this from a Contra game! Pleasantly surprised! | Impressions - Contra: Tournament'
+game: 'Contra: Tournament'
+description: 'Contra: Tournament is a third-person battle royale survival game designed for mobile devices. In this fresh but pleasantly surprising take on the Contra franchise, you and up to 100 players engage in a fierce battle to claim the title of the ultimate winner within a vast and sprawling map. A Closed Beta Test for Contra: Tournament has recently started, allowing players to experience and provide feedback on this upcoming new title.'
 featured: false
 pubDate: 2023-06-29
 tags:
-- action
-- contra-tournament
-- mobile
-- nes
-- platformer
-- shooter
-- taptap
+  - action
+  - contra-tournament
+  - mobile
+  - nes
+  - platformer
+  - shooter
+  - taptap
 thumb: ''
-title: 'I did not expect this from a Contra game! Pleasantly surprised! | Impressions
-  - Contra: Tournament'
-game: 'Contra: Tournament'
 ---
+
 Contra: Tournament is a third-person battle royale survival game designed for mobile devices. In this fresh but pleasantly surprising take on the Contra franchise, you and up to 100 players engage in a fierce battle to claim the title of the ultimate winner within a vast and sprawling map. A Closed Beta Test for Contra: Tournament has recently started, allowing players to experience and provide feedback on this upcoming new title.
 
 The gameplay of Contra: Tournament follows the familiar battle royale convention, pitting up to 100 players against each other in a sprawling map. Upon dropping in with a thrilling rocket riding jump sequence, players will have to scavenge for weapons, armor, and supplies. The current only map available, Galuga Islands, already provides ample space for exploration, driving, and intense encounters with other players. Currently, the game only allows you to play in squads of 4, with no option of playing in solo or duo, but that’s probably going to change as the game develops.

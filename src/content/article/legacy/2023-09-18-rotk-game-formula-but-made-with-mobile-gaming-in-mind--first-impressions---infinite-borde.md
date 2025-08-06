@@ -1,26 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: Infinite Borders is an engaging strategy game that transports players
-  to the heart of the Three Kingdoms period. You'll have the chance to align yourself
-  with legendary heroes, conquer new lands, and wage epic battles against formidable
-  foes.
+slug: 2023-09-18-rotk-game-formula-but-made-with-mobile-gaming-in-mind-first-impressions-infinite-borde
+title: ROTK game formula, but made with mobile gaming in mind | First Impressions - Infinite Borders
+game: Infinite Borders
+description: Infinite Borders is an engaging strategy game that transports players to the heart of the Three Kingdoms period. You'll have the chance to align yourself with legendary heroes, conquer new lands, and wage epic battles against formidable foes.
 featured: false
 pubDate: 2023-09-18
 tags:
-- casual
-- infinite-borders
-- massively multiplayer
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
+  - casual
+  - infinite-borders
+  - massively-multiplayer
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: ''
-title: ROTK game formula, but made with mobile gaming in mind | First Impressions
-  - Infinite Borders
-game: Infinite Borders
 ---
+
 Infinite Borders is an engaging strategy game that transports players to the heart of the Three Kingdoms period. You'll have the chance to align yourself with legendary heroes, conquer new lands, and wage epic battles against formidable foes.
 
 The Closed Beta Test for Infinite Borders runs from September 15th to September 30th and covers three major regions: Asia, North America, and Europe. While the game has been available in East Asia regions like China, Thailand, and Vietnam under the title "Reign of Warlords" or "ROW: Tam Quốc" for a few years now, it's now making its mark on a global scale.

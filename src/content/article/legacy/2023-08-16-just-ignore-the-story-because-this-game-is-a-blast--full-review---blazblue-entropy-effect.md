@@ -1,35 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Steam BlazBlue Entropy Effect is a 2D side-scrolling Roguelite
-  game developed by 91Act. strangely set in the expansive BlazBlue franchise. Released
-  on Steam in Early Access, this game invites players into a world where the beloved
-  BlazBlue characters meet the dynamic mechanics of a Roguelite adventure.
+slug: 2023-08-16-just-ignore-the-story-because-this-game-is-a-blast-full-review-blazblue-entropy-effect
+title: Just ignore the story, because this game is a blast | Full Review - BlazBlue Entropy Effect
+game: BlazBlue Entropy Effect
+description: lyndonguitar Steam BlazBlue Entropy Effect is a 2D side-scrolling Roguelite game developed by 91Act. strangely set in the expansive BlazBlue franchise. Released on Steam in Early Access, this game invites players into a world where the beloved BlazBlue characters meet the dynamic mechanics of a Roguelite adventure.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-0.avif
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-1.avif
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-2.avif
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-3.avif
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-4.avif
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-5.avif
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-6.avif
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-7.avif
+  - /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-8.avif
 pubDate: 2023-08-16
 tags:
-- action
-- adventure
-- blazblue-entropy-effect
-- indie
-- macos
-- pc
-- taptap
+  - action
+  - adventure
+  - blazblue-entropy-effect
+  - indie
+  - macos
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-0.avif
-title: Just ignore the story, because this game is a blast | Full Review - BlazBlue
-  Entropy Effect
-game: BlazBlue Entropy Effect
-gallery:
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-0.avif
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-1.avif
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-2.avif
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-3.avif
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-4.avif
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-5.avif
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-6.avif
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-7.avif
-- /images/reviews/legacy/2023-08-16-just-ignore-the-story-because-this-game-is-a-blast--full-review---blazblue-entropy-effect-8.avif
 ---
+
 BlazBlue Entropy Effect
 
 lyndonguitar
@@ -37,18 +35,23 @@ Steam
 BlazBlue Entropy Effect is a 2D side-scrolling Roguelite game developed by 91Act. strangely set in the expansive BlazBlue franchise. Released on Steam in Early Access, this game invites players into a world where the beloved BlazBlue characters meet the dynamic mechanics of a Roguelite adventure.
 
 
-**Pros:**
+
+
+## Pros
 - Gorgeous 2D visuals and lighting system
 - Addictive roguelite gameplay loop
 - Seven distinct character with their own movesets, skills, and playstyles
 - Unique roguelite mechanics
 
 
-**Cons:**
+
+
+## Cons
 - Story is nonsensical
 
 
-📝Notable points: These pros and cons are based on Early Access build and does not accurately represent the quality of the finished product
+
+## 📝Notable points: These pros and cons are based on Early Access build and does not accurately represent the quality of the finished product
 
 In a surprising departure from the series' established norm of being known for its renowned fighting games, BlazBlue Entropy Effect boldly ventures into uncharted territory with its unique take on the roguelite genre, albeit a bit strangely done (more on that later).
 

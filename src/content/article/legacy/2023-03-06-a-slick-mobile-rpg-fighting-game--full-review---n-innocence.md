@@ -1,55 +1,62 @@
 ---
 author: lyndonguitar
 category: Review
-description: N-INNOCENCE is an upcoming brawler RPG game set in a fantasy world full
-  of familiar heroes and legends. An English version is currently out now at a limited
-  capacity, for North American Regions only on both Android and iOS.
-featured: false
-pubDate: 2023-03-06
-tags:
-- action
-- mobile
-- n-innocence
-- playstation 2
-- playstation 3
-- taptap
-thumb: /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif
+slug: 2023-03-06-a-slick-mobile-rpg-fighting-game-full-review-n-innocence
 title: A slick mobile RPG fighting game! | Full Review - N-INNOCENCE
 game: N-INNOCENCE
+description: N-INNOCENCE is an upcoming brawler RPG game set in a fantasy world full of familiar heroes and legends. An English version is currently out now at a limited capacity, for North American Regions only on both Android and iOS.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-1.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-2.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-3.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-4.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-5.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-6.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-7.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-8.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-9.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-10.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-11.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-12.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-13.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-14.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-15.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-16.avif
-- /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-17.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-1.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-2.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-3.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-4.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-5.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-6.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-7.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-8.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-9.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-10.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-11.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-12.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-13.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-14.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-15.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-16.avif
+  - /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-17.avif
+pubDate: 2023-03-06
+tags:
+  - action
+  - mobile
+  - n-innocence
+  - playstation-2
+  - playstation-3
+  - taptap
+thumb: /images/reviews/legacy/2023-03-06-a-slick-mobile-rpg-fighting-game--full-review---n-innocence-0.avif
 ---
+
 N-INNOCENCE is an upcoming brawler RPG game set in a fantasy world full of familiar heroes and legends. An English version is currently out now at a limited capacity, for North American Regions only on both Android and iOS.
 
 
-**Pros:**
 
 
-+Simple, but addictive combat
-
-+Interesting premise and story
-
-+Beautiful artstyle
+## Pros
 
 
-**Cons:**
+
+## +Simple, but addictive combat
+
+
+## +Interesting premise and story
+
+
+## +Beautiful artstyle
+
+
+
+
+## Cons
 
 
 -distribution of story and gameplay is not well balanced

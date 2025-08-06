@@ -1,33 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Spiritle is a 4-player turn-based strategy battle digital board game
-  available both on PC and mobile with crossplay functionality. You take on the role
-  of a Spirit among the 4 elements: Nature, Earth, Water and Fire, and engage in other
-  fallen souls to reclaim their place in the world tree.'
-featured: false
-pubDate: 2023-06-30
-tags:
-- casual
-- indie
-- mobile
-- pc
-- spiritle
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif
+slug: 2023-06-30-a-unique-concept-that-falls-short-on-its-execution-full-review-spiritle
 title: A unique concept that falls short on its execution | Full Review - Spiritle
 game: Spiritle
+description: 'Spiritle is a 4-player turn-based strategy battle digital board game available both on PC and mobile with crossplay functionality. You take on the role of a Spirit among the 4 elements: Nature, Earth, Water and Fire, and engage in other fallen souls to reclaim their place in the world tree.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif
-- /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-1.avif
-- /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-2.avif
-- /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-3.avif
-- /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-4.avif
-- /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-5.avif
-- /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-6.avif
-- /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-7.avif
+  - /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif
+  - /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-1.avif
+  - /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-2.avif
+  - /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-3.avif
+  - /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-4.avif
+  - /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-5.avif
+  - /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-6.avif
+  - /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-7.avif
+pubDate: 2023-06-30
+tags:
+  - casual
+  - indie
+  - mobile
+  - pc
+  - spiritle
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-06-30-a-unique-concept-that-falls-short-on-its-execution--full-review---spiritle-0.avif
 ---
+
 Spiritle
 
 lyndonguitar
@@ -35,17 +34,24 @@ lyndonguitar
 Spiritle is a 4-player turn-based strategy battle digital board game available both on PC and mobile with crossplay functionality. You take on the role of a Spirit among the 4 elements: Nature, Earth, Water and Fire, and engage in other fallen souls to reclaim their place in the world tree.
 
 
-**Pros:**
 
 
-+Charming art style
-
-+Intriguing game concept
-
-+Cooperative mode
+## Pros
 
 
-**Cons:**
+
+## +Charming art style
+
+
+## +Intriguing game concept
+
+
+## +Cooperative mode
+
+
+
+
+## Cons
 
 
 -Extremely slow pacing that takes away the enjoyment

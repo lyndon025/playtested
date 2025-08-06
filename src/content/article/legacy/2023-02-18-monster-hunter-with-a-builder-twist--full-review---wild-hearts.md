@@ -1,60 +1,66 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Wild Hearts may look like a Monster Hunter-clone at surface level, but
-  it’s much more than that, with various twists and additions to the formula by way
-  of incorporating elements from other games like Fortnite, Ark: Survival, and even
-  Death Stranding.'
-featured: false
-pubDate: 2023-02-18
-tags:
-- action
-- adventure
-- console
-- pc
-- playstation
-- playstation 5
-- taptap
-- wild-hearts
-- xbox series
-thumb: /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-0.avif
+slug: 2023-02-18-monster-hunter-with-a-builder-twist-full-review-wild-hearts
 title: Monster Hunter with a 'builder' twist | Full Review - Wild Hearts
 game: Wild Hearts
+description: 'Wild Hearts may look like a Monster Hunter-clone at surface level, but it’s much more than that, with various twists and additions to the formula by way of incorporating elements from other games like Fortnite, Ark: Survival, and even Death Stranding.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-0.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-1.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-2.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-3.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-4.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-5.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-6.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-7.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-8.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-9.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-10.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-11.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-12.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-13.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-14.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-15.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-16.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-17.avif
-- /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-18.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-0.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-1.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-2.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-3.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-4.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-5.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-6.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-7.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-8.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-9.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-10.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-11.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-12.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-13.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-14.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-15.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-16.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-17.avif
+  - /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-18.avif
+pubDate: 2023-02-18
+tags:
+  - action
+  - adventure
+  - console
+  - pc
+  - playstation
+  - playstation-5
+  - taptap
+  - wild-hearts
+  - xbox-series
+thumb: /images/reviews/legacy/2023-02-18-monster-hunter-with-a-builder-twist--full-review---wild-hearts-0.avif
 ---
+
 Wild Hearts may look like a Monster Hunter-clone at surface level, but it’s much more than that, with various twists and additions to the formula by way of incorporating elements from other games like Fortnite, Ark: Survival, and even Death Stranding.
 
 
-**Pros:**
 
 
-+A well-realized tactical combat system
-
-+Base builder elements that blends well with the Monster Hunter gameplay
-
-+A fully integrated multiplayer experience
+## Pros
 
 
-**Cons:**
+
+## +A well-realized tactical combat system
+
+
+## +Base builder elements that blends well with the Monster Hunter gameplay
+
+
+## +A fully integrated multiplayer experience
+
+
+
+
+## Cons
 
 
 -Massive performance issues

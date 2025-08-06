@@ -1,24 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: Set in a breathtaking fantasy world with a focus on the skies and seas,
-  Revelation M casts players as new adventurers embarking on a journey of exploration,
-  discovery, and adventure.
+slug: 2023-11-27-set-in-a-breathtaking-world-with-a-focus-on-the-skies-and-seas-cbt-impressions-revelat
+title: Set in a breathtaking world with a focus on the skies and seas | CBT Impressions - Revelation M
+game: CBT Impressions - Revelation M
+description: Set in a breathtaking fantasy world with a focus on the skies and seas, Revelation M casts players as new adventurers embarking on a journey of exploration, discovery, and adventure.
 featured: false
 pubDate: 2023-11-27
 tags:
-- adventure
-- casual
-- cbt-impressions-revelation-m
-- ios
-- mobile
-- sports
-- taptap
+  - adventure
+  - casual
+  - cbt-impressions-revelation-m
+  - ios
+  - mobile
+  - sports
+  - taptap
 thumb: ''
-title: Set in a breathtaking world with a focus on the skies and seas | CBT Impressions
-  - Revelation M
-game: CBT Impressions - Revelation M
 ---
+
 Set in a breathtaking fantasy world with a focus on the skies and seas, Revelation M casts players as new adventurers embarking on a journey of exploration, discovery, and adventure.
 
 To start off, Revelation M boasts an extensive character customization system, allowing players to fine-tune every aspect of their avatar, including gender, appearance, and class. The available classes, such as Swordmage, Occultist, Paladin, Blademaster, and Spiritshaper, provide diverse gameplay experiences.

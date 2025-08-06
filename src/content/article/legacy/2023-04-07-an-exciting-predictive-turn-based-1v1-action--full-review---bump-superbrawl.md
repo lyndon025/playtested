@@ -1,50 +1,58 @@
 ---
 author: lyndonguitar
 category: Review
-description: BUMP! Superbrawl is a tactical strategy game that pits players’ team
-  of heroes against each other in exciting predictive turn-based matches.
-featured: false
-pubDate: 2023-04-07
-tags:
-- bump-superbrawl
-- casual
-- mobile
-- pc
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-0.avif
+slug: 2023-04-07-an-exciting-predictive-turn-based-1v1-action-full-review-bump-superbrawl
 title: An exciting predictive turn-based 1v1 action | Full Review - BUMP! Superbrawl
 game: BUMP! Superbrawl
+description: BUMP! Superbrawl is a tactical strategy game that pits players’ team of heroes against each other in exciting predictive turn-based matches.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-0.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-1.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-2.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-3.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-4.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-5.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-6.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-7.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-8.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-9.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-10.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-11.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-12.avif
-- /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-13.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-0.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-1.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-2.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-3.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-4.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-5.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-6.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-7.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-8.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-9.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-10.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-11.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-12.avif
+  - /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-13.avif
+pubDate: 2023-04-07
+tags:
+  - bump-superbrawl
+  - casual
+  - mobile
+  - pc
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-04-07-an-exciting-predictive-turn-based-1v1-action--full-review---bump-superbrawl-0.avif
 ---
+
 BUMP! Superbrawl is a tactical strategy game that pits players’ team of heroes against each other in exciting predictive turn-based matches.
 
 
-**Pros:**
 
 
-+Clever predictive turn-based combat mechanics
-
-+Welcoming progression system
-
-+Cute and adorable visuals and characters
+## Pros
 
 
-**Cons:**
+
+## +Clever predictive turn-based combat mechanics
+
+
+## +Welcoming progression system
+
+
+## +Cute and adorable visuals and characters
+
+
+
+
+## Cons
 
 
 -Some unresponsiveness in the controls

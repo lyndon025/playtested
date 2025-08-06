@@ -1,29 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: Assassin's Creed Mirage promises to be a refreshing return to the franchise's
-  roots. Set against the historical backdrop of Baghdad, the game takes us back to
-  the early years of the series, emphasizing parkour, stealth, and the art of assassination—a
-  style reminiscent of the beloved Altair and Ezio eras. It's a deliberate shift away
-  from the sprawling open-world RPGs and health sponges of enemies that have become
-  the norm in recent Assassin's Creed titles.
+slug: 2023-09-16-assassins-creed-mirage-i-cant-believe-this-aaa-console-game-is-also-coming-to-mobile
+title: Assassin's Creed Mirage - I can’t believe this AAA console game is also coming to mobile!
+game: I can’t believe this AAA console game is also coming to mobile!
+description: Assassin's Creed Mirage promises to be a refreshing return to the franchise's roots. Set against the historical backdrop of Baghdad, the game takes us back to the early years of the series, emphasizing parkour, stealth, and the art of assassination—a style reminiscent of the beloved Altair and Ezio eras. It's a deliberate shift away from the sprawling open-world RPGs and health sponges of enemies that have become the norm in recent Assassin's Creed titles.
 featured: false
 pubDate: 2023-09-16
 tags:
-- casual
-- i-cant-believe-this-aaa-console-game-is-also-coming-to-mobile
-- indie
-- mobile
-- pc
-- rpg
-- simulation
-- strategy
-- taptap
+  - casual
+  - i-cant-believe-this-aaa-console-game-is-also-coming-to-mobile
+  - indie
+  - mobile
+  - pc
+  - rpg
+  - simulation
+  - strategy
+  - taptap
 thumb: ''
-title: Assassin's Creed Mirage - I can’t believe this AAA console game is also coming
-  to mobile!
-game: I can’t believe this AAA console game is also coming to mobile!
 ---
+
 Assassin's Creed Mirage promises to be a refreshing return to the franchise's roots. Set against the historical backdrop of Baghdad, the game takes us back to the early years of the series, emphasizing parkour, stealth, and the art of assassination—a style reminiscent of the beloved Altair and Ezio eras. It's a deliberate shift away from the sprawling open-world RPGs and health sponges of enemies that have become the norm in recent Assassin's Creed titles.
 
 Well, the game is scheduled to release October 5 (a week earlier than originally announced) on modern game platforms: Xbox Series,  PlayStation 5, and PC, but in a surprising move, Ubisoft and Apple has announced that Assassin's Creed Mirage will also make its way to mobile gaming on the iPhone 15 Pro sometime in late 2023 or early 2024. That's right, Assassin's Creed Mirage, a modern AAA title, on the same timeframe as consoles, releasing on a mobile phone!

@@ -1,52 +1,54 @@
 ---
 author: lyndonguitar
 category: Review
-description: WitchSpring R, the much-anticipated remake of the mobile RPG classic,
-  WitchSpring 1, is a captivating story-driven RPG that seamlessly combines elements
-  of simulation, collecting, crafting, and thrilling battles. The game transports
-  players into the world of Pieberry, a unique witch with white hair and bunny ears,
-  who resides in a mystical forest teeming with fantastical creatures. Her desire
-  to explore the human world sets the stage for an intriguing adventure.
-featured: false
-pubDate: 2023-09-19
-tags:
-- board games
-- everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions
-- family
-- ios
-- mobile
-- nintendo ds
-- pc
-- playstation 3
-- taptap
-- wii
-- xbox 360
-thumb: /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif
+slug: 2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions
 title: Everything you need to know about WitchSpring R (Mobile release? Console versions?)
 game: Everything you need to know about WitchSpring R (Mobile release? Console versions?)
+description: WitchSpring R, the much-anticipated remake of the mobile RPG classic, WitchSpring 1, is a captivating story-driven RPG that seamlessly combines elements of simulation, collecting, crafting, and thrilling battles. The game transports players into the world of Pieberry, a unique witch with white hair and bunny ears, who resides in a mystical forest teeming with fantastical creatures. Her desire to explore the human world sets the stage for an intriguing adventure.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif
-- /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-1.avif
-- /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-2.avif
-- /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-3.avif
+  - /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif
+  - /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-1.avif
+  - /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-2.avif
+  - /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-3.avif
+pubDate: 2023-09-19
+tags:
+  - board-games
+  - everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions
+  - family
+  - ios
+  - mobile
+  - nintendo-ds
+  - pc
+  - playstation-3
+  - taptap
+  - wii
+  - xbox-360
+thumb: /images/reviews/legacy/2023-09-19-everything-you-need-to-know-about-witchspring-r-mobile-release-console-versions-0.avif
 ---
-✨Overview
 
-✨Overview
+## ✨Overview
+
+
+## ✨Overview
 
 WitchSpring R, the much-anticipated remake of the mobile RPG classic, WitchSpring 1, is a captivating story-driven RPG that seamlessly combines elements of simulation, collecting, crafting, and thrilling battles. The game transports players into the world of Pieberry, a unique witch with white hair and bunny ears, who resides in a mystical forest teeming with fantastical creatures. Her desire to explore the human world sets the stage for an intriguing adventure.
 
-📖Background on the Series and the Original Game
 
-📖Background on the Series and the Original Game
+## 📖Background on the Series and the Original Game
+
+
+## 📖Background on the Series and the Original Game
 
 WitchSpring R (The R stands for "Remake/Remaster")  is part of the WitchSpring series, which was initially developed for mobile platforms by Korean game developer Kiwi Walks. Suyoung Jang, the lead developer, played a pivotal role in crafting the first three games in the series. Notably, the WitchSpring series adopts a player-friendly approach, offering buy-once titles devoid of in-game microtransactions or DLCs. Players make a single purchase to access the full game, including future updates, all without intrusive ads or premium currency to buy.
 
 The original WitchSpring 1, released in 2015 for mobile devices, laid the foundation for the series' engaging storytelling and immersive gameplay. WitchSpring R is set to revisit and revitalize this classic, bringing a fresh perspective to the cherished tale.
 
-🎮Release Date and Platforms
 
-🎮Release Date and Platforms
+## 🎮Release Date and Platforms
+
+
+## 🎮Release Date and Platforms
 
 PC Release: The game is scheduled for release on September 26, 2023, making its debut first on Steam
 
@@ -60,9 +62,11 @@ Mobile and Switch Release: Unfortunately, WitchSpring R's availability on mobile
 
 Mobile and Switch Release: Unfortunately, WitchSpring R's availability on mobile platforms such as Android, iOS, and the Nintendo Switch remains uncertain at this time. But given that the previous titles have been on these systems, it’s not surprising if we'll have an announcement anytime soon.
 
-🕹Just like the original, but better?
 
-🕹Just like the original, but better?
+## 🕹Just like the original, but better?
+
+
+## 🕹Just like the original, but better?
 
 Just like the original, WitchSpring R emphasizes storytelling, with a focus on Pieberry's relationships with other characters and the unfolding narrative that uncovers the secrets of her world. Players can help Pieberry grow and become a more powerful witch by engaging in various activities like potion-making, combat, and exploration. The game utilizes a turn-based combat system where players strategically choose spells and actions in battles against different foes
 
@@ -102,9 +106,11 @@ New Storylines and Characters: The remake introduces new storylines and characte
 
 New Storylines and Characters: The remake introduces new storylines and characters such as Master Thief Kanna and Red Hawk
 
-🛒Pricing
 
-🛒Pricing
+## 🛒Pricing
+
+
+## 🛒Pricing
 
 WitchSpring R will be priced at $34.99 on Steam when it launches on September 26, offering a 15% discount during its first week of release, reducing the price for early buyers.
 

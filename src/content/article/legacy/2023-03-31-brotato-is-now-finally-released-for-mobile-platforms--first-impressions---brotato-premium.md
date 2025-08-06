@@ -1,31 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: One handed gameplay, increasingly difficult waves of enemies. Six weapons
-  all at once, all attacking simultaneously. That’s the basic gist of Brotato. For
-  those familiar with the game Vampire Survivors, Brotato is essentially a welcome
-  clone.
+slug: 2023-03-31-brotato-is-now-finally-released-for-mobile-platforms-first-impressions-brotato-premium
+title: Brotato is now finally released for Mobile platforms | First Impressions - Brotato Premium
+game: 'Brotato: Premium'
+description: One handed gameplay, increasingly difficult waves of enemies. Six weapons all at once, all attacking simultaneously. That’s the basic gist of Brotato. For those familiar with the game Vampire Survivors, Brotato is essentially a welcome clone.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-0.avif
+  - /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-1.avif
+  - /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-2.avif
+  - /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-3.avif
+  - /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-4.avif
+  - /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-5.avif
+  - /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-6.avif
 pubDate: 2023-03-31
 tags:
-- action
-- android
-- brotato-premium
-- mobile
-- taptap
+  - action
+  - android
+  - brotato-premium
+  - mobile
+  - taptap
 thumb: /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-0.avif
-title: Brotato is now finally released for Mobile platforms | First Impressions -
-  Brotato Premium
-game: 'Brotato: Premium'
-gallery:
-- /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-0.avif
-- /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-1.avif
-- /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-2.avif
-- /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-3.avif
-- /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-4.avif
-- /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-5.avif
-- /images/reviews/legacy/2023-03-31-brotato-is-now-finally-released-for-mobile-platforms--first-impressions---brotato-premium-6.avif
 ---
+
 One handed gameplay, increasingly difficult waves of enemies. Six weapons all at once, all attacking simultaneously. That’s the basic gist of Brotato. For those familiar with the game Vampire Survivors, Brotato is essentially a welcome clone.
 
 Both games are in the same genre of bullet-hell survival one handed roguelite games, but the two games couldn’t be more different from each other that Brotato stands well out on its own —- It has its own set of weapons, rules, mechanics, and progression design that make it a compelling alternative, or perhaps an even better game than Vampire Survivors.

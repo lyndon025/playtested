@@ -1,63 +1,71 @@
 ---
 author: lyndonguitar
 category: Review
-description: One Hand Clapping One Hand Clapping is a 2D puzzle platformer game with
-  innovative singing mechanics that requires the use of your microphone as a control
-  input. It is available for PC, Xbox Playstation, Switch, and Mobile.
-featured: false
-pubDate: 2023-04-28
-tags:
-- adventure
-- android
-- console
-- indie
-- ios
-- macos
-- mobile
-- nintendo switch
-- one-hand-clapping
-- pc
-- platformer
-- playstation
-- playstation 4
-- puzzle
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-0.avif
+slug: 2023-04-28-everyone-should-try-out-this-one-of-a-kind-game-full-review-one-hand-clapping
 title: Everyone should try out this one of a kind game | Full Review - One Hand Clapping
 game: One Hand Clapping
+description: One Hand Clapping One Hand Clapping is a 2D puzzle platformer game with innovative singing mechanics that requires the use of your microphone as a control input. It is available for PC, Xbox Playstation, Switch, and Mobile.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-0.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-1.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-2.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-3.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-4.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-5.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-6.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-7.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-8.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-9.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-10.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-11.avif
-- /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-12.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-0.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-1.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-2.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-3.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-4.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-5.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-6.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-7.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-8.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-9.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-10.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-11.avif
+  - /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-12.avif
+pubDate: 2023-04-28
+tags:
+  - adventure
+  - android
+  - console
+  - indie
+  - ios
+  - macos
+  - mobile
+  - nintendo-switch
+  - one-hand-clapping
+  - pc
+  - platformer
+  - playstation
+  - playstation-4
+  - puzzle
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2023-04-28-everyone-should-try-out-this-one-of-a-kind-game--full-review---one-hand-clapping-0.avif
 ---
+
 One Hand Clapping
 One Hand Clapping is a 2D puzzle platformer game with innovative singing mechanics that requires the use of your microphone as a control input. It is available for PC, Xbox Playstation, Switch, and Mobile.
 
 
-**Pros:**
 
 
-+Innovative singing/humming mechanics
-
-+Creative use of singing mechanics to the puzzles
-
-+Beautiful landscape and levels
-
-+Accessibility and educational options
+## Pros
 
 
-**Cons:**
+
+## +Innovative singing/humming mechanics
+
+
+## +Creative use of singing mechanics to the puzzles
+
+
+## +Beautiful landscape and levels
+
+
+## +Accessibility and educational options
+
+
+
+
+## Cons
 
 
 -Not recommended to be played in public

@@ -1,38 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Murders on Budapest is a narratively focused murder mystery game with
-  both comedic and horror undertones and presented in a messaging app style format.
-featured: false
-pubDate: 2023-05-13
-tags:
-- action
-- adventure
-- console
-- mobile
-- murders-on-budapest
-- pc
-- playstation
-- playstation 4
-- rpg
-- shooter
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif
+slug: 2023-05-13-humor-horror-mystery-and-ads-full-review-murders-on-budapest
 title: Humor, horror, mystery, and ads | Full Review - Murders on Budapest
 game: Murders on Budapest
+description: Murders on Budapest is a narratively focused murder mystery game with both comedic and horror undertones and presented in a messaging app style format.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-1.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-2.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-3.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-4.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-5.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-6.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-7.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-8.avif
-- /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-9.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-1.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-2.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-3.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-4.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-5.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-6.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-7.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-8.avif
+  - /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-9.avif
+pubDate: 2023-05-13
+tags:
+  - action
+  - adventure
+  - console
+  - mobile
+  - murders-on-budapest
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - shooter
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2023-05-13-humor-horror-mystery-and-ads--full-review---murders-on-budapest-0.avif
 ---
+
 Murders on Budapest!
 
 lyndonguitar
@@ -41,17 +42,24 @@ Download
 Murders on Budapest is a narratively focused murder mystery game with both comedic and horror undertones and presented in a messaging app style format.
 
 
-**Pros:**
 
 
-+intriguing self-aware murder mystery game
-
-+interesting fourth-wall breaks
-
-+combines both humor and horror
+## Pros
 
 
-**Cons:**
+
+## +intriguing self-aware murder mystery game
+
+
+## +interesting fourth-wall breaks
+
+
+## +combines both humor and horror
+
+
+
+
+## Cons
 
 
 -Intrusive ads while playing the game

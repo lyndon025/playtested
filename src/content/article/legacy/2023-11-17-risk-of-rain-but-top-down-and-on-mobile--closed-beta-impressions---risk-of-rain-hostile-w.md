@@ -1,23 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Risk of Rain: Hostile Worlds is the latest addition to the Risk of Rain
-  series alongside the recently released Risk of Rain Returns, it ventures into uncharted
-  territory by bringing the beloved roguelite experience to the mobile platform.'
+slug: 2023-11-17-risk-of-rain-but-top-down-and-on-mobile-closed-beta-impressions-risk-of-rain-hostile-w
+title: 'Risk of Rain but top-down and on mobile | Closed Beta Impressions - Risk of Rain: Hostile Worlds'
+game: 'Closed Beta Impressions - Risk of Rain: Hostile Worlds'
+description: 'Risk of Rain: Hostile Worlds is the latest addition to the Risk of Rain series alongside the recently released Risk of Rain Returns, it ventures into uncharted territory by bringing the beloved roguelite experience to the mobile platform.'
 featured: false
 pubDate: 2023-11-17
 tags:
-- action
-- closed-beta-impressions-risk-of-rain-hostile-worlds
-- mobile
-- pc
-- platformer
-- taptap
+  - action
+  - closed-beta-impressions-risk-of-rain-hostile-worlds
+  - mobile
+  - pc
+  - platformer
+  - taptap
 thumb: ''
-title: 'Risk of Rain but top-down and on mobile | Closed Beta Impressions - Risk of
-  Rain: Hostile Worlds'
-game: 'Closed Beta Impressions - Risk of Rain: Hostile Worlds'
 ---
+
 Risk of Rain: Hostile Worlds is the latest addition to the Risk of Rain series alongside the recently released Risk of Rain Returns, it ventures into uncharted territory by bringing the beloved roguelite experience to the mobile platform.
 
 The game retains the chaotic essence of its predecessors while introducing a fresh narrative and innovative gameplay mechanics. As players embark on a space odyssey to rescue the scattered crew of The Shimmer Mark, they navigate treacherous planets, engage in intense combat, and uncover the mysteries that unfold across the cosmos.

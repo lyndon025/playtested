@@ -1,37 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Download Tower of God: New World is an upcoming mobile
-  idle RPG game, based on the original Webtoon Tower of God created by S.I.U. This
-  mobile game retells the story of Twenty Fifth Bam''s quest to find his friend Rachel
-  within the mysterious Tower, while inserting the player’s journey into the fold.
-  As players traverse the Tower, they encounter newfound allies who aid them in their
-  journey.'
+slug: 2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game-full-review-tower-of-god-new-world
+title: 'A beautiful, innovative, and fun gacha idle RPG game | Full Review - Tower of God: New World'
+game: 'Tower of God: NEW WORLD'
+description: "lyndonguitar Download Tower of God: New World is an upcoming mobile idle RPG game, based on the original Webtoon Tower of God created by S.I.U. This mobile game retells the story of Twenty Fifth Bam's quest to find his friend Rachel within the mysterious Tower, while inserting the player’s journey into the fold. As players traverse the Tower, they encounter newfound allies who aid them in their journey."
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-0.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-1.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-2.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-3.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-4.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-5.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-6.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-7.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-8.avif
+  - /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-9.avif
 pubDate: 2023-07-23
 tags:
-- ios
-- mobile
-- rpg
-- strategy
-- taptap
-- tower-of-god-new-world
+  - ios
+  - mobile
+  - rpg
+  - strategy
+  - taptap
+  - tower-of-god-new-world
 thumb: /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-0.avif
-title: 'A beautiful, innovative, and fun gacha idle RPG game | Full Review - Tower
-  of God: New World'
-game: 'Tower of God: NEW WORLD'
-gallery:
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-0.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-1.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-2.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-3.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-4.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-5.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-6.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-7.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-8.avif
-- /images/reviews/legacy/2023-07-23-a-beautiful-innovative-and-fun-gacha-idle-rpg-game--full-review---tower-of-god-new-world-9.avif
 ---
+
 Tower of God: NEW WORLD
 
 lyndonguitar
@@ -39,19 +35,27 @@ Download
 Tower of God: New World is an upcoming mobile idle RPG game, based on the original Webtoon Tower of God created by S.I.U. This mobile game retells the story of Twenty Fifth Bam's quest to find his friend Rachel within the mysterious Tower, while inserting the player’s journey into the fold. As players traverse the Tower, they encounter newfound allies who aid them in their journey.
 
 
-**Pros:**
 
 
-+Faithful story retelling while also telling a new story
-
-+Best-in-class mobile game visuals
-
-+Three voice-over options, with the original Anime Japanese actors returning
-
-+Refreshing gameplay mechanics
+## Pros
 
 
-**Cons:**
+
+## +Faithful story retelling while also telling a new story
+
+
+## +Best-in-class mobile game visuals
+
+
+## +Three voice-over options, with the original Anime Japanese actors returning
+
+
+## +Refreshing gameplay mechanics
+
+
+
+
+## Cons
 
 
 -Departure from the original manhwa art style

@@ -1,37 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: In a recent announcement, the developers of Takt Op. Symphony have shared
-  the unfortunate news of the game's impending shutdown. Despite best efforts, changes
-  in business direction have led to the conclusion to shut down the game's servers,
-  according to their announcement. The final day of operation is set for April 9,
-  2024.
+slug: 2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april
+title: The final note is near for Takt Op. Symphony, game shutting down soon this April.
+game: The final note is near for Takt Op. Symphony, game shutting down soon this April.
+description: In a recent announcement, the developers of Takt Op. Symphony have shared the unfortunate news of the game's impending shutdown. Despite best efforts, changes in business direction have led to the conclusion to shut down the game's servers, according to their announcement. The final day of operation is set for April 9, 2024.
 featured: false
+gallery:
+  - /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-0.avif
+  - /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-1.avif
+  - /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-2.avif
+  - /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-3.avif
 pubDate: 2024-02-07
 tags:
-- adventure
-- console
-- indie
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- taptap
-- the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april
-- web
+  - adventure
+  - console
+  - indie
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - taptap
+  - the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april
+  - web
 thumb: /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-0.avif
-title: The final note is near for Takt Op. Symphony, game shutting down soon this
-  April.
-game: The final note is near for Takt Op. Symphony, game shutting down soon this April.
-gallery:
-- /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-0.avif
-- /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-1.avif
-- /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-2.avif
-- /images/reviews/legacy/2024-02-07-the-final-note-is-near-for-takt-op-symphony-game-shutting-down-soon-this-april-3.avif
 ---
+
 In a recent announcement, the developers of Takt Op. Symphony have shared the unfortunate news of the game's impending shutdown. Despite best efforts, changes in business direction have led to the conclusion to shut down the game's servers, according to their announcement. The final day of operation is set for April 9, 2024.
 
-"We want to thank all our players for their support and dedication throughout the journey of 'Takt Op. Symphony'," stated a spokesperson from the game's operations team. "While we regret having to make this decision, we appreciate the community's involvement in the game."
+
+## "We want to thank all our players for their support and dedication throughout the journey of 'Takt Op. Symphony'," stated a spokesperson from the game's operations team. "While we regret having to make this decision, we appreciate the community's involvement in the game."
 
 The development team has pledged to assist players during the transition period leading up to the shutdown and is planning farewell events. All purchases and accounts will be maintained, usable, and playable up until the game’s shutdown day on April 9, 2024. The decision to end operations on Takt Op. Symphony comes as a surprise to its player base, many of which were fans of the Anime TV series Takt Op. Destiny.
 

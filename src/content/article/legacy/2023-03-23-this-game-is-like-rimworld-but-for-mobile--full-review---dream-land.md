@@ -1,59 +1,68 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dream Land is a free-to-play construction and management simulation that
-  puts players in charge of a group of travelers stranded on an alien planet.
-featured: false
-pubDate: 2023-03-23
-tags:
-- action
-- dream-land
-- mobile
-- pc
-- taptap
-thumb: /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-0.avif
+slug: 2023-03-23-this-game-is-like-rimworld-but-for-mobile-full-review-dream-land
 title: This game is like RimWorld but for Mobile | Full Review - Dream Land
 game: Dream Land
+description: Dream Land is a free-to-play construction and management simulation that puts players in charge of a group of travelers stranded on an alien planet.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-0.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-1.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-2.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-3.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-4.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-5.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-6.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-7.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-8.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-9.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-10.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-11.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-12.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-13.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-14.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-15.avif
-- /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-16.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-0.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-1.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-2.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-3.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-4.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-5.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-6.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-7.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-8.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-9.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-10.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-11.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-12.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-13.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-14.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-15.avif
+  - /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-16.avif
+pubDate: 2023-03-23
+tags:
+  - action
+  - dream-land
+  - mobile
+  - pc
+  - taptap
+thumb: /images/reviews/legacy/2023-03-23-this-game-is-like-rimworld-but-for-mobile--full-review---dream-land-0.avif
 ---
+
 Dream Land is a free-to-play construction and management simulation that puts players in charge of a group of travelers stranded on an alien planet.
 
 
-**Pros:**
 
 
-+Fun base building mechanics
-
-+Engaging exploration elements
-
-+Clean 2D visuals
+## Pros
 
 
-**Cons:**
+
+## +Fun base building mechanics
+
+
+## +Engaging exploration elements
+
+
+## +Clean 2D visuals
+
+
+
+
+## Cons
 
 
 -Minor UI and camera controls woes
 
 -Sluggish performance
 
-📝Notable points:
+
+## 📝Notable points:
 
 Live service online game, not playable offline
 

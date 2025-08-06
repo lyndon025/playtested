@@ -1,64 +1,72 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dead by Daylight Mobile is an asymmetric 4v1 multiplayer survival horror
-  game where a team of four players must cooperate with each other in order to escape
-  a killer hunting them.
+slug: 2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile-full-review-dead-by-daylight-mobile
+title: The best asymmetric multiplayer horror on mobile | Full Review - Dead by Daylight Mobile
+game: Dead by Daylight Mobile
+description: Dead by Daylight Mobile is an asymmetric 4v1 multiplayer survival horror game where a team of four players must cooperate with each other in order to escape a killer hunting them.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-0.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-1.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-2.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-3.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-4.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-5.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-6.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-7.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-8.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-9.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-10.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-11.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-12.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-13.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-14.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-15.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-16.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-17.avif
+  - /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-18.avif
 pubDate: 2023-03-23
 tags:
-- action
-- dead-by-daylight-mobile
-- ios
-- mobile
-- rpg
-- taptap
+  - action
+  - dead-by-daylight-mobile
+  - ios
+  - mobile
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-0.avif
-title: The best asymmetric multiplayer horror on mobile | Full Review - Dead by Daylight
-  Mobile
-game: Dead by Daylight Mobile
-gallery:
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-0.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-1.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-2.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-3.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-4.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-5.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-6.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-7.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-8.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-9.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-10.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-11.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-12.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-13.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-14.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-15.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-16.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-17.avif
-- /images/reviews/legacy/2023-03-23-the-best-asymmetric-multiplayer-horror-on-mobile--full-review---dead-by-daylight-mobile-18.avif
 ---
+
 Dead by Daylight Mobile is an asymmetric 4v1 multiplayer survival horror game where a team of four players must cooperate with each other in order to escape a killer hunting them.
 
 
-**Pros:**
 
 
-+Top-tier multiplayer survival horror
-
-+Console level visuals
-
-+Balanced asymmetric gameplay
-
-+Super sound design
+## Pros
 
 
-**Cons:**
+
+## +Top-tier multiplayer survival horror
+
+
+## +Console level visuals
+
+
+## +Balanced asymmetric gameplay
+
+
+## +Super sound design
+
+
+
+
+## Cons
 
 
 -No cons
 
-📝Notable points:
+
+## 📝Notable points:
 
 Free to play with In-app purchases for cosmetics and progression
 

@@ -1,34 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Marvel''s Spider-Man: Miles Morales is the follow-up standalone expansion
-  to this year’s PC release of Marvel''s Spider-Man Remastered, Continuing the first
-  game’s story, more importantly its DLC “The City That Never Sleeps”. It introduces
-  Miles Morales’ version of Spider-Man as the playable character and his “year one”
-  activities in New York city.'
+slug: 2022-11-19-we-now-have-two-spider-men-on-pc-marvels-spider-man-miles-morales-first-impressions
+title: "We now have two Spider-Men on PC! | Marvel's Spider-Man: Miles Morales - First Impressions"
+game: "Marvel's Spider-Man: Miles Morales"
+description: "Marvel's Spider-Man: Miles Morales is the follow-up standalone expansion to this year’s PC release of Marvel's Spider-Man Remastered, Continuing the first game’s story, more importantly its DLC “The City That Never Sleeps”. It introduces Miles Morales’ version of Spider-Man as the playable character and his “year one” activities in New York city."
 featured: false
+gallery:
+  - /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-0.avif
+  - /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-1.avif
+  - /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-2.avif
+  - /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-3.avif
+  - /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-4.avif
+  - /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-5.avif
 pubDate: 2022-11-19
 tags:
-- action
-- console
-- marvel-s-spider-man-miles-morales
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
+  - action
+  - console
+  - marvel-s-spider-man-miles-morales
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
 thumb: /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-0.avif
-title: 'We now have two Spider-Men on PC! | Marvel''s Spider-Man: Miles Morales -
-  First Impressions'
-game: 'Marvel''s Spider-Man: Miles Morales'
-gallery:
-- /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-0.avif
-- /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-1.avif
-- /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-2.avif
-- /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-3.avif
-- /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-4.avif
-- /images/reviews/legacy/2022-11-19-we-now-have-two-spider-men-on-pc--marvels-spider-man-miles-morales---first-impressions-5.avif
 ---
+
 Marvel's Spider-Man: Miles Morales is the follow-up standalone expansion to this year’s PC release of Marvel's Spider-Man Remastered, Continuing the first game’s story, more importantly its DLC “The City That Never Sleeps”. It introduces Miles Morales’ version of Spider-Man as the playable character and his “year one” activities in New York city.
 
 Is it really standalone?

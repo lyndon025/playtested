@@ -1,28 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: Dark and Light Mobile provides players with a vast and open world to
-  explore, featuring diverse landscapes and environments, from lush forests to desolate
-  deserts. Players can gather resources from the world, and then craft weapons, gear,
-  items; build houses and bases; and capture variety of magical creatures, which can
-  then become your loyal companions or mounts
+slug: 2023-09-22-explore-build-tame-hunt-in-this-magical-game-first-impressions-dark-and-light-mobile
+title: Explore, Build, Tame, & Hunt in this magical game | First Impressions - Dark and Light Mobile (Beta)
+game: Dark and Light Mobile (Beta)
+description: Dark and Light Mobile provides players with a vast and open world to explore, featuring diverse landscapes and environments, from lush forests to desolate deserts. Players can gather resources from the world, and then craft weapons, gear, items; build houses and bases; and capture variety of magical creatures, which can then become your loyal companions or mounts
 featured: false
 pubDate: 2023-09-22
 tags:
-- action
-- adventure
-- dark-and-light-mobile-beta
-- massively multiplayer
-- mobile
-- pc
-- rpg
-- simulation
-- taptap
+  - action
+  - adventure
+  - dark-and-light-mobile-beta
+  - massively-multiplayer
+  - mobile
+  - pc
+  - rpg
+  - simulation
+  - taptap
 thumb: ''
-title: Explore, Build, Tame, & Hunt in this magical game | First Impressions - Dark
-  and Light Mobile (Beta)
-game: Dark and Light Mobile (Beta)
 ---
+
 Dark and Light Mobile provides players with a vast and open world to explore, featuring diverse landscapes and environments, from lush forests to desolate deserts. Players can gather resources from the world, and then craft weapons, gear, items; build houses and bases; and capture variety of magical creatures, which can then become your loyal companions or mounts
 
 For new players, there is a quest guide system implemented that serves as an excellent introductory guide for beginners. Players can choose to follow it or play at their own pace. My experience has been on both sides; I followed the tutorial but gradually began doing more things on my own as I learned more about the game.

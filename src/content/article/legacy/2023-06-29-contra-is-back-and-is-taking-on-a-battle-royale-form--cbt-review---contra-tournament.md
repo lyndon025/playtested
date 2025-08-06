@@ -1,25 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Contra: Tournament brings the iconic Contra series to the mobile battle
-  royale genre, offering players a fresh take on the popular gaming formula. A Closed
-  Beta Test for Contra: Tournament has recently started, allowing players to experience
-  and provide feedback on this upcoming new title.'
+slug: 2023-06-29-contra-is-back-and-is-taking-on-a-battle-royale-form-cbt-review-contra-tournament
+title: 'Contra is back and is taking on a battle royale form | CBT Review - Contra: Tournament'
+game: 'CBT Review - Contra: Tournament'
+description: 'Contra: Tournament brings the iconic Contra series to the mobile battle royale genre, offering players a fresh take on the popular gaming formula. A Closed Beta Test for Contra: Tournament has recently started, allowing players to experience and provide feedback on this upcoming new title.'
 featured: false
 pubDate: 2023-06-29
 tags:
-- action
-- cbt-review-contra-tournament
-- mobile
-- nes
-- platformer
-- shooter
-- taptap
+  - action
+  - cbt-review-contra-tournament
+  - mobile
+  - nes
+  - platformer
+  - shooter
+  - taptap
 thumb: ''
-title: 'Contra is back and is taking on a battle royale form | CBT Review - Contra:
-  Tournament'
-game: 'CBT Review - Contra: Tournament'
 ---
+
 Contra: Tournament
 
 lyndonguitar
@@ -27,17 +25,24 @@ lyndonguitar
 Contra: Tournament brings the iconic Contra series to the mobile battle royale genre, offering players a fresh take on the popular gaming formula. A Closed Beta Test for Contra: Tournament has recently started, allowing players to experience and provide feedback on this upcoming new title.
 
 
-**Pros:**
 
 
-+Well-optimized test build
-
-+Gunplay looks solid
-
-+Traditional and familiar battle royale game mechanics
+## Pros
 
 
-**Cons:**
+
+## +Well-optimized test build
+
+
+## +Gunplay looks solid
+
+
+## +Traditional and familiar battle royale game mechanics
+
+
+
+
+## Cons
 
 
 -Pay-to-Win cosmetics

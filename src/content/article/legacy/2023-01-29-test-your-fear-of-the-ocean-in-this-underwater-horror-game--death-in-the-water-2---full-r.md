@@ -1,51 +1,56 @@
 ---
 author: lyndonguitar
 category: Review
-description: Death in the Water 2 is a single-player horror FPS game that is set deep
-  underwater, pitting you — a specialist deep-water diver — against various mind controlled
-  sea creatures perpetuated by a sinister being – The Kraken, or what they call Death.
+slug: 2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game-death-in-the-water-2-full-r
+title: Test your fear of the ocean in this underwater horror game | Death in the Water 2 - Full Review
+game: Death in the Water 2
+description: Death in the Water 2 is a single-player horror FPS game that is set deep underwater, pitting you — a specialist deep-water diver — against various mind controlled sea creatures perpetuated by a sinister being – The Kraken, or what they call Death.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-0.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-1.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-2.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-3.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-4.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-5.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-6.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-7.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-8.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-9.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-10.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-11.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-12.avif
+  - /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-13.avif
 pubDate: 2023-01-29
 tags:
-- action
-- adventure
-- death-in-the-water-2
-- indie
-- pc
-- shooter
-- taptap
+  - action
+  - adventure
+  - death-in-the-water-2
+  - indie
+  - pc
+  - shooter
+  - taptap
 thumb: /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-0.avif
-title: Test your fear of the ocean in this underwater horror game | Death in the Water
-  2 - Full Review
-game: Death in the Water 2
-gallery:
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-0.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-1.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-2.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-3.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-4.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-5.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-6.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-7.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-8.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-9.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-10.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-11.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-12.avif
-- /images/reviews/legacy/2023-01-29-test-your-fear-of-the-ocean-in-this-underwater-horror-game--death-in-the-water-2---full-r-13.avif
 ---
+
 Death in the Water 2 is a single-player horror FPS game that is set deep underwater, pitting you — a specialist deep-water diver — against various mind controlled sea creatures perpetuated by a sinister being – The Kraken, or what they call Death.
 
 
-**Pros:**
 
 
-+immersive deep underwater experience
-
-+best animations I’ve seen for video game sea creatures
+## Pros
 
 
-**Cons:**
+
+## +immersive deep underwater experience
+
+
+## +best animations I’ve seen for video game sea creatures
+
+
+
+
+## Cons
 
 
 -repetitive mediocre gameplay loop

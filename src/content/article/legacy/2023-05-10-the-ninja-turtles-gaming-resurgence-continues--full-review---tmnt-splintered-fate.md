@@ -1,43 +1,42 @@
 ---
 author: lyndonguitar
 category: Review
-description: TMNT Splintered Fate is a brand new Ninja Turtles game with a rogue-lite
-  spin on the gameplay, heavily inspired by Hades with its hack-and-slash mechanics,
-  single special ability, and room after room upgrades.
+slug: 2023-05-10-the-ninja-turtles-gaming-resurgence-continues-full-review-tmnt-splintered-fate
+title: The Ninja Turtles' gaming resurgence continues | Full Review - TMNT Splintered Fate
+game: TMNT Splintered Fate
+description: TMNT Splintered Fate is a brand new Ninja Turtles game with a rogue-lite spin on the gameplay, heavily inspired by Hades with its hack-and-slash mechanics, single special ability, and room after room upgrades.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-0.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-1.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-2.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-3.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-4.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-5.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-6.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-7.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-8.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-9.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-10.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-11.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-12.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-13.avif
+  - /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-14.avif
 pubDate: 2023-05-10
 tags:
-- action
-- adventure
-- console
-- ios
-- mobile
-- nintendo switch
-- pc
-- rpg
-- taptap
-- tmnt-splintered-fate
+  - action
+  - adventure
+  - console
+  - ios
+  - mobile
+  - nintendo-switch
+  - pc
+  - rpg
+  - taptap
+  - tmnt-splintered-fate
 thumb: /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-0.avif
-title: The Ninja Turtles' gaming resurgence continues | Full Review - TMNT Splintered
-  Fate
-game: TMNT Splintered Fate
-gallery:
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-0.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-1.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-2.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-3.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-4.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-5.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-6.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-7.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-8.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-9.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-10.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-11.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-12.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-13.avif
-- /images/reviews/legacy/2023-05-10-the-ninja-turtles-gaming-resurgence-continues--full-review---tmnt-splintered-fate-14.avif
 ---
+
 TMNT Splintered Fate
 
 lyndonguitar
@@ -47,19 +46,27 @@ Graphics & MusicGameplay
 TMNT Splintered Fate is a brand new Ninja Turtles game with a rogue-lite spin on the gameplay, heavily inspired by Hades with its hack-and-slash mechanics, single special ability, and room after room upgrades.
 
 
-**Pros:**
 
 
-+Randomized runs; layout, upgrades, and mini-bosses
-
-+Combat is incredibly fluid
-
-+Four widely different characters to choose from
-
-+Coop multiplayer
+## Pros
 
 
-**Cons:**
+
+## +Randomized runs; layout, upgrades, and mini-bosses
+
+
+## +Combat is incredibly fluid
+
+
+## +Four widely different characters to choose from
+
+
+## +Coop multiplayer
+
+
+
+
+## Cons
 
 
 -No cons

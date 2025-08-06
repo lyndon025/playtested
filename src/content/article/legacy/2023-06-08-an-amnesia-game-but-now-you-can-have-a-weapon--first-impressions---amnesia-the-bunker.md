@@ -1,28 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Amnesia: The Bunker offers a chilling and unforgettable first person
-  horror experience through its gripping atmosphere, non-linear gameplay, resource
-  management mechanics, and a dynamic AI-driven monster.'
+slug: 2023-06-08-an-amnesia-game-but-now-you-can-have-a-weapon-first-impressions-amnesia-the-bunker
+title: 'An Amnesia game, but now you can have a weapon* | First Impressions - Amnesia: The Bunker'
+game: 'Amnesia: The Bunker'
+description: 'Amnesia: The Bunker offers a chilling and unforgettable first person horror experience through its gripping atmosphere, non-linear gameplay, resource management mechanics, and a dynamic AI-driven monster.'
 featured: false
 pubDate: 2023-06-08
 tags:
-- action
-- adventure
-- amnesia-the-bunker
-- console
-- indie
-- pc
-- playstation
-- playstation 4
-- taptap
-- xbox one
-- xbox series
+  - action
+  - adventure
+  - amnesia-the-bunker
+  - console
+  - indie
+  - pc
+  - playstation
+  - playstation-4
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: ''
-title: 'An Amnesia game, but now you can have a weapon* | First Impressions - Amnesia:
-  The Bunker'
-game: 'Amnesia: The Bunker'
 ---
+
 Amnesia: The Bunker offers a chilling and unforgettable first person horror experience through its gripping atmosphere, non-linear gameplay, resource management mechanics, and a dynamic AI-driven monster.
 
 Amnesia: The Bunker takes a departure from the linear structure of its predecessors and presents players with a semi-open world (or closed-world??) of The Bunker to explore. As the WW1 French soldier Henri Clement, players must navigate through the titular military and research bunker, finding a way to escape after being abandoned and trapped by escaping soldiers. The non-linear gameplay encourages players to thoroughly explore every corner of the bunker in search of resources to survive, and clues on how to escape.

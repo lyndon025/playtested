@@ -1,26 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: Brawl Stars offers a unique blend of strategy and action. Players control
-  Brawlers, characters with unique quirky abilities, and can team-up with others in
-  various game modes, each one having a different objective. From battle royale style
-  of gameplay to sports-like team-based matches, Players can invite friends to play
-  with them up to the maximum team size of the game mode.
+slug: 2023-10-24-moba-battle-royale-and-sports-are-just-game-modes-in-this-game-first-impressions-brawl
+title: MOBA, Battle Royale, and Sports are just game modes in this game | First Impressions - Brawl Stars
+game: Brawl Stars
+description: Brawl Stars offers a unique blend of strategy and action. Players control Brawlers, characters with unique quirky abilities, and can team-up with others in various game modes, each one having a different objective. From battle royale style of gameplay to sports-like team-based matches, Players can invite friends to play with them up to the maximum team size of the game mode.
 featured: false
 pubDate: 2023-10-24
 tags:
-- action
-- android
-- arcade
-- brawl-stars
-- casual
-- ios
-- taptap
+  - action
+  - android
+  - arcade
+  - brawl-stars
+  - casual
+  - ios
+  - taptap
 thumb: ''
-title: MOBA, Battle Royale, and Sports are just game modes in this game | First Impressions
-  - Brawl Stars
-game: Brawl Stars
 ---
+
 Brawl Stars offers a unique blend of strategy and action. Players control Brawlers, characters with unique quirky abilities, and can team-up with others in various game modes, each one having a different objective. From battle royale style of gameplay to sports-like team-based matches, Players can invite friends to play with them up to the maximum team size of the game mode.
 
 The first mode I unlocked was the Battle Royale mode called Showdown. Solo play first, then the Duo version is unlocked next alongside Brawl Ball which is the sports-like mode and is the most played mode recently last month.

@@ -1,37 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Mojo Melee is a real-time auto chess battler that will challenge your
-  intellect and tactical skills while you eliminate opponents. It is set on Planet
-  Mojo, a web3 gaming metaverse platform set to feature other games as well.
-featured: false
-pubDate: 2023-07-10
-tags:
-- action
-- adventure
-- casual
-- indie
-- mobile
-- mojo-melee
-- pc
-- simulation
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif
+slug: 2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins-full-review-mojo-melee
 title: An auto chess with metaverse gaming platform origins | Full Review - Mojo Melee
 game: Mojo Melee
+description: Mojo Melee is a real-time auto chess battler that will challenge your intellect and tactical skills while you eliminate opponents. It is set on Planet Mojo, a web3 gaming metaverse platform set to feature other games as well.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-1.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-2.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-3.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-4.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-5.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-6.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-7.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-8.avif
-- /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-9.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-1.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-2.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-3.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-4.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-5.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-6.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-7.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-8.avif
+  - /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-9.avif
+pubDate: 2023-07-10
+tags:
+  - action
+  - adventure
+  - casual
+  - indie
+  - mobile
+  - mojo-melee
+  - pc
+  - simulation
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-07-10-an-auto-chess-with-metaverse-gaming-platform-origins--full-review---mojo-melee-0.avif
 ---
+
 Mojo Melee: PVP Auto Chess
 
 lyndonguitar
@@ -40,19 +40,27 @@ Download
 Mojo Melee is a real-time auto chess battler that will challenge your intellect and tactical skills while you eliminate opponents. It is set on Planet Mojo, a web3 gaming metaverse platform set to feature other games as well.
 
 
-**Pros:**
 
 
-+Strategic depth
-
-+Unique visual style
-
-+Dynamic and unpredictable combat
-
-+Is set to be available for browsers, Android, and iOS.
+## Pros
 
 
-**Cons:**
+
+## +Strategic depth
+
+
+## +Unique visual style
+
+
+## +Dynamic and unpredictable combat
+
+
+## +Is set to be available for browsers, Android, and iOS.
+
+
+
+
+## Cons
 
 
 -No players for matchmaking
@@ -61,7 +69,8 @@ Mojo Melee is a real-time auto chess battler that will challenge your intellect 
 
 -Manual account registration
 
-📝Notable points:
+
+## 📝Notable points:
 
 These pros and cons are based on Open Beta Test and does not accurately represent the quality of the finished product
 

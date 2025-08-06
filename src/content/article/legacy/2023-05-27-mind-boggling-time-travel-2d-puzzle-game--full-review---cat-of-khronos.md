@@ -1,36 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cat of Khronos is a time traveling puzzle game with mind bending mechanics
-  that is sure to keep players captivated and their brains challenged as they navigate
-  through various “4D” puzzles
-featured: false
-pubDate: 2023-05-27
-tags:
-- adventure
-- android
-- card
-- cat-of-khronos
-- console
-- indie
-- ios
-- linux
-- macos
-- nintendo switch
-- pc
-- rpg
-- taptap
-thumb: /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif
+slug: 2023-05-27-mind-boggling-time-travel-2d-puzzle-game-full-review-cat-of-khronos
 title: Mind-boggling time travel 2D puzzle game | Full Review - Cat of Khronos
 game: Cat of Khronos
+description: Cat of Khronos is a time traveling puzzle game with mind bending mechanics that is sure to keep players captivated and their brains challenged as they navigate through various “4D” puzzles
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif
-- /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-1.avif
-- /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-2.avif
-- /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-3.avif
-- /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-4.avif
-- /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-5.avif
+  - /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif
+  - /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-1.avif
+  - /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-2.avif
+  - /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-3.avif
+  - /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-4.avif
+  - /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-5.avif
+pubDate: 2023-05-27
+tags:
+  - adventure
+  - android
+  - card
+  - cat-of-khronos
+  - console
+  - indie
+  - ios
+  - linux
+  - macos
+  - nintendo-switch
+  - pc
+  - rpg
+  - taptap
+thumb: /images/reviews/legacy/2023-05-27-mind-boggling-time-travel-2d-puzzle-game--full-review---cat-of-khronos-0.avif
 ---
+
 Cat of Khronos
 
 lyndonguitar
@@ -40,17 +40,24 @@ Gameplay
 Cat of Khronos is a time traveling puzzle game with mind bending mechanics that is sure to keep players captivated and their brains challenged as they navigate through various “4D” puzzles
 
 
-**Pros:**
 
 
-+Unique Time-travel puzzle gameplay
-
-+Engaging and thought-provoking
-
-+Challenging progression and satisfying puzzle solving
+## Pros
 
 
-**Cons:**
+
+## +Unique Time-travel puzzle gameplay
+
+
+## +Engaging and thought-provoking
+
+
+## +Challenging progression and satisfying puzzle solving
+
+
+
+
+## Cons
 
 
 -Very steep learning curve

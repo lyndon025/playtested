@@ -1,44 +1,52 @@
 ---
 author: lyndonguitar
 category: Review
-description: XCUTE(me) is a vertical scrolling bullet-hell shoot'em up game (AKA “shmups”),
-  featuring cell-shaded graphics and anime-inspired female ecchi characters.
-featured: false
-pubDate: 2023-02-26
-tags:
-- action
-- pc
-- taptap
-- xcute-me
-thumb: /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-0.avif
+slug: 2023-02-26-an-ecchi-vertical-bullet-shootem-up-full-review-xcuteme
 title: An Ecchi vertical bullet shoot’em up | Full Review - XCUTE(me)
 game: XCUTE(me)
+description: XCUTE(me) is a vertical scrolling bullet-hell shoot'em up game (AKA “shmups”), featuring cell-shaded graphics and anime-inspired female ecchi characters.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-0.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-1.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-2.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-3.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-4.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-5.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-6.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-7.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-8.avif
-- /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-9.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-0.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-1.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-2.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-3.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-4.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-5.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-6.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-7.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-8.avif
+  - /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-9.avif
+pubDate: 2023-02-26
+tags:
+  - action
+  - pc
+  - taptap
+  - xcute-me
+thumb: /images/reviews/legacy/2023-02-26-an-ecchi-vertical-bullet-shootem-up--full-review---xcuteme-0.avif
 ---
+
 XCUTE(me) is a vertical scrolling bullet-hell shoot'em up game (AKA “shmups”), featuring cell-shaded graphics and anime-inspired female ecchi characters.
 
 
-**Pros:**
 
 
-+alluring cell-shaded characters
-
-+simple touch controls
-
-+metal soundtrack
+## Pros
 
 
-**Cons:**
+
+## +alluring cell-shaded characters
+
+
+## +simple touch controls
+
+
+## +metal soundtrack
+
+
+
+
+## Cons
 
 
 -The UI and the presentation felt underdeveloped

@@ -1,33 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'As a kid, I have always been fascinated by trains, well I think most
-  of us were. Beyond that childhood fantasy and riding trains for travel, I never
-  really got interested in trains as a grown up, until now. Fortunately, we now have
-  SimRail - The Railway Simulator as a brand new addition to the list of growing video
-  game train simulators, the caveat: it’s still in Early Access.'
+slug: 2023-01-14-you-can-learn-more-about-trains-in-this-game-simrail-the-railway-simulator-first-imp
+title: You can learn more about Trains in this game | SimRail - The Railway Simulator - First Impressions
+game: SimRail - The Railway Simulator
+description: 'As a kid, I have always been fascinated by trains, well I think most of us were. Beyond that childhood fantasy and riding trains for travel, I never really got interested in trains as a grown up, until now. Fortunately, we now have SimRail - The Railway Simulator as a brand new addition to the list of growing video game train simulators, the caveat: it’s still in Early Access.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-0.avif
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-1.avif
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-2.avif
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-3.avif
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-4.avif
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-5.avif
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-6.avif
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-7.avif
+  - /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-8.avif
 pubDate: 2023-01-14
 tags:
-- pc
-- simrail-the-railway-simulator
-- simulation
-- taptap
+  - pc
+  - simrail-the-railway-simulator
+  - simulation
+  - taptap
 thumb: /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-0.avif
-title: You can learn more about Trains in this game | SimRail - The Railway Simulator
-  - First Impressions
-game: SimRail - The Railway Simulator
-gallery:
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-0.avif
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-1.avif
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-2.avif
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-3.avif
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-4.avif
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-5.avif
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-6.avif
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-7.avif
-- /images/reviews/legacy/2023-01-14-you-can-learn-more-about-trains-in-this-game--simrail---the-railway-simulator---first-imp-8.avif
 ---
+
 As a kid, I have always been fascinated by trains, well I think most of us were. Beyond that childhood fantasy and riding trains for travel, I never really got interested in trains as a grown up, until now. Fortunately, we now have SimRail - The Railway Simulator as a brand new addition to the list of growing video game train simulators, the caveat: it’s still in Early Access.
 
 SimRail - The Railway Simulator promises a new era of advanced railway simulation, complete with modern graphics and real-life scenery based on real geodetic data. Right now, the current build only features two 200+ km of routes, both set in Poland. There are no other countries as of the moment and the current focus is to finish Poland first.

@@ -1,33 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes-zenless-zone-zero-everything-you-need
+title: The upcoming CBT comes with contests and prizes | Zenless Zone Zero - Everything you need to know
+game: Zenless Zone Zero - Everything you need to know
 description: Zenless Zone ZeroGlobal 8.2 Anime Action PC Version
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--0.avif
+  - /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--1.avif
+  - /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--2.avif
+  - /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--3.avif
+  - /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--4.avif
+  - /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--5.avif
 pubDate: 2023-11-06
 tags:
-- board games
-- family
-- ios
-- mobile
-- nintendo ds
-- pc
-- playstation 3
-- taptap
-- wii
-- xbox 360
-- zenless-zone-zero-everything-you-need-to-know
+  - board-games
+  - family
+  - ios
+  - mobile
+  - nintendo-ds
+  - pc
+  - playstation-3
+  - taptap
+  - wii
+  - xbox-360
+  - zenless-zone-zero-everything-you-need-to-know
 thumb: /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--0.avif
-title: The upcoming CBT comes with contests and prizes | Zenless Zone Zero - Everything
-  you need to know
-game: Zenless Zone Zero - Everything you need to know
-gallery:
-- /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--0.avif
-- /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--1.avif
-- /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--2.avif
-- /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--3.avif
-- /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--4.avif
-- /images/reviews/legacy/2023-11-06-the-upcoming-cbt-comes-with-contests-and-prizes--zenless-zone-zero---everything-you-need--5.avif
 ---
+
 Zenless Zone ZeroGlobal
 8.2
 Anime
@@ -145,7 +146,8 @@ Lucky Creator Prize (x50):
 
 50 Proxies whose submissions meet eligibility requirements and who submitted during Phase 1 will be randomly selected to receive 1 Equalizing Test Qualification.
 
-&#34;A Sandwich-Scented Dream&#34; Browser Game - Participate to Win Test Qualification! | Zenless Zone Zero Official Site
+
+## &#34;A Sandwich-Scented Dream&#34; Browser Game - Participate to Win Test Qualification! | Zenless Zone Zero Official Site
 
 BROWSER GAME: 'A Sandwich-Scented Dream' Event:
 

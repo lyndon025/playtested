@@ -1,39 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: EA Sports FC Mobile has entered beta right now in limited regions, just
-  over a month before its official release. I was fortunate enough to try out two
-  of its main game modes as well as explore a bit the game’s mechanics, such as acquiring
-  new players, customization of your club, and soccer team.
-featured: false
-pubDate: 2023-08-06
-tags:
-- casual
-- console
-- ea-sports-fc-mobile-beta
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- simulation
-- sports
-- taptap
-- xbox series
-thumb: /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-0.avif
+slug: 2023-08-06-a-reskinned-fifa-mobile-or-much-more-ea-sports-fc-mobile-beta-first-impressions
 title: A reskinned FIFA Mobile or much more? | EA Sports FC Mobile Beta - First Impressions
 game: EA Sports FC Mobile Beta
+description: EA Sports FC Mobile has entered beta right now in limited regions, just over a month before its official release. I was fortunate enough to try out two of its main game modes as well as explore a bit the game’s mechanics, such as acquiring new players, customization of your club, and soccer team.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-0.avif
-- /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-1.avif
-- /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-2.avif
-- /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-3.avif
-- /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-4.avif
-- /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-5.avif
-- /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-6.avif
-- /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-7.avif
+  - /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-0.avif
+  - /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-1.avif
+  - /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-2.avif
+  - /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-3.avif
+  - /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-4.avif
+  - /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-5.avif
+  - /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-6.avif
+  - /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-7.avif
+pubDate: 2023-08-06
+tags:
+  - casual
+  - console
+  - ea-sports-fc-mobile-beta
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - simulation
+  - sports
+  - taptap
+  - xbox-series
+thumb: /images/reviews/legacy/2023-08-06-a-reskinned-fifa-mobile-or-much-more--ea-sports-fc-mobile-beta---first-impressions-0.avif
 ---
+
 EA Sports FC 24
 8.7
 Sports

@@ -1,25 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'The opening scene of the new Reverse: 1999 trailer sets the tone with
-  an impressive CG cutscene, once again showcasing the game''s unique and excellent
-  voice acting. Notably, Schneider, one of the prominent Arcanist characters in the
-  trailer, impressively sports an Italian accent.'
+slug: 2023-09-23-reverse-1999-release-date-announced-october-26-this-year-trailer-impressions-tgs-2023
+title: 'Reverse: 1999 Release Date Announced! October 26 this year! | Trailer Impressions - TGS 2023'
+game: Trailer Impressions - TGS 2023
+description: "The opening scene of the new Reverse: 1999 trailer sets the tone with an impressive CG cutscene, once again showcasing the game's unique and excellent voice acting. Notably, Schneider, one of the prominent Arcanist characters in the trailer, impressively sports an Italian accent."
 featured: false
 pubDate: 2023-09-23
 tags:
-- android
-- ios
-- pc
-- rpg
-- strategy
-- taptap
-- trailer-impressions-tgs-2023
+  - android
+  - ios
+  - pc
+  - rpg
+  - strategy
+  - taptap
+  - trailer-impressions-tgs-2023
 thumb: ''
-title: 'Reverse: 1999 Release Date Announced! October 26 this year! | Trailer Impressions
-  - TGS 2023'
-game: Trailer Impressions - TGS 2023
 ---
+
 The opening scene of the new Reverse: 1999 trailer sets the tone with an impressive CG cutscene, once again showcasing the game's unique and excellent voice acting. Notably, Schneider, one of the prominent Arcanist characters in the trailer, impressively sports an Italian accent.
 
 In line with the established art design of the game, the visuals throughout the trailer are nothing short of superb. The character designs are presented in a soft Anime style, with subtle hints of HD-2D, all set against high-quality pre-rendered CG backgrounds that masterfully evoke the game's atmosphere. Complementing the visuals is the background music, a lo-fi soul piece that perfectly captures the dark and noir tone of the trailer. The overall cinematic quality of the trailer actually feels like a Hollywood production.

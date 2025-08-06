@@ -1,38 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: Kingdom Two Crowns+ 9.5 Strategy Side Scroller Get
-featured: false
-pubDate: 2023-05-09
-tags:
-- adventure
-- android
-- console
-- indie
-- ios
-- kingdom-two-crowns
-- macos
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- simulation
-- strategy
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif
+slug: 2023-05-09-a-2d-side-scrolling-strategy-game-first-impressions-kingdom-two-crowns
 title: A 2D side scrolling strategy game? | First Impressions - Kingdom Two Crowns+
 game: 'Kingdom: Two Crowns'
+description: Kingdom Two Crowns+ 9.5 Strategy Side Scroller Get
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif
-- /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-1.avif
-- /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-2.avif
-- /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-3.avif
-- /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-4.avif
-- /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-5.avif
+  - /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif
+  - /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-1.avif
+  - /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-2.avif
+  - /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-3.avif
+  - /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-4.avif
+  - /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-5.avif
+pubDate: 2023-05-09
+tags:
+  - adventure
+  - android
+  - console
+  - indie
+  - ios
+  - kingdom-two-crowns
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - simulation
+  - strategy
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2023-05-09-a-2d-side-scrolling-strategy-game--first-impressions---kingdom-two-crowns-0.avif
 ---
+
 Kingdom Two Crowns+
 9.5
 Strategy

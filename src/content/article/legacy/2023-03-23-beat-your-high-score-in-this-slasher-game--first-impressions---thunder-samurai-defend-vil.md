@@ -1,27 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: The gameplay of Thunder Samurai Defend Village is simple. Enemies come
-  from both sides, you can either tap on the left to attack left, or tap on the right
-  to attack right. You can activate a special lightning attack when fully charged.
-  No need to move, jump, block, or do some platforming maneuvers. Each enemy dies
-  in a single hit and the game seemingly plays infinitely in a singular level, with
-  high scores being the one and only end goal.
+slug: 2023-03-23-beat-your-high-score-in-this-slasher-game-first-impressions-thunder-samurai-defend-vil
+title: Beat your high score in this slasher game | First Impressions - Thunder Samurai Defend Village
+game: Thunder Samurai Defend Village
+description: The gameplay of Thunder Samurai Defend Village is simple. Enemies come from both sides, you can either tap on the left to attack left, or tap on the right to attack right. You can activate a special lightning attack when fully charged. No need to move, jump, block, or do some platforming maneuvers. Each enemy dies in a single hit and the game seemingly plays infinitely in a singular level, with high scores being the one and only end goal.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-23-beat-your-high-score-in-this-slasher-game--first-impressions---thunder-samurai-defend-vil-0.avif
+  - /images/reviews/legacy/2023-03-23-beat-your-high-score-in-this-slasher-game--first-impressions---thunder-samurai-defend-vil-1.avif
+  - /images/reviews/legacy/2023-03-23-beat-your-high-score-in-this-slasher-game--first-impressions---thunder-samurai-defend-vil-2.avif
 pubDate: 2023-03-23
 tags:
-- taptap
-- thunder-samurai-defend-village
-- web
+  - taptap
+  - thunder-samurai-defend-village
+  - web
 thumb: /images/reviews/legacy/2023-03-23-beat-your-high-score-in-this-slasher-game--first-impressions---thunder-samurai-defend-vil-0.avif
-title: Beat your high score in this slasher game | First Impressions - Thunder Samurai
-  Defend Village
-game: Thunder Samurai Defend Village
-gallery:
-- /images/reviews/legacy/2023-03-23-beat-your-high-score-in-this-slasher-game--first-impressions---thunder-samurai-defend-vil-0.avif
-- /images/reviews/legacy/2023-03-23-beat-your-high-score-in-this-slasher-game--first-impressions---thunder-samurai-defend-vil-1.avif
-- /images/reviews/legacy/2023-03-23-beat-your-high-score-in-this-slasher-game--first-impressions---thunder-samurai-defend-vil-2.avif
 ---
+
 The gameplay of Thunder Samurai Defend Village is simple. Enemies come from both sides, you can either tap on the left to attack left, or tap on the right to attack right. You can activate a special lightning attack when fully charged. No need to move, jump, block, or do some platforming maneuvers. Each enemy dies in a single hit and the game seemingly plays infinitely in a singular level, with high scores being the one and only end goal.
 
 Despite the aforementioned simplicity, Thunder Samurai Defend Village is still a challenging game to play and harder to master. You cannot just spam attacks as there is a small window after it that makes you vulnerable, making precision and timing very important. Hitting it too early can lead to being hit by the enemy. At start, you can only afford to get hit once, the next time is a death sentence.

@@ -1,31 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: EA Sports has recently unveiled the highly anticipated global launch
-  date for EA Sports FC 24, the new rebranded version of the beloved FIFA series.
-  Football enthusiasts worldwide can mark their calendars for September 29, 2023,
-  as EA Sports FC 24 promises to deliver yet another exhilarating and authentic football
-  gaming experience, powered by EA’s Frostbite engine..
+slug: 2023-07-18-ea-sports-fc-24-and-ea-sports-fc-mobile-announced-for-september-this-year
+title: EA Sports FC 24 and EA Sports FC Mobile Announced for September this year!
+game: EA Sports FC 24 and EA Sports FC Mobile Announced for September this year!
+description: EA Sports has recently unveiled the highly anticipated global launch date for EA Sports FC 24, the new rebranded version of the beloved FIFA series. Football enthusiasts worldwide can mark their calendars for September 29, 2023, as EA Sports FC 24 promises to deliver yet another exhilarating and authentic football gaming experience, powered by EA’s Frostbite engine..
 featured: false
 pubDate: 2023-07-18
 tags:
-- casual
-- console
-- ea-sports-fc-24-and-ea-sports-fc-mobile-announced-for-september-this-year
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- simulation
-- sports
-- taptap
-- xbox series
+  - casual
+  - console
+  - ea-sports-fc-24-and-ea-sports-fc-mobile-announced-for-september-this-year
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - simulation
+  - sports
+  - taptap
+  - xbox-series
 thumb: ''
-title: EA Sports FC 24 and EA Sports FC Mobile Announced for September this year!
-game: EA Sports FC 24 and EA Sports FC Mobile Announced for September this year!
 ---
+
 EA Sports has recently unveiled the highly anticipated global launch date for EA Sports FC 24, the new rebranded version of the beloved FIFA series. Football enthusiasts worldwide can mark their calendars for September 29, 2023, as EA Sports FC 24 promises to deliver yet another exhilarating and authentic football gaming experience, powered by EA’s Frostbite engine..
 
 Why the name rebrand?

@@ -1,37 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Evoland 2 is the sequel to the original Evoland and offers a unique blend
-  of gameplay styles , mechanics, and graphics that evolve as the player progresses.
-  In many ways, Evoland 2 clearly improves upon the first game, especially in the
-  narrative, gameplay department, and length.
+slug: 2023-04-07-time-travel-across-different-video-game-eras-and-genres-first-impressions-evoland-2
+title: Time-travel across different video game eras and genres | First Impressions - Evoland 2
+game: Evoland 2
+description: Evoland 2 is the sequel to the original Evoland and offers a unique blend of gameplay styles , mechanics, and graphics that evolve as the player progresses. In many ways, Evoland 2 clearly improves upon the first game, especially in the narrative, gameplay department, and length.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-0.avif
+  - /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-1.avif
+  - /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-2.avif
+  - /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-3.avif
+  - /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-4.avif
+  - /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-5.avif
+  - /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-6.avif
 pubDate: 2023-04-07
 tags:
-- action
-- adventure
-- android
-- arcade
-- evoland-2
-- indie
-- ios
-- macos
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - android
+  - arcade
+  - evoland-2
+  - indie
+  - ios
+  - macos
+  - pc
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-0.avif
-title: Time-travel across different video game eras and genres | First Impressions
-  - Evoland 2
-game: Evoland 2
-gallery:
-- /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-0.avif
-- /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-1.avif
-- /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-2.avif
-- /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-3.avif
-- /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-4.avif
-- /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-5.avif
-- /images/reviews/legacy/2023-04-07-time-travel-across-different-video-game-eras-and-genres--first-impressions---evoland-2-6.avif
 ---
+
 Evoland 2 is the sequel to the original Evoland and offers a unique blend of gameplay styles , mechanics, and graphics that evolve as the player progresses. In many ways, Evoland 2 clearly improves upon the first game, especially in the narrative, gameplay department, and length.
 
 The game's storyline is an epic and sprawling adventure that spans across different eras and dimensions, taking the player on a journey through time and space. The game’s prologue starts off in a gameboy low resolution green-ish setting, then immediately switches to a much more modern 2D pixel art graphics that serves as the original medieval fantasy setting the main characters are from. Overall, it sets the tone for the epic adventure to come, with its lighthearted orchestral score and cinematic presentation. There is no voice acting, so everything must be read by the player.

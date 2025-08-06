@@ -1,36 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Ashfall is an MMORPG set in a post-apocalyptic world where AI has risen
-  and initiated a nuclear war against humanity, leaving behind only ruins. As a survivor
-  in the far future, you must venture outside the Vault to embark on a quest to find
-  the Core of Creation—the crucial element that holds the key to saving the world.
-featured: false
-pubDate: 2023-07-27
-tags:
-- action
-- adventure
-- ashfall
-- massively multiplayer
-- mobile
-- pc
-- rpg
-- taptap
-thumb: /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif
+slug: 2023-07-27-greater-than-the-sum-of-its-parts-review-ashfall
 title: Greater than the sum of its parts | Review - Ashfall
 game: Ashfall
+description: Ashfall is an MMORPG set in a post-apocalyptic world where AI has risen and initiated a nuclear war against humanity, leaving behind only ruins. As a survivor in the far future, you must venture outside the Vault to embark on a quest to find the Core of Creation—the crucial element that holds the key to saving the world.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-1.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-2.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-3.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-4.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-5.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-6.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-7.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-8.avif
-- /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-9.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-1.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-2.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-3.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-4.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-5.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-6.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-7.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-8.avif
+  - /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-9.avif
+pubDate: 2023-07-27
+tags:
+  - action
+  - adventure
+  - ashfall
+  - massively-multiplayer
+  - mobile
+  - pc
+  - rpg
+  - taptap
+thumb: /images/reviews/legacy/2023-07-27-greater-than-the-sum-of-its-parts--review---ashfall-0.avif
 ---
+
 Ashfall
 8.8
 MMORPG
@@ -40,19 +39,27 @@ Test
 Ashfall is an MMORPG set in a post-apocalyptic world where AI has risen and initiated a nuclear war against humanity, leaving behind only ruins. As a survivor in the far future, you must venture outside the Vault to embark on a quest to find the Core of Creation—the crucial element that holds the key to saving the world.
 
 
-**Pros:**
 
 
-+Gunplay is satisfying, with emphasis on accuracy and precision over guns blazing
-
-+JRPG style overworld map exploration, role-playing, and decision making
-
-+Talent respecs are totally free and can be done anytime
-
-+Crossplay and cross-progression between Mobile and PC
+## Pros
 
 
-**Cons:**
+
+## +Gunplay is satisfying, with emphasis on accuracy and precision over guns blazing
+
+
+## +JRPG style overworld map exploration, role-playing, and decision making
+
+
+## +Talent respecs are totally free and can be done anytime
+
+
+## +Crossplay and cross-progression between Mobile and PC
+
+
+
+
+## Cons
 
 
 -The story premise is interesting but feels underutilized
@@ -61,7 +68,8 @@ Ashfall is an MMORPG set in a post-apocalyptic world where AI has risen and init
 
 -Mobile version performance optimization needs work
 
-📝Notable points: These pros and cons are based on early (2023) build and does not accurately represent the quality of the finished product when it finally releases.
+
+## 📝Notable points: These pros and cons are based on early (2023) build and does not accurately represent the quality of the finished product when it finally releases.
 
 To clear up some common misconceptions and confusions, This is the Mobile and PC MMORPG developed by Legendary Star Studio and Netease, which is different from the similarly titled Ashfall, a Web3/NFT game currently in development by Liithos Game Studio.
 

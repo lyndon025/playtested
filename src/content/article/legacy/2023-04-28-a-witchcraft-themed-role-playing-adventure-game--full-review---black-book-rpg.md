@@ -1,41 +1,41 @@
 ---
 author: lyndonguitar
 category: Review
-description: Black Book RPG is an interesting mix of classic adventure gameplay, role-playing
-  decision making, and turn-based deck building combat,
+slug: 2023-04-28-a-witchcraft-themed-role-playing-adventure-game-full-review-black-book-rpg
+title: A witchcraft-themed role-playing adventure game | Full Review - Black Book RPG
+game: Black Book RPG
+description: Black Book RPG is an interesting mix of classic adventure gameplay, role-playing decision making, and turn-based deck building combat,
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-0.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-1.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-2.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-3.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-4.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-5.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-6.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-7.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-8.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-9.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-10.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-11.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-12.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-13.avif
+  - /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-14.avif
 pubDate: 2023-04-28
 tags:
-- adventure
-- black-book-rpg
-- indie
-- macos
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
+  - adventure
+  - black-book-rpg
+  - indie
+  - macos
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-0.avif
-title: A witchcraft-themed role-playing adventure game | Full Review - Black Book
-  RPG
-game: Black Book RPG
-gallery:
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-0.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-1.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-2.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-3.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-4.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-5.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-6.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-7.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-8.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-9.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-10.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-11.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-12.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-13.avif
-- /images/reviews/legacy/2023-04-28-a-witchcraft-themed-role-playing-adventure-game--full-review---black-book-rpg-14.avif
 ---
+
 Black Book RPG
 
 lyndonguitar
@@ -45,19 +45,27 @@ Graphics & Music
 Black Book RPG is an interesting mix of classic adventure gameplay, role-playing decision making, and turn-based deck building combat,
 
 
-**Pros:**
 
 
-+Intriguing russian folklore story
-
-+Captivating varied art-style
-
-+Endless game mode aside from the main story
-
-+Choices matter
+## Pros
 
 
-**Cons:**
+
+## +Intriguing russian folklore story
+
+
+## +Captivating varied art-style
+
+
+## +Endless game mode aside from the main story
+
+
+## +Choices matter
+
+
+
+
+## Cons
 
 
 -Slow pacing

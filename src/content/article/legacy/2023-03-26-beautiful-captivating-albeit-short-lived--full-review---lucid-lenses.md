@@ -1,48 +1,55 @@
 ---
 author: lyndonguitar
 category: Review
-description: Lucid Lenses is a narratively-driven romantic adventure game featuring
-  mesmerizing puzzles and clever interactions, bolstered by a nice soft vibrant painting-like
-  artwork.
-featured: false
-pubDate: 2023-03-26
-tags:
-- adventure
-- ios
-- lucid-lenses
-- simulation
-- taptap
-thumb: /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif
+slug: 2023-03-26-beautiful-captivating-albeit-short-lived-full-review-lucid-lenses
 title: Beautiful, captivating, albeit short-lived | Full Review - Lucid Lenses
 game: Lucid Lenses
+description: Lucid Lenses is a narratively-driven romantic adventure game featuring mesmerizing puzzles and clever interactions, bolstered by a nice soft vibrant painting-like artwork.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-1.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-2.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-3.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-4.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-5.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-6.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-7.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-8.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-9.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-10.avif
-- /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-11.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-1.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-2.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-3.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-4.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-5.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-6.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-7.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-8.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-9.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-10.avif
+  - /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-11.avif
+pubDate: 2023-03-26
+tags:
+  - adventure
+  - ios
+  - lucid-lenses
+  - simulation
+  - taptap
+thumb: /images/reviews/legacy/2023-03-26-beautiful-captivating-albeit-short-lived--full-review---lucid-lenses-0.avif
 ---
+
 Lucid Lenses is a narratively-driven romantic adventure game featuring mesmerizing puzzles and clever interactions, bolstered by a nice soft vibrant painting-like artwork.
 
 
-**Pros:**
 
 
-+fun puzzling mechanics
-
-+plot is simple yet imaginative
-
-+beautiful artwork and soundtrack
+## Pros
 
 
-**Cons:**
+
+## +fun puzzling mechanics
+
+
+## +plot is simple yet imaginative
+
+
+## +beautiful artwork and soundtrack
+
+
+
+
+## Cons
 
 
 -Out of place mini-games from other genres

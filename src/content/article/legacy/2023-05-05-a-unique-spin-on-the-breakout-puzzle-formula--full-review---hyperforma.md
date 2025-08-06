@@ -1,38 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Hyperforma is a puzzle game that takes players on a journey through a
-  mysterious and futuristic world featuring spatial-based puzzles and various geometric
-  shapes.
-featured: false
-pubDate: 2023-05-05
-tags:
-- adventure
-- android
-- arcade
-- casual
-- console
-- hyperforma
-- ios
-- nintendo switch
-- taptap
-thumb: /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-0.avif
+slug: 2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula-full-review-hyperforma
 title: A unique spin on the 'Breakout' puzzle formula | Full Review - Hyperforma
 game: Hyperforma
+description: Hyperforma is a puzzle game that takes players on a journey through a mysterious and futuristic world featuring spatial-based puzzles and various geometric shapes.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-0.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-1.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-2.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-3.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-4.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-5.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-6.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-7.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-8.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-9.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-10.avif
-- /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-11.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-0.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-1.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-2.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-3.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-4.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-5.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-6.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-7.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-8.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-9.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-10.avif
+  - /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-11.avif
+pubDate: 2023-05-05
+tags:
+  - adventure
+  - android
+  - arcade
+  - casual
+  - console
+  - hyperforma
+  - ios
+  - nintendo-switch
+  - taptap
+thumb: /images/reviews/legacy/2023-05-05-a-unique-spin-on-the-breakout-puzzle-formula--full-review---hyperforma-0.avif
 ---
+
 Hyperforma
 
 lyndonguitar
@@ -41,17 +41,24 @@ Download
 Hyperforma is a puzzle game that takes players on a journey through a mysterious and futuristic world featuring spatial-based puzzles and various geometric shapes.
 
 
-**Pros:**
 
 
-+catchy electronic music
-
-+challenging puzzles
-
-+satisfying gameplay
+## Pros
 
 
-**Cons:**
+
+## +catchy electronic music
+
+
+## +challenging puzzles
+
+
+## +satisfying gameplay
+
+
+
+
+## Cons
 
 
 -intrusive ads

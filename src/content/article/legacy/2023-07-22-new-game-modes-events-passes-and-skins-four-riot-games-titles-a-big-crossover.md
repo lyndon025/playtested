@@ -1,35 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Four games join forces to create an epic crossover experience across
-  mobile and PC; Riot Games’ League of Legends: Wild Rift, Legends of Runeterra, Teamfight
-  Tactics, and League of Legends itself.'
-featured: false
-pubDate: 2023-07-22
-tags:
-- action
-- arcade
-- console
-- mobile
-- new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover
-- pc
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif
+slug: 2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover
 title: New game modes, events, passes, and skins. Four Riot Games titles, a big crossover.
 game: New game modes, events, passes, and skins. Four Riot Games titles, a big crossover.
+description: 'Four games join forces to create an epic crossover experience across mobile and PC; Riot Games’ League of Legends: Wild Rift, Legends of Runeterra, Teamfight Tactics, and League of Legends itself.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-1.avif
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-2.avif
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-3.avif
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-4.avif
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-5.avif
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-6.avif
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-7.avif
-- /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-8.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-1.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-2.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-3.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-4.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-5.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-6.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-7.avif
+  - /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-8.avif
+pubDate: 2023-07-22
+tags:
+  - action
+  - arcade
+  - console
+  - mobile
+  - new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover
+  - pc
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-07-22-new-game-modes-events-passes-and-skins-four-riot-games-titles-a-big-crossover-0.avif
 ---
+
 League of Legends: Wild RiftGlobal
 
 lyndonguitar

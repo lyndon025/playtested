@@ -1,22 +1,20 @@
 ---
 author: lyndonguitar
 category: Review
-description: Metria is an action RPG currently in development for mobile devices.
-  It is currently conducting an Alpha test from June 13, 2023, to June 20, 2023 and
-  players are free to test out this title. Since this is an Alpha test, expect this
-  to be in a very early state, and not even close to playable and enjoyable.
+slug: 2023-06-14-a-new-story-driven-action-rpg-currently-in-alpha-testing-phase-alpha-impressions-metri
+title: A new story driven action RPG currently in alpha testing phase | Alpha Impressions - Metria
+game: Alpha Impressions - Metria
+description: Metria is an action RPG currently in development for mobile devices. It is currently conducting an Alpha test from June 13, 2023, to June 20, 2023 and players are free to test out this title. Since this is an Alpha test, expect this to be in a very early state, and not even close to playable and enjoyable.
 featured: false
 pubDate: 2023-06-14
 tags:
-- alpha-impressions-metria
-- mobile
-- taptap
-- web
+  - alpha-impressions-metria
+  - mobile
+  - taptap
+  - web
 thumb: ''
-title: A new story driven action RPG currently in alpha testing phase | Alpha Impressions
-  - Metria
-game: Alpha Impressions - Metria
 ---
+
 Metria is an action RPG currently in development for mobile devices. It is currently conducting an Alpha test from June 13, 2023, to June 20, 2023 and players are free to test out this title. Since this is an Alpha test, expect this to be in a very early state, and not even close to playable and enjoyable.
 
 Metria features cel-shaded, anime inspired graphics and a storyline that is actually gripping and worth tuning in for, based on my first impressions. It doesn’t look as visually impressive as other high-end similar games, lacking in many things such as motion blur, fluid effects, and an expansive open-world to explore. The graphics are already decent enough for its current early state, but it’s not without its current visual issues which are to be expected.

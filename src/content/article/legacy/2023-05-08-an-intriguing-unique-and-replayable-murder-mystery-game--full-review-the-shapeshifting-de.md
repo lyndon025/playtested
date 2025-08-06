@@ -1,62 +1,69 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Shapeshifting Detective is an intriguing murder mystery FMV game  developed
-  by D'Avekki Studios and released for PC, Playstation, Xbox One and Switch, and was
-  ported right after to iOS.
+slug: 2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game-full-review-the-shapeshifting-de
+title: 'An intriguing, unique, and replayable murder mystery game | Full Review: The Shapeshifting Detective'
+game: The Shapeshifting Detective
+description: The Shapeshifting Detective is an intriguing murder mystery FMV game  developed by D'Avekki Studios and released for PC, Playstation, Xbox One and Switch, and was ported right after to iOS.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-0.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-1.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-2.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-3.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-4.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-5.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-6.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-7.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-8.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-9.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-10.avif
+  - /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-11.avif
 pubDate: 2023-05-08
 tags:
-- adventure
-- console
-- indie
-- ios
-- macos
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- taptap
-- the-shapeshifting-detective
-- xbox one
+  - adventure
+  - console
+  - indie
+  - ios
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - taptap
+  - the-shapeshifting-detective
+  - xbox-one
 thumb: /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-0.avif
-title: 'An intriguing, unique, and replayable murder mystery game | Full Review: The
-  Shapeshifting Detective'
-game: The Shapeshifting Detective
-gallery:
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-0.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-1.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-2.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-3.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-4.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-5.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-6.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-7.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-8.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-9.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-10.avif
-- /images/reviews/legacy/2023-05-08-an-intriguing-unique-and-replayable-murder-mystery-game--full-review-the-shapeshifting-de-11.avif
 ---
+
 The Shapeshifting Detective
 
 The Shapeshifting Detective is an intriguing murder mystery FMV game  developed by D'Avekki Studios and released for PC, Playstation, Xbox One and Switch, and was ported right after to iOS.
 
 
-**Pros:**
 
 
-+Random killer every playthrough
-
-+Shapeshifting ability is a literal game changer for interacting with the characters
-
-+ Each character has their own intertwined backstory, motivations, alibis, and suspicious mannerisms
-
-+Interesting story from start to end
+## Pros
 
 
-**Cons:**
+
+## +Random killer every playthrough
+
+
+## +Shapeshifting ability is a literal game changer for interacting with the characters
+
+
+## + Each character has their own intertwined backstory, motivations, alibis, and suspicious mannerisms
+
+
+## +Interesting story from start to end
+
+
+
+
+## Cons
 
 
 -Lacking the usual ‘detective’ game elements

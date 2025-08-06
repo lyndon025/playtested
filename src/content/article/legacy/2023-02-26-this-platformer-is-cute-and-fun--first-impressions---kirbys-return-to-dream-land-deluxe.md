@@ -1,31 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Kirby's Return to Dream Land Deluxe is a remake and an enhanced edition
-  of the original Wii title from 12 years ago. It takes the exact same story and gameplay,
-  but revamps the graphics to modern standards, and it is beautiful.
+slug: 2023-02-26-this-platformer-is-cute-and-fun-first-impressions-kirbys-return-to-dream-land-deluxe
+title: This platformer is cute and fun | First Impressions - Kirby's Return to Dream Land Deluxe
+game: Kirby’s Return to Dream Land Deluxe
+description: Kirby's Return to Dream Land Deluxe is a remake and an enhanced edition of the original Wii title from 12 years ago. It takes the exact same story and gameplay, but revamps the graphics to modern standards, and it is beautiful.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-0.avif
+  - /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-1.avif
+  - /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-2.avif
+  - /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-3.avif
+  - /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-4.avif
+  - /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-5.avif
+  - /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-6.avif
+  - /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-7.avif
 pubDate: 2023-02-26
 tags:
-- console
-- kirbys-return-to-dream-land-deluxe
-- nintendo switch
-- platformer
-- taptap
+  - console
+  - kirbys-return-to-dream-land-deluxe
+  - nintendo-switch
+  - platformer
+  - taptap
 thumb: /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-0.avif
-title: This platformer is cute and fun | First Impressions - Kirby's Return to Dream
-  Land Deluxe
-game: Kirby’s Return to Dream Land Deluxe
-gallery:
-- /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-0.avif
-- /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-1.avif
-- /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-2.avif
-- /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-3.avif
-- /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-4.avif
-- /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-5.avif
-- /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-6.avif
-- /images/reviews/legacy/2023-02-26-this-platformer-is-cute-and-fun--first-impressions---kirbys-return-to-dream-land-deluxe-7.avif
 ---
+
 Kirby's Return to Dream Land Deluxe is a remake and an enhanced edition of the original Wii title from 12 years ago. It takes the exact same story and gameplay, but revamps the graphics to modern standards, and it is beautiful.
 
 The game takes players on a 2.5D platformer adventure through a colorful and whimsical world. The game's updated graphics bring Kirby's world to life like never before, with vibrant colors and detailed environments that create an immersive experience for players. It doesn’t matter if you are playing on an OLED Switch or the OG one, the colors are amazing.

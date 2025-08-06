@@ -1,35 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Pre-register Grand Quest is an all-new gacha third person
-  game in a world where magic and technology co-exist. A Closed Beta Test is now open
-  to players in the United States and Japan, with plans for more regions coming in
-  later.
-featured: false
-pubDate: 2023-05-02
-tags:
-- beta-review-grand-quest
-- mobile
-- pc
-- platformer
-- taptap
-thumb: /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-0.avif
+slug: 2023-05-02-a-promising-anime-steampunk-gacha-beta-review-grand-quest
 title: A promising anime steampunk gacha | Beta Review - Grand Quest
 game: Beta Review - Grand Quest
+description: lyndonguitar Pre-register Grand Quest is an all-new gacha third person game in a world where magic and technology co-exist. A Closed Beta Test is now open to players in the United States and Japan, with plans for more regions coming in later.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-0.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-1.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-2.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-3.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-4.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-5.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-6.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-7.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-8.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-9.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-10.avif
-- /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-11.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-0.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-1.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-2.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-3.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-4.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-5.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-6.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-7.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-8.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-9.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-10.avif
+  - /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-11.avif
+pubDate: 2023-05-02
+tags:
+  - beta-review-grand-quest
+  - mobile
+  - pc
+  - platformer
+  - taptap
+thumb: /images/reviews/legacy/2023-05-02-a-promising-anime-steampunk-gacha--beta-review---grand-quest-0.avif
 ---
+
 Grand Quest
 
 lyndonguitar

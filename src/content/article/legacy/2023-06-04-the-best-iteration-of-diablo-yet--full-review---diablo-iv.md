@@ -1,69 +1,82 @@
 ---
 author: lyndonguitar
 category: Review
-description: Diablo® IV Diablo IV is the upcoming installment in the popular action
-  role-playing game series developed by Blizzard Entertainment. The game is set to
-  release for PC, PlayStation, and Xbox on June 6, 2023.
-featured: false
-pubDate: 2023-06-04
-tags:
-- action
-- console
-- diablo-iv
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif
+slug: 2023-06-04-the-best-iteration-of-diablo-yet-full-review-diablo-iv
 title: The best iteration of Diablo yet | Full Review - Diablo IV
 game: Diablo IV
+description: Diablo® IV Diablo IV is the upcoming installment in the popular action role-playing game series developed by Blizzard Entertainment. The game is set to release for PC, PlayStation, and Xbox on June 6, 2023.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-1.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-2.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-3.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-4.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-5.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-6.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-7.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-8.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-9.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-10.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-11.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-12.avif
-- /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-13.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-1.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-2.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-3.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-4.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-5.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-6.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-7.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-8.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-9.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-10.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-11.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-12.avif
+  - /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-13.avif
+pubDate: 2023-06-04
+tags:
+  - action
+  - console
+  - diablo-iv
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-06-04-the-best-iteration-of-diablo-yet--full-review---diablo-iv-0.avif
 ---
+
 Diablo® IV
 Diablo IV is the upcoming installment in the popular action role-playing game series developed by Blizzard Entertainment. The game is set to release for PC, PlayStation, and Xbox on June 6, 2023.
 
 
-**Pros:**
 
 
-+Immersive storytelling, succeeds in capturing the foreboding atmosphere and grim undertones of Diablo II
-
-+The game's visuals are stunning, with high attention to detail and immersive atmospheric lighting
-
-+Five classes and a deep skill tree allows deep customization and freedom to experiment
-
-+Vast and interconnected seamless open world with MMORPG-like features
-
-+Fluid and responsive visceral hack and slash combat experience
-
-+Activities are evenly spread throughout the land, resulting a varied gameplay experience
-
-+The endgame content is deep, and doesn’t feel like an afterthought
-
-+Controller support
-
-+Cross-platform multiplayer
+## Pros
 
 
-**Cons:**
+
+## +Immersive storytelling, succeeds in capturing the foreboding atmosphere and grim undertones of Diablo II
+
+
+## +The game's visuals are stunning, with high attention to detail and immersive atmospheric lighting
+
+
+## +Five classes and a deep skill tree allows deep customization and freedom to experiment
+
+
+## +Vast and interconnected seamless open world with MMORPG-like features
+
+
+## +Fluid and responsive visceral hack and slash combat experience
+
+
+## +Activities are evenly spread throughout the land, resulting a varied gameplay experience
+
+
+## +The endgame content is deep, and doesn’t feel like an afterthought
+
+
+## +Controller support
+
+
+## +Cross-platform multiplayer
+
+
+
+
+## Cons
 
 
 -Minor issues regarding the inventory management

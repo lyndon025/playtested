@@ -1,55 +1,62 @@
 ---
 author: lyndonguitar
 category: Review
-description: Brotato is a survival roguelite wave shooter playable with one hand.
-  Originally released for PCs as an early access, it has now been recently released
-  on Android and iOS as a full title, after going into an open beta just recently.
-  This mobile release brings the game closer to feature parity with the existing PC
-  version.
-featured: false
-pubDate: 2023-04-01
-tags:
-- action
-- android
-- brotato-premium
-- mobile
-- taptap
-thumb: /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-0.avif
+slug: 2023-04-01-hours-of-mindless-one-handed-fun-full-review-brotato-premium-full-release
 title: Hours of mindless one-handed fun | Full Review - Brotato Premium (Full Release)
 game: 'Brotato: Premium'
+description: Brotato is a survival roguelite wave shooter playable with one hand. Originally released for PCs as an early access, it has now been recently released on Android and iOS as a full title, after going into an open beta just recently. This mobile release brings the game closer to feature parity with the existing PC version.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-0.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-1.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-2.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-3.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-4.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-5.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-6.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-7.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-8.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-9.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-10.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-11.avif
-- /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-12.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-0.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-1.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-2.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-3.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-4.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-5.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-6.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-7.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-8.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-9.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-10.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-11.avif
+  - /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-12.avif
+pubDate: 2023-04-01
+tags:
+  - action
+  - android
+  - brotato-premium
+  - mobile
+  - taptap
+thumb: /images/reviews/legacy/2023-04-01-hours-of-mindless-one-handed-fun--full-review---brotato-premium-full-release-0.avif
 ---
+
 Brotato is a survival roguelite wave shooter playable with one hand. Originally released for PCs as an early access, it has now been recently released on Android and iOS as a full title, after going into an open beta just recently. This mobile release brings the game closer to feature parity with the existing PC version.
 
 
-**Pros:**
 
 
-+Surprisingly addicting gameplay loop
-
-+action-packed and fast paced gameplay
-
-+Mindless fun, can play with just one hand
-
-+A plethora of weapons and items to experiment with
-
-+One of the best alternatives to Vampire Survivors
+## Pros
 
 
-**Cons:**
+
+## +Surprisingly addicting gameplay loop
+
+
+## +action-packed and fast paced gameplay
+
+
+## +Mindless fun, can play with just one hand
+
+
+## +A plethora of weapons and items to experiment with
+
+
+## +One of the best alternatives to Vampire Survivors
+
+
+
+
+## Cons
 
 
 -No cons

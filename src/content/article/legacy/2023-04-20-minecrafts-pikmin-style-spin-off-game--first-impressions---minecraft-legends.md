@@ -1,37 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Minecraft Legends is a refreshing new take on the Minecraft brand with
-  its shift into a third person action-strategy gameplay. It’s not the OG Minecraft
-  gameplay we know and love, but it is STILL distinctively Minecraft in both the looks
-  and the tone.
-featured: false
-pubDate: 2023-04-20
-tags:
-- adventure
-- console
-- minecraft-legends
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-0.avif
+slug: 2023-04-20-minecrafts-pikmin-style-spin-off-game-first-impressions-minecraft-legends
 title: Minecraft's Pikmin-style spin-off game | First Impressions - Minecraft Legends
 game: Minecraft Legends
+description: Minecraft Legends is a refreshing new take on the Minecraft brand with its shift into a third person action-strategy gameplay. It’s not the OG Minecraft gameplay we know and love, but it is STILL distinctively Minecraft in both the looks and the tone.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-0.avif
-- /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-1.avif
-- /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-2.avif
-- /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-3.avif
-- /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-4.avif
-- /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-5.avif
-- /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-6.avif
-- /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-7.avif
+  - /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-0.avif
+  - /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-1.avif
+  - /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-2.avif
+  - /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-3.avif
+  - /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-4.avif
+  - /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-5.avif
+  - /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-6.avif
+  - /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-7.avif
+pubDate: 2023-04-20
+tags:
+  - adventure
+  - console
+  - minecraft-legends
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2023-04-20-minecrafts-pikmin-style-spin-off-game--first-impressions---minecraft-legends-0.avif
 ---
+
 Minecraft Legends
 8.1
 Action

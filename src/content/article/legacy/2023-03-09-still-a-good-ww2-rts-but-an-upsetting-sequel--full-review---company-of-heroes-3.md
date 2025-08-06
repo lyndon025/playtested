@@ -1,59 +1,65 @@
 ---
 author: lyndonguitar
 category: Review
-description: Company of Heroes 3 is a WW2 real-time strategy game developed by Relic
-  Entertainment and published by SEGA, and continues the critically acclaimed Company
-  of Heroes series of games.
+slug: 2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel-full-review-company-of-heroes-3
+title: Still a good WW2 RTS, but an upsetting sequel | Full Review - Company of Heroes 3
+game: Company of Heroes 3
+description: Company of Heroes 3 is a WW2 real-time strategy game developed by Relic Entertainment and published by SEGA, and continues the critically acclaimed Company of Heroes series of games.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-0.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-1.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-2.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-3.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-4.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-5.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-6.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-7.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-8.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-9.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-10.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-11.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-12.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-13.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-14.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-15.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-16.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-17.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-18.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-19.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-20.avif
+  - /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-21.avif
 pubDate: 2023-03-09
 tags:
-- action
-- company-of-heroes-3
-- pc
-- strategy
-- taptap
+  - action
+  - company-of-heroes-3
+  - pc
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-0.avif
-title: Still a good WW2 RTS, but an upsetting sequel | Full Review - Company of Heroes
-  3
-game: Company of Heroes 3
-gallery:
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-0.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-1.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-2.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-3.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-4.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-5.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-6.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-7.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-8.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-9.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-10.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-11.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-12.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-13.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-14.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-15.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-16.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-17.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-18.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-19.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-20.avif
-- /images/reviews/legacy/2023-03-09-still-a-good-ww2-rts-but-an-upsetting-sequel--full-review---company-of-heroes-3-21.avif
 ---
+
 Company of Heroes 3 is a WW2 real-time strategy game developed by Relic Entertainment and published by SEGA, and continues the critically acclaimed Company of Heroes series of games.
 
 
-**Pros:**
 
 
-+Immersive RTS experience
-
-+Deep tactical gameplay
-
-+Decent graphics
+## Pros
 
 
-**Cons:**
+
+## +Immersive RTS experience
+
+
+## +Deep tactical gameplay
+
+
+## +Decent graphics
+
+
+
+
+## Cons
 
 
 -High price for what it brings

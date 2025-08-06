@@ -1,27 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: Teamfight Tactics Mobile is set to release in two days (November 22)
-  for the Asia-Pacific (APAC) region. This expansion brings one of the best auto-battler
-  experiences to players in countries like The Philippines, Malaysia, Singapore, Thailand,
-  Vietnam, Taiwan, Hong Kong, and Macau. With a focus on crossplay and cross-progression,
-  TFT Mobile allows gamers across various platforms to compete whether you're on PC
-  or mobile.
+slug: 2023-11-20-tft-mobile-finally-comes-to-asia-impressions-teamfight-tactics
+title: TFT mobile finally comes to Asia! | Impressions - Teamfight Tactics
+game: Teamfight Tactics
+description: Teamfight Tactics Mobile is set to release in two days (November 22) for the Asia-Pacific (APAC) region. This expansion brings one of the best auto-battler experiences to players in countries like The Philippines, Malaysia, Singapore, Thailand, Vietnam, Taiwan, Hong Kong, and Macau. With a focus on crossplay and cross-progression, TFT Mobile allows gamers across various platforms to compete whether you're on PC or mobile.
 featured: false
 pubDate: 2023-11-20
 tags:
-- android
-- ios
-- macos
-- mobile
-- pc
-- strategy
-- taptap
-- teamfight-tactics
+  - android
+  - ios
+  - macos
+  - mobile
+  - pc
+  - strategy
+  - taptap
+  - teamfight-tactics
 thumb: ''
-title: TFT mobile finally comes to Asia! | Impressions - Teamfight Tactics
-game: Teamfight Tactics
 ---
+
 Teamfight Tactics Mobile is set to release in two days (November 22) for the Asia-Pacific (APAC) region. This expansion brings one of the best auto-battler experiences to players in countries like The Philippines, Malaysia, Singapore, Thailand, Vietnam, Taiwan, Hong Kong, and Macau. With a focus on crossplay and cross-progression, TFT Mobile allows gamers across various platforms to compete whether you're on PC or mobile.
 
 Released back in 2020 for iOS and Android, just one year after it's original PC release as side-game for League of Legends and subsequent rise in popularity, TFTs successful transition to mobile devices has been well-received, offering a 1:1 port that maintains the strategic depth and excitement of the PC version. TFT Mobile optimizes features for smaller screens while preserving the vibrancy and visual appeal of the League of Legends universe.

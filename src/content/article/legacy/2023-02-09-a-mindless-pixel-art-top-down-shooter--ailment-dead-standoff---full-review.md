@@ -1,54 +1,62 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Ailment: dead standoff is a single-stick top down corridor shooter with
-  retro pixel-art and an interesting story as a bonus. Of course, if you see the word
-  “dead” in the title, it better include zombies, and it does — with a twist.'
-featured: false
-pubDate: 2023-02-09
-tags:
-- action
-- ailment-dead-standoff
-- indie
-- mobile
-- pc
-- taptap
-thumb: /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-0.avif
+slug: 2023-02-09-a-mindless-pixel-art-top-down-shooter-ailment-dead-standoff-full-review
 title: 'A mindless pixel-art top down shooter | Ailment: dead standoff - Full Review'
 game: 'Ailment: dead standoff'
+description: 'Ailment: dead standoff is a single-stick top down corridor shooter with retro pixel-art and an interesting story as a bonus. Of course, if you see the word “dead” in the title, it better include zombies, and it does — with a twist.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-0.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-1.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-2.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-3.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-4.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-5.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-6.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-7.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-8.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-9.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-10.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-11.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-12.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-13.avif
-- /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-14.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-0.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-1.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-2.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-3.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-4.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-5.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-6.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-7.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-8.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-9.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-10.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-11.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-12.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-13.avif
+  - /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-14.avif
+pubDate: 2023-02-09
+tags:
+  - action
+  - ailment-dead-standoff
+  - indie
+  - mobile
+  - pc
+  - taptap
+thumb: /images/reviews/legacy/2023-02-09-a-mindless-pixel-art-top-down-shooter--ailment-dead-standoff---full-review-0.avif
 ---
+
 Ailment: dead standoff is a single-stick top down corridor shooter with retro pixel-art and an interesting story as a bonus. Of course, if you see the word “dead” in the title, it better include zombies, and it does — with a twist.
 
 
-**Pros:**
 
 
-+A decent mindless shooter gameplay
-
-+Nice enemy variety, including zombies with guns.
-
-+This type of game needs no narrative, but it does have one anyway as a bonus
-
-+Controller Support
+## Pros
 
 
-**Cons:**
+
+## +A decent mindless shooter gameplay
+
+
+## +Nice enemy variety, including zombies with guns.
+
+
+## +This type of game needs no narrative, but it does have one anyway as a bonus
+
+
+## +Controller Support
+
+
+
+
+## Cons
 
 
 -The combat encounters at times are annoying, even borderline imbalanced because of the cramped space.

@@ -1,48 +1,55 @@
 ---
 author: lyndonguitar
 category: Review
-description: Doomblade is a 2D platforming metroidvania with unique combat and platforming
-  mechanics, developed by Muro Studios and published by Iceberg Interactive for PC.
+slug: 2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking-full-review-doombl
+title: A satisfying experience of rhythmic mouse swiping or stick flicking | Full Review - Doomblade
+game: DOOMBLADE
+description: Doomblade is a 2D platforming metroidvania with unique combat and platforming mechanics, developed by Muro Studios and published by Iceberg Interactive for PC.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-0.avif
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-1.avif
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-2.avif
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-3.avif
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-4.avif
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-5.avif
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-6.avif
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-7.avif
+  - /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-8.avif
 pubDate: 2023-06-06
 tags:
-- action
-- adventure
-- doomblade
-- indie
-- pc
-- taptap
+  - action
+  - adventure
+  - doomblade
+  - indie
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-0.avif
-title: A satisfying experience of rhythmic mouse swiping or stick flicking | Full
-  Review - Doomblade
-game: DOOMBLADE
-gallery:
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-0.avif
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-1.avif
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-2.avif
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-3.avif
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-4.avif
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-5.avif
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-6.avif
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-7.avif
-- /images/reviews/legacy/2023-06-06-a-satisfying-experience-of-rhythmic-mouse-swiping-or-stick-flicking--full-review---doombl-8.avif
 ---
+
 DOOMBLADE
 
 Doomblade is a 2D platforming metroidvania with unique combat and platforming mechanics, developed by Muro Studios and published by Iceberg Interactive for PC.
 
 
-**Pros:**
 
 
-+Feels overall refreshing and completely a brand new experience
-
-+Innovative control schemes
-
-+Amazing art direction
+## Pros
 
 
-**Cons:**
+
+## +Feels overall refreshing and completely a brand new experience
+
+
+## +Innovative control schemes
+
+
+## +Amazing art direction
+
+
+
+
+## Cons
 
 
 -The difficulty of using the mouse or right stick for aiming is not for everyone

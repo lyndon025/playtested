@@ -1,41 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: The award-winning game Vampire Survivors has recently released its second
-  DLC, titled 'Tides of the Foscari.' This DLC is available for $1.99 on all platforms,
-  including Android and iOS devices. It adds a ton of content to the already amazing
-  value of the original game, which is completely free-to-play.
+slug: 2023-04-18-a-brand-new-experience-to-discover-review-vampire-survivors-tides-of-the-foscari
+title: 'A brand new experience to discover | Review - Vampire Survivors: Tides of the Foscari'
+game: Vampire Survivors
+description: The award-winning game Vampire Survivors has recently released its second DLC, titled 'Tides of the Foscari.' This DLC is available for $1.99 on all platforms, including Android and iOS devices. It adds a ton of content to the already amazing value of the original game, which is completely free-to-play.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-0.avif
+  - /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-1.avif
+  - /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-2.avif
+  - /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-3.avif
+  - /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-4.avif
+  - /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-5.avif
+  - /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-6.avif
+  - /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-7.avif
 pubDate: 2023-04-18
 tags:
-- action
-- android
-- casual
-- console
-- indie
-- ios
-- mobile
-- nintendo switch
-- pc
-- rpg
-- taptap
-- vampire-survivors
-- web
-- xbox one
+  - action
+  - android
+  - casual
+  - console
+  - indie
+  - ios
+  - mobile
+  - nintendo-switch
+  - pc
+  - rpg
+  - taptap
+  - vampire-survivors
+  - web
+  - xbox-one
 thumb: /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-0.avif
-title: 'A brand new experience to discover | Review - Vampire Survivors: Tides of
-  the Foscari'
-game: Vampire Survivors
-gallery:
-- /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-0.avif
-- /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-1.avif
-- /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-2.avif
-- /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-3.avif
-- /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-4.avif
-- /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-5.avif
-- /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-6.avif
-- /images/reviews/legacy/2023-04-18-a-brand-new-experience-to-discover--review---vampire-survivors-tides-of-the-foscari-7.avif
 ---
+
 The award-winning game Vampire Survivors has recently released its second DLC, titled 'Tides of the Foscari.' This DLC is available for $1.99 on all platforms, including Android and iOS devices. It adds a ton of content to the already amazing value of the original game, which is completely free-to-play.
 
 For those unfamiliar with Vampire Survivors, it is a highly addicting rogue-lite RPG survival game playable with only one hand, with the players only needing to control the character's movements. Attacks are automated and the whole gameplay focuses on character and skill building and surviving the countless waves of monsters.

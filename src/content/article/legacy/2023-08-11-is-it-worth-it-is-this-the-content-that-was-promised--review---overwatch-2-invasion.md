@@ -1,44 +1,40 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Get Overwatch 2: Invasion introduces a series of story
-  missions that expand upon the narrative universe of Overwatch 2. These missions
-  focus on the invasion of Null Sector, a rogue Omnic group, and the heroes'' efforts
-  to combat this threat and restore order. The missions are designed to immerse players
-  in dynamic PvE scenarios that delve deeper into the game''s lore and offer engaging
-  cooperative gameplay experiences.'
+slug: 2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised-review-overwatch-2-invasion
+title: 'Is it worth it? Is this the content that was promised? | Review - Overwatch 2: Invasion'
+game: Overwatch 2
+description: "lyndonguitar Get Overwatch 2: Invasion introduces a series of story missions that expand upon the narrative universe of Overwatch 2. These missions focus on the invasion of Null Sector, a rogue Omnic group, and the heroes' efforts to combat this threat and restore order. The missions are designed to immerse players in dynamic PvE scenarios that delve deeper into the game's lore and offer engaging cooperative gameplay experiences."
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-0.avif
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-1.avif
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-2.avif
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-3.avif
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-4.avif
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-5.avif
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-6.avif
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-7.avif
+  - /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-8.avif
 pubDate: 2023-08-11
 tags:
-- action
-- console
-- massively multiplayer
-- mobile
-- nintendo switch
-- overwatch-2
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- shooter
-- taptap
-- xbox one
-- xbox series
+  - action
+  - console
+  - massively-multiplayer
+  - mobile
+  - nintendo-switch
+  - overwatch-2
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - shooter
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-0.avif
-title: 'Is it worth it? Is this the content that was promised? | Review - Overwatch
-  2: Invasion'
-game: Overwatch 2
-gallery:
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-0.avif
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-1.avif
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-2.avif
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-3.avif
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-4.avif
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-5.avif
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-6.avif
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-7.avif
-- /images/reviews/legacy/2023-08-11-is-it-worth-it-is-this-the-content-that-was-promised--review---overwatch-2-invasion-8.avif
 ---
+
 Overwatch Mobile
 
 lyndonguitar
@@ -46,19 +42,27 @@ Get
 Overwatch 2: Invasion introduces a series of story missions that expand upon the narrative universe of Overwatch 2. These missions focus on the invasion of Null Sector, a rogue Omnic group, and the heroes' efforts to combat this threat and restore order. The missions are designed to immerse players in dynamic PvE scenarios that delve deeper into the game's lore and offer engaging cooperative gameplay experiences.
 
 
-**Pros:**
 
 
-+A refreshing coop PvE gameplay
-
-+New PvP gamemode “Flashpoint”
-
-+Compelling cinematic narrative
-
-+Well-crafted intense cutscenes
+## Pros
 
 
-**Cons:**
+
+## +A refreshing coop PvE gameplay
+
+
+## +New PvP gamemode “Flashpoint”
+
+
+## +Compelling cinematic narrative
+
+
+## +Well-crafted intense cutscenes
+
+
+
+
+## Cons
 
 
 -Short runtime (1-2 hrs)

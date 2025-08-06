@@ -1,38 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Download From the highly popular Rainbow Six franchise,
-  Rainbow Six Mobile is a free-to-play competitive, multiplayer first-person shooter
-  experience tailor made for mobile phones, which has now been soft launched in a
-  limited capacity.  It is now available in Canada for both iOS and Android, while
-  the Soft Launch for other countries will go live starting with Mexico on September
-  4, with more coming next month.
+slug: 2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market-soft-launch-review-rainbow-six-mobil
+title: A much needed fresh take on the mobile FPS market | Soft Launch Review - Rainbow Six Mobile
+game: Soft Launch Review - Rainbow Six Mobile
+description: lyndonguitar Download From the highly popular Rainbow Six franchise, Rainbow Six Mobile is a free-to-play competitive, multiplayer first-person shooter experience tailor made for mobile phones, which has now been soft launched in a limited capacity.  It is now available in Canada for both iOS and Android, while the Soft Launch for other countries will go live starting with Mexico on September 4, with more coming next month.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-0.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-1.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-2.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-3.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-4.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-5.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-6.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-7.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-8.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-9.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-10.avif
+  - /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-11.avif
 pubDate: 2023-08-31
 tags:
-- mobile
-- pc
-- soft-launch-review-rainbow-six-mobile
-- taptap
-- web
+  - mobile
+  - pc
+  - soft-launch-review-rainbow-six-mobile
+  - taptap
+  - web
 thumb: /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-0.avif
-title: A much needed fresh take on the mobile FPS market | Soft Launch Review - Rainbow
-  Six Mobile
-game: Soft Launch Review - Rainbow Six Mobile
-gallery:
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-0.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-1.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-2.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-3.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-4.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-5.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-6.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-7.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-8.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-9.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-10.avif
-- /images/reviews/legacy/2023-08-31-a-much-needed-fresh-take-on-the-mobile-fps-market--soft-launch-review---rainbow-six-mobil-11.avif
 ---
+
 Rainbow Six Mobile
 
 lyndonguitar
@@ -40,7 +36,9 @@ Download
 From the highly popular Rainbow Six franchise, Rainbow Six Mobile is a free-to-play competitive, multiplayer first-person shooter experience tailor made for mobile phones, which has now been soft launched in a limited capacity.  It is now available in Canada for both iOS and Android, while the Soft Launch for other countries will go live starting with Mexico on September 4, with more coming next month.
 
 
-**Pros:**
+
+
+## Pros
 - Intense team-based PvP gameplay
 - Tactical depth with variety of operators to choose from
 - Destructible Environments
@@ -49,7 +47,9 @@ From the highly popular Rainbow Six franchise, Rainbow Six Mobile is a free-to-p
 
 
 
-**Cons:**
+
+
+## Cons
 - Stability and network issues
 
 

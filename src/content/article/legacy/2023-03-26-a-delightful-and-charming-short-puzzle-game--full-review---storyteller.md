@@ -1,48 +1,55 @@
 ---
 author: lyndonguitar
 category: Review
-description: Storyteller is a charming puzzle game where you literally need to tell
-  stories in order to solve the puzzles and achieve the required ending.
-featured: false
-pubDate: 2023-03-26
-tags:
-- adventure
-- console
-- ios
-- macos
-- nintendo switch
-- pc
-- puzzle
-- simulation
-- storyteller
-- taptap
-thumb: /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif
+slug: 2023-03-26-a-delightful-and-charming-short-puzzle-game-full-review-storyteller
 title: A delightful and charming short puzzle game | Full Review - Storyteller
 game: Storyteller
+description: Storyteller is a charming puzzle game where you literally need to tell stories in order to solve the puzzles and achieve the required ending.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-1.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-2.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-3.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-4.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-5.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-6.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-7.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-8.avif
-- /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-9.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-1.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-2.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-3.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-4.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-5.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-6.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-7.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-8.avif
+  - /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-9.avif
+pubDate: 2023-03-26
+tags:
+  - adventure
+  - console
+  - ios
+  - macos
+  - nintendo-switch
+  - pc
+  - puzzle
+  - simulation
+  - storyteller
+  - taptap
+thumb: /images/reviews/legacy/2023-03-26-a-delightful-and-charming-short-puzzle-game--full-review---storyteller-0.avif
 ---
+
 Storyteller is a charming puzzle game where you literally need to tell stories in order to solve the puzzles and achieve the required ending.
 
 
-**Pros:**
 
 
-+captivating gameplay
-
-+fun puzzle mechanics
+## Pros
 
 
-**Cons:**
+
+## +captivating gameplay
+
+
+## +fun puzzle mechanics
+
+
+
+
+## Cons
 
 
 -too short

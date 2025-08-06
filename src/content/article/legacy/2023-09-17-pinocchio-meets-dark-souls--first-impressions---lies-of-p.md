@@ -1,32 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Lies of P offers a fresh twist on the classic story of Pinocchio, set
-  against the backdrop of the enchanting 19th century Belle Époque era.  The game
-  plunges players into the city of Krat, a place powered by the mysterious mineral
-  Ergo but now plagued by a frenzy that has turned its puppet inhabitants against
-  humanity. The game weaves a dark and compelling tale of a city torn apart by greed
-  and the lust for power. As the silent Pinocchio, the player is tasked with navigating
-  this perilous world while concealing and “lying” his true identity as a puppet.
+slug: 2023-09-17-pinocchio-meets-dark-souls-first-impressions-lies-of-p
+title: Pinocchio meets Dark Souls | First Impressions - Lies of P
+game: Lies Of P
+description: Lies of P offers a fresh twist on the classic story of Pinocchio, set against the backdrop of the enchanting 19th century Belle Époque era.  The game plunges players into the city of Krat, a place powered by the mysterious mineral Ergo but now plagued by a frenzy that has turned its puppet inhabitants against humanity. The game weaves a dark and compelling tale of a city torn apart by greed and the lust for power. As the silent Pinocchio, the player is tasked with navigating this perilous world while concealing and “lying” his true identity as a puppet.
 featured: false
 pubDate: 2023-09-17
 tags:
-- action
-- console
-- lies-of-p
-- macos
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- taptap
-- xbox one
-- xbox series
+  - action
+  - console
+  - lies-of-p
+  - macos
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: ''
-title: Pinocchio meets Dark Souls | First Impressions - Lies of P
-game: Lies Of P
 ---
+
 Lies of P offers a fresh twist on the classic story of Pinocchio, set against the backdrop of the enchanting 19th century Belle Époque era.  The game plunges players into the city of Krat, a place powered by the mysterious mineral Ergo but now plagued by a frenzy that has turned its puppet inhabitants against humanity. The game weaves a dark and compelling tale of a city torn apart by greed and the lust for power. As the silent Pinocchio, the player is tasked with navigating this perilous world while concealing and “lying” his true identity as a puppet.
 
 In many respects, Lies of P feels like a legitimate spiritual successor to Bloodborne, capturing the essence of its dark and macabre world while introducing its own evolved captivating narrative. The game's graphics and aesthetics are strikingly reminiscent of Bloodborne, with intricate and gothic-inspired architecture that exudes a sense of foreboding. Just as Bloodborne is known for its nightmarish creatures, Lies of P instead substitutes them with puppet robots that are equally eerie and menacing, adding a unique twist to the familiar Soulslike formula.

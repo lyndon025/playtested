@@ -1,56 +1,64 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cyber Manhunt is a mystery and hacking simulation game with a story-oriented
-  focus and a puzzle-centric gameplay.
-featured: false
-pubDate: 2023-05-27
-tags:
-- cyber-manhunt
-- indie
-- ios
-- macos
-- mobile
-- pc
-- puzzle
-- rpg
-- simulation
-- taptap
-thumb: /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif
+slug: 2023-05-27-a-casual-hacking-and-mystery-experience-review-cyber-manhunt
 title: A casual hacking and mystery experience | Review - Cyber Manhunt
 game: Cyber Manhunt
+description: Cyber Manhunt is a mystery and hacking simulation game with a story-oriented focus and a puzzle-centric gameplay.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-1.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-2.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-3.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-4.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-5.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-6.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-7.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-8.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-9.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-10.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-11.avif
-- /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-12.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-1.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-2.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-3.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-4.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-5.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-6.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-7.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-8.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-9.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-10.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-11.avif
+  - /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-12.avif
+pubDate: 2023-05-27
+tags:
+  - cyber-manhunt
+  - indie
+  - ios
+  - macos
+  - mobile
+  - pc
+  - puzzle
+  - rpg
+  - simulation
+  - taptap
+thumb: /images/reviews/legacy/2023-05-27-a-casual-hacking-and-mystery-experience--review---cyber-manhunt-0.avif
 ---
+
 Cyber Manhunt
 Gameplay
 
 Cyber Manhunt is a mystery and hacking simulation game with a story-oriented focus and a puzzle-centric gameplay.
 
 
-**Pros:**
 
 
-+Accurate but streamlined hacking mechanics
-
-+Engaging narrative that compels you to investigate and play
-
-+Immersive websites and pages that closely resemble their real-life counterparts
+## Pros
 
 
-**Cons:**
+
+## +Accurate but streamlined hacking mechanics
+
+
+## +Engaging narrative that compels you to investigate and play
+
+
+## +Immersive websites and pages that closely resemble their real-life counterparts
+
+
+
+
+## Cons
 
 
 -The game is linear, only gives you an illusion of choice.

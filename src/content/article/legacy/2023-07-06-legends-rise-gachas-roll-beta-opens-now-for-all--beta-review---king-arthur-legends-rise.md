@@ -1,38 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Download King Arthur: Legends Rise is an ambitious turn-based
-  squad RPG that invites players to embark on a dark and mysterious journey inspired
-  by the mythical adventures of the titular legendary King Arthur. This game takes
-  the familiar tale of Arthurian legends and infuses it with stunning AAA level of
-  graphics, turn-based RPG combat, hero collecting gacha mechanics, and a touch of
-  kingdom management.'
+slug: 2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all-beta-review-king-arthur-legends-rise
+title: 'Legends rise, gachas roll, beta opens, now for all | Beta Review - King Arthur: Legends Rise'
+game: 'King Arthur: Legends Rise'
+description: 'lyndonguitar Download King Arthur: Legends Rise is an ambitious turn-based squad RPG that invites players to embark on a dark and mysterious journey inspired by the mythical adventures of the titular legendary King Arthur. This game takes the familiar tale of Arthurian legends and infuses it with stunning AAA level of graphics, turn-based RPG combat, hero collecting gacha mechanics, and a touch of kingdom management.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-0.avif
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-1.avif
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-2.avif
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-3.avif
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-4.avif
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-5.avif
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-6.avif
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-7.avif
+  - /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-8.avif
 pubDate: 2023-07-06
 tags:
-- action
-- adventure
-- king-arthur-legends-rise
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
+  - action
+  - adventure
+  - king-arthur-legends-rise
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-0.avif
-title: 'Legends rise, gachas roll, beta opens, now for all | Beta Review - King Arthur:
-  Legends Rise'
-game: 'King Arthur: Legends Rise'
-gallery:
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-0.avif
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-1.avif
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-2.avif
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-3.avif
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-4.avif
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-5.avif
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-6.avif
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-7.avif
-- /images/reviews/legacy/2023-07-06-legends-rise-gachas-roll-beta-opens-now-for-all--beta-review---king-arthur-legends-rise-8.avif
 ---
+
 King Arthur: Legends RiseTest Global
 
 lyndonguitar
@@ -40,28 +36,38 @@ Download
 King Arthur: Legends Rise is an ambitious turn-based squad RPG that invites players to embark on a dark and mysterious journey inspired by the mythical adventures of the titular legendary King Arthur. This game takes the familiar tale of Arthurian legends and infuses it with stunning AAA level of graphics, turn-based RPG combat, hero collecting gacha mechanics, and a touch of kingdom management.
 
 
-**Pros:**
 
 
-+AAA level graphics
-
-+Immersive combat presentation
-
-+City management elements on top of turn-based hero collecting RPG
-
-+Crossplay and cross progression with PC and mobile
-
-+ARPG style of gear and itemization
+## Pros
 
 
-**Cons:**
+
+## +AAA level graphics
+
+
+## +Immersive combat presentation
+
+
+## +City management elements on top of turn-based hero collecting RPG
+
+
+## +Crossplay and cross progression with PC and mobile
+
+
+## +ARPG style of gear and itemization
+
+
+
+
+## Cons
 
 
 -Performance at least for the Android version needs more work
 
 -Minor technical issues like lip-syncing problems
 
-📝Notable points:
+
+## 📝Notable points:
 
 These pros and cons are based on Open Beta Test and does not accurately represent the quality of the finished product
 

@@ -1,29 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Shadows of Doubt offers players an immersive detective experience in
-  a customizable, procedurally generated city. The procedurally generated city is
-  fully explorable. Every nook and cranny, every room, floor, and even air vents are
-  real places that you can visit in the game world.
+slug: 2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like-early-access-impressions-shadows-of
+title: This is what a TRUE sandbox detective game is like | Early Access Impressions - Shadows of Doubt
+game: Early Access Impressions - Shadows of Doubt
+description: Shadows of Doubt offers players an immersive detective experience in a customizable, procedurally generated city. The procedurally generated city is fully explorable. Every nook and cranny, every room, floor, and even air vents are real places that you can visit in the game world.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-0.avif
+  - /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-1.avif
+  - /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-2.avif
+  - /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-3.avif
+  - /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-4.avif
+  - /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-5.avif
 pubDate: 2023-04-27
 tags:
-- early-access-impressions-shadows-of-doubt
-- pc
-- puzzle
-- taptap
+  - early-access-impressions-shadows-of-doubt
+  - pc
+  - puzzle
+  - taptap
 thumb: /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-0.avif
-title: This is what a TRUE sandbox detective game is like | Early Access Impressions
-  - Shadows of Doubt
-game: Early Access Impressions - Shadows of Doubt
-gallery:
-- /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-0.avif
-- /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-1.avif
-- /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-2.avif
-- /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-3.avif
-- /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-4.avif
-- /images/reviews/legacy/2023-04-27-this-is-what-a-true-sandbox-detective-game-is-like--early-access-impressions---shadows-of-5.avif
 ---
+
 Shadows of Doubt
 7.0
 Adventure

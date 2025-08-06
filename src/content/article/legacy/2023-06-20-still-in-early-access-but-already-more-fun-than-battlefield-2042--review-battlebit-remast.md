@@ -1,34 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Test BattleBit Remastered is a massive multiplayer first-person
-  shooter that combines elements of the classic Battlefield games with its own unique  blocky
-  twist.
+slug: 2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042-review-battlebit-remast
+title: 'Still in Early Access, but already more fun than Battlefield 2042 | Review: BattleBit Remastered'
+game: BattleBit Remastered
+description: lyndonguitar Test BattleBit Remastered is a massive multiplayer first-person shooter that combines elements of the classic Battlefield games with its own unique  blocky twist.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-0.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-1.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-2.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-3.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-4.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-5.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-6.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-7.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-8.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-9.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-10.avif
+  - /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-11.avif
 pubDate: 2023-06-20
 tags:
-- battlebit-remastered
-- pc
-- shooter
-- taptap
+  - battlebit-remastered
+  - pc
+  - shooter
+  - taptap
 thumb: /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-0.avif
-title: 'Still in Early Access, but already more fun than Battlefield 2042 | Review:
-  BattleBit Remastered'
-game: BattleBit Remastered
-gallery:
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-0.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-1.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-2.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-3.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-4.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-5.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-6.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-7.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-8.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-9.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-10.avif
-- /images/reviews/legacy/2023-06-20-still-in-early-access-but-already-more-fun-than-battlefield-2042--review-battlebit-remast-11.avif
 ---
+
 BattleBit Remastered
 
 lyndonguitar
@@ -36,23 +35,33 @@ Test
 BattleBit Remastered is a massive multiplayer first-person shooter that combines elements of the classic Battlefield games with its own unique  blocky twist.
 
 
-**Pros:**
 
 
-+Up to 254 players (127 vs 127 matches)
-
-+Immersive sound design
-
-+Smooth gunplay
-
-+Destructible environments
-
-+Vehicular warfare on top of infantry
-
-+Gun customization
+## Pros
 
 
-**Cons:**
+
+## +Up to 254 players (127 vs 127 matches)
+
+
+## +Immersive sound design
+
+
+## +Smooth gunplay
+
+
+## +Destructible environments
+
+
+## +Vehicular warfare on top of infantry
+
+
+## +Gun customization
+
+
+
+
+## Cons
 
 
 -minor crashes

@@ -1,28 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: Detective Mimo is a charming and self-aware detective game that's perfect
-  for fans of mystery and adventure games with a nice touch of fourth wall breaking.
-  The game follows the titular detective cat Mimo as she solves crimes around town,
-  and it's up to the player to help him piece together the clues and catch the culprit.
-featured: false
-pubDate: 2023-05-12
-tags:
-- detective-mimo
-- ios
-- mobile
-- puzzle
-- taptap
-thumb: /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif
+slug: 2023-05-12-forget-everything-you-think-you-know-first-impressions-detective-mimo
 title: Forget everything you think you know | First Impressions - Detective Mimo
 game: Detective Mimo
+description: Detective Mimo is a charming and self-aware detective game that's perfect for fans of mystery and adventure games with a nice touch of fourth wall breaking. The game follows the titular detective cat Mimo as she solves crimes around town, and it's up to the player to help him piece together the clues and catch the culprit.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif
-- /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-1.avif
-- /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-2.avif
-- /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-3.avif
-- /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-4.avif
+  - /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif
+  - /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-1.avif
+  - /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-2.avif
+  - /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-3.avif
+  - /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-4.avif
+pubDate: 2023-05-12
+tags:
+  - detective-mimo
+  - ios
+  - mobile
+  - puzzle
+  - taptap
+thumb: /images/reviews/legacy/2023-05-12-forget-everything-you-think-you-know--first-impressions---detective-mimo-0.avif
 ---
+
 Detective Mimo
 9.4
 Puzzle

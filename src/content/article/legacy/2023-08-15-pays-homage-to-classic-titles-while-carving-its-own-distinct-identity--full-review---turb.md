@@ -1,50 +1,58 @@
 ---
 author: lyndonguitar
 category: Review
-description: Turbo Overkill Turbo Overkill is a high-octane first-person shooter that
-  blends the intense bullet-hell and high speed action of retro titles like Doom and
-  Quake with a cyberpunk aesthetic. The game thrusts players into a dystopian future
-  where advanced technology and chaos converge.
+slug: 2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity-full-review-turb
+title: Pays homage to classic titles while carving its own distinct identity | Full Review - Turbo Overkill
+game: Turbo Overkill
+description: Turbo Overkill Turbo Overkill is a high-octane first-person shooter that blends the intense bullet-hell and high speed action of retro titles like Doom and Quake with a cyberpunk aesthetic. The game thrusts players into a dystopian future where advanced technology and chaos converge.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-0.avif
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-1.avif
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-2.avif
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-3.avif
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-4.avif
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-5.avif
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-6.avif
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-7.avif
+  - /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-8.avif
 pubDate: 2023-08-15
 tags:
-- action
-- indie
-- pc
-- shooter
-- taptap
-- turbo-overkill
+  - action
+  - indie
+  - pc
+  - shooter
+  - taptap
+  - turbo-overkill
 thumb: /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-0.avif
-title: Pays homage to classic titles while carving its own distinct identity | Full
-  Review - Turbo Overkill
-game: Turbo Overkill
-gallery:
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-0.avif
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-1.avif
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-2.avif
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-3.avif
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-4.avif
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-5.avif
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-6.avif
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-7.avif
-- /images/reviews/legacy/2023-08-15-pays-homage-to-classic-titles-while-carving-its-own-distinct-identity--full-review---turb-8.avif
 ---
+
 Turbo Overkill
 Turbo Overkill is a high-octane first-person shooter that blends the intense bullet-hell and high speed action of retro titles like Doom and Quake with a cyberpunk aesthetic. The game thrusts players into a dystopian future where advanced technology and chaos converge.
 
 
-**Pros:**
 
 
-+Intense Combat
-+Extremely responsive controls and movement system
-+Amazing art direction and overall visuals
-+A world that feels nostalgic, modern, and futuristic all at the same time
-+Huge arsenal of weapons and upgrades
-+Rewards exploration and is filled with secrets
+## Pros
 
 
-**Cons:**
+
+## +Intense Combat
+
+## +Extremely responsive controls and movement system
+
+## +Amazing art direction and overall visuals
+
+## +A world that feels nostalgic, modern, and futuristic all at the same time
+
+## +Huge arsenal of weapons and upgrades
+
+## +Rewards exploration and is filled with secrets
+
+
+
+
+## Cons
 - Confusing level design
 - Generic, forgettable story
 

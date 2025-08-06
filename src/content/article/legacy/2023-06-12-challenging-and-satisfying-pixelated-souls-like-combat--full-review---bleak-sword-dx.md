@@ -1,50 +1,57 @@
 ---
 author: lyndonguitar
 category: Review
-description: Bleak Sword DX Bleak Sword DX is a pixel art soulslike-roguelite that
-  offers an enhanced version of the original game for PC and Switch, following its
-  initial exclusive release on Apple Arcade.
+slug: 2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat-full-review-bleak-sword-dx
+title: Challenging and satisfying pixelated souls-like combat | Full Review - Bleak Sword DX
+game: Bleak Sword DX
+description: Bleak Sword DX Bleak Sword DX is a pixel art soulslike-roguelite that offers an enhanced version of the original game for PC and Switch, following its initial exclusive release on Apple Arcade.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-0.avif
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-1.avif
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-2.avif
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-3.avif
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-4.avif
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-5.avif
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-6.avif
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-7.avif
+  - /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-8.avif
 pubDate: 2023-06-12
 tags:
-- action
-- adventure
-- bleak-sword-dx
-- indie
-- pc
-- taptap
+  - action
+  - adventure
+  - bleak-sword-dx
+  - indie
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-0.avif
-title: Challenging and satisfying pixelated souls-like combat | Full Review - Bleak
-  Sword DX
-game: Bleak Sword DX
-gallery:
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-0.avif
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-1.avif
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-2.avif
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-3.avif
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-4.avif
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-5.avif
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-6.avif
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-7.avif
-- /images/reviews/legacy/2023-06-12-challenging-and-satisfying-pixelated-souls-like-combat--full-review---bleak-sword-dx-8.avif
 ---
+
 Bleak Sword DX
 Bleak Sword DX is a pixel art soulslike-roguelite that offers an enhanced version of the original game for PC and Switch, following its initial exclusive release on Apple Arcade.
 
 
-**Pros:**
 
 
-+Striking visual style, combining 1-bit aesthetics with modern visuals
-
-+Challenging and satisfying souls-like combat
-
-+Quick and accessible gameplay; short levels and forgiving restarts
-
-+New game modes, controller support, and additional DLC chapters
+## Pros
 
 
-**Cons:**
+
+## +Striking visual style, combining 1-bit aesthetics with modern visuals
+
+
+## +Challenging and satisfying souls-like combat
+
+
+## +Quick and accessible gameplay; short levels and forgiving restarts
+
+
+## +New game modes, controller support, and additional DLC chapters
+
+
+
+
+## Cons
 
 
 -Gets repetitive after a while

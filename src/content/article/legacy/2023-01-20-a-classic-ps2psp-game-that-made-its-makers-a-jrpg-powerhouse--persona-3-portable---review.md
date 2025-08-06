@@ -1,43 +1,42 @@
 ---
 author: lyndonguitar
 category: Review
-description: A classic JRPG from the PS2 and PSP era has now been brought forward
-  in time, re-released and remastered for modern systems, and in my opinion, they
-  ported the wrong version.
+slug: 2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse-persona-3-portable-review
+title: A classic PS2/PSP game that made its makers a JRPG powerhouse | Persona 3 Portable - Review
+game: Persona 3 Portable
+description: A classic JRPG from the PS2 and PSP era has now been brought forward in time, re-released and remastered for modern systems, and in my opinion, they ported the wrong version.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-0.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-1.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-2.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-3.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-4.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-5.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-6.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-7.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-8.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-9.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-10.avif
+  - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-11.avif
 pubDate: 2023-01-20
 tags:
-- adventure
-- console
-- nintendo switch
-- pc
-- persona-3-portable
-- playstation
-- playstation 4
-- psp
-- rpg
-- strategy
-- taptap
-- xbox one
-- xbox series
+  - adventure
+  - console
+  - nintendo-switch
+  - pc
+  - persona-3-portable
+  - playstation
+  - playstation-4
+  - psp
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-0.avif
-title: A classic PS2/PSP game that made its makers a JRPG powerhouse | Persona 3 Portable
-  - Review
-game: Persona 3 Portable
-gallery:
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-0.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-1.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-2.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-3.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-4.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-5.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-6.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-7.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-8.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-9.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-10.avif
-- /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-11.avif
 ---
+
 A classic JRPG from the PS2 and PSP era has now been brought forward in time, re-released and remastered for modern systems, and in my opinion, they ported the wrong version.
 
 It’s a questionable design decision from the makers why they chose to port and remaster only exactly Persona 3 Portable for the PSP, instead of the much more detailed Persona 3 for the PS2, with its 3D explorable environments during normal-life sequences and fully animated 3D cutscenes.

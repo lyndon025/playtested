@@ -1,36 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: We have another point-and-click puzzle game ported to the mobile platform
-  yet again with Boxville. I’ve just played the demo and it immediately places you
-  right after the beginning of the game. To avoid spoilers, there is no plot or backstory
-  presented, but the world is inhabited by tin-can like humanoid beings living in
-  cute cardboard boxes resembling into a somewhat peaceful city.
-featured: false
-pubDate: 2023-01-09
-tags:
-- adventure
-- arcade
-- boxville
-- indie
-- ios
-- linux
-- macos
-- mobile
-- pc
-- puzzle
-- taptap
-thumb: /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-0.avif
+slug: 2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes-boxville-demo-first-impressions
 title: Puzzle your way through a city of cardboard boxes | Boxville Demo - First Impressions
 game: Boxville
+description: We have another point-and-click puzzle game ported to the mobile platform yet again with Boxville. I’ve just played the demo and it immediately places you right after the beginning of the game. To avoid spoilers, there is no plot or backstory presented, but the world is inhabited by tin-can like humanoid beings living in cute cardboard boxes resembling into a somewhat peaceful city.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-0.avif
-- /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-1.avif
-- /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-2.avif
-- /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-3.avif
-- /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-4.avif
-- /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-5.avif
+  - /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-0.avif
+  - /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-1.avif
+  - /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-2.avif
+  - /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-3.avif
+  - /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-4.avif
+  - /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-5.avif
+pubDate: 2023-01-09
+tags:
+  - adventure
+  - arcade
+  - boxville
+  - indie
+  - ios
+  - linux
+  - macos
+  - mobile
+  - pc
+  - puzzle
+  - taptap
+thumb: /images/reviews/legacy/2023-01-09-puzzle-your-way-through-a-city-of-cardboard-boxes--boxville-demo---first-impressions-0.avif
 ---
+
 We have another point-and-click puzzle game ported to the mobile platform yet again with Boxville. I’ve just played the demo and it immediately places you right after the beginning of the game. To avoid spoilers, there is no plot or backstory presented, but the world is inhabited by tin-can like humanoid beings living in cute cardboard boxes resembling into a somewhat peaceful city.
 
 Looking at the full game’s non-spoiler synopsis though, the main premise is about trying to find your dog after losing it in an earthquake. This same earthquake heavily affected the city of Boxville, setting the stage for all the environmental puzzles and character challenges that will hinder you in your search.

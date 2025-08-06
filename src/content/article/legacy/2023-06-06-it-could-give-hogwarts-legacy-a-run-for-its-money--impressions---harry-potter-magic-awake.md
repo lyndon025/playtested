@@ -1,26 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Harry Potter: Magic Awakened re-introduces us to the world of wizarding
-  once again, following a similar path to the one Harry Potter took, with Hagrid guiding
-  us and leading us through Diagon Alley for school supplies. It allows us to customize
-  our appearance and attire, introduces us to the deck-based combat system, and lets
-  us choose owls as companions, among many other features.'
+slug: 2023-06-06-it-could-give-hogwarts-legacy-a-run-for-its-money-impressions-harry-potter-magic-awake
+title: 'It could give Hogwarts: Legacy a run for its money | Impressions - Harry Potter: Magic Awakened'
+game: 'Harry Potter: Magic Awakened'
+description: 'Harry Potter: Magic Awakened re-introduces us to the world of wizarding once again, following a similar path to the one Harry Potter took, with Hagrid guiding us and leading us through Diagon Alley for school supplies. It allows us to customize our appearance and attire, introduces us to the deck-based combat system, and lets us choose owls as companions, among many other features.'
 featured: false
 pubDate: 2023-06-06
 tags:
-- adventure
-- android
-- harry-potter-magic-awakened
-- ios
-- mobile
-- strategy
-- taptap
+  - adventure
+  - android
+  - harry-potter-magic-awakened
+  - ios
+  - mobile
+  - strategy
+  - taptap
 thumb: ''
-title: 'It could give Hogwarts: Legacy a run for its money | Impressions - Harry Potter:
-  Magic Awakened'
-game: 'Harry Potter: Magic Awakened'
 ---
+
 Harry Potter: Magic Awakened re-introduces us to the world of wizarding once again, following a similar path to the one Harry Potter took, with Hagrid guiding us and leading us through Diagon Alley for school supplies. It allows us to customize our appearance and attire, introduces us to the deck-based combat system, and lets us choose owls as companions, among many other features.
 
 The initial gameplay format offers a third-person exploration experience, faithfully recreating the wizarding world in an artistic and stylized format. While the visuals may not be as realistic or awe-inspiring as the AAA title Hogwarts Legacy, they still capture the essence and feeling of the Harry Potter universe. Players can freely roam around a simplified version of Hogwarts, explore the castle premises, visit their dormitory, and even enjoy the thrill of riding broomsticks and flying around Hogwarts. However, for those solely interested in the deck-building aspect, there is an option to fast travel and completely skip the third-person free roam gameplay.

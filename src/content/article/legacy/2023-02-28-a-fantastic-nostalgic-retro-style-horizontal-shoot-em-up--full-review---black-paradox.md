@@ -1,57 +1,64 @@
 ---
 author: lyndonguitar
 category: Review
-description: Black Paradox is a retro-styled horizontal scrolling rogue-lite shoot
-  'em up that brings back the nostalgia of the arcade games from the 80s and 90s.
+slug: 2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up-full-review-black-paradox
+title: A fantastic, nostalgic retro-style horizontal shoot ‘em up | Full Review - Black Paradox
+game: Black Paradox
+description: Black Paradox is a retro-styled horizontal scrolling rogue-lite shoot 'em up that brings back the nostalgia of the arcade games from the 80s and 90s.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-0.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-1.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-2.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-3.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-4.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-5.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-6.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-7.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-8.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-9.avif
+  - /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-10.avif
 pubDate: 2023-02-28
 tags:
-- action
-- arcade
-- black-paradox
-- casual
-- console
-- indie
-- ios
-- macos
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- taptap
-- xbox one
+  - action
+  - arcade
+  - black-paradox
+  - casual
+  - console
+  - indie
+  - ios
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-0.avif
-title: A fantastic, nostalgic retro-style horizontal shoot ‘em up | Full Review -
-  Black Paradox
-game: Black Paradox
-gallery:
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-0.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-1.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-2.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-3.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-4.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-5.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-6.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-7.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-8.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-9.avif
-- /images/reviews/legacy/2023-02-28-a-fantastic-nostalgic-retro-style-horizontal-shoot-em-up--full-review---black-paradox-10.avif
 ---
+
 Black Paradox is a retro-styled horizontal scrolling rogue-lite shoot 'em up that brings back the nostalgia of the arcade games from the 80s and 90s.
 
 
-**Pros:**
 
 
-+Pumping electronic soundtrack
-
-+Stunning pixel art
-
-+Fun and challenging rogue-lite gameplay
+## Pros
 
 
-**Cons:**
+
+## +Pumping electronic soundtrack
+
+
+## +Stunning pixel art
+
+
+## +Fun and challenging rogue-lite gameplay
+
+
+
+
+## Cons
 
 
 -Touch controls are a little unresponsive

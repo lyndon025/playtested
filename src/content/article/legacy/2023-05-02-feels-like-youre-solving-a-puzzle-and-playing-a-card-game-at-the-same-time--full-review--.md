@@ -1,55 +1,61 @@
 ---
 author: lyndonguitar
 category: Review
-description: Card Hog - Dungeon Crawler is a card swiping rogue-lite mobile game that
-  combines elements of card game, dungeon crawling, and sliding mechanics as seen
-  in block or number puzzle games such as Unblock me or 2048.
+slug: 2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time-full-review
+title: Feels like you’re solving a puzzle and playing a card game at the same time | Full Review - Card Hog
+game: Card Hog
+description: Card Hog - Dungeon Crawler is a card swiping rogue-lite mobile game that combines elements of card game, dungeon crawling, and sliding mechanics as seen in block or number puzzle games such as Unblock me or 2048.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---0.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---1.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---2.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---3.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---4.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---5.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---6.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---7.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---8.avif
+  - /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---9.avif
 pubDate: 2023-05-02
 tags:
-- android
-- card
-- card-hog
-- casual
-- indie
-- ios
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
+  - android
+  - card
+  - card-hog
+  - casual
+  - indie
+  - ios
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---0.avif
-title: Feels like you’re solving a puzzle and playing a card game at the same time
-  | Full Review - Card Hog
-game: Card Hog
-gallery:
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---0.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---1.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---2.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---3.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---4.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---5.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---6.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---7.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---8.avif
-- /images/reviews/legacy/2023-05-02-feels-like-youre-solving-a-puzzle-and-playing-a-card-game-at-the-same-time--full-review---9.avif
 ---
+
 Card Hog - Dungeon Crawler
 
 Card Hog - Dungeon Crawler is a card swiping rogue-lite mobile game that combines elements of card game, dungeon crawling, and sliding mechanics as seen in block or number puzzle games such as Unblock me or 2048.
 
 
-**Pros:**
 
 
-+Easy to pick-up and learn
-
-+bright, colorful, and cartoony visuals
-
-+High degree of replayability
+## Pros
 
 
-**Cons:**
+
+## +Easy to pick-up and learn
+
+
+## +bright, colorful, and cartoony visuals
+
+
+## +High degree of replayability
+
+
+
+
+## Cons
 
 
 -No Cons

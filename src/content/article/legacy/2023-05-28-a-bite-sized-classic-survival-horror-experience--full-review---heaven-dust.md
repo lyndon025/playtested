@@ -1,31 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Heaven Dust is an old-school-style zombie survival horror game that combines
-  puzzle-solving, storytelling, and a classic isometric third person view.
-featured: false
-pubDate: 2023-05-28
-tags:
-- android
-- console
-- heaven-dust
-- horror
-- mobile
-- pc
-- puzzle
-- survival
-- switch
-- taptap
-- xbox
-thumb: /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif
+slug: 2023-05-28-a-bite-sized-classic-survival-horror-experience-full-review-heaven-dust
 title: A bite-sized classic survival horror experience | Full Review - Heaven Dust
 game: Heaven Dust
+description: Heaven Dust is an old-school-style zombie survival horror game that combines puzzle-solving, storytelling, and a classic isometric third person view.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif
-- /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-1.avif
-- /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-2.avif
-- /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-3.avif
+  - /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif
+  - /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-1.avif
+  - /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-2.avif
+  - /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-3.avif
+pubDate: 2023-05-28
+tags:
+  - android
+  - console
+  - heaven-dust
+  - horror
+  - mobile
+  - pc
+  - puzzle
+  - survival
+  - switch
+  - taptap
+  - xbox
+thumb: /images/reviews/legacy/2023-05-28-a-bite-sized-classic-survival-horror-experience--full-review---heaven-dust-0.avif
 ---
+
 Heaven Dust
 
 lyndonguitar
@@ -34,17 +35,24 @@ Download
 Heaven Dust is an old-school-style zombie survival horror game that combines puzzle-solving, storytelling, and a classic isometric third person view.
 
 
-**Pros:**
 
 
-+Classic Resident Evil atmosphere
-
-+Simple gameplay mechanics
-
-+Challenging puzzles
+## Pros
 
 
-**Cons:**
+
+## +Classic Resident Evil atmosphere
+
+
+## +Simple gameplay mechanics
+
+
+## +Challenging puzzles
+
+
+
+
+## Cons
 
 
 -Clunky controls

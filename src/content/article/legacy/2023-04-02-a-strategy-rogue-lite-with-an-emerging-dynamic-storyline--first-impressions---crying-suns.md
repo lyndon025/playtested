@@ -1,36 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: Crying Suns' narrative themes are boasted as having been inspired by
-  Dune and Foundation, in which for any hardcore sci-fi fans, know that this is probably
-  two of the best source materials a story could be inspired by.
+slug: 2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline-first-impressions-crying-suns
+title: A strategy rogue-lite with an emerging dynamic storyline | First Impressions - Crying Suns
+game: Crying Suns
+description: Crying Suns' narrative themes are boasted as having been inspired by Dune and Foundation, in which for any hardcore sci-fi fans, know that this is probably two of the best source materials a story could be inspired by.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-0.avif
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-1.avif
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-2.avif
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-3.avif
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-4.avif
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-5.avif
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-6.avif
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-7.avif
+  - /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-8.avif
 pubDate: 2023-04-02
 tags:
-- crying-suns
-- indie
-- ios
-- macos
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
+  - crying-suns
+  - indie
+  - ios
+  - macos
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-0.avif
-title: A strategy rogue-lite with an emerging dynamic storyline | First Impressions
-  - Crying Suns
-game: Crying Suns
-gallery:
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-0.avif
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-1.avif
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-2.avif
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-3.avif
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-4.avif
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-5.avif
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-6.avif
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-7.avif
-- /images/reviews/legacy/2023-04-02-a-strategy-rogue-lite-with-an-emerging-dynamic-storyline--first-impressions---crying-suns-8.avif
 ---
+
 Crying Suns' narrative themes are boasted as having been inspired by Dune and Foundation, in which for any hardcore sci-fi fans, know that this is probably two of the best source materials a story could be inspired by.
 
 The main story premise is that the game's protagonist, Admiral Ellys Idaho, or rather a clone of him, is awoken by the last surviving OMNI named Kaliban— AIs originally built to enable mankind to run a galactic empire. They both soon find out that Kaliban is the last of his kind and that the Empire has collapsed and is in shambles, prompting the duo to embark on a journey to find out what happened.

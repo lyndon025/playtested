@@ -1,40 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Closely following in the footsteps of the first game, Danganronpa 2:
-  Goodbye Despair is another entry into the intriguing murder mystery game series
-  featuring high school students trapped in their school and forced to kill each other
-  to survive.'
+slug: 2023-04-29-survive-the-island-in-this-murder-mystery-sequel-first-impressions-danganronpa-2
+title: Survive the Island in this murder mystery sequel | First Impressions - Danganronpa 2
+game: Danganronpa 2
+description: 'Closely following in the footsteps of the first game, Danganronpa 2: Goodbye Despair is another entry into the intriguing murder mystery game series featuring high school students trapped in their school and forced to kill each other to survive.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-0.avif
+  - /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-1.avif
+  - /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-2.avif
+  - /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-3.avif
+  - /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-4.avif
+  - /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-5.avif
+  - /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-6.avif
+  - /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-7.avif
 pubDate: 2023-04-29
 tags:
-- adventure
-- casual
-- console
-- danganronpa-2
-- ios
-- linux
-- macos
-- pc
-- playstation
-- playstation 4
-- ps vita
-- psp
-- taptap
+  - adventure
+  - casual
+  - console
+  - danganronpa-2
+  - ios
+  - linux
+  - macos
+  - pc
+  - playstation
+  - playstation-4
+  - ps-vita
+  - psp
+  - taptap
 thumb: /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-0.avif
-title: Survive the Island in this murder mystery sequel | First Impressions - Danganronpa
-  2
-game: Danganronpa 2
-gallery:
-- /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-0.avif
-- /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-1.avif
-- /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-2.avif
-- /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-3.avif
-- /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-4.avif
-- /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-5.avif
-- /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-6.avif
-- /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-7.avif
 ---
+
 Danganronpa 2: Goodbye Despair
 8.3
 Adventure

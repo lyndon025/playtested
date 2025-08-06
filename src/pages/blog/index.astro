@@ -10,7 +10,7 @@ import SiteOptions from "../../site.config.mjs"
 const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
 
 const allPosts = await getCollection("article")
-const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()).reverse()
+const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 
 const paginated = sortedPosts.slice(0, POSTS_PER_PAGE)
 const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE)

@@ -1,34 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: You’ve read it right, 70s. If you were somehow already a gamer in the
-  1970s, you might have played one of the most influential video games of all time
-  in Colossal Cave Adventure. This newly released title is a remake of that classic
-  text-based adventure.
-featured: false
-pubDate: 2023-01-21
-tags:
-- adventure
-- android
-- atari st
-- colossal-cave
-- commodore / amiga
-- pc
-- taptap
-thumb: /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif
+slug: 2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined-colossal-cave-review
 title: A monumental game from the 70s faithfully re-imagined | Colossal Cave - Review
 game: Colossal Cave
+description: You’ve read it right, 70s. If you were somehow already a gamer in the 1970s, you might have played one of the most influential video games of all time in Colossal Cave Adventure. This newly released title is a remake of that classic text-based adventure.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-1.avif
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-2.avif
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-3.avif
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-4.avif
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-5.avif
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-6.avif
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-7.avif
-- /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-8.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-1.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-2.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-3.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-4.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-5.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-6.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-7.avif
+  - /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-8.avif
+pubDate: 2023-01-21
+tags:
+  - adventure
+  - android
+  - atari-st
+  - colossal-cave
+  - commodore-amiga
+  - pc
+  - taptap
+thumb: /images/reviews/legacy/2023-01-21-a-monumental-game-from-the-70s-faithfully-re-imagined--colossal-cave---review-0.avif
 ---
+
 You’ve read it right, 70s. If you were somehow already a gamer in the 1970s, you might have played one of the most influential video games of all time in Colossal Cave Adventure. This newly released title is a remake of that classic text-based adventure.
 
 3D graphics, modern gameplay, with big names attached to it, one being Roberta Williams — the Founder of Sierra, basically the mother of point-and-click adventure games. The original game is what basically inspired her to make adventure games, and now she’s the one remaking it, full circle… you can't go wrong right? Well, I’ll just let my review speak for itself.

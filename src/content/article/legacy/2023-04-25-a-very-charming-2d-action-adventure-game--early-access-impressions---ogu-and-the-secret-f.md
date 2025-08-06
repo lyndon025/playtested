@@ -1,25 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-04-25-a-very-charming-2d-action-adventure-game-early-access-impressions-ogu-and-the-secret-f
+title: A very charming 2D action-adventure game | Early Access Impressions - Ogu and the Secret Forest
+game: Early Access Impressions - Ogu and the Secret Forest
 description: Ogu and the Secret Forest 9.1 Adventure Healing Test
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-0.avif
+  - /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-1.avif
+  - /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-2.avif
+  - /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-3.avif
+  - /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-4.avif
 pubDate: 2023-04-25
 tags:
-- early-access-impressions-ogu-and-the-secret-forest
-- pc
-- rpg
-- taptap
+  - early-access-impressions-ogu-and-the-secret-forest
+  - pc
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-0.avif
-title: A very charming 2D action-adventure game | Early Access Impressions - Ogu and
-  the Secret Forest
-game: Early Access Impressions - Ogu and the Secret Forest
-gallery:
-- /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-0.avif
-- /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-1.avif
-- /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-2.avif
-- /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-3.avif
-- /images/reviews/legacy/2023-04-25-a-very-charming-2d-action-adventure-game--early-access-impressions---ogu-and-the-secret-f-4.avif
 ---
+
 Ogu and the Secret Forest
 9.1
 Adventure

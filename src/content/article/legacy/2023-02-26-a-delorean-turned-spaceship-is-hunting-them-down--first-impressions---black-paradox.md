@@ -1,40 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Developed by Fantastico Studio and published by Digerati, Black Paradox
-  is a retro style horizontal shoot'em up that features a beautiful pixel art, pumping
-  electronic soundtrack, and fast-paced gameplay that will keep your fingers sweating.
-  It is available on a multiple of platforms, but today we are focusing on the Mobile
-  version.
+slug: 2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down-first-impressions-black-paradox
+title: A Delorean-turned-spaceship is hunting them down | First Impressions - Black Paradox
+game: Black Paradox
+description: Developed by Fantastico Studio and published by Digerati, Black Paradox is a retro style horizontal shoot'em up that features a beautiful pixel art, pumping electronic soundtrack, and fast-paced gameplay that will keep your fingers sweating. It is available on a multiple of platforms, but today we are focusing on the Mobile version.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-0.avif
+  - /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-1.avif
+  - /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-2.avif
+  - /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-3.avif
+  - /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-4.avif
 pubDate: 2023-02-26
 tags:
-- action
-- arcade
-- black-paradox
-- casual
-- console
-- indie
-- ios
-- macos
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- taptap
-- xbox one
+  - action
+  - arcade
+  - black-paradox
+  - casual
+  - console
+  - indie
+  - ios
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-0.avif
-title: A Delorean-turned-spaceship is hunting them down | First Impressions - Black
-  Paradox
-game: Black Paradox
-gallery:
-- /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-0.avif
-- /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-1.avif
-- /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-2.avif
-- /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-3.avif
-- /images/reviews/legacy/2023-02-26-a-delorean-turned-spaceship-is-hunting-them-down--first-impressions---black-paradox-4.avif
 ---
+
 Developed by Fantastico Studio and published by Digerati, Black Paradox is a retro style horizontal shoot'em up that features a beautiful pixel art, pumping electronic soundtrack, and fast-paced gameplay that will keep your fingers sweating. It is available on a multiple of platforms, but today we are focusing on the Mobile version.
 
 One of the first things that stands out in Black Paradox is the amazing soundtrack that captures the essence of the 80s with its 8-bit sounding electro-techno music. In addition, the retro pixel art is amazing and visually appealing as well

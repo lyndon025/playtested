@@ -1,33 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Ethyrial: Echoes of Yore is not your typical MMORPG. It is an old school,
-  hardcore game with high ambitions and a promising idea, featuring voxel based graphics
-  and a gameplay bordering sandbox and simulation elements rather than being an actual
-  action-based game. The game has a strong resemblance to classic RPG games such as
-  Runescape. Moreover, it boasts an adventurous orchestral soundtrack that will make
-  medieval fantasy fans feel right at home'
-featured: false
-pubDate: 2023-05-06
-tags:
-- ethyrial-echoes-of-yore
-- indie
-- massively multiplayer
-- pc
-- rpg
-- taptap
-thumb: /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-0.avif
+slug: 2023-05-06-this-feels-like-an-early-access-title-ethyrial-echoes-of-yore-first-impressions
 title: 'This feels like an Early Access title | Ethyrial: Echoes of Yore - First Impressions'
 game: 'Ethyrial: Echoes of Yore'
+description: 'Ethyrial: Echoes of Yore is not your typical MMORPG. It is an old school, hardcore game with high ambitions and a promising idea, featuring voxel based graphics and a gameplay bordering sandbox and simulation elements rather than being an actual action-based game. The game has a strong resemblance to classic RPG games such as Runescape. Moreover, it boasts an adventurous orchestral soundtrack that will make medieval fantasy fans feel right at home'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-0.avif
-- /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-1.avif
-- /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-2.avif
-- /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-3.avif
-- /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-4.avif
-- /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-5.avif
-- /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-6.avif
+  - /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-0.avif
+  - /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-1.avif
+  - /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-2.avif
+  - /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-3.avif
+  - /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-4.avif
+  - /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-5.avif
+  - /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-6.avif
+pubDate: 2023-05-06
+tags:
+  - ethyrial-echoes-of-yore
+  - indie
+  - massively-multiplayer
+  - pc
+  - rpg
+  - taptap
+thumb: /images/reviews/legacy/2023-05-06-this-feels-like-an-early-access-title--ethyrial-echoes-of-yore---first-impressions-0.avif
 ---
+
 Ethyrial: Echoes of Yore
 3.8
 Get

@@ -1,28 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-04-24-this-horror-game-is-actually-scary-first-impressions-reporter-scary-horror-game
+title: This horror game is actually scary | First Impressions - Reporter - Scary Horror Game
+game: Reporter - Scary Horror Game
 description: Reporter - Scary Horror Game 8.7 Action Survival horror
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-0.avif
+  - /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-1.avif
+  - /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-2.avif
+  - /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-3.avif
+  - /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-4.avif
 pubDate: 2023-04-24
 tags:
-- action
-- linux
-- macos
-- mobile
-- pc
-- reporter-scary-horror-game
-- taptap
+  - action
+  - linux
+  - macos
+  - mobile
+  - pc
+  - reporter-scary-horror-game
+  - taptap
 thumb: /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-0.avif
-title: This horror game is actually scary | First Impressions - Reporter - Scary Horror
-  Game
-game: Reporter - Scary Horror Game
-gallery:
-- /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-0.avif
-- /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-1.avif
-- /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-2.avif
-- /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-3.avif
-- /images/reviews/legacy/2023-04-24-this-horror-game-is-actually-scary--first-impressions---reporter---scary-horror-game-4.avif
 ---
+
 Reporter - Scary Horror Game
 8.7
 Action

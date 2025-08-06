@@ -1,31 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Hyperforma is a literal unique take on the Breakout puzzle formula, bounce
-  around the levels, punch your way through the defenses, and hack the system in this
-  unique puzzle game.
-featured: false
-pubDate: 2023-05-05
-tags:
-- adventure
-- android
-- arcade
-- casual
-- console
-- hyperforma
-- ios
-- nintendo switch
-- taptap
-thumb: /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif
+slug: 2023-05-05-spatial-awareness-is-key-first-impressions-hyperforma
 title: Spatial awareness is key | First Impressions - Hyperforma
 game: Hyperforma
+description: Hyperforma is a literal unique take on the Breakout puzzle formula, bounce around the levels, punch your way through the defenses, and hack the system in this unique puzzle game.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif
-- /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-1.avif
-- /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-2.avif
-- /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-3.avif
-- /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-4.avif
+  - /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif
+  - /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-1.avif
+  - /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-2.avif
+  - /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-3.avif
+  - /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-4.avif
+pubDate: 2023-05-05
+tags:
+  - adventure
+  - android
+  - arcade
+  - casual
+  - console
+  - hyperforma
+  - ios
+  - nintendo-switch
+  - taptap
+thumb: /images/reviews/legacy/2023-05-05-spatial-awareness-is-key--first-impressions---hyperforma-0.avif
 ---
+
 Hyperforma
 8.2
 Arcade

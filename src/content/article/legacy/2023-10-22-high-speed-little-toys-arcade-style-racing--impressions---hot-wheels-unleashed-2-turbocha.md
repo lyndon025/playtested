@@ -1,25 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'The first game was one of my lowkey go-to racing games to play on the
-  Steam Deck. Now it gets a sequel which honestly flew under my radar until its release
-  recently. Hot Wheels Unleashed 2: Turbocharged is continuation of the original game
-  with some noticeable improvements, especially in the gameplay and content.'
+slug: 2023-10-22-high-speed-little-toys-arcade-style-racing-impressions-hot-wheels-unleashed-2-turbocha
+title: 'High-speed, little toys arcade-style racing | Impressions - Hot Wheels Unleashed 2: Turbocharged'
+game: HOT WHEELS UNLEASHED 2 - Turbocharged
+description: 'The first game was one of my lowkey go-to racing games to play on the Steam Deck. Now it gets a sequel which honestly flew under my radar until its release recently. Hot Wheels Unleashed 2: Turbocharged is continuation of the original game with some noticeable improvements, especially in the gameplay and content.'
 featured: false
 pubDate: 2023-10-22
 tags:
-- action
-- adventure
-- hot-wheels-unleashed-2-turbocharged
-- pc
-- racing
-- sports
-- taptap
+  - action
+  - adventure
+  - hot-wheels-unleashed-2-turbocharged
+  - pc
+  - racing
+  - sports
+  - taptap
 thumb: ''
-title: 'High-speed, little toys arcade-style racing | Impressions - Hot Wheels Unleashed
-  2: Turbocharged'
-game: HOT WHEELS UNLEASHED 2 - Turbocharged
 ---
+
 The first game was one of my lowkey go-to racing games to play on the Steam Deck. Now it gets a sequel which honestly flew under my radar until its release recently. Hot Wheels Unleashed 2: Turbocharged is continuation of the original game with some noticeable improvements, especially in the gameplay and content.
 
 The game tries to tell a story about massive monsters invading the city, which adds a narrative layer to the racing events. I find the story a bit disjointed though with the actual gameplay and racing parts of the game, which is probably 99% of the game, fortunately.

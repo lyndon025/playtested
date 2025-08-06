@@ -1,24 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Titan Quest: Ultimate Edition serves as a complete compilation of the
-  whole Titan Quest saga, and has all the updates and DLCs included. A classic ARPG
-  title that has stood the test of time and continues to captivate audiences across
-  different platforms.'
+slug: 2023-11-30-is-this-release-the-games-final-form-impressions-titan-quest-ultimate-edition
+title: 'Is this release the game’s final form? | Impressions - Titan Quest: Ultimate Edition'
+game: 'Titan Quest: Ultimate Edition'
+description: 'Titan Quest: Ultimate Edition serves as a complete compilation of the whole Titan Quest saga, and has all the updates and DLCs included. A classic ARPG title that has stood the test of time and continues to captivate audiences across different platforms.'
 featured: false
 pubDate: 2023-11-30
 tags:
-- action
-- mobile
-- pc
-- rpg
-- taptap
-- titan-quest-ultimate-edition
+  - action
+  - mobile
+  - pc
+  - rpg
+  - taptap
+  - titan-quest-ultimate-edition
 thumb: ''
-title: 'Is this release the game’s final form? | Impressions - Titan Quest: Ultimate
-  Edition'
-game: 'Titan Quest: Ultimate Edition'
 ---
+
 Titan Quest: Ultimate Edition serves as a complete compilation of the whole Titan Quest saga, and has all the updates and DLCs included. A classic ARPG title that has stood the test of time and continues to captivate audiences across different platforms.
 
 For those confused about the rerelease. Titan Quest's last edition — Legendary Edition, is missing the newest DLC: Eternal Embers. Luckily, it’s available as an in-app DLC purchase for roughly the difference in price between the two editions.

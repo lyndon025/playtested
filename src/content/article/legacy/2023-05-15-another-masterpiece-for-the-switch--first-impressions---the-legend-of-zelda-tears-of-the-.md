@@ -1,30 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-05-15-another-masterpiece-for-the-switch-first-impressions-the-legend-of-zelda-tears-of-the
+title: 'Another masterpiece for the Switch? | First Impressions - The Legend of Zelda: Tears of the Kingdom'
+game: 'The Legend of Zelda: Tears of the Kingdom'
 description: 'The Legend of Zelda: Tears of the Kingdom (NS) 9.2 Open World RPG'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--0.avif
+  - /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--1.avif
+  - /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--2.avif
+  - /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--3.avif
+  - /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--4.avif
+  - /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--5.avif
+  - /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--6.avif
+  - /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--7.avif
 pubDate: 2023-05-15
 tags:
-- action
-- adventure
-- console
-- nintendo switch
-- taptap
-- the-legend-of-zelda-tears-of-the-kingdom
+  - action
+  - adventure
+  - console
+  - nintendo-switch
+  - taptap
+  - the-legend-of-zelda-tears-of-the-kingdom
 thumb: /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--0.avif
-title: 'Another masterpiece for the Switch? | First Impressions - The Legend of Zelda:
-  Tears of the Kingdom'
-game: 'The Legend of Zelda: Tears of the Kingdom'
-gallery:
-- /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--0.avif
-- /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--1.avif
-- /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--2.avif
-- /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--3.avif
-- /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--4.avif
-- /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--5.avif
-- /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--6.avif
-- /images/reviews/legacy/2023-05-15-another-masterpiece-for-the-switch--first-impressions---the-legend-of-zelda-tears-of-the--7.avif
 ---
+
 The Legend of Zelda: Tears of the Kingdom (NS)
 9.2
 Open World

@@ -1,37 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Destiny Saga is a narratively-driven retro-style Action RPG with gacha
-  elements and seamless switching between party characters
+slug: 2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg-full-review-destiny
+title: Not sure about the rogue-like but it is a decent retro-style ARPG | Full Review - Destiny Saga
+game: Destiny Saga
+description: Destiny Saga is a narratively-driven retro-style Action RPG with gacha elements and seamless switching between party characters
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--0.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--1.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--2.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--3.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--4.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--5.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--6.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--7.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--8.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--9.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--10.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--11.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--12.avif
+  - /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--13.avif
 pubDate: 2023-05-24
 tags:
-- action
-- adventure
-- destiny-saga
-- ios
-- mobile
-- taptap
+  - action
+  - adventure
+  - destiny-saga
+  - ios
+  - mobile
+  - taptap
 thumb: /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--0.avif
-title: Not sure about the rogue-like but it is a decent retro-style ARPG | Full Review
-  - Destiny Saga
-game: Destiny Saga
-gallery:
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--0.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--1.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--2.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--3.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--4.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--5.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--6.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--7.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--8.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--9.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--10.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--11.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--12.avif
-- /images/reviews/legacy/2023-05-24-not-sure-about-the-rogue-like-but-it-is-a-decent-retro-style-arpg--full-review---destiny--13.avif
 ---
+
 Destiny Saga
 
 lyndonguitar
@@ -39,17 +39,24 @@ lyndonguitar
 Destiny Saga is a narratively-driven retro-style Action RPG with gacha elements and seamless switching between party characters
 
 
-**Pros:**
 
 
-+Nostalgic retro-style JRPG art style
-
-+Fluid and engaging ARPG combat
-
-+Seamless character switching
+## Pros
 
 
-**Cons:**
+
+## +Nostalgic retro-style JRPG art style
+
+
+## +Fluid and engaging ARPG combat
+
+
+## +Seamless character switching
+
+
+
+
+## Cons
 
 
 -Movement controls need tweaking

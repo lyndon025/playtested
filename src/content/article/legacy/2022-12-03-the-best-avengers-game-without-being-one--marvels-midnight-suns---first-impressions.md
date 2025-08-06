@@ -1,43 +1,39 @@
 ---
 author: lyndonguitar
 category: Review
-description: Sure, it is titled Marvel’s Midnight Suns, but don’t let the relatively
-  inconspicuous title fool you. It is a full blown high-profile Marvel game packing
-  a roster that features popular Marvel characters including Iron Man, Captain America,
-  Doctor Strange, Wolverine, Spider-Man and The Hulk. As well as including less-known
-  characters like Nico Minoru and Magik. All of these characters are fighting in a
-  high-stakes interpersonal story involving the demon  Lilith, the military organization
-  Hydra, as well as throwing other heroes and villains into the mix.
-featured: false
-pubDate: 2022-12-03
-tags:
-- console
-- marvel-s-midnight-suns
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- rpg
-- strategy
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-0.avif
+slug: 2022-12-03-the-best-avengers-game-without-being-one-marvels-midnight-suns-first-impressions
 title: The best Avengers game without being one | Marvel's Midnight Suns - First Impressions
 game: Marvel's Midnight Suns
+description: Sure, it is titled Marvel’s Midnight Suns, but don’t let the relatively inconspicuous title fool you. It is a full blown high-profile Marvel game packing a roster that features popular Marvel characters including Iron Man, Captain America, Doctor Strange, Wolverine, Spider-Man and The Hulk. As well as including less-known characters like Nico Minoru and Magik. All of these characters are fighting in a high-stakes interpersonal story involving the demon  Lilith, the military organization Hydra, as well as throwing other heroes and villains into the mix.
+featured: false
 gallery:
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-0.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-1.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-2.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-3.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-4.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-5.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-6.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-7.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-8.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-9.avif
-- /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-10.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-0.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-1.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-2.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-3.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-4.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-5.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-6.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-7.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-8.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-9.avif
+  - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-10.avif
+pubDate: 2022-12-03
+tags:
+  - console
+  - marvel-s-midnight-suns
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-0.avif
 ---
+
 Sure, it is titled Marvel’s Midnight Suns, but don’t let the relatively inconspicuous title fool you. It is a full blown high-profile Marvel game packing a roster that features popular Marvel characters including Iron Man, Captain America, Doctor Strange, Wolverine, Spider-Man and The Hulk. As well as including less-known characters like Nico Minoru and Magik. All of these characters are fighting in a high-stakes interpersonal story involving the demon  Lilith, the military organization Hydra, as well as throwing other heroes and villains into the mix.
 
 A couple of hours in, and I already dare say that Midnight Suns is a better Avengers game than the actual Marvel's Avengers game we got two years ago. With an innovative combat system, intriguing story, and a densely packed narrative with a novel’s worth of character development.

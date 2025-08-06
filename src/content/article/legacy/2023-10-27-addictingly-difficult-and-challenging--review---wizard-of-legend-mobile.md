@@ -1,61 +1,74 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-10-27-addictingly-difficult-and-challenging-review-wizard-of-legend-mobile
+title: Addictingly difficult and challenging | Review - Wizard of Legend Mobile
+game: Wizard of Legend Mobile
 description: Wizard of Legend Mobile 9.2 Editors' Choice Roguelike Get
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-0.avif
+  - /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-1.avif
+  - /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-2.avif
+  - /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-3.avif
+  - /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-4.avif
+  - /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-5.avif
 pubDate: 2023-10-27
 score: 9.0
 tags:
-- action
-- indie
-- linux
-- macos
-- mobile
-- pc
-- rpg
-- taptap
-- wizard-of-legend-mobile
+  - action
+  - indie
+  - linux
+  - macos
+  - mobile
+  - pc
+  - rpg
+  - taptap
+  - wizard-of-legend-mobile
 thumb: /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-0.avif
-title: Addictingly difficult and challenging | Review - Wizard of Legend Mobile
-game: Wizard of Legend Mobile
-gallery:
-- /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-0.avif
-- /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-1.avif
-- /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-2.avif
-- /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-3.avif
-- /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-4.avif
-- /images/reviews/legacy/2023-10-27-addictingly-difficult-and-challenging--review---wizard-of-legend-mobile-5.avif
 ---
+
 Wizard of Legend Mobile
 9.2
 Editors' Choice
 Roguelike
 Get
 
-✨Overview
+
+## ✨Overview
 
 Wizard of Legend Mobile is a a portable port of the popular PC title that successfully recreates the magic of the original game while adapting to touchscreen controls. This game delivers a fast-paced and challenging roguelike adventure, which is well suited for gaming on the go.
 
 The timing of this mobile release couldn't be better, especially with the recent announcement of the upcoming Wizard of Legend 2. With the sequel on the horizon, fans and newcomers to the series alike have an opportunity play the first game on their mobile phones.
 
 
-**Pros:**
 
 
-+Fast-paced satisfying spell-based combat
-+Challenging roguelike elements and progression
-+Procedurally generated dungeons
-+Spell and Item customization
-+Touch and Gamepad support
+## Pros
 
 
-**Cons:**
+
+## +Fast-paced satisfying spell-based combat
+
+## +Challenging roguelike elements and progression
+
+## +Procedurally generated dungeons
+
+## +Spell and Item customization
+
+## +Touch and Gamepad support
+
+
+
+
+## Cons
 
 
 -Stunlock is overused as a combat mecahnic
 -Progression system can feel grindy
 
-⭐️Score: 9/10
+
+## ⭐️Score: 9/10
 
 Story and Premise
 
@@ -63,11 +76,13 @@ Set in the Kingdom of Lanova, Wizard of Legend Mobile immerses players in the an
 
 Wizard of Legend is all about gameplay. The short but sweet backstory doesn't interfere with the primary action, which revolves around battling through the trials, mastering the art of spell combinations, and exploring this world of magic.
 
-🎨Graphics and Art Style
+
+## 🎨Graphics and Art Style
 
 The transition from the PC version to a smaller screen is basically translated 1:1, preserving the pixel art style and visual charm. The retro pixel art style is wonderfully animated, Every spell, every enemy has a unique character, and there is attention to detail. The visuals are both captivating and charming, even during the visual clutter of combat. The heroic orchestral soundtrack that reminds me of the Superman theme, complements the pixel art and magical theme beautifully. Each element, from spells to characters, fits seamlessly into the overall aesthetic.
 
-🎮Gameplay
+
+## 🎮Gameplay
 
 Wizard of Legend Mobile is basically the fast-paced gameplay of the original version while adapting to touch controls, with optional gamepad support. The controls are pretty easy to grasp, left touch for movement and right touch for the skills. It is noticeably harder to control the character because of the touch controls as oppooed to using a gamepad, so this adds an extra challenge to the already difficult nature of Wizard of Legend.
 
@@ -79,7 +94,8 @@ The procedurally generated dungeons called Trials is pretty linear in terms of p
 
 The progression in the game is engaging, as you aim to unlock new items and enhance your character with the currency you collect. The game heavily relies on RNG for spell and item acquisition. While this randomness adds unpredictability and replay value, it can also lead to frustration when players are unable to access certain spells or items that would enhance their preferred playstyle. This can make the game very grindy and leave players feeling like they've made no progress even after playing for hours.
 
-⚔️Combat
+
+## ⚔️Combat
 
 You'll encounter a wide array of enemies, each with distinct abilities and attack patterns. The game's challenge lies in your ability to adapt to different enemy tactics. You'll need to learn when to dodge, when to strike, and when to use your spells strategically to overcome your adversaries. When you die, you reset back again and can go right back into runs again, or perhaps you’d want to tweak your starting Arcanas and Relics.
 
@@ -89,11 +105,13 @@ The game is designed to keep you on your toes, as you can go from full health to
 
 The game can also become visually cluttered during intense combat scenarios, especially in crowded rooms with multiple enemies and numerous spell effects. This visual clutter can make it challenging to track incoming attacks, leading to unintended stunlock situations where players are unable to dodge or counter effectively.
 
-📊Technical Performance
+
+## 📊Technical Performance
 
 Performance wise, Wizard of Legend Mobile ran absolutely well on my Snapdragon 888 device. I’ve experienced no slowdowns or FPS drops even during visual clutters and you will pretty much forget that you’re playing on a mobile phone instead of the original game on PC or consoles. Controller support is implemented, complete with its own UI navigation and button prompts. The game has no graphics settings, and adjusts accordingly based on your phone’s specs. There is also an aim assist/auto target support option to assist the player.
 
-⚖️Conclusion
+
+## ⚖️Conclusion
 
 If you enjoy action-packed combat, highly difficult roguelike challenges, and the thrill of playing as a mage, sorcerer, wizard, or basically any casters, Wizard of Legend Mobile offers a satisfying gameplay experience. The touch controls work well to bring fast-paced combat and spell combinations to mobile devices, and it's basically a 1:1 well-made port. I found it immensely difficult to master and progress in, but it's a game that encourages creativity and adaptability, making every run a unique adventure.
 

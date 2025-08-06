@@ -1,26 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: THE FINALS is currently in an open beta test on Steam that started last
-  October 26 and will run up to November 5, available for PC (Steam), Xbox Series
-  X/S, and PS5.
+slug: 2023-10-28-the-finals-open-beta-now-open-one-step-closer-to-release-first-impressions-the-finals
+title: THE FINALS' open beta now open! one step closer to release | First Impressions - THE FINALS
+game: The Finals
+description: THE FINALS is currently in an open beta test on Steam that started last October 26 and will run up to November 5, available for PC (Steam), Xbox Series X/S, and PS5.
 featured: false
 pubDate: 2023-10-28
 tags:
-- action
-- console
-- pc
-- playstation
-- playstation 5
-- shooter
-- taptap
-- the-finals
-- xbox series
+  - action
+  - console
+  - pc
+  - playstation
+  - playstation-5
+  - shooter
+  - taptap
+  - the-finals
+  - xbox-series
 thumb: ''
-title: THE FINALS' open beta now open! one step closer to release | First Impressions
-  - THE FINALS
-game: The Finals
 ---
+
 THE FINALS is currently in an open beta test on Steam that started last October 26 and will run up to November 5, available for PC (Steam), Xbox Series X/S, and PS5.
 
 It's basically an FPS game with class-based abilities where teams of three players battle it out with other teams on the map and go for objectives such as collecting cash or defending vaults to win the game.

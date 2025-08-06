@@ -1,34 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Neon Abyss is a roguelike retro action-platformer game that was initially
-  released for PC, Switch, PlayStation, and Xbox in 2020, with a mobile port coming
-  soon and now already in Early Access called Neon Abyss: Infinite.'
+slug: 2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile-early-access-review-neon-abyss-i
+title: 'Potentially one of the best roguelike games on mobile | Early Access Review - Neon Abyss: Infinite'
+game: 'Early Access Review - Neon Abyss: Infinite'
+description: 'Neon Abyss is a roguelike retro action-platformer game that was initially released for PC, Switch, PlayStation, and Xbox in 2020, with a mobile port coming soon and now already in Early Access called Neon Abyss: Infinite.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-0.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-1.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-2.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-3.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-4.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-5.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-6.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-7.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-8.avif
+  - /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-9.avif
 pubDate: 2023-06-22
 tags:
-- action
-- early-access-review-neon-abyss-infinite
-- mobile
-- pc
-- platformer
-- taptap
+  - action
+  - early-access-review-neon-abyss-infinite
+  - mobile
+  - pc
+  - platformer
+  - taptap
 thumb: /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-0.avif
-title: 'Potentially one of the best roguelike games on mobile | Early Access Review
-  - Neon Abyss: Infinite'
-game: 'Early Access Review - Neon Abyss: Infinite'
-gallery:
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-0.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-1.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-2.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-3.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-4.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-5.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-6.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-7.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-8.avif
-- /images/reviews/legacy/2023-06-22-potentially-one-of-the-best-roguelike-games-on-mobile--early-access-review---neon-abyss-i-9.avif
 ---
+
 Neon Abyss：InfinityGlobal
 7.4
 Roguelite

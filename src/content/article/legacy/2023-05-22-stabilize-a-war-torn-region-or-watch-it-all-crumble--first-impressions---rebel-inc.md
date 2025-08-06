@@ -1,34 +1,31 @@
 ---
 author: lyndonguitar
 category: Review
-description: Rebel Inc., developed by Ndemic Creations, is a mobile strategy game
-  that offers an immersive political sim experience with a unique premise. As a leader
-  tasked with stabilizing a war-torn region, players must navigate complex political
-  landscapes, manage limited resources, and confront the persistent threat of insurgent
-  forces.
+slug: 2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble-first-impressions-rebel-inc
+title: Stabilize a war-torn region, or watch it all crumble | First Impressions - Rebel Inc.
+game: Rebel Inc.
+description: Rebel Inc., developed by Ndemic Creations, is a mobile strategy game that offers an immersive political sim experience with a unique premise. As a leader tasked with stabilizing a war-torn region, players must navigate complex political landscapes, manage limited resources, and confront the persistent threat of insurgent forces.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-0.avif
+  - /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-1.avif
+  - /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-2.avif
+  - /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-3.avif
+  - /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-4.avif
+  - /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-5.avif
+  - /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-6.avif
 pubDate: 2023-05-22
 tags:
-- android
-- ios
-- mobile
-- rebel-inc
-- simulation
-- strategy
-- taptap
+  - android
+  - ios
+  - mobile
+  - rebel-inc
+  - simulation
+  - strategy
+  - taptap
 thumb: /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-0.avif
-title: Stabilize a war-torn region, or watch it all crumble | First Impressions -
-  Rebel Inc.
-game: Rebel Inc.
-gallery:
-- /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-0.avif
-- /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-1.avif
-- /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-2.avif
-- /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-3.avif
-- /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-4.avif
-- /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-5.avif
-- /images/reviews/legacy/2023-05-22-stabilize-a-war-torn-region-or-watch-it-all-crumble--first-impressions---rebel-inc-6.avif
 ---
+
 Rebel Inc.
 8.9
 Simulation

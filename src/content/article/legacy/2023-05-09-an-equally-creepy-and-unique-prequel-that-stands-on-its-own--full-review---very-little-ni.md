@@ -1,40 +1,37 @@
 ---
 author: lyndonguitar
 category: Review
-description: Very Little Nightmares is a puzzle-platformer game developed by Alike
-  Studio and published by Bandai Namco Entertainment. As a prequel to the popular
-  horror game Little Nightmares, this game boasts a similar eerie and suspenseful
-  atmosphere while providing an original, captivating storyline and gameplay that
-  stands on its own.
+slug: 2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own-full-review-very-little-ni
+title: An equally creepy and unique prequel that stands on its own | Full Review - Very Little Nightmares+
+game: Very Little Nightmares
+description: Very Little Nightmares is a puzzle-platformer game developed by Alike Studio and published by Bandai Namco Entertainment. As a prequel to the popular horror game Little Nightmares, this game boasts a similar eerie and suspenseful atmosphere while providing an original, captivating storyline and gameplay that stands on its own.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-0.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-1.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-2.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-3.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-4.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-5.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-6.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-7.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-8.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-9.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-10.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-11.avif
+  - /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-12.avif
 pubDate: 2023-05-09
 tags:
-- adventure
-- android
-- ios
-- mobile
-- puzzle
-- taptap
-- very-little-nightmares
+  - adventure
+  - android
+  - ios
+  - mobile
+  - puzzle
+  - taptap
+  - very-little-nightmares
 thumb: /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-0.avif
-title: An equally creepy and unique prequel that stands on its own | Full Review -
-  Very Little Nightmares+
-game: Very Little Nightmares
-gallery:
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-0.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-1.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-2.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-3.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-4.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-5.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-6.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-7.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-8.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-9.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-10.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-11.avif
-- /images/reviews/legacy/2023-05-09-an-equally-creepy-and-unique-prequel-that-stands-on-its-own--full-review---very-little-ni-12.avif
 ---
+
 Very Little Nightmares+
 
 lyndonguitar
@@ -44,22 +41,30 @@ Graphics & MusicGameplay
 Very Little Nightmares is a puzzle-platformer game developed by Alike Studio and published by Bandai Namco Entertainment. As a prequel to the popular horror game Little Nightmares, this game boasts a similar eerie and suspenseful atmosphere while providing an original, captivating storyline and gameplay that stands on its own.
 
 
-**Pros:**
 
 
-+Simple but challenging puzzle platformer mechanics
-
-+Surreal and unsettling creepy atmosphere
-
-+Haunting and atmospheric visuals and sound
+## Pros
 
 
-**Cons:**
+
+## +Simple but challenging puzzle platformer mechanics
+
+
+## +Surreal and unsettling creepy atmosphere
+
+
+## +Haunting and atmospheric visuals and sound
+
+
+
+
+## Cons
 
 
 -Touch control imperfections
 
-📝Notable points:
+
+## 📝Notable points:
 
 A short but substantial experience
 

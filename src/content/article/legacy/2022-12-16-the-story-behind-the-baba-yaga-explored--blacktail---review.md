@@ -1,39 +1,38 @@
 ---
 author: lyndonguitar
 category: Review
-description: Slavic fairy tales, good and evil, and a first person archery survival
-  adventure. The story behind the infamous Baba Yaga is explored in this new game
-  titled Blacktail. You play as the teenage girl Yaga, trying to find his twin sister
-  Zora and other children who have all gone missing.
-featured: false
-pubDate: 2022-12-16
-tags:
-- action
-- adventure
-- blacktail
-- console
-- pc
-- playstation
-- playstation 5
-- rpg
-- taptap
-- xbox series
-thumb: /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-0.avif
+slug: 2022-12-16-the-story-behind-the-baba-yaga-explored-blacktail-review
 title: The story behind the Baba Yaga explored | Blacktail - Review
 game: Blacktail
+description: Slavic fairy tales, good and evil, and a first person archery survival adventure. The story behind the infamous Baba Yaga is explored in this new game titled Blacktail. You play as the teenage girl Yaga, trying to find his twin sister Zora and other children who have all gone missing.
+featured: false
 gallery:
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-0.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-1.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-2.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-3.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-4.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-5.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-6.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-7.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-8.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-9.avif
-- /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-10.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-0.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-1.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-2.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-3.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-4.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-5.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-6.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-7.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-8.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-9.avif
+  - /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-10.avif
+pubDate: 2022-12-16
+tags:
+  - action
+  - adventure
+  - blacktail
+  - console
+  - pc
+  - playstation
+  - playstation-5
+  - rpg
+  - taptap
+  - xbox-series
+thumb: /images/reviews/legacy/2022-12-16-the-story-behind-the-baba-yaga-explored--blacktail---review-0.avif
 ---
+
 Slavic fairy tales, good and evil, and a first person archery survival adventure. The story behind the infamous Baba Yaga is explored in this new game titled Blacktail. You play as the teenage girl Yaga, trying to find his twin sister Zora and other children who have all gone missing.
 
 The story is narrated by our main character Yaga as it happens, in other words, at the time of occurrence, which is an interesting design choice. It definitely helped the developers to relay to us useful gameplay information without only using meta elements like text or UI prompts. This is clearly evident with the early parts of the game, especially the tutorial section, where Yaga frequently speaks to herself in order to assist the player and provide minor plot exposition.

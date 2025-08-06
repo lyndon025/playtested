@@ -1,55 +1,63 @@
 ---
 author: lyndonguitar
 category: Review
-description: The added Deluxe in the title does not really do the game’s title justice,
-  as Kirby's Return to Dream Land Deluxe is a full-on remake of the original game,
-  which was released for the Wii console back in 2011.
-featured: false
-pubDate: 2023-02-27
-tags:
-- console
-- kirbys-return-to-dream-land-deluxe
-- nintendo switch
-- platformer
-- taptap
-thumb: /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif
+slug: 2023-02-27-a-worthwhile-kirby-revisit-full-review-kirbys-return-to-dream-land-deluxe
 title: A worthwhile Kirby revisit | Full Review - Kirby's Return to Dream Land Deluxe
 game: Kirby’s Return to Dream Land Deluxe
+description: The added Deluxe in the title does not really do the game’s title justice, as Kirby's Return to Dream Land Deluxe is a full-on remake of the original game, which was released for the Wii console back in 2011.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-1.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-2.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-3.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-4.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-5.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-6.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-7.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-8.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-9.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-10.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-11.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-12.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-13.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-14.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-15.avif
-- /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-16.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-1.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-2.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-3.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-4.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-5.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-6.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-7.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-8.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-9.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-10.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-11.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-12.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-13.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-14.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-15.avif
+  - /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-16.avif
+pubDate: 2023-02-27
+tags:
+  - console
+  - kirbys-return-to-dream-land-deluxe
+  - nintendo-switch
+  - platformer
+  - taptap
+thumb: /images/reviews/legacy/2023-02-27-a-worthwhile-kirby-revisit--full-review---kirbys-return-to-dream-land-deluxe-0.avif
 ---
+
 The added Deluxe in the title does not really do the game’s title justice, as Kirby's Return to Dream Land Deluxe is a full-on remake of the original game, which was released for the Wii console back in 2011.
 
 
-**Pros:**
 
 
-+Accessible difficulty options, great for all ages
-
-+A fun platforming adventure
-
-+Local coop play up to 4 players
-
-+A plethora of fun coop minigames
+## Pros
 
 
-**Cons:**
+
+## +Accessible difficulty options, great for all ages
+
+
+## +A fun platforming adventure
+
+
+## +Local coop play up to 4 players
+
+
+## +A plethora of fun coop minigames
+
+
+
+
+## Cons
 
 
 -No online coop play

@@ -1,35 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: Cat Fantasy has recently rolled out a series of updates to keep players
-  engaged. More specifically, Cat Fantasy has extended its reach by launching a dedicated
-  server for Southeast Asian players. This means that gamers in Singapore, Malaysia,
-  Indonesia, Vietnam, Thailand, and the Philippines can now enjoy these brand new
-  servers. This change was rolled out last October 27.
+slug: 2023-08-25-sea-servers-now-up-a-narrative-driven-waifu-catgirl-adventure-review-cat-fantasy
+title: SEA servers now up! | A narrative-driven waifu catgirl adventure | Review - Cat Fantasy
+game: Cat Fantasy
+description: Cat Fantasy has recently rolled out a series of updates to keep players engaged. More specifically, Cat Fantasy has extended its reach by launching a dedicated server for Southeast Asian players. This means that gamers in Singapore, Malaysia, Indonesia, Vietnam, Thailand, and the Philippines can now enjoy these brand new servers. This change was rolled out last October 27.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-0.avif
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-1.avif
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-2.avif
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-3.avif
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-4.avif
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-5.avif
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-6.avif
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-7.avif
+  - /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-8.avif
 pubDate: 2023-08-25
 tags:
-- adventure
-- casual
-- cat-fantasy
-- indie
-- pc
-- taptap
+  - adventure
+  - casual
+  - cat-fantasy
+  - indie
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-0.avif
-title: SEA servers now up! | A narrative-driven waifu catgirl adventure | Review -
-  Cat Fantasy
-game: Cat Fantasy
-gallery:
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-0.avif
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-1.avif
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-2.avif
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-3.avif
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-4.avif
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-5.avif
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-6.avif
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-7.avif
-- /images/reviews/legacy/2023-08-25-sea-servers-now-up--a-narrative-driven-waifu-catgirl-adventure--review---cat-fantasy-8.avif
 ---
+
 Cat Fantasy:PHSEA
 --
 Strategy
@@ -46,7 +43,9 @@ After the update, players have received 50 Pathos Crystals and 500 Phantom Coins
 Cat Fantasy is a turn-based gacha RPG that immerses players in a world of catgirls known as Felines. Stepping into the shoes of a newly instated human inspector at StormEye, you are an investigation officer who is also assigned to manage a cafe named Cat of Baker Street. If this game feels familiar, it's worth noting that a version of it is also known as Cat Planet in the China region.
 
 
-**Pros:**
+
+
+## Pros
 - Appealing art style and waifu cat girls
 - Variety of Game modes, including a Cafe management element
 - A refreshing merging-based combat system
@@ -54,12 +53,15 @@ Cat Fantasy is a turn-based gacha RPG that immerses players in a world of catgir
 - Generous progression rates
 
 
-**Cons:**
+
+
+## Cons
 - Lengthy cutscenes, cannot skip individual lines of dialogue
 - Confusing card design for merge gameplay
 
 
-📝Notable points:
+
+## 📝Notable points:
 
 These pros and cons are based on Closed Beta Test done by August 2023 and does not accurately represent the quality of the finished product
 

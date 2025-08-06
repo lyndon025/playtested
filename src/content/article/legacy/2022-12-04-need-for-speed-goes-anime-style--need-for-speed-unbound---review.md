@@ -1,35 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Need for Speed is back, and it''s back in style. Its newest game, Need
-  for Speed: Unbound takes us to Lakeshore City. Here, street racing, drifting, and
-  NOS usage reign supreme, in which the local cops are actively trying to stop.'
-featured: false
-pubDate: 2022-12-04
-tags:
-- arcade
-- console
-- need-for-speed
-- pc
-- playstation
-- playstation 4
-- racing
-- taptap
-- xbox one
-thumb: /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-0.avif
+slug: 2022-12-04-need-for-speed-goes-anime-style-need-for-speed-unbound-review
 title: 'Need for Speed goes Anime style | Need for Speed: Unbound - Review'
 game: Need for Speed
+description: "Need for Speed is back, and it's back in style. Its newest game, Need for Speed: Unbound takes us to Lakeshore City. Here, street racing, drifting, and NOS usage reign supreme, in which the local cops are actively trying to stop."
+featured: false
 gallery:
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-0.avif
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-1.avif
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-2.avif
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-3.avif
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-4.avif
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-5.avif
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-6.avif
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-7.avif
-- /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-8.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-0.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-1.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-2.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-3.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-4.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-5.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-6.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-7.avif
+  - /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-8.avif
+pubDate: 2022-12-04
+tags:
+  - arcade
+  - console
+  - need-for-speed
+  - pc
+  - playstation
+  - playstation-4
+  - racing
+  - taptap
+  - xbox-one
+thumb: /images/reviews/legacy/2022-12-04-need-for-speed-goes-anime-style--need-for-speed-unbound---review-0.avif
 ---
+
 Need for Speed is back, and it's back in style. Its newest game, Need for Speed: Unbound takes us to Lakeshore City. Here, street racing, drifting, and NOS usage reign supreme, in which the local cops are actively trying to stop.
 
 The unnamed protagonist of the singleplayer campaign is a newcomer just as we are — the players, along with him are two supporting characters in Jasmine and Rydell, all eager to make a name for themselves. It all changes when the story switches gear from a kid in a new town to a cliche revenge story, serving as the main driver of the plot and an excuse for you to race around and climb to the top. It feels very much like Fast and Furious and I like it. Even the dialogue and all the radio banter from the police and other characters while racing.

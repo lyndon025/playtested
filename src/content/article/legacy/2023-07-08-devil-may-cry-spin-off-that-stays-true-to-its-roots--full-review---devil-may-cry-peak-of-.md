@@ -1,34 +1,32 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'lyndonguitar Get Devil May Cry: Peak of Combat is an upcoming free to
-  play mobile game entry in the Devil May Cry franchise, filled with the same hack
-  and slash gameplay style the series is known for, of course, sprinkled in with mobile
-  game mechanics such as gacha system and live service elements.'
+slug: 2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots-full-review-devil-may-cry-peak-of
+title: 'Devil May Cry spin-off that stays true to its roots | Full Review - Devil May Cry: Peak of Combat'
+game: 'Devil May Cry: Peak of Combat'
+description: 'lyndonguitar Get Devil May Cry: Peak of Combat is an upcoming free to play mobile game entry in the Devil May Cry franchise, filled with the same hack and slash gameplay style the series is known for, of course, sprinkled in with mobile game mechanics such as gacha system and live service elements.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--0.avif
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--1.avif
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--2.avif
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--3.avif
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--4.avif
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--5.avif
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--6.avif
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--7.avif
+  - /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--8.avif
 pubDate: 2023-07-08
 tags:
-- action
-- android
-- devil-may-cry-peak-of-combat
-- ios
-- mobile
-- taptap
+  - action
+  - android
+  - devil-may-cry-peak-of-combat
+  - ios
+  - mobile
+  - taptap
 thumb: /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--0.avif
-title: 'Devil May Cry spin-off that stays true to its roots | Full Review - Devil
-  May Cry: Peak of Combat'
-game: 'Devil May Cry: Peak of Combat'
-gallery:
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--0.avif
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--1.avif
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--2.avif
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--3.avif
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--4.avif
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--5.avif
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--6.avif
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--7.avif
-- /images/reviews/legacy/2023-07-08-devil-may-cry-spin-off-that-stays-true-to-its-roots--full-review---devil-may-cry-peak-of--8.avif
 ---
+
 Devil May Cry: Peak of CombatGlobal
 
 lyndonguitar
@@ -36,17 +34,24 @@ Get
 Devil May Cry: Peak of Combat is an upcoming free to play mobile game entry in the Devil May Cry franchise, filled with the same hack and slash gameplay style the series is known for, of course, sprinkled in with mobile game mechanics such as gacha system and live service elements.
 
 
-**Pros:**
 
 
-+Stays true to its hack and slash roots
-
-+Streamlined controls for mobile
-
-+Seamless character switching added to its combo system
+## Pros
 
 
-**Cons:**
+
+## +Stays true to its hack and slash roots
+
+
+## +Streamlined controls for mobile
+
+
+## +Seamless character switching added to its combo system
+
+
+
+
+## Cons
 
 
 -Fans of DMC may not appreciate the switch to the grindy gacha gaming formula

@@ -1,28 +1,27 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'The premise of Slenderman RE: Light Edition is that our main character,
-  the Dave Grohl-looking dude named Edward, is sort of a ghost-hunter. He stumbles
-  upon an abandoned building in the woods and comes across a supernatural experience.
-  With his trusty flashlight, he has to find a way out.'
-featured: false
-pubDate: 2023-03-23
-tags:
-- pc
-- slenderman-re-light-edition
-- taptap
-thumb: /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-0.avif
+slug: 2023-03-23-meet-slender-man-again-first-impressions-slenderman-re-light-edition
 title: 'Meet Slender Man again | First Impressions - Slenderman RE: Light Edition'
 game: 'Slenderman RE: Light Edition'
+description: 'The premise of Slenderman RE: Light Edition is that our main character, the Dave Grohl-looking dude named Edward, is sort of a ghost-hunter. He stumbles upon an abandoned building in the woods and comes across a supernatural experience. With his trusty flashlight, he has to find a way out.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-0.avif
-- /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-1.avif
-- /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-2.avif
-- /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-3.avif
-- /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-4.avif
-- /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-5.avif
-- /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-6.avif
+  - /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-0.avif
+  - /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-1.avif
+  - /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-2.avif
+  - /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-3.avif
+  - /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-4.avif
+  - /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-5.avif
+  - /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-6.avif
+pubDate: 2023-03-23
+tags:
+  - pc
+  - slenderman-re-light-edition
+  - taptap
+thumb: /images/reviews/legacy/2023-03-23-meet-slender-man-again--first-impressions---slenderman-re-light-edition-0.avif
 ---
+
 The premise of Slenderman RE: Light Edition is that our main character, the Dave Grohl-looking dude named Edward, is sort of a ghost-hunter. He stumbles upon an abandoned building in the woods and comes across a supernatural experience. With his trusty flashlight, he has to find a way out.
 
 The gameplay of Slenderman RE: Light Edition is about on par with the story. It’s very elementary and it’s almost like some young aspiring developer made it as a school demo or project.

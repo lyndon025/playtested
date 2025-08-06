@@ -1,27 +1,25 @@
 ---
 author: lyndonguitar
 category: Review
-description: Viewfinder is a first-person adventure game that offers players an extraordinary
-  experience of mind bending perceptions and reshaping the fabric of reality. The
-  game introduces players to a world where photography becomes their key to manipulating
-  the environment, solving puzzles, and finding answers to solving an impossible question.
+slug: 2023-07-21-reshaping-the-fabric-of-reality-using-photographs-and-drawings-first-impressions-viewf
+title: Reshaping the fabric of reality using photographs and drawings | First Impressions - Viewfinder
+game: Viewfinder
+description: Viewfinder is a first-person adventure game that offers players an extraordinary experience of mind bending perceptions and reshaping the fabric of reality. The game introduces players to a world where photography becomes their key to manipulating the environment, solving puzzles, and finding answers to solving an impossible question.
 featured: false
 pubDate: 2023-07-21
 tags:
-- adventure
-- console
-- indie
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- viewfinder
+  - adventure
+  - console
+  - indie
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - viewfinder
 thumb: ''
-title: Reshaping the fabric of reality using photographs and drawings | First Impressions
-  - Viewfinder
-game: Viewfinder
 ---
+
 Viewfinder is a first-person adventure game that offers players an extraordinary experience of mind bending perceptions and reshaping the fabric of reality. The game introduces players to a world where photography becomes their key to manipulating the environment, solving puzzles, and finding answers to solving an impossible question.
 
 Viewfinder's gameplay revolves around the use of photographs and related tools that empowers players to reshape the environment by bringing photographs, sketches, paintings, and other visuals into life. The core mechanic is easy to grasp, making it accessible to players of all skill levels.

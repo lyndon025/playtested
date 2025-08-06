@@ -1,38 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'From the makers of the amazing Warhammer: Vermintide series comes another
-  game, now set 40,000 years into the future: Warhammer 40,000: Darktide. This only
-  means stuff like Guns and Chainswords are now available in your arsenal. The gameplay
-  style that started with Left 4 Dead, the first person melee combat perfected by
-  Vermintide, is now circling back to using guns again with Darktide.'
+slug: 2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends-warhammer-40000-darktide-review
+title: 'Shoot and smash the hordes of chaos with friends | Warhammer 40,000: Darktide Review'
+game: 'Warhammer 40,000: Darktide'
+description: 'From the makers of the amazing Warhammer: Vermintide series comes another game, now set 40,000 years into the future: Warhammer 40,000: Darktide. This only means stuff like Guns and Chainswords are now available in your arsenal. The gameplay style that started with Left 4 Dead, the first person melee combat perfected by Vermintide, is now circling back to using guns again with Darktide.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-0.avif
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-1.avif
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-2.avif
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-3.avif
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-4.avif
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-5.avif
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-6.avif
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-7.avif
+  - /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-8.avif
 pubDate: 2022-12-01
 tags:
-- action
-- adventure
-- indie
-- pc
-- racing
-- shooter
-- taptap
-- warhammer-40000-darktide
-- xbox series
+  - action
+  - adventure
+  - indie
+  - pc
+  - racing
+  - shooter
+  - taptap
+  - warhammer-40000-darktide
+  - xbox-series
 thumb: /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-0.avif
-title: 'Shoot and smash the hordes of chaos with friends | Warhammer 40,000: Darktide
-  Review'
-game: 'Warhammer 40,000: Darktide'
-gallery:
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-0.avif
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-1.avif
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-2.avif
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-3.avif
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-4.avif
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-5.avif
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-6.avif
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-7.avif
-- /images/reviews/legacy/2022-12-01-shoot-and-smash-the-hordes-of-chaos-with-friends--warhammer-40000-darktide-review-8.avif
 ---
+
 From the makers of the amazing Warhammer: Vermintide series comes another game, now set 40,000 years into the future: Warhammer 40,000: Darktide. This only means stuff like Guns and Chainswords are now available in your arsenal. The gameplay style that started with Left 4 Dead, the first person melee combat perfected by Vermintide, is now circling back to using guns again with Darktide.
 
 Right off the bat I’m gonna say that Darktide feels like a reskin of Vermintide, and that’s not a bad thing. The Vermintide series is phenomenal and “porting” it to the 40k universe was pretty much expected as soon as the Vermintide series took off..

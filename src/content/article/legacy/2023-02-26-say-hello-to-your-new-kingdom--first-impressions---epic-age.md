@@ -1,31 +1,30 @@
 ---
 author: lyndonguitar
 category: Review
-description: Epic Age is a strategy / civilization management game set in the middle
-  ages, but pools over heroes and civilizations from all across history in an ultimate
-  strategy showdown that features heroes such as Leonidas, Spartacus, Alexander the
-  Great; and civilizations like Persians, Egyptians, Romans, and many more
-featured: false
-pubDate: 2023-02-26
-tags:
-- epic-age
-- ios
-- mobile
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-0.avif
+slug: 2023-02-26-say-hello-to-your-new-kingdom-first-impressions-epic-age
 title: Say hello to your new kingdom | First Impressions - Epic Age
 game: Epic Age
+description: Epic Age is a strategy / civilization management game set in the middle ages, but pools over heroes and civilizations from all across history in an ultimate strategy showdown that features heroes such as Leonidas, Spartacus, Alexander the Great; and civilizations like Persians, Egyptians, Romans, and many more
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-0.avif
-- /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-1.avif
-- /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-2.avif
-- /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-3.avif
-- /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-4.avif
-- /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-5.avif
-- /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-6.avif
+  - /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-0.avif
+  - /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-1.avif
+  - /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-2.avif
+  - /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-3.avif
+  - /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-4.avif
+  - /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-5.avif
+  - /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-6.avif
+pubDate: 2023-02-26
+tags:
+  - epic-age
+  - ios
+  - mobile
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-02-26-say-hello-to-your-new-kingdom--first-impressions---epic-age-0.avif
 ---
+
 Epic Age is a strategy / civilization management game set in the middle ages, but pools over heroes and civilizations from all across history in an ultimate strategy showdown that features heroes such as Leonidas, Spartacus, Alexander the Great; and civilizations like Persians, Egyptians, Romans, and many more
 
 Epic Age is played on a hexagonal grid, with the player's civilization starting with a single city and one battle group called “squads”. From there, the player must build up their kingdom’s infrastructure, expand their territory, and advance their technologies and culture to become a dominant power. The various structures and buildings take different amounts of real-world time to construct and upgrade.

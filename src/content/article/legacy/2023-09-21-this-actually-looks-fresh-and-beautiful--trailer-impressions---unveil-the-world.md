@@ -1,30 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: unVEIL the world is a tactical hero summoning RPG that immerses players
-  in an epic narrative centered around a massive tower. Within this colossal tower
-  is where the characters take on formidable challenges. As players venture deeper,
-  they unravel the mysteries of a world only accessible to those who dare to enter.
+slug: 2023-09-21-this-actually-looks-fresh-and-beautiful-trailer-impressions-unveil-the-world
+title: This actually looks fresh and beautiful | Trailer Impressions - unVEIL the world
+game: Trailer Impressions - unVEIL the world
+description: unVEIL the world is a tactical hero summoning RPG that immerses players in an epic narrative centered around a massive tower. Within this colossal tower is where the characters take on formidable challenges. As players venture deeper, they unravel the mysteries of a world only accessible to those who dare to enter.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-09-21-this-actually-looks-fresh-and-beautiful--trailer-impressions---unveil-the-world-0.avif
+  - /images/reviews/legacy/2023-09-21-this-actually-looks-fresh-and-beautiful--trailer-impressions---unveil-the-world-1.avif
+  - /images/reviews/legacy/2023-09-21-this-actually-looks-fresh-and-beautiful--trailer-impressions---unveil-the-world-2.avif
 pubDate: 2023-09-21
 tags:
-- android
-- linux
-- macos
-- mobile
-- pc
-- simulation
-- taptap
-- trailer-impressions-unveil-the-world
+  - android
+  - linux
+  - macos
+  - mobile
+  - pc
+  - simulation
+  - taptap
+  - trailer-impressions-unveil-the-world
 thumb: /images/reviews/legacy/2023-09-21-this-actually-looks-fresh-and-beautiful--trailer-impressions---unveil-the-world-0.avif
-title: This actually looks fresh and beautiful | Trailer Impressions - unVEIL the
-  world
-game: Trailer Impressions - unVEIL the world
-gallery:
-- /images/reviews/legacy/2023-09-21-this-actually-looks-fresh-and-beautiful--trailer-impressions---unveil-the-world-0.avif
-- /images/reviews/legacy/2023-09-21-this-actually-looks-fresh-and-beautiful--trailer-impressions---unveil-the-world-1.avif
-- /images/reviews/legacy/2023-09-21-this-actually-looks-fresh-and-beautiful--trailer-impressions---unveil-the-world-2.avif
 ---
+
 unVEIL the world is a tactical hero summoning RPG that immerses players in an epic narrative centered around a massive tower. Within this colossal tower is where the characters take on formidable challenges. As players venture deeper, they unravel the mysteries of a world only accessible to those who dare to enter.
 
 The renowned manga artist and illustrator Posuka Demizu, known for "The Promised Neverland," has lent her artistic talents to the game's character designs, adding a unique and visually captivating element. The protagonist, Yuta Lassica, takes center stage in this intriguing premise.

@@ -1,30 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'In PAYDAY: Crime War, you are in a squad of bank robbers and you have
-  to perform heists such as robbing banks or jewelry stores to progress throughout
-  this fun cooperative FPS game. You can either do it silently or face the wrath of
-  endless cop raids while trying to steal and escape.'
-featured: false
-pubDate: 2023-02-26
-tags:
-- action
-- ios
-- mobile
-- payday-crime-war
-- rpg
-- taptap
-thumb: /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-0.avif
+slug: 2023-02-26-payday-is-now-back-soon-on-mobile-first-impressions-payday-crime-war
 title: 'PAYDAY is now back soon on mobile! | First Impressions - PAYDAY: Crime War'
 game: 'PAYDAY: Crime War'
+description: 'In PAYDAY: Crime War, you are in a squad of bank robbers and you have to perform heists such as robbing banks or jewelry stores to progress throughout this fun cooperative FPS game. You can either do it silently or face the wrath of endless cop raids while trying to steal and escape.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-0.avif
-- /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-1.avif
-- /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-2.avif
-- /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-3.avif
-- /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-4.avif
-- /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-5.avif
+  - /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-0.avif
+  - /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-1.avif
+  - /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-2.avif
+  - /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-3.avif
+  - /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-4.avif
+  - /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-5.avif
+pubDate: 2023-02-26
+tags:
+  - action
+  - ios
+  - mobile
+  - payday-crime-war
+  - rpg
+  - taptap
+thumb: /images/reviews/legacy/2023-02-26-payday-is-now-back-soon-on-mobile--first-impressions---payday-crime-war-0.avif
 ---
+
 In PAYDAY: Crime War, you are in a squad of bank robbers and you have to perform heists such as robbing banks or jewelry stores to progress throughout this fun cooperative FPS game. You can either do it silently or face the wrath of endless cop raids while trying to steal and escape.
 
 PAYDAY: Crime War has been updated to focus entirely on PvE cooperative gameplay, similar to the original Payday games like Payday: The Heist. This means that the PvP game mode has been entirely removed, and players can only work together to complete heists and missions against AI civilians, guards, and police.

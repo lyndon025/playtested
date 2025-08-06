@@ -1,24 +1,22 @@
 ---
 author: lyndonguitar
 category: Review
-description: As a contracted worker for a mysterious space-faring company, players
-  are tasked with scavenging random scrap from abandoned, industrialized moons.  This
-  is you and your friends in Lethal Company, a first-person survival co-op game with
-  a unique combination of survival, cooperation, and resource management
+slug: 2023-11-23-do-we-have-another-early-access-gem-on-our-hands-first-impressions-lethal-company
+title: Do we have another Early Access gem on our hands? | First Impressions - Lethal Company
+game: Lethal Company
+description: As a contracted worker for a mysterious space-faring company, players are tasked with scavenging random scrap from abandoned, industrialized moons.  This is you and your friends in Lethal Company, a first-person survival co-op game with a unique combination of survival, cooperation, and resource management
 featured: false
 pubDate: 2023-11-23
 tags:
-- action
-- adventure
-- indie
-- lethal-company
-- pc
-- taptap
+  - action
+  - adventure
+  - indie
+  - lethal-company
+  - pc
+  - taptap
 thumb: ''
-title: Do we have another Early Access gem on our hands? | First Impressions - Lethal
-  Company
-game: Lethal Company
 ---
+
 As a contracted worker for a mysterious space-faring company, players are tasked with scavenging random scrap from abandoned, industrialized moons.  This is you and your friends in Lethal Company, a first-person survival co-op game with a unique combination of survival, cooperation, and resource management
 
 Lethal Company's gameplay is a carefully orchestrated dance of survival, cooperation, and calculated risk-taking. The core objective of the game is to meet profit quotas within a limited timeframe by collecting random scrap from moons. Players can land on a chosen moon once a day, and after the third day, you must meet the required item value quota or suffer disciplinary action.

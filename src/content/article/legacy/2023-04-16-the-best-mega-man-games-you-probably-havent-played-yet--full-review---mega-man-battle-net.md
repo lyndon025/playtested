@@ -1,56 +1,64 @@
 ---
 author: lyndonguitar
 category: Review
-description: Mega Man Battle Network Legacy Collection is a bundle of unconventional
-  RPG-style Mega Man games set in a separate universe from the main Mega Man stories.
+slug: 2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet-full-review-mega-man-battle-net
+title: The best Mega Man games you probably haven’t played yet | Full Review - Mega Man Battle Network
+game: Mega Man Battle Network
+description: Mega Man Battle Network Legacy Collection is a bundle of unconventional RPG-style Mega Man games set in a separate universe from the main Mega Man stories.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-1.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-2.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-3.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-4.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-5.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-6.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-7.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-8.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-9.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-10.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-11.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-12.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-13.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-14.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-15.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-16.avif
+  - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-17.avif
 pubDate: 2023-04-16
 tags:
-- action
-- game boy advance
-- mega-man-battle-network
-- rpg
-- taptap
+  - action
+  - game-boy-advance
+  - mega-man-battle-network
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif
-title: The best Mega Man games you probably haven’t played yet | Full Review - Mega
-  Man Battle Network
-game: Mega Man Battle Network
-gallery:
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-1.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-2.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-3.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-4.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-5.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-6.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-7.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-8.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-9.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-10.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-11.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-12.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-13.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-14.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-15.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-16.avif
-- /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-17.avif
 ---
+
 Mega Man Battle Network Legacy Collection is a bundle of unconventional RPG-style Mega Man games set in a separate universe from the main Mega Man stories.
 
 
-**Pros:**
 
 
-+Unique gameplay mechanics, especially the combat
-
-+An unconventional but refreshing take on the Mega Man series, even for today's standards
-
-+Six main games resulting into 10 total titles in one bundle
-
-+Added new features like an HD filter, multiplayer, and artwork gallery
+## Pros
 
 
-**Cons:**
+
+## +Unique gameplay mechanics, especially the combat
+
+
+## +An unconventional but refreshing take on the Mega Man series, even for today's standards
+
+
+## +Six main games resulting into 10 total titles in one bundle
+
+
+## +Added new features like an HD filter, multiplayer, and artwork gallery
+
+
+
+
+## Cons
 
 
 -Even if it is a grand compilation, the price is asking a lot for a nearly 20 year old retro game series

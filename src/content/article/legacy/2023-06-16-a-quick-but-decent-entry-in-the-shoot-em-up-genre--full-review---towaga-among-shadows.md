@@ -1,57 +1,63 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Towaga: Among Shadows Set in a mysterious and dark Aztec-inspired world,
-  Towaga: Among Shadows places players in the role of Chimu, a masked protagonist
-  with supernatural powers, tasked with defending the sacred Temple of Towaga from
-  relentless hordes of shadow creatures.'
+slug: 2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre-full-review-towaga-among-shadows
+title: A quick but decent entry in the shoot 'em up genre | Full Review - Towaga Among Shadows
+game: 'Towaga: Among Shadows'
+description: 'Towaga: Among Shadows Set in a mysterious and dark Aztec-inspired world, Towaga: Among Shadows places players in the role of Chimu, a masked protagonist with supernatural powers, tasked with defending the sacred Temple of Towaga from relentless hordes of shadow creatures.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-0.avif
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-1.avif
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-2.avif
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-3.avif
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-4.avif
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-5.avif
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-6.avif
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-7.avif
+  - /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-8.avif
 pubDate: 2023-06-16
 tags:
-- action
-- console
-- ios
-- mobile
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- shooter
-- taptap
-- towaga-among-shadows
-- xbox one
+  - action
+  - console
+  - ios
+  - mobile
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - shooter
+  - taptap
+  - towaga-among-shadows
+  - xbox-one
 thumb: /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-0.avif
-title: A quick but decent entry in the shoot 'em up genre | Full Review - Towaga Among
-  Shadows
-game: 'Towaga: Among Shadows'
-gallery:
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-0.avif
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-1.avif
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-2.avif
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-3.avif
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-4.avif
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-5.avif
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-6.avif
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-7.avif
-- /images/reviews/legacy/2023-06-16-a-quick-but-decent-entry-in-the-shoot-em-up-genre--full-review---towaga-among-shadows-8.avif
 ---
+
 Towaga: Among Shadows
 Set in a mysterious and dark Aztec-inspired world, Towaga: Among Shadows places players in the role of Chimu, a masked protagonist with supernatural powers, tasked with defending the sacred Temple of Towaga from relentless hordes of shadow creatures.
 
 
-**Pros:**
 
 
-+unique art style
-
-+simple controls but a challenging gameplay
-
-+controller support
-
-+extra game modes like versus multiplayer
+## Pros
 
 
-**Cons:**
+
+## +unique art style
+
+
+## +simple controls but a challenging gameplay
+
+
+## +controller support
+
+
+## +extra game modes like versus multiplayer
+
+
+
+
+## Cons
 
 
 -game is very short

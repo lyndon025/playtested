@@ -1,46 +1,49 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Slenderman RE: Light Edition is an adventure horror mobile game based
-  on the Slender Man supernatural character. It is played in first person view and
-  plays like an adventure game where you are to interact with the environment in order
-  to progress.'
+slug: 2023-03-24-yet-another-uninspired-slender-man-experience-full-review-slenderman-re-light-edition
+title: 'Yet another uninspired Slender Man experience | Full Review - Slenderman RE: Light Edition'
+game: 'Slenderman RE: Light Edition'
+description: 'Slenderman RE: Light Edition is an adventure horror mobile game based on the Slender Man supernatural character. It is played in first person view and plays like an adventure game where you are to interact with the environment in order to progress.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-0.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-1.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-2.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-3.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-4.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-5.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-6.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-7.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-8.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-9.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-10.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-11.avif
+  - /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-12.avif
 pubDate: 2023-03-24
 tags:
-- mobile
-- pc
-- slenderman-re-light-edition
-- taptap
+  - mobile
+  - pc
+  - slenderman-re-light-edition
+  - taptap
 thumb: /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-0.avif
-title: 'Yet another uninspired Slender Man experience | Full Review - Slenderman RE:
-  Light Edition'
-game: 'Slenderman RE: Light Edition'
-gallery:
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-0.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-1.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-2.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-3.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-4.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-5.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-6.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-7.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-8.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-9.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-10.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-11.avif
-- /images/reviews/legacy/2023-03-24-yet-another-uninspired-slender-man-experience--full-review---slenderman-re-light-edition-12.avif
 ---
+
 Slenderman RE: Light Edition is an adventure horror mobile game based on the Slender Man supernatural character. It is played in first person view and plays like an adventure game where you are to interact with the environment in order to progress.
 
 
-**Pros:**
 
 
-+scary atmosphere
+## Pros
 
 
-**Cons:**
+
+## +scary atmosphere
+
+
+
+
+## Cons
 
 
 -non-existent story

@@ -1,52 +1,50 @@
 ---
 author: lyndonguitar
 category: Review
-description: lyndonguitar Get LIMBO is a puzzle-platformer game with simple controls,
-  minimalistic visuals, and a depressing tone. Developed by Playdead that was first
-  released in 2010. It has since been ported to various platforms, such as iOS back
-  in 2021.
+slug: 2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now-full-review-limbo
+title: If you’ve somehow missed this puzzle-platformer gem, go play it now | Full Review - LIMBO+
+game: Limbo
+description: lyndonguitar Get LIMBO is a puzzle-platformer game with simple controls, minimalistic visuals, and a depressing tone. Developed by Playdead that was first released in 2010. It has since been ported to various platforms, such as iOS back in 2021.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-0.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-1.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-2.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-3.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-4.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-5.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-6.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-7.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-8.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-9.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-10.avif
+  - /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-11.avif
 pubDate: 2023-05-08
 tags:
-- action
-- adventure
-- android
-- console
-- indie
-- ios
-- limbo
-- linux
-- macos
-- mobile
-- nintendo switch
-- pc
-- platformer
-- playstation
-- playstation 3
-- playstation 4
-- ps vita
-- puzzle
-- taptap
-- xbox 360
-- xbox one
+  - action
+  - adventure
+  - android
+  - console
+  - indie
+  - ios
+  - limbo
+  - linux
+  - macos
+  - mobile
+  - nintendo-switch
+  - pc
+  - platformer
+  - playstation
+  - playstation-3
+  - playstation-4
+  - ps-vita
+  - puzzle
+  - taptap
+  - xbox-360
+  - xbox-one
 thumb: /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-0.avif
-title: If you’ve somehow missed this puzzle-platformer gem, go play it now | Full
-  Review - LIMBO+
-game: Limbo
-gallery:
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-0.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-1.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-2.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-3.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-4.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-5.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-6.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-7.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-8.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-9.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-10.avif
-- /images/reviews/legacy/2023-05-08-if-youve-somehow-missed-this-puzzle-platformer-gem-go-play-it-now--full-review---limbo-11.avif
 ---
+
 LIMBO+
 
 lyndonguitar
@@ -54,17 +52,24 @@ Get
 LIMBO is a puzzle-platformer game with simple controls, minimalistic visuals, and a depressing tone. Developed by Playdead that was first released in 2010. It has since been ported to various platforms, such as iOS back in 2021.
 
 
-**Pros:**
 
 
-+minimalistic platformer gameplay experience.
-
-+depressing monochromatic visuals
-
-+haunting soundtrack equally as depressing as the visuals
+## Pros
 
 
-**Cons:**
+
+## +minimalistic platformer gameplay experience.
+
+
+## +depressing monochromatic visuals
+
+
+## +haunting soundtrack equally as depressing as the visuals
+
+
+
+
+## Cons
 
 
 -controls is hard to control sometimes

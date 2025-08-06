@@ -1,33 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
+slug: 2023-04-26-this-game-is-as-charming-as-it-is-challenging-early-access-review-ogu-and-the-secret-f
+title: This game is as charming as it is challenging | Early Access Review - Ogu and the Secret Forest
+game: Early Access Review - Ogu and the Secret Forest
 description: Ogu and the Secret Forest 9.1 Adventure Healing Test
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-0.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-1.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-2.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-3.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-4.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-5.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-6.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-7.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-8.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-9.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-10.avif
+  - /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-11.avif
 pubDate: 2023-04-26
 tags:
-- early-access-review-ogu-and-the-secret-forest
-- mobile
-- pc
-- puzzle
-- taptap
+  - early-access-review-ogu-and-the-secret-forest
+  - mobile
+  - pc
+  - puzzle
+  - taptap
 thumb: /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-0.avif
-title: This game is as charming as it is challenging | Early Access Review - Ogu and
-  the Secret Forest
-game: Early Access Review - Ogu and the Secret Forest
-gallery:
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-0.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-1.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-2.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-3.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-4.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-5.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-6.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-7.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-8.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-9.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-10.avif
-- /images/reviews/legacy/2023-04-26-this-game-is-as-charming-as-it-is-challenging--early-access-review---ogu-and-the-secret-f-11.avif
 ---
+
 Ogu and the Secret Forest
 
 lyndonguitar
@@ -42,22 +43,30 @@ Test
 Ogu and the Secret Forest is an action-adventure game with charming 2d graphics and art style. It has been recently released for PC and mobile platforms.
 
 
-**Pros:**
 
 
-+Charming and cute characters
-
-+Unique and familiar challenging puzzles to solve
-
-+Controller Support
+## Pros
 
 
-**Cons:**
+
+## +Charming and cute characters
+
+
+## +Unique and familiar challenging puzzles to solve
+
+
+## +Controller Support
+
+
+
+
+## Cons
 
 
 -Rudimentary combat system
 
-📝Notable points:
+
+## 📝Notable points:
 
 Still in Early Access
 

@@ -1,39 +1,36 @@
 ---
 author: lyndonguitar
 category: Review
-description: Vampire Survivors is a 2D survival rogue-lite game that is completely
-  playable with just one hand. Players just need to control the character’s movements,
-  and that’s the whole control scheme of the game. The player character automatically
-  attacks and defends itself against waves of waves of monsters and have to survive
-  as long as they can, usually up to 20 to 30 minutes.
+slug: 2023-03-17-a-perfect-example-of-graphics-doesnt-matter-first-impressions-vampire-survivors
+title: A perfect example of graphics doesn’t matter | First Impressions - Vampire Survivors
+game: Vampire Survivors
+description: Vampire Survivors is a 2D survival rogue-lite game that is completely playable with just one hand. Players just need to control the character’s movements, and that’s the whole control scheme of the game. The player character automatically attacks and defends itself against waves of waves of monsters and have to survive as long as they can, usually up to 20 to 30 minutes.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-0.avif
+  - /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-1.avif
+  - /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-2.avif
+  - /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-3.avif
+  - /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-4.avif
+  - /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-5.avif
 pubDate: 2023-03-17
 tags:
-- action
-- android
-- casual
-- console
-- indie
-- ios
-- nintendo switch
-- pc
-- rpg
-- taptap
-- vampire-survivors
-- web
-- xbox one
+  - action
+  - android
+  - casual
+  - console
+  - indie
+  - ios
+  - nintendo-switch
+  - pc
+  - rpg
+  - taptap
+  - vampire-survivors
+  - web
+  - xbox-one
 thumb: /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-0.avif
-title: A perfect example of graphics doesn’t matter | First Impressions - Vampire
-  Survivors
-game: Vampire Survivors
-gallery:
-- /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-0.avif
-- /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-1.avif
-- /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-2.avif
-- /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-3.avif
-- /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-4.avif
-- /images/reviews/legacy/2023-03-17-a-perfect-example-of-graphics-doesnt-matter--first-impressions---vampire-survivors-5.avif
 ---
+
 Vampire Survivors is a 2D survival rogue-lite game that is completely playable with just one hand. Players just need to control the character’s movements, and that’s the whole control scheme of the game. The player character automatically attacks and defends itself against waves of waves of monsters and have to survive as long as they can, usually up to 20 to 30 minutes.
 
 There is no story or background to it and it instead takes the players straight right into the action. Vampire Survivors may seem like an extremely simple game with its retro 2D graphics that look like it came from the NES era but it’s not, it’s deep, engaging, and challenging enough that it can be highly addicting, especially with the low effort required to keep playing. I can effectively classify it as a brain dead game, in a positive manner.

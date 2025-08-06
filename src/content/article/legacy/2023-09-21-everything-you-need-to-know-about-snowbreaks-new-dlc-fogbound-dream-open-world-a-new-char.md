@@ -1,31 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Fogbound Dream is the second and newest DLC for Snowbreak: Containment
-  Zone, a popular 3D sci-fi third-person shooter game where players navigate the mysterious  ‘containment
-  zone’ with a squad of waifu heroes equipped with diverse skills, gun types, and
-  abilities. Fogbound Dream is set to be the game’s biggest update yet with a plethora
-  of new content and events coinciding with TGS 2023 starting this September 21st.'
+slug: 2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char
+title: 'Everything you need to know about Snowbreak’s new DLC: Fogbound Dream (Open-world? A new character?)'
+game: world? A new character?)
+description: 'Fogbound Dream is the second and newest DLC for Snowbreak: Containment Zone, a popular 3D sci-fi third-person shooter game where players navigate the mysterious  ‘containment zone’ with a squad of waifu heroes equipped with diverse skills, gun types, and abilities. Fogbound Dream is set to be the game’s biggest update yet with a plethora of new content and events coinciding with TGS 2023 starting this September 21st.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-0.avif
+  - /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-1.avif
+  - /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-2.avif
+  - /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-3.avif
+  - /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-4.avif
+  - /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-5.avif
 pubDate: 2023-09-21
 tags:
-- indie
-- pc
-- strategy
-- taptap
-- world-a-new-character
+  - indie
+  - pc
+  - strategy
+  - taptap
+  - world-a-new-character
 thumb: /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-0.avif
-title: 'Everything you need to know about Snowbreak’s new DLC: Fogbound Dream (Open-world?
-  A new character?)'
-game: world? A new character?)
-gallery:
-- /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-0.avif
-- /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-1.avif
-- /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-2.avif
-- /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-3.avif
-- /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-4.avif
-- /images/reviews/legacy/2023-09-21-everything-you-need-to-know-about-snowbreaks-new-dlc-fogbound-dream-open-world-a-new-char-5.avif
 ---
+
 Fogbound Dream is the second and newest DLC for Snowbreak: Containment Zone, a popular 3D sci-fi third-person shooter game where players navigate the mysterious  ‘containment zone’ with a squad of waifu heroes equipped with diverse skills, gun types, and abilities. Fogbound Dream is set to be the game’s biggest update yet with a plethora of new content and events coinciding with TGS 2023 starting this September 21st.
 
 Tokyo Game Show 2023 Participation
@@ -36,9 +33,11 @@ To celebrate the DLC's release, Snowbreak will participate in the Tokyo Game Sho
 
 Snowbreak will participate in the Tokyo Game Show 2023
 
-"Fogbound Dream" Main Storyline
 
-"Fogbound Dream" Main Storyline
+## "Fogbound Dream" Main Storyline
+
+
+## "Fogbound Dream" Main Storyline
 
 The heart of this DLC is the addition of an entirely new main storyline titled "Fogbound Dream." This 11th chapter promises a gripping narrative as players join operatives on a covert mission to unravel the mysteries within the enigmatic Fifth Research Institute.
 

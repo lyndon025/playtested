@@ -1,63 +1,72 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Digimon World: Next Order is the much needed spiritual successor to
-  the original Digimon World and its remake, Digimon World Re: Digitize.'
+slug: 2023-02-23-one-of-the-best-digimon-games-to-exist-full-review-digimon-world-next-order
+title: 'One of the best Digimon games to exist | Full Review - Digimon World: Next Order'
+game: 'Digimon World: Next Order'
+description: 'Digimon World: Next Order is the much needed spiritual successor to the original Digimon World and its remake, Digimon World Re: Digitize.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-0.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-1.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-2.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-3.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-4.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-5.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-6.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-7.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-8.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-9.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-10.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-11.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-12.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-13.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-14.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-15.avif
+  - /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-16.avif
 pubDate: 2023-02-23
 tags:
-- console
-- digimon-world-next-order
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- ps vita
-- rpg
-- taptap
+  - console
+  - digimon-world-next-order
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - ps-vita
+  - rpg
+  - taptap
 thumb: /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-0.avif
-title: 'One of the best Digimon games to exist | Full Review - Digimon World: Next
-  Order'
-game: 'Digimon World: Next Order'
-gallery:
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-0.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-1.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-2.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-3.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-4.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-5.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-6.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-7.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-8.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-9.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-10.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-11.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-12.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-13.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-14.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-15.avif
-- /images/reviews/legacy/2023-02-23-one-of-the-best-digimon-games-to-exist--full-review---digimon-world-next-order-16.avif
 ---
+
 Digimon World: Next Order is the much needed spiritual successor to the original Digimon World and its remake, Digimon World Re: Digitize.
 
 It’s not exactly a new title, but due to platform availability, I haven’t had the chance to play it yet until now , as the game has now been recently ported and released to the Nintendo Switch and PC platforms.
 
 
-**Pros:**
 
 
-+Goes back to the original Digimon World formula
-
-+Graphics have aged well
-
-+Smooth performance
-
-+Engaging combat system
-
-+Satisfying gameplay loop
+## Pros
 
 
-**Cons:**
+
+## +Goes back to the original Digimon World formula
+
+
+## +Graphics have aged well
+
+
+## +Smooth performance
+
+
+## +Engaging combat system
+
+
+## +Satisfying gameplay loop
+
+
+
+
+## Cons
 
 
 -Lack of PC graphics options

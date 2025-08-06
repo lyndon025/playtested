@@ -1,35 +1,33 @@
 ---
 author: lyndonguitar
 category: Review
-description: Participate in diplomacy, combat, research, and empire management gameplay
-  to create a deeply immersive and strategic role-playing gameplay. With updated graphics
-  and refined gameplay mechanics, Age of Wonders 4 promises to be a worthy successor
-  to the critically acclaimed Age of Wonders III, offering players even more depth,
-  complexity, and replay value than ever before.
-featured: false
-pubDate: 2023-05-05
-tags:
-- age-of-wonders-4
-- console
-- pc
-- playstation
-- playstation 5
-- strategy
-- taptap
-- xbox series
-thumb: /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-0.avif
+slug: 2023-05-05-a-deeply-fantasy-strategy-experience-first-impressions-age-of-wonders-4
 title: A deeply fantasy strategy experience | First Impressions - Age of Wonders 4
 game: Age of Wonders 4
+description: Participate in diplomacy, combat, research, and empire management gameplay to create a deeply immersive and strategic role-playing gameplay. With updated graphics and refined gameplay mechanics, Age of Wonders 4 promises to be a worthy successor to the critically acclaimed Age of Wonders III, offering players even more depth, complexity, and replay value than ever before.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-0.avif
-- /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-1.avif
-- /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-2.avif
-- /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-3.avif
-- /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-4.avif
-- /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-5.avif
-- /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-6.avif
-- /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-7.avif
+  - /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-0.avif
+  - /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-1.avif
+  - /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-2.avif
+  - /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-3.avif
+  - /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-4.avif
+  - /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-5.avif
+  - /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-6.avif
+  - /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-7.avif
+pubDate: 2023-05-05
+tags:
+  - age-of-wonders-4
+  - console
+  - pc
+  - playstation
+  - playstation-5
+  - strategy
+  - taptap
+  - xbox-series
+thumb: /images/reviews/legacy/2023-05-05-a-deeply-fantasy-strategy-experience--first-impressions---age-of-wonders-4-0.avif
 ---
+
 Age of Wonders 4
 9.7
 Strategy

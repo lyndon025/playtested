@@ -1,28 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: The Tokyo Game Show, known for its greatest and the latest in gaming
-  announcements, will be the stage where Snowbreak’s newest and biggest DLC takes
-  spotlight.
+slug: 2023-09-21-new-dlc-for-snowbreak-containment-zone-announced-with-participation-at-tgs-2023
+title: 'New DLC for Snowbreak: Containment Zone announced with participation at TGS 2023'
+game: Containment Zone announced with participation at TGS 2023
+description: The Tokyo Game Show, known for its greatest and the latest in gaming announcements, will be the stage where Snowbreak’s newest and biggest DLC takes spotlight.
 featured: false
 pubDate: 2023-09-21
 tags:
-- action
-- adventure
-- containment-zone-announced-with-participation-at-tgs-2023
-- pc
-- rpg
-- taptap
+  - action
+  - adventure
+  - containment-zone-announced-with-participation-at-tgs-2023
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: 'New DLC for Snowbreak: Containment Zone announced with participation at TGS
-  2023'
-game: Containment Zone announced with participation at TGS 2023
 ---
+
 The Tokyo Game Show, known for its greatest and the latest in gaming announcements, will be the stage where Snowbreak’s newest and biggest DLC takes spotlight.
 
 Snowbreak: Containment Zone will feature a booth at Tokyo Game Show 2023 that promises a captivating near-future sci-fi setting. With popular cosplayers bringing key characters to life. Fans can engage in firearm customization activities, try out game demos, view stunning game artwork displays, and participate in a series of engaging check-in events. Exciting Snowbreak merchandise is up for grabs for those who complete designated tasks on-site.
-✨Exhibition Period: 9/21 ~ 9/24
-✨Booth Location: Makuhari Messe Hall 1 booth C05
+
+## ✨Exhibition Period: 9/21 ~ 9/24
+
+## ✨Booth Location: Makuhari Messe Hall 1 booth C05
 
 For players unable to attend in person, Snowbreak has organized a global online event. Share creative works on social media platforms (Facebook, Youtube, or Twitter/X) using the hashtag #Snowbreak and submit your entries for a chance to win fantastic prizes and in-game rewards.
 

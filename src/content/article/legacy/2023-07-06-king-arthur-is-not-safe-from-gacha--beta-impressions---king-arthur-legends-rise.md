@@ -1,27 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'King Arthur: Legends Rise is an upcoming turn-based squad RPG coming
-  to Android, iOS and PC, with options for cross-play and cross-progression. An Open
-  Beta Test is now available only for Android which will last until the official launch
-  date. According to the iOS app store page, the placeholder expected release date
-  is December 5, 2023, however take this info with a grain of salt.'
+slug: 2023-07-06-king-arthur-is-not-safe-from-gacha-beta-impressions-king-arthur-legends-rise
+title: 'King Arthur is not safe from gacha | Beta Impressions - King Arthur: Legends Rise'
+game: 'King Arthur: Legends Rise'
+description: 'King Arthur: Legends Rise is an upcoming turn-based squad RPG coming to Android, iOS and PC, with options for cross-play and cross-progression. An Open Beta Test is now available only for Android which will last until the official launch date. According to the iOS app store page, the placeholder expected release date is December 5, 2023, however take this info with a grain of salt.'
 featured: false
 pubDate: 2023-07-06
 tags:
-- action
-- adventure
-- king-arthur-legends-rise
-- mobile
-- pc
-- rpg
-- strategy
-- taptap
+  - action
+  - adventure
+  - king-arthur-legends-rise
+  - mobile
+  - pc
+  - rpg
+  - strategy
+  - taptap
 thumb: ''
-title: 'King Arthur is not safe from gacha | Beta Impressions - King Arthur: Legends
-  Rise'
-game: 'King Arthur: Legends Rise'
 ---
+
 King Arthur: Legends Rise is an upcoming turn-based squad RPG coming to Android, iOS and PC, with options for cross-play and cross-progression. An Open Beta Test is now available only for Android which will last until the official launch date. According to the iOS app store page, the placeholder expected release date is December 5, 2023, however take this info with a grain of salt.
 
 The game features highly detailed graphics rival those of AAA games, showcasing the medieval era with meticulous attention to detail. The gritty art style perfectly captures the atmosphere of the time, immersing players in a world filled with medieval castles, lush landscapes, and infused with fictional mythical creatures.

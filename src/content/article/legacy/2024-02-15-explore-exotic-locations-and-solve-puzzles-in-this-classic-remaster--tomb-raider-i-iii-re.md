@@ -1,33 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Tomb Raider I-III Remastered stays true to the original titles, with
-  players navigating Lara through a series of challenging environments, solving puzzles,
-  and engaging in platforming and exploration. It’s essentially the same games through
-  and through, just with updated visuals. All levels are the same, the layout, the
-  controls, the puzzles, secrets, and enemies are all the same. If you have played
-  the original games and still remember it, then you’ll have no problems finding your
-  way again.
+slug: 2024-02-15-explore-exotic-locations-and-solve-puzzles-in-this-classic-remaster-tomb-raider-i-iii-re
+title: Explore exotic locations and solve puzzles in this classic remaster | Tomb Raider I-III Remastered
+game: Tomb Raider I-III Remastered
+description: Tomb Raider I-III Remastered stays true to the original titles, with players navigating Lara through a series of challenging environments, solving puzzles, and engaging in platforming and exploration. It’s essentially the same games through and through, just with updated visuals. All levels are the same, the layout, the controls, the puzzles, secrets, and enemies are all the same. If you have played the original games and still remember it, then you’ll have no problems finding your way again.
 featured: false
 pubDate: 2024-02-15
 tags:
-- action
-- adventure
-- console
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- taptap
-- tomb-raider-i-iii-remastered
-- xbox one
-- xbox series
+  - action
+  - adventure
+  - console
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - taptap
+  - tomb-raider-i-iii-remastered
+  - xbox-one
+  - xbox-series
 thumb: ''
-title: Explore exotic locations and solve puzzles in this classic remaster | Tomb
-  Raider I-III Remastered
-game: Tomb Raider I-III Remastered
 ---
+
 Tomb Raider I-III Remastered stays true to the original titles, with players navigating Lara through a series of challenging environments, solving puzzles, and engaging in platforming and exploration. It’s essentially the same games through and through, just with updated visuals. All levels are the same, the layout, the controls, the puzzles, secrets, and enemies are all the same. If you have played the original games and still remember it, then you’ll have no problems finding your way again.
 
 A modern yet conservative and impressive remaster | Review - Tomb Raider I-III Remastered

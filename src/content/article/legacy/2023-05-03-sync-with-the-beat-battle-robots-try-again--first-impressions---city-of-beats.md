@@ -1,31 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: City of Beats places a strong emphasis on music as a fundamental component
-  of the gameplay, rather than simply serving as background sound. The game utilizes
-  synchronized beats to enhance the player's experience, with even explosions, hazards,
-  and projectiles matching the rhythm to create a harmonious connection between the
-  player's reactions, reflexes, and the music.
+slug: 2023-05-03-sync-with-the-beat-battle-robots-try-again-first-impressions-city-of-beats
+title: Sync with the beat, battle robots, try again | First Impressions - City of Beats
+game: City of Beats
+description: City of Beats places a strong emphasis on music as a fundamental component of the gameplay, rather than simply serving as background sound. The game utilizes synchronized beats to enhance the player's experience, with even explosions, hazards, and projectiles matching the rhythm to create a harmonious connection between the player's reactions, reflexes, and the music.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-0.avif
+  - /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-1.avif
+  - /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-2.avif
+  - /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-3.avif
+  - /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-4.avif
+  - /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-5.avif
 pubDate: 2023-05-03
 tags:
-- action
-- city-of-beats
-- indie
-- pc
-- taptap
+  - action
+  - city-of-beats
+  - indie
+  - pc
+  - taptap
 thumb: /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-0.avif
-title: Sync with the beat, battle robots, try again | First Impressions - City of
-  Beats
-game: City of Beats
-gallery:
-- /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-0.avif
-- /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-1.avif
-- /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-2.avif
-- /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-3.avif
-- /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-4.avif
-- /images/reviews/legacy/2023-05-03-sync-with-the-beat-battle-robots-try-again--first-impressions---city-of-beats-5.avif
 ---
+
 City of Beats
 7.1
 Action

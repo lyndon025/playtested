@@ -1,56 +1,61 @@
 ---
 author: lyndonguitar
 category: Review
-description: There are a lot of ARPGs out there already, but what makes Superfuse
-  unique is its cell-shaded comic-book art-style. It’s not just cell shaded graphics,
-  because even the effects and texts are comic-book inspired. This is something that
-  even Marvel and DC games have failed to utilize and capitalize on, considering they
-  are comic-book franchises. Superfuse combines cell-shaded comic-book art style,
-  looter elements, with some action packed hack ’n slash mechanics.
-featured: false
-pubDate: 2023-02-02
-tags:
-- action
-- adventure
-- casual
-- indie
-- pc
-- rpg
-- superfuse-full-early-access
-- taptap
-thumb: /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif
+slug: 2023-02-02-what-if-comic-books-and-diablo-had-a-baby-superfuse-full-early-access-review
 title: What if comic-books and Diablo had a baby | Superfuse - Full Early Access Review
 game: Superfuse - Full Early Access
+description: There are a lot of ARPGs out there already, but what makes Superfuse unique is its cell-shaded comic-book art-style. It’s not just cell shaded graphics, because even the effects and texts are comic-book inspired. This is something that even Marvel and DC games have failed to utilize and capitalize on, considering they are comic-book franchises. Superfuse combines cell-shaded comic-book art style, looter elements, with some action packed hack ’n slash mechanics.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-1.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-2.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-3.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-4.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-5.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-6.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-7.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-8.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-9.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-10.avif
-- /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-11.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-1.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-2.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-3.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-4.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-5.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-6.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-7.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-8.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-9.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-10.avif
+  - /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-11.avif
+pubDate: 2023-02-02
+tags:
+  - action
+  - adventure
+  - casual
+  - indie
+  - pc
+  - rpg
+  - superfuse-full-early-access
+  - taptap
+thumb: /images/reviews/legacy/2023-02-02-what-if-comic-books-and-diablo-had-a-baby--superfuse---full-early-access-review-0.avif
 ---
+
 There are a lot of ARPGs out there already, but what makes Superfuse unique is its cell-shaded comic-book art-style. It’s not just cell shaded graphics, because even the effects and texts are comic-book inspired. This is something that even Marvel and DC games have failed to utilize and capitalize on, considering they are comic-book franchises. Superfuse combines cell-shaded comic-book art style, looter elements, with some action packed hack ’n slash mechanics.
 
 
-**Pros:**
 
 
-+Unique cell-shaded comic-book art-style
-
-+Feature complete mechanically
-
-+Combat is mechanically fun
-
-+Endgame already in place
+## Pros
 
 
-**Cons:**
+
+## +Unique cell-shaded comic-book art-style
+
+
+## +Feature complete mechanically
+
+
+## +Combat is mechanically fun
+
+
+## +Endgame already in place
+
+
+
+
+## Cons
 
 
 -Steep price for an Early Access

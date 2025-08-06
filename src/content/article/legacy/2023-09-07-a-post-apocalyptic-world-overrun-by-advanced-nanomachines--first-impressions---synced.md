@@ -1,25 +1,21 @@
 ---
 author: lyndonguitar
 category: Review
-description: SYNCED is a looter shooter with a gameplay that revolves around players
-  venturing into the semi-open world to clear out increasingly challenging segments
-  that are infested with nano creatures. These missions culminate in intense boss
-  fights that require teamwork, strategy, and coordination when in team-based mode,
-  but the game is also viable when played Solo, such is my experience for the majority
-  of my PvE playthrough.
+slug: 2023-09-07-a-post-apocalyptic-world-overrun-by-advanced-nanomachines-first-impressions-synced
+title: A post-apocalyptic world overrun by advanced nanomachines | First Impressions - SYNCED
+game: SYNCED
+description: SYNCED is a looter shooter with a gameplay that revolves around players venturing into the semi-open world to clear out increasingly challenging segments that are infested with nano creatures. These missions culminate in intense boss fights that require teamwork, strategy, and coordination when in team-based mode, but the game is also viable when played Solo, such is my experience for the majority of my PvE playthrough.
 featured: false
 pubDate: 2023-09-07
 tags:
-- action
-- adventure
-- pc
-- synced
-- taptap
+  - action
+  - adventure
+  - pc
+  - synced
+  - taptap
 thumb: ''
-title: A post-apocalyptic world overrun by advanced nanomachines | First Impressions
-  - SYNCED
-game: SYNCED
 ---
+
 SYNCED is a looter shooter with a gameplay that revolves around players venturing into the semi-open world to clear out increasingly challenging segments that are infested with nano creatures. These missions culminate in intense boss fights that require teamwork, strategy, and coordination when in team-based mode, but the game is also viable when played Solo, such is my experience for the majority of my PvE playthrough.
 
 It takes a lot of inspirations from other genres, mixing rogue-lite elements with its randomized choices of upgrades every run, battle royale mechanics with its semi-open world map in both the PvP and PvE game modes, and even Pokemon style of capturing and commanding powerful Nano creatures.  Of course, it somehow also feels like a zombie survival shooter with how the hordes of Neon creatures are coming right at you.

@@ -1,42 +1,35 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Somerville is a sci-fi adventure / puzzle game where you control a man
-  and his family caught up right in the middle of an alien invasion doomsday scenario.
-  The opening sequence starts relatively slow: what''s presented to you is a slice
-  of life in a small farm house: A couple, a toddler, and a dog. The presentation
-  feels very surreal that you almost can relate to it, especially with the random
-  static noise emanating from the family TV. Then the mysterious somber nature ramps
-  up rather quickly into a full blown alien invasion, perfectly capturing that feeling
-  of being randomly caught up in it on a personal level. You can just about see yourself
-  in the character’s shoes while playing. Imagining if such things happened to you
-  and your family instead.'
-featured: false
-pubDate: 2022-11-17
-tags:
-- action
-- adventure
-- console
-- pc
-- playstation
-- playstation 4
-- playstation 5
-- somerville
-- taptap
-- xbox one
-- xbox series
-thumb: /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-0.avif
+slug: 2022-11-17-aliens-invade-and-its-beautiful-somerville-full-review
 title: Aliens invade, and it’s beautiful | Somerville - Full Review
 game: Somerville
+description: "Somerville is a sci-fi adventure / puzzle game where you control a man and his family caught up right in the middle of an alien invasion doomsday scenario. The opening sequence starts relatively slow: what's presented to you is a slice of life in a small farm house: A couple, a toddler, and a dog. The presentation feels very surreal that you almost can relate to it, especially with the random static noise emanating from the family TV. Then the mysterious somber nature ramps up rather quickly into a full blown alien invasion, perfectly capturing that feeling of being randomly caught up in it on a personal level. You can just about see yourself in the character’s shoes while playing. Imagining if such things happened to you and your family instead."
+featured: false
 gallery:
-- /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-0.avif
-- /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-1.avif
-- /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-2.avif
-- /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-3.avif
-- /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-4.avif
-- /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-5.avif
-- /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-6.avif
+  - /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-0.avif
+  - /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-1.avif
+  - /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-2.avif
+  - /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-3.avif
+  - /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-4.avif
+  - /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-5.avif
+  - /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-6.avif
+pubDate: 2022-11-17
+tags:
+  - action
+  - adventure
+  - console
+  - pc
+  - playstation
+  - playstation-4
+  - playstation-5
+  - somerville
+  - taptap
+  - xbox-one
+  - xbox-series
+thumb: /images/reviews/legacy/2022-11-17-aliens-invade-and-its-beautiful--somerville---full-review-0.avif
 ---
+
 Somerville is a sci-fi adventure / puzzle game where you control a man and his family caught up right in the middle of an alien invasion doomsday scenario. The opening sequence starts relatively slow: what's presented to you is a slice of life in a small farm house: A couple, a toddler, and a dog. The presentation feels very surreal that you almost can relate to it, especially with the random static noise emanating from the family TV. Then the mysterious somber nature ramps up rather quickly into a full blown alien invasion, perfectly capturing that feeling of being randomly caught up in it on a personal level. You can just about see yourself in the character’s shoes while playing. Imagining if such things happened to you and your family instead.
 
 Somerville is pretty short. You can finish it in under five hours, so the length is just comparable to a full feature film. And it does feel like a film sometimes, only that there is no dialogue in the game and all the story is only conveyed through the characters actions and interactions with the environment, bolstered by the impressive artstyle and sound design. This is something that is very hard to pull off narratively but Somerville manages to somewhat pull it off anyway.

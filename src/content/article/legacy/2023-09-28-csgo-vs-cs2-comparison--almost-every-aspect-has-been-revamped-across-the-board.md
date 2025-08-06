@@ -1,29 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'With CS2, Almost every aspect of CS has been revamped across the board:
-  visuals, presentation, gameplay, mechanics, and connectivity, all while still maintaining
-  that familiar Counter-Strike feel that CS:GO players are used to.'
+slug: 2023-09-28-csgo-vs-cs2-comparison-almost-every-aspect-has-been-revamped-across-the-board
+title: CS:GO vs CS2 comparison | Almost every aspect has been revamped across the board
+game: Almost every aspect has been revamped across the board
+description: 'With CS2, Almost every aspect of CS has been revamped across the board: visuals, presentation, gameplay, mechanics, and connectivity, all while still maintaining that familiar Counter-Strike feel that CS:GO players are used to.'
 featured: false
 pubDate: 2023-09-28
 tags:
-- action
-- almost-every-aspect-has-been-revamped-across-the-board
-- console
-- indie
-- nintendo switch
-- pc
-- playstation
-- playstation 4
-- rpg
-- strategy
-- taptap
-- xbox one
+  - action
+  - almost-every-aspect-has-been-revamped-across-the-board
+  - console
+  - indie
+  - nintendo-switch
+  - pc
+  - playstation
+  - playstation-4
+  - rpg
+  - strategy
+  - taptap
+  - xbox-one
 thumb: ''
-title: CS:GO vs CS2 comparison | Almost every aspect has been revamped across the
-  board
-game: Almost every aspect has been revamped across the board
 ---
+
 With CS2, Almost every aspect of CS has been revamped across the board: visuals, presentation, gameplay, mechanics, and connectivity, all while still maintaining that familiar Counter-Strike feel that CS:GO players are used to.
 
 Counter-Strike 2 takes gameplay visuals to the next level. Visual effects across the board have received a makeover. With the introduction of Source 2 lighting and particle systems, everything from water to explosions, fire, smoke, muzzle flashes, bullet tracers, and impact effects looks and behaves in a new and immersive way.

@@ -1,66 +1,75 @@
 ---
 author: lyndonguitar
 category: Review
-description: Evertale is a JRPG turn-based combat game that draws heavy inspiration
-  from the Pokemon series of video games, by featuring monster and character collecting
-  aspects, packaged in a gacha gaming manner.
-featured: false
-pubDate: 2023-03-17
-tags:
-- android
-- evertale
-- ios
-- mobile
-- rpg
-- strategy
-- taptap
-thumb: /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-0.avif
+slug: 2023-03-17-a-premium-gacha-rpg-game-what-full-review-evertale
 title: A premium gacha RPG game, what? | Full Review - Evertale
 game: Evertale
+description: Evertale is a JRPG turn-based combat game that draws heavy inspiration from the Pokemon series of video games, by featuring monster and character collecting aspects, packaged in a gacha gaming manner.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-0.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-1.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-2.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-3.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-4.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-5.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-6.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-7.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-8.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-9.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-10.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-11.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-12.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-13.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-14.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-15.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-16.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-17.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-18.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-19.avif
-- /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-20.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-0.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-1.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-2.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-3.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-4.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-5.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-6.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-7.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-8.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-9.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-10.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-11.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-12.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-13.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-14.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-15.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-16.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-17.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-18.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-19.avif
+  - /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-20.avif
+pubDate: 2023-03-17
+tags:
+  - android
+  - evertale
+  - ios
+  - mobile
+  - rpg
+  - strategy
+  - taptap
+thumb: /images/reviews/legacy/2023-03-17-a-premium-gacha-rpg-game-what--full-review---evertale-0.avif
 ---
+
 Evertale is a JRPG turn-based combat game that draws heavy inspiration from the Pokemon series of video games, by featuring monster and character collecting aspects, packaged in a gacha gaming manner.
 
 
-**Pros:**
 
 
-+innovative gameplay mechanics
-
-+a balanced and challenging combat experience
-
-+good looking visuals and character design
-
-+bonus live service idle-game modes
+## Pros
 
 
-**Cons:**
+
+## +innovative gameplay mechanics
+
+
+## +a balanced and challenging combat experience
+
+
+## +good looking visuals and character design
+
+
+## +bonus live service idle-game modes
+
+
+
+
+## Cons
 
 
 -paid gacha game
 
-📝Notable points:
+
+## 📝Notable points:
 
 📝
 

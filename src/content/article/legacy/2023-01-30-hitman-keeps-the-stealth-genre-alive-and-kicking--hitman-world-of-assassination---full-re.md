@@ -1,64 +1,72 @@
 ---
 author: lyndonguitar
 category: Review
-description: In a world full of disappointing sequels, reboots, and spiritual successors.
-  We have one of the rarest examples of a franchise that has gotten better in time
-  in HITMAN World of Assassination.
+slug: 2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking-hitman-world-of-assassination-full-re
+title: Hitman keeps the stealth-genre alive and kicking | HITMAN World of Assassination - Full Review
+game: Hitman
+description: In a world full of disappointing sequels, reboots, and spiritual successors. We have one of the rarest examples of a franchise that has gotten better in time in HITMAN World of Assassination.
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-0.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-1.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-2.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-3.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-4.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-5.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-6.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-7.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-8.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-9.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-10.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-11.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-12.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-13.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-14.avif
+  - /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-15.avif
 pubDate: 2023-01-30
 tags:
-- action
-- console
-- hitman
-- linux
-- macos
-- pc
-- playstation
-- playstation 4
-- shooter
-- simulation
-- taptap
-- xbox one
+  - action
+  - console
+  - hitman
+  - linux
+  - macos
+  - pc
+  - playstation
+  - playstation-4
+  - shooter
+  - simulation
+  - taptap
+  - xbox-one
 thumb: /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-0.avif
-title: Hitman keeps the stealth-genre alive and kicking | HITMAN World of Assassination
-  - Full Review
-game: Hitman
-gallery:
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-0.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-1.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-2.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-3.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-4.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-5.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-6.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-7.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-8.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-9.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-10.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-11.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-12.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-13.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-14.avif
-- /images/reviews/legacy/2023-01-30-hitman-keeps-the-stealth-genre-alive-and-kicking--hitman-world-of-assassination---full-re-15.avif
 ---
+
 In a world full of disappointing sequels, reboots, and spiritual successors. We have one of the rarest examples of a franchise that has gotten better in time in HITMAN World of Assassination.
 
 
-**Pros:**
 
 
-+Three games for the price of one
-
-+The best the stealth genre has to offer
-
-+Open-ended gameplay with an abundance of choices presented to the player
-
-+Unique open-world sandbox levels each with their own layers of variety
-
-+Highly replayable
+## Pros
 
 
-**Cons:**
+
+## +Three games for the price of one
+
+
+## +The best the stealth genre has to offer
+
+
+## +Open-ended gameplay with an abundance of choices presented to the player
+
+
+## +Unique open-world sandbox levels each with their own layers of variety
+
+
+## +Highly replayable
+
+
+
+
+## Cons
 
 
 -Minor production problems in the second game that affected the storytelling presentation

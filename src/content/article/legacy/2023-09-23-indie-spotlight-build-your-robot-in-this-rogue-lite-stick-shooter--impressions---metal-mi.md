@@ -1,26 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: If you have played twin-stick shooters and retro pixel-style rogue-lites,
-  then Metal Mind  should feel familiar you, The gameplay mechanics of Metal Mind
-  follow a classic twin-stick shooter formula, but with a twist. It’s actually a “single-stick”
-  shooter because aiming is already done automatically. You just have to fire the
-  weapon, or activate abilities.
+slug: 2023-09-23-indie-spotlight-build-your-robot-in-this-rogue-lite-stick-shooter-impressions-metal-mi
+title: '[Indie Spotlight] Build your robot in this rogue-lite stick shooter | Impressions - Metal Mind'
+game: Metal Mind
+description: If you have played twin-stick shooters and retro pixel-style rogue-lites, then Metal Mind  should feel familiar you, The gameplay mechanics of Metal Mind follow a classic twin-stick shooter formula, but with a twist. It’s actually a “single-stick” shooter because aiming is already done automatically. You just have to fire the weapon, or activate abilities.
 featured: false
 pubDate: 2023-09-23
 tags:
-- action
-- indie
-- metal-mind
-- mobile
-- pc
-- rpg
-- taptap
+  - action
+  - indie
+  - metal-mind
+  - mobile
+  - pc
+  - rpg
+  - taptap
 thumb: ''
-title: '[Indie Spotlight] Build your robot in this rogue-lite stick shooter | Impressions
-  - Metal Mind'
-game: Metal Mind
 ---
+
 If you have played twin-stick shooters and retro pixel-style rogue-lites, then Metal Mind  should feel familiar you, The gameplay mechanics of Metal Mind follow a classic twin-stick shooter formula, but with a twist. It’s actually a “single-stick” shooter because aiming is already done automatically. You just have to fire the weapon, or activate abilities.
 
 Character movement is controlled using the left stick, and shooting, dodging, and ability with the right part of the screen. Because of the auto-aim mechanic, the controls feel really responsive and right at home as a casual mobile rogue-lite experience. Of course, this comes at a strategic cost of not being able to manually aim at enemies.

@@ -1,25 +1,24 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Final Fantasy VII: Ever Crisis is a part-compilation, part remaster
-  gacha game that beautifully blends elements from the original 1997 release and the
-  more recent FF7 spin-offs and remakes.'
+slug: 2023-09-08-attempts-to-bridge-the-gap-between-nostalgia-and-mobile-gaming-impressions-ffvii-ever
+title: 'Attempts to bridge the gap between nostalgia and mobile gaming | Impressions - FFVII: Ever Crisis'
+game: 'FFVII: Ever Crisis'
+description: 'Final Fantasy VII: Ever Crisis is a part-compilation, part remaster gacha game that beautifully blends elements from the original 1997 release and the more recent FF7 spin-offs and remakes.'
 featured: false
 pubDate: 2023-09-08
 tags:
-- action
-- adventure
-- dreamcast
-- ffvii-ever-crisis
-- mobile
-- pc
-- playstation
-- taptap
+  - action
+  - adventure
+  - dreamcast
+  - ffvii-ever-crisis
+  - mobile
+  - pc
+  - playstation
+  - taptap
 thumb: ''
-title: 'Attempts to bridge the gap between nostalgia and mobile gaming | Impressions
-  - FFVII: Ever Crisis'
-game: 'FFVII: Ever Crisis'
 ---
+
 Final Fantasy VII: Ever Crisis is a part-compilation, part remaster gacha game that beautifully blends elements from the original 1997 release and the more recent FF7 spin-offs and remakes.
 
 The game features both charming Chibi-style character designs for the story segments while incorporating the modern ultra-detailed graphics of the recent games during combat sequences. So far it achieves a nice balance of the two styles,

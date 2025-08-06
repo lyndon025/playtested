@@ -1,26 +1,23 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Protectors: Shooter Legends is a free-to-play casual and bite-sized
-  4v4 multiplayer shooter that captures the essence of quick-paced battles. Set in
-  a futuristic world where humanity thrives after overcoming past struggles, players
-  step into the shoes of unique heroes armed with distinctive guns and abilities.
-  The game boasts a diverse range of exciting game modes and maps and offers 4v4 PvP
-  shooting battles.'
+slug: 2023-08-15-a-low-stress-pvp-shooter-first-impressions-protectors-shooter-legends
+title: 'A low stress PvP shooter? | First Impressions - Protectors: Shooter Legends'
+game: 'Protectors: Shooter Legends'
+description: 'Protectors: Shooter Legends is a free-to-play casual and bite-sized 4v4 multiplayer shooter that captures the essence of quick-paced battles. Set in a futuristic world where humanity thrives after overcoming past struggles, players step into the shoes of unique heroes armed with distinctive guns and abilities. The game boasts a diverse range of exciting game modes and maps and offers 4v4 PvP shooting battles.'
 featured: false
 pubDate: 2023-08-15
 tags:
-- action
-- nintendo ds
-- playstation 2
-- protectors-shooter-legends
-- psp
-- taptap
-- wii
+  - action
+  - nintendo-ds
+  - playstation-2
+  - protectors-shooter-legends
+  - psp
+  - taptap
+  - wii
 thumb: ''
-title: 'A low stress PvP shooter? | First Impressions - Protectors: Shooter Legends'
-game: 'Protectors: Shooter Legends'
 ---
+
 Protectors: Shooter Legends is a free-to-play casual and bite-sized 4v4 multiplayer shooter that captures the essence of quick-paced battles. Set in a futuristic world where humanity thrives after overcoming past struggles, players step into the shoes of unique heroes armed with distinctive guns and abilities. The game boasts a diverse range of exciting game modes and maps and offers 4v4 PvP shooting battles.
 
 The game's stylized cartoon 3D graphics create an inviting atmosphere, with clean visuals and an easy-to-navigate interface. While its overall gameplay simplicity might not cater to those seeking intricate mechanics, the game's focus on accessible gameplay shines through its quick matches that last one to two minutes. The absence of complex mechanics like jumping, crouching, or multiple abilities contributes to the streamlined experience, allowing players to jump straight into action.

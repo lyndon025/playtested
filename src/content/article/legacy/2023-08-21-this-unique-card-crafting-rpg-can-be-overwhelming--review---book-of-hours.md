@@ -1,49 +1,55 @@
 ---
 author: lyndonguitar
 category: Review
-description: Book of Hours, a brand new creation by Weather Factory, invites you to
-  embark on a journey that explores the deepest recesses of the occult and the unknown.
-  This intricate game offers a multi-faceted experience that combines investigation,
-  crafting, and introspection to create a truly unique adventure.
-featured: false
-pubDate: 2023-08-21
-tags:
-- book-of-hours
-- indie
-- macos
-- pc
-- rpg
-- simulation
-- taptap
-thumb: /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif
+slug: 2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming-review-book-of-hours
 title: This unique card-crafting RPG can be overwhelming | Review - Book of Hours
 game: BOOK OF HOURS
+description: Book of Hours, a brand new creation by Weather Factory, invites you to embark on a journey that explores the deepest recesses of the occult and the unknown. This intricate game offers a multi-faceted experience that combines investigation, crafting, and introspection to create a truly unique adventure.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-1.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-2.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-3.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-4.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-5.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-6.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-7.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-8.avif
-- /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-9.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-1.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-2.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-3.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-4.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-5.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-6.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-7.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-8.avif
+  - /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-9.avif
+pubDate: 2023-08-21
+tags:
+  - book-of-hours
+  - indie
+  - macos
+  - pc
+  - rpg
+  - simulation
+  - taptap
+thumb: /images/reviews/legacy/2023-08-21-this-unique-card-crafting-rpg-can-be-overwhelming--review---book-of-hours-0.avif
 ---
+
 BOOK OF HOURS
 
 Book of Hours, a brand new creation by Weather Factory, invites you to embark on a journey that explores the deepest recesses of the occult and the unknown. This intricate game offers a multi-faceted experience that combines investigation, crafting, and introspection to create a truly unique adventure.
 
 
-**Pros:**
 
 
-+Atmospheric minimalistic artstyle
-+Addictive gameplay once you’ve understood the mechanics
-+Unique experience probably unlike anything you’ve experienced before
+## Pros
 
 
-**Cons:**
+
+## +Atmospheric minimalistic artstyle
+
+## +Addictive gameplay once you’ve understood the mechanics
+
+## +Unique experience probably unlike anything you’ve experienced before
+
+
+
+
+## Cons
 
 
 -No tutorial

@@ -1,62 +1,69 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Amnesia: The Bunker Amnesia: The Bunker, developed by the creators of
-  the popular horror games SOMA, Penumbra, and the Amnesia series, is a first-person
-  horror game that takes players on a gripping journey through the dark and claustrophobic
-  corridors of a World War I bunker.'
+slug: 2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series-full-review-amnesia-the-bunker
+title: 'A fresh yet familiar take on the Amnesia series | Full Review - Amnesia: The Bunker'
+game: 'Amnesia: The Bunker'
+description: 'Amnesia: The Bunker Amnesia: The Bunker, developed by the creators of the popular horror games SOMA, Penumbra, and the Amnesia series, is a first-person horror game that takes players on a gripping journey through the dark and claustrophobic corridors of a World War I bunker.'
 featured: false
+gallery:
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-0.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-1.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-2.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-3.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-4.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-5.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-6.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-7.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-8.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-9.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-10.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-11.avif
+  - /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-12.avif
 pubDate: 2023-06-08
 tags:
-- action
-- adventure
-- amnesia-the-bunker
-- console
-- indie
-- pc
-- playstation
-- playstation 4
-- taptap
-- xbox one
-- xbox series
+  - action
+  - adventure
+  - amnesia-the-bunker
+  - console
+  - indie
+  - pc
+  - playstation
+  - playstation-4
+  - taptap
+  - xbox-one
+  - xbox-series
 thumb: /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-0.avif
-title: 'A fresh yet familiar take on the Amnesia series | Full Review - Amnesia: The
-  Bunker'
-game: 'Amnesia: The Bunker'
-gallery:
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-0.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-1.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-2.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-3.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-4.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-5.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-6.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-7.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-8.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-9.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-10.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-11.avif
-- /images/reviews/legacy/2023-06-08-a-fresh-yet-familiar-take-on-the-amnesia-series--full-review---amnesia-the-bunker-12.avif
 ---
+
 Amnesia: The Bunker
 Amnesia: The Bunker, developed by the creators of the popular horror games SOMA, Penumbra, and the Amnesia series, is a first-person horror game that takes players on a gripping journey through the dark and claustrophobic corridors of a World War I bunker.
 
 
-**Pros:**
 
 
-+Intense scary atmosphere
-
-+Non-linear semi-open world
-
-+Dynamic puzzles with multiple solutions makes it highly replayable
-
-+Frantic resource management mechanics
-
-+AI-driven monster that can appear almost anytime, anywhere
+## Pros
 
 
-**Cons:**
+
+## +Intense scary atmosphere
+
+
+## +Non-linear semi-open world
+
+
+## +Dynamic puzzles with multiple solutions makes it highly replayable
+
+
+## +Frantic resource management mechanics
+
+
+## +AI-driven monster that can appear almost anytime, anywhere
+
+
+
+
+## Cons
 
 
 -Can lose a lot of progression upon dying, especially at higher levels

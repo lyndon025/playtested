@@ -1,35 +1,34 @@
 ---
 author: lyndonguitar
 category: Review
-description: 'Protectors: Shooter Legends is a third-person shooter with PvE and PvP
-  gameplay. This 4v4 title is all about clashing with opponents in thrilling battles
-  across a range of engaging game modes and maps. Featuring a diverse cast of heroes,
-  each armed with a unique weapon and ability.'
-featured: false
-pubDate: 2023-08-15
-tags:
-- action
-- mobile
-- nintendo ds
-- playstation 2
-- protectors-shooter-legends
-- psp
-- taptap
-- wii
-thumb: /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif
+slug: 2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp-full-review-protectors-shooter-legends
 title: 'A PvP shooter that isn’t exactly PvP | Full Review - Protectors: Shooter Legends'
 game: 'Protectors: Shooter Legends'
+description: 'Protectors: Shooter Legends is a third-person shooter with PvE and PvP gameplay. This 4v4 title is all about clashing with opponents in thrilling battles across a range of engaging game modes and maps. Featuring a diverse cast of heroes, each armed with a unique weapon and ability.'
+featured: false
 gallery:
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-1.avif
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-2.avif
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-3.avif
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-4.avif
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-5.avif
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-6.avif
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-7.avif
-- /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-8.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-1.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-2.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-3.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-4.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-5.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-6.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-7.avif
+  - /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-8.avif
+pubDate: 2023-08-15
+tags:
+  - action
+  - mobile
+  - nintendo-ds
+  - playstation-2
+  - protectors-shooter-legends
+  - psp
+  - taptap
+  - wii
+thumb: /images/reviews/legacy/2023-08-15-a-pvp-shooter-that-isnt-exactly-pvp--full-review---protectors-shooter-legends-0.avif
 ---
+
 Protectors: Shooter Legends
 
 lyndonguitar
@@ -37,16 +36,24 @@ lyndonguitar
 Protectors: Shooter Legends is a third-person shooter with PvE and PvP gameplay. This 4v4 title is all about clashing with opponents in thrilling battles across a range of engaging game modes and maps. Featuring a diverse cast of heroes, each armed with a unique weapon and ability.
 
 
-**Pros:**
 
 
-+Quick, bite-sized matches
-+Accessible Gameplay, non complex movement and abilities
-+Diverse range of heroes to unlock and select
-+Variety of distinct game modes
+## Pros
 
 
-**Cons:**
+
+## +Quick, bite-sized matches
+
+## +Accessible Gameplay, non complex movement and abilities
+
+## +Diverse range of heroes to unlock and select
+
+## +Variety of distinct game modes
+
+
+
+
+## Cons
 
 
 -Asynchronous PvP, only matched against bots

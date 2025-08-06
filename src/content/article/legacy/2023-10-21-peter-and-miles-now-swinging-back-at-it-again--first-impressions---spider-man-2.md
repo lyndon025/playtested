@@ -1,33 +1,28 @@
 ---
 author: lyndonguitar
 category: Review
-description: Spider-Man 2 is finally here and it's kicking ass. Even with the introduction
-  sequence, it is immediately action-packed and doesn't skip a beat. I literally got
-  goosebumps while playing through the initial set piece, which could even pass as
-  a climax in other games. (which I'm not going to spoil, the gameplay shown above
-  is a random snippet taken from my playthrough). Immediately, It also clearly showcases
-  the power of the PS5's SSD with the amount of city panning and fast traversal it
-  seamlessly executes.
+slug: 2023-10-21-peter-and-miles-now-swinging-back-at-it-again-first-impressions-spider-man-2
+title: Peter and Miles now swinging back at it again | First Impressions - Spider-Man 2
+game: Spider-Man 2
+description: Spider-Man 2 is finally here and it's kicking ass. Even with the introduction sequence, it is immediately action-packed and doesn't skip a beat. I literally got goosebumps while playing through the initial set piece, which could even pass as a climax in other games. (which I'm not going to spoil, the gameplay shown above is a random snippet taken from my playthrough). Immediately, It also clearly showcases the power of the PS5's SSD with the amount of city panning and fast traversal it seamlessly executes.
 featured: false
 pubDate: 2023-10-21
 tags:
-- action
-- adventure
-- game boy advance
-- gamecube
-- macos
-- nintendo ds
-- pc
-- playstation 2
-- psp
-- spider-man-2
-- taptap
-- xbox
+  - action
+  - adventure
+  - game-boy-advance
+  - gamecube
+  - macos
+  - nintendo-ds
+  - pc
+  - playstation-2
+  - psp
+  - spider-man-2
+  - taptap
+  - xbox
 thumb: ''
-title: Peter and Miles now swinging back at it again | First Impressions - Spider-Man
-  2
-game: Spider-Man 2
 ---
+
 Spider-Man 2 is finally here and it's kicking ass. Even with the introduction sequence, it is immediately action-packed and doesn't skip a beat. I literally got goosebumps while playing through the initial set piece, which could even pass as a climax in other games. (which I'm not going to spoil, the gameplay shown above is a random snippet taken from my playthrough). Immediately, It also clearly showcases the power of the PS5's SSD with the amount of city panning and fast traversal it seamlessly executes.
 
 The story takes place in the same continuity as the previous games, and it's centered around Peter Parker and Miles Morales as they grapple with personal challenges while facing new and formidable threats.

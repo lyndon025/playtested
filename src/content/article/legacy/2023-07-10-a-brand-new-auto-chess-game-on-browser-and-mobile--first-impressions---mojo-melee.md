@@ -1,26 +1,26 @@
 ---
 author: lyndonguitar
 category: Review
-description: Mojo Melee is a brand new Auto Chess currently undergoing an open beta
-  test for Android, with Season Zero currently underway.
+slug: 2023-07-10-a-brand-new-auto-chess-game-on-browser-and-mobile-first-impressions-mojo-melee
+title: A brand new auto chess game on browser and mobile | First Impressions - Mojo Melee
+game: Mojo Melee
+description: Mojo Melee is a brand new Auto Chess currently undergoing an open beta test for Android, with Season Zero currently underway.
 featured: false
 pubDate: 2023-07-10
 tags:
-- action
-- adventure
-- casual
-- indie
-- mobile
-- mojo-melee
-- pc
-- simulation
-- strategy
-- taptap
+  - action
+  - adventure
+  - casual
+  - indie
+  - mobile
+  - mojo-melee
+  - pc
+  - simulation
+  - strategy
+  - taptap
 thumb: ''
-title: A brand new auto chess game on browser and mobile | First Impressions - Mojo
-  Melee
-game: Mojo Melee
 ---
+
 Mojo Melee is a brand new Auto Chess currently undergoing an open beta test for Android, with Season Zero currently underway.
 
 In Mojo Melee, Players choose a leader character known as a Mojo, each possessing a unique set of skills based on the chosen Mojo. Some are focused on defensive buffs, some are healers, and some focus on inflicting damage. Additionally, players must construct a deck lineup of champions to bring into battles.

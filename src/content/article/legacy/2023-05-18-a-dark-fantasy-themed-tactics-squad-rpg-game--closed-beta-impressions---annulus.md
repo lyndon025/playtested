@@ -1,29 +1,29 @@
 ---
 author: lyndonguitar
 category: Review
-description: ANNULUS is a turn-based tactics game that takes place in medieval times,
-  specifically in Europe during the age of chivalry, but with dark Cthulhu undertones
-  that permeate the narrative and atmosphere.
-featured: false
-pubDate: 2023-05-18
-tags:
-- adventure
-- closed-beta-impressions-annulus
-- pc
-- taptap
-thumb: /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif
+slug: 2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game-closed-beta-impressions-annulus
 title: A dark fantasy-themed tactics squad RPG game | Closed Beta Impressions - ANNULUS
 game: Closed Beta Impressions - ANNULUS
+description: ANNULUS is a turn-based tactics game that takes place in medieval times, specifically in Europe during the age of chivalry, but with dark Cthulhu undertones that permeate the narrative and atmosphere.
+featured: false
 gallery:
-- /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif
-- /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-1.avif
-- /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-2.avif
-- /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-3.avif
-- /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-4.avif
-- /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-5.avif
-- /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-6.avif
-- /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-7.avif
+  - /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif
+  - /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-1.avif
+  - /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-2.avif
+  - /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-3.avif
+  - /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-4.avif
+  - /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-5.avif
+  - /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-6.avif
+  - /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-7.avif
+pubDate: 2023-05-18
+tags:
+  - adventure
+  - closed-beta-impressions-annulus
+  - pc
+  - taptap
+thumb: /images/reviews/legacy/2023-05-18-a-dark-fantasy-themed-tactics-squad-rpg-game--closed-beta-impressions---annulus-0.avif
 ---
+
 Eldritch Cycle
 8.4
 Cthulhu
