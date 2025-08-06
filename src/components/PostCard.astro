@@ -2,7 +2,7 @@
 import { type CollectionEntry } from "astro:content";
 import SiteOptions from "../site.config.mjs";
 import ScoreBadge from "./ScoreBadge.astro";
-import { Image } from 'astro:assets';
+import { Image } from "astro:assets";
 
 export interface Props {
   post: CollectionEntry<"article">;
@@ -11,7 +11,8 @@ export interface Props {
 }
 
 const { post, showImage = true, showCategory = true } = Astro.props;
-const { title, pubDate, category, description, author, thumb, score } = post.data;
+const { title, pubDate, category, description, author, thumb, score } =
+  post.data;
 
 const formattedDate = new Intl.DateTimeFormat("en-US", {
   year: "numeric",
@@ -20,43 +21,59 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 }).format(pubDate);
 ---
 
-<li class="flex flex-row gap-6 py-4 border-b border-gray-500 dark:border-gray-800 items-start">
-  {showImage && thumb && (
-    <a href={`/article/${post.slug}`} class="block shrink-0 relative post-card-thumb">
-      <Image
-        src={thumb}
-        alt={title}
-        width={224}
-        height={128}
-        loading="eager"
-        class="w-56 h-32 object-cover rounded-md border border-gray-800 dark:border-gray-700"
-        placeholder="blur"
-      />
-      <ScoreBadge score={score} small={true} />
-    </a>
-  )}
+<li
+  class="flex flex-row gap-6 py-4 border-b border-gray-500 dark:border-gray-800 items-start"
+>
+  {
+    showImage && thumb && (
+      <a
+        href={`/article/${post.slug}`}
+        class="block shrink-0 relative post-card-thumb"
+      >
+        <Image
+          src={thumb}
+          alt={title}
+          width={224}
+          height={128}
+          loading="eager"
+          class="w-56 h-32 object-cover rounded-md border border-gray-800 dark:border-gray-700"
+          placeholder="blur"
+        />
+        <ScoreBadge score={score} small={true} />
+      </a>
+    )
+  }
 
   <div class="flex-1 flex flex-col min-w-0">
     <div class="flex items-center justify-between gap-2">
-      <a href={`/article/${post.slug}`} class="text-xl font-medium hover:underline truncate flex-1">
+      <a
+        href={`/article/${post.slug}`}
+        class="text-xl font-medium hover:underline flex-1 clamp-2-lines"
+      >
         {title}
-        {SiteOptions.showAuthorsOnHomePage && author && (
-          <span class="text-sm text-gray-500 dark:text-gray-400 ml-2">
-            by {author}
-          </span>
-        )}
+        {
+          SiteOptions.showAuthorsOnHomePage && author && (
+            <span class="text-sm text-gray-500 dark:text-gray-400 ml-2">
+              by {author}
+            </span>
+          )
+        }
       </a>
-      {showCategory && category && (
-        <span class="ml-2 inline-block text-xs bg-gray-100 text-gray-600 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 rounded max-w-[120px] truncate whitespace-nowrap">
-          {category}
-        </span>
-      )}
+      {
+        showCategory && category && (
+          <span class="ml-2 inline-block text-xs bg-gray-100 text-gray-600 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 rounded max-w-[120px] truncate whitespace-nowrap">
+            {category}
+          </span>
+        )
+      }
     </div>
-    {description && (
-      <p class="text-sm text-gray-900 dark:text-gray-400 mt-1 line-clamp-2">
-        {description}
-      </p>
-    )}
+    {
+      description && (
+        <p class="text-sm text-gray-900 dark:text-gray-400 mt-1 line-clamp-2">
+          {description}
+        </p>
+      )
+    }
     <span class="text-xs text-gray-700 dark:text-gray-500 mt-2">
       {formattedDate}
     </span>

@@ -20,8 +20,9 @@ tags:
   - playstation
   - playstation 5
   - xbox
+  - console
 thumb: /images/reviews/2024-01-01-ghost-of-tsushima-0.avif
-title: An Exquisite Return to Form | Ghost of Tsushima (PS5 Director’s Cut)
+title: The best Samurai game yet bar none | Ghost of Tsushima (Director’s Cut) Review
 game: Ghost of Tsushima
 ---
 

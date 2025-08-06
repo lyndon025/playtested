@@ -1,93 +1,78 @@
 ---
-import SiteOptions from "../site.config.mjs"
+import SiteOptions from "../site.config.mjs";
 
 export interface Props {
   page: {
-    data: any[]
-    url: {
-      current: string
-      next?: string
-      prev?: string
-    }
-    currentPage: number
-    lastPage: number
-    size: number
-    total: number
-  }
+    data: any[];
+    url: { current: string; next?: string; prev?: string };
+    currentPage: number;
+    lastPage: number;
+    size: number;
+    total: number;
+  };
 }
 
-const { page } = Astro.props
+const { page } = Astro.props;
 
-// 🔧 Normalize base path for /blog, /tag/foo, /category/bar
+// Normalize base path (removes any `/page/X` or trailing slash)
 let basePath = page.url.current
-  .replace(/\/page\/\d+\/?$/, "")  // remove /page/2
-  .replace(/\/$/, "")              // remove trailing slash
-  .replace(/\/\d+$/, "")           // also remove trailing numeric fallback like /blog/2
+  .replace(/\/page\/\d+\/?$/, "")
+  .replace(/\/$/, "")
+  .replace(/\/\d+$/, "");
 
-const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filter((pageNum) =>
-  pageNum === 1 ||
-  pageNum === page.lastPage ||
-  Math.abs(pageNum - page.currentPage) <= 2
-)
+const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filter(
+  (num) =>
+    num === 1 ||
+    num === page.lastPage ||
+    Math.abs(num - page.currentPage) <= 2
+);
 ---
 
 <nav class="flex justify-center items-center space-x-2 flex-wrap mt-12" aria-label="Pagination Navigation">
-  <!-- Previous Button -->
-  {
-    SiteOptions.pagination.showPrevNext &&
-      (page.url.prev ? (
-        <a href={page.url.prev} class="px-4 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 border border-gray-300 dark:border-gray-600 rounded-md hover:border-gray-400 dark:hover:border-gray-500 transition-colors" aria-label="Go to previous page">
-          ← {SiteOptions.pagination.prevText}
-        </a>
-      ) : (
-        <span class="px-4 py-2 text-sm font-medium text-gray-400 dark:text-gray-600 border border-gray-200 dark:border-gray-700 rounded-md cursor-not-allowed">← {SiteOptions.pagination.prevText}</span>
-      ))
-  }
+  {SiteOptions.pagination.showPrevNext &&
+    (page.url.prev ? (
+      <a href={page.url.prev} class="px-4 py-2 text-sm font-medium ..." aria-label="Go to previous page">
+        ← {SiteOptions.pagination.prevText}
+      </a>
+    ) : (
+      <span class="px-4 py-2 text-sm font-medium cursor-not-allowed">
+        ← {SiteOptions.pagination.prevText}
+      </span>
+    ))}
+  
+  {visiblePages.map((num, idx) => {
+    const prevNum = visiblePages[idx - 1];
+    const isEllipsis = idx > 0 && num - prevNum > 1;
+    const url = num === 1 ? `${basePath}` : `${basePath}/page/${num}`;
+    return (
+      <div class="flex items-center" key={num}>
+        {isEllipsis && <span class="px-2 select-none">…</span>}
+        {num === page.currentPage ? (
+          <span class="px-3 py-2 text-sm font-medium bg-gray-900 text-white rounded-md" aria-current="page">
+            {num}
+          </span>
+        ) : (
+          <a href={url} class="px-3 py-2 text-sm font-medium hover:bg-gray-100 rounded-md">
+            {num}
+          </a>
+        )}
+      </div>
+    );
+  })}
 
-  <!-- Page Numbers -->
-  {
-    visiblePages.map((pageNum, idx) => {
-      const prevPageNum = visiblePages[idx - 1]
-      const isEllipsis = idx > 0 && pageNum - prevPageNum > 1
-
-      const pageUrl = pageNum === 1
-        ? `${basePath}/`
-        : `${basePath}/page/${pageNum}`
-
-      return (
-        <div class="flex items-center" key={`page-${pageNum}`}>
-          {isEllipsis && <span class="px-2 select-none text-gray-400 dark:text-gray-600">…</span>}
-          {
-            pageNum === page.currentPage ? (
-              <span class="px-3 py-2 text-sm font-medium bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 rounded-md" aria-current="page">
-                {pageNum}
-              </span>
-            ) : (
-              <a href={pageUrl} class="px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-md transition-colors" aria-label={`Go to page ${pageNum}`}>
-                {pageNum}
-              </a>
-            )
-          }
-        </div>
-      )
-    })
-  }
-
-  <!-- Next Button -->
-  {
-    SiteOptions.pagination.showPrevNext &&
-      (page.url.next ? (
-        <a href={page.url.next} class="px-4 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 border border-gray-300 dark:border-gray-600 rounded-md hover:border-gray-400 dark:hover:border-gray-500 transition-colors" aria-label="Go to next page">
-          {SiteOptions.pagination.nextText} →
-        </a>
-      ) : (
-        <span class="px-4 py-2 text-sm font-medium text-gray-400 dark:text-gray-600 border border-gray-200 dark:border-gray-700 rounded-md cursor-not-allowed">{SiteOptions.pagination.nextText} →</span>
-      ))
-  }
+  {SiteOptions.pagination.showPrevNext &&
+    (page.url.next ? (
+      <a href={page.url.next} class="px-4 py-2 text-sm font-medium ..." aria-label="Go to next page">
+        {SiteOptions.pagination.nextText} →
+      </a>
+    ) : (
+      <span class="px-4 py-2 text-sm font-medium cursor-not-allowed">
+        {SiteOptions.pagination.nextText} →
+      </span>
+    ))}
 </nav>
 
-<!-- Pagination Info -->
-<div class="text-center mt-4 text-sm text-gray-500 dark:text-gray-400">
+<div class="text-center mt-4 text-sm text-gray-500">
   Showing {(page.currentPage - 1) * page.size + 1} to {Math.min(page.currentPage * page.size, page.total)} of {page.total}
   {SiteOptions.pagination.postLabel}
 </div>

@@ -5,7 +5,7 @@ slug: 2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet-rev
 title: The best game in the series is the easiest and most fun yet | Review - Tekken 8
 game: Tekken 8
 description: ✨Overview Tekken 8 is the eighth installment in the renowned Tekken fighting game series, developed and produced by Bandai Namco Entertainment. Released as a successor to Tekken 7, the game introduces several notable features and enhancements, marking a significant evolution in the franchise. The game is now available on all major platforms; PC, Xbox, and PS, and will feature crossplay support so everyone on any platform can play against each other.
-featured: false
+featured: true
 gallery:
   - /images/reviews/legacy/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-0.avif
   - /images/reviews/legacy/2024-01-27-the-best-game-in-the-series-is-the-easiest-and-most-fun-yet--review---tekken-8-1.avif

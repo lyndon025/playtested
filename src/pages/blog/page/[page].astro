@@ -1,64 +1,73 @@
 ---
-import { getCollection } from "astro:content"
-import BlogLayout from "../../../layouts/BlogLayout.astro"
-import Header from "../../../components/Header.astro"
-import Footer from "../../../components/Footer.astro"
-import PostCard from "../../../components/PostCard.astro"
-import Pagination from "../../../components/Pagination.astro"
-import SiteOptions from "../../../site.config.mjs"
+import { getCollection } from "astro:content";
+import SiteOptions from "../../../site.config.mjs";
+import BlogLayout from "../../../layouts/BlogLayout.astro";
+import Header from "../../../components/Header.astro";
+import Footer from "../../../components/Footer.astro";
+import PostCard from "../../../components/PostCard.astro";
+import Pagination from "../../../components/Pagination.astro";
 
-// ✅ Must be declared BEFORE any logic
+// Posts-per-page constant
 const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
 
-// ✅ Generate paths for /blog/page/2 and onwards
 export async function getStaticPaths() {
-const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
-  const allPosts = await getCollection("article")
-  const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE)
-  const paths = []
-
-  for (let i = 2; i <= totalPages; i++) {
-    paths.push({ params: { page: i.toString() } })
-  }
-
-  return paths
+  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
+  const allPosts = await getCollection("article");
+  const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+  return Array.from({ length: totalPages }, (_, i) => ({
+    params: { page: String(i + 1) },
+  }));
 }
 
-// ✅ Extract page param and generate paginated data
-const { page } = Astro.params
-const currentPage = parseInt(page)
-const allPosts = await getCollection("article")
+// 2) Extract and validate `page`
+const { page } = Astro.params;
+const currentPage = Number(page);
 
-const sortedPosts = allPosts
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .reverse()
+// 3) Fetch & sort newest → oldest
+const allPosts = await getCollection("article");
+const sortedPosts = allPosts.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
 
-const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE)
-const start = (currentPage - 1) * POSTS_PER_PAGE
-const paginated = sortedPosts.slice(start, start + POSTS_PER_PAGE)
+// 4) Calculate pagination slice
+const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE);
+const start = (currentPage - 1) * POSTS_PER_PAGE;
+const paginated = sortedPosts.slice(start, start + POSTS_PER_PAGE);
 
+// 5) Bounds check
+if (currentPage < 1 || currentPage > totalPages) {
+  throw Astro.error(404, "Page not found");
+}
+
+// 6) Build pageData for Pagination component
 const pageData = {
   data: paginated,
   url: {
     current: `/blog/page/${currentPage}`,
-    prev: currentPage > 2 ? `/blog/page/${currentPage - 1}` : `/blog`,
+    prev: currentPage > 1 ? `/blog/page/${currentPage - 1}` : undefined,
     next: currentPage < totalPages ? `/blog/page/${currentPage + 1}` : undefined,
   },
   currentPage,
   lastPage: totalPages,
   size: POSTS_PER_PAGE,
   total: sortedPosts.length,
-}
+};
 ---
 
-<BlogLayout title={`Page ${currentPage} - All Posts`}>
-  <Header showTitle={true} />
-  <h1 class="text-3xl font-bold mb-8 text-center">All Posts</h1>
+<BlogLayout title={`All Posts – Page ${currentPage}`}>
+  <Header showTitle />
 
-<ul class="grid grid-cols-2 gap-x-6 gap-y-6">
-  {paginated.map(post => <PostCard post={post} />)}
-</ul>
+  <h1 class="text-3xl font-bold text-center mb-8">
+    All Posts (Page {currentPage} of {totalPages})
+  </h1>
+
+  <ul class="grid grid-cols-2 gap-6">
+    {paginated.map((post) => (
+      <PostCard post={post} />
+    ))}
+  </ul>
 
   <Pagination page={pageData} />
+
   <Footer />
 </BlogLayout>

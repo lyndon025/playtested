@@ -12,7 +12,14 @@ const { post } = Astro.props;
 const { title, description, thumb, score } = post.data;
 const roundedScore = typeof score === 'number' ? Math.round(score) : null;
 ---
-<article class="bg-gray-50 dark:bg-slate-800 rounded-lg shadow-sm p-6 flex flex-col items-start">
+<article
+ class="
+    bg-gray-50 dark:bg-slate-800 rounded-lg shadow-sm
+    p-6
+    h-full           /* fill the wrapper’s height */
+    flex flex-col    /* allow distributing inside */
+  "
+>
   {
     SiteOptions.showThumbnailOnFeaturedPosts && thumb && (
       <a href={`/article/${post.slug}`} class="w-full block group relative featured-card-thumb">

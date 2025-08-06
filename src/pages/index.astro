@@ -1,69 +1,182 @@
 ---
-import { getCollection } from "astro:content"
-import BlogLayout from "../layouts/BlogLayout.astro"
-import Header from "../components/Header.astro"
-import Footer from "../components/Footer.astro"
-import PostCard from "../components/PostCard.astro"
-import FeaturedCard from "../components/FeaturedCard.astro"
-import SiteOptions from "../site.config.mjs"
+import { getCollection } from "astro:content";
+import BlogLayout from "../layouts/BlogLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import PostCard from "../components/PostCard.astro";
+import FeaturedCard from "../components/FeaturedCard.astro";
+import SiteOptions from "../site.config.mjs";
 
-// Get all articles and sort by publication date
-const allPosts = await getCollection("article")
-const sortedPosts = allPosts.sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf())
+// fetch & sort posts
+const allPosts = await getCollection("article");
+const sortedPosts = allPosts.sort(
+  (a, b) =>
+    new Date(b.data.pubDate).valueOf() -
+    new Date(a.data.pubDate).valueOf()
+);
 
-// Get featured posts
-const featuredPosts = allPosts.filter((post) => post.data.featured).slice(0, 3)
+// featuredPosts up to N
+const featuredPosts = allPosts
+  .filter((post) => post.data.featured)
+  .slice(0, SiteOptions.numberOfFeaturedPostsOnHomePage || 6);
 
-// Get latest posts for homepage (limit to 6)
-const latestPosts = sortedPosts.slice(0, SiteOptions.numberOfLatestPostsOnHomePage || 6)
-const showCategory = SiteOptions.showCategoryOnPosts || false
+// latest posts for below
+const latestPosts = sortedPosts.slice(
+  0,
+  SiteOptions.numberOfLatestPostsOnHomePage || 6
+);
+const showCategory = SiteOptions.showCategoryOnPosts || false;
+
+// carousel settings
+const visible = 3;
+const pages = Math.max(featuredPosts.length - visible + 1, 1);
 ---
 
-<BlogLayout title=`${SiteOptions.siteTitle}`>
+<BlogLayout title={SiteOptions.siteTitle}>
   <Header />
 
-  <!-- Light Horizontal Bar -->
-  <hr class="border-t border-gray-200 dark:border-gray-700 my-8" />
+  <hr class="border-t border-gray-200 dark:border-gray-700 my-2" />
 
-  <!-- Featured Blog Posts -->
+  {SiteOptions.showFeaturrdPostsOnHomePage && featuredPosts.length > 0 && (
+    <section class="pt-0 pb-8">
+      <h2 class="mt-0 mb-2 text-2xl font-semibold text-center">
+        Featured Posts
+      </h2>
 
-  {
-    SiteOptions.showFeaturrdPostsOnHomePage && featuredPosts.length > 0 && (
-      <section class="mb-16">
-        {SiteOptions.labels.featuredPosts && <h2 class="text-2xl font-semibold mb-8 text-center">{SiteOptions.labels.featuredPosts}</h2>}
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {featuredPosts.map((post) => (
-            <FeaturedCard post={post} />
+      <div class="relative">
+        <!-- Prev / Next -->
+        <button
+          id="carousel-prev"
+          class="absolute left-0 top-2/7 -translate-y-1/2 z-20 p-4 bg-white dark:bg-slate-700 rounded-full shadow-lg text-2xl disabled:opacity-50 cursor-pointer"
+        >❮</button>
+        <button
+          id="carousel-next"
+          class="absolute right-0 top-2/7 -translate-y-1/2 z-20 p-4 bg-white dark:bg-slate-700 rounded-full shadow-lg text-2xl disabled:opacity-50 cursor-pointer"
+        >❯</button>
+
+        <!-- Track -->
+        <div id="carousel-viewport" class="overflow-hidden">
+          <div
+            id="carousel-track"
+            class="flex transition-transform duration-300 ease-in-out items-stretch"
+          >
+            {featuredPosts.map((post) => (
+              <div class="carousel-item w-1/3 flex-shrink-0 px-2 overflow-hidden h-auto">
+                <div class="h-full flex flex-col">
+                  <FeaturedCard post={post} />
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <!-- Indicators: 1 dummy start, N pages, 1 dummy end -->
+        <div id="carousel-indicators" class="flex justify-center mt-4 space-x-2">
+          <!-- DUMMY START -->
+          <div class="w-6 h-2 rounded bg-gray-400 dark:bg-gray-700"></div>
+
+          <!-- REAL PAGE BUTTONS -->
+          {Array.from({ length: pages }, (_, p) => (
+            <button
+              class="indicator w-6 h-2 rounded bg-gray-300 dark:bg-gray-600 cursor-pointer"
+              data-page={p}
+            />
           ))}
-        </div>
-        <hr class="border-t border-gray-500 dark:border-gray-700 my-12" />
-      </section>
-    )
-  }
 
-  <!-- Latest Blog Posts -->
-  <section>
-    {SiteOptions.labels.latestPosts && <h2 class="text-2xl font-semibold mb-8 text-center">{SiteOptions.labels.latestPosts}</h2>}
-<ul class="grid grid-cols-2 gap-x-6 gap-y-6">
-      {latestPosts.map((post) => <PostCard post={post} showCategory={showCategory} />)}
+          <!-- DUMMY END -->
+          <div class="w-6 h-2 rounded bg-gray-400 dark:bg-gray-700"></div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Latest Posts… -->
+  <section class="py-8">
+    {SiteOptions.labels.latestPosts && (
+      <h2 class="text-2xl font-semibold mb-5 text-center">
+        {SiteOptions.labels.latestPosts}
+      </h2>
+    )}
+    <ul class="grid grid-cols-2 gap-x-6 gap-y-6">
+      {latestPosts.map((post) => (
+        <PostCard post={post} showCategory={showCategory} />
+      ))}
     </ul>
-
-    <!-- View All Posts Link -->
-    {
-      sortedPosts.length > 6 && (
-        <div class="text-center mt-8">
-          <a href="/blog/" class="inline-flex items-center px-6 py-3 text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-md transition-colors">
-            {/* View All Posts ({sortedPosts.length}) */}
-            {SiteOptions.labels.viewAllPosts}
-            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-            </svg>
-          </a>
-        </div>
-      )
-    }
-
-    <!-- Minimal Footer -->
+    {sortedPosts.length > latestPosts.length && (
+      <div class="text-center mt-8">
+        <a
+          href="/blog/page/1"
+          class="inline-flex items-center px-6 py-3 text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-md transition-colors"
+        >
+          {SiteOptions.labels.viewAllPosts}
+          <svg
+            class="ml-2 w-4 h-4"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 5l7 7-7 7"
+            />
+          </svg>
+        </a>
+      </div>
+    )}
     <Footer />
   </section>
 </BlogLayout>
+
+<script type="module" client:load>
+  const track = document.getElementById("carousel-track");
+  const prevBtn = document.getElementById("carousel-prev");
+  const nextBtn = document.getElementById("carousel-next");
+  const indicators = Array.from(document.querySelectorAll(".indicator"));
+
+  const visible = 3;
+  const pages = indicators.length;      // as defined above
+  let idx = 0;
+  const maxIdx = pages - 1;
+
+  function updateButtons() {
+    prevBtn.disabled = idx <= 0;
+    nextBtn.disabled = idx >= maxIdx;
+  }
+
+  function updateIndicators() {
+    indicators.forEach((btn, j) => {
+      const active = j === idx;
+      btn.classList.toggle("bg-gray-800", active);
+      btn.classList.toggle("dark:bg-gray-200", active);
+      btn.classList.toggle("bg-gray-300", !active);
+      btn.classList.toggle("dark:bg-gray-600", !active);
+    });
+  }
+
+  function slide() {
+    // move by idx pages; each page = one-card shift => 100/visible %
+    track.style.transform = `translateX(-${(idx * 100) / visible}%)`;
+    updateButtons();
+    updateIndicators();
+  }
+
+  prevBtn.addEventListener("click", () => {
+    if (idx > 0) { idx--; slide(); }
+  });
+  nextBtn.addEventListener("click", () => {
+    if (idx < maxIdx) { idx++; slide(); }
+  });
+
+  indicators.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const p = parseInt(btn.dataset.page, 10);
+      idx = Math.min(Math.max(p, 0), maxIdx);
+      slide();
+    });
+  });
+
+  window.addEventListener("load", slide);
+  window.addEventListener("resize", slide);
+</script>

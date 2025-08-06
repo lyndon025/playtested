@@ -33,6 +33,13 @@ code > span.line {
   text-overflow: ellipsis;
 }
 
+.clamp-2-lines {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
 /* Default Score Badge */
 .score-badge {
   position: absolute;

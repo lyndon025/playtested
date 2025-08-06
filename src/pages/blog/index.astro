@@ -1,42 +1,74 @@
 ---
-import { getCollection } from "astro:content"
-import BlogLayout from "../../layouts/BlogLayout.astro"
-import Header from "../../components/Header.astro"
-import Footer from "../../components/Footer.astro"
-import PostCard from "../../components/PostCard.astro"
-import Pagination from "../../components/Pagination.astro"
-import SiteOptions from "../../site.config.mjs"
+import { getCollection } from "astro:content";
+import SiteOptions from "../../site.config.mjs";
+import BlogLayout from "../../layouts/BlogLayout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import PostCard from "../../components/PostCard.astro";
+import FeaturedCard from "../../components/FeaturedCard.astro";
 
-const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
+// Posts-per-page constant
+const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 
-const allPosts = await getCollection("article")
-const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+// Fetch & sort newest → oldest
+const allPosts = await getCollection("article");
+const sortedPosts = allPosts.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
 
-const paginated = sortedPosts.slice(0, POSTS_PER_PAGE)
-const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE)
+// Featured posts up to N
+const featuredPosts = allPosts
+  .filter((post) => post.data.featured)
+  .slice(0, SiteOptions.numberOfFeaturedPostsOnHomePage || 6);
 
-const pageData = {
-  data: paginated,
-  url: {
-    current: "/blog",
-    prev: undefined,
-    next: totalPages > 1 ? `/blog/page/2` : undefined,
-  },
-  currentPage: 1,
-  lastPage: totalPages,
-  size: POSTS_PER_PAGE,
-  total: sortedPosts.length,
-}
+// Latest posts slice
+const latestPosts = sortedPosts.slice(0, SiteOptions.numberOfLatestPostsOnHomePage || POSTS_PER_PAGE);
+
+// For “View All Posts” button
+const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE);
 ---
+<BlogLayout title={SiteOptions.siteTitle}>
+  <Header />
 
-<BlogLayout title="All Posts">
-  <Header showTitle={true} />
-  <h1 class="text-3xl font-bold mb-8 text-center">All Posts</h1>
+  <hr class="border-t border-gray-200 dark:border-gray-700 my-4" />
 
-<ul class="grid grid-cols-2 gap-x-6 gap-y-6">
-  {paginated.map(post => <PostCard post={post} />)}
-</ul>
+  {featuredPosts.length > 0 && (
+    <section class="pb-8">
+      <h2 class="text-2xl font-semibold text-center mb-4">
+        Featured Posts
+      </h2>
+      <div class="grid grid-cols-3 gap-4">
+        {featuredPosts.map((post) => (
+          <FeaturedCard post={post} />
+        ))}
+      </div>
+    </section>
+  )}
 
-  <Pagination page={pageData} />
+  <section class="py-8">
+    <h2 class="text-2xl font-semibold text-center mb-4">
+      {SiteOptions.labels.latestPosts}
+    </h2>
+    <ul class="grid grid-cols-2 gap-6">
+      {latestPosts.map((post) => (
+        <PostCard post={post} showCategory={SiteOptions.showCategoryOnPosts} />
+      ))}
+    </ul>
+
+    {sortedPosts.length > latestPosts.length && (
+      <div class="text-center mt-8">
+        <a
+          href="/blog/page/1"
+          class="inline-flex items-center px-6 py-3 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded-md hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
+        >
+          {SiteOptions.labels.viewAllPosts}
+          <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+        </a>
+      </div>
+    )}
+  </section>
+
   <Footer />
 </BlogLayout>
