@@ -36,12 +36,7 @@ Party Animals is a multiplayer physics-based brawler and party game developed by
 - Cute fluffy animals for its characters
 - Graphics are incredibly overdetailed and overkill
 - A great deal of fun and variety in the maps
-- Eliminated players can still participate and play with their own mini-game
-
-
-
-
-## Cons
+- Eliminated players can still participate and play with their own mini-game## Cons
 - The controls feel floaty and can be hard to grasp especially at the beginning
 - Map design can be somewhat frustrating at times
 - Confusing teamplay system

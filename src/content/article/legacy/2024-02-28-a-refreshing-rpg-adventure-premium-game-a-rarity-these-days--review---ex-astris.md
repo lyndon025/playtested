@@ -44,11 +44,6 @@ Ex Astris, developed by Hypergryph (developers of Arknights), offers a unique bl
 - Exploration and puzzle-solving elements
 - Login only required on starting the game, can play offline afterwards
 - One-time payment, no gacha or microtransactions
-
-
-
-
-
 ## Cons
 - The storytelling can be confusing and it’s not that compelling
 - Limited voice acting and language options (No english voice)

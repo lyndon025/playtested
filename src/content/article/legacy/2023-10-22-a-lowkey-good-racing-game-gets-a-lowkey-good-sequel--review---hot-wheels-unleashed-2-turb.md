@@ -42,20 +42,15 @@ Hot Wheels Unleashed 2: Turbocharged, the sequel to the 2021 original, comes cha
 
 
 
-## +Decent vehicle handling and controls
+- Decent vehicle handling and controls
 
-## +Introduction of new vehicle types and classes
+- Introduction of new vehicle types and classes
 
-## +Immersive graphics that resemble real Hot Wheels toys instead of actual cars
+- Immersive graphics that resemble real Hot Wheels toys instead of actual cars
 
-## +Expansive Track Builder to create custom tracks
+- Expansive Track Builder to create custom tracks
 
-## +New challenging ways to race, on and off track
-
-
-
-
-## Cons
+- New challenging ways to race, on and off track## Cons
 
 
 -Story is forgettable

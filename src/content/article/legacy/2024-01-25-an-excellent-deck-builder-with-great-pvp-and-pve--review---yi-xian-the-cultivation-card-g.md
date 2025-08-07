@@ -4,7 +4,7 @@ category: Review
 slug: 2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve-review-yi-xian-the-cultivation-card-g
 title: 'An excellent deck builder with great PVP and PVE | Review - Yi Xian: The Cultivation Card Game'
 game: 'Yi Xian: The Cultivation Card Game'
-description: 'Yi Xian: The Cultivation Card Game 7.6 Casual Strategy Get'
+description: 'Yi Xian: The Cultivation Card Game is an online deck-building game that blends elements of card battles, autochess, and rogue-like genres. With both a focus on both PvP and PvE modes, players embark on a journey of cultivation, drawing cards and strategically building decks from scratch.'
 featured: false
 gallery:
   - /images/reviews/legacy/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-0.avif
@@ -28,12 +28,6 @@ tags:
 thumb: /images/reviews/legacy/2024-01-25-an-excellent-deck-builder-with-great-pvp-and-pve--review---yi-xian-the-cultivation-card-g-0.avif
 ---
 
-Yi Xian: The Cultivation Card Game
-7.6
-Casual
-Strategy
-Get
-
 
 ## ✨Overview
 Yi Xian: The Cultivation Card Game is an online deck-building game that blends elements of card battles, autochess, and rogue-like genres. With both a focus on both PvP and PvE modes, players embark on a journey of cultivation, drawing cards and strategically building decks from scratch.
@@ -47,11 +41,6 @@ Yi Xian: The Cultivation Card Game is an online deck-building game that blends e
 - Excellent 8-way PvP system
 - Excellent rogue-like singleplayer PvE game mode
 - Good free-to-play model; everything can be bought with F2P grind, with in-app purchases for cosmetics
-
-
-
-
-
 ## Cons
 - Heavy reliance on RNG system to draw wanted cards
 - Minor translation and localization issues

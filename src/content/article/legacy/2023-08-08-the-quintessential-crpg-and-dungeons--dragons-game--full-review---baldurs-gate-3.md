@@ -57,12 +57,7 @@ Baldur's Gate 3, an epic RPG developed by Larian Studios and building on the leg
 - amazing soundtrack
 - smooth experience overall
 - well-built and separate UI for both keyboard mouse and controller
-- coop multiplayer option with split-screen
-
-
-
-
-## Cons
+- coop multiplayer option with split-screen## Cons
 - mechanics can be overwhelming for newcomers
 
 

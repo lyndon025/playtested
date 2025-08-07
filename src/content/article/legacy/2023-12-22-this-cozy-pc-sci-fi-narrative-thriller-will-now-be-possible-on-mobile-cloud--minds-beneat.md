@@ -32,13 +32,6 @@ tags:
 thumb: /images/reviews/legacy/2023-12-22-this-cozy-pc-sci-fi-narrative-thriller-will-now-be-possible-on-mobile-cloud--minds-beneat-0.avif
 ---
 
-Minds Beneath Us
-8.5
-Story Rich
-Puzzle
-Test
-
-
 ## ✨Overview
 
 Minds Beneath Us is an upcoming story-rich sci-fi thriller and an interactive adventure game set in a futuristic Asian city. The game explores a society fully automated with AI, with a focus on dialogue choices, relationship dynamics, and immersive storytelling, Minds Beneath Us promises a unique gaming experience.  I just played the demo, and while short, offers a glimpse into the game's huge potential, showcasing a compelling narrative and a visually stunning world.

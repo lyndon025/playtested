@@ -31,24 +31,19 @@ Street Fighter 6 has come a long way. It features a 18-character roster of both 
 
 
 
-## +The action-packed catchy soundtrack
+- The action-packed catchy soundtrack
 
 
-## +World Tour singleplayer “RPG” game mode
+- World Tour singleplayer “RPG” game mode
 
 
-## +A new stellar mechanic called the Drive System
+- A new stellar mechanic called the Drive System
 
 
-## +Very newcomer friendly with new control mechanics
+- Very newcomer friendly with new control mechanics
 
 
-## +Commentary option capturing the feel of a highly competing esports environment
-
-
-
-
-## Cons
+- Commentary option capturing the feel of a highly competing esports environment## Cons
 
 
 -Story is lackluster

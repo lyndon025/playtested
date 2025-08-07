@@ -45,22 +45,17 @@ Temple Run is an addictive and engaging reaction-based high score game that was 
 
 
 
-## +Simple but challenging gameplay
+- Simple but challenging gameplay
 
 
-## +Rogue-lite elements (persistent upgrades) to keep you sucked in
+- Rogue-lite elements (persistent upgrades) to keep you sucked in
 
 
-## +Ageless visual design
-
-
-
-
-## Cons
+- Ageless visual design## Cons
 
 
 
-## +Requires great reflexes to play
+- Requires great reflexes to play
 
 In Temple Run, players take on the role of an adventurer who has stumbled upon an ancient temple filled with traps and obstacles. The adventurer must endlessly run through the temple, avoiding obstacles, collecting coins, and trying to outrun a group of demonic monkeys chasing after them.
 

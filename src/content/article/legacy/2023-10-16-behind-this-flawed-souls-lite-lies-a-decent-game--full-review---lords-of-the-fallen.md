@@ -45,11 +45,6 @@ Lords of the Fallen servers as both a soft reboot and a loose sequel to its 2014
 - Beautiful world design
 - Unique dual-reality mechanic
 - Forviging and fun combat mechanics
-
-
-
-
-
 ## Cons
 - Horrible performance and visual issues
 - The fun combat is undermined by annoying controls

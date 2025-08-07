@@ -45,18 +45,13 @@ N-INNOCENCE is an upcoming brawler RPG game set in a fantasy world full of famil
 
 
 
-## +Simple, but addictive combat
+- Simple, but addictive combat
 
 
-## +Interesting premise and story
+- Interesting premise and story
 
 
-## +Beautiful artstyle
-
-
-
-
-## Cons
+- Beautiful artstyle## Cons
 
 
 -distribution of story and gameplay is not well balanced

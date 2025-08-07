@@ -45,18 +45,13 @@ Destiny Saga is a narratively-driven retro-style Action RPG with gacha elements 
 
 
 
-## +Nostalgic retro-style JRPG art style
+- Nostalgic retro-style JRPG art style
 
 
-## +Fluid and engaging ARPG combat
+- Fluid and engaging ARPG combat
 
 
-## +Seamless character switching
-
-
-
-
-## Cons
+- Seamless character switching## Cons
 
 
 -Movement controls need tweaking

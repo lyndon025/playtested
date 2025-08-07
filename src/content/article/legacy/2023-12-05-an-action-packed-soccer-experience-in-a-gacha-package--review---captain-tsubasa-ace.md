@@ -50,11 +50,6 @@ CAPTAIN TSUBASA: ACE is a mobile online competitive football / soccer game with 
 - Variety of game modes: singleplayer, story, async PvP, real-time PvP
 - Engaging progression and team building
 - Fun to use skills and abilities for each character
-
-
-
-
-
 ## Cons
 - Needs work on its fluidity and player-to-player animations/interactions
 - No live commentary from players or announcers during matches

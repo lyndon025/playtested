@@ -43,21 +43,16 @@ Refactor is a roguelike tower defense game featuring a Tetris-like building syst
 
 
 
-## +Unique but familiar Tetris-like building system
+- Unique but familiar Tetris-like building system
 
 
-## +Innovative tower defense mechanics
+- Innovative tower defense mechanics
 
 
-## +Risk-and-reward resource management elements
+- Risk-and-reward resource management elements
 
 
-## +Nostalgic Visual and Audio Experience
-
-
-
-
-## Cons
+- Nostalgic Visual and Audio Experience## Cons
 
 
 -It’s mind-bending difficulty might not be for everyone

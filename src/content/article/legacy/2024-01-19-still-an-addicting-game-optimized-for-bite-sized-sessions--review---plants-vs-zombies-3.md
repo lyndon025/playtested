@@ -28,12 +28,6 @@ tags:
 thumb: /images/reviews/legacy/2024-01-19-still-an-addicting-game-optimized-for-bite-sized-sessions--review---plants-vs-zombies-3-0.avif
 ---
 
-Plants vs. Zombies™ 3
-7.0
-Action
-Puzzle
-
-
 ## ✨Overview
 
 Plants vs. Zombies 3: Welcome to Zomburbia, is the third main installment of the popular tower defense game series developed by PopCap Games. In the game, players must defend their home from waves of zombies by strategically placing different types of plants in their yard.
@@ -48,11 +42,6 @@ Plants vs. Zombies 3 has had a rough history since it’s initial announcement, 
 - Charming simplistic cartoon visuals
 - Optimized for bite-sized gaming sessions
 - Homescape-esque style of decorating the town and environment
-
-
-
-
-
 ## Cons
 - Very simplified mechanics compared to its predecessors that it loses a lot of depth
 - A bit too much handholding with the tutorials, very unliberating for the player

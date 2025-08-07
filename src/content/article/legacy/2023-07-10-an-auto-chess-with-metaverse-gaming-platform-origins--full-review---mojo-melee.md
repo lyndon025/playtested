@@ -46,21 +46,16 @@ Mojo Melee is a real-time auto chess battler that will challenge your intellect 
 
 
 
-## +Strategic depth
+- Strategic depth
 
 
-## +Unique visual style
+- Unique visual style
 
 
-## +Dynamic and unpredictable combat
+- Dynamic and unpredictable combat
 
 
-## +Is set to be available for browsers, Android, and iOS.
-
-
-
-
-## Cons
+- Is set to be available for browsers, Android, and iOS.## Cons
 
 
 -No players for matchmaking

@@ -6,6 +6,7 @@ title: 'Beautiful fast-paced combat, high difficulty | Full Review - Wo Long: Fa
 game: 'Wo Long: Fallen Dynasty'
 description: 'Wo Long: Fallen Dynasty is a fast-paced, souls-like third person RPG set in a fictionalized version of ancient Three Kingdoms China.'
 featured: false
+score: 6.0
 gallery:
   - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-0.avif
   - /images/reviews/legacy/2023-03-04-beautiful-fast-paced-combat-high-difficulty--full-review---wo-long-fallen-dynasty-1.avif
@@ -48,26 +49,14 @@ Wo Long: Fallen Dynasty is a fast-paced, souls-like third person RPG set in a fi
 
 
 ## Pros
-
-
-
-## +fun combat mechanics
-
-
-## +fairly challenging enemies
-
-
-## +varied boss fights
-
-
-
+- fun combat mechanics
+- fairly challenging enemies
+- varied boss fights
 
 ## Cons
+- Major performance and optimization issues
 
-
--Major performance and optimization issues
-
-The Three Kingdoms again?
+## The Three Kingdoms again?
 
 It seems that KOEI of Dynasty Warriors and Romance of the Three Kingdoms fame is not yet done with the Three Kingdoms era with yet another take on the setting, this time with Wo Long: Fallen Dynasty, drawing inspiration from the Dark Souls series and the genre it spawned. Players must battle their way through hordes of demons and historical figures using a variety of weapons, spells, and skills; and must rise from zero to hero.
 
@@ -77,7 +66,7 @@ Despite having a “voice” option in the pretty robust character customization
 
 The whole story centers around a mystical elixir that gives power and everlasting life. Amidst all the chaos, demons have also invaded and pose a threat to the land. The story is simple but is teeming with historical detail, from the Yellow Turban Rebellion to Chinese historical figures like Zhao Yun and Zhang Liang, of course, highly fictionalized over-the-top versions of them.
 
-Gameplay Analysis
+## Gameplay Analysis
 
 The combat system is based on timing and mastering the parry system, requiring players to plan their attacks and conserve energy rather than relying on pure aggressiveness. Parrying can be used to quickly turn the tables on enemies and deal devastating damage. While blocking and dodging are also viable options, parrying is the most effective way to defeat many of the game's bosses, making it a key skill for players to master. The combat is highly fast-paced, filled with constant hits, blocks, and parries that are so satisfying and gratifying to do and never gets old.
 
@@ -87,13 +76,13 @@ This is an amazing change to the formula that encourages fast-paced action and c
 
 The melee combat offers players a variety of weapon types to use, from the likes of swords, sabers, spears, and even halberds. All offering different kinds of combat styles to the player. Not just that, but it also features ranged combat as well, but this isn’t really the type of game that lingers too much on ranged combat, which functions more like a mandatory inclusion more than anything.
 
-Level up your Virtues
+## Level up your Virtues
 
 It also features RPG elements, mainly with the “Virtues” that the main character has: Wood, Fire, Earth, Metal, and Water – based on the Five Phases of Yin-Yang. Gameplay wise, it is basically a replacement of the typical Strength, Agility, and Intelligence system. Players have full choice on what virtue to level and each of the five virtues grants different bonuses that will help players in their preferred playstyle.
 
 The ability to wear heavier equipment, unlockable magic abilities, increased spirit generation, consumption, defense, and many more are decided by these five virtues. Players level these virtues by defeating enemies and accumulating Qi, half of which is lost upon dying.
 
-Not every game needs open-world
+## Not every game needs open-world
 
 Wo Long: Fallen Dynasty features a linear mission-based structure, and there are also side missions that players can consider to further improve their character and better prepare them for the main missions. Across the levels, players will need to utilize the morale system, which governs how much damage they can inflict to and take from enemies.
 
@@ -111,11 +100,11 @@ When you’re not battling historical figures and characters, you are befriendin
 
 Despite being a single player oriented experience, the game also features co-op play that will essentially replace the reinforcement system, so it's great news for players who are looking to play and get social. You can summon up to two friends to help you to help with tough enemies and boss fights. The invasion system from the Dark Souls series is also adapted and present in the game, allowing for some PvP action. There are also minor asymmetric multiplayer elements present.
 
-Technical Performance:
+## Technical Performance:
 
 Tested on a PC with a i7-8700k, RTX 3080, and 32GB RAM, Wo Long: Fallen Dynasty suffers from bad performance levels on PC even with higher end setups. Microstutters are present all the time and the frame-time is NEVER on a flat line, leading to an unsatisfactory performance throughout the entirety of the experience. No graphics setting -- nevermind the lack thereof -- was able to fix this. Additionally, this game is best played — or rather, at this time of writing — is only strictly playable on controllers, as the mouse camera is currently non-functional.
 
-Conclusion:
+## Conclusion:
 
 Wo Long: Fallen Dynasty is a solid entry in the action-RPG genre. While it may not revolutionize the genre, it provides a challenging, entertaining, and still somewhat accessible experience that fans of the Souls-like genre will appreciate, as long as you can bear with the current performance issues of the PC version. If you're looking for a game with fast-paced combat, fresh mechanics, and engaging boss battles, Wo Long: Fallen Dynasty is definitely worth checking out.
 

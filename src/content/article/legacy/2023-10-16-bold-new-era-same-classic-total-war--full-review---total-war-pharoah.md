@@ -42,20 +42,15 @@ It is a full-on PC game released on Steam with no console or mobile ports for no
 
 
 
-## +Stays true to the franchise's core formula, and even back to its historical roots
+- Stays true to the franchise's core formula, and even back to its historical roots
 
-## +New weather effects that affect the battles
+- New weather effects that affect the battles
 
-## +New campaign mechanics
+- New campaign mechanics
 
-## +Impressive detailed visuals
+- Impressive detailed visuals
 
-## +Smooth performance
-
-
-
-
-## Cons
+- Smooth performance## Cons
 
 
 -Poor AI behavior

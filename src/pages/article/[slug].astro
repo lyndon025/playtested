@@ -57,7 +57,9 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
   <Header showTitle />
 
   <article class="relative mt-8">
-    <div class="sticky inset-x-0 top-0 z-20 bg-white dark:bg-slate-800">
+    <div class="sticky inset-x-0 top-0 z-20 bg-white dark:bg-slate-800
+    cursor-pointer hover:bg-gray-50 dark:hover:bg-slate-700 transition-colors" onClick="window.scrollTo({ top: 190, behavior: 'smooth' })">
+      
       <div
         class="w-full max-w-5xl mx-4 flex flex-row items-start gap-4 py-4 mb-4 px-6 md:px-1"
       >
@@ -127,7 +129,7 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
     }
 
     <div
-      class="prose prose-h2:text-2xl prose-lg max-w-none text-gray-700 dark:prose-strong:text-slate-100 dark:text-gray-300 prose-headings:text-gray-900 dark:prose-headings:text-slate-100 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-code:text-slate-700 dark:prose-code:text-slate-100 prose-pre:bg-gray-100 dark:prose-pre:bg-slate-800 prose-blockquote:border-gray-300 dark:prose-blockquote:border-gray-600 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-400 prose-h3:text-[1.2em]"
+      class="pt-8 prose prose-h2:text-2xl prose-lg max-w-none text-gray-700 dark:prose-strong:text-slate-100 dark:text-gray-300 prose-headings:text-gray-900 dark:prose-headings:text-slate-100 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-code:text-slate-700 dark:prose-code:text-slate-100 prose-pre:bg-gray-100 dark:prose-pre:bg-slate-800 prose-blockquote:border-gray-300 dark:prose-blockquote:border-gray-600 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-400 prose-h3:text-[1.2em]"
     >
       <Content />
     </div>

@@ -47,21 +47,16 @@ I played Door Kickers on PC many years ago and now, playing it’s mobile port, 
 
 
 
-## +deep tactical planning
+- deep tactical planning
 
 
-## +intense real-time action
+- intense real-time action
 
 
-## +intuitive touch controls
+- intuitive touch controls
 
 
-## +100 missions + mission editor
-
-
-
-
-## Cons
+- 100 missions + mission editor## Cons
 
 
 -No cons

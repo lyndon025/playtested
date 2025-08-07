@@ -41,21 +41,16 @@ Tron: Identity is a visual novel adventure game set in the world of Tron, where 
 
 
 
-## +amazing interactive storytelling
+- amazing interactive storytelling
 
 
-## +choices matter and branching out story for replayability
+- choices matter and branching out story for replayability
 
 
-## +a dedicated game mode for the puzzle element
+- a dedicated game mode for the puzzle element
 
 
-## +lots of accessibility options: skip puzzles, increase UI text, etc.
-
-
-
-
-## Cons
+- lots of accessibility options: skip puzzles, increase UI text, etc.## Cons
 
 
 -very, very short

@@ -45,16 +45,11 @@ Well, this year, it's unfortunate to see that the campaign has not lived up to t
 
 
 
-## +Impressive visuals and audio design
+- Impressive visuals and audio design
 
-## +Smooth performance
+- Smooth performance
 
-## +Best-in-class FPS gunplay
-
-
-
-
-## Cons
+- Best-in-class FPS gunplay## Cons
 - Campaign plays like solo Warzone training/tutorial missions instead of true Call of Duty missions
 - Mission structure and story feels uninspired, missing the usual blockbuster-like set pieces
 - Overuses the Verdansk map, which perhaps is the most overused region in Call of Duty history

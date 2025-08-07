@@ -46,24 +46,19 @@ In Prime of Flames, the story revolves around the protagonist, who assumes the r
 
 
 
-## +unique and stunning art style
+- unique and stunning art style
 
 
-## +huge variety of waifu characters
+- huge variety of waifu characters
 
 
-## +highly strategic combat mechanics and class system
+- highly strategic combat mechanics and class system
 
 
-## +full of quality of life features
+- full of quality of life features
 
 
-## +full traditional game experience without Pay to Win or gacha elements
-
-
-
-
-## Cons
+- full traditional game experience without Pay to Win or gacha elements## Cons
 
 
 -UI and text english translation issues

@@ -48,21 +48,16 @@ Overwatch 2: Invasion introduces a series of story missions that expand upon the
 
 
 
-## +A refreshing coop PvE gameplay
+- A refreshing coop PvE gameplay
 
 
-## +New PvP gamemode “Flashpoint”
+- New PvP gamemode “Flashpoint”
 
 
-## +Compelling cinematic narrative
+- Compelling cinematic narrative
 
 
-## +Well-crafted intense cutscenes
-
-
-
-
-## Cons
+- Well-crafted intense cutscenes## Cons
 
 
 -Short runtime (1-2 hrs)

@@ -44,11 +44,6 @@ Wonderers: Eternal World is an online ARPG game that features strategic 4v4 PvP 
 - Focus on both PvE and PvE
 - Interesting rogue-lite ideas
 - Cross-Platform Play
-
-
-
-
-
 ## Cons
 - Clunky combat mechanics
 - No plot or story elements

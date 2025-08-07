@@ -43,21 +43,16 @@ Crying Suns is a tactical rogue-lite strategy game with heavy narrative elements
 
 
 
-## +Immersive role playing elements
+- Immersive role playing elements
 
 
-## +Dynamic storytelling
+- Dynamic storytelling
 
 
-## +Excellent writing as a sci-fi story
+- Excellent writing as a sci-fi story
 
 
-## +High degree of replayability
-
-
-
-
-## Cons
+- High degree of replayability## Cons
 
 
 -Small UI elements and text for mobile phones

@@ -46,25 +46,15 @@ SYNCED is an ambitious entry into the looter shooter genre, offering a unique bl
 
 
 
-## +Satisfying FPS combat mechanics
+- Satisfying FPS combat mechanics
 
-## +Incredibly detailed graphics that incorporate advanced features like RTX and DLSS
+- Incredibly detailed graphics that incorporate advanced features like RTX and DLSS
 
-## +Rogue-lite elements with random upgrades, bringing freshness to every session
+- Rogue-lite elements with random upgrades, bringing freshness to every session
 
-## +Runs and missions get preserved in the case of disconnecting or quitting the game
+- Runs and missions get preserved in the case of disconnecting or quitting the game
 
-## +Consistently thrilling and frantically action-packed PvPvE game mode
-
-
-
-
-## Cons
-
-
-
-
-
+- Consistently thrilling and frantically action-packed PvPvE game mode## Cons
 ## Cons
 
 

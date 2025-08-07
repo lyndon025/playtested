@@ -46,24 +46,19 @@ Amnesia: The Bunker, developed by the creators of the popular horror games SOMA,
 
 
 
-## +Intense scary atmosphere
+- Intense scary atmosphere
 
 
-## +Non-linear semi-open world
+- Non-linear semi-open world
 
 
-## +Dynamic puzzles with multiple solutions makes it highly replayable
+- Dynamic puzzles with multiple solutions makes it highly replayable
 
 
-## +Frantic resource management mechanics
+- Frantic resource management mechanics
 
 
-## +AI-driven monster that can appear almost anytime, anywhere
-
-
-
-
-## Cons
+- AI-driven monster that can appear almost anytime, anywhere## Cons
 
 
 -Can lose a lot of progression upon dying, especially at higher levels

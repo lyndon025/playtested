@@ -43,21 +43,16 @@ ParaSpace provides a vibrant community where users can connect, chat, and build 
 
 
 
-## +Immersive social experience
+- Immersive social experience
 
 
-## +Powered by user-generated content
+- Powered by user-generated content
 
 
-## +Extensive customization and freedom to choose
+- Extensive customization and freedom to choose
 
 
-## +Lots of potential activities such as events, parties, mini-games, or even just lounges
-
-
-
-
-## Cons
+- Lots of potential activities such as events, parties, mini-games, or even just lounges## Cons
 
 
 -Highly dependent on the community for much of the content

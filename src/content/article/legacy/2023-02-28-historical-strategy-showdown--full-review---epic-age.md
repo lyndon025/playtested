@@ -44,18 +44,13 @@ Hero collecting, empire management, politics, tactical warfare, and role playing
 
 
 
-## +Addicting civilization building gameplay
+- Addicting civilization building gameplay
 
 
-## +Fun hero collecting mechanic
+- Fun hero collecting mechanic
 
 
-## +Amazingly detailed graphics
-
-
-
-
-## Cons
+- Amazingly detailed graphics## Cons
 
 
 -Requires a lot of real-world waiting

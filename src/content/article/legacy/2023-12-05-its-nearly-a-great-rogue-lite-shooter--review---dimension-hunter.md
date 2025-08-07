@@ -42,18 +42,13 @@ Dimension Hunter is a roguelike pixel art twin stick mobile shooter takes player
 
 
 
-## +Diverse levels and bosses
+- Diverse levels and bosses
 
-## +Plenty of possible upgrades that add variety and experimentation
+- Plenty of possible upgrades that add variety and experimentation
 
-## +Fluid controls
+- Fluid controls
 
-## +A well implemented aim-assist option
-
-
-
-
-## Cons
+- A well implemented aim-assist option## Cons
 
 
 -Energy system is a bit too restrictive

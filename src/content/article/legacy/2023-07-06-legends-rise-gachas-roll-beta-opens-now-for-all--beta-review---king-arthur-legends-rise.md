@@ -42,24 +42,19 @@ King Arthur: Legends Rise is an ambitious turn-based squad RPG that invites play
 
 
 
-## +AAA level graphics
+- AAA level graphics
 
 
-## +Immersive combat presentation
+- Immersive combat presentation
 
 
-## +City management elements on top of turn-based hero collecting RPG
+- City management elements on top of turn-based hero collecting RPG
 
 
-## +Crossplay and cross progression with PC and mobile
+- Crossplay and cross progression with PC and mobile
 
 
-## +ARPG style of gear and itemization
-
-
-
-
-## Cons
+- ARPG style of gear and itemization## Cons
 
 
 -Performance at least for the Android version needs more work

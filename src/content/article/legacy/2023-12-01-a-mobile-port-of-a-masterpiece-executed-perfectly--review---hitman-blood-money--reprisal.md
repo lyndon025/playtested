@@ -43,20 +43,15 @@ Now to my surprise, they have actually ported this entire game to Android, and I
 
 
 
-## +Authentic Hitman experience
+- Authentic Hitman experience
 
-## +Variety of tools and approaches to eliminate targets
+- Variety of tools and approaches to eliminate targets
 
-## +Very rewarding and compelling progression system
+- Very rewarding and compelling progression system
 
-## +Intuitive touch controls plus physical controller support
+- Intuitive touch controls plus physical controller support
 
-## +Optimized performance and cloud saves
-
-
-
-
-## Cons
+- Optimized performance and cloud saves## Cons
 
 
 -Interacting with multiple in-game items bunched together using the "Tap Screen" prompt mechanic can be frustrating

@@ -37,7 +37,7 @@ export default {
     showReadMoreLinkOnFeaturedPosts: true, // Show "Read More" on featured cards
     showThumbnailOnFeaturedPosts: true, // Display thumbnails on featured posts
     numberOfLatestPostsOnHomePage: 18, // Number of latest posts on homepage
-    numberOfBlogPostsPerPage: 8, // Number of posts per paginated blog
+    numberOfBlogPostsPerPage: 10, // Number of posts per paginated blog
 
     gTag: "G-V5QHDKBFP" // Google Analytics tracking ID
 }

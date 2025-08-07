@@ -39,12 +39,7 @@ IGNISTONE takes players on a journey into the heart of darkness, where they desc
 - Only needs mouse; only 3 moves to master
 - Simple but challenging gameplay
 - A unique blend of persistent and temporary progression
-- Extra mini-games and facility upgrade mechanics
-
-
-
-
-## Cons
+- Extra mini-games and facility upgrade mechanics## Cons
 - Some minor bugs and control shortcomings
 
 

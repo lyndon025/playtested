@@ -51,20 +51,15 @@ The game became available on PC, Xbox, and PlayStation on October 5, 2023, with 
 
 
 
-## +Classic stealth oriented gameplay
+- Classic stealth oriented gameplay
 
-## +One-hit assassinations are back
+- One-hit assassinations are back
 
-## +A more compact, shorter narrative experience that doesn't burnout players
+- A more compact, shorter narrative experience that doesn't burnout players
 
-## +Captures the unique beauty and charm of 9th-century Baghdad
+- Captures the unique beauty and charm of 9th-century Baghdad
 
-## +Wide platform support (previous gens and older PCs)
-
-
-
-
-## Cons
+- Wide platform support (previous gens and older PCs)## Cons
 
 
 -Generic parkour system without much improvements

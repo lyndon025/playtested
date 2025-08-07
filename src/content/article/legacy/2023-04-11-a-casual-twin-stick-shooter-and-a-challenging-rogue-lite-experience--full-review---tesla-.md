@@ -51,21 +51,16 @@ Tesla Force is a rogue-lite survival twin stick shooter developed and published 
 
 
 
-## +A casual arcade gameplay with a challenging rogue-lite experience
+- A casual arcade gameplay with a challenging rogue-lite experience
 
 
-## +Procedurally generated campaign
+- Procedurally generated campaign
 
 
-## +A wide variety of weapons, power-ups, upgrades, and abilities.
+- A wide variety of weapons, power-ups, upgrades, and abilities.
 
 
-## +Physical controller support
-
-
-
-
-## Cons
+- Physical controller support## Cons
 
 
 -The mobile version has no multiplayer unlike the PC and Consoles

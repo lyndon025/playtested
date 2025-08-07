@@ -44,21 +44,16 @@ Rainbow Six: Extraction, the latest installment in the critically acclaimed Tom 
 
 
 
-## +Engaging PvE action
+- Engaging PvE action
 
 
-## +Emergent mission system
+- Emergent mission system
 
 
-## +Novel game mechanics involving characters deaths and respawns
+- Novel game mechanics involving characters deaths and respawns
 
 
-## +Impressive graphics while maintaining smooth performance
-
-
-
-
-## Cons
+- Impressive graphics while maintaining smooth performance## Cons
 
 
 -Gets repetitive after a short while

@@ -38,15 +38,10 @@ Dumb Ways to Climb, developed by PlaySide Studios Ltd, attempts to combine the c
 
 
 
-## +Nice graphics
+- Nice graphics
 
 
-## +Nerve-racking platforming experience
-
-
-
-
-## Cons
+- Nerve-racking platforming experience## Cons
 
 
 -Clunky and unresponsive control scheme

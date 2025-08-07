@@ -41,20 +41,15 @@ Released for PlayStation 5, Windows, and Xbox Series X/S, the game introduces a 
 
 
 
-## +Does justice to the Avatar lore and IP
+- Does justice to the Avatar lore and IP
 
-## +An immersive cinematic experience
+- An immersive cinematic experience
 
-## +Emphasis on exploration; with detailed plant and animal life
+- Emphasis on exploration; with detailed plant and animal life
 
-## +Lots of elements that blend well together (survival, crafting, exploration, FPS, RPG)
+- Lots of elements that blend well together (survival, crafting, exploration, FPS, RPG)
 
-## +Varied progression system with different skills, abilities, and gear upgrades
-
-
-
-
-## Cons
+- Varied progression system with different skills, abilities, and gear upgrades## Cons
 - Unessential narrative
 - Performance issues across all platforms
 - Slow start

@@ -43,11 +43,6 @@ With multiple possible paths and branches in the story, an interactive narrative
 ## Pros
 - Innovative social and presentation format
 - Multiple possible paths and branches in the story that will take months to finish
-
-
-
-
-
 ## Cons
 - HUGE departure from traditional Silent Hill gameplay
 - Limited Interactivity

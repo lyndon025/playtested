@@ -51,21 +51,16 @@ One Hand Clapping is a 2D puzzle platformer game with innovative singing mechani
 
 
 
-## +Innovative singing/humming mechanics
+- Innovative singing/humming mechanics
 
 
-## +Creative use of singing mechanics to the puzzles
+- Creative use of singing mechanics to the puzzles
 
 
-## +Beautiful landscape and levels
+- Beautiful landscape and levels
 
 
-## +Accessibility and educational options
-
-
-
-
-## Cons
+- Accessibility and educational options## Cons
 
 
 -Not recommended to be played in public

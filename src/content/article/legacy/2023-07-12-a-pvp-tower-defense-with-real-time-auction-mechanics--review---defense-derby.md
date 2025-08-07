@@ -42,18 +42,13 @@ Defense Derby is a mobile multiplayer tower defense game that brings unique mech
 
 
 
-## +Unique bidding mechanics
+- Unique bidding mechanics
 
 
-## +Strategic tower defense gameplay
+- Strategic tower defense gameplay
 
 
-## +Asynchronous tower defense PvP mechanics
-
-
-
-
-## Cons
+- Asynchronous tower defense PvP mechanics## Cons
 
 
 -In-App purchases can change the balance of PvP

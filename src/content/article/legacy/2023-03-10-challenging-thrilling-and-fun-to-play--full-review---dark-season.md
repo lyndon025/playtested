@@ -43,15 +43,10 @@ Dark Season is an RPG mobile game with a mix of dungeon crawling, rogue-lite, an
 
 
 
-## +Challenging combat
+- Challenging combat
 
 
-## +Engaging game mechanics
-
-
-
-
-## Cons
+- Engaging game mechanics## Cons
 
 
 -Playtime is heavily limiting

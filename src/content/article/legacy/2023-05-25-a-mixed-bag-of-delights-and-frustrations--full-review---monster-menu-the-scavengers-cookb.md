@@ -45,18 +45,13 @@ Monster Menu: The Scavenger's Cookbook is a dungeon crawling surviving turn-base
 
 
 
-## +Unique monster menu system, eat everything, cook everything!
+- Unique monster menu system, eat everything, cook everything!
 
 
-## +A good mix of rogue-like and survival mechanics
+- A good mix of rogue-like and survival mechanics
 
 
-## +Complete character and party customization
-
-
-
-
-## Cons
+- Complete character and party customization## Cons
 
 
 -Combat can easily get repetitive over time

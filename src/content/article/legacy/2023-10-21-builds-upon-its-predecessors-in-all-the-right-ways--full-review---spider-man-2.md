@@ -48,20 +48,15 @@ I reviewed here on TapTap
 
 
 
-## +Balanced emotional storytelling with Peter, Miles and their supporting casts and villains
+- Balanced emotional storytelling with Peter, Miles and their supporting casts and villains
 
-## +Seamless character switching between the two Spider-Men
+- Seamless character switching between the two Spider-Men
 
-## +Satisfying Spider-Man mechanics: Swinging and Combat
+- Satisfying Spider-Man mechanics: Swinging and Combat
 
-## +Engaging character progression: unique abilities and gadgets for both characters
+- Engaging character progression: unique abilities and gadgets for both characters
 
-## +A wide range of accessibility and visual options, from swing assists to 60FPS
-
-
-
-
-## Cons
+- A wide range of accessibility and visual options, from swing assists to 60FPS## Cons
 
 
 -Back are the boring unskippable non-superhero stealth missions that disrupt the fun

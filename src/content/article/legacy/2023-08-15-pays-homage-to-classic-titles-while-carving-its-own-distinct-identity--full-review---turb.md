@@ -37,22 +37,17 @@ Turbo Overkill is a high-octane first-person shooter that blends the intense bul
 
 
 
-## +Intense Combat
+- Intense Combat
 
-## +Extremely responsive controls and movement system
+- Extremely responsive controls and movement system
 
-## +Amazing art direction and overall visuals
+- Amazing art direction and overall visuals
 
-## +A world that feels nostalgic, modern, and futuristic all at the same time
+- A world that feels nostalgic, modern, and futuristic all at the same time
 
-## +Huge arsenal of weapons and upgrades
+- Huge arsenal of weapons and upgrades
 
-## +Rewards exploration and is filled with secrets
-
-
-
-
-## Cons
+- Rewards exploration and is filled with secrets## Cons
 - Confusing level design
 - Generic, forgettable story
 

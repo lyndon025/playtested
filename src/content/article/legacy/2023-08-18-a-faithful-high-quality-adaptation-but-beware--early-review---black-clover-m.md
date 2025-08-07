@@ -42,18 +42,13 @@ Black Clover M is a brand new gacha RPG mobile title developed by VIC Games Stud
 
 
 
-## +Faithful high-quality adaptation
+- Faithful high-quality adaptation
 
-## +Stunning cel-shaded anime visuals
+- Stunning cel-shaded anime visuals
 
-## +Voice actors from the anime are returning
+- Voice actors from the anime are returning
 
-## +Auto-play features
-
-
-
-
-## Cons
+- Auto-play features## Cons
 - Game requires access to contacts, photos, videos, and storage
 - Overwhelming amount of currencies and monetization techniques
 

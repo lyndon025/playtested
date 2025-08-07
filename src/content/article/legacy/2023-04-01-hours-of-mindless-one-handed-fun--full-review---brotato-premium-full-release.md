@@ -39,24 +39,19 @@ Brotato is a survival roguelite wave shooter playable with one hand. Originally 
 
 
 
-## +Surprisingly addicting gameplay loop
+- Surprisingly addicting gameplay loop
 
 
-## +action-packed and fast paced gameplay
+- action-packed and fast paced gameplay
 
 
-## +Mindless fun, can play with just one hand
+- Mindless fun, can play with just one hand
 
 
-## +A plethora of weapons and items to experiment with
+- A plethora of weapons and items to experiment with
 
 
-## +One of the best alternatives to Vampire Survivors
-
-
-
-
-## Cons
+- One of the best alternatives to Vampire Survivors## Cons
 
 
 -No cons

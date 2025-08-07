@@ -44,15 +44,10 @@ Margonem Adventures is a first person RPG and 3D dungeon crawler with Minecraft 
 
 
 
-## +Interesting deck building style of combat
+- Interesting deck building style of combat
 
 
-## +A decent time-killer to play in short bursts
-
-
-
-
-## Cons
+- A decent time-killer to play in short bursts## Cons
 
 
 -Energy system to limit play

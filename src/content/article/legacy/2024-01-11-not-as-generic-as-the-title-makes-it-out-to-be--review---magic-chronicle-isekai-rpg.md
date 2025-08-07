@@ -47,11 +47,6 @@ Magic Chronicle: Isekai RPG is a mobile gacha game set in a fantasy world called
 - Various game modes
 - Accessiblity and quality of life features
 - Generous progression rates
-
-
-
-
-
 ## Cons
 - Not much depth in the combat
 - Features that are locked behind paywalls and VIP subscriptions

@@ -4,7 +4,7 @@ category: Review
 slug: 2024-01-26-it-might-just-be-your-next-obsession-after-palworld-early-access-review-enshrouded
 title: It might just be your next obsession after Palworld | Early Access Review - Enshrouded
 game: Early Access Review - Enshrouded
-description: ✨Overview Enshrouded drops you into a mix of survival, crafting, and RPG action in a voxel wonderland. As the Flameborn, you're the last flicker of hope in a world desperate for it. You scavenge through fallen kingdoms, build stuff, and battle your way through natural and supernatural critters. All this to gather enough strength to face the horrors hiding in the Shroud, a misty nightmare covering the land and thus making it “Enshrouded”.
+description: Enshrouded drops you into a mix of survival, crafting, and RPG action in a voxel wonderland. As the Flameborn, you're the last flicker of hope in a world desperate for it. You scavenge through fallen kingdoms, build stuff, and battle your way through natural and supernatural critters. All this to gather enough strength to face the horrors hiding in the Shroud, a misty nightmare covering the land and thus making it “Enshrouded”.
 featured: false
 gallery:
   - /images/reviews/legacy/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-0.avif
@@ -25,13 +25,6 @@ tags:
 thumb: /images/reviews/legacy/2024-01-26-it-might-just-be-your-next-obsession-after-palworld--early-access-review---enshrouded-0.avif
 ---
 
-Enshrouded
-9.8
-Action
-Adventure
-Test
-
-
 ## ✨Overview
 Enshrouded drops you into a mix of survival, crafting, and RPG action in a voxel wonderland. As the Flameborn, you're the last flicker of hope in a world desperate for it. You scavenge through fallen kingdoms, build stuff, and battle your way through natural and supernatural critters. All this to gather enough strength to face the horrors hiding in the Shroud, a misty nightmare covering the land and thus making it “Enshrouded”.
 
@@ -47,11 +40,6 @@ Finally, after trying out the Enshrouded Demo a few months ago and getting excit
 - ARPG style combat — like Dark Souls or Breath of the Wild
 - RPG progression system with skill trees and class professions
 - Optimized performance
-
-
-
-
-
 ## Cons
 - Missing some very useful quality-of-life features
 - The controls is a bit awkward, especially for controllers

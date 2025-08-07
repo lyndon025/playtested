@@ -35,18 +35,13 @@ XCUTE(me) is a vertical scrolling bullet-hell shoot'em up game (AKA “shmups”
 
 
 
-## +alluring cell-shaded characters
+- alluring cell-shaded characters
 
 
-## +simple touch controls
+- simple touch controls
 
 
-## +metal soundtrack
-
-
-
-
-## Cons
+- metal soundtrack## Cons
 
 
 -The UI and the presentation felt underdeveloped

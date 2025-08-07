@@ -39,18 +39,13 @@ Voice of Cards: The Beasts of Burden is the third entry in the Voice of Cards tr
 
 
 
-## +Table-top RPG based aesthetic and gameplay
+- Table-top RPG based aesthetic and gameplay
 
 
-## +JRPG style combat with monster capturing mechanic
+- JRPG style combat with monster capturing mechanic
 
 
-## +premium game with no ads, or pay-to-win mechanics, but there are in-app purchasable cosmetics
-
-
-
-
-## Cons
+- premium game with no ads, or pay-to-win mechanics, but there are in-app purchasable cosmetics## Cons
 
 
 -non-table-top RPG players might find the game slow paced

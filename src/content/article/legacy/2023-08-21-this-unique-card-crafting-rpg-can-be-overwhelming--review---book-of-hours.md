@@ -40,16 +40,11 @@ Book of Hours, a brand new creation by Weather Factory, invites you to embark on
 
 
 
-## +Atmospheric minimalistic artstyle
+- Atmospheric minimalistic artstyle
 
-## +Addictive gameplay once you’ve understood the mechanics
+- Addictive gameplay once you’ve understood the mechanics
 
-## +Unique experience probably unlike anything you’ve experienced before
-
-
-
-
-## Cons
+- Unique experience probably unlike anything you’ve experienced before## Cons
 
 
 -No tutorial

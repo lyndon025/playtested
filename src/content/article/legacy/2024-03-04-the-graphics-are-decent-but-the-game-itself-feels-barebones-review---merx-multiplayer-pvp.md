@@ -42,11 +42,6 @@ Playing the game, it looks pretty barebones in appearance at the moment with a b
 ## Pros
 - Decent, modern, stylized 3D graphics
 - Simplified combat and gunplay
-
-
-
-
-
 ## Cons
 - Feels barebones in its UI and presentation
 - Only two maps and one objective to play

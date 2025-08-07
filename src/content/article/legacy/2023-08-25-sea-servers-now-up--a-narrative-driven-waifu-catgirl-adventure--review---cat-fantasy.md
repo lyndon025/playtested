@@ -50,12 +50,7 @@ Cat Fantasy is a turn-based gacha RPG that immerses players in a world of catgir
 - Variety of Game modes, including a Cafe management element
 - A refreshing merging-based combat system
 - Auto-play and speed-up combat
-- Generous progression rates
-
-
-
-
-## Cons
+- Generous progression rates## Cons
 - Lengthy cutscenes, cannot skip individual lines of dialogue
 - Confusing card design for merge gameplay
 

@@ -55,11 +55,6 @@ With in-app purchases for unlocking the full game, the Winters’ Expansion DLC,
 - Controller support
 - Free demo
 - Portable
-
-
-
-
-
 ## Cons
 - Touch control implementation is borderline unplayable. A controller is highly recommended
 - Massive audio sync/delay issues during cutscenes

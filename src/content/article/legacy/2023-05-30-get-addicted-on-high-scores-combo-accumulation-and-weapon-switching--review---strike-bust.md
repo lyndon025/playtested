@@ -42,18 +42,13 @@ Strike Buster Prototype is a retro style arcade game featuring combo-based comba
 
 
 
-## +A good balance of retro aesthetic and modern look
+- A good balance of retro aesthetic and modern look
 
 
-## +Amazing rhythmic beat sound effects for the weapons
+- Amazing rhythmic beat sound effects for the weapons
 
 
-## +Weapon type system that encourages experimentation and constant switching
-
-
-
-
-## Cons
+- Weapon type system that encourages experimentation and constant switching## Cons
 
 
 -No story

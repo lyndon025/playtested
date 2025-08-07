@@ -42,18 +42,13 @@ Rebel Bots: Epic War PvP Clash is a unique blend of tower defense, card-collecti
 
 
 
-## +Thrilling strategic depth
+- Thrilling strategic depth
 
-## +Battles are fast-paced and demand quick decision-making
+- Battles are fast-paced and demand quick decision-making
 
-## +A variety of cards and commander units to collect
+- A variety of cards and commander units to collect
 
-## +Commanders can be directly ordered and moved during battle instead of being stationary towers
-
-
-
-
-## Cons
+- Commanders can be directly ordered and moved during battle instead of being stationary towers## Cons
 
 
 -Disruptive pay-to-win elements; the monetization system creates an uneven playing field for all players

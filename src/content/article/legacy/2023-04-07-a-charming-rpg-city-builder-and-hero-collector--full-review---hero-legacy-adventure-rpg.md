@@ -43,15 +43,10 @@ Hero Legacy: Adventure RPG is a part adventure RPG, part city builder mobile gam
 
 
 
-## +charming game mechanics in exploration and city building
+- charming game mechanics in exploration and city building
 
 
-## +combat system is somewhat engaging and appealing
-
-
-
-
-## Cons
+- combat system is somewhat engaging and appealing## Cons
 
 
 -Rudimentary visuals and graphics

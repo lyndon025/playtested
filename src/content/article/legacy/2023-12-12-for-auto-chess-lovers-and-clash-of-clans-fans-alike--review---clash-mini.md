@@ -50,18 +50,13 @@ The game is currently still on a “soft-launch” with availability in limited 
 
 
 
-## +Charming visuals taken from the Clash of Clans universe
+- Charming visuals taken from the Clash of Clans universe
 
-## +Strategic auto-chess gameplay with some cool twists
+- Strategic auto-chess gameplay with some cool twists
 
-## +New update revamps the game with many new features
+- New update revamps the game with many new features
 
-## +Smooth performance and blazing fast loading times
-
-
-
-
-## Cons
+- Smooth performance and blazing fast loading times## Cons
 
 
 -Temporarily removes some game modes with the new patch

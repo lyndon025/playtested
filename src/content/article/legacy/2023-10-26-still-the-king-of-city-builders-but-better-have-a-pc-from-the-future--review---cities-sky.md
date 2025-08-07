@@ -45,22 +45,17 @@ Cities Skylines II city-building simulator with elements of urban planning, econ
 
 
 
-## +Addicting and immersive city building experience
+- Addicting and immersive city building experience
 
-## +Expanded map size
+- Expanded map size
 
-## +Improved city building tools
+- Improved city building tools
 
-## +Complex simulation of traffic, economy, and citizens
+- Complex simulation of traffic, economy, and citizens
 
-## +Dynamic climate and seasonal changes
+- Dynamic climate and seasonal changes
 
-## +Mod and gamepad support
-
-
-
-
-## Cons
+- Mod and gamepad support## Cons
 
 
 -Massive performance issues that may make it unplayable for 99% of players

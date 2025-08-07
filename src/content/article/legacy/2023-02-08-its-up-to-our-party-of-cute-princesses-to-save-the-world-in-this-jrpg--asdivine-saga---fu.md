@@ -50,21 +50,16 @@ These games are made primarily for and popular on mobile platforms. Most of the 
 
 
 
-## +The story and premise is quite intriguing
+- The story and premise is quite intriguing
 
 
-## +The characters are likable and charming
+- The characters are likable and charming
 
 
-## +Gameplay is fun enough to keep you interested
+- Gameplay is fun enough to keep you interested
 
 
-## +Different control options: touch, virtual gamepad, and physical gamepad.
-
-
-
-
-## Cons
+- Different control options: touch, virtual gamepad, and physical gamepad.## Cons
 
 
 -The UI design and experience is mediocre

@@ -47,24 +47,19 @@ Kemono Friends: Kingdom is a gacha mobile game set in a unique world filled with
 
 
 
-## +Fluid visuals and animations
+- Fluid visuals and animations
 
 
-## +Charming animal-inspired characters to collect
+- Charming animal-inspired characters to collect
 
 
-## +Strategic gameplay blending turn-based RPG and Angry Birds gameplay
+- Strategic gameplay blending turn-based RPG and Angry Birds gameplay
 
 
-## +A lot of activities to do aside from the main story
+- A lot of activities to do aside from the main story
 
 
-## +Skipping the story cutscene still gives you a text summary
-
-
-
-
-## Cons
+- Skipping the story cutscene still gives you a text summary## Cons
 
 
 -Rough english localization

@@ -27,10 +27,6 @@ tags:
 thumb: /images/reviews/legacy/2023-04-30-combines-elements-of-card-game-and-dungeon-crawling--first-impressions---card-hog-0.avif
 ---
 
-Card Hog - Dungeon Crawler
-8.7
-Puzzle
-Strategy
 
 In Card Hog - Dungeon Crawler, Players control a hero character who has the option to slide in any of the four directions in a customizable grid map setup represented by cards. The character starts with a base health and weapon, and a numerical stat that determines its strength when encountering other cards. Every turn, the character can head to any of the four directions which can either be an empty space, a hazard, an enemy, or an item like weapons and healing potions.
 

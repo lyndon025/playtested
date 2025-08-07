@@ -47,18 +47,13 @@ Very Little Nightmares is a puzzle-platformer game developed by Alike Studio and
 
 
 
-## +Simple but challenging puzzle platformer mechanics
+- Simple but challenging puzzle platformer mechanics
 
 
-## +Surreal and unsettling creepy atmosphere
+- Surreal and unsettling creepy atmosphere
 
 
-## +Haunting and atmospheric visuals and sound
-
-
-
-
-## Cons
+- Haunting and atmospheric visuals and sound## Cons
 
 
 -Touch control imperfections

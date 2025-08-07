@@ -41,20 +41,15 @@ MOBILE SUIT GUNDAM U.C. ENGAGE catapults players into the heart of the iconic Gu
 
 
 
-## +Gundam universe immersion
+- Gundam universe immersion
 
-## +Narrative, both classic and new
+- Narrative, both classic and new
 
-## +Collecting your favorite Gundam and Pilots
+- Collecting your favorite Gundam and Pilots
 
-## +The visuals capture the essence of Gundam battles
+- The visuals capture the essence of Gundam battles
 
-## +Can pretty much skip everything and fast forward the battles
-
-
-
-
-## Cons
+- Can pretty much skip everything and fast forward the battles## Cons
 
 
 -Limited gameplay elements and strategic depth

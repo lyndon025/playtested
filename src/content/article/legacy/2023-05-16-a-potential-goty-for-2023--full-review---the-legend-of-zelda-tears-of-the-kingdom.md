@@ -4,7 +4,7 @@ category: Review
 slug: 2023-05-16-a-potential-goty-for-2023-full-review-the-legend-of-zelda-tears-of-the-kingdom
 title: 'A potential GOTY for 2023 | Full Review - The Legend of Zelda: Tears of the Kingdom'
 game: 'The Legend of Zelda: Tears of the Kingdom'
-description: 'The Legend of Zelda: Tears of the Kingdom (NS)'
+description: 'The Legend of Zelda: Tears of the Kingdom is an action-adventure game and the much awaited sequel to 2017’s award-winning game The Legend of Zelda: Breath of the Wild, boasting the same core gameplay mechanics including open world exploration and a non-linear story.'
 featured: true
 gallery:
   - /images/reviews/legacy/2023-05-16-a-potential-goty-for-2023--full-review---the-legend-of-zelda-tears-of-the-kingdom-0.avif
@@ -45,30 +45,13 @@ The Legend of Zelda: Tears of the Kingdom is an action-adventure game and the mu
 
 
 ## Pros
-
-
-
-## +Sheer scale of the game world
-
-
-## +Sense of freedom and exploration
-
-
-## +Creative limitless sandbox mechanics
-
-
-## +Masterful non-linear storytelling
-
-
-## +Hundreds of hours of content
-
-
-
-
+- Sheer scale of the game world
+- Sense of freedom and exploration
+- Creative limitless sandbox mechanics
+- Masterful non-linear storytelling
+- Hundreds of hours of content
 ## Cons
-
-
--We really need a Switch 2 or Switch Pro to further enjoy this at higher resolution and frame rates
+- We really need a Switch 2 or Switch Pro to further enjoy this at higher resolution and frame rates
 
 The Legend of Zelda: Tears of the Kingdom is an extraordinary game that once again, redefines the open-world adventure genre and what’s possible for the rather aging Nintendo Switch hardware. Developed by Nintendo themselves, this game takes players on an jaw-dropping journey through the vast kingdom of Hyrule, now with a much needed verticality, essentially more than doubling the play area.
 
@@ -104,7 +87,7 @@ As for the technical performance, it performed rather well for the intended 30 F
 
 Considering the game is running on a Nintendo Switch, it simply puts other newest-gen AAA titles to shame when it comes to optimization and polish. Still, It’s unfortunate that there is currently no way to play this masterpiece on higher resolutions and frame rates. On a Switch successor perhaps in a few years?
 
-Conclusion:
+## Conclusion:
 
 The Legend of Zelda: Tears of the Kingdom is another masterpiece that sets an even higher standard for open-world gaming. With its boundless exploration, creative gameplay mechanics, and a masterful emergent storytelling, it is an experience that will leave players in awe for years to come. Whether you're a longtime fan of the franchise or a newcomer to the series, this game is an absolute must-play for the Switch and a testament to the magic of video games. A potential GOTY for 2023.
 

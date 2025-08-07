@@ -49,12 +49,7 @@ Ethyrial: Echoes of Yore is an MMORPG with voxel based graphics, old school look
 
 
 
-## +old school and hardcore MMORPG experience
-
-
-
-
-## Cons
+- old school and hardcore MMORPG experience## Cons
 
 
 -slow and clunky movement

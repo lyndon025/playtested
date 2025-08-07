@@ -34,12 +34,7 @@ The Wreck is a 3D interactive visual novel that plunges players into a world of 
 ## Pros
 - Compelling and profound narrative, after the initial slow crawl
 - Great presentation and immersive soundtrack
-- Quality voice acting and writing
-
-
-
-
-## Cons
+- Quality voice acting and writing## Cons
 - Choices doesn’t feel like real choices and doesn’t matter, more like there for the sake of interaction only
 - Forced interactivity sometimes takes you out of the immersion instead of immersing you
 

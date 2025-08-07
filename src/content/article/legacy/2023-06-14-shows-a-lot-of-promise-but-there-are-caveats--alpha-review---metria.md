@@ -41,18 +41,13 @@ Metria is an action RPG currently in development for mobile devices. It is curre
 
 
 
-## +The story is interesting
+- The story is interesting
 
 
-## +The world is vibrant and colorful
+- The world is vibrant and colorful
 
 
-## +Third person combat shows a lot of promise
-
-
-
-
-## Cons
+- Third person combat shows a lot of promise## Cons
 
 
 -Lots of loading screens

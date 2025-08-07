@@ -5,7 +5,8 @@ slug: 2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game-full-
 title: A beautiful reimagining of a classic survival horror game | Full Review - Resident Evil 4 Remake
 game: Resident Evil 4
 description: Resident Evil 4 is the remake of the survivor horror classic bearing the same name back in 2005, as players continue the story of Leon S. Kennedy from Resident Evil 2, and his brand new mission to find the kidnapped daughter of the US president.
-featured: false
+featured: true
+score: 9.5
 gallery:
   - /images/reviews/legacy/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--0.avif
   - /images/reviews/legacy/2023-03-28-a-beautiful-reimagining-of-a-classic-survival-horror-game--full-review---resident-evil-4--1.avif
@@ -55,27 +56,12 @@ Resident Evil 4 is the remake of the survivor horror classic bearing the same na
 
 
 ## Pros
-
-
-
-## +Stunning graphics
-
-
-## +Well balanced survival horror and action elements
-
-
-## +Fluid and satisfying combat
-
-
-## +Compelling story and progression
-
-
-
-
+- Stunning graphics
+- Well balanced survival horror and action elements
+- Fluid and satisfying combat
+- Compelling story and progression
 ## Cons
-
-
--No cons
+- No cons
 
 
 ## 📝Notable points:

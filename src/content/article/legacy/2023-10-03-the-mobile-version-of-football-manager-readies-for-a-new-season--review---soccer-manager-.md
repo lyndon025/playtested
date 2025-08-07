@@ -46,12 +46,7 @@ Soccer Manager 2024 offers a departure from the standard soccer sports video gam
 - True sim approach to gameplay
 - Tactical Depth
 - Club, Team, and Manager customization
-- International Team Management
-
-
-
-
-## Cons
+- International Team Management## Cons
 - Limited Realism in Graphics and Animations
 
 

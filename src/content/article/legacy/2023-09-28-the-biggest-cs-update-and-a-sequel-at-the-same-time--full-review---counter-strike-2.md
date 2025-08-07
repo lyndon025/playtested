@@ -43,12 +43,7 @@ Counter-Strike 2 is the next step in the iconic online competitive shooter franc
 - Quality of life improvements
 - Massive visual upgrades
 - Game-changing smoke mechanics
-- New tick-rate system for better online connectivity
-
-
-
-
-## Cons
+- New tick-rate system for better online connectivity## Cons
 - Deletes CS:GO from existence, unlike CSS, and CS 1.6
 - No mention of a “revamped” solution to further combat cheaters
 

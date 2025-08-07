@@ -50,18 +50,13 @@ Minecraft Legends is an action strategy game set in the Minecraft universe of vi
 
 
 
-## +Refreshing new take with its action strategy gameplay
+- Refreshing new take with its action strategy gameplay
 
 
-## +Keeps the Minecraft feel and tone intact
+- Keeps the Minecraft feel and tone intact
 
 
-## +Cooperative gameplay mode for the whole campaign
-
-
-
-
-## Cons
+- Cooperative gameplay mode for the whole campaign## Cons
 
 
 -Main campaign is very short

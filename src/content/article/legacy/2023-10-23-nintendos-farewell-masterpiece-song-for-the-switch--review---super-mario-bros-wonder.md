@@ -41,20 +41,15 @@ Developed and published by Nintendo for the Nintendo Switch, Super Mario Bros. W
 
 
 
-## +Innovative new gameplay mechanics
+- Innovative new gameplay mechanics
 
-## +Accessible difficulty for all ages
+- Accessible difficulty for all ages
 
-## +Creative level design and wonderful gimmicks that keeps on surprising
+- Creative level design and wonderful gimmicks that keeps on surprising
 
-## +Wonderfully beautiful; colorful and joyful looking
+- Wonderfully beautiful; colorful and joyful looking
 
-## +Fun local co-op play with its own mechanics
-
-
-
-
-## Cons
+- Fun local co-op play with its own mechanics## Cons
 
 
 -No cons

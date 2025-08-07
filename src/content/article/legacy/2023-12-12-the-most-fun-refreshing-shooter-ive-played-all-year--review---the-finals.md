@@ -46,20 +46,15 @@ Since my previous review during the open beta, THE FINALS has officially launche
 
 
 
-## +Stunning visuals and lighting effects
+- Stunning visuals and lighting effects
 
-## +Dynamic high octane FPS gameplay
+- Dynamic high octane FPS gameplay
 
-## +Best in class destructible environments and physics
+- Best in class destructible environments and physics
 
-## +Diverse game modes and map variants
+- Diverse game modes and map variants
 
-## +Smooth performance
-
-
-
-
-## Cons
+- Smooth performance## Cons
 - No text chat for better communication
 
 

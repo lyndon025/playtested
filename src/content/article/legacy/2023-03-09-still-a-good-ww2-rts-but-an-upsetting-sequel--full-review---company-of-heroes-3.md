@@ -48,18 +48,13 @@ Company of Heroes 3 is a WW2 real-time strategy game developed by Relic Entertai
 
 
 
-## +Immersive RTS experience
+- Immersive RTS experience
 
 
-## +Deep tactical gameplay
+- Deep tactical gameplay
 
 
-## +Decent graphics
-
-
-
-
-## Cons
+- Decent graphics## Cons
 
 
 -High price for what it brings

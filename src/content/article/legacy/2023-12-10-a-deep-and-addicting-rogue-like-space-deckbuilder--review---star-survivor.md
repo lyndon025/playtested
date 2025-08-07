@@ -44,11 +44,6 @@ Star Survivor, initially released in Early Access on PC earlier this year, has n
 - Chaotic engaging combat
 - Strategic deckbuilding elements
 - Dynamic rogue-lite progression
-
-
-
-
-
 ## Cons
 - Ultra repetitive battle soundtrack
 - Limited narrative experience

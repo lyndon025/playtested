@@ -49,11 +49,6 @@ It has been an exceptional six-month period for fighting game enthusiasts. Follo
 - A variety of game modes for everyone; campaign, local, online, and more
 - New specialty style designed for casual play
 - Crossplay Support
-
-
-
-
-
 ## Cons
 - Too much moves with ‘cutscenes’ during combat that slows the gameplay down
 

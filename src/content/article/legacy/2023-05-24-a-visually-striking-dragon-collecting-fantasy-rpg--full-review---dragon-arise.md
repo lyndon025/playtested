@@ -36,24 +36,19 @@ Dragon Arise is a dragon collecting fantasy RPG that takes players on a whimsica
 
 
 
-## +Strategic squad building gameplay
+- Strategic squad building gameplay
 
 
-## +Automated battles
+- Automated battles
 
 
-## +Remarkable graphics
+- Remarkable graphics
 
 
-## +Plenty of side activities and extra gameplay mechanics
+- Plenty of side activities and extra gameplay mechanics
 
 
-## +Intuitive progression mechanics
-
-
-
-
-## Cons
+- Intuitive progression mechanics## Cons
 
 
 -Not much depth in actual combat

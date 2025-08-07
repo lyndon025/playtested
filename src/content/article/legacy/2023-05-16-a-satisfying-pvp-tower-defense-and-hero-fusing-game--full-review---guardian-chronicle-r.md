@@ -45,21 +45,16 @@ Guardian Chronicle R is a tower defense hero collecting game featuring puzzle el
 
 
 
-## +Satisfying puzzle and tower defense gameplay
+- Satisfying puzzle and tower defense gameplay
 
 
-## +Intuitive and easy to pick up game mechanics
+- Intuitive and easy to pick up game mechanics
 
 
-## +Competitive PvP gameplay
+- Competitive PvP gameplay
 
 
-## +Challenging singleplayer / coop action
-
-
-
-
-## Cons
+- Challenging singleplayer / coop action## Cons
 
 
 -UI needs a little quality-of-life work

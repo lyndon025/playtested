@@ -43,18 +43,13 @@ Dragon and Home is a MMORPG sandbox crafting game that already been released for
 
 
 
-## +A mix of sandbox-style crafting gameplay and MMORPG elements
+- A mix of sandbox-style crafting gameplay and MMORPG elements
 
 
-## +The visuals and soundtrack exceed my expectations
+- The visuals and soundtrack exceed my expectations
 
 
-## +Lots of content and huge world to explore
-
-
-
-
-## Cons
+- Lots of content and huge world to explore## Cons
 
 
 -Grindy progression

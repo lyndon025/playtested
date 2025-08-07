@@ -47,21 +47,16 @@ The King of Fighters All Star is an online RPG brawler that brings together char
 
 
 
-## +Fun beat’ em up gameplay
+- Fun beat’ em up gameplay
 
 
-## +Engaging campaign and team-building mechanics
+- Engaging campaign and team-building mechanics
 
 
-## +Smooth 2.5D HD graphics
+- Smooth 2.5D HD graphics
 
 
-## +Many playable characters from across the King of Fighters series.
-
-
-
-
-## Cons
+- Many playable characters from across the King of Fighters series.## Cons
 
 
 -Performance issues

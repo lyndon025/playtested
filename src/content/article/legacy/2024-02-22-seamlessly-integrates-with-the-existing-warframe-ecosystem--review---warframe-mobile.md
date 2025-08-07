@@ -50,11 +50,6 @@ The game is finally now available on mobile devices, featuring crossplay and pro
 - 11 years worth of updates
 - Graphics and art style that hold up to today’s standards
 - Full Controller Support
-
-
-
-
-
 ## Cons
 - Potential sluggish performance on older devices
 - Minor UI/text visibility issues

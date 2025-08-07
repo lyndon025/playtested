@@ -5,7 +5,8 @@ slug: 2023-03-20-this-game-is-so-good-it-created-its-own-genre-full-review-vampi
 title: This game is so good it created its own genre | Full Review - Vampire Survivors
 game: Vampire Survivors
 description: Vampire Survivors might not seem like a really good nor addictive game judging from the pixel art graphics, but trust me, it is one of the most addicting games that have come out in recent years.
-featured: false
+featured: true
+score: 9
 gallery:
   - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-0.avif
   - /images/reviews/legacy/2023-03-20-this-game-is-so-good-it-created-its-own-genre--full-review---vampire-survivors-1.avif
@@ -45,27 +46,13 @@ Vampire Survivors might not seem like a really good nor addictive game judging f
 
 
 ## Pros
-
-
-
-## +Highly addicting
-
-
-## +Deep gameplay and challenging difficulty
-
-
-## +Mindless fun, can play with just one hand
-
-
-## +Completely free to play with no pay to win mechanics
-
-
-
+- Highly addicting
+- Deep gameplay and challenging difficulty
+- Mindless fun, can play with just one hand
+- Completely free to play with no pay to win mechanics
 
 ## Cons
-
-
--The basic retro graphics are not for everyone
+- The basic retro graphics are not for everyone
 
 Vampire Survivors is a 2D survival rogue-lite game that is completely playable with just one hand. Players just need to control the character’s movements, and that’s the whole control scheme of the game. The player character automatically attacks and defends itself against waves of waves of monsters and have to survive as long as they can, usually up to 20 to 30 minutes.
 
@@ -81,7 +68,7 @@ There are many characters you can choose to start runs with, each of them with d
 
 Up to a maximum of six weapons and six items can be equipped on each run, and can be further leveled up by acquiring another multiple of the same weapon or item. All of these six equipped weapons are automatically attacking, some more frequently than others, resulting in an amusing fireworks display of a variety of skills and attacks.
 
-Gameplay Analysis
+## Gameplay Analysis
 
 At the start of a run, players are placed in a level filled with random waves of enemies in increasing difficulty and numbers. Characters start with just their basic weapon and empty item slots. Killing monsters will drop gems that when picked up, will give experience points in order for the character to level up.
 
@@ -103,7 +90,7 @@ While the runs of Vampire Survivors get progressively harder by the minute, it s
 
 Vampire Survivors is a completely free game, with the only revenue model being in the form of highly commendable non-intrusive ads. Ads that, upon choice, will give you an extra revive or gold upon death — a win-win situation for players and the developers. There is also a very cheap winter themed DLC titled “Legacy of the Moonspell” that introduces new locations, characters, monsters, and items.
 
-Conclusion:
+## Conclusion:
 
 Vampire Survivors is a game so great and iconic it created its own genre - the survival one hander rogue-lite genre. A perfect example of graphics doesn’t matter. Even if you’re one who usually cares for graphics in a game, even if you don’t like what you’re seeing from the screenshots and videos, I’d still recommend giving it a try and experiencing it yourself.
 

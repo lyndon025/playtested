@@ -38,12 +38,7 @@ Slenderman RE: Light Edition is an adventure horror mobile game based on the Sle
 
 
 
-## +scary atmosphere
-
-
-
-
-## Cons
+- scary atmosphere## Cons
 
 
 -non-existent story

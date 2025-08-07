@@ -8,7 +8,7 @@ export interface Props {
 const { showTitle = true } = Astro.props;
 ---
 
-<header class="mt-10 mb-8 relative z-50">
+<header class="mt-8 mb-4 relative z-50">
   <button
     onClick="toggleTheme()"
     id="theme-toggle-button"
@@ -41,8 +41,8 @@ const { showTitle = true } = Astro.props;
     </svg>
   </button>
 
-  <div class="flex items-start space-x-6">
-    <a href="/" class="flex items-start space-x-6">
+  <div class="flex items-center space-x-6">
+    <a href="/" class="flex items-center space-x-6">
       <Image
         src="/images/logo02.png"
         alt="Logo"
@@ -52,7 +52,7 @@ const { showTitle = true } = Astro.props;
         class="w-24 h-24 rounded-full object-cover border-2 border-gray-200 dark:border-gray-700 shadow hover:opacity-80 transition-opacity"
       />
       {showTitle && (
-        <div>
+        <div class="self-center mt-5">
           <h1 class="text-4xl font-bold tracking-tight hover:opacity-80 transition-opacity">
             {SiteOptions.siteTitle}
           </h1>

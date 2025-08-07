@@ -27,11 +27,7 @@ tags:
 thumb: /images/reviews/legacy/2022-11-10-finally-a-proper-kung-fu-game--sifu-short-review-0.avif
 ---
 
-SIFU (Nintendo Switch) - Short Review
-
 If you’re looking for a martial arts game that will remind you of the classic kung-fu movies you loved as a kid (maybe until now), SIFU has got it for you. Finally, It is now released for the Nintendo Switch.
-
-Nintendo Switch.
 
 Imagine if beat’ em up and Rogue-like had a baby named Bruce Lee. This is basically SIFU in a nutshell. It has a rather simple but effective revenge story: you play as a young man trying to take down the people that wronged you, maybe growing old along the way.
 

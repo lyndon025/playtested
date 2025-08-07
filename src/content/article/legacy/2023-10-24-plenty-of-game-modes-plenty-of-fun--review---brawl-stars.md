@@ -44,20 +44,15 @@ Brawl Stars, developed and published by Supercell, has been lighting up mobile g
 
 
 
-## +Diverse characters with unique abilities
+- Diverse characters with unique abilities
 
-## +Smooth and fluid performance
+- Smooth and fluid performance
 
-## +Multiple gameplay modes which are all fun and great for solo or with friends alike
+- Multiple gameplay modes which are all fun and great for solo or with friends alike
 
-## +Quick matches, only around a minute or so
+- Quick matches, only around a minute or so
 
-## +No energy system to limit play
-
-
-
-
-## Cons
+- No energy system to limit play## Cons
 
 
 -Pay-to-Win elements are present

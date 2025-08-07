@@ -2,7 +2,7 @@
 author: lyndonguitar
 category: Review
 description: "Half-Life: Alyx is an immersive VR narrative experience that captures everything fans expect from a Half-Life game with polished gameplay, insane detail, and excellent storytelling."
-featured: false
+featured: true
 gallery:
   - /images/reviews/half-life-alyx-0.avif
   - /images/reviews/half-life-alyx-1.avif

@@ -38,18 +38,13 @@ I played the Demo of the newly released game titled Voice of Cards: The Isle Dra
 
 
 
-## +Table-top RPG based aesthetic and gameplay
+- Table-top RPG based aesthetic and gameplay
 
 
-## +Engaging turn-based combat system
+- Engaging turn-based combat system
 
 
-## +Free to try
-
-
-
-
-## Cons
+- Free to try## Cons
 
 
 -non-table-top RPG players might find the game slow

@@ -41,12 +41,7 @@ BlazBlue Entropy Effect is a 2D side-scrolling Roguelite game developed by 91Act
 - Gorgeous 2D visuals and lighting system
 - Addictive roguelite gameplay loop
 - Seven distinct character with their own movesets, skills, and playstyles
-- Unique roguelite mechanics
-
-
-
-
-## Cons
+- Unique roguelite mechanics## Cons
 - Story is nonsensical
 
 

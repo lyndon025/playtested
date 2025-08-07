@@ -43,11 +43,6 @@ NBA 2K24 MyTEAM is a mobile iteration of the NBA 2K series, focusing on the MyTE
 - Both singleplayer and multiplayer game modes (3v3 and 5v5)
 - Officially licensed NBA players and teams
 - Physical Controller Support
-
-
-
-
-
 ## Cons
 - Hard to find matches and imbalanced match-ups
 - Cannot use real team rosters from the NBA in any game mode

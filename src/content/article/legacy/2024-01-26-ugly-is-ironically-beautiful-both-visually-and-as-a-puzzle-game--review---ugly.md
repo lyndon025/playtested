@@ -23,12 +23,6 @@ tags:
 thumb: /images/reviews/legacy/2024-01-26-ugly-is-ironically-beautiful-both-visually-and-as-a-puzzle-game--review---ugly-0.avif
 ---
 
-Ugly
-8.9
-Adventure
-Puzzle
-
-
 ## ✨Overview
 Ugly is a 2D puzzle platformer that immerses players with an innovative mirror and swapping mechanic. The game centers on unraveling the protagonist's mysterious past through a series of intricate puzzle rooms and challenging boss encounters. The game released recently on both iOS and Android, following a release last year on Steam for PC.
 
@@ -41,11 +35,6 @@ Ugly is a 2D puzzle platformer that immerses players with an innovative mirror a
 - Innovative mirror and swapping mechanic
 - Excellently paced puzzles and levels
 - Both touch and physical controller support
-
-
-
-
-
 ## Cons
 - Story is a little too minimalistic
 - The blur effect during checkpoint reloads feels unnecessarily disorienting

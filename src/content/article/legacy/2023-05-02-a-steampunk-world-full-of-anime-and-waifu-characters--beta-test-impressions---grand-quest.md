@@ -22,12 +22,6 @@ tags:
 thumb: /images/reviews/legacy/2023-05-02-a-steampunk-world-full-of-anime-and-waifu-characters--beta-test-impressions---grand-quest-0.avif
 ---
 
-Grand Quest
-8.0
-Magic
-Adventure
-Pre-register
-
 Grand Quest is a gacha game set in a steampunk world full of anime and waifu characters. The art style is impressive and while it features gacha and waifu aspects, they’re not over the top and the characters are not blown out of proportions. Grand Quest is seemingly set in a steampunk universe where there is magic and technology, but the world is clean and pristine looking than most interpretations.
 
 The game features an intriguing story where you are a highly talented arcanist student looking for your missing teacher, meeting all sorts of characters and enemies along the way.  The story is investigative in nature and feels like a grand adventure of sorts, fitting the game's title.

@@ -41,18 +41,13 @@ In Tavern Brawls, players engage in thrilling card battles with tactical and res
 
 
 
-## +The best of strategy card and auto chess mechanics
+- The best of strategy card and auto chess mechanics
 
 
-## +No non-sense battle resolution
+- No non-sense battle resolution
 
 
-## +Strategic Depth
-
-
-
-
-## Cons
+- Strategic Depth## Cons
 
 
 -Emphasis on same-race combos limits overall synergies

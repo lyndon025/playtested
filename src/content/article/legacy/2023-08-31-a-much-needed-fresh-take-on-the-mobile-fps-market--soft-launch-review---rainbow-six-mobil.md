@@ -44,11 +44,6 @@ From the highly popular Rainbow Six franchise, Rainbow Six Mobile is a free-to-p
 - Destructible Environments
 - Straightforward operation progression system
 - Responsive and customizable controls
-
-
-
-
-
 ## Cons
 - Stability and network issues
 

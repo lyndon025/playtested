@@ -33,10 +33,6 @@ tags:
 thumb: /images/reviews/legacy/2023-12-22-this-chibi-resident-evil-gets-an-impressive-good-looking-sequel--pcmobile-cloud---heaven--0.avif
 ---
 
-Heaven Dust 2
-8.3
-Action RPG
-Story Rich
 
 
 ## ✨Overview
@@ -50,11 +46,6 @@ I first learned about Heaven Dust via TapTap’s Pocket Playfest event, and it o
 - Classic Resident Evil style gameplay with modern improvements in the mechanics
 - Standalone narrative but with direction connections to the first game
 - Good replay value with multiple difficulty levels, weapons, and New Game Plus.
-
-
-
-
-
 ## Cons
 - Some of the puzzles can be overly ambiguous
 - The camera and aiming can sometimes work against the player

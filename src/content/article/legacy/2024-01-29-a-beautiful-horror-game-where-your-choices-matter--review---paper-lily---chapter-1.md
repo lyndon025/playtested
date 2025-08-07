@@ -51,11 +51,6 @@ Finally fully released as a free-to-play game a few days ago, Paper Lily - Chapt
 - Varied and interesting puzzles with multiple solutions
 - Player freedom and multiple endings
 - Free-to-Play
-
-
-
-
-
 ## Cons
 - Jump scares that feels unnecessary
 - Some puzzles can be frustrating and unforgiving

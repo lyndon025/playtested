@@ -39,21 +39,16 @@ MLB 9 Innings Rivals is a brand new mobile game for baseball fans, featuring con
 
 
 
-## +Accessible and simplified gameplay
+- Accessible and simplified gameplay
 
 
-## +Impressive console level graphics
+- Impressive console level graphics
 
 
-## +Realistic player animation and movements
+- Realistic player animation and movements
 
 
-## +Playable in both portrait and landscape
-
-
-
-
-## Cons
+- Playable in both portrait and landscape## Cons
 
 
 -landscape game mode only available for matches, not menus

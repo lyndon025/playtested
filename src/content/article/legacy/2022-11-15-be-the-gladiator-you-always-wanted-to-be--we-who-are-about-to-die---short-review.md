@@ -28,8 +28,6 @@ We Who Are About to Die - Short Review (Early Access)
 
 With how popular rogue-lite games are becoming lately, as well as the consistent popularity of the Ancient Rome setting throughout the years, I’m a bit surprised that we don’t have enough Gladiator style focused games already. Saturating the market like the zombie or world war tropes we have today. That soon is about to change, as we now have We Who Are About to Die, recently released on Steam Early Access.
 
-recently released on Steam Early Access.
-
 Ever encountered a pretty cool arena combat or gladiator mechanic in a game? and said like “Man, I wish there was a full game focused on this”? —- Well, your wish is now granted. We Who Are About to Die’s main focus is all around the life of Gladiators. This is unlike most titles where the game just shallowly dips into the concept of gladiators by way of side content arena combat, mini-games, or side questlines.
 
 We Who Are About to Die is reminiscent of melee / sword fighting games like Mount and Blade and Kingdom Come: Deliverance when it comes to combat and its approach to your freedom of directional swings. But with a twist: You now completely control the physics and the actual movement and momentum of your attacks. You control it using mouse movements, “swinging” or sliding it across your mousepad like some sort of motion control.

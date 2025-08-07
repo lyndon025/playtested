@@ -47,20 +47,15 @@ From its indie spin-off roots to its present status that I would describe as the
 
 
 
-## +The best turn-based combat mechanics for Persona ever made
+- The best turn-based combat mechanics for Persona ever made
 
-## +Highly strategic combat
+- Highly strategic combat
 
-## +Fast paced missions and full of action
+- Fast paced missions and full of action
 
-## +Sleek user interface and presentation
+- Sleek user interface and presentation
 
-## +Simple, neat, and refreshing visuals
-
-
-
-
-## Cons
+- Simple, neat, and refreshing visuals## Cons
 
 
 -No slice of life elements

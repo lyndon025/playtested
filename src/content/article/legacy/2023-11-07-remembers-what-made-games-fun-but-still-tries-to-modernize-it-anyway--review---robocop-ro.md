@@ -47,18 +47,13 @@ Developed by Teyon and published by Nacon, RoboCop: Rogue City brings the iconic
 
 
 
-## +Fun and gratifying combat
+- Fun and gratifying combat
 
-## +Destructible environments
+- Destructible environments
 
-## +Captures the tone of the original RoboCop film
+- Captures the tone of the original RoboCop film
 
-## +Progression system that keeps the gameplay fresh
-
-
-
-
-## Cons
+- Progression system that keeps the gameplay fresh## Cons
 
 
 -Weak story, pacing, and side content

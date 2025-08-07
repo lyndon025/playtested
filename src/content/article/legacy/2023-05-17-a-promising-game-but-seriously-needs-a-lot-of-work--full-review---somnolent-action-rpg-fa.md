@@ -45,18 +45,13 @@ Somnolent: Action RPG Fantasy is a third person action RPG game set in a world w
 
 
 
-## +Good core gameplay idea
+- Good core gameplay idea
 
 
-## +Charming clay-looking graphics
+- Charming clay-looking graphics
 
 
-## +Unique premise and lore
-
-
-
-
-## Cons
+- Unique premise and lore## Cons
 
 
 -Needs a lot of work

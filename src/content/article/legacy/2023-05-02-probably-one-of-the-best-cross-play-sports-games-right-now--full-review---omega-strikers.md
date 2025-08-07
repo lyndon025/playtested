@@ -47,21 +47,16 @@ Omega Strikers is a sports multiplayer mobile game that combines Moba mechanics 
 
 
 
-## +Feels just like any other fun sport to play
+- Feels just like any other fun sport to play
 
 
-## +Integrates MOBA elements into its sport gameplay very well
+- Integrates MOBA elements into its sport gameplay very well
 
 
-## +Free-to-play with no pay to win elements
+- Free-to-play with no pay to win elements
 
 
-## +Controller support
-
-
-
-
-## Cons
+- Controller support## Cons
 
 
 -No clear distinction with the roles gameplay wise

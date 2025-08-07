@@ -37,15 +37,10 @@ Rumble Heroes : Adventure RPG is a free-to-play mobile RPG where players control
 
 
 
-## +simple but fun one-handed gameplay
+- simple but fun one-handed gameplay
 
 
-## +interesting adventure RPG elements
-
-
-
-
-## Cons
+- interesting adventure RPG elements## Cons
 
 
 -combat lacks depth

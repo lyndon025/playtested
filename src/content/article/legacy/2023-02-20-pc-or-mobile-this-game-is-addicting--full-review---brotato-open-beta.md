@@ -43,21 +43,16 @@ Brotato is essentially one of these Vampire survivors-clones and it’s now out 
 
 
 
-## +Surprisingly addicting gameplay loop
+- Surprisingly addicting gameplay loop
 
 
-## +action-packed and fast paced gameplay
+- action-packed and fast paced gameplay
 
 
-## +Mindless fun, can play with just one hand
+- Mindless fun, can play with just one hand
 
 
-## +One of the best alternatives to Vampire Survivors
-
-
-
-
-## Cons
+- One of the best alternatives to Vampire Survivors## Cons
 
 
 -Some minor missing features (Beta test problems)

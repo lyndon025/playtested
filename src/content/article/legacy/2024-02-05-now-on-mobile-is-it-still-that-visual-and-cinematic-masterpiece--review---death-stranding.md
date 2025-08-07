@@ -4,8 +4,8 @@ category: Review
 slug: 2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece-review-death-stranding
 title: Now on mobile, is it still that visual and cinematic masterpiece? | Review - Death Stranding
 game: Death Stranding
-description: DEATH STRANDING DIRECTOR'S CUT 9.0 Open World Action
-featured: false
+description: Death Stranding is an action-adventure game developed by Kojima Productions and directed by Hideo Kojima. Initially released for the PlayStation 4 in 2019, with a subsequent release for Microsoft Windows and now for iOS/iPadOS/Mac Apple devices, the game has garnered attention for its unconventional gameplay mechanics, immersive storytelling, and cinematic presentation. The game is currently being sold in the App Store for $19.99, 50% cheaper than current other offerings.
+featured: true
 gallery:
   - /images/reviews/legacy/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-0.avif
   - /images/reviews/legacy/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-1.avif
@@ -29,12 +29,6 @@ tags:
 thumb: /images/reviews/legacy/2024-02-05-now-on-mobile-is-it-still-that-visual-and-cinematic-masterpiece--review---death-stranding-0.avif
 ---
 
-DEATH STRANDING DIRECTOR'S CUT
-9.0
-Open World
-Action
-
-
 ## ✨Overview
 Death Stranding is an action-adventure game developed by Kojima Productions and directed by Hideo Kojima. Initially released for the PlayStation 4 in 2019, with a subsequent release for Microsoft Windows and now for iOS/iPadOS/Mac Apple devices, the game has garnered attention for its unconventional gameplay mechanics, immersive storytelling, and cinematic presentation. The game is currently being sold in the App Store for $19.99, 50% cheaper than current other offerings.
 
@@ -49,11 +43,6 @@ Death Stranding is renowned for its departure from traditional gaming norms and 
 - Deep complex narrative
 - Unconventional fresh gameplay mechanics
 - Unexpectedly Immersive async multiplayer components
-
-
-
-
-
 ## Cons
 - Frame rate issues, occasional freezes and crashes
 - Touch controls still not recommended, similar to other recent AAA ports to Apple

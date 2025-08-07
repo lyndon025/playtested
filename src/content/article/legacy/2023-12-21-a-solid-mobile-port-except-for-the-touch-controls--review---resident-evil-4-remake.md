@@ -51,11 +51,6 @@ As one of the early AAA game releases for Apple devices, Resident Evil 4 adopts 
 - Well balanced survival horror and action elements
 - Fluid and satisfying combat
 - Compelling story and progression
-
-
-
-
-
 ## Cons
 - Touch control implementation is borderline unplayable. A controller is highly recommended
 - Resolution and textures are not very sharp looking

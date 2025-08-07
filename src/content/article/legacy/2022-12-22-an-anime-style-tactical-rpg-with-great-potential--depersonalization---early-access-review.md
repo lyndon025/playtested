@@ -42,21 +42,16 @@ Depersonalization is a new anime-style tactical RPG recently released in Early A
 
 
 
-## +interesting story elements
+- interesting story elements
 
 
-## +a great mix of anime and pixel art
+- a great mix of anime and pixel art
 
 
-## +deep role playing mechanics
+- deep role playing mechanics
 
 
-## +extremely high replayability
-
-
-
-
-## Cons
+- extremely high replayability## Cons
 
 
 -wonky software-translated text and voice-acting

@@ -41,20 +41,15 @@ Metal Mind is a pixel rogue-lite stick shooter where players take on the role of
 
 
 
-## +Charmingly simple retro art-style
+- Charmingly simple retro art-style
 
-## +Plethora of unlockable guns and robot appendages
+- Plethora of unlockable guns and robot appendages
 
-## +Experimentation and freedom to swap out robot parts
+- Experimentation and freedom to swap out robot parts
 
-## +Enemies are varied enough to necessitate the use of different weapons
+- Enemies are varied enough to necessitate the use of different weapons
 
-## +Auto-aim mechanic, making it a “single-stick” shooter
-
-
-
-
-## Cons
+- Auto-aim mechanic, making it a “single-stick” shooter## Cons
 
 
 -The persistent upgrades feel somewhat underwhelming

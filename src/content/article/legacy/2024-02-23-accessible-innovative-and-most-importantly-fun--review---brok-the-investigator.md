@@ -49,11 +49,6 @@ BROK the InvestiGator is available on multiple platforms, including PC (Steam), 
 - Very inclusive accessibility features, even for those visually impaired
 - Coop up to four players
 - Physical controller support
-
-
-
-
-
 ## Cons
 - Excessive useless dialogue can slow the pacing of investigations
 - Clunky combat touch controls

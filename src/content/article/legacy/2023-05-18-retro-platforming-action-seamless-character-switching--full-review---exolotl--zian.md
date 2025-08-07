@@ -44,18 +44,13 @@ Exolotl : Zian is a platformer game with charming retro pixel art style, unique 
 
 
 
-## +Genuinely nostalgic platforming
+- Genuinely nostalgic platforming
 
 
-## +Charming character designs based on the axolotl animal
+- Charming character designs based on the axolotl animal
 
 
-## +Seamless character switching
-
-
-
-
-## Cons
+- Seamless character switching## Cons
 
 
 -Touch control layout is hard to use and uncustomizable

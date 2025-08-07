@@ -43,20 +43,15 @@ Devil May Cry: Peak of Combat is a mobile hack-and-slash ARPG game released glob
 
 
 
-## +Faithful to its hack and slash roots, gameplay wise
+- Faithful to its hack and slash roots, gameplay wise
 
-## +Streamlined controls for mobile
+- Streamlined controls for mobile
 
-## +Seamless character switching added to its combo system
+- Seamless character switching added to its combo system
 
-## +DMC4 like impressive visuals for a mobile game
+- DMC4 like impressive visuals for a mobile game
 
-## +Optimized performance
-
-
-
-
-## Cons
+- Optimized performance## Cons
 
 
 -Fans of DMC may not appreciate the switch to the grindy gacha gaming formula

@@ -50,21 +50,16 @@ Evoland 2 is a classic / modern adventure RPG game with a time-traveling theme, 
 
 
 
-## +Unique alternating blend of different game styles and mechanics across video game history
+- Unique alternating blend of different game styles and mechanics across video game history
 
 
-## +Cohesive time-traveling narrative
+- Cohesive time-traveling narrative
 
 
-## +Colorful cast of charming characters
+- Colorful cast of charming characters
 
 
-## +Controller Support
-
-
-
-
-## Cons
+- Controller Support## Cons
 
 
 -Difficult to use touch controls

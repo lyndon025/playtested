@@ -42,18 +42,13 @@ Lost Future is a mobile third-person zombie survival game that recently launched
 
 
 
-## +Decent visuals
+- Decent visuals
 
-## +Post apocalyptic open world gameplay
+- Post apocalyptic open world gameplay
 
-## +Base management elements
+- Base management elements
 
-## +Seamless character switching
-
-
-
-
-## Cons
+- Seamless character switching## Cons
 
 
 -Gunplay is clunky and buggy

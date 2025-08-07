@@ -17,13 +17,14 @@ const roundedScore = typeof score === 'number' ? Math.round(score) : null;
     bg-gray-50 dark:bg-slate-800 rounded-lg shadow-sm
     p-6
     h-full           /* fill the wrapper’s height */
-    flex flex-col    /* allow distributing inside */
-  "
+    flex flex-col    /* allow distributing inside */"
 >
   {
     SiteOptions.showThumbnailOnFeaturedPosts && thumb && (
       <a href={`/article/${post.slug}`} class="w-full block group relative featured-card-thumb">
-        <div class="w-full aspect-w-16 aspect-h-9 mb-6 rounded-xl overflow-hidden shadow-md max-w-4xl mx-auto relative">
+        <div class="w-full aspect-w-16 aspect-h-9 mb-6 rounded-xl overflow-hidden shadow-md max-w-4xl mx-auto relative"
+        style="aspect-ratio: 16 / 9;"
+        >
           <Image
             src={thumb}
             alt={title}
@@ -33,7 +34,7 @@ const roundedScore = typeof score === 'number' ? Math.round(score) : null;
             class="w-full h-full object-cover"
             placeholder="blur"
           />
-          <ScoreBadge score={roundedScore} />
+          <ScoreBadge score={post.data.score} small />
         </div>
       </a>
     )

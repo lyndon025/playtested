@@ -40,21 +40,16 @@ Bright Reappear, a match-three game combined with RPG-style gameplay, was releas
 
 
 
-## +Unique concept of blending match three and turn-based RPG
+- Unique concept of blending match three and turn-based RPG
 
 
-## +Satisfying match-three puzzle action
+- Satisfying match-three puzzle action
 
 
-## +Nostalgic visuals and sound design
+- Nostalgic visuals and sound design
 
 
-## +Light RPG mechanics
-
-
-
-
-## Cons
+- Light RPG mechanics## Cons
 
 
 -Minor UI gripes

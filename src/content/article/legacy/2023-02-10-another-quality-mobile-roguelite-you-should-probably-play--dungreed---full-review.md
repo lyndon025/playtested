@@ -48,21 +48,16 @@ In the indie-games industry, production costs are limited. Usually, game creator
 
 
 
-## +High quality pixel-art
+- High quality pixel-art
 
 
-## +Wide variety of weapons, including PLASMA RIFLES
+- Wide variety of weapons, including PLASMA RIFLES
 
 
-## +Quality fast travel system
+- Quality fast travel system
 
 
-## +Controller Support
-
-
-
-
-## Cons
+- Controller Support## Cons
 
 
 -Starts off slow

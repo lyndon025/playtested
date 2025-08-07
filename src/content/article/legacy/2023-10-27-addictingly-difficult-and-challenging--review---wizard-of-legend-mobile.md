@@ -48,20 +48,15 @@ The timing of this mobile release couldn't be better, especially with the recent
 
 
 
-## +Fast-paced satisfying spell-based combat
+- Fast-paced satisfying spell-based combat
 
-## +Challenging roguelike elements and progression
+- Challenging roguelike elements and progression
 
-## +Procedurally generated dungeons
+- Procedurally generated dungeons
 
-## +Spell and Item customization
+- Spell and Item customization
 
-## +Touch and Gamepad support
-
-
-
-
-## Cons
+- Touch and Gamepad support## Cons
 
 
 -Stunlock is overused as a combat mecahnic

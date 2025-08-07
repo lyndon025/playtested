@@ -40,21 +40,16 @@ Voice of Cards: The Forsaken Maiden is a table-top RPG game in video game format
 
 
 
-## +Open exploration and an adventurous tone
+- Open exploration and an adventurous tone
 
 
-## +Table-top RPG based aesthetic and gameplay
+- Table-top RPG based aesthetic and gameplay
 
 
-## +Engaging turn-based combat system
+- Engaging turn-based combat system
 
 
-## +premium game with no ads, or pay-to-win mechanics, but there are purchasable cosmetics
-
-
-
-
-## Cons
+- premium game with no ads, or pay-to-win mechanics, but there are purchasable cosmetics## Cons
 
 
 -non-table-top RPG players might find the game slow

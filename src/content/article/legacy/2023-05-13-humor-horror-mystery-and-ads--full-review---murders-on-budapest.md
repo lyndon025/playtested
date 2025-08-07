@@ -48,18 +48,13 @@ Murders on Budapest is a narratively focused murder mystery game with both comed
 
 
 
-## +intriguing self-aware murder mystery game
+- intriguing self-aware murder mystery game
 
 
-## +interesting fourth-wall breaks
+- interesting fourth-wall breaks
 
 
-## +combines both humor and horror
-
-
-
-
-## Cons
+- combines both humor and horror## Cons
 
 
 -Intrusive ads while playing the game

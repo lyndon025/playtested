@@ -41,24 +41,19 @@ Madtale is a mobile idle RPG game that puts players in a dark fairy tale world f
 
 
 
-## +A captivating fairy tale storyline
+- A captivating fairy tale storyline
 
 
-## +Great Art Style
+- Great Art Style
 
 
-## +Wonderful voice acting and a fitting soundtrack
+- Wonderful voice acting and a fitting soundtrack
 
 
-## +Battles are visually pleasing
+- Battles are visually pleasing
 
 
-## +Plethora of game modes to unlock and play
-
-
-
-
-## Cons
+- Plethora of game modes to unlock and play## Cons
 
 
 -The combat is too automated, making battles feel pre-determined with almost zero player input needed

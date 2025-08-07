@@ -41,21 +41,16 @@ Punch Kick Duck is a mobile beat’ em up game with a simple no frills gameplay 
 
 
 
-## +Fun and satisfying combat mechanics
+- Fun and satisfying combat mechanics
 
 
-## +Challenging variety of enemies
+- Challenging variety of enemies
 
 
-## +Controller support
+- Controller support
 
 
-## +Play in landscape or vertical
-
-
-
-
-## Cons
+- Play in landscape or vertical## Cons
 
 
 -Too short

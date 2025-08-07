@@ -33,11 +33,6 @@ Metria, an action RPG that first caught my attention during its testing phases i
 ## Pros
 - Promising storyline
 - Vibrant art style
-
-
-
-
-
 ## Cons
 - Performance issues
 - Broken monster spawns

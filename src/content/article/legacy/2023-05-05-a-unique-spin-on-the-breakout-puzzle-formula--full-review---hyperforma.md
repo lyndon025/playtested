@@ -47,18 +47,13 @@ Hyperforma is a puzzle game that takes players on a journey through a mysterious
 
 
 
-## +catchy electronic music
+- catchy electronic music
 
 
-## +challenging puzzles
+- challenging puzzles
 
 
-## +satisfying gameplay
-
-
-
-
-## Cons
+- satisfying gameplay## Cons
 
 
 -intrusive ads

@@ -18,7 +18,7 @@ const sortedPosts = allPosts.sort(
 // featuredPosts up to N
 const featuredPosts = allPosts
   .filter((post) => post.data.featured)
-  .slice(0, SiteOptions.numberOfFeaturedPostsOnHomePage || 6);
+  .slice(0, SiteOptions.numberOfFeaturedPostsOnHomePage || 12);
 
 // latest posts for below
 const latestPosts = sortedPosts.slice(
@@ -91,7 +91,7 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
   )}
 
   <!-- Latest Posts… -->
-  <section class="py-8">
+  <section class="py-1">
     {SiteOptions.labels.latestPosts && (
       <h2 class="text-2xl font-semibold mb-5 text-center">
         {SiteOptions.labels.latestPosts}

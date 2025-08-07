@@ -46,11 +46,6 @@ Molecano is a mobile word puzzle game that takes players journey throughout food
 - Relaxing and chill art design and soundtrack
 - The puzzles are really engaging and challenging
 - Over 400 levels to complete
-
-
-
-
-
 ## Cons
 - Can feel too complex and might not resonate well with the more casual puzzle players
 - Not much to do outside advancing through the levels

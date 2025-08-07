@@ -38,18 +38,13 @@ Lucid Lenses is a narratively-driven romantic adventure game featuring mesmerizi
 
 
 
-## +fun puzzling mechanics
+- fun puzzling mechanics
 
 
-## +plot is simple yet imaginative
+- plot is simple yet imaginative
 
 
-## +beautiful artwork and soundtrack
-
-
-
-
-## Cons
+- beautiful artwork and soundtrack## Cons
 
 
 -Out of place mini-games from other genres

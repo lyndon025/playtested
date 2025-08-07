@@ -47,18 +47,13 @@ Cyber Manhunt is a mystery and hacking simulation game with a story-oriented foc
 
 
 
-## +Accurate but streamlined hacking mechanics
+- Accurate but streamlined hacking mechanics
 
 
-## +Engaging narrative that compels you to investigate and play
+- Engaging narrative that compels you to investigate and play
 
 
-## +Immersive websites and pages that closely resemble their real-life counterparts
-
-
-
-
-## Cons
+- Immersive websites and pages that closely resemble their real-life counterparts## Cons
 
 
 -The game is linear, only gives you an illusion of choice.

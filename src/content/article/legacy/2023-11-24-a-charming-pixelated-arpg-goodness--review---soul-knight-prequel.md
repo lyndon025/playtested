@@ -45,20 +45,15 @@ Soul Knight Prequel marks a departure from the roguelite roots of its predecesso
 
 
 
-## +Charming graphics and art style
+- Charming graphics and art style
 
-## +Deep ARPG gameplay and mechanics
+- Deep ARPG gameplay and mechanics
 
-## +Diverse classes, including secondary and hybrid classes
+- Diverse classes, including secondary and hybrid classes
 
-## +Open ended farming and looting gameplay loop
+- Open ended farming and looting gameplay loop
 
-## +Hub village and lots of customization
-
-
-
-
-## Cons
+- Hub village and lots of customization## Cons
 
 
 -Simple story that did not compel me to play

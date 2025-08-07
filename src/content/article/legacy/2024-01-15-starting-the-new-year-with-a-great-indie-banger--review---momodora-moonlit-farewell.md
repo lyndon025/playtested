@@ -25,12 +25,6 @@ tags:
 thumb: /images/reviews/legacy/2024-01-15-starting-the-new-year-with-a-great-indie-banger--review---momodora-moonlit-farewell-0.avif
 ---
 
-Momodora: Moonlit Farewell
-8.3
-Action
-Adventure
-
-
 ## ✨Overview
 
 Momodora: Moonlit Farewell is the latest installment in the Momodora game series. After an almost a decade of absence, Momodora is finally back. It offers a blend of Metroidvania and 2D Souls-like gameplay wrapped in a retro pixel art style. Set in the village of Koho, the game follows the High Priestess Momo Reinol as she embarks on a divine mission to save her people from a demonic invasion unleashed by a malevolent bellringer.
@@ -44,11 +38,6 @@ Momodora: Moonlit Farewell is the latest installment in the Momodora game series
 - A mix of metroidvania and souls-like but without all the hardcore difficulty
 - Great level design
 - Sigil passives that allows for experimentation and build diversity
-
-
-
-
-
 ## Cons
 - Not a lot of character progression/customization elements aside from Sigils
 - Lacking regular enemy variety

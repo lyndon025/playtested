@@ -35,18 +35,13 @@ Tumbling Zoo-rock it is a fun cute casual game where animals chase each other, b
 
 
 
-## +Chill game
+- Chill game
 
 
-## +Cute simple visuals
+- Cute simple visuals
 
 
-## +Mechanics are deep for an .io consumption game
-
-
-
-
-## Cons
+- Mechanics are deep for an .io consumption game## Cons
 
 
 -Limits your play to a few times per day only (unless you pay)

@@ -46,20 +46,15 @@ Cats & Soup: Magic Recipe is a recently soft-launched mobile game that blends â€
 
 
 
-## +Whimsical, charming visuals and soundtrack
+- Whimsical, charming visuals and soundtrack
 
-## +Merge game mechanics, with a cooking twist
+- Merge game mechanics, with a cooking twist
 
-## +Challenging puzzles
+- Challenging puzzles
 
-## +Filled with attention to detail, mini-games, and activities
+- Filled with attention to detail, mini-games, and activities
 
-## +Very considerate in monetization aspects (optional ads only)
-
-
-
-
-## Cons
+- Very considerate in monetization aspects (optional ads only)## Cons
 - Cooking serves merely as a facade, it's really a merge puzzle game through and through
 
 

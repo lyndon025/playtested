@@ -38,12 +38,7 @@ Bibots is a roguelite dungeon crawler shooter where players take on the role of 
 - Pleasing HD visuals
 - Intense bullet-hell action
 - Variety of weapons and upgrades to experiment with
-- Procedurally generated levels and easy traversal mechanics
-
-
-
-
-## Cons
+- Procedurally generated levels and easy traversal mechanics## Cons
 - The touch controls are floaty and clunky
 - The titular Bibots are underutilized as a gameplay concept
 - Persistent progression is a bit grindy, even for a roguelite

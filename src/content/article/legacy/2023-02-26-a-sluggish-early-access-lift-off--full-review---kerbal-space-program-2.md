@@ -40,6 +40,7 @@ tags:
   - xbox-one
   - xbox-series
 thumb: /images/reviews/legacy/2023-02-26-a-sluggish-early-access-lift-off--full-review---kerbal-space-program-2-0.avif
+score: 2
 ---
 
 Kerbal Space Program 2 is now released in Early Access. Is it a decent follow-up to one of the greatest spacecraft physics simulation games of all time — Kerbal Space Program?
@@ -48,32 +49,17 @@ Kerbal Space Program 2 is now released in Early Access. Is it a decent follow-up
 
 
 ## Pros
-
-
-
-## +A highly educational game about real-life spacecraft physics
-
-
-## +Highly accurate simulation of space orbits
-
-
-## +A good foundation is laid for future content
-
-
-
+- A highly educational game about real-life spacecraft physics
+- Highly accurate simulation of space orbits
+- A good foundation is laid for future content
 
 ## Cons
+- Missing even the core features from the first game
+- All the added features like multiplayer are not yet present
+- No modding support yet
+- $50 for an Early Access without much starting content is too much
 
-
--Missing even the core features from the first game
-
--All the added features like multiplayer are not yet present
-
--No modding support yet
-
--$50 for an Early Access without much starting content is too much
-
-Is it a decent follow-up?
+## Is it a decent follow-up?
 
 That question is a tall order. The first game, even while still in the Early Access stages, was already well received consistently up to its release and post-release. In addition, similar games have come out since the first game that improved this simulator genre a lot like Juno: New Origins (Formerly Simple Rockets 2).
 
@@ -87,7 +73,7 @@ This game is hard to learn, and hard to master. After all, players are learning 
 
 The graphics are pleasant, with higher resolution textures, more advanced lighting, particle effects, and atmospheric effects like clouds all helping create a realistic feel to match the simulator nature of the game.
 
-Gameplay Analysis
+## Gameplay Analysis
 
 Kerbal Space Program 2, like the first game, features in some degree a highly realistic physics engine, which accurately models the forces and effects of gravity, aerodynamics, and orbital mechanics. This means that players must carefully plan and execute their missions, taking into account factors such as weight distribution, atmospheric drag, fuel consumption, and gravitational effects from celestial bodies.
 
@@ -97,7 +83,7 @@ However, what Kerbal Space Program 2 does well is the initial accessibility and 
 
 For the succeeding points, I’m going to heavily compare KSP2 to the first game, and see what has changed, what’s missing, and what’s promised.
 
-Changes:
+## Changes:
 
 For starters, the game is more presentable now, even beginning with a cinematic introduction sequence to the game that adds a lot of flavor and appeal factor. In the first game,players really had to like and be able to understand the gameplay on their own in order to be hooked. Compared to now, animated tutorials and gameplay prompts are immediately present, with a helpful AI assistant called P.A.I.G.E. that guides players in grasping the highly steep learning curve of the game.
 
@@ -105,7 +91,7 @@ KSP2 also now offers different difficulty settings that alter the gameplay: dock
 
 Parts are now highly customizable, with some parts dynamic and adjustable in angles, and even color. The first game only had prefabricated parts and sizes to choose from. However, fuel tanks are still prefabricated and not dynamic which is disappointing.
 
-Missing:
+## Missing:
 
 There is currently no Career and Science Mode, these modes offer a gamified and a progression-oriented experience that will encourage and motivate players and add more meaning and substance to their playthroughs. Right now, all that exists is a sandbox mode. Other missing features that were present in the first game are resource gathering, asteroids, and comets. Some aspects like first person cockpit view are also missing.
 
@@ -113,21 +99,21 @@ One of the biggest reasons why the first one was so successful was modding suppo
 
 Regrettably, modding for KSP2 is currently unsupported. These missing features make KSP2 utterly inferior to the first game right now.
 
-Promises:
+## Promises:
 
 Interstellar Travel, Multiplayer, and Colonies. Players will now be able to travel to neighboring star systems, participate in large scale base building, and play with friends. Currently, none of these exist in KSP2, but they are promised in a future update. Ironically, many of these gameplay features are already somehow present in KSP1, via modding, but native support is almost always better!
 
-Technical Performance:
+## Technical Performance:
 
 The performance right now is extremely bad. I’m on a RTX 3080, 32GB RAM, and an i7-8700k and I am getting below 30 fps when flying simple crafts. Anything outdoor will absolutely cripple your frame rates for no good reason.
 
 While the graphics and visuals have improved a lot, I was expecting a relatively well performing game considering the first one was single-threaded and this one should have multi-threaded support by now.
 
-The Price:
+## The Price:
 
 When KSP1 launched on Steam Early Access back in 2013, it was for $23, discounted even more for earlier adopters. It launched in a similar state as KSP2 is right now, but at KSP2's $50 launch price, it sends a different message to the consumers and one that’s not positively received. It is too high for what it offers and makes supporting the game ironically harder.
 
-Conclusion:
+## Conclusion:
 
 It pains me to say this, but if you are looking for even the slightest enjoyable experience you could have with a space physics simulator that’s worth $50, I do not recommend buying Kerbal Space Program 2 at the moment. I would rather recommend the first game with its plethora of content and active modding community. If you are looking for a mobile counterpart that's also playable, you can try Juno: New Origins for a tenth of the price.
 

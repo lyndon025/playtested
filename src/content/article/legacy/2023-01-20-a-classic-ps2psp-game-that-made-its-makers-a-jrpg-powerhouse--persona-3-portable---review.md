@@ -5,7 +5,8 @@ slug: 2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse-pe
 title: A classic PS2/PSP game that made its makers a JRPG powerhouse | Persona 3 Portable - Review
 game: Persona 3 Portable
 description: A classic JRPG from the PS2 and PSP era has now been brought forward in time, re-released and remastered for modern systems, and in my opinion, they ported the wrong version.
-featured: false
+featured: true
+score: 8.5
 gallery:
   - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-0.avif
   - /images/reviews/legacy/2023-01-20-a-classic-ps2psp-game-that-made-its-makers-a-jrpg-powerhouse--persona-3-portable---review-1.avif

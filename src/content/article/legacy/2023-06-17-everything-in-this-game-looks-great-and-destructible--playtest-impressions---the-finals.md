@@ -38,18 +38,13 @@ THE FINALS is a tournament-based game with elimination in an arena setting and l
 
 
 
-## +Best-in-class destructible environments that affect the gameplay
+- Best-in-class destructible environments that affect the gameplay
 
 
-## +High-quality graphics
+- High-quality graphics
 
 
-## +Great sound design with the weapons
-
-
-
-
-## Cons
+- Great sound design with the weapons## Cons
 
 
 -Players looking for an ultra-fast paced experience may not like the more grounded nature of this game

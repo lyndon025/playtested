@@ -48,12 +48,7 @@ Strange Hill is a third-person platformer adventure that recently made its debut
 ## Pros
 - Charming Visuals
 - Fluid Controls
-- Plans for future content and updates
-
-
-
-
-## Cons
+- Plans for future content and updates## Cons
 - Intrusive and annoying ads
 - Very short runtime of over an hour
 

@@ -42,11 +42,6 @@ The Wandering Ark is a mobile strategy game that features a unique pinball-style
 - Brand new style of gameplay: Pinball combined with RPG?
 - Variety of game modes
 - Smooth and welcoming progression
-
-
-
-
-
 ## Cons
 - Forgettable story
 - Inconsistent artwork and quality

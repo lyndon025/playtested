@@ -47,12 +47,7 @@ MY HERO ULTRA RUMBLE is a free-to-play Battle Royale game set in the world of th
 - Captures the feel of the anime in its presentation
 - Matches are quick and mini-sized (only 24 players and a small map)
 - Responsive Controls
-- Free-to-play experience/progression is forgiving but not easy
-
-
-
-
-## Cons
+- Free-to-play experience/progression is forgiving but not easy## Cons
 - Overly chaotic gameplay
 - Imbalanced combat
 - Default bindings aren’t good, at least on keyboard and mouse

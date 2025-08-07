@@ -31,7 +31,7 @@ const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filt
 <nav class="flex justify-center items-center space-x-2 flex-wrap mt-12" aria-label="Pagination Navigation">
   {SiteOptions.pagination.showPrevNext &&
     (page.url.prev ? (
-      <a href={page.url.prev} class="px-4 py-2 text-sm font-medium ..." aria-label="Go to previous page">
+      <a href={page.url.prev} class="px-4 py-2 text-sm font-medium" aria-label="Go to previous page">
         ← {SiteOptions.pagination.prevText}
       </a>
     ) : (
@@ -39,11 +39,17 @@ const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filt
         ← {SiteOptions.pagination.prevText}
       </span>
     ))}
-  
+
   {visiblePages.map((num, idx) => {
     const prevNum = visiblePages[idx - 1];
     const isEllipsis = idx > 0 && num - prevNum > 1;
-    const url = num === 1 ? `${basePath}` : `${basePath}/page/${num}`;
+    // Conditional for page 1 URL
+    const url = num === 1
+      ? (basePath === '/blog'
+          ? `${basePath}/page/1`     // blog: go to dynamic page 1
+          : `${basePath}`)           // tags/categories: go to landing
+      : `${basePath}/page/${num}`; // pages 2+
+
     return (
       <div class="flex items-center" key={num}>
         {isEllipsis && <span class="px-2 select-none">…</span>}
@@ -62,7 +68,7 @@ const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filt
 
   {SiteOptions.pagination.showPrevNext &&
     (page.url.next ? (
-      <a href={page.url.next} class="px-4 py-2 text-sm font-medium ..." aria-label="Go to next page">
+      <a href={page.url.next} class="px-4 py-2 text-sm font-medium" aria-label="Go to next page">
         {SiteOptions.pagination.nextText} →
       </a>
     ) : (

@@ -45,21 +45,16 @@ WHAT THE CAR? Is an absurd “racing” game featuring an ever evolving race car
 
 
 
-## +Fun engaging racing game with hundreds of unique levels
+- Fun engaging racing game with hundreds of unique levels
 
 
-## +Different car mechanics for every episode and chapters
+- Different car mechanics for every episode and chapters
 
 
-## +Full of car-centric quips, jokes, and a humorous soundtrack to boot
+- Full of car-centric quips, jokes, and a humorous soundtrack to boot
 
 
-## +Level editor
-
-
-
-
-## Cons
+- Level editor## Cons
 
 
 -No ‘wheel-to-wheel’ real racing

@@ -43,18 +43,13 @@ Cyber Rebellion is an upcoming mobile game that falls into the strategic hero co
 
 
 
-## +Stunning visuals and lively presentation
+- Stunning visuals and lively presentation
 
-## +Character customization options
+- Character customization options
 
-## +Engaging progression mechanics
+- Engaging progression mechanics
 
-## +Menu is accessible and easy to navigate
-
-
-
-
-## Cons
+- Menu is accessible and easy to navigate## Cons
 
 
 -Combat is shallow

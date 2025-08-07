@@ -44,18 +44,13 @@ Card Hog - Dungeon Crawler is a card swiping rogue-lite mobile game that combine
 
 
 
-## +Easy to pick-up and learn
+- Easy to pick-up and learn
 
 
-## +bright, colorful, and cartoony visuals
+- bright, colorful, and cartoony visuals
 
 
-## +High degree of replayability
-
-
-
-
-## Cons
+- High degree of replayability## Cons
 
 
 -No Cons

@@ -37,21 +37,16 @@ We Love Katamari REROLL+ Royal Reverie is a remastered version of the beloved se
 
 
 
-## +Unique and whimsical gameplay
+- Unique and whimsical gameplay
 
 
-## +Charming simplistic visuals
+- Charming simplistic visuals
 
 
-## +Creative level design
+- Creative level design
 
 
-## +Catchy Soundtrack
-
-
-
-
-## Cons
+- Catchy Soundtrack## Cons
 
 
 -Controls are a bit unorthodox at first

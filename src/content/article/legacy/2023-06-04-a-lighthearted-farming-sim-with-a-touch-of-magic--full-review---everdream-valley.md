@@ -38,21 +38,16 @@ Everdream Valley is a third person farming sim developed for the Switch, PlaySta
 
 
 
-## +Diverse variety of crops, and adds animals to the mix
+- Diverse variety of crops, and adds animals to the mix
 
 
-## +Dream mechanic for the animals and sleeping
+- Dream mechanic for the animals and sleeping
 
 
-## +A sense of exploration and Discovery
+- A sense of exploration and Discovery
 
 
-## +Charming art style and relaxing music
-
-
-
-
-## Cons
+- Charming art style and relaxing music## Cons
 
 
 -Quality of Life issues

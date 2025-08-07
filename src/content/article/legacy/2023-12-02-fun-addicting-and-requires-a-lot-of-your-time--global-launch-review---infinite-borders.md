@@ -44,18 +44,13 @@ Infinite Borders takes players into the Three Kingdoms period of Ancient China, 
 
 
 
-## +Addictive nature of upgrading buildings and conquering neighboring lands
+- Addictive nature of upgrading buildings and conquering neighboring lands
 
-## +Stays true to the captivating Three Kingdoms premise and feel
+- Stays true to the captivating Three Kingdoms premise and feel
 
-## +In-Depth hero collection and team-building mechanics
+- In-Depth hero collection and team-building mechanics
 
-## +Support for a wider range of hardware with its 3D and 2D map settings
-
-
-
-
-## Cons
+- Support for a wider range of hardware with its 3D and 2D map settings## Cons
 
 
 -Overwhelming amount of mechanics at start for new players, but gets better in time

@@ -38,18 +38,13 @@ Detective Mimo is a delightful and entertaining game that combines classic point
 
 
 
-## +Mind-bending twists and fourth wall breaks
+- Mind-bending twists and fourth wall breaks
 
 
-## +Puzzles require heavy thinking outside the box
+- Puzzles require heavy thinking outside the box
 
 
-## +Lighthearted whimsical visuals
-
-
-
-
-## Cons
+- Lighthearted whimsical visuals## Cons
 
 
 -Short game

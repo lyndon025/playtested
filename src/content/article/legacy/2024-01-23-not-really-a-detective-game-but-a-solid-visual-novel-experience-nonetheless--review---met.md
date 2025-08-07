@@ -46,11 +46,6 @@ Methods: Detective Competition is a visual novel game with a unique detective-th
 - Very distinctive unique visual style
 - A huge ensemble cast of characters
 - Super-quick 100 small chapters that will roughly take you 10 hours to fully finish
-
-
-
-
-
 ## Cons
 - Non-existent gameplay, weak detective game elements
 - Characters with insufferable personalities

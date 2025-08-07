@@ -51,11 +51,6 @@ The game, currently in soft launch for Android, iOS, and PC, offers a blend of s
 - Addicting card battler gameplay with dual-attribute ranged/melee attacks
 - Faction-based playstyles and mechanics
 - High-quality card art and solid visuals
-
-
-
-
-
 ## Cons
 - Some balancing work needs to be done
 - Missing some QOL features

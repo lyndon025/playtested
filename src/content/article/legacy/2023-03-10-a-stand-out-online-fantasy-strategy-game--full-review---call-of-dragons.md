@@ -49,18 +49,13 @@ Call of Dragons is a new upcoming fantasy strategy mobile game that features cit
 
 
 
-## +Beautiful graphics and presentation
+- Beautiful graphics and presentation
 
 
-## +Highly engaging game mechanics
+- Highly engaging game mechanics
 
 
-## +Commendable user experience
-
-
-
-
-## Cons
+- Commendable user experience## Cons
 
 
 -time consuming

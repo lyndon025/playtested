@@ -46,18 +46,13 @@ Valkyrie Profile has come a long way from its PS1 origins, its PSP re-release th
 
 
 
-## +A very gripping and satisfying story
+- A very gripping and satisfying story
 
 
-## +fun platforming and exploration elements
+- fun platforming and exploration elements
 
 
-## +highly engaging and surprisingly kinetic combat
-
-
-
-
-## Cons
+- highly engaging and surprisingly kinetic combat## Cons
 
 
 -voice acting hasn’t aged well

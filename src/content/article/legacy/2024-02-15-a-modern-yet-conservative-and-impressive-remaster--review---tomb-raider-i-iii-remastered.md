@@ -52,11 +52,6 @@ I have fond memories of the classic Tomb Raider games, especially the first thre
 - Preserves spirit of the classic trilogy in both gameplay and visuals
 - Runs at your system’s full resolution and refresh rate
 - Seamless switching between retro and modern visuals
-
-
-
-
-
 ## Cons
 - Poorly implemented but optional modernized control/camera scheme
 - Tank controls has aged poorly

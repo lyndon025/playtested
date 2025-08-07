@@ -26,12 +26,6 @@ tags:
 thumb: /images/reviews/legacy/2024-02-20-is-this-really-the-genshin-impact-killer--cbt2-review---wuthering-waves-0.avif
 ---
 
-Wuthering Waves
-9.2
-Editors' Choice
-Action
-PC Version
-
 
 ## ✨Overview
 Wuthering Waves is an upcoming open-world action RPG that promises to deliver a rich open world experience for players on both mobile and PC. It features a anime inspired cel-shaded character designs blended with a mix of stylized AAA high fidelity visuals, and is set in a post apocalyptic world ravaged by the Calament, a catastrophic event that nearly wiped out humanity, Wuthering Waves presents players with a vast and diverse landscape to explore, filled with mysteries to uncover, activities to partake in, and challenges to overcome.

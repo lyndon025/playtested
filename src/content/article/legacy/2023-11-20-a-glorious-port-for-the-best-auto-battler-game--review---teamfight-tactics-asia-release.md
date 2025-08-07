@@ -45,20 +45,15 @@ Designed with mobile gamers in mind, TFT Mobile offers features and systems opti
 
 
 
-## +An excellent port of the PC version
+- An excellent port of the PC version
 
-## +Strategic autobattler depth and gameplay
+- Strategic autobattler depth and gameplay
 
-## +Optimized for mobile
+- Optimized for mobile
 
-## +No noticeable compromises in visuals and performance
+- No noticeable compromises in visuals and performance
 
-## +Crossplay and cross-progression capabilities
-
-
-
-
-## Cons
+- Crossplay and cross-progression capabilities## Cons
 
 
 -Might be harder to play with smaller screen sized phones

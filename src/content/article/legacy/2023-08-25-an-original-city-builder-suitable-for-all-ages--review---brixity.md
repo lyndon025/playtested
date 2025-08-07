@@ -43,12 +43,7 @@ BRIXITY is an innovative sandbox city-building game that invites players to emba
 - Wholesome gameplay for all ages
 - Charming and cute visuals
 - Freedom to build custom buildings and structures and share it with the community
-- Explore both your own city and those by others in third person
-
-
-
-
-## Cons
+- Explore both your own city and those by others in third person## Cons
 - Paywalls limit players’ creativity and choices
 - time consuming, progression and currency requires real-time waiting
 

@@ -4,7 +4,8 @@ category: Review
 slug: 2023-04-23-a-perfectly-brewed-continuation-full-review-coffee-talk-episode-2-hibiscus-butterfly
 title: 'A perfectly brewed continuation | Full Review - Coffee Talk Episode 2: Hibiscus & Butterfly'
 game: 'Coffee Talk Episode 2: Hibiscus & Butterfly'
-description: 'Coffee Talk Episode 2: Hibiscus & Butterfly Coffee Talk Episode 2: Hibiscus & Butterfly 8.7 Adventure Casual'
+description: 'Coffee Talk Episode 2: Hibiscus & Butterfly, is a direct follow-up to the amazing part-visual novel, part-coffee barista simulator Coffee Talk. It set exactly three years after the original game and retains most of its coffee making simulator elements and narrative style.'
+score: 8.5
 featured: false
 gallery:
   - /images/reviews/legacy/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-0.avif
@@ -41,39 +42,18 @@ tags:
 thumb: /images/reviews/legacy/2023-04-23-a-perfectly-brewed-continuation--full-review---coffee-talk-episode-2-hibiscus--butterfly-0.avif
 ---
 
-Coffee Talk Episode 2: Hibiscus & Butterfly
-Coffee Talk Episode 2: Hibiscus & Butterfly
-8.7
-Adventure
-Casual
-
 Coffee Talk Episode 2: Hibiscus & Butterfly, is a direct follow-up to the amazing part-visual novel, part-coffee barista simulator Coffee Talk. It set exactly three years after the original game and retains most of its coffee making simulator elements and narrative style.
 
 
 
 
 ## Pros
-
-
-
-## +Relaxing, chill experience
-
-
-## +Provocative slice-of-life stories
-
-
-## +Well written characters
-
-
-## +Fun coffee / beverage making system
-
-
-
-
+- Relaxing, chill experience
+- Provocative slice-of-life stories
+- Well written characters
+- Fun coffee / beverage making system
 ## Cons
-
-
--Not much control over the narrative
+- Not much control over the narrative
 
 Set in a rainy, mashed up, fantasized alternate 2023 version of Seattle, Coffee Talk lets you play as a barista in the eponymous relaxing coffee shop that serves a diverse range of customers in a world where humans, elves, orcs, and other fantasy creatures coexist with each other. It is highly reminiscent of the premise of the Netflix film Bright.
 

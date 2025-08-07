@@ -46,21 +46,16 @@ Shovel Knight Pocket Dungeon is a roguelike dungeon crawler puzzle game that ser
 
 
 
-## +Unique gameplay blend of puzzles and dungeon crawling
+- Unique gameplay blend of puzzles and dungeon crawling
 
 
-## +Challenging and Strategic puzzles
+- Challenging and Strategic puzzles
 
 
-## +Highly customizable game parameters
+- Highly customizable game parameters
 
 
-## +Additional game modes like 1v1 and daily/weekly runs
-
-
-
-
-## Cons
+- Additional game modes like 1v1 and daily/weekly runs## Cons
 
 
 -High difficulty for the default game parameters

@@ -49,24 +49,19 @@ It’s not exactly a new title, but due to platform availability, I haven’t ha
 
 
 
-## +Goes back to the original Digimon World formula
+- Goes back to the original Digimon World formula
 
 
-## +Graphics have aged well
+- Graphics have aged well
 
 
-## +Smooth performance
+- Smooth performance
 
 
-## +Engaging combat system
+- Engaging combat system
 
 
-## +Satisfying gameplay loop
-
-
-
-
-## Cons
+- Satisfying gameplay loop## Cons
 
 
 -Lack of PC graphics options

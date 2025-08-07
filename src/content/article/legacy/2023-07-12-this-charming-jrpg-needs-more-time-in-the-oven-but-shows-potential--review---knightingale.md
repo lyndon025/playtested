@@ -44,21 +44,16 @@ Knightingale is an upcoming HD-2D RPG game with an adventurous story, engaging t
 
 
 
-## +Beautiful soundtrack
+- Beautiful soundtrack
 
 
-## +HD-2D graphics
+- HD-2D graphics
 
 
-## +Flexible weapon and ability mechanics
+- Flexible weapon and ability mechanics
 
 
-## +Skipping the story cutscene still gives you a text summary
-
-
-
-
-## Cons
+- Skipping the story cutscene still gives you a text summary## Cons
 
 
 -Only runs in 16:9 aspect ratio; which doesn’t fit with the majority of mobile phones

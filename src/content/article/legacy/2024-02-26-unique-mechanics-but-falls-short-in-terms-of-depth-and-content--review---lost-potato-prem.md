@@ -44,11 +44,6 @@ The game is set to release on Android and iOS this year, expected in March, with
 - Charming art style
 - Lightweight and runs smoothly on most phones
 - Fast-paced and bite sized gameplay
-
-
-
-
-
 ## Cons
 
 

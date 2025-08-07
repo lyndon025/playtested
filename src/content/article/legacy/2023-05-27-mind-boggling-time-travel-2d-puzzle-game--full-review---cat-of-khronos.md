@@ -46,18 +46,13 @@ Cat of Khronos is a time traveling puzzle game with mind bending mechanics that 
 
 
 
-## +Unique Time-travel puzzle gameplay
+- Unique Time-travel puzzle gameplay
 
 
-## +Engaging and thought-provoking
+- Engaging and thought-provoking
 
 
-## +Challenging progression and satisfying puzzle solving
-
-
-
-
-## Cons
+- Challenging progression and satisfying puzzle solving## Cons
 
 
 -Very steep learning curve

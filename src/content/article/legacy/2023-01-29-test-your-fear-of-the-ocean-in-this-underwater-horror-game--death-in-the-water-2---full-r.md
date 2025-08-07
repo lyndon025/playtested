@@ -42,15 +42,10 @@ Death in the Water 2 is a single-player horror FPS game that is set deep underwa
 
 
 
-## +immersive deep underwater experience
+- immersive deep underwater experience
 
 
-## +best animations I’ve seen for video game sea creatures
-
-
-
-
-## Cons
+- best animations I’ve seen for video game sea creatures## Cons
 
 
 -repetitive mediocre gameplay loop

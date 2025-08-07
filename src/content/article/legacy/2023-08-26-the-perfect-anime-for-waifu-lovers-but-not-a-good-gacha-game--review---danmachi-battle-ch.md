@@ -46,12 +46,7 @@ DanMachi BATTLE CHRONICLE is a gacha-based Action Role-Playing Game (ARPG) inspi
 ## Pros
 - Faithful to the story and characters
 - Really informative tutorials and training missions
-- Infinite reroll for the first gacha pull
-
-
-
-
-## Cons
+- Infinite reroll for the first gacha pull## Cons
 - Stiff and unresponsive controls
 - No target lock or aim assist while moving
 - Imbalanced skills and abilities

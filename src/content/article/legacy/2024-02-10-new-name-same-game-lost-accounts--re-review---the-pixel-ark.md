@@ -46,11 +46,6 @@ Progress was not automatically transferred unless players received a code, leavi
 - Brand new style of gameplay: Pinball combined with RPG?
 - Variety of game modes
 - Smooth and welcoming progression
-
-
-
-
-
 ## Cons
 - Forgettable story
 - Inconsistent artwork and quality

@@ -41,18 +41,13 @@ Heaven Dust is an old-school-style zombie survival horror game that combines puz
 
 
 
-## +Classic Resident Evil atmosphere
+- Classic Resident Evil atmosphere
 
 
-## +Simple gameplay mechanics
+- Simple gameplay mechanics
 
 
-## +Challenging puzzles
-
-
-
-
-## Cons
+- Challenging puzzles## Cons
 
 
 -Clunky controls

@@ -46,20 +46,15 @@ Looks like the gap or timeline between PC and mobile ports of AAA games is narro
 
 
 
-## +Beautiful and Amazing level design
+- Beautiful and Amazing level design
 
-## +Fun and engaging platforming aspects
+- Fun and engaging platforming aspects
 
-## +Feels like a special episode from the animated series
+- Feels like a special episode from the animated series
 
-## +The original voice actors, many of the soundtrack and soundbits are back
+- The original voice actors, many of the soundtrack and soundbits are back
 
-## +Touch controls are implemented well and it feels right at home as a mobile game
-
-
-
-
-## Cons
+- Touch controls are implemented well and it feels right at home as a mobile game## Cons
 
 
 -Felt like a downgrade from Battle for Bikini Bottom

@@ -47,18 +47,13 @@ Getting Over It+ is a physics-based platformer that will require your patience, 
 
 
 
-## +Highly addictive — up until you reach your limits to try again another day
+- Highly addictive — up until you reach your limits to try again another day
 
 
-## +Challenging platformer puzzles
+- Challenging platformer puzzles
 
 
-## +With high difficulty comes a highly rewarding experience
-
-
-
-
-## Cons
+- With high difficulty comes a highly rewarding experience## Cons
 
 
 -Game is highly punishing and frustrating, clearly not for everyone

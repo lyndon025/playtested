@@ -41,15 +41,10 @@ Storyteller is a charming puzzle game where you literally need to tell stories i
 
 
 
-## +captivating gameplay
+- captivating gameplay
 
 
-## +fun puzzle mechanics
-
-
-
-
-## Cons
+- fun puzzle mechanics## Cons
 
 
 -too short

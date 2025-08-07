@@ -44,18 +44,13 @@ Bayonetta Origins: Cereza and the Lost Demon is a brand new adventure game with 
 
 
 
-## +Beautiful graphics and presentation
+- Beautiful graphics and presentation
 
 
-## +Highly engaging game mechanics
+- Highly engaging game mechanics
 
 
-## +Extraordinary two-character gameplay
-
-
-
-
-## Cons
+- Extraordinary two-character gameplay## Cons
 
 
 -Minor camera problems

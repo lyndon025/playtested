@@ -46,21 +46,16 @@ Dead by Daylight Mobile is an asymmetric 4v1 multiplayer survival horror game wh
 
 
 
-## +Top-tier multiplayer survival horror
+- Top-tier multiplayer survival horror
 
 
-## +Console level visuals
+- Console level visuals
 
 
-## +Balanced asymmetric gameplay
+- Balanced asymmetric gameplay
 
 
-## +Super sound design
-
-
-
-
-## Cons
+- Super sound design## Cons
 
 
 -No cons

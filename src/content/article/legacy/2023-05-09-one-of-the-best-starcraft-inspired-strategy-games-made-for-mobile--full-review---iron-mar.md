@@ -49,21 +49,16 @@ Iron Marines is a real-time strategy game developed and published by Ironhide Ga
 
 
 
-## +Fun RTS game at its core
+- Fun RTS game at its core
 
 
-## +Different hero types to choose from
+- Different hero types to choose from
 
 
-## +Built specifically for touchscreen devices
+- Built specifically for touchscreen devices
 
 
-## +Unique levels visual and challenge wise
-
-
-
-
-## Cons
+- Unique levels visual and challenge wise## Cons
 
 
 -Touchscreen controls aren’t perfect

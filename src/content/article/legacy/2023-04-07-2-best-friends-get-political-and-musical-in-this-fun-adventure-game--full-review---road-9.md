@@ -40,28 +40,23 @@ Road 96: Mile 0 is a narratively-driven first-person adventure game with politic
 
 
 
-## +Masterpiece of a soundtrack
+- Masterpiece of a soundtrack
 
 
-## +Thought-provoking social and political commentary
+- Thought-provoking social and political commentary
 
 
-## +Profound and moving Story
+- Profound and moving Story
 
 
-## +Amazingly crafted rhythm game setpieces
-
-
-
-
-## Cons
+- Amazingly crafted rhythm game setpieces## Cons
 
 
 
-## +Technical performance not so great
+- Technical performance not so great
 
 
-## +Overall not an improved experience over the original Road 96
+- Overall not an improved experience over the original Road 96
 
 Road 96: Mile 0 is actually the prequel to the critically acclaimed game Road 96, bearing the same first-person adventure gameplay, emphasizing narrative choices, consequences to actions, and social commentary. However, the gameplay setup is very much different from each other, especially with Road 96: Mile 0’s focus on a more fixed narrative, coupled with musical and rhythm themes.
 

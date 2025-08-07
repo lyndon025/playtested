@@ -40,18 +40,13 @@ Spiritle is a 4-player turn-based strategy battle digital board game available b
 
 
 
-## +Charming art style
+- Charming art style
 
 
-## +Intriguing game concept
+- Intriguing game concept
 
 
-## +Cooperative mode
-
-
-
-
-## Cons
+- Cooperative mode## Cons
 
 
 -Extremely slow pacing that takes away the enjoyment

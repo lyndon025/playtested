@@ -51,24 +51,19 @@ Is the remake worth revisiting? Is it a worthy first impression for franchise ne
 
 
 
-## +Faithful retelling of the original
+- Faithful retelling of the original
 
 
-## +The story is more fleshed out and improved compared to the original
+- The story is more fleshed out and improved compared to the original
 
 
-## +An immersive atmospheric experience
+- An immersive atmospheric experience
 
 
-## +Terrifying as a survival horror game
+- Terrifying as a survival horror game
 
 
-## +Tailored to both long-time fans and newcomers
-
-
-
-
-## Cons
+- Tailored to both long-time fans and newcomers## Cons
 
 
 -No cons

@@ -47,15 +47,10 @@ Cyber Protocol is an arcade puzzle game that will test your problem solving skil
 
 
 
-## +Challenging puzzles and levels
+- Challenging puzzles and levels
 
 
-## +Lit 2D cyberpunk art style and techno soundtrack
-
-
-
-
-## Cons
+- Lit 2D cyberpunk art style and techno soundtrack## Cons
 
 
 -Difficulty is not for everyone

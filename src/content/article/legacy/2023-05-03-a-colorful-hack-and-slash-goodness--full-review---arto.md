@@ -37,21 +37,16 @@ Arto is an action-adventure hack and slash game featuring a world full of — or
 
 
 
-## +novel gameplay use of colors
+- novel gameplay use of colors
 
 
-## +mesmerizing atmosphere
+- mesmerizing atmosphere
 
 
-## +challenging boss fights
+- challenging boss fights
 
 
-## +simple but fluid combat system
-
-
-
-
-## Cons
+- simple but fluid combat system## Cons
 
 
 -shoddy camera work

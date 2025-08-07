@@ -42,21 +42,16 @@ Viewfinder is a puzzle game where players reshape reality by placing works of ar
 
 
 
-## +Innovative mind bending puzzle mechanics
+- Innovative mind bending puzzle mechanics
 
 
-## +The puzzles are consistently engaging and satisfying to solve
+- The puzzles are consistently engaging and satisfying to solve
 
 
-## +Visually pleasing art style
+- Visually pleasing art style
 
 
-## +Subtle and player-driven narrative
-
-
-
-
-## Cons
+- Subtle and player-driven narrative## Cons
 
 
 -Limited complexity in its puzzle mechanics

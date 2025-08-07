@@ -6,6 +6,7 @@ title: 'Save the rhinos! No to poachers!: the strategy game | We Are The Caretak
 game: We Are The Caretakers
 description: We Are The Caretakers is a mix of Grand Strategy, 4X, JRPG, and Squad Management all packed and blended into what they call an afrofuturist art style. It has recently left Early Access on PC and also released for Xbox Series systems. It will be hard to compare this to a single title entirely as many of its aspects are such a fresh crossover of elements from many different games and genres.
 featured: false
+score: 6.0
 gallery:
   - /images/reviews/legacy/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-0.avif
   - /images/reviews/legacy/2023-01-07-save-the-rhinos-no-to-poachers-the-strategy-game--we-are-the-caretakers---first-impressio-1.avif

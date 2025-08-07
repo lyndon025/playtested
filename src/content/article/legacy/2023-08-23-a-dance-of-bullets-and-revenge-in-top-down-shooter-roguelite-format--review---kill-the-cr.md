@@ -38,18 +38,13 @@ The untamed landscapes, the rugged characters, and the thrill of a quickdraw due
 
 
 
-## +Simple, easy to pick up controls and mechanics
+- Simple, easy to pick up controls and mechanics
 
-## +Intense one-shot, one-kill combat
+- Intense one-shot, one-kill combat
 
-## +Progression that is done via milestones and not resources and currencies
+- Progression that is done via milestones and not resources and currencies
 
-## +Immersive gunslinging experience
-
-
-
-
-## Cons
+- Immersive gunslinging experience## Cons
 
 
 -Not much gameplay depth and variety to counter the repetitive nature of roguelite games

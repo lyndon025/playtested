@@ -5,7 +5,8 @@ slug: 2022-12-03-the-best-avengers-game-without-being-one-marvels-midnight-suns-
 title: The best Avengers game without being one | Marvel's Midnight Suns - First Impressions
 game: Marvel's Midnight Suns
 description: Sure, it is titled Marvel’s Midnight Suns, but don’t let the relatively inconspicuous title fool you. It is a full blown high-profile Marvel game packing a roster that features popular Marvel characters including Iron Man, Captain America, Doctor Strange, Wolverine, Spider-Man and The Hulk. As well as including less-known characters like Nico Minoru and Magik. All of these characters are fighting in a high-stakes interpersonal story involving the demon  Lilith, the military organization Hydra, as well as throwing other heroes and villains into the mix.
-featured: false
+featured: true
+score: 9
 gallery:
   - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-0.avif
   - /images/reviews/legacy/2022-12-03-the-best-avengers-game-without-being-one--marvels-midnight-suns---first-impressions-1.avif

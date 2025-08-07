@@ -41,11 +41,6 @@ Knightcore: Sword of Kingdom is a tower offense game with real-time strategy, RP
 - Charming chibi-style visuals
 - Strategic layer in combat instead of a full-auto battler
 - Diverse array of hero and units types
-
-
-
-
-
 ## Cons
 - Story is forgettable and not interesting
 - Weak combat AI for your army

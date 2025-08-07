@@ -37,21 +37,16 @@ Bleak Sword DX is a pixel art soulslike-roguelite that offers an enhanced versio
 
 
 
-## +Striking visual style, combining 1-bit aesthetics with modern visuals
+- Striking visual style, combining 1-bit aesthetics with modern visuals
 
 
-## +Challenging and satisfying souls-like combat
+- Challenging and satisfying souls-like combat
 
 
-## +Quick and accessible gameplay; short levels and forgiving restarts
+- Quick and accessible gameplay; short levels and forgiving restarts
 
 
-## +New game modes, controller support, and additional DLC chapters
-
-
-
-
-## Cons
+- New game modes, controller support, and additional DLC chapters## Cons
 
 
 -Gets repetitive after a while

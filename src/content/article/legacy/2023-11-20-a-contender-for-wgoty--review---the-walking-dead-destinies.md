@@ -45,12 +45,7 @@ From the massive failure of Overkill's The Walking Dead to the cult success of t
 
 
 
-## +Brings alternate story paths for AMC’s established TV series storyline
-
-
-
-
-## Cons
+- Brings alternate story paths for AMC’s established TV series storyline## Cons
 
 
 -Dated and ugly visuals

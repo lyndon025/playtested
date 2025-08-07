@@ -40,15 +40,10 @@ The Doomsland: Survivors is a top down zombie shooter with rogue-lite elements.
 
 
 
-## +A challenging rogue-lite experience
+- A challenging rogue-lite experience
 
 
-## +Interesting combat and random power-ups to select
-
-
-
-
-## Cons
+- Interesting combat and random power-ups to select## Cons
 
 
 -Very hard difficulty even from the start

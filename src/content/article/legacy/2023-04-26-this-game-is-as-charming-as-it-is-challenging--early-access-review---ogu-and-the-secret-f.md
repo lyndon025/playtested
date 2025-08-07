@@ -49,18 +49,13 @@ Ogu and the Secret Forest is an action-adventure game with charming 2d graphics 
 
 
 
-## +Charming and cute characters
+- Charming and cute characters
 
 
-## +Unique and familiar challenging puzzles to solve
+- Unique and familiar challenging puzzles to solve
 
 
-## +Controller Support
-
-
-
-
-## Cons
+- Controller Support## Cons
 
 
 -Rudimentary combat system

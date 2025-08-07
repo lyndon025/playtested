@@ -49,11 +49,6 @@ Black Moon Playpark is a mobile action role-playing game (RPG) developed by Play
 - Refreshing beat ‘em up style of gameplay with an ARPG skin
 - Unique skill combo customization system
 - Diverse gameplay modes (PvEs and PvPs)
-
-
-
-
-
 ## Cons
 - Performance was below my expectations (feels 30fps with heavy drops)
 - Underwhelming storyline

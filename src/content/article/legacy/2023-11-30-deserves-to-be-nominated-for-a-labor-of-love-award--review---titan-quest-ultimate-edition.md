@@ -41,20 +41,15 @@ Titan Quest is an action role-playing game originally released in 2006 and has s
 
 
 
-## +Premium classic ARPG experience for mobile
+- Premium classic ARPG experience for mobile
 
-## +Deep and expansive character customization and progression
+- Deep and expansive character customization and progression
 
-## +Includes all DLCs, amounting to over a hundred hours' worth of content
+- Includes all DLCs, amounting to over a hundred hours' worth of content
 
-## +Controller support
+- Controller support
 
-## +Cloud saves
-
-
-
-
-## Cons
+- Cloud saves## Cons
 
 
 -HUD and text sizes are smaller than I preferred

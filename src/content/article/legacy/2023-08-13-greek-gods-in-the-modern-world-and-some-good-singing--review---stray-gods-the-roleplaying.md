@@ -48,11 +48,6 @@ Stray Gods: The Roleplaying Musical fuses urban fantasy, Greek mythology, and mu
 - engaging narrative that explores themes of life, loss, and the unknown
 - branching paths and choices that matter
 - the interactive gameplay is blended with musical aspect very well
-
-
-
-
-
 ## Cons
 - slow pacing
 - sound mixing is questionable

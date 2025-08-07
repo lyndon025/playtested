@@ -47,20 +47,15 @@ Endless Dungeon is a genre-defying rogue-lite that merges elements of dungeon cr
 
 
 
-## +Masterful execution of multiple genres
+- Masterful execution of multiple genres
 
-## +Gorgeous visuals
+- Gorgeous visuals
 
-## +Fluid performance
+- Fluid performance
 
-## +Varied gameplay; from action to survival to resource management
+- Varied gameplay; from action to survival to resource management
 
-## +Engaging progression
-
-
-
-
-## Cons
+- Engaging progression## Cons
 
 
 -Missed opportunity for local co-op (it doesn't have one)

@@ -52,21 +52,16 @@ TMNT Splintered Fate is a brand new Ninja Turtles game with a rogue-lite spin on
 
 
 
-## +Randomized runs; layout, upgrades, and mini-bosses
+- Randomized runs; layout, upgrades, and mini-bosses
 
 
-## +Combat is incredibly fluid
+- Combat is incredibly fluid
 
 
-## +Four widely different characters to choose from
+- Four widely different characters to choose from
 
 
-## +Coop multiplayer
-
-
-
-
-## Cons
+- Coop multiplayer## Cons
 
 
 -No cons

@@ -44,24 +44,19 @@ Street Fighter 6 is a 2023 fighting game developed and published by Capcom and t
 
 
 
-## +The action-packed catchy soundtrack
+- The action-packed catchy soundtrack
 
 
-## +World Tour single player “RPG” game mode
+- World Tour single player “RPG” game mode
 
 
-## +A new stellar mechanic called the Drive System
+- A new stellar mechanic called the Drive System
 
 
-## +Very newcomer friendly with new control mechanics
+- Very newcomer friendly with new control mechanics
 
 
-## +Commentary option capturing the feel of a highly competing esports environment
-
-
-
-
-## Cons
+- Commentary option capturing the feel of a highly competing esports environment## Cons
 
 
 -Story is lackluster

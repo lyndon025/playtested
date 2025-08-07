@@ -45,18 +45,13 @@ Mobile Suit Baba is turn-based strategy/puzzle game, combining the charm of Baba
 
 
 
-## +Creative fusion of Strategy and Puzzle game mechanics
+- Creative fusion of Strategy and Puzzle game mechanics
 
-## +Elaborate puzzle/level design and mission/character variety
+- Elaborate puzzle/level design and mission/character variety
 
-## +Clever use of words and ‘programming’ to alter the rules of the game
+- Clever use of words and ‘programming’ to alter the rules of the game
 
-## +Free to claim until December 27, and then after at a cheap price of $4
-
-
-
-
-## Cons
+- Free to claim until December 27, and then after at a cheap price of $4## Cons
 
 
 -Can be brutally challenging, missions can be difficult to solve

@@ -39,32 +39,22 @@ tags:
   - xbox-one
 thumb: /images/reviews/legacy/2023-05-02-a-murder-mystery-experience-to-remember--full-review---danganronpa-trigger-happy-havoc-0.avif
 ---
-
-Danganronpa: Trigger Happy Hav
 Danganronpa: Trigger Happy Havoc is a visual novel murder mystery title that was originally released for PSP back in 2010 and was ported to mobile platforms in 2012.
-
-
-
 
 ## Pros
 
 
 
-## +A compelling murder mystery premise
+- A compelling murder mystery premise
 
 
-## +Unpredictable story full of twists and turns
+- Unpredictable story full of twists and turns
 
 
-## +A mix gameplay of visual novel, first person exploration, and adventure
+- A mix gameplay of visual novel, first person exploration, and adventure
 
 
-## +A sharp anime art style and a surprisingly good soundtrack
-
-
-
-
-## Cons
+- A sharp anime art style and a surprisingly good soundtrack## Cons
 
 
 -Pacing can be too much, game can feel long winded at times.

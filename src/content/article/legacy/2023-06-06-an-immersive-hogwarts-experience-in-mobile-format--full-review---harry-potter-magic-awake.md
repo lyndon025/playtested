@@ -45,21 +45,16 @@ Harry Potter: Magic Awakened is a free-to-play third-person and deck-building ga
 
 
 
-## +Immersive Hogwarts experience
+- Immersive Hogwarts experience
 
 
-## +Compelling storyline set shortly after the events of the series
+- Compelling storyline set shortly after the events of the series
 
 
-## +Deck-building combat system with a unique twist
+- Deck-building combat system with a unique twist
 
 
-## +Familiar spells and creatures for Harry Potter fans
-
-
-
-
-## Cons
+- Familiar spells and creatures for Harry Potter fans## Cons
 
 
 -Immersion-breaking character inclusions for some of the companion cards

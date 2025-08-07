@@ -38,18 +38,13 @@ Doomblade is a 2D platforming metroidvania with unique combat and platforming me
 
 
 
-## +Feels overall refreshing and completely a brand new experience
+- Feels overall refreshing and completely a brand new experience
 
 
-## +Innovative control schemes
+- Innovative control schemes
 
 
-## +Amazing art direction
-
-
-
-
-## Cons
+- Amazing art direction## Cons
 
 
 -The difficulty of using the mouse or right stick for aiming is not for everyone

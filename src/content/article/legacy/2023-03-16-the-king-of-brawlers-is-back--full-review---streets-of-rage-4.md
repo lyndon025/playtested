@@ -52,18 +52,13 @@ Streets of Rage 4 is a side-scrolling retro beat 'em up game that truly captures
 
 
 
-## +Beautiful art style and 2D graphics
+- Beautiful art style and 2D graphics
 
 
-## +Simple but fun gameplay
+- Simple but fun gameplay
 
 
-## +Controller Support
-
-
-
-
-## Cons
+- Controller Support## Cons
 
 
 -No cons

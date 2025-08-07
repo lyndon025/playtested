@@ -50,15 +50,10 @@ Destiny 2: Lightfall is the latest expansion for the popular online multiplayer 
 
 
 
-## +New subclasses to play
+- New subclasses to play
 
 
-## +New area and story campaign to experience
-
-
-
-
-## Cons
+- New area and story campaign to experience## Cons
 
 
 -Uninspired campaign and level design

@@ -42,11 +42,6 @@ Burst Space is a retro-style Roguelite top down shooter that puts players into a
 - Engaging progression
 - Unique boss encounters
 - Waifu Einherjar characters
-
-
-
-
-
 ## Cons
 - Poor translation
 - Server connection problems

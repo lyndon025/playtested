@@ -42,18 +42,13 @@ Quasimorph is a mix of classic turn-based roguelike RPG with an extraction twist
 
 
 
-## +Engaging fusion of turn-based roguelike RPG and extraction mechanics.
+- Engaging fusion of turn-based roguelike RPG and extraction mechanics.
 
 
-## +Methodical combat mechanics that reward strategic thinking
+- Methodical combat mechanics that reward strategic thinking
 
 
-## +Intricate inventory system and hardcore health mechanics.
-
-
-
-
-## Cons
+- Intricate inventory system and hardcore health mechanics.## Cons
 
 
 -Lack of a text-skipping feature, making dialogue frustrating

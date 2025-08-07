@@ -46,11 +46,6 @@ Space-themed games are probably my favorite setting in video games and media in 
 - Impressive graphics and visuals
 - Free-to-play friendly
 - Smooth flawless performance
-
-
-
-
-
 ## Cons
 - Aggressive and tempting ad implementation
 - Limited variety in weapon and skill types

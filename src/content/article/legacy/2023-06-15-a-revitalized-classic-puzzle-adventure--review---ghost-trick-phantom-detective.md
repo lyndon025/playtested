@@ -36,24 +36,19 @@ Ghost Trick: Phantom Detective, the beloved Nintendo DS puzzle-adventure game fr
 
 
 
-## +Beautiful art style made even better looking
+- Beautiful art style made even better looking
 
 
-## +Unique puzzle-adventure gameplay
+- Unique puzzle-adventure gameplay
 
 
-## +Time sensitive and time manipulation mechanics
+- Time sensitive and time manipulation mechanics
 
 
-## +Compelling narrative with detective themes
+- Compelling narrative with detective themes
 
 
-## +Bonus optional soundtrack
-
-
-
-
-## Cons
+- Bonus optional soundtrack## Cons
 
 
 -Prolonged dialogue sequences before gameplay segments

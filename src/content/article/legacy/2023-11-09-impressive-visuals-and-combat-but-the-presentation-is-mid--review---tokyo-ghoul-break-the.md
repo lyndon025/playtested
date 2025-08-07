@@ -44,16 +44,11 @@ Tokyo Ghoul: Break the Chains is a mobile 3D turn-based strategy card game that 
 
 
 
-## +Impressive visuals
+- Impressive visuals
 
-## +Smooth performance
+- Smooth performance
 
-## +Engaging card-based combat
-
-
-
-
-## Cons
+- Engaging card-based combat## Cons
 
 
 -Underwhelming story presentation

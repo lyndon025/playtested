@@ -51,18 +51,13 @@ Devil Slayer - Raksasi presents a unique take on the top-down action hack and sl
 
 
 
-## +Unique tactical combat style
+- Unique tactical combat style
 
-## +Diverse characters, weapons, and fighting styles
+- Diverse characters, weapons, and fighting styles
 
-## +Procedurally generated levels
+- Procedurally generated levels
 
-## +Engaging rogue-lite progression and itemization
-
-
-
-
-## Cons
+- Engaging rogue-lite progression and itemization## Cons
 
 
 -Performance feels sluggish despite showing high frame rates

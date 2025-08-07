@@ -40,24 +40,19 @@ Hollow Knight - Pale Court is a brand new fan-made DLC for the critically acclai
 
 
 
-## +New boss fights
+- New boss fights
 
 
-## +As challenging and as engaging as the base game
+- As challenging and as engaging as the base game
 
 
-## +Completely free
+- Completely free
 
 
-## +Faithful art direction
+- Faithful art direction
 
 
-## +Just in time for the upcoming sequel
-
-
-
-
-## Cons
+- Just in time for the upcoming sequel## Cons
 
 
 -Only available for PC / Steam Deck since its a mod

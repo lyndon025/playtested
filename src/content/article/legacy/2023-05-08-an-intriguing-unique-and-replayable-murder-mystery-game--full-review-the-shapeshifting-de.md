@@ -49,21 +49,16 @@ The Shapeshifting Detective is an intriguing murder mystery FMV game  developed 
 
 
 
-## +Random killer every playthrough
+- Random killer every playthrough
 
 
-## +Shapeshifting ability is a literal game changer for interacting with the characters
+- Shapeshifting ability is a literal game changer for interacting with the characters
 
 
-## + Each character has their own intertwined backstory, motivations, alibis, and suspicious mannerisms
+-  Each character has their own intertwined backstory, motivations, alibis, and suspicious mannerisms
 
 
-## +Interesting story from start to end
-
-
-
-
-## Cons
+- Interesting story from start to end## Cons
 
 
 -Lacking the usual ‘detective’ game elements

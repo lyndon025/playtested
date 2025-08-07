@@ -47,11 +47,6 @@ Shadow Gambit: The Cursed Crew is a stealth strategy game that transports player
 - Challenging missions and situations that require timing and proper execution
 - Open-ended character and mission progression
 - Fully supports controller with its own UI
-
-
-
-
-
 ## Cons
 - minor performance drops during zoomed out view
 - cutscene dialogues cannot be skipped per line, only as a whole

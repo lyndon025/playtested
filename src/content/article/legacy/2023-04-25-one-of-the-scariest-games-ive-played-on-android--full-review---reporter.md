@@ -38,18 +38,13 @@ Reporter is a first-person adventure horror game that takes place in an antiquat
 
 
 
-## +creepy atmosphere
+- creepy atmosphere
 
 
-## +actually scary without using many cheap jumpscares
+- actually scary without using many cheap jumpscares
 
 
-## +console-level graphics
-
-
-
-
-## Cons
+- console-level graphics## Cons
 
 
 -very short, only an hour of story

@@ -56,21 +56,16 @@ The Lord of the Rings: Heroes of Middle-earth or LOTR Heroes of Middle Earth is 
 
 
 
-## +Various campaigns to play with hundreds of missions
+- Various campaigns to play with hundreds of missions
 
 
-## +Quality of life features to help with grinding and farming
+- Quality of life features to help with grinding and farming
 
 
-## +Intuitive and beginner-friendly game mechanics
+- Intuitive and beginner-friendly game mechanics
 
 
-## +Control over character progression, reducing reliance on randomization
-
-
-
-
-## Cons
+- Control over character progression, reducing reliance on randomization## Cons
 
 
 -Not LOTR newcomer friendly

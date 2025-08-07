@@ -49,18 +49,13 @@ Among Us is a multiplayer deduction party game set on a spaceship where players 
 
 
 
-## +Thrilling deduction experience
+- Thrilling deduction experience
 
 
-## +Simple and accessible, even non-gamers can play
+- Simple and accessible, even non-gamers can play
 
 
-## +Highly customizable parameters
-
-
-
-
-## Cons
+- Highly customizable parameters## Cons
 
 
 -No cons

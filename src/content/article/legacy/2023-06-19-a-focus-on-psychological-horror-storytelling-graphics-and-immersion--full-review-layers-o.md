@@ -47,24 +47,19 @@ Layers of Fear (2023) is a psychological horror game that takes players on a chi
 
 
 
-## +Stunning graphics
+- Stunning graphics
 
 
-## +Immersive audio design
+- Immersive audio design
 
 
-## +Creepy and haunting atmosphere
+- Creepy and haunting atmosphere
 
 
-## +Psychological terror as the main method of scaring the player
+- Psychological terror as the main method of scaring the player
 
 
-## +Safe mode option for a harmless psychological horror experience
-
-
-
-
-## Cons
+- Safe mode option for a harmless psychological horror experience## Cons
 
 
 -Puzzles are simple

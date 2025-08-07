@@ -30,11 +30,6 @@ tags:
 thumb: /images/reviews/legacy/2023-05-02-a-unique-mind-bending-tower-defense-game--full-review---defense-derby-0.avif
 ---
 
-Defense Derby
-
-lyndonguitar
-Download
-Gameplay
 
 Defense Derby is a mobile multiplayer tower defense game featuring hero collection and a unique mind bending multiplayer format. It is currently in a beta test until May 11.
 

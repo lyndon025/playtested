@@ -47,18 +47,13 @@ ANNULUS is a dark fantasy-themed tactics squad RPG game featuring hero collectio
 
 
 
-## +High-quality graphics
+- High-quality graphics
 
 
-## +Extensive character roster and classes
+- Extensive character roster and classes
 
 
-## +Challenging turn-based gameplay
-
-
-
-
-## Cons
+- Challenging turn-based gameplay## Cons
 
 
 -Presentation is all over the place

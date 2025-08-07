@@ -38,20 +38,15 @@ Forza Motorsport is the thirteenth installment in the renowned Forza racing vide
 
 
 
-## +Realistic handling and an immersive driving experience
+- Realistic handling and an immersive driving experience
 
-## +Extensive car roster with over 500 vehicles.
+- Extensive car roster with over 500 vehicles.
 
-## +Great gamepad support with the best use of Xbox controller’s haptics that I’ve seen
+- Great gamepad support with the best use of Xbox controller’s haptics that I’ve seen
 
-## +A middle ground between arcade and realism, fine tune it to your liking
+- A middle ground between arcade and realism, fine tune it to your liking
 
-## +Accessibility options for various difficulty settings
-
-
-
-
-## Cons
+- Accessibility options for various difficulty settings## Cons
 
 
 -The car upgrade system tends to feel grindy

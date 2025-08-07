@@ -37,18 +37,13 @@ Looper Tactics is a turn-based strategy card game infused with roguelike element
 
 
 
-## +Procedurally generated world
+- Procedurally generated world
 
 
-## +Engaging deck building and strategic card gameplay
+- Engaging deck building and strategic card gameplay
 
 
-## +Roguelike but with emphasis on continuity and persistent progression
-
-
-
-
-## Cons
+- Roguelike but with emphasis on continuity and persistent progression## Cons
 
 
 -Lack of unique or special mechanics

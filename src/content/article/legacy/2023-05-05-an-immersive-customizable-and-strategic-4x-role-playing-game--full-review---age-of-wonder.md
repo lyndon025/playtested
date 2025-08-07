@@ -54,24 +54,19 @@ In Age of Wonders 4, players take on the role of a leader of an extremely custom
 
 
 
-## +Extreme faction and map customization
+- Extreme faction and map customization
 
 
-## +Immersive empire building and roleplaying mechanics
+- Immersive empire building and roleplaying mechanics
 
 
-## +Engaging diplomacy and tech trees
+- Engaging diplomacy and tech trees
 
 
-## +Postgame progression system
+- Postgame progression system
 
 
-## +Controller Support, unheard of in strategy titles
-
-
-
-
-## Cons
+- Controller Support, unheard of in strategy titles## Cons
 
 
 -Minor UI selection issues

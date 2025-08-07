@@ -31,18 +31,13 @@ Contra: Tournament brings the iconic Contra series to the mobile battle royale g
 
 
 
-## +Well-optimized test build
+- Well-optimized test build
 
 
-## +Gunplay looks solid
+- Gunplay looks solid
 
 
-## +Traditional and familiar battle royale game mechanics
-
-
-
-
-## Cons
+- Traditional and familiar battle royale game mechanics## Cons
 
 
 -Pay-to-Win cosmetics

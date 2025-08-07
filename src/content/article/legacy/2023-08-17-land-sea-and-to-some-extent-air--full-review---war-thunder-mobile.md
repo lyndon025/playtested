@@ -46,12 +46,7 @@ War Thunder Mobile, an extension of the popular War Thunder franchise, brings th
 - AAA Graphics
 - Intuitive Touch Controls
 - Streamlined Progression System
-- Familiar maps, but modified for faster-paced battles with increased spawn points and closer starting positions.
-
-
-
-
-## Cons
+- Familiar maps, but modified for faster-paced battles with increased spawn points and closer starting positions.## Cons
 - No dedicated aircraft warfare mode
 - Intrusive self-promoting ads for premium content
 

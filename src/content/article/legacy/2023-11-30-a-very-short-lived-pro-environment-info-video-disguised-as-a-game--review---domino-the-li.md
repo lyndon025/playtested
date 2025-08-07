@@ -43,11 +43,6 @@ The game released on Android, iOS, and PC; and is completely free-to-play, no in
 ## Pros
 - Charming visuals and art style
 - Pro-environmental advocacy
-
-
-
-
-
 ## Cons
 
 

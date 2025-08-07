@@ -67,17 +67,17 @@ code > span.line {
 }
 
 
-.score-outline-0 { border-color: #b00020; }
-.score-outline-1 { border-color: #c62828; }
-.score-outline-2 { border-color: #ef5350; }
-.score-outline-3 { border-color: #f57c00; }
-.score-outline-4 { border-color: #f9a825; }
-.score-outline-5 { border-color: #fdd835; }
-.score-outline-6 { border-color: #d4e157; }
-.score-outline-7 { border-color: #aed581; }
-.score-outline-8 { border-color: #81c784; }
-.score-outline-9 { border-color: #4caf50; }
-.score-outline-10 { border-color: #2e7d32; }
+.score-outline-0 { border-color:  #ff002f; }
+.score-outline-1 { border-color:  #b00020; }
+.score-outline-2 { border-color:  #c62828; }
+.score-outline-3 { border-color:  #ef5350; }
+.score-outline-4 { border-color:  #f57c00; }
+.score-outline-5 { border-color:  #f9a825; }
+.score-outline-6 { border-color:  #fdd835; }
+.score-outline-7 { border-color:  #d4e157; }
+.score-outline-8 { border-color:  #aed581 ; }
+.score-outline-9 { border-color:  #81c784; }
+.score-outline-10 { border-color: #4caf50; }
 
 .small-score {
   font-size: 0.7rem;

@@ -47,21 +47,16 @@ NARAKA: BLADEPOINT is a multiplayer online battle royale game that takes place i
 
 
 
-## +Fast-paced and skill-based combat
+- Fast-paced and skill-based combat
 
 
-## +Fluid and intuitive parkour and traversal mechanics
+- Fluid and intuitive parkour and traversal mechanics
 
 
-## +A fresh take and a stand out experience from other battle royale games
+- A fresh take and a stand out experience from other battle royale games
 
 
-## +Unique setting and AAA level of visuals
-
-
-
-
-## Cons
+- Unique setting and AAA level of visuals## Cons
 
 
 -Performance issues

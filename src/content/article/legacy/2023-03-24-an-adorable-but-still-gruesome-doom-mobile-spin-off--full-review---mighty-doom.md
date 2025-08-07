@@ -42,21 +42,16 @@ Mighty DOOM is a top down single handed rogue-lite shooter set in the DOOM unive
 
 
 
-## +Engaging rogue-lite mechanics
+- Engaging rogue-lite mechanics
 
 
-## +Fun and satisfying combat
+- Fun and satisfying combat
 
 
-## +Awesome takedown animations
+- Awesome takedown animations
 
 
-## +Adorable graphics but still gruesome
-
-
-
-
-## Cons
+- Adorable graphics but still gruesome## Cons
 
 
 -Artificial difficulty spike to encourage spending money

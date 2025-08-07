@@ -49,21 +49,16 @@ Evertale is a JRPG turn-based combat game that draws heavy inspiration from the 
 
 
 
-## +innovative gameplay mechanics
+- innovative gameplay mechanics
 
 
-## +a balanced and challenging combat experience
+- a balanced and challenging combat experience
 
 
-## +good looking visuals and character design
+- good looking visuals and character design
 
 
-## +bonus live service idle-game modes
-
-
-
-
-## Cons
+- bonus live service idle-game modes## Cons
 
 
 -paid gacha game

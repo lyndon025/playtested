@@ -48,21 +48,16 @@ From the same studio behind the popular game Plague Inc., Rebel Inc. puts player
 
 
 
-## +An immersive political sim experience
+- An immersive political sim experience
 
 
-## +A challenging balancing-act between handling civilians, the government, and insurgents
+- A challenging balancing-act between handling civilians, the government, and insurgents
 
 
-## +Unique premise of stabilizating a war-torn region
+- Unique premise of stabilizating a war-torn region
 
 
-## +Lots of maps and scenarios to play in
-
-
-
-
-## Cons
+- Lots of maps and scenarios to play in## Cons
 
 
 -New players might find the mechanics confusing

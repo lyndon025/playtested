@@ -51,21 +51,16 @@ Black Book RPG is an interesting mix of classic adventure gameplay, role-playing
 
 
 
-## +Intriguing russian folklore story
+- Intriguing russian folklore story
 
 
-## +Captivating varied art-style
+- Captivating varied art-style
 
 
-## +Endless game mode aside from the main story
+- Endless game mode aside from the main story
 
 
-## +Choices matter
-
-
-
-
-## Cons
+- Choices matter## Cons
 
 
 -Slow pacing

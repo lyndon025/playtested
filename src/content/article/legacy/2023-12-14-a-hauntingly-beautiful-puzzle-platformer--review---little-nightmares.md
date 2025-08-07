@@ -50,20 +50,15 @@ Developed by Tarsier Studios and published by Bandai Namco Entertainment, it was
 
 
 
-## +Subtle, beautiful, narrative experience
+- Subtle, beautiful, narrative experience
 
-## +Dark, foreboding environments and haunting character designs
+- Dark, foreboding environments and haunting character designs
 
-## +A tense and varied gameplay experience
+- A tense and varied gameplay experience
 
-## +Well-designed puzzles and levels
+- Well-designed puzzles and levels
 
-## +Accessible control options
-
-
-
-
-## Cons
+- Accessible control options## Cons
 - Translation to touch controls made some platformer segments a little bit harder
 - Long Loading Times
 - Unforgiving checkpoint system

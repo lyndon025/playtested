@@ -5,6 +5,7 @@ slug: 2023-02-22-a-welcome-mix-of-bioshock-and-fallout-full-review-atomic-heart
 title: A welcome mix of Bioshock and Fallout | Full Review - Atomic Heart
 game: Atomic Heart
 description: Atomic Heart is a new Action-FPS game with RPG, Open World, and horror elements, set in a utopian soviet-era society gone wrong.
+score: 7.5
 featured: false
 gallery:
   - /images/reviews/legacy/2023-02-22-a-welcome-mix-of-bioshock-and-fallout--full-review---atomic-heart-0.avif
@@ -58,21 +59,16 @@ Atomic Heart is a new Action-FPS game with RPG, Open World, and horror elements,
 
 
 
-## +Finely tuned compelling combat
+- Finely tuned compelling combat
 
 
-## +Stunning graphics and level design
+- Stunning graphics and level design
 
 
-## +Main character is full of personality
+- Main character is full of personality
 
 
-## +Smooth performance and optimization
-
-
-
-
-## Cons
+- Smooth performance and optimization## Cons
 
 
 -Open-world feels out of place

@@ -47,20 +47,15 @@ I've seen a lot of rogue-like games come out in the past few years, as well as b
 
 
 
-## +Unique blend of MMO, Rogue-Like and Bullet Hell twin-stick shooter elements
+- Unique blend of MMO, Rogue-Like and Bullet Hell twin-stick shooter elements
 
-## +A simple but accessible and engaging experience
+- A simple but accessible and engaging experience
 
-## +Straight forward non-complex combat system
+- Straight forward non-complex combat system
 
-## +Optimized performance
+- Optimized performance
 
-## +Welcoming tutorial experience
-
-
-
-
-## Cons
+- Welcoming tutorial experience## Cons
 
 
 -Simplicity might be limiting as an MMO experience

@@ -6,6 +6,7 @@ title: A perplexing enjoyable turn-based RPG | Full Review - Limbus Company
 game: Limbus Company
 description: Limbus Company is a narratively driven turn-based RPG game with gacha elements. Made for mobile phones and also ported to PCs.
 featured: false
+score: 6.5
 gallery:
   - /images/reviews/legacy/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-0.avif
   - /images/reviews/legacy/2023-03-05-a-perplexing-enjoyable-turn-based-rpg--full-review---limbus-company-1.avif
@@ -44,40 +45,27 @@ Limbus Company is a narratively driven turn-based RPG game with gacha elements. 
 
 
 ## Pros
-
-
-
-## +Weird intriguing story
-
-
-## +Unique gameplay mechanics
-
-
-## +gacha and live service elements are highly optional
-
-
-
+- Weird intriguing story
+- Unique gameplay mechanics
+- gacha and live service elements are highly optional
 
 ## Cons
+- Confusing early-mid game (story and mechanics)
+- Short and incomplete story
 
-
--Confusing early-mid game (story and mechanics)
-
--Short and incomplete story
-
-It’s intriguingly weird
+## It’s intriguingly weird
 
 Limbus Company is a weird game, there’s no putting it lightly. Your character has a flaming clock for a head, suddenly followed by a suicidal undying highschooler-looking crew riding on a magic bus, the whole premise is just absurd and confusing. However, don’t let that turn you off as the story is actually one of the main selling points of this narrative-driven turn-based gacha RPG game.
 
 Set in a massive dystopian steampunk-looking metropolis, players will embark on a journey to find the 12 Golden Boughs. It is also set in the same world as the previous games, Lobotomy Corporation and Library of Ruins from its developers Project Moon.
 
-Information overload
+## Information overload
 
 This free-to-play game packs more story that I had anticipated, even more so than many full-pledged PC and console games. The game’s introduction hits like a (Lim)bus when it comes to the exposition to the plot, showering you with tons of text ridden panels explaining the lore, and introducing you to more than 10 anime-like characters — inspired by real-world literature — all in your first 15 minutes of play.
 
 And as if that’s not enough, it also dumps on the player what feels like a tens of hours worth of game mechanics in just a one hour span. The game is like, “here it is, now move on to the next one”. Nothing will make sense and the players will barely grasp the whole idea of the mechanics. However, there remains a tiny sliver of interesting bits in this game that is compelling enough to make players stay. Is it the stylish turn-based action-packed 2D fights? Is it rich storytelling? Maybe a little bit of both.
 
-Gameplay Analysis
+## Gameplay Analysis
 
 The battles are simplistic mechanically, just as simple as drawing a line to form a chain of attack commands for the whole team to play out at once. Combos are done by chaining similarly colored moves and abilities to each other.   This system overall feels like a three-match game in disguise that ranks color combos and associations above everything else.
 
@@ -101,7 +89,7 @@ You can’t really binge this game from start to end
 
 With its gacha and live service elements, Limbus Company is a game that is designed to be played for a long time — for small bits at a time — not for a weekend, not for a month, but for months up to years of occasional checking in. Currently, the game is only playable up to Chapter 3, with further chapters to be added in the future as part of a live service offering. There is a bit of replayability in the form of mirror dungeons, which are playable up to once a day.
 
-Conclusion:
+## Conclusion:
 
 Its overwhelming gameplay concepts, incomplete story, play-limiting live service elements, and gacha elements is what stops this game from being a great story-rich RPG game overall. Still, Limbus Company is a game worth a shot since it’s just a free-to-play title, especially for turn-based RPG fans looking for a unique experience.
 

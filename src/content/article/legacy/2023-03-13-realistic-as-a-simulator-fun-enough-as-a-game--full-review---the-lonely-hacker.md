@@ -50,18 +50,13 @@ The Lonely Hacker is a hacking simulation game for mobile devices, currently ava
 
 
 
-## +Accurate depiction of hacking
+- Accurate depiction of hacking
 
 
-## +Highly addicting
+- Highly addicting
 
 
-## +no microtransactions or in-app purchases
-
-
-
-
-## Cons
+- no microtransactions or in-app purchases## Cons
 
 
 -Can be somewhat repetitive

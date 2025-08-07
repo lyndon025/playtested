@@ -46,11 +46,6 @@ The game was made available recently in a soft launch capacity for select region
 - A blend of tower defense, strategy, and town building elements
 - Wide array of Disney and Pixar characters to collect and use in battle
 - Vibrant art style that captures the essence of the Disney universe
-
-
-
-
-
 ## Cons
 - Not much depth in its gameplay mecahnics
 - The elements seems disjointed from one another and can feel like different games

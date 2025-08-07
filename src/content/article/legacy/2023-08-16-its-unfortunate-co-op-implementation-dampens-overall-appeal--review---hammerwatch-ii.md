@@ -47,12 +47,7 @@ Hammerwatch II is a retro-style action RPG developed by Crackshell. Serving as a
 - Nostalgic pixel art
 - Engaging hack and slash combat
 - Huge dungeons and maps to get lost in
-- Overwhelming amount of quests
-
-
-
-
-## Cons
+- Overwhelming amount of quests## Cons
 - No split-screen/shared screen, unlike the first game
 - Co-op progression / savefile is tied to the host only, making co-op play inconvenient
 - Technical issues such as broken controller support and intermittent stutters

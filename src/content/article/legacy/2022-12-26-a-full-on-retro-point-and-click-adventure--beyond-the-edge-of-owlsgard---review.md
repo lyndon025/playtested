@@ -43,18 +43,13 @@ Beyond The Edge Of Owlsgard is an old-school point and click adventure game remi
 
 
 
-## +A lighthearted story
+- A lighthearted story
 
 
-## +Faithful to 90s point and click aesthetics
+- Faithful to 90s point and click aesthetics
 
 
-## +Modern game mode to make it more accessible
-
-
-
-
-## Cons
+- Modern game mode to make it more accessible## Cons
 
 
 -too difficult and can be frustrating

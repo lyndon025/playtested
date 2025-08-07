@@ -50,24 +50,19 @@ Battle Chasers: Nightwar is a turn-based RPG game in a fantasy world where playe
 
 
 
-## +Engaging storyline
+- Engaging storyline
 
 
-## +Strategic turn-based gameplay with unique mechanics
+- Strategic turn-based gameplay with unique mechanics
 
 
-## +The combat is flashy, kinetic, and pure fun
+- The combat is flashy, kinetic, and pure fun
 
 
-## +Exploration and overworld Navigation
+- Exploration and overworld Navigation
 
 
-## +Effectively translates the essence of the comic series into video game format.
-
-
-
-
-## Cons
+- Effectively translates the essence of the comic series into video game format.## Cons
 
 
 -Confusing Map Design

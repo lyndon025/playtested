@@ -43,16 +43,11 @@ Immortal Survivors is a rogue-lite arena survival game that was recently release
 
 
 
-## +Engaging rogue-lite arena survival gameplay
+- Engaging rogue-lite arena survival gameplay
 
-## +Introduces “right-stick” aiming mechanics
+- Introduces “right-stick” aiming mechanics
 
-## +Optimized and smooth performance
-
-
-
-
-## Cons
+- Optimized and smooth performance## Cons
 
 
 -Limited skill and character variety

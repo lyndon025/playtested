@@ -46,15 +46,10 @@ There’s been a resurgence of Metroidvania games lately, and it’s not stoppin
 
 
 
-## +Satisfying skill-based combat
+- Satisfying skill-based combat
 
 
-## +A highly detailed pixel art world
-
-
-
-
-## Cons
+- A highly detailed pixel art world## Cons
 
 
 -The story is not exactly gripping

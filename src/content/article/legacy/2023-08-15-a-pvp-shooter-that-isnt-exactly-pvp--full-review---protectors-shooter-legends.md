@@ -42,18 +42,13 @@ Protectors: Shooter Legends is a third-person shooter with PvE and PvP gameplay.
 
 
 
-## +Quick, bite-sized matches
+- Quick, bite-sized matches
 
-## +Accessible Gameplay, non complex movement and abilities
+- Accessible Gameplay, non complex movement and abilities
 
-## +Diverse range of heroes to unlock and select
+- Diverse range of heroes to unlock and select
 
-## +Variety of distinct game modes
-
-
-
-
-## Cons
+- Variety of distinct game modes## Cons
 
 
 -Asynchronous PvP, only matched against bots

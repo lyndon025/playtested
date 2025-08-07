@@ -44,18 +44,13 @@ The House of Da Vinci 3 has come to PC and it is an impressive port of a mobile 
 
 
 
-## +Well designed intricate puzzles
+- Well designed intricate puzzles
 
 
-## +Surprisingly deep narrative
+- Surprisingly deep narrative
 
 
-## +Impressive graphics for a mobile port
-
-
-
-
-## Cons
+- Impressive graphics for a mobile port## Cons
 
 
 -Minor control woes

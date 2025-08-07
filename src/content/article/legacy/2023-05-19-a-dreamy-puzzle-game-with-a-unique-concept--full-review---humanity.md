@@ -49,18 +49,13 @@ HUMANITY is a third-person puzzle game available for PC and PlayStation where yo
 
 
 
-## +Unique puzzle concept featuring huge crowds of humans
+- Unique puzzle concept featuring huge crowds of humans
 
 
-## +Mesmerizing visuals and therapeutic soundtrack
+- Mesmerizing visuals and therapeutic soundtrack
 
 
-## +Challenging and diverse selection of levels
-
-
-
-
-## Cons
+- Challenging and diverse selection of levels## Cons
 
 
 -The third person control feels unnecessary from a puzzle game standpoint

@@ -44,12 +44,7 @@ Grand Cross: Age of Titans is a newly released video game that blends elements o
 - Refreshing blend of anime and city-building
 - Detailed presentation
 - Simple and easy to understand gameplay and mechanics
-- Supports multi-languages
-
-
-
-
-## Cons
+- Supports multi-languages## Cons
 - There might be too much dialogue, cutscenes, and tutorial
 - Requires a lot of real-world waiting
 - Heavy pay to win mechanics

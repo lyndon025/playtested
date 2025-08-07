@@ -41,15 +41,10 @@ PAYDAY: Crime War is an upcoming Mobile first-person shooter game that allows pl
 
 
 
-## +Fun PvE heisting experience
+- Fun PvE heisting experience
 
 
-## +Gun Customization options
-
-
-
-
-## Cons
+- Gun Customization options## Cons
 
 
 -performance and crashing issues

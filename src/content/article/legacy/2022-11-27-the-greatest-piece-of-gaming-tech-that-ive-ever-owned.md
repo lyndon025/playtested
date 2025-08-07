@@ -44,28 +44,14 @@ It is powered by the Steam Platform, the same client that most PC users have bee
 Cut to the chase, here’s an easy to digest breakdown of some of the things the Steam Deck can do:
 
 
-## + Comes in 64, 256, 512GB options, with the ability to expand storage via SD Card or easy replacement in the internal SSD to 1TB or even 2TB
-
-
-## + Same library collection as your PC, it uses Steam platform and can also play games from other platforms like Epic, Battlenet, and Origin/Uplay.
-
-
-## + Play almost any PC game, indie or even AAA titles. From Hades or Stardew Valley, to Spider-Man Remastered or Cyberpunk 2077, it is playable.
-
-
-## + Play handheld or connect to a Display / TV via any generic USB-C to HDMI dock or the official Steam Deck Dock.
-
-
-## + Support for almost any PC accessory: Xbox, Playstation, Switch controllers, bluetooth or wired earphones, gaming keyboards and mice, etc.
-
-
-## + Use game streaming services like Xbox Gamepass, Playstation Now, NVIDIA Geforce, or its built-in local streaming solution Steam Remote Play.
-
-
-## + Use it as a desktop PC, install office apps or even just browse the web.
-
-
-## + Install Windows 10 or 11 on it to make it a more traditional PC if you like.
+- Comes in 64, 256, 512GB options, with the ability to expand storage via SD Card or easy replacement in the internal SSD to 1TB or even 2TB
+- Same library collection as your PC, it uses Steam platform and can also play games from other platforms like Epic, Battlenet, and Origin/Uplay.
+- Play almost any PC game, indie or even AAA titles. From Hades or Stardew Valley, to Spider-Man Remastered or Cyberpunk 2077, it is playable.
+- Play handheld or connect to a Display / TV via any generic USB-C to HDMI dock or the official Steam Deck Dock.
+- Support for almost any PC accessory: Xbox, Playstation, Switch controllers, bluetooth or wired earphones, gaming keyboards and mice, etc.
+- Use game streaming services like Xbox Gamepass, Playstation Now, NVIDIA Geforce, or its built-in local streaming solution Steam Remote Play.
+- Use it as a desktop PC, install office apps or even just browse the web.
+- Install Windows 10 or 11 on it to make it a more traditional PC if you like.
 
 For non-gamers, console users, newcomers, worry not; As the interface is easy to navigate. You just browse the Steam Store to find games to purchase / download and just click play. The Steam Deck just like any game console you ever used. No tinkering required nor complex tutorials to follow. Although learning how to tinker comes with great benefits.
 

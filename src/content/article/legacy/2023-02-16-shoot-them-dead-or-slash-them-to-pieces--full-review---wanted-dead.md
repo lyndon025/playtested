@@ -54,15 +54,10 @@ Wanted: Dead, we’ve all seen this type of game before: A hack-n-slash and shoo
 
 
 
-## +seamlessly switch between swordplay and gunplay
+- seamlessly switch between swordplay and gunplay
 
 
-## +decent hack and slash combat action
-
-
-
-
-## Cons
+- decent hack and slash combat action## Cons
 
 
 -Forgettable story

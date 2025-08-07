@@ -35,18 +35,13 @@ Rizline is a casual mobile rhythm game with anime-inspired music and a minimalis
 
 
 
-## +minimalist art style with circles and lines
+- minimalist art style with circles and lines
 
 
-## +solid line-up of soothing and relaxing tracks to play
+- solid line-up of soothing and relaxing tracks to play
 
 
-## +fun for casuals, challenging for hardcore players
-
-
-
-
-## Cons
+- fun for casuals, challenging for hardcore players## Cons
 
 
 -Possible performance issues that might affect gameplay

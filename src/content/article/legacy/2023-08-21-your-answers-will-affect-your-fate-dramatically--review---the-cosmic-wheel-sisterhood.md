@@ -38,18 +38,13 @@ The Cosmic Wheel Sisterhood is a captivating story-driven game that presents pla
 
 
 
-## +Intriguing Narrative that carries the whole game
+- Intriguing Narrative that carries the whole game
 
-## +Personalize your own Tarot Deck of cards, including the artwork
+- Personalize your own Tarot Deck of cards, including the artwork
 
-## +Well written story and characters
+- Well written story and characters
 
-## +Choices do matter
-
-
-
-
-## Cons
+- Choices do matter## Cons
 
 
 -Zero voice acting, players must read everything in this narrative driven game

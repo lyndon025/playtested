@@ -43,21 +43,16 @@ Set in a mysterious and dark Aztec-inspired world, Towaga: Among Shadows places 
 
 
 
-## +unique art style
+- unique art style
 
 
-## +simple controls but a challenging gameplay
+- simple controls but a challenging gameplay
 
 
-## +controller support
+- controller support
 
 
-## +extra game modes like versus multiplayer
-
-
-
-
-## Cons
+- extra game modes like versus multiplayer## Cons
 
 
 -game is very short

@@ -52,18 +52,13 @@ Scars Above is a new third person sci-fi shooter that puts players in the shoes 
 
 
 
-## +Creative and fun gameplay mechanics
+- Creative and fun gameplay mechanics
 
 
-## +Challenging and interesting use of enemies
+- Challenging and interesting use of enemies
 
 
-## +Surprisingly good story
-
-
-
-
-## Cons
+- Surprisingly good story## Cons
 
 
 -Very janky cinematic presentation

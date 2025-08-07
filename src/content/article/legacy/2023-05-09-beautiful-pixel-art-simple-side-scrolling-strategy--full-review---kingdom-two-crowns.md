@@ -55,21 +55,16 @@ Kingdom Two Crowns+ is a 2D side scrolling strategy game that features beautiful
 
 
 
-## +Gorgeous pixel art visuals
+- Gorgeous pixel art visuals
 
 
-## +Relaxing atmosphere
+- Relaxing atmosphere
 
 
-## +Simple but additive Kingdom building mechanics
+- Simple but additive Kingdom building mechanics
 
 
-## +Split-screen coop - shared touchscreen input or optional controller
-
-
-
-
-## Cons
+- Split-screen coop - shared touchscreen input or optional controller## Cons
 
 
 -Game may seem repetitive

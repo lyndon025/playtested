@@ -41,21 +41,16 @@ Tower of God: New World is an upcoming mobile idle RPG game, based on the origin
 
 
 
-## +Faithful story retelling while also telling a new story
+- Faithful story retelling while also telling a new story
 
 
-## +Best-in-class mobile game visuals
+- Best-in-class mobile game visuals
 
 
-## +Three voice-over options, with the original Anime Japanese actors returning
+- Three voice-over options, with the original Anime Japanese actors returning
 
 
-## +Refreshing gameplay mechanics
-
-
-
-
-## Cons
+- Refreshing gameplay mechanics## Cons
 
 
 -Departure from the original manhwa art style

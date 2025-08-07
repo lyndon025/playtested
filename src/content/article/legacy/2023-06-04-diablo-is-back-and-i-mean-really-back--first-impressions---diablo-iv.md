@@ -31,36 +31,31 @@ Diablo IV has finally arrived (in Early Access form), and it's a game that effor
 
 
 
-## +Immersive storytelling, succeeds in capturing the foreboding atmosphere and grim undertones of Diablo II
+- Immersive storytelling, succeeds in capturing the foreboding atmosphere and grim undertones of Diablo II
 
 
-## +The game's visuals are stunning, with high attention to detail and immersive atmospheric lighting
+- The game's visuals are stunning, with high attention to detail and immersive atmospheric lighting
 
 
-## +Five classes and a deep skill tree allows deep customization and freedom to experiment
+- Five classes and a deep skill tree allows deep customization and freedom to experiment
 
 
-## +Vast and interconnected seamless open world with MMORPG-like features
+- Vast and interconnected seamless open world with MMORPG-like features
 
 
-## +Fluid and responsive visceral hack and slash combat experience
+- Fluid and responsive visceral hack and slash combat experience
 
 
-## +Activities are evenly spread throughout the land, resulting a varied gameplay experience from dungeons, quests, and random events.
+- Activities are evenly spread throughout the land, resulting a varied gameplay experience from dungeons, quests, and random events.
 
 
-## +The endgame content is deep, and doesn’t feel like an afterthought
+- The endgame content is deep, and doesn’t feel like an afterthought
 
 
-## +Controller support
+- Controller support
 
 
-## +Cross-platform multiplayer
-
-
-
-
-## Cons
+- Cross-platform multiplayer## Cons
 
 
 -Minor issues regarding the inventory management

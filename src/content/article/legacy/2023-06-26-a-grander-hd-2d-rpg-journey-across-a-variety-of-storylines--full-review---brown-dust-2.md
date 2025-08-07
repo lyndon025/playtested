@@ -47,24 +47,19 @@ Brown Dust 2, the somewhat both direct and spiritual successor to the popular Br
 
 
 
-## +Stunning HD-2D Graphics
+- Stunning HD-2D Graphics
 
 
-## +Strategic Turn-Based Combat
+- Strategic Turn-Based Combat
 
 
-## +Waifu elements while still having male characters to collect
+- Waifu elements while still having male characters to collect
 
 
-## +Diverse localization options (english, japanese, korean, chinese text; japanese and korean voice-overs)
+- Diverse localization options (english, japanese, korean, chinese text; japanese and korean voice-overs)
 
 
-## +Quality of life features such as auto-walk and supports both portrait and landscape modes
-
-
-
-
-## Cons
+- Quality of life features such as auto-walk and supports both portrait and landscape modes## Cons
 
 
 -Limited story focus by having multiple unrelated story packs instead of one connected grand story

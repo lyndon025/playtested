@@ -6,6 +6,7 @@ title: The best Mega Man games you probably haven’t played yet | Full Review -
 game: Mega Man Battle Network
 description: Mega Man Battle Network Legacy Collection is a bundle of unconventional RPG-style Mega Man games set in a separate universe from the main Mega Man stories.
 featured: false
+score: 7.5
 gallery:
   - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-0.avif
   - /images/reviews/legacy/2023-04-16-the-best-mega-man-games-you-probably-havent-played-yet--full-review---mega-man-battle-net-1.avif
@@ -41,29 +42,14 @@ Mega Man Battle Network Legacy Collection is a bundle of unconventional RPG-styl
 
 
 ## Pros
-
-
-
-## +Unique gameplay mechanics, especially the combat
-
-
-## +An unconventional but refreshing take on the Mega Man series, even for today's standards
-
-
-## +Six main games resulting into 10 total titles in one bundle
-
-
-## +Added new features like an HD filter, multiplayer, and artwork gallery
-
-
-
+- Unique gameplay mechanics, especially the combat
+- An unconventional but refreshing take on the Mega Man series, even for today's standards
+- Six main games resulting into 10 total titles in one bundle
+- Added new features like an HD filter, multiplayer, and artwork gallery
 
 ## Cons
-
-
--Even if it is a grand compilation, the price is asking a lot for a nearly 20 year old retro game series
-
--No 3:2 black bar option for filling out the rest of the screen
+- Even if it is a grand compilation, the price is asking a lot for a nearly 20 year old retro game series
+- No 3:2 black bar option for filling out the rest of the screen
 
 Mega Man Battle Network Legacy Collection is a grand compilation of the six-part Mega Man Battle Network games (including the dual iterations of 3, 4, 5, and 6) that were originally released way back in the 2000s for the Game Boy Advance, now ported and remastered for newer gen consoles – Switch, Playstation, and PC. With three games comprising each forming two Volumes.
 

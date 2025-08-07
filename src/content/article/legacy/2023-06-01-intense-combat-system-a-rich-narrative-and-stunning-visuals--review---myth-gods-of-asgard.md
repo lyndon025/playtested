@@ -48,24 +48,19 @@ Myth: Gods of Asgard is a hack and slash action role-playing game set in Norse m
 
 
 
-## +Based on norse mythology we are all familiar with
+- Based on norse mythology we are all familiar with
 
 
-## +Stunning comic-book inspired visuals and art style
+- Stunning comic-book inspired visuals and art style
 
 
-## +Combat is a finely tuned and thrilling intense experience
+- Combat is a finely tuned and thrilling intense experience
 
 
-## +Gacha system focuses on powers and summons, not the actual hero characters
+- Gacha system focuses on powers and summons, not the actual hero characters
 
 
-## +Diverse game modes from singleplayer campaign to asymmetric multiplayer mode
-
-
-
-
-## Cons
+- Diverse game modes from singleplayer campaign to asymmetric multiplayer mode## Cons
 
 
 -over the top and below average voice acting quality

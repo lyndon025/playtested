@@ -51,11 +51,6 @@ Over the past weekend, I played a lot of Last Epoch, and I am loving it! I have 
 - Accessible respec system
 - Smooth progression and leveling
 - Offline mode possible
-
-
-
-
-
 ## Cons
 - Controller support is a bit buggy
 - Online mode is borderline unenjoyable due to server overloads (as of writing)

@@ -47,11 +47,6 @@ Ghostrunner 2 is a game that features lightning-fast, one-hit-kill combat and pa
 - Variety in level design
 - Bonus roguelike mode
 - Forgiving and instantaneous loading checkpoint system
-
-
-
-
-
 ## Cons
 - Minor performance issues
 - Pacing is debatably worse than the first game

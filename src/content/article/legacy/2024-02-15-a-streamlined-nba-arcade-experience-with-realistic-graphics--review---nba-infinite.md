@@ -43,11 +43,6 @@ NBA Infinite is a mobile basketball simulation game developed by Lightspeed Stud
 - Streamlined gameplay modes with an arcade style feel
 - Officially licensed NBA players and teams
 - Smooth performance, extensive settings, and options
-
-
-
-
-
 ## Cons
 - Animations can feel stiff and movement lacks inertia and quickness
 - Cannot use real team rosters from the NBA in any game mode

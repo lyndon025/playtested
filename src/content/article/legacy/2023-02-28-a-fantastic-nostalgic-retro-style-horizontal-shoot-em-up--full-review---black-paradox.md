@@ -47,18 +47,13 @@ Black Paradox is a retro-styled horizontal scrolling rogue-lite shoot 'em up tha
 
 
 
-## +Pumping electronic soundtrack
+- Pumping electronic soundtrack
 
 
-## +Stunning pixel art
+- Stunning pixel art
 
 
-## +Fun and challenging rogue-lite gameplay
-
-
-
-
-## Cons
+- Fun and challenging rogue-lite gameplay## Cons
 
 
 -Touch controls are a little unresponsive

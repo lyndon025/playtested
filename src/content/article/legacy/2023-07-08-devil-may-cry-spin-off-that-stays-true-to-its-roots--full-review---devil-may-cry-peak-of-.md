@@ -40,18 +40,13 @@ Devil May Cry: Peak of Combat is an upcoming free to play mobile game entry in t
 
 
 
-## +Stays true to its hack and slash roots
+- Stays true to its hack and slash roots
 
 
-## +Streamlined controls for mobile
+- Streamlined controls for mobile
 
 
-## +Seamless character switching added to its combo system
-
-
-
-
-## Cons
+- Seamless character switching added to its combo system## Cons
 
 
 -Fans of DMC may not appreciate the switch to the grindy gacha gaming formula

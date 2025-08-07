@@ -6,6 +6,7 @@ title: Fall asleep in this minimalistic rhythm game | Melatonin - Review
 game: Melatonin
 description: Melatonin is a minimalistic rhythm game about sleeping and dreams. Where different aspects of our lives such as Tech, Food, Shopping, Money, Dating, Exercise and many others are beautifully represented into twenty different dreamy levels with their own distinct sequences, mechanics; complete with their own song and melody to harmonize with.
 featured: false
+score: 7.0
 gallery:
   - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-0.avif
   - /images/reviews/legacy/2022-12-16-fall-asleep-in-this-minimalistic-rhythm-game--melatonin---review-1.avif

@@ -48,18 +48,13 @@ Extremely Realistic Siege Warfare Simulator is a real-time strategy sandbox simu
 
 
 
-## +Physics-based combat that is both entertaining and engaging
+- Physics-based combat that is both entertaining and engaging
 
 
-## +Variety of gameplay modes: multiplayer, singleplayer, co-op
+- Variety of gameplay modes: multiplayer, singleplayer, co-op
 
 
-## +Challenging variety of missions and keeps players engaged
-
-
-
-
-## Cons
+- Challenging variety of missions and keeps players engaged## Cons
 
 
 -Frustrating control issues, with the camera and selecting units

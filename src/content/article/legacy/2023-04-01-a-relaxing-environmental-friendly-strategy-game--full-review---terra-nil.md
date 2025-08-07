@@ -6,6 +6,7 @@ title: A relaxing environmental friendly strategy game | Full Review - Terra Nil
 game: Terra Nil
 description: Terra Nil is a nature building / reverse city building strategy game developed by Free Lives and released for both Mobile platforms and PC.
 featured: false
+score: 7
 gallery:
   - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-0.avif
   - /images/reviews/legacy/2023-04-01-a-relaxing-environmental-friendly-strategy-game--full-review---terra-nil-1.avif
@@ -44,27 +45,13 @@ Terra Nil is a nature building / reverse city building strategy game developed b
 
 
 ## Pros
-
-
-
-## +Beautiful visuals
-
-
-## +Soothing ambient music
-
-
-## +Innovative gameplay mechanics
-
-
-## +Pro-environmental advocacy
-
-
-
+- Beautiful visuals
+- Soothing ambient music
+- Innovative gameplay mechanics
+- Pro-environmental advocacy
 
 ## Cons
-
-
--Too short for its price
+- Too short for its price
 
 What if the idea of a city building game is turned on its head? Whereas the main objective of the game is not to build a huge bustling city, but instead to build a natural living world without any trace of technology or artificiality? Terra Nil is exactly that game for a change. A strategy game where players construct and deconstruct terraforming structures with the ultimate goal of restoring the land.
 

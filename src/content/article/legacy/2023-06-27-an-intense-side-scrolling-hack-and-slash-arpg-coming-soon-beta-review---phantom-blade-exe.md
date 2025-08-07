@@ -43,24 +43,19 @@ Phantom Blade: Executioners is a 2D side-scrolling martial arts hack and slash g
 
 
 
-## +Four characters that players can all play, each with their own progression
+- Four characters that players can all play, each with their own progression
 
 
-## +Unique art style, a blend of Chinese Art and Anime.
+- Unique art style, a blend of Chinese Art and Anime.
 
 
-## +Plethora of unlockable skills that can be mixed, matched, and synergized with each other
+- Plethora of unlockable skills that can be mixed, matched, and synergized with each other
 
 
-## +Clever approach to its combo chains combat system
+- Clever approach to its combo chains combat system
 
 
-## +Crossplay with PC, Android, and iOS
-
-
-
-
-## Cons
+- Crossplay with PC, Android, and iOS## Cons
 
 
 -Minor performance problems

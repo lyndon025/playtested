@@ -45,11 +45,6 @@ Warm Snow is an exhilarating take on the action roguelike genre that draws compa
 - Diverse Character Builds and Experimentation
 - Deep and Rewarding Progression
 - High Replayability
-
-
-
-
-
 ## Cons
 - Severe performance issues on mobile devices, including frame rate drops and font readability problems
 - Awkward English translations.

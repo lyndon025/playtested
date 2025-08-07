@@ -43,25 +43,20 @@ This is what happens when even a one-handed game like Vampire Survivors is still
 
 
 
-## +Satisfying automated monster killing action
+- Satisfying automated monster killing action
 
 
-## +Engaging progression system
+- Engaging progression system
 
 
-## +Bonus things to do like quests and missions
+- Bonus things to do like quests and missions
 
 
-## +Low power mode for optimal idle gameplay
-
-
-
-
-## Cons
+- Low power mode for optimal idle gameplay## Cons
 
 
 
-## +Can get grindy a few hours in
+- Can get grindy a few hours in
 
 Alice, Final Weapon : Idle RPG is an idle top-down monster shooter RPG game with typical anime-style visuals and cel-shaded graphics, where players infinitely kill monsters in a never-ending cycle. There is no story, and the whole focus is the non-stop gameplay.
 

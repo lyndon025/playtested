@@ -46,11 +46,6 @@ FOAMSTARS is a 4v4 online party shooter with PvE coop elements, that challenges 
 - Refreshing PvP game modes
 - Vibrant art style and excellent presentation
 - Diverse roster of characters
-
-
-
-
-
 ## Cons
 - Slow and unengaging gunplay if you’re looking to play it like a shooter
 - In-app purchases on top of a need for a subscription or initial purchase

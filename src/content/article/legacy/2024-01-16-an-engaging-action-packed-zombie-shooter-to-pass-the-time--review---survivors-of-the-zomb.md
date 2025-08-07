@@ -26,13 +26,6 @@ tags:
 thumb: /images/reviews/legacy/2024-01-16-an-engaging-action-packed-zombie-shooter-to-pass-the-time--review---survivors-of-the-zomb-0.avif
 ---
 
-Survivors Of The Zombie World
-6.6
-Survival
-Zombie
-Steam
-
-
 ## ✨Overview
 
 Survivors Of The Zombie World is a top down zombie survival shooter made for mobile (Android and iOS), and is officially available on TapTap. With its recent release a few days ago, the game plunges players into a post apocalyptic blocky Minecraft-ish world teeming with the undead. And yeah, don’t mind the typo 'Surivor', it’s actually there in-game.
@@ -46,11 +39,6 @@ Survivors Of The Zombie World is a top down zombie survival shooter made for mob
 - Diverse gameplay modes (missions, survival, and tower defense)
 - Local Multiplayer mode (Wi-fi and hotspot)
 - Free-to-play friendly
-
-
-
-
-
 ## Cons
 - Control quirks and targeting issues
 - Game breaking bugs

@@ -46,11 +46,6 @@ One Punch Man: World has finally launched! bringing forth an action-adventure ga
 - Faithful adaptation of anime scenes
 - Impressive cel-shaded visuals that could give the Anime a run for its money
 - An exhilarating combat experience
-
-
-
-
-
 ## Cons
 - Uninteresting filler-esque story
 - Too much trivial mini-games and activities

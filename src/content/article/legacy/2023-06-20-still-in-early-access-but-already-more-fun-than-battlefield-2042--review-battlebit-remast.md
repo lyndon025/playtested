@@ -41,27 +41,22 @@ BattleBit Remastered is a massive multiplayer first-person shooter that combines
 
 
 
-## +Up to 254 players (127 vs 127 matches)
+- Up to 254 players (127 vs 127 matches)
 
 
-## +Immersive sound design
+- Immersive sound design
 
 
-## +Smooth gunplay
+- Smooth gunplay
 
 
-## +Destructible environments
+- Destructible environments
 
 
-## +Vehicular warfare on top of infantry
+- Vehicular warfare on top of infantry
 
 
-## +Gun customization
-
-
-
-
-## Cons
+- Gun customization## Cons
 
 
 -minor crashes

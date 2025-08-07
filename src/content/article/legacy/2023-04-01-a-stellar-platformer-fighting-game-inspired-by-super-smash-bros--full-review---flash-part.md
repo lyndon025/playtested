@@ -41,18 +41,13 @@ Flash Party is a platformer fighting game developed by XD and is released free-t
 
 
 
-## +Console level visuals
+- Console level visuals
 
 
-## +Fun combat
+- Fun combat
 
 
-## +cross platform play with PC and Mobile
-
-
-
-
-## Cons
+- cross platform play with PC and Mobile## Cons
 
 
 -Progression system (especially unlocking characters) seemed a little bit grindy

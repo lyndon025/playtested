@@ -43,18 +43,13 @@ Dream Land is a free-to-play construction and management simulation that puts pl
 
 
 
-## +Fun base building mechanics
+- Fun base building mechanics
 
 
-## +Engaging exploration elements
+- Engaging exploration elements
 
 
-## +Clean 2D visuals
-
-
-
-
-## Cons
+- Clean 2D visuals## Cons
 
 
 -Minor UI and camera controls woes

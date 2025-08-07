@@ -6,6 +6,7 @@ title: A rich and meaningful narrative experience | Full Review - Pitstop in Pur
 game: Pitstop in Purgatory
 description: Pitstop in Purgatory is a visual novel / adventure game full of story and thought-provoking ideas. Originally made for PC in a surprising two-month timeframe, it is now available as well for Android.
 featured: false
+score: 7
 gallery:
   - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-0.avif
   - /images/reviews/legacy/2023-02-26-a-rich-and-meaningful-narrative-experience--full-review---pitstop-in-purgatory-1.avif
@@ -38,24 +39,12 @@ You play as Astrid, a frustrated young actress who recently died. She wakes up a
 
 
 ## Pros
-
-
-
-## +Thought provoking story
-
-
-## +Explores heavy and serious themes
-
-
-## +Beautiful dreamy art-style
-
-
-
+- Thought provoking story
+- Explores heavy and serious themes
+- Beautiful dreamy art-style
 
 ## Cons
-
-
--Unresponsive touch controls
+- Unresponsive touch controls
 
 Astrid has to navigate her way through a strange and unfamiliar world. As Astrid progresses through the game, he learns more about the nature of purgatory and the reasons why she is there. The plot is simple yet very imaginative and mysterious that unfolds beautifully as you play it, and It keeps the player engaged from start to finish.
 
@@ -75,7 +64,7 @@ Pitstop in Purgatory is a captivating and unique game that explores themes of de
 
 It is a short but meaningful game that will take you around two hours of playtime to finish a regular playthrough. However, you are missing the full story that way. As the game features three different routes — not endings, routes — that you can take during the latter part of the playthroughs, leading to three widely different outcomes that are all worthy to experience. The game definitely didn’t overstay its welcome and is well paced throughout the playthroughs.
 
-Conclusion:
+## Conclusion:
 
 At four dollars, Pitstop in Purgatory is definitely a good deal considering the depth and thought-provoking nature of its story and overall experience. While the game may be short-lived, its impact can be profound and have far-reaching effects on the player. For the price, players are getting a rich and meaningful narrative experience that is well worth the cost.
 

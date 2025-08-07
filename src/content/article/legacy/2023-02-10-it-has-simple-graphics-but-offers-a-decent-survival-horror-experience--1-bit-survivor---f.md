@@ -44,21 +44,16 @@ thumb: /images/reviews/legacy/2023-02-10-it-has-simple-graphics-but-offers-a-dec
 
 
 
-## +Simple gameplay but will engage your mind
+- Simple gameplay but will engage your mind
 
 
-## +Charming stylized 1-bit visual presentation
+- Charming stylized 1-bit visual presentation
 
 
-## +A decent survival horror experience considering the limited 1-bit gameplay
+- A decent survival horror experience considering the limited 1-bit gameplay
 
 
-## +Play in vertical or landscape format
-
-
-
-
-## Cons
+- Play in vertical or landscape format## Cons
 
 
 -Not much to do after beating it, other than replay it again.

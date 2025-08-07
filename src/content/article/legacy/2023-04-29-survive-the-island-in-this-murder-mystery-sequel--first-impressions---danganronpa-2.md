@@ -33,11 +33,6 @@ tags:
 thumb: /images/reviews/legacy/2023-04-29-survive-the-island-in-this-murder-mystery-sequel--first-impressions---danganronpa-2-0.avif
 ---
 
-Danganronpa 2: Goodbye Despair
-8.3
-Adventure
-RPG
-
 Closely following in the footsteps of the first game, Danganronpa 2: Goodbye Despair is another entry into the intriguing murder mystery game series featuring high school students trapped in their school and forced to kill each other to survive.
 
 In a literal refreshing change of setting, the game now takes place on a tropical island called Jabberwock Island (instead of the original academy in the first game). The player takes on a brand new role in Hajime Hinata, a student who has been accepted into Hope's Peak Academy, an elite school for "ultimate" students with exceptional talents worthy to be called “Ultimate”.

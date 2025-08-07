@@ -42,21 +42,16 @@ Ailment: dead standoff is a single-stick top down corridor shooter with retro pi
 
 
 
-## +A decent mindless shooter gameplay
+- A decent mindless shooter gameplay
 
 
-## +Nice enemy variety, including zombies with guns.
+- Nice enemy variety, including zombies with guns.
 
 
-## +This type of game needs no narrative, but it does have one anyway as a bonus
+- This type of game needs no narrative, but it does have one anyway as a bonus
 
 
-## +Controller Support
-
-
-
-
-## Cons
+- Controller Support## Cons
 
 
 -The combat encounters at times are annoying, even borderline imbalanced because of the cramped space.

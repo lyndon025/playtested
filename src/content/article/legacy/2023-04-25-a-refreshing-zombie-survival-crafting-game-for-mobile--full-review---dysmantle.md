@@ -53,21 +53,16 @@ Dysmantle is a top down zombie survival crafting game developed by 10tons Ltd th
 
 
 
-## +Unique 'Dysmantling' crafting system
+- Unique 'Dysmantling' crafting system
 
 
-## +Open-world map and mechanics
+- Open-world map and mechanics
 
 
-## +No pay to win mechanics
+- No pay to win mechanics
 
 
-## +Controller Support
-
-
-
-
-## Cons
+- Controller Support## Cons
 
 
 -Can get repetitive and grindy

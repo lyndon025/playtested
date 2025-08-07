@@ -52,11 +52,6 @@ Ubisoft has found ways to inject personality into the operator characters of Rai
 - Fast-paced gameplay with tactical depth
 - Unique rogue-lite elements
 - Cute whimsical art style
-
-
-
-
-
 ## Cons
 - Occasional lag that needs more optimization
 - Minor visual bugs

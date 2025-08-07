@@ -40,18 +40,13 @@ Ace Racer, developed and published by NetEase, is a mobile arcade racing game th
 
 
 
-## +Thrilling and fun arcade-style racing
+- Thrilling and fun arcade-style racing
 
 
-## +Plenty of customization options with your character and cars
+- Plenty of customization options with your character and cars
 
 
-## +Multiplayer mode, solo or team based matchmaking
-
-
-
-
-## Cons
+- Multiplayer mode, solo or team based matchmaking## Cons
 
 
 -Matchmaking is a bit unbalanced, especially when getting matched with higher leveled players

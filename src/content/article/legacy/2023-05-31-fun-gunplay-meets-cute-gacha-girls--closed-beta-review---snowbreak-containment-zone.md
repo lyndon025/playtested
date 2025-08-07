@@ -47,24 +47,19 @@ Snowbreak: Containment Zone is a third person PVE-shooter set in a futuristic po
 
 
 
-## +Amazing gunplay and shooter gameplay
+- Amazing gunplay and shooter gameplay
 
 
-## +Beautiful character designs and abilities
+- Beautiful character designs and abilities
 
 
-## +Stunning AAA level of visuals
+- Stunning AAA level of visuals
 
 
-## +Intriguing storyline
+- Intriguing storyline
 
 
-## +Controller support
-
-
-
-
-## Cons
+- Controller support## Cons
 
 
 -Lackluster enemy AI

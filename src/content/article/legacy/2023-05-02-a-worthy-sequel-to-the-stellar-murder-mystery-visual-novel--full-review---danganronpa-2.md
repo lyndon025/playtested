@@ -57,21 +57,16 @@ Danganronpa 2: Goodbye Despair is a murder mystery visual novel game, a sequel t
 
 
 
-## +Compelling murder mystery premise
+- Compelling murder mystery premise
 
 
-## +Large map and a refreshing environment
+- Large map and a refreshing environment
 
 
-## +Story full of twists and turns
+- Story full of twists and turns
 
 
-## +Catchy upbeat soundtrack
-
-
-
-
-## Cons
+- Catchy upbeat soundtrack## Cons
 
 
 -Exaggerated logic with some of the cases

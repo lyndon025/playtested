@@ -49,18 +49,13 @@ Demian Saga is a pirate-themed gacha game with charming visuals and filled with 
 
 
 
-## +A refreshing narrative take
+- A refreshing narrative take
 
 
-## +Pleasing visuals and character design (waifu)
+- Pleasing visuals and character design (waifu)
 
 
-## +A variety of activities to participate in
-
-
-
-
-## Cons
+- A variety of activities to participate in## Cons
 
 
 -Highly limiting time currency

@@ -58,18 +58,13 @@ LIMBO is a puzzle-platformer game with simple controls, minimalistic visuals, an
 
 
 
-## +minimalistic platformer gameplay experience.
+- minimalistic platformer gameplay experience.
 
 
-## +depressing monochromatic visuals
+- depressing monochromatic visuals
 
 
-## +haunting soundtrack equally as depressing as the visuals
-
-
-
-
-## Cons
+- haunting soundtrack equally as depressing as the visuals## Cons
 
 
 -controls is hard to control sometimes

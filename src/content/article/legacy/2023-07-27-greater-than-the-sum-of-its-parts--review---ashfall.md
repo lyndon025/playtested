@@ -45,21 +45,16 @@ Ashfall is an MMORPG set in a post-apocalyptic world where AI has risen and init
 
 
 
-## +Gunplay is satisfying, with emphasis on accuracy and precision over guns blazing
+- Gunplay is satisfying, with emphasis on accuracy and precision over guns blazing
 
 
-## +JRPG style overworld map exploration, role-playing, and decision making
+- JRPG style overworld map exploration, role-playing, and decision making
 
 
-## +Talent respecs are totally free and can be done anytime
+- Talent respecs are totally free and can be done anytime
 
 
-## +Crossplay and cross-progression between Mobile and PC
-
-
-
-
-## Cons
+- Crossplay and cross-progression between Mobile and PC## Cons
 
 
 -The story premise is interesting but feels underutilized

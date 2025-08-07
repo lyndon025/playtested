@@ -41,18 +41,13 @@ BUMP! Superbrawl is a tactical strategy game that pits players’ team of heroes
 
 
 
-## +Clever predictive turn-based combat mechanics
+- Clever predictive turn-based combat mechanics
 
 
-## +Welcoming progression system
+- Welcoming progression system
 
 
-## +Cute and adorable visuals and characters
-
-
-
-
-## Cons
+- Cute and adorable visuals and characters## Cons
 
 
 -Some unresponsiveness in the controls

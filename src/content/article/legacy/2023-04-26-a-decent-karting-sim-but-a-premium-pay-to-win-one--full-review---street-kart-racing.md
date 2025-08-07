@@ -41,18 +41,13 @@ Street Kart Racing is a racing-sim featuring Go-Karts, real life racing supersta
 
 
 
-## +Realistic driving physics
+- Realistic driving physics
 
 
-## +Photorealistic visuals
+- Photorealistic visuals
 
 
-## +Real life tracks
-
-
-
-
-## Cons
+- Real life tracks## Cons
 
 
 -P2W mechanics on top of being a paid game

@@ -36,15 +36,10 @@ The Last Shop - Craft & Trade is a store management game where players manage a 
 
 
 
-## +Borderline addictive merchant simulation
+- Borderline addictive merchant simulation
 
 
-## +Bonus gameplay elements like town building and hero management
-
-
-
-
-## Cons
+- Bonus gameplay elements like town building and hero management## Cons
 
 
 -Gets grindy

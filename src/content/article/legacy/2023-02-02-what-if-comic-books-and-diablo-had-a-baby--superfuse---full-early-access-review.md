@@ -41,21 +41,16 @@ There are a lot of ARPGs out there already, but what makes Superfuse unique is i
 
 
 
-## +Unique cell-shaded comic-book art-style
+- Unique cell-shaded comic-book art-style
 
 
-## +Feature complete mechanically
+- Feature complete mechanically
 
 
-## +Combat is mechanically fun
+- Combat is mechanically fun
 
 
-## +Endgame already in place
-
-
-
-
-## Cons
+- Endgame already in place## Cons
 
 
 -Steep price for an Early Access

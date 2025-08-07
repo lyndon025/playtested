@@ -46,21 +46,16 @@ SpongeBob SquarePants: The Cosmic Shake is a 3D platformer game that is based on
 
 
 
-## +Beautiful and Amazing level design
+- Beautiful and Amazing level design
 
 
-## +Fun and engaging platforming aspects
+- Fun and engaging platforming aspects
 
 
-## +Feels like a special episode from the animated series
+- Feels like a special episode from the animated series
 
 
-## +The original voice actors, many of the soundtrack and soundbits are back
-
-
-
-
-## Cons
+- The original voice actors, many of the soundtrack and soundbits are back## Cons
 
 
 -Felt like a downgrade from Battle for Bikini Bottom
