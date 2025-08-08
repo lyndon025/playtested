@@ -35,10 +35,9 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
 <BlogLayout title={SiteOptions.siteTitle}>
   <Header />
 
-<hr class="hidden lg:block border-t border-gray-200 dark:border-gray-700 my-2" />
 
   {SiteOptions.showFeaturrdPostsOnHomePage && featuredPosts.length > 0 && (
-    <section class="pt-0 pb-8">
+    <section class="lg:pt-6 pb-8">
       <h2 class="mt-0 mb-2 text-2xl font-semibold text-center">
         Featured Posts
       </h2>
