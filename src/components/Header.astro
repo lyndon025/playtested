@@ -9,134 +9,138 @@ const { showTitle = true } = Astro.props;
 ---
 
 <header class="mb-4 relative z-50">
-  <!-- Theme Toggle -->
-  <button
-    onclick="toggleTheme()"
-    id="theme-toggle-button"
-    aria-label="Toggle theme"
-    class="absolute top-0 right-0 mt-2 mr-2 p-2 rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors"
-  >
-    <svg id="sun-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
-      <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" />
-    </svg>
-    <svg id="moon-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
-      <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998Z" />
-    </svg>
-  </button>
+  <!-- Header Top -->
+  <div class="relative px-4 mt-2 flex items-center justify-center sm:justify-start lg:justify-between lg:px-0">
+    <!-- Hamburger (mobile only) -->
+    <button
+      id="hamburger"
+      class="absolute left-4 p-2 sm:static sm:mr-4 lg:hidden"
+      onclick="toggleMobileMenu()"
+      aria-label="Open menu"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-800 dark:text-gray-100" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
 
-  <!-- Logo + Title -->
-  <div class="flex items-center justify-between px-4 lg:px-0">
-    <div class="flex items-center gap-4">
-      <!-- Hamburger (Mobile Only) -->
+    <!-- Logo + Title/Subitle -->
+<!-- Logo + Title/Subtitle -->
+<div class="flex flex-col sm:flex-row items-center sm:items-center text-center sm:text-left mx-auto sm:mx-0">
+  <a href="/" class="flex items-center space-x-4 mt-2 md:mt-8">
+    <Image
+      src="/images/logo02.png"
+      alt="Logo"
+      width={96}
+      height={96}
+      loading="eager"
+      class="w-12 h-12 md:w-24 md:h-24 rounded-full object-cover border border-gray-200 dark:border-gray-700 shadow hover:opacity-80 transition-opacity"
+    />
+    {
+      showTitle && (
+        <div class="mt-2 md:mt-0">
+          <h1 class="text-lg md:text-4xl font-bold tracking-tight hover:opacity-80 transition-opacity">
+            {SiteOptions.siteTitle}
+          </h1>
+          <p class="hidden sm:block text-sm md:text-lg text-gray-900 dark:text-gray-400 font-light mb-2 md:mb-0 max-w-[580px] md:max-w-none" set:html={SiteOptions.siteSubTitle} />
+        </div>
+      )
+    }
+  </a>
+</div>
+
+
+    <!-- Dark Mode Toggle (mobile only) -->
+    <button
+      onclick="toggleTheme()"
+      aria-label="Toggle theme"
+      class="absolute right-4 p-2 sm:static sm:ml-auto rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors lg:hidden"
+    >
+        <svg id="sun-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" />
+      </svg>
+      <svg id="moon-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998Z" />
+      </svg>
+    </button>
+
+    <!-- Dark Mode Toggle (desktop only) -->
+    <div class="hidden lg:block absolute top-2 right-4">
       <button
-        id="hamburger"
-class="lg:hidden absolute left-4 top-25 sm:top-[6rem] md:top-[10rem] z-50 p-2"        onclick="toggleMobileMenu()"
-        aria-label="Open menu"
+        onclick="toggleTheme()"
+        aria-label="Toggle theme"
+        class="p-2 rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors"
       >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-800 dark:text-gray-100" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-        </svg>
+        <svg id="sun-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" />
+      </svg>
+      <svg id="moon-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 hidden">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998Z" />
+      </svg>
       </button>
-
-      <a href="/" class="flex items-center space-x-2 mt-2 md:mt-8">
-        <Image src="/images/logo02.png" alt="Logo" width={96} height={96} loading="eager" class="w-12 h-12 md:w-24 md:h-24 rounded-full object-cover border border-gray-200 dark:border-gray-700 shadow hover:opacity-80 transition-opacity" />
-        {
-          showTitle && (
-            <div class="self-center mt-0 md:mt-5">
-              <h1 class="text-lg md:text-4xl font-bold tracking-tight hover:opacity-80 transition-opacity">{SiteOptions.siteTitle}</h1>
-              <p class="text-sm md:text-lg text-gray-900 dark:text-gray-400 font-light mb-2 md:mb-6 max-w-[580px] md:max-w-none" set:html={SiteOptions.siteSubTitle} />
-            </div>
-          )
-        }
-      </a>
     </div>
   </div>
 
- <!-- Navigation Links -->
-  <div id="nav-container" class="relative">
-    <nav id="nav-links" class="absolute top-[20px] w-[280px] lg:w-full flex flex-col lg:flex-row lg:items-center justify-between gap-4 p-4 lg:p-0 hidden lg:flex bg-white dark:bg-slate-800 border-t border-gray-200 dark:border-slate-700 shadow-md lg:shadow-none lg:relative z-40">
-      <div class="flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
-        <a href="/" class="btn-tag">Home</a>
-        <a href="/category/review" class="btn-tag">Reviews</a>
-        <a href="/category/tech" class="btn-tag">Tech</a>
-        <a href="/category/write-up" class="btn-tag">Write-ups</a>
-        <div class="relative">
-          <button id="platformToggle" class="btn-tag w-full lg:w-auto text-left" onclick="toggleDropdown()">Platforms ▾</button>
-          <div id="platformDropdown" class="absolute left-0 top-full mt-2 w-full bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-600 rounded-md shadow-lg z-20 transform scale-y-0 opacity-0 origin-top transition-all duration-200 pointer-events-none">
-            <a href="/tag/pc" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">PC</a>
-            <a href="/tag/console" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Console</a>
-            <a href="/tag/mobile" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Mobile</a>
-          </div>
-        </div>
-        <a href="/ai/recommend" class="btn-tag">AI Recommend</a>
-        <a href="/ai/compare" class="btn-tag">AI Compare</a>
-      </div>
-
-      <div class="relative w-full md:w-[250px] lg:w-[300px] mt-2 lg:mt-0">
-        <input type="text" id="global-search-input" placeholder="Search articles..." class="w-full py-2 pl-4 pr-10 rounded-md border border-gray-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500" />
-        <button id="global-search-btn" type="button" class="absolute right-2 top-1/2 transform -translate-y-1/2 p-1.5 rounded-md dark:bg-gray-600 bg-blue-100 text-white-600 hover:bg-blue-200 hover:text-blue-700 transition">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35m1.1-5.65a7.5 7.5 0 11-15.001 0 7.5 7.5 0 0115.001 0z" />
-          </svg>
-        </button>
-      </div>
-    </nav>
-  </div>
+  <!-- Navigation Links -->
+  <!-- ... your existing nav here (unchanged) ... -->
 
   <script is:inline>
-    const sunIcon = document.getElementById("sun-icon");
-    const moonIcon = document.getElementById("moon-icon");
-    const dropdown = document.getElementById("platformDropdown");
-    const searchInput = document.getElementById("global-search-input");
-    const searchBtn = document.getElementById("global-search-btn");
-    const nav = document.getElementById("nav-links");
+    const nav = document.getElementById("nav-links")
+    const dropdown = document.getElementById("platformDropdown")
+    const searchInput = document.getElementById("global-search-input")
+    const searchBtn = document.getElementById("global-search-btn")
 
     function toggleMobileMenu() {
-      nav.classList.toggle("hidden");
+      nav?.classList.toggle("hidden")
     }
 
     function toggleDropdown() {
-      dropdown.classList.toggle("scale-y-100");
-      dropdown.classList.toggle("opacity-100");
-      dropdown.classList.toggle("scale-y-0");
-      dropdown.classList.toggle("opacity-0");
-      dropdown.classList.toggle("pointer-events-none");
+      dropdown.classList.toggle("scale-y-100")
+      dropdown.classList.toggle("opacity-100")
+      dropdown.classList.toggle("scale-y-0")
+      dropdown.classList.toggle("opacity-0")
+      dropdown.classList.toggle("pointer-events-none")
     }
 
     function toggleTheme() {
-      const current = localStorage.getItem("theme");
-      const next = current === "dark" ? "light" : "dark";
-      localStorage.setItem("theme", next);
-      document.documentElement.classList.toggle("dark", next === "dark");
-      updateThemeIcons();
+      const current = localStorage.getItem("theme")
+      const next = current === "dark" ? "light" : "dark"
+      localStorage.setItem("theme", next)
+      document.documentElement.classList.toggle("dark", next === "dark")
+      updateThemeIcons()
     }
 
     function updateThemeIcons() {
-      const isDark = document.documentElement.classList.contains("dark");
-      sunIcon.classList.toggle("hidden", !isDark);
-      moonIcon.classList.toggle("hidden", isDark);
+      const isDark = document.documentElement.classList.contains("dark")
+
+      document.querySelectorAll("#sun-icon, #sun-icon-mobile").forEach((el) => {
+        el.classList.toggle("hidden", !isDark)
+      })
+
+      document.querySelectorAll("#moon-icon, #moon-icon-mobile").forEach((el) => {
+        el.classList.toggle("hidden", isDark)
+      })
     }
 
-    updateThemeIcons();
+    updateThemeIcons()
 
     document.addEventListener("click", (e) => {
       if (!document.getElementById("platformToggle")?.contains(e.target) && !dropdown?.contains(e.target)) {
-        dropdown.classList.remove("scale-y-100", "opacity-100");
-        dropdown.classList.add("scale-y-0", "opacity-0", "pointer-events-none");
+        dropdown.classList.remove("scale-y-100", "opacity-100")
+        dropdown.classList.add("scale-y-0", "opacity-0", "pointer-events-none")
       }
-    });
+    })
 
     searchInput?.addEventListener("keydown", (e) => {
       if (e.key === "Enter") {
-        e.preventDefault();
-        const q = encodeURIComponent(searchInput.value.trim());
-        if (q) window.location.href = `/search?q=${q}`;
+        e.preventDefault()
+        const q = encodeURIComponent(searchInput.value.trim())
+        if (q) window.location.href = `/search?q=${q}`
       }
-    });
+    })
 
     searchBtn?.addEventListener("click", () => {
-      const q = encodeURIComponent(searchInput.value.trim());
-      if (q) window.location.href = `/search?q=${q}`;
-    });
+      const q = encodeURIComponent(searchInput.value.trim())
+      if (q) window.location.href = `/search?q=${q}`
+    })
   </script>
 </header>

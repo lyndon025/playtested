@@ -81,7 +81,7 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
     </div>
 
 {Array.isArray(gallery) && gallery.length > 0 && (
-      <div class="float-right w-full max-w-[420px] ml-8 mb-4 mt-32">
+<div class="float-right w-full max-w-[420px] ml-8 mb-4 mt-4 sm:mt-16 md:mt-24 lg:mt-32">
         <Carousel images={gallery} />
       </div>
     )}
