@@ -9,12 +9,22 @@ import Footer from "../components/Footer.astro";
 
   <main class="mt-6 mb-12">
     <h1 class="text-2xl font-bold mb-2">
-      Search results for: <span id="search-query" class="italic text-blue-500"></span>
+      Search results for: <span id="search-query" class="italic text-blue-500"
+      ></span>
     </h1>
-    <p id="search-count" class="text-sm text-gray-600 dark:text-gray-400 mb-4"></p>
+    <p id="search-count" class="text-sm text-gray-600 dark:text-gray-400 mb-4">
+    </p>
 
-    <ul id="search-results" class="divide-y divide-gray-200 dark:divide-gray-800"></ul>
-    <div id="pagination" class="flex gap-2 mt-6 flex-wrap text-sm font-semibold text-blue-500"></div>
+    <ul
+      id="search-results"
+      class="divide-y divide-gray-200 dark:divide-gray-800"
+    >
+    </ul>
+    <div
+      id="pagination"
+      class="flex gap-2 mt-6 flex-wrap text-sm font-semibold text-blue-500"
+    >
+    </div>
   </main>
 
   <Footer />
@@ -25,7 +35,11 @@ import Footer from "../components/Footer.astro";
     const RESULTS_PER_PAGE = 10;
 
     window.addEventListener("DOMContentLoaded", async () => {
-      const query = new URLSearchParams(window.location.search).get("q")?.toLowerCase().trim() || "";
+      const query =
+        new URLSearchParams(window.location.search)
+          .get("q")
+          ?.toLowerCase()
+          .trim() || "";
 
       const querySpan = document.getElementById("search-query");
       if (querySpan) querySpan.textContent = `"${query}"`;
@@ -68,6 +82,14 @@ import Footer from "../components/Footer.astro";
       let results = [];
       try {
         results = query ? miniSearch.search(query) : [];
+
+        // Sort by released date descending (assuming search-index.json has 'released' field)
+        results.sort((a, b) => {
+          const dateA = new Date(a.released || "1900-01-01");
+          const dateB = new Date(b.released || "1900-01-01");
+          return dateB - dateA;
+        });
+
         console.log("🔍 Search results:", results.length);
       } catch (err) {
         console.error("❌ Search failed:", err);
@@ -90,9 +112,10 @@ import Footer from "../components/Footer.astro";
         const start = (page - 1) * RESULTS_PER_PAGE;
         const end = start + RESULTS_PER_PAGE;
 
-        results.slice(start, end).forEach(result => {
+        results.slice(start, end).forEach((result) => {
           const li = document.createElement("li");
-          li.className = "py-4 border-b border-gray-500 dark:border-gray-800 flex gap-6 items-start";
+          li.className =
+            "py-4 border-b border-gray-500 dark:border-gray-800 flex gap-6 items-start";
           li.innerHTML = `
             <div class="flex-1">
               <a href="${result.url}" class="text-xl font-semibold hover:underline block">${result.title}</a>
@@ -117,15 +140,20 @@ import Footer from "../components/Footer.astro";
           return btn;
         };
 
-        pagination.appendChild(createBtn("Prev", activePage - 1, activePage === 1));
+        pagination.appendChild(
+          createBtn("Prev", activePage - 1, activePage === 1)
+        );
 
         for (let i = 1; i <= totalPages; i++) {
           const btn = createBtn(i, i);
-          if (i === activePage) btn.classList.add("bg-blue-100", "dark:bg-slate-700");
+          if (i === activePage)
+            btn.classList.add("bg-blue-100", "dark:bg-slate-700");
           pagination.appendChild(btn);
         }
 
-        pagination.appendChild(createBtn("Next", activePage + 1, activePage === totalPages));
+        pagination.appendChild(
+          createBtn("Next", activePage + 1, activePage === totalPages)
+        );
       };
 
       renderPage(1);
