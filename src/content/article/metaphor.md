@@ -46,9 +46,11 @@ game: "Metaphor: ReFantazio"
     class="w-full md:w-2/5 rounded shadow"
      />
   <div> 
+
 The king is dead, the throne is empty, and a deadly curse afflicts the only true heir. This is the world of **Metaphor: ReFantazio**, a high-fantasy epic that immediately throws players into a high-stakes race for power. A grand tournament has been declared to find the next ruler, but for you, the quest is far more personal.
 
-From the moment Metaphor: ReFantazio begins, it becomes clear that this is something different. From the creative minds behind the Persona series, this game leverages a familiar, stylish blueprint but applies it to a fascinating new world full of wonder, creating an experience that is both comfortably recognizable and refreshingly unique, in many aspects.
+As soon as I started my playthrough of **Metaphor: ReFantazio**, it becomes clear that this is something different. From the creative minds behind the Persona series, this game leverages a familiar, stylish blueprint but applies it to a fascinating new world full of wonder, creating an experience that is both comfortably recognizable and refreshingly unique, in many aspects.
+
   </div>   </div> 
 The Persona footprint is immediately visible everywhere you look. From the slick, high-energy UI and calendar-based progression to the distinct camera angles and movement, fans of the series will feel right at home (I even had to lower the camera sensitivity, just like in Persona!). The presentation is gorgeous, with cutscenes that feel like you're watching a high-budget anime.
 

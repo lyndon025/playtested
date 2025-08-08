@@ -94,14 +94,14 @@ The main quest, however, is where the game truly excels. The core story and the 
 While Veilguard does stumble on some fronts — including the art style controversy and quest repetition — it still delivers a compelling, immersive RPG experience with enough depth and charm to satisfy fans.
 
 ---
-
-### Conclusion
-
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img
     src=/images/reviews/2024-11-26-dragon-age-veilguard-5.avif
     alt="Dragon Age: The Veilguard"
     class="w-full md:w-2/5 rounded shadow"
      />
+<div>
+
+### Conclusion
 Despite its controversies and some design missteps, **Dragon Age: Veilguard** delivers a robust and engaging RPG experience. Overall, I'm quite satisfied with my experience. Narratively, The Veilguard was an awesome and satisfying conclusion that stood on the shoulders of three excellent games. Gameplay-wise, it was fun enough to carry me through, but its lack of depth and variety kept it from being truly great.
-</div>
+</div></div>

@@ -24,7 +24,7 @@ title: Just Like The Movies, Might Even Be Better | Indiana Jones and the Great 
 game: Indiana Jones and the Great Circle
 ---
 
-**Indiana Jones and the Great Circle** initially raised some skepticism for me because of its first-person perspective, especially compared to the third-person action-adventure games like Uncharted that I prefer. However, I was proven wrong, as the first-person viewpoint here works remarkably well, creating a more immersive and personal experience that brings you closer to Indy’s world. 
+**Indiana Jones and the Great Circle** initially raised some skepticism for me because of its first-person perspective, I really thought I wont like it because of the first person view, because i played Uncharted and Tomb Raider and I wanted those kind of games. I thought I knew better. However, I was proven wrong, as the first-person viewpoint here works remarkably well, creating a more immersive and personal experience that brings you closer to Indy’s world. 
 
 ## Pros
 - 🕵️ Engaging first-person puzzles that feel natural and rewarding  
@@ -46,7 +46,9 @@ game: Indiana Jones and the Great Circle
     alt="Indiana Jones and the Great Circle"
     class="w-full md:w-2/5 rounded shadow"
      />
-Exploration is truly the heart of this game, and the first-person perspective enhances it beautifully. It allows you to lean in and inspect ancient mechanisms, decipher cryptic markings up close, and feel a genuine sense of tension as you peer into a dark, unknown passage. The puzzles are a major highlight; they strike an excellent balance between being challenging enough to make you feel clever and intuitive enough to avoid unfair frustration. This isn’t just watching a hero solve a mystery; you are the hero, you are Indiana Jones, and the feeling of discovery is consistently rewarding.
+
+I would like to repeat again, that the first person view absolutely works! Not only your in tune and more immersed as Indy, you also get upclose and personal with the puzzles and locations, which can now be much more cramped and smaller because of the view. It allows you to lean in and inspect ancient mechanisms, decipher cryptic markings up close, and feel a genuine sense of tension as you peer into a dark, unknown passage. The puzzles are a major highlight; they strike an excellent balance between being challenging enough to make you feel clever and intuitive enough to avoid unfair frustration. This isn’t just watching a hero solve a mystery; you are the hero, you are Indiana Jones, and the feeling of discovery is consistently rewarding.
+
      </div>
 Combat is simple but effective. It effectively captures the clumsy, scrappy feel of Indiana Jones. This isn't the slick, high-octane combat of a superspy; it's the desperate brawl of a professor who's in over his head. Punches feel weighty, the iconic bullwhip is both a tool and a weapon, and scarce ammo forces you to be resourceful rather than relying on brute force. This grounded approach is a refreshing change of pace that feels authentic to the character.
 

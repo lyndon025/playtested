@@ -63,7 +63,7 @@ As for the pivotal moments in the original game, Rebirth takes a cautious and so
 <div>
 
 ### Gameplay
-Gameplay builds upon the Remake’s foundation but refines and improves many systems. The introduction of Synergy Abilities—powerful combo attacks fueled by the Active Time Battle gauge—adds fresh strategic depth to combat. The improved responsiveness and smoother animations make battles more gratifying, though the system’s hybrid nature between real-time and turn-based can still feel uneven at times.
+Gameplay builds upon the Remake’s foundation but refines and improves many systems. The introduction of Synergy Abilities, which are powerful combo attacks (there are different sets of combinations by different characters available), fueled by the Active Time Battle gauge—adds fresh strategic depth to combat and one that encourages you to switch up the party composition more. The improved responsiveness and smoother animations make battles more gratifying, though the system’s hybrid nature between real-time and turn-based can still feel uneven at times.
 
 One jarring aspect is the party system. While five characters roam the world together, only three participate in combat at any given time, creating a somewhat immersion-breaking disconnect. The game also includes minor stealth sections that are easy and brief but feel somewhat out of place.
 </div></div>
