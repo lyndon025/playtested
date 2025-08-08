@@ -7,25 +7,23 @@ import PostCard from "../../../../components/PostCard.astro"
 import Pagination from "../../../../components/Pagination.astro"
 import SiteOptions from "../../../../site.config.mjs"
 
-
 const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
 
+// Generate dynamic paths for tag pages 2…N
 export async function getStaticPaths() {
-  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
   const allPosts = await getCollection("article")
-
-  const tags = new Map()
+  const tags = new Map<string, any[]>()
 
   for (const post of allPosts) {
     const tagList = post.data.tags ?? []
     for (const tag of tagList) {
       const slug = tag.toLowerCase().replace(/\s+/g, "-")
       if (!tags.has(slug)) tags.set(slug, [])
-      tags.get(slug).push(post)
+      tags.get(slug)!.push(post)
     }
   }
 
-  const paths = []
+  const paths: { params: { tag: string; page: string } }[] = []
 
   for (const [slug, posts] of tags.entries()) {
     const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)
@@ -37,13 +35,16 @@ export async function getStaticPaths() {
   return paths
 }
 
+// Extract route params and paginate
 const { tag, page } = Astro.params
 const currentPage = parseInt(page)
 const allPosts = await getCollection("article")
 
-const posts = allPosts.filter(post =>
-  post.data.tags?.some(t => t.toLowerCase().replace(/\s+/g, "-") === tag)
-).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+const posts = allPosts
+  .filter(post =>
+    post.data.tags?.some(t => t.toLowerCase().replace(/\s+/g, "-") === tag)
+  )
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 
 const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)
 const start = (currentPage - 1) * POSTS_PER_PAGE
@@ -63,12 +64,17 @@ const pageData = {
 }
 ---
 
-<BlogLayout title={`Tag: ${tag} - Page ${currentPage}`}>
+<BlogLayout title={`Tag: ${tag.replace(/-/g, " ")} - Page ${currentPage}`}>
   <Header showTitle={true} />
-  <h1 class="text-3xl font-bold mb-8 text-center capitalize">Tag: {tag.replace(/-/g, " ")}</h1>
 
-<ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
-    {paginated.map(post => <PostCard post={post} />)}
+  <h1 class="text-3xl font-bold mb-8 text-center capitalize">
+    Tag: {tag.replace(/-/g, " ")}
+  </h1>
+
+  <ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
+    {paginated.map(post => (
+      <PostCard post={post} />
+    ))}
   </ul>
 
   <Pagination page={pageData} />

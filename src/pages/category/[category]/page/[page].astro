@@ -11,7 +11,6 @@ const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 
 // 1) Generate dynamic paths for category pages 2…N
 export async function getStaticPaths() {
-  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
   const allPosts = await getCollection("article");
   const categories = new Map<string, any[]>();
 
@@ -29,6 +28,7 @@ export async function getStaticPaths() {
       paths.push({ params: { category: slug, page: i.toString() } });
     }
   }
+
   return paths;
 }
 
@@ -72,9 +72,7 @@ const pageData = {
 const isGrid = ["review", "reviews"].includes(category);
 ---
 
-<BlogLayout
-  title={`Category: ${category.replace(/-/g, " ")} – Page ${currentPage}`}
->
+<BlogLayout title={`Category: ${category.replace(/-/g, " ")} – Page ${currentPage}`}>
   <Header showTitle />
 
   <h1 class="text-3xl font-bold mb-8 text-center capitalize">
@@ -83,11 +81,11 @@ const isGrid = ["review", "reviews"].includes(category);
 
   {
     isGrid ? (
-<ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
+      <ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
         {paginated.map((post) => (
           <PostCard post={post} />
         ))}
-      </div>
+      </ul>
     ) : (
       <ul class="space-y-4">
         {paginated.map((post) => (
