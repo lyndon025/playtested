@@ -91,15 +91,23 @@ code > span.line {
   transform: scale(1.05);
 }
 
-/* Optional override for PostCard (slightly smaller) */
+/* Default (large screens and up) */
 .post-card-thumb .score-badge {
   font-size: 0.8rem;
   padding: 0.4rem 0.6rem;
-  bottom: 0.4rem !important;
+  bottom: 0.4rem;
   right: 0.4rem;
 }
 
+/* Shrink on mobile only */
+@media (max-width: 1023px) {
+  .post-card-thumb .score-badge {
+    font-size: 0.6rem;
+    padding: 0.2m 0.2rem;
+        border-width: 2px;
 
+  }
+}
 
 .article-score-badge {
   display: inline-flex;
@@ -141,6 +149,10 @@ code > span.line {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+
+
+
 
 .gallery {
   display: flex;
