@@ -62,7 +62,8 @@ const isGrid = ["review", "reviews"].includes(category);
 
   {isGrid ? (
     // Use a div grid instead of ul/li
-    <div class="grid grid-cols-2 gap-x-6 gap-y-6">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
+
       {paginated.map(post => (
         <PostCard post={post} />
       ))}
