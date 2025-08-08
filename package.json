@@ -6,7 +6,6 @@
     "dev": "astro dev --host",
     "build:search": "astro run scripts/build-search-index.mjs",
     "build": "npm run build:search && astro build",
-    "deploy": "wrangler deploy",
     "preview": "astro preview",
     "astro": "astro",
     "dev:cf": "npm run build && wrangler pages dev dist --local",
