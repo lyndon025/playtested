@@ -12,6 +12,7 @@ export const POST: APIRoute = async ({ request }) => {
   }
 
   const OPENROUTER_API_KEY = import.meta.env.VITE_OPENROUTER_API_KEY;
+  const RAWG_API_KEY = import.meta.env.VITE_RAWG_API_KEY;
 
   const prompt = `You're a game AI tool helping a player decide between: ${gameNames.join(', ')}.
 
