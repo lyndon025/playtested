@@ -37,9 +37,8 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
           height={128}
           loading="eager"
           class="w-56 h-32 object-cover rounded-md border border-gray-800 dark:border-gray-700"
-          placeholder="blur"
         />
-        <ScoreBadge score={post.data.score} small />
+{typeof score === "number" && <ScoreBadge score={score} />}
       </a>
     )
   }

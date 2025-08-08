@@ -51,7 +51,7 @@ const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filt
       : `${basePath}/page/${num}`; // pages 2+
 
     return (
-      <div class="flex items-center" key={num}>
+      <div class="flex items-center">
         {isEllipsis && <span class="px-2 select-none">…</span>}
         {num === page.currentPage ? (
           <span class="px-3 py-2 text-sm font-medium bg-gray-900 text-white rounded-md" aria-current="page">

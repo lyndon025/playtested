@@ -38,6 +38,7 @@ export default {
     showThumbnailOnFeaturedPosts: true, // Display thumbnails on featured posts
     numberOfLatestPostsOnHomePage: 18, // Number of latest posts on homepage
     numberOfBlogPostsPerPage: 10, // Number of posts per paginated blog
+    numberOfFeaturedPostsOnHomePage: 12,
 
     gTag: "G-V5QHDKBFP" // Google Analytics tracking ID
 }
