@@ -35,7 +35,7 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
 <BlogLayout title={SiteOptions.siteTitle}>
   <Header />
 
-  <hr class="border-t border-gray-200 dark:border-gray-700 my-2" />
+<hr class="hidden lg:block border-t border-gray-200 dark:border-gray-700 my-2" />
 
   {SiteOptions.showFeaturrdPostsOnHomePage && featuredPosts.length > 0 && (
     <section class="pt-0 pb-8">
@@ -61,7 +61,7 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
             class="flex transition-transform duration-300 ease-in-out items-stretch"
           >
             {featuredPosts.map((post) => (
-              <div class="carousel-item w-1/3 flex-shrink-0 px-2 overflow-hidden h-auto">
+<div class="carousel-item w-full sm:w-1/2 lg:w-1/3 flex-shrink-0 px-2 overflow-hidden h-auto">
                 <div class="h-full flex flex-col">
                   <FeaturedCard post={post} />
                 </div>
@@ -97,7 +97,7 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
         {SiteOptions.labels.latestPosts}
       </h2>
     )}
-    <ul class="grid grid-cols-2 gap-x-6 gap-y-6">
+<ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
       {latestPosts.map((post) => (
         <PostCard post={post} showCategory={showCategory} />
       ))}
@@ -135,10 +135,16 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
   const nextBtn = document.getElementById("carousel-next");
   const indicators = Array.from(document.querySelectorAll(".indicator"));
 
-  const visible = 3;
-  const pages = indicators.length;      // as defined above
+  function getVisibleCount() {
+    const w = window.innerWidth;
+    if (w < 640) return 1;
+    if (w < 768) return 2;
+    return 3;
+  }
+
+  let visible = getVisibleCount();
   let idx = 0;
-  const maxIdx = pages - 1;
+  let maxIdx = indicators.length - 1;
 
   function updateButtons() {
     prevBtn.disabled = idx <= 0;
@@ -156,7 +162,8 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
   }
 
   function slide() {
-    // move by idx pages; each page = one-card shift => 100/visible %
+    visible = getVisibleCount();
+    maxIdx = indicators.length - 1;
     track.style.transform = `translateX(-${(idx * 100) / visible}%)`;
     updateButtons();
     updateIndicators();
@@ -165,14 +172,14 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
   prevBtn.addEventListener("click", () => {
     if (idx > 0) { idx--; slide(); }
   });
+
   nextBtn.addEventListener("click", () => {
     if (idx < maxIdx) { idx++; slide(); }
   });
 
   indicators.forEach((btn) => {
     btn.addEventListener("click", () => {
-      const p = parseInt(btn.dataset.page, 10);
-      idx = Math.min(Math.max(p, 0), maxIdx);
+      idx = parseInt(btn.dataset.page, 10);
       slide();
     });
   });
@@ -180,3 +187,4 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
   window.addEventListener("load", slide);
   window.addEventListener("resize", slide);
 </script>
+
