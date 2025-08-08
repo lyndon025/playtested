@@ -16,7 +16,6 @@ gallery:
   - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-6.avif
   - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-7.avif
   - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-8.avif
-  - /images/reviews/legacy/2023-08-23-a-dance-of-bullets-and-revenge-in-top-down-shooter-roguelite-format--review---kill-the-cr-9.avif
 pubDate: 2023-08-23
 tags:
   - action

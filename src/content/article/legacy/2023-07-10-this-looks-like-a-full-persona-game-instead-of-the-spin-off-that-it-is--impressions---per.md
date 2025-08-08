@@ -12,7 +12,6 @@ gallery:
   - /images/reviews/legacy/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-2.avif
   - /images/reviews/legacy/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-3.avif
   - /images/reviews/legacy/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-4.avif
-  - /images/reviews/legacy/2023-07-10-this-looks-like-a-full-persona-game-instead-of-the-spin-off-that-it-is--impressions---per-5.avif
 pubDate: 2023-07-10
 tags:
   - action

@@ -1,0 +1,11 @@
+# wrangler.toml
+name = "playtested"
+compatibility_date = "2025-08-08"
+pages_build_output_dir = "./dist"
+compatibility_flags = ["nodejs_compat"]
+
+[env.production]
+
+[vars]
+RAWG_API_KEY = "7dd054448754469bbd5d6df8a56918d0"
+OPENROUTER_API_KEY = "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"

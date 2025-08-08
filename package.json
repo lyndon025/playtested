@@ -4,19 +4,25 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev --host",
-    "build": "astro build",
+    "build:search": "astro run scripts/build-search-index.mjs",
+    "build": "npm run build:search && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "dev:cf": "npm run build && wrangler pages dev dist --local",
+    "prepare:search": "node scripts/export-articles.ts"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/cloudflare": "^12.6.2",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.8",
     "astro": "^5.12.8",
     "marked": "^16.1.2",
+    "minisearch": "^7.1.2",
     "partytown": "^0.0.0",
     "tailwindcss": "^4.1.8",
     "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "@astrojs/cloudflare": "^12.6.2"
   }
 }

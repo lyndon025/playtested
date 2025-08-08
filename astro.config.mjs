@@ -1,12 +1,11 @@
-// @ts-check
+// astro.config.mjs
 import { defineConfig } from 'astro/config';
-import tailwindcss from "@tailwindcss/vite";
+import cloudflare from '@astrojs/cloudflare';
+import tailwindcss from '@tailwindcss/vite';
 
-
-
-
-// https://astro.build/config
 export default defineConfig({
+  adapter: cloudflare(),     // ✅ Cloudflare Workers (not Pages)
+  output: 'server',          // ✅ Needed for Workers support
   vite: {
     plugins: [tailwindcss()],
   },

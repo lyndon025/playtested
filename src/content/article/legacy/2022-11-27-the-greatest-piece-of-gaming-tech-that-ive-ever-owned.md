@@ -4,7 +4,7 @@ category: Tech
 slug: 2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned
 title: The greatest piece of gaming tech that I've ever owned
 game: The greatest piece of gaming tech that I've ever owned
-description: Ever since I was a child, I always dreamt of taking my games with me when going out, and It always came with huge compromises. It meant that I wouldn’t be taking my console or PC games with me, and I’m stuck with a portable handheld with its own different and toned down games (Gameboy, Playstation Portable, Nintendo DS, Switch, etc)
+description: The Steam Deck is a handheld PC / Console hybrid that is clearly one of a kind. It is everything I dreamt of and more. It meant that I can now take my existing PC library that I have built throughout the years, install it on the device, and play it just like at home. It has a console-like interface, simple to use and easy to get into playing, while hidden under it is a much more traditional PC setup, which you can access via Desktop mode.
 featured: false
 gallery:
   - /images/reviews/legacy/2022-11-27-the-greatest-piece-of-gaming-tech-that-ive-ever-owned-0.avif
@@ -57,7 +57,7 @@ For non-gamers, console users, newcomers, worry not; As the interface is easy to
 
 Since I am already a PC power user, I found the desktop mode fun to use, in fact for me it is a game in itself that I spent hours tinkering about. Customizing my library, my games, my setup, even just plain testing random games to see if they will work well. I have probably spent most of my first weeks with the Steam Deck tinkering than actually gaming.
 
-Performance
+## Performance
 
 Most games run absolutely fine on the Steam Deck. You can play slightly older games at a locked-in 60fps at its native 800p resolution, while recent AAA titles can also run with a bit of tweaking and a lower fps setting (40 fps is highly recommended).
 

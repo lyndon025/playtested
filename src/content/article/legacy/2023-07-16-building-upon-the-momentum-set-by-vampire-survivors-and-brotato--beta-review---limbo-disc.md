@@ -13,7 +13,6 @@ gallery:
   - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-3.avif
   - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-4.avif
   - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-5.avif
-  - /images/reviews/legacy/2023-07-16-building-upon-the-momentum-set-by-vampire-survivors-and-brotato--beta-review---limbo-disc-6.avif
 pubDate: 2023-07-16
 tags:
   - beta-review-limbo-disco

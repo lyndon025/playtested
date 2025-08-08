@@ -1,5 +1,5 @@
 ---
-// GameSelector.astro: search, select, and AI-powered compare/recommend
+// GameSelector.astro
 export interface Props {
   maxSelection: number;
   buttonText: string;
@@ -81,11 +81,14 @@ const { maxSelection, buttonText, id } = Astro.props;
       resultsEl.innerHTML = "";
       return;
     }
+
     statusEl.textContent = "Searching...";
-    resultsEl.innerHTML =
-      '<li class="p-2 italic text-gray-500 dark:text-gray-400">Loading...</li>';
+    resultsEl.innerHTML = `<li class="p-2 italic text-gray-500 dark:text-gray-400">Loading...</li>`;
+
     try {
-      const res = await fetch(`/api/rawg-search/${encodeURIComponent(query)}`);
+      const res = await fetch(
+        `/api/rawg-search?query=${encodeURIComponent(query)}`
+      );
       const data = await res.json();
       resultsEl.innerHTML = "";
       if (data.error) {
@@ -140,19 +143,6 @@ const { maxSelection, buttonText, id } = Astro.props;
     updateSelectionUI();
   }
 
-  async function fetchCoverForName(name) {
-    const res = await fetch(`/api/rawg-search/${encodeURIComponent(name)}`);
-    const data = await res.json();
-    return data.results?.[0]?.background_image || "";
-  }
-
-  function parseNames(text) {
-    return text
-      .split(/,|and/)
-      .map((s) => s.trim())
-      .filter((s) => s);
-  }
-
   function updateSelectionUI() {
     selectedEl.innerHTML = "";
     selected.forEach((g, i) => {
@@ -172,13 +162,28 @@ const { maxSelection, buttonText, id } = Astro.props;
     submitBtn.disabled = true;
     submitBtn.textContent = "🤖 Thinking...";
     aiResponseEl.innerHTML = `
-    <div class="p-4 bg-gray-50 dark:bg-slate-700 rounded border-l-4 border-blue-400 text-gray-800 dark:text-gray-200">
-      Loading AI response...
-    </div>
-  `;
+      <div class="p-4 bg-gray-50 dark:bg-slate-700 rounded border-l-4 border-blue-400 text-gray-800 dark:text-gray-200">
+        Loading AI response...
+      </div>
+    `;
 
     const endpoint = id === "comparator" ? "/api/compare" : "/api/recommend";
     const gameNames = selected.map((g) => g.name);
+
+    if (!navigator.onLine) {
+      aiResponseEl.innerHTML = `
+        <div class="p-4 bg-yellow-50 dark:bg-yellow-900 rounded border-l-4 border-yellow-400 text-yellow-800 dark:text-yellow-200">
+          You’re offline — showing mock response.
+        </div>
+        <div class="mt-4 p-4 bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 rounded text-sm text-gray-900 dark:text-gray-100 whitespace-pre-line">
+          Comparing: ${gameNames.join(", ")}
+
+(Offline mock mode active)
+        </div>
+      `;
+      submitBtn.textContent = buttonText;
+      return;
+    }
 
     try {
       const res = await fetch(endpoint, {
@@ -189,55 +194,50 @@ const { maxSelection, buttonText, id } = Astro.props;
       const json = await res.json();
       if (json.error) throw new Error(json.error);
 
-      const sections = json.result.split(/\n{2,}/).filter(Boolean);
+      // Show recommendation result
+      if (json.recommended && json.explanation) {
+        const recBlocks = json.recommended
+          .map(
+            (g, i) => `
+          <div class="flex items-start gap-4 mb-4">
+            <img src="${g.image}" alt="${g.name}" class="w-16 h-16 rounded object-cover border dark:border-slate-600">
+            <div>
+              <div class="font-bold text-blue-600 dark:text-blue-300">${g.name}</div>
+<div class="text-sm text-gray-700 dark:text-gray-300">
+  <strong class="block text-base text-blue-700 dark:text-blue-300 mb-1">${g.name}</strong>
+  ${json.explanation.split("\n\n")[i]}
+</div>              <a href="${g.url}" target="_blank" class="text-sm text-blue-500 dark:text-blue-400 underline">More info</a>
+            </div>
+          </div>
+        `
+          )
+          .join("");
 
-      let formattedHTML = "";
-
-      if (id === "comparator") {
-        const cleanText = json.result
-          .replace(/\*\*(.*?)\*\*/g, "$1") // Remove bold
-          .replace(/^## .*/gm, "") // Remove markdown headers
-          .trim();
-
-        formattedHTML = `
-    <div class="mt-6 ai-response">
-      <div class="bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed whitespace-pre-line">
-        ${cleanText}
-      </div>
-    </div>
-  `;
-      } else {
-        // Clean output and break it into title + body
-        const cleanText = json.result
-          .replace(/\*\*(.*?)\*\*/g, "$1") // Remove any double asterisk bold
-          .replace(
-            /(^|[^\\])\*(?!\s)([^*]+?)\*(?!\S)/g,
-            "$1<strong>$2</strong>"
-          ) // Convert *italics* to <strong>
-          .replace(/^## .*/gm, "") // Remove markdown headers
-          .trim();
-
-        const lines = cleanText.split("\n");
-        const headline = lines[0]; // Expecting "Recommended Games: Game A, Game B, Game C"
-        const body = lines.slice(1).join("\n").trim();
-
-        formattedHTML = `
-    <div class="mt-6 ai-response">
-      <div class="bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed whitespace-pre-line">
-        <div class="text-blue-600 dark:text-blue-300 font-semibold mb-3">${headline}</div>
-        <div>${body}</div>
-      </div>
-    </div>
-  `;
+        aiResponseEl.innerHTML = `<div class="mt-6 ai-response bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed">${recBlocks}</div>`;
+        return;
       }
 
-      aiResponseEl.innerHTML = formattedHTML;
+      // Otherwise show compare response
+      const cleanText = json.result
+        .replace(/\*\*(.*?)\*\*/g, "$1") // remove bold markdown
+        .replace(/\*(.*?)\*/g, "<strong>$1</strong>") // convert *italic* to <strong>
+        .replace(/^## .*/gm, "") // strip any headings
+        .replace(/\n{2,}/g, "\n\n") // normalize spacing
+        .trim();
+
+      aiResponseEl.innerHTML = `
+  <div class="mt-6 ai-response">
+    <div class="bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed">
+      ${cleanText}
+    </div>
+  </div>
+`;
     } catch (e) {
       aiResponseEl.innerHTML = `
-      <div class="p-4 bg-red-50 dark:bg-red-900 rounded border-l-4 border-red-400 text-red-800 dark:text-red-200">
-        ${e.message}
-      </div>
-    `;
+        <div class="p-4 bg-red-50 dark:bg-red-900 rounded border-l-4 border-red-400 text-red-800 dark:text-red-200">
+          ${e.message}
+        </div>
+      `;
     } finally {
       submitBtn.textContent = buttonText;
       submitBtn.disabled =
@@ -245,17 +245,18 @@ const { maxSelection, buttonText, id } = Astro.props;
     }
   }
 
-  inputEl.addEventListener("input", (e) => {
+  inputEl.addEventListener("input", () => {
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(() => searchGames(inputEl.value.trim()), 300);
   });
+
   inputEl.addEventListener("keydown", (e) => {
     if (e.key === "Enter") {
       e.preventDefault();
       searchGames(inputEl.value.trim());
     }
   });
-  submitBtn.addEventListener("click", handleSubmit);
 
+  submitBtn.addEventListener("click", handleSubmit);
   updateSelectionUI();
 </script>

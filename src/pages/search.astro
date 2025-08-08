@@ -1,48 +1,134 @@
 ---
-export const prerender = false;
-
-import { getCollection } from "astro:content";
 import BlogLayout from "../layouts/BlogLayout.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-import PostCard from "../components/PostCard.astro";
-
-// ✅ Dynamically extract search param from the URL
-const url = new URL(Astro.request.url);
-const query = url.searchParams.get("q")?.trim().toLowerCase() ?? "";
-
-const allPosts = await getCollection("article");
-
-const results = query
-  ? allPosts.filter(({ data }) => {
-      const { title, description = "", tags = [] } = data;
-      return (
-        title.toLowerCase().includes(query) ||
-        description.toLowerCase().includes(query) ||
-        tags.some(tag => tag.toLowerCase().includes(query))
-      );
-    })
-  : [];
 ---
 
-<BlogLayout title={`Search: ${query}`}>
+<BlogLayout title="Search">
   <Header showTitle={true} />
 
-  <h1 class="text-2xl font-bold mt-8 mb-6">
-    Search results for: <span class="italic text-blue-500">"{query}"</span>
-  </h1>
+  <main class="mt-6 mb-12">
+    <h1 class="text-2xl font-bold mb-2">
+      Search results for: <span id="search-query" class="italic text-blue-500"></span>
+    </h1>
+    <p id="search-count" class="text-sm text-gray-600 dark:text-gray-400 mb-4"></p>
 
-  {
-    results.length > 0 ? (
-      <ul class="divide-y divide-gray-200 dark:divide-gray-800">
-        {results.map(post => <PostCard post={post} />)}
-      </ul>
-    ) : (
-      <p class="text-gray-500 dark:text-gray-400 mt-4">
-        {query ? `No results found for "${query}".` : "Enter a search term above."}
-      </p>
-    )
-  }
+    <ul id="search-results" class="divide-y divide-gray-200 dark:divide-gray-800"></ul>
+    <div id="pagination" class="flex gap-2 mt-6 flex-wrap text-sm font-semibold text-blue-500"></div>
+  </main>
 
   <Footer />
+
+  <script type="module">
+    import MiniSearch from "https://cdn.jsdelivr.net/npm/minisearch@6.1.0/+esm";
+
+    const RESULTS_PER_PAGE = 10;
+
+    window.addEventListener("DOMContentLoaded", async () => {
+      const query = new URLSearchParams(window.location.search).get("q")?.toLowerCase().trim() || "";
+
+      const querySpan = document.getElementById("search-query");
+      if (querySpan) querySpan.textContent = `"${query}"`;
+
+      const resultContainer = document.getElementById("search-results");
+      const countEl = document.getElementById("search-count");
+      const pagination = document.getElementById("pagination");
+
+      if (!resultContainer || !countEl || !pagination) {
+        console.error("❌ Required DOM elements not found.");
+        return;
+      }
+
+      let articles = [];
+
+      try {
+        const res = await fetch("/search-index.json");
+        if (!res.ok) throw new Error("Failed to fetch search-index.json");
+        articles = await res.json();
+        console.log("✅ search-index.json loaded:", articles.length, "items");
+      } catch (err) {
+        console.error("❌ Error loading search index:", err);
+        resultContainer.innerHTML = `<p class="text-red-600 dark:text-red-400 mt-4">Failed to load search data.</p>`;
+        return;
+      }
+
+      let miniSearch;
+      try {
+        miniSearch = new MiniSearch({
+          fields: ["title", "description", "tags", "body"],
+          storeFields: ["title", "description", "url"],
+        });
+        miniSearch.addAll(articles);
+      } catch (err) {
+        console.error("❌ Error initializing MiniSearch:", err);
+        resultContainer.innerHTML = `<p class="text-red-600 dark:text-red-400 mt-4">Failed to set up search.</p>`;
+        return;
+      }
+
+      let results = [];
+      try {
+        results = query ? miniSearch.search(query) : [];
+        console.log("🔍 Search results:", results.length);
+      } catch (err) {
+        console.error("❌ Search failed:", err);
+      }
+
+      if (results.length === 0) {
+        resultContainer.innerHTML = `<p class="text-gray-500 dark:text-gray-400 mt-4">No results found for "${query}".</p>`;
+        countEl.textContent = "";
+        pagination.innerHTML = "";
+        return;
+      }
+
+      countEl.textContent = `${results.length} result${results.length > 1 ? "s" : ""} found for "${query}"`;
+
+      let currentPage = 1;
+      const totalPages = Math.ceil(results.length / RESULTS_PER_PAGE);
+
+      const renderPage = (page) => {
+        resultContainer.innerHTML = "";
+        const start = (page - 1) * RESULTS_PER_PAGE;
+        const end = start + RESULTS_PER_PAGE;
+
+        results.slice(start, end).forEach(result => {
+          const li = document.createElement("li");
+          li.className = "py-4 border-b border-gray-500 dark:border-gray-800 flex gap-6 items-start";
+          li.innerHTML = `
+            <div class="flex-1">
+              <a href="${result.url}" class="text-xl font-semibold hover:underline block">${result.title}</a>
+              <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">${result.description}</p>
+            </div>
+          `;
+          resultContainer.appendChild(li);
+        });
+
+        renderPagination(page);
+      };
+
+      const renderPagination = (activePage) => {
+        pagination.innerHTML = "";
+
+        const createBtn = (label, pageNum, disabled = false) => {
+          const btn = document.createElement("button");
+          btn.textContent = label;
+          btn.className = `px-3 py-1 rounded ${disabled ? "opacity-50 cursor-not-allowed" : "hover:underline"}`;
+          btn.disabled = disabled;
+          if (!disabled) btn.onclick = () => renderPage(pageNum);
+          return btn;
+        };
+
+        pagination.appendChild(createBtn("Prev", activePage - 1, activePage === 1));
+
+        for (let i = 1; i <= totalPages; i++) {
+          const btn = createBtn(i, i);
+          if (i === activePage) btn.classList.add("bg-blue-100", "dark:bg-slate-700");
+          pagination.appendChild(btn);
+        }
+
+        pagination.appendChild(createBtn("Next", activePage + 1, activePage === totalPages));
+      };
+
+      renderPage(1);
+    });
+  </script>
 </BlogLayout>
