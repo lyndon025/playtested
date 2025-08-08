@@ -24,7 +24,6 @@ const { showTitle = true } = Astro.props;
   </button>
 
     <!-- Logo + Title/Subitle -->
-<!-- Logo + Title/Subtitle -->
 <div class="flex flex-col sm:flex-row items-center sm:items-center text-center sm:text-left mx-auto sm:mx-0">
   <a href="/" class="flex items-center space-x-4 mt-2 md:mt-8">
     <Image
@@ -37,7 +36,7 @@ const { showTitle = true } = Astro.props;
     />
     {
       showTitle && (
-        <div class="mt-2 md:mt-0">
+        <div class="mt-0 md:mt-0">
           <h1 class="text-lg md:text-4xl font-bold tracking-tight hover:opacity-80 transition-opacity">
             {SiteOptions.siteTitle}
           </h1>
