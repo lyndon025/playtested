@@ -1,12 +1,14 @@
+logo_url: "/images/logo01.avif"
+
 backend:
   name: github
   repo: lyndon025/playtested
-  branch: main
-  base_url: https://www.playtested.net     
+  branch: exp
+  base_url: https://playtested.net
   auth_endpoint: auth
   use_graphql: false
 
-site_url: https://www.playtested.net
+site_url: https://playtested.net
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"

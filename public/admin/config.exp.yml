@@ -1,14 +1,18 @@
-local_backend: true
 logo_url: "/images/logo01.avif"
 
-# still required by Decap, not used in local mode
 backend:
   name: github
   repo: lyndon025/playtested
-  branch: main
+  branch: exp
+  base_url: https://exp.playtested.pages.dev
+  auth_endpoint: auth
+  use_graphql: false
+
+site_url: https://exp.playtested.pages.dev
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
+publish_mode: editorial_workflow      
 
 collections:
   - name: "article"
