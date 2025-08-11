@@ -35,6 +35,7 @@ export async function getStaticPaths() {
 // 2) Extract params and fetch posts
 const { category, page } = Astro.params;
 const currentPage = Number(page);
+
 const allPosts = await getCollection("article");
 const posts = allPosts
   .filter(
@@ -48,19 +49,20 @@ const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
 const start = (currentPage - 1) * POSTS_PER_PAGE;
 const paginated = posts.slice(start, start + POSTS_PER_PAGE);
 
-// 4) Build pageData
+// 4) Build URLs for prev/next
+const base = `/category/${category}`;
+const prevHref = currentPage <= 2 ? base : `${base}/page/${currentPage - 1}`;
+const nextHref = currentPage < totalPages ? `${base}/page/${currentPage + 1}` : undefined;
+const showPrev = currentPage > 1;
+const showNext = currentPage < totalPages;
+
+// 5) Build pageData for your Pagination component
 const pageData = {
   data: paginated,
   url: {
-    current: `/category/${category}/page/${currentPage}`,
-    prev:
-      currentPage > 2
-        ? `/category/${category}/page/${currentPage - 1}`
-        : `/category/${category}`,
-    next:
-      currentPage < totalPages
-        ? `/category/${category}/page/${currentPage + 1}`
-        : undefined,
+    current: `${base}/page/${currentPage}`,
+    prev: showPrev ? prevHref : undefined,
+    next: showNext ? nextHref : undefined,
   },
   currentPage,
   lastPage: totalPages,
@@ -68,11 +70,19 @@ const pageData = {
   total: posts.length,
 };
 
-// 5) Decide grid vs list mode based on category slug
+// 6) Decide grid vs list mode based on category slug
 const isGrid = ["review", "reviews"].includes(category);
 ---
 
-<BlogLayout title={`Category: ${category.replace(/-/g, " ")} – Page ${currentPage}`}>
+<BlogLayout
+  title={`Category: ${category.replace(/-/g, " ")} – Page ${currentPage}`}
+  description={`Page ${currentPage} of ${totalPages} for ${category.replace(/-/g, " ")} on ${SiteOptions.siteTitle}`}
+>
+  <Fragment slot="head">
+    {showPrev && <link rel="prev" href={prevHref} />}
+    {showNext && nextHref && <link rel="next" href={nextHref} />}
+  </Fragment>
+
   <Header showTitle />
 
   <h1 class="text-3xl font-bold mb-8 text-center capitalize">

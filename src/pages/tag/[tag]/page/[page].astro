@@ -1,70 +1,86 @@
 ---
-import { getCollection } from "astro:content"
-import BlogLayout from "../../../../layouts/BlogLayout.astro"
-import Header from "../../../../components/Header.astro"
-import Footer from "../../../../components/Footer.astro"
-import PostCard from "../../../../components/PostCard.astro"
-import Pagination from "../../../../components/Pagination.astro"
-import SiteOptions from "../../../../site.config.mjs"
+import { getCollection } from "astro:content";
+import BlogLayout  from "../../../../layouts/BlogLayout.astro";
+import Header      from "../../../../components/Header.astro";
+import Footer      from "../../../../components/Footer.astro";
+import PostCard    from "../../../../components/PostCard.astro";
+import Pagination  from "../../../../components/Pagination.astro";
+import SiteOptions from "../../../../site.config.mjs";
 
-const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10
+const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 
-// Generate dynamic paths for tag pages 2…N
+// 1) Generate dynamic paths for tag pages 2…N
 export async function getStaticPaths() {
-  const allPosts = await getCollection("article")
-  const tags = new Map<string, any[]>()
+  const allPosts = await getCollection("article");
+  const tagMap = new Map<string, number>();
 
   for (const post of allPosts) {
-    const tagList = post.data.tags ?? []
-    for (const tag of tagList) {
-      const slug = tag.toLowerCase().replace(/\s+/g, "-")
-      if (!tags.has(slug)) tags.set(slug, [])
-      tags.get(slug)!.push(post)
+    for (const t of post.data.tags ?? []) {
+      const slug = t.toLowerCase().replace(/\s+/g, "-");
+      tagMap.set(slug, (tagMap.get(slug) ?? 0) + 1);
     }
   }
 
-  const paths: { params: { tag: string; page: string } }[] = []
-
-  for (const [slug, posts] of tags.entries()) {
-    const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)
+  const paths: { params: { tag: string; page: string } }[] = [];
+  for (const [slug, count] of tagMap.entries()) {
+    const totalPages = Math.ceil(count / POSTS_PER_PAGE);
     for (let i = 2; i <= totalPages; i++) {
-      paths.push({ params: { tag: slug, page: i.toString() } })
+      paths.push({ params: { tag: slug, page: i.toString() } });
     }
   }
 
-  return paths
+  return paths;
 }
 
-// Extract route params and paginate
-const { tag, page } = Astro.params
-const currentPage = parseInt(page)
-const allPosts = await getCollection("article")
+// 2) Extract params and fetch posts for this tag/page
+const { tag, page } = Astro.params as { tag: string; page: string };
+const currentPage = Number(page);
 
+const allPosts = await getCollection("article");
 const posts = allPosts
-  .filter(post =>
-    post.data.tags?.some(t => t.toLowerCase().replace(/\s+/g, "-") === tag)
+  .filter((post) =>
+    (post.data.tags ?? []).some(
+      (t) => t.toLowerCase().replace(/\s+/g, "-") === tag
+    )
   )
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)
-const start = (currentPage - 1) * POSTS_PER_PAGE
-const paginated = posts.slice(start, start + POSTS_PER_PAGE)
+// 3) Paginate
+const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+const start = (currentPage - 1) * POSTS_PER_PAGE;
+const paginated = posts.slice(start, start + POSTS_PER_PAGE);
 
+// 4) Prev/Next URLs
+const base = `/tag/${tag}`;
+const prevHref = currentPage <= 2 ? base : `${base}/page/${currentPage - 1}`;
+const nextHref = currentPage < totalPages ? `${base}/page/${currentPage + 1}` : undefined;
+const showPrev = currentPage > 1;
+const showNext = currentPage < totalPages;
+
+// 5) Pagination component data
 const pageData = {
   data: paginated,
   url: {
-    current: `/tag/${tag}/page/${currentPage}`,
-    prev: currentPage > 2 ? `/tag/${tag}/page/${currentPage - 1}` : `/tag/${tag}`,
-    next: currentPage < totalPages ? `/tag/${tag}/page/${currentPage + 1}` : undefined,
+    current: `${base}/page/${currentPage}`,
+    prev: showPrev ? prevHref : undefined,
+    next: showNext ? nextHref : undefined,
   },
   currentPage,
   lastPage: totalPages,
   size: POSTS_PER_PAGE,
   total: posts.length,
-}
+};
 ---
 
-<BlogLayout title={`Tag: ${tag.replace(/-/g, " ")} - Page ${currentPage}`}>
+<BlogLayout
+  title={`Tag: ${tag.replace(/-/g, " ")} – Page ${currentPage}`}
+  description={`Page ${currentPage} of ${totalPages} for tag ${tag.replace(/-/g, " ")} on ${SiteOptions.siteTitle}`}
+>
+  <Fragment slot="head">
+    {showPrev && <link rel="prev" href={prevHref} />}
+    {showNext && nextHref && <link rel="next" href={nextHref} />}
+  </Fragment>
+
   <Header showTitle={true} />
 
   <h1 class="text-3xl font-bold mb-8 text-center capitalize">
@@ -72,11 +88,12 @@ const pageData = {
   </h1>
 
   <ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
-    {paginated.map(post => (
+    {paginated.map((post) => (
       <PostCard post={post} />
     ))}
   </ul>
 
   <Pagination page={pageData} />
+
   <Footer />
 </BlogLayout>

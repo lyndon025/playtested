@@ -26,6 +26,9 @@ const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } 
     <meta name="twitter:description" content={description} />
     <link rel="icon" type="image/png" href="/playtested.png" />
     <title>{title}</title>
+
+<link rel="alternate" type="application/rss+xml" title="PlayTested RSS" href={`${Astro.url.origin}/rss.xml`} />
+
     <script is:inline>
       // Theme initialization - prevents FOUC
       ;(() => {
