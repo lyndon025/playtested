@@ -5,7 +5,7 @@ export const GET = ({ url, locals }) => {
   const params = new URLSearchParams({
     client_id: locals.runtime.env.GITHUB_CLIENT_ID,
     redirect_uri: redirectUri,
-    scope: "repo",          // use "public_repo" only for public repos
+    scope: "public_repo", // or "repo" for private
     state,
     allow_signup: "true",
   });
