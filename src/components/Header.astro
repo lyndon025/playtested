@@ -137,6 +137,8 @@ class="absolute top-[20px] w-[280px] lg:w-full flex flex-col lg:flex-row lg:item
         document.documentElement.classList.toggle("dark", t === "dark");
         document.documentElement.setAttribute("data-theme", t);
         if (persist) localStorage.setItem("theme", t);
+        setGiscusTheme(t === "dark" ? "dark_dimmed" : "light");   // ← add this
+
         syncIcon();
         syncAria();
       };
@@ -216,4 +218,16 @@ class="absolute top-[20px] w-[280px] lg:w-full flex flex-col lg:flex-row lg:item
       if (q) window.location.href = `/search?q=${q}`;
     });
   </script>
+
+
+<script is:inline>
+  function setGiscusTheme(theme) {
+    const frame = document.querySelector('iframe.giscus-frame');
+    frame?.contentWindow?.postMessage(
+      { giscus: { setConfig: { theme } } },
+      'https://giscus.app'
+    );
+  }
+</script>
+
 </header>
