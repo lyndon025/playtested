@@ -1,16 +1,13 @@
+local_backend: true
+
+# still required by Decap, not used in local mode
 backend:
   name: github
   repo: lyndon025/playtested
   branch: main
-  base_url: https://www.playtested.net     
-  auth_endpoint: auth
-  use_graphql: false
-
-site_url: https://www.playtested.net
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
-publish_mode: editorial_workflow      
 
 collections:
   - name: "article"
