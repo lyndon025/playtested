@@ -1,5 +1,7 @@
 ---
-const configUrl = import.meta.env.DEV ? "/admin/config.local.yml" : "/admin/config.yml";
+const configUrl = import.meta.env.DEV 
+  ? "/admin/config.local.yml" 
+  : (import.meta.env.CF_PAGES_BRANCH === 'exp' ? "/admin/config.exp.yml" : "/admin/config.yml");
 ---
 <!doctype html>
 <html lang="en">
