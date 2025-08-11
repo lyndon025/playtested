@@ -1,77 +1,16 @@
 ---
-// Clean approach to avoid DOM conflicts
+const configUrl = import.meta.env.DEV ? "/admin/config.local.yml" : "/admin/config.yml";
 ---
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
+    <link href={configUrl} rel="cms-config-url" type="text/yaml" />
     <title>Content Manager</title>
   </head>
   <body>
-    <!-- CMS will mount here -->
-    <div id="nc-root"></div>
-    
-    <!-- Use CDN version that's known to work well -->
-    <script src="https://unpkg.com/decap-cms@3.1.10/dist/decap-cms.js"></script>
-    
-    <script>
-      console.log('🚀 Admin page starting...');
-      
-      // OAuth debugging
-      window.addEventListener('message', (event) => {
-        console.log('📨 Message:', event.data);
-        
-        if (typeof event.data === 'string' && event.data.includes('authorization:github')) {
-          console.log('🔐 OAuth message received:', event.data);
-        }
-      });
-      
-      // Wait for DOM and CMS to be ready
-      function initializeCMS() {
-        if (!window.CMS) {
-          console.log('⏳ CMS not ready, waiting...');
-          setTimeout(initializeCMS, 100);
-          return;
-        }
-        
-        try {
-          console.log('✅ CMS available, initializing...');
-          
-          // Initialize CMS
-          CMS.init({
-            config: {
-              load_config_file: true
-            }
-          });
-          
-          console.log('🎉 CMS initialization complete');
-          
-        } catch (error) {
-          console.error('❌ CMS initialization failed:', error);
-          
-          // Fallback initialization
-          setTimeout(() => {
-            try {
-              CMS.init();
-              console.log('🔄 CMS fallback initialization started');
-            } catch (fallbackError) {
-              console.error('❌ Fallback failed too:', fallbackError);
-            }
-          }, 1000);
-        }
-      }
-      
-      // Start initialization when DOM is ready
-      if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initializeCMS);
-      } else {
-        initializeCMS();
-      }
-    </script>
-    
-    <!-- Load preview template after CMS -->
-    <script src="/admin/index.js"></script>
+    <script src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
+    <script src="/admin/index.js" type="module"></script>
   </body>
 </html>
