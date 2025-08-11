@@ -2,7 +2,7 @@ backend:
   name: github
   repo: lyndon025/playtested
   branch: main
-  base_url: https://playtested.net        # e.g. https://playtested.pages.dev or your custom domain
+  base_url: https://playtested.net     # e.g. https://playtested.pages.dev
   auth_endpoint: auth
   use_graphql: true
 
@@ -10,8 +10,7 @@ site_url: https://playtested.net
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
-# remove the next line if you want direct commits to main
-publish_mode: editorial_workflow
+publish_mode: editorial_workflow      # remove this line if you want direct commits
 
 collections:
   - name: "article"
@@ -23,20 +22,36 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-      - { label: "Author", name: "author", widget: "string", default: "Lyndon Rebutoc" }
-      - { label: "Category", name: "category", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false }
-      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
-      - { label: "Hero (Large)", name: "large", widget: "image", required: false }
+      - { label: "Author", name: "author", widget: "string", default: "lyndonguitar" }
+      - { label: "Short Description", name: "description", widget: "text" }
+      - { label: "Game", name: "game", widget: "string", required: false }
+
+      # Category dropdown (required)
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Review", "Tech", "Write-up"]
+        required: true
+
+      # Tags: at least 1, allow custom
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        options: ["PC", "Console", "Mobile"]
+        allow_add: true
+        required: true
+
+      - { label: "Featured on Home", name: "featured", widget: "boolean", default: false, required: false }
+
+      # Thumbnail required
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: true }
+
+      # Gallery: optional list of image paths (strings)
       - label: "Gallery"
         name: "gallery"
         widget: "list"
         required: false
-        field: { label: "Image", name: "image", widget: "image" }
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        required: false
-      - { label: "Featured on Home", name: "featured", widget: "boolean", default: false }
+
+      - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
