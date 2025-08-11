@@ -7,7 +7,7 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   site: "https://playtested.net",
   integrations: [sitemap()],
-  adapter: cloudflare({ mode: "directory" }), // ✅ Cloudflare Workers (not Pages)
+  adapter: cloudflare({ mode: "pages" }),
   output: "server", // ✅ Needed for Workers support
   vite: {
     plugins: [tailwindcss()],
