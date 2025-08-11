@@ -1,14 +1,8 @@
-backend:
-  name: github
-  repo: lyndon025/playtested
-  branch: main
-  base_url: https://playtested.net
-  auth_endpoint: auth
-  use_graphql: true
+local_backend: true
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
-publish_mode: editorial_workflow
+publish_mode: editorial_workflow  # you can remove this line if you prefer direct writes
 
 collections:
   - name: "article"
