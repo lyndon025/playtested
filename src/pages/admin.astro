@@ -1,5 +1,8 @@
 ---
-const configUrl = import.meta.env.DEV ? "/admin/config.local.yml" : "/admin/config.local.yml";
+// src/pages/admin.astro
+const configUrl = import.meta.env.DEV
+  ? "/admin/config.local.yml"   // local offline
+  : "/admin/config.yml";        // live OAuth
 ---
 <!doctype html>
 <html lang="en">

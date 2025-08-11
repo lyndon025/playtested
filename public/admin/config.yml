@@ -1,16 +1,17 @@
+# public/admin/config.yml
 backend:
   name: github
   repo: lyndon025/playtested
   branch: main
-  base_url: https://www.playtested.net     
-  auth_endpoint: auth
-  use_graphql: false
+  base_url: https://www.playtested.net   # pick ONE host and stick to it
+  auth_endpoint: auth                    # maps to src/pages/auth.ts
+  use_graphql: false                     # flip to true later if you want
 
 site_url: https://www.playtested.net
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
-publish_mode: editorial_workflow      
+publish_mode: editorial_workflow
 
 collections:
   - name: "article"
