@@ -14,6 +14,7 @@ async function exchange(code: string, redirectUri: string, env: any) {
   return r.json();
 }
 
+// Updated message format that Decap CMS expects
 const send = (type: string, payload: string) =>
   new Response(
     `<!doctype html>
@@ -25,50 +26,52 @@ const send = (type: string, payload: string) =>
     <body>
       <script>
         (function() {
-          var receiveMessage = function(message) {
-            window.opener.postMessage(
-              'authorization:github:${type}:${payload}',
-              message.origin
-            );
-            window.removeEventListener("message", receiveMessage, false);
+          function postAuthMessage() {
+            if (window.opener) {
+              // Send the message in the format CMS expects
+              const message = 'authorization:github:${type}:${payload}';
+              console.log('Sending message to parent:', message);
+              
+              window.opener.postMessage(message, '*');
+              
+              // Also try object format as backup
+              window.opener.postMessage({
+                type: 'authorization:github:${type}',
+                payload: '${payload}'
+              }, '*');
+            }
           }
           
-          // Send message immediately
-          if (window.opener) {
-            window.opener.postMessage(
-              'authorization:github:${type}:${payload}',
-              '*'
-            );
-            
-            // Try multiple times in case the parent isn't ready
-            setTimeout(function() {
-              window.opener.postMessage(
-                'authorization:github:${type}:${payload}',
-                '*'
-              );
-            }, 100);
-            
-            setTimeout(function() {
-              window.opener.postMessage(
-                'authorization:github:${type}:${payload}',
-                '*'
-              );
-            }, 500);
-          }
+          // Send immediately
+          postAuthMessage();
           
-          // Close window after a delay
+          // Send again after delays (in case parent isn't ready)
+          setTimeout(postAuthMessage, 50);
+          setTimeout(postAuthMessage, 200);
+          setTimeout(postAuthMessage, 500);
+          
+          // Close window
           setTimeout(function() {
-            window.close();
-          }, 1000);
+            console.log('Closing auth window');
+            try {
+              window.close();
+            } catch(e) {
+              console.log('Could not close window automatically');
+            }
+          }, 1500);
         })();
       </script>
-      <p>Authorization ${type}. This window should close automatically.</p>
+      <div style="padding: 20px; text-align: center; font-family: system-ui;">
+        <h2>Authorization ${type === 'success' ? 'Successful' : 'Failed'}</h2>
+        <p>This window will close automatically...</p>
+        <button onclick="window.close()" style="padding: 8px 16px; margin-top: 10px;">Close Window</button>
+      </div>
     </body>
     </html>`,
     { 
       headers: { 
         "Content-Type": "text/html",
-        "Cache-Control": "no-cache"
+        "Cache-Control": "no-cache, no-store, must-revalidate"
       } 
     }
   );
@@ -76,6 +79,13 @@ const send = (type: string, payload: string) =>
 export const GET = async ({ request, url, locals }: any) => {
   const code = url.searchParams.get("code");
   const state = url.searchParams.get("state");
+  const error = url.searchParams.get("error");
+  
+  if (error) {
+    console.error('OAuth error:', error);
+    return send("error", error);
+  }
+  
   const expected =
     (request.headers.get("Cookie") || "").match(/(?:^|; )gh_oauth_state=([^;]+)/)?.[1] || "";
   const redirectUri = new URL("/auth/callback", url.origin).toString();
@@ -86,6 +96,8 @@ export const GET = async ({ request, url, locals }: any) => {
   try {
     const data = await exchange(code, redirectUri, locals.runtime.env);
     if (!data.access_token) return send("error", "no_token");
+    
+    console.log('OAuth success, sending token to CMS');
     return send("success", data.access_token);
   } catch (error) {
     console.error("OAuth exchange error:", error);

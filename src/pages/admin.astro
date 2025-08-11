@@ -1,6 +1,5 @@
 ---
-// Determine config file based on environment
-const configUrl = import.meta.env.DEV ? "/config.local.yml" : "/config.yml";
+// Clean approach to avoid DOM conflicts
 ---
 <!doctype html>
 <html lang="en">
@@ -9,65 +8,70 @@ const configUrl = import.meta.env.DEV ? "/config.local.yml" : "/config.yml";
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager</title>
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
   <body>
-    <!-- Decap CMS Script - using a more stable version -->
-    <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
+    <!-- CMS will mount here -->
+    <div id="nc-root"></div>
     
-    <!-- Custom preview templates -->
-    <script src="/admin/index.js" type="module"></script>
+    <!-- Use CDN version that's known to work well -->
+    <script src="https://unpkg.com/decap-cms@3.1.10/dist/decap-cms.js"></script>
     
-    <!-- Debug and Initialize -->
     <script>
-      console.log('Admin page loaded');
-      console.log('Environment:', {
-        configUrl: '{configUrl}',
-        currentUrl: window.location.href
-      });
+      console.log('🚀 Admin page starting...');
       
-      // Debug OAuth messages
-      window.addEventListener('message', function(event) {
-        console.log('🔍 Message received:', event.data);
+      // OAuth debugging
+      window.addEventListener('message', (event) => {
+        console.log('📨 Message:', event.data);
         
-        // Log authorization messages specifically
-        if (event.data && typeof event.data === 'object' && event.data.type) {
-          if (event.data.type.includes('authorization:github')) {
-            console.log('✅ GitHub OAuth message:', event.data);
-          }
-        } else if (typeof event.data === 'string' && event.data.includes('authorization:github')) {
-          console.log('✅ GitHub OAuth string message:', event.data);
+        if (typeof event.data === 'string' && event.data.includes('authorization:github')) {
+          console.log('🔐 OAuth message received:', event.data);
         }
       });
       
-      // Simple CMS initialization
-      window.addEventListener('load', function() {
-        console.log('🚀 Window loaded, initializing CMS...');
+      // Wait for DOM and CMS to be ready
+      function initializeCMS() {
+        if (!window.CMS) {
+          console.log('⏳ CMS not ready, waiting...');
+          setTimeout(initializeCMS, 100);
+          return;
+        }
         
-        if (window.CMS) {
-          try {
-            // Simple initialization
-            window.CMS.init({
-              config: {
-                load_config_file: true
-              }
-            });
-            console.log('✅ CMS initialization started');
-          } catch (error) {
-            console.error('❌ CMS initialization error:', error);
-            
-            // Fallback - try without explicit config
-            try {
-              window.CMS.init();
-              console.log('✅ CMS fallback initialization started');
-            } catch (fallbackError) {
-              console.error('❌ CMS fallback failed:', fallbackError);
+        try {
+          console.log('✅ CMS available, initializing...');
+          
+          // Initialize CMS
+          CMS.init({
+            config: {
+              load_config_file: true
             }
-          }
-        } else {
-          console.error('❌ CMS not available');
+          });
+          
+          console.log('🎉 CMS initialization complete');
+          
+        } catch (error) {
+          console.error('❌ CMS initialization failed:', error);
+          
+          // Fallback initialization
+          setTimeout(() => {
+            try {
+              CMS.init();
+              console.log('🔄 CMS fallback initialization started');
+            } catch (fallbackError) {
+              console.error('❌ Fallback failed too:', fallbackError);
+            }
+          }, 1000);
         }
-      });
+      }
+      
+      // Start initialization when DOM is ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializeCMS);
+      } else {
+        initializeCMS();
+      }
     </script>
+    
+    <!-- Load preview template after CMS -->
+    <script src="/admin/index.js"></script>
   </body>
 </html>
