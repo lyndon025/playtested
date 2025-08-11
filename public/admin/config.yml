@@ -2,11 +2,11 @@ backend:
   name: github
   repo: lyndon025/playtested
   branch: main
-  base_url: https://playtested.net     # e.g. https://playtested.pages.dev
+  base_url: https://www.playtested.net     # e.g. https://playtested.pages.dev
   auth_endpoint: auth
   use_graphql: true
 
-site_url: https://playtested.net
+site_url: https://www.playtested.net
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
