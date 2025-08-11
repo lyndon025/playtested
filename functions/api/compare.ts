@@ -1,4 +1,6 @@
-export const onRequestPost: PagesFunction = async ({ request, env }) => {
+import type { PagesFunction } from "@cloudflare/workers-types";
+
+export const onRequestPost: PagesFunction = async ({ request, env }: { request: Request; env: { OPENROUTER_API_KEY: string } }) => {
   const body = await request.json().catch(() => ({}));
   const gameNames = Array.isArray(body?.gameNames) ? body.gameNames : [];
 

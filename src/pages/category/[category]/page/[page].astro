@@ -12,7 +12,6 @@ const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 // 1) Generate dynamic paths for category pages 2…N
 export async function getStaticPaths() {
   const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
-
   const allPosts = await getCollection("article");
   const categories = new Map<string, any[]>();
 
