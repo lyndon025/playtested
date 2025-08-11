@@ -1,6 +1,5 @@
 ---
-// Determine config file based on environment
-const configUrl = import.meta.env.DEV ? "/config.local.yml" : "/config.yml";
+// Simple approach - let CMS find config automatically
 ---
 <!doctype html>
 <html lang="en">
@@ -9,108 +8,54 @@ const configUrl = import.meta.env.DEV ? "/config.local.yml" : "/config.yml";
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager</title>
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
   <body>
-    <!-- Decap CMS Script -->
-    <script src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
+    <!-- Use a known stable version -->
+    <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
     
-    <!-- Custom preview templates -->
-    <script src="/admin/index.js" type="module"></script>
+    <!-- Load custom preview -->
+    <script src="/admin/index.js"></script>
     
-    <!-- Debug and Initialize -->
+    <!-- Simple initialization with debugging -->
     <script>
-      console.log('Admin page loaded');
-      console.log('Environment:', {
-        isDev: import.meta.env.DEV,
-        configUrl: '{configUrl}',
-        currentUrl: window.location.href
+      console.log('🚀 Admin page loaded');
+      
+      // OAuth message debugging
+      window.addEventListener('message', (event) => {
+        console.log('📨 Received message:', event.data);
+        
+        if (typeof event.data === 'string' && event.data.includes('authorization:github')) {
+          console.log('🔐 OAuth message:', event.data);
+        } else if (event.data?.type?.includes?.('authorization:github')) {
+          console.log('🔐 OAuth object:', event.data);
+        }
       });
       
-      // Debug OAuth messages
-      window.addEventListener('message', function(event) {
-        console.log('🔍 Message received:', {
-          data: event.data,
-          origin: event.origin,
-          type: typeof event.data
-        });
-        
-        // Log authorization messages specifically
-        if (event.data && typeof event.data === 'object' && event.data.type) {
-          if (event.data.type.includes('authorization:github')) {
-            console.log('✅ GitHub OAuth message:', event.data);
+      // Wait for CMS to load then initialize
+      if (window.CMS) {
+        console.log('✅ CMS available immediately');
+        initializeCMS();
+      } else {
+        window.addEventListener('load', () => {
+          console.log('🔄 Window loaded, checking for CMS...');
+          if (window.CMS) {
+            initializeCMS();
+          } else {
+            console.error('❌ CMS still not available');
           }
-        } else if (typeof event.data === 'string' && event.data.includes('authorization:github')) {
-          console.log('✅ GitHub OAuth string message:', event.data);
+        });
+      }
+      
+      function initializeCMS() {
+        try {
+          console.log('🎬 Starting CMS initialization...');
+          // Let CMS automatically find and load config.yml
+          window.CMS.init();
+          console.log('✅ CMS.init() called successfully');
+        } catch (error) {
+          console.error('❌ CMS initialization failed:', error);
         }
-      });
-      
-      // Initialize CMS with explicit config
-      document.addEventListener('DOMContentLoaded', function() {
-        console.log('🚀 Initializing Decap CMS...');
-        
-        // Load config file and initialize
-        fetch('{configUrl}')
-          .then(response => {
-            console.log('Config fetch response:', response.status, response.statusText);
-            if (!response.ok) {
-              throw new Error(`Config file not found: ${response.status}`);
-            }
-            return response.text();
-          })
-          .then(configText => {
-            console.log('✅ Config loaded successfully');
-            
-            // Initialize CMS
-            if (window.CMS) {
-              CMS.init().then(() => {
-                console.log('✅ CMS initialized successfully');
-              }).catch((error) => {
-                console.error('❌ CMS initialization error:', error);
-              });
-            } else {
-              console.error('❌ CMS not loaded');
-            }
-          })
-          .catch(error => {
-            console.error('❌ Config loading error:', error);
-            console.log('Trying to initialize without explicit config...');
-            
-            if (window.CMS) {
-              CMS.init({
-                config: {
-                  load_config_file: true
-                }
-              }).then(() => {
-                console.log('✅ CMS initialized with load_config_file');
-              }).catch((error) => {
-                console.error('❌ CMS initialization failed completely:', error);
-              });
-            }
-          });
-      });
-      
-      // Additional debugging for auth flow
-      console.log('🔧 Setting up auth debugging...');
-      
-      // Log when auth popup opens
-      const originalOpen = window.open;
-      window.open = function(...args) {
-        console.log('🔗 Auth popup opening with URL:', args[0]);
-        const popup = originalOpen.apply(this, args);
-        
-        // Monitor popup
-        if (popup) {
-          const checkClosed = setInterval(() => {
-            if (popup.closed) {
-              console.log('🔗 Auth popup closed');
-              clearInterval(checkClosed);
-            }
-          }, 1000);
-        }
-        
-        return popup;
-      };
+      }
     </script>
   </body>
 </html>
