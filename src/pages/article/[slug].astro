@@ -1,23 +1,24 @@
 ---
-import { getCollection } from "astro:content";
+import { type CollectionEntry, getCollection } from "astro:content";
 import BlogLayout from "../../layouts/BlogLayout.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
 import FeaturedCard from "../../components/FeaturedCard.astro";
 import Carousel from "../../components/Carousel.astro";
 import SiteOptions from "../../site.config.mjs";
-import { Image } from "astro:assets";
+// If your `large`/`thumb` are plain URLs/paths, <img> is often safer than astro:assets Image
+// import { Image } from "astro:assets";
 
-const { slug } = Astro.params;
-
-// Load post based on slug
-const allPosts = await getCollection("article");
-const post = allPosts.find((p) => p.slug === slug);
-
-if (!post) {
-  throw new Error(`❌ Post not found for slug: ${slug}`);
+export async function getStaticPaths() {
+  const posts = await getCollection("article");
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
 }
 
+type Post = CollectionEntry<"article">;
+const { post } = Astro.props as { post: Post };
 const {
   title,
   pubDate,
@@ -30,22 +31,26 @@ const {
   score,
   gallery,
 } = post.data;
+
 const { Content } = await post.render();
 
 const titleLines = title.includes("|")
   ? title.split("|").map((line) => line.trim())
   : [title];
 
+// we still need all posts for "you might also like"
+const allPosts = await getCollection("article");
 const featuredPosts = allPosts
   .filter((p) => p.slug !== post.slug && p.data.featured)
   .sort(() => Math.random() - 0.5)
   .slice(0, 3);
 
+const dateObj = pubDate instanceof Date ? pubDate : new Date(pubDate);
 const formattedDate = new Intl.DateTimeFormat("en-US", {
   year: "numeric",
   month: "long",
   day: "numeric",
-}).format(pubDate);
+}).format(dateObj);
 ---
 
 <BlogLayout title={title} description={description}>
@@ -58,7 +63,7 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={(thumb || large) ?? "/playtested.png"} />
-    <meta property="article:published_time" content={pubDate.toISOString()} />
+    <meta property="article:published_time" content={dateObj.toISOString()} />
 
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
@@ -66,8 +71,8 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       "headline": title,
       "description": description,
       "image": (thumb || large) ? [thumb || large] : undefined,
-      "datePublished": pubDate.toISOString(),
-      "dateModified": pubDate.toISOString(),
+      "datePublished": dateObj.toISOString(),
+      "dateModified": dateObj.toISOString(),
       "author": [{ "@type": "Person", "name": author }],
       "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href },
       "publisher": { "@type": "Organization", "name": "PlayTested" }
@@ -85,7 +90,7 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       onclick="window.scrollTo({ top: 190, behavior: 'smooth' })"
     >
       <div class="w-full max-w-5xl mx-auto xl:mx-4 flex flex-col lg:flex-row items-center lg:items-start gap-1 lg:gap-4 py-2 md:py-4 mb-2 lg:mb-4 px-2 md:px-0 text-center lg:text-left leading-tight">
-        {score && (
+        {typeof score !== "undefined" && score !== null && (
           <div class="shrink-0">
             <div class="article-score-badge beside-title mx-auto md:mx-0 scale-90 lg:scale-95 xl:scale-100">
               <span class="article-score-value text-base lg:text-lg xl:text-2xl">{score}</span>
@@ -105,15 +110,14 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       </div>
     </div>
 
-{Array.isArray(gallery) && gallery.length > 0 && (
-<div class="float-right w-full max-w-[420px] ml-8 mb-4 mt-4 sm:mt-16 md:mt-24 lg:mt-32">
+    {Array.isArray(gallery) && gallery.length > 0 && (
+      <div class="float-right w-full max-w-[420px] ml-8 mb-4 mt-4 sm:mt-16 md:mt-24 lg:mt-32">
         <Carousel images={gallery} />
       </div>
     )}
 
     <div class="text-sm text-gray-500 dark:text-gray-400 mb-4">
-      {formattedDate} • {author}
-      <span> • Category: {category}</span>
+      {formattedDate} • {author}{category && <span> • Category: {category}</span>}
     </div>
 
     {tags?.length > 0 && (
@@ -132,14 +136,8 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 
     {large && (
       <div class="mb-8 clear-both">
-        <Image
-          src={large}
-          alt={title}
-          width={800}
-          height={450}
-          loading="eager"
-          class="w-full h-auto rounded-lg shadow-md"
-        />
+        <!-- If large/thumb are file paths (e.g., /images/...), <img> is simpler -->
+        <img src={large} alt={title} class="w-full h-auto rounded-lg shadow-md" loading="eager" />
       </div>
     )}
 
@@ -148,25 +146,24 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
     >
       <Content />
 
-    <section id="comments" class="mt-12">
-  <script src="https://giscus.app/client.js"
-        data-repo="lyndon025/playtested"
-        data-repo-id="R_kgDOPaOyuA"
-        data-category="comments"
-        data-category-id="DIC_kwDOPaOyuM4CuBy3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
-</section>
-
+      <section id="comments" class="mt-12">
+        <script src="https://giscus.app/client.js"
+                data-repo="lyndon025/playtested"
+                data-repo-id="R_kgDOPaOyuA"
+                data-category="comments"
+                data-category-id="DIC_kwDOPaOyuM4CuBy3"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="preferred_color_scheme"
+                data-lang="en"
+                data-loading="lazy"
+                crossorigin="anonymous"
+                async>
+        </script>
+      </section>
     </div>
   </article>
 
@@ -178,9 +175,7 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
           {SiteOptions.labels.youMightAlsoLike}
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
-          {featuredPosts.map((p) => (
-            <FeaturedCard post={p} />
-          ))}
+          {featuredPosts.map((p) => <FeaturedCard post={p} />)}
         </div>
       </section>
     </>

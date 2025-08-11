@@ -11,6 +11,7 @@ const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 
 // ✅ Required for dynamic route generation
 export async function getStaticPaths() {
+  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
   const allPosts = await getCollection("article");
   const tagSet = new Set<string>();
 

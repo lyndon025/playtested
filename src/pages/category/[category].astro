@@ -10,6 +10,7 @@ import Pagination from "../../components/Pagination.astro";
 const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 
 export async function getStaticPaths() {
+  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
   const allPosts = await getCollection("article");
   const allCategories = Array.from(
     new Set(
