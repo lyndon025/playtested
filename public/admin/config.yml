@@ -22,18 +22,17 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-      - { label: "Author", name: "author", widget: "string", default: "lyndonguitar" }
-      - { label: "Short Description", name: "description", widget: "text" }
-      - { label: "Game", name: "game", widget: "string", required: false }
 
-      # Category dropdown (required)
+      - { label: "Description", name: "description", widget: "text" }
+
+      # Category: dropdown (required)
       - label: "Category"
         name: "category"
         widget: "select"
-        options: ["Review", "Tech", "Write-up"]
+        options: ["review", "tech", "write-up"]
         required: true
 
-      # Tags: at least 1, allow custom
+              # Tags: multiple select, at least 1, allow custom values
       - label: "Tags"
         name: "tags"
         widget: "select"
@@ -44,14 +43,19 @@ collections:
 
       - { label: "Featured on Home", name: "featured", widget: "boolean", default: false, required: false }
 
-      # Thumbnail required
+      # Thumbnail: required image
       - { label: "Thumbnail", name: "thumb", widget: "image", required: true }
 
-      # Gallery: optional list of image paths (strings)
+      - { label: "Author", name: "author", widget: "string", default: "lyndonguitar" }
+      - { label: "Game", name: "game", widget: "string", required: true }
+
+
+      # Gallery: optional list of images (array of strings)
       - label: "Gallery"
         name: "gallery"
         widget: "list"
         required: false
+        field: { label: "Image", name: "image", widget: "image" }
 
       - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false }
       - { label: "Body", name: "body", widget: "markdown" }

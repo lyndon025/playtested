@@ -1,6 +1,6 @@
 local_backend: true
 
-# Decap still requires a backend block in local mode
+# still required by Decap, not used in local mode
 backend:
   name: github
   repo: lyndon025/playtested
@@ -20,18 +20,16 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
 
-      - { label: "Author", name: "author", widget: "string", default: "lyndonguitar" }
-      - { label: "Short Description", name: "description", widget: "text" }
-      - { label: "Game", name: "game", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "text" }
 
-      # Category: dropdown (title-case to match existing files)
+      # Category: dropdown (required)
       - label: "Category"
         name: "category"
         widget: "select"
-        options: ["Review", "Tech", "Write-up"]
+        options: ["review", "tech", "write-up"]
         required: true
 
-      # Tags: multi-select, at least 1, allow custom values
+              # Tags: multiple select, at least 1, allow custom values
       - label: "Tags"
         name: "tags"
         widget: "select"
@@ -45,11 +43,16 @@ collections:
       # Thumbnail: required image
       - { label: "Thumbnail", name: "thumb", widget: "image", required: true }
 
-      # Gallery: OPTIONAL list of image paths (strings) — matches your MD exactly
+      - { label: "Author", name: "author", widget: "string", default: "lyndonguitar" }
+      - { label: "Game", name: "game", widget: "string", required: true }
+
+
+      # Gallery: optional list of images (array of strings)
       - label: "Gallery"
         name: "gallery"
         widget: "list"
         required: false
+        field: { label: "Image", name: "image", widget: "image" }
 
       - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
