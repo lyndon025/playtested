@@ -14,7 +14,7 @@ export const GET = async ({ site }) => {
 
   return rss({
     title: 'PlayTested',
-    description: 'PlayTested is a no-nonsense gaming review platform and tech blog. Objective, comprehensive reviews that cut through the noise. Powered by AI.',
+    description: 'PlayTested is a no-nonsense gaming review platform and tech blog. Objective, honest reviews that cut through the noise. Powered by AI.',
     site: site?.toString() ?? 'https://playtested.net',
     items
   });
