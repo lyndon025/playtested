@@ -21,11 +21,11 @@ export const GET = async ({ request, url, locals }: any) => {
     (request.headers.get("Cookie") || "").match(/(?:^|; )gh_oauth_state=([^;]+)/)?.[1] || "";
   const redirectUri = new URL("/auth/callback", url.origin).toString();
 
-  const send = (type: string, payload: string) =>
+  const send = (_type: string, payload: string) =>
     new Response(
       `<!doctype html><meta charset="utf-8"><script>
         (function () {
-          var msg = ${JSON.stringify("authorization:github:success:") } + ${JSON.stringify(payload)};
+          var msg = ${JSON.stringify("authorization:github:success:")} + ${JSON.stringify(payload)};
           function post(){ try{ window.opener && window.opener.postMessage(msg, "*"); }catch(e){} }
           post(); setTimeout(post, 50); setTimeout(post, 150);
           window.close();
