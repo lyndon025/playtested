@@ -1,12 +1,16 @@
+---
+const configUrl = import.meta.env.DEV ? "/admin/config.local.yml" : "/admin/config.yml";
+---
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="robots" content="noindex" />
-    <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
+    <link href={configUrl} rel="cms-config-url" type="text/yaml" />
     <title>Content Manager</title>
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
+    <script src="/admin/index.js" type="module"></script>
   </body>
 </html>

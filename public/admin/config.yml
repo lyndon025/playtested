@@ -2,12 +2,15 @@ backend:
   name: github
   repo: lyndon025/playtested
   branch: main
-  base_url: https://playtested.net
+  base_url: https://playtested.net        # e.g. https://playtested.pages.dev or your custom domain
   auth_endpoint: auth
   use_graphql: true
 
+site_url: https://playtested.net
+
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
+# remove the next line if you want direct commits to main
 publish_mode: editorial_workflow
 
 collections:

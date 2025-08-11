@@ -7,16 +7,16 @@ export async function onRequest({ request, env }) {
   const params = new URLSearchParams({
     client_id: env.GITHUB_CLIENT_ID,
     redirect_uri: redirectUri,
-    scope: "public_repo", // use "repo" if your repo is private
+    scope: "public_repo",           // change to "repo" if your repo is private
     state,
-    allow_signup: "true",
+    allow_signup: "true"
   });
 
-  const ghAuthorize = `https://github.com/login/oauth/authorize?${params.toString()}`;
-
-  const headers = new Headers({
-    "Location": ghAuthorize,
-    "Set-Cookie": `gh_oauth_state=${state}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=600`,
+  return new Response(null, {
+    status: 302,
+    headers: {
+      Location: `https://github.com/login/oauth/authorize?${params}`,
+      "Set-Cookie": `gh_oauth_state=${state}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=600`
+    }
   });
-  return new Response(null, { status: 302, headers });
 }

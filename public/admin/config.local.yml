@@ -2,7 +2,6 @@ local_backend: true
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
-publish_mode: editorial_workflow  # you can remove this line if you prefer direct writes
 
 collections:
   - name: "article"
