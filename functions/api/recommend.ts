@@ -24,7 +24,7 @@ Do not include any explanations.`;
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "gpt-4",
+      model: "google/gemini-2.5-flash-lite",
       messages: [
         { role: "system", content: "You are a game recommendation expert. Only respond with game titles." },
         { role: "user", content: prompt },
