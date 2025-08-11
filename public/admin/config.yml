@@ -1,13 +1,12 @@
 # public/admin/config.yml
 backend:
   name: github
-  repo: lyndon025/playtested
+  repo: lyndon025/playtested # Your GitHub repo
   branch: main
-  base_url: https://www.playtested.net   # pick ONE host and stick to it
-  auth_endpoint: auth                    # maps to src/pages/auth.ts
-  use_graphql: false                     # flip to true later if you want
+  base_url: https://www.playtested.net # Your production URL
+  auth_endpoint: /auth # The path to your auth endpoint
 
-site_url: https://www.playtested.net
+site_url: https://www.playtested.net # Your production URL
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"

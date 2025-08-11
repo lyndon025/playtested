@@ -1,18 +1,18 @@
 ---
-// src/pages/admin.astro
-const configUrl = import.meta.env.DEV
-  ? "/admin/config.local.yml"   // local offline
-  : "/admin/config.yml";        // live OAuth
+// Use the production config for production, and the local one for development.
+const configUrl = import.meta.env.PROD ? "/admin/config.yml" : "/admin/config.local.yml";
 ---
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <link href={configUrl} rel="cms-config-url" type="text/yaml" />
     <title>Content Manager</title>
   </head>
   <body>
+    <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
     <script src="/admin/index.js" type="module"></script>
   </body>
