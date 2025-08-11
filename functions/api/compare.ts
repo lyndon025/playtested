@@ -17,7 +17,7 @@ Compare them naturally but systematically. Focus on:
 - Story and characters
 - Overall vibe and setting
 
-Mention if any are sequels or part of a series. Use full sentences. No markdown or bullet points.`;
+Mention if any are sequels or part of a series. Use full sentences. No markdown or bullet points. Line line spaces to separate paragraphs`;
 
   const aiResponse = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
