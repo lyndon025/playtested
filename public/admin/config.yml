@@ -4,7 +4,7 @@ backend:
   branch: main
   base_url: https://www.playtested.net     
   auth_endpoint: auth
-  use_graphql: true
+  use_graphql: false
 
 site_url: https://www.playtested.net
 
