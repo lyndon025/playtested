@@ -11,6 +11,8 @@ const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 
 // 1) Generate dynamic paths for tag pages 2…N
 export async function getStaticPaths() {
+  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
+
   const allPosts = await getCollection("article");
   const tagMap = new Map<string, number>();
 
