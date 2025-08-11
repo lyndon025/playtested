@@ -170,6 +170,8 @@ class="absolute top-[20px] w-[280px] lg:w-full flex flex-col lg:flex-row lg:item
     document.addEventListener("DOMContentLoaded", () => {
       Theme.syncIcon();
       Theme.syncAria();
+      setTimeout(() => setGiscusTheme(Theme.get() === "dark" ? "dark_dimmed" : "light"), 0);
+
     });
     window.addEventListener("resize", Theme.syncIcon);
 
