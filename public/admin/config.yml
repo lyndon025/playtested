@@ -3,7 +3,7 @@ logo_url: "/images/logo01.avif"
 backend:
   name: github
   repo: lyndon025/playtested
-  branch: exp
+  branch: main
   base_url: https://playtested.net
   auth_endpoint: auth
   use_graphql: false
