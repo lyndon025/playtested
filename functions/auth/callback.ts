@@ -13,18 +13,25 @@ async function exchangeToken(code: string, redirectUri: string, env: any) {
   return r.json();
 }
 
-function popupMessage(type: string, payload: string) {
-  return new Response(
-    `<!doctype html><meta charset="utf-8"><script>
-      (function () {
-        var msg = ${JSON.stringify(type)} + ':' + ${JSON.stringify(payload)};
-        function post(){ try{ window.opener && window.opener.postMessage(msg, '*'); }catch(e){} }
-        post(); setTimeout(post, 50); setTimeout(post, 150);
-        window.close();
+function popupMessage(type: string, payload: any) {
+  const msg = `${type}:${JSON.stringify(payload)}`;
+  return `
+    <!doctype html>
+    <meta charset="utf-8">
+    <script>
+      (function() {
+        function receiveMessage(e) {
+          console.log("receiveMessage %o", e);
+          window.opener.postMessage(
+            ${JSON.stringify(msg)},
+            e.origin
+          );
+        }
+        window.addEventListener("message", receiveMessage, false);
+        // Signal to opener that we're ready
+        window.opener.postMessage("authorizing:github", "*");
       })();
-    </script>`,
-    { headers: { "Content-Type": "text/html; charset=utf-8" } }
-  );
+    </script>`;
 }
 
 export const onRequestGet: PagesFunction = async ({ request, env }) => {
@@ -35,15 +42,15 @@ export const onRequestGet: PagesFunction = async ({ request, env }) => {
   const expected = cookie.match(/(?:^|; )gh_oauth_state=([^;]+)/)?.[1] || "";
   const redirectUri = `${url.origin}/auth/callback`;
 
-  if (!code) return popupMessage("authorization:github:error", "missing_code");
-  if (!state || state !== expected) return popupMessage("authorization:github:error", "bad_state");
+  if (!code) return new Response(popupMessage("authorization:github:error", { error: "missing_code" }), { headers: { "Content-Type": "text/html; charset=utf-8" } });
+  if (!state || state !== expected) return new Response(popupMessage("authorization:github:error", { error: "bad_state" }), { headers: { "Content-Type": "text/html; charset=utf-8" } });
 
   try {
     const data = await exchangeToken(code, redirectUri, env);
     const token = data?.access_token;
-    if (!token) return popupMessage("authorization:github:error", "no_token");
-    return popupMessage("authorization:github:success", token);
+    if (!token) return new Response(popupMessage("authorization:github:error", { error: "no_token" }), { headers: { "Content-Type": "text/html; charset=utf-8" } });
+    return new Response(popupMessage("authorization:github:success", { token, provider: "github" }), { headers: { "Content-Type": "text/html; charset=utf-8" } });
   } catch (e: any) {
-    return popupMessage("authorization:github:error", String(e?.message || e));
+    return new Response(popupMessage("authorization:github:error", { error: String(e?.message || e) }), { headers: { "Content-Type": "text/html; charset=utf-8" } });
   }
 };
