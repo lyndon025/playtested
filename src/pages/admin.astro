@@ -1,5 +1,6 @@
 ---
-// Simple approach - let CMS find config automatically
+// Determine config file based on environment
+const configUrl = import.meta.env.DEV ? "/config.local.yml" : "/config.yml";
 ---
 <!doctype html>
 <html lang="en">
@@ -8,54 +9,65 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
   <body>
-    <!-- Use a known stable version -->
+    <!-- Decap CMS Script - using a more stable version -->
     <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
     
-    <!-- Load custom preview -->
-    <script src="/admin/index.js"></script>
+    <!-- Custom preview templates -->
+    <script src="/admin/index.js" type="module"></script>
     
-    <!-- Simple initialization with debugging -->
+    <!-- Debug and Initialize -->
     <script>
-      console.log('🚀 Admin page loaded');
+      console.log('Admin page loaded');
+      console.log('Environment:', {
+        configUrl: '{configUrl}',
+        currentUrl: window.location.href
+      });
       
-      // OAuth message debugging
-      window.addEventListener('message', (event) => {
-        console.log('📨 Received message:', event.data);
+      // Debug OAuth messages
+      window.addEventListener('message', function(event) {
+        console.log('🔍 Message received:', event.data);
         
-        if (typeof event.data === 'string' && event.data.includes('authorization:github')) {
-          console.log('🔐 OAuth message:', event.data);
-        } else if (event.data?.type?.includes?.('authorization:github')) {
-          console.log('🔐 OAuth object:', event.data);
+        // Log authorization messages specifically
+        if (event.data && typeof event.data === 'object' && event.data.type) {
+          if (event.data.type.includes('authorization:github')) {
+            console.log('✅ GitHub OAuth message:', event.data);
+          }
+        } else if (typeof event.data === 'string' && event.data.includes('authorization:github')) {
+          console.log('✅ GitHub OAuth string message:', event.data);
         }
       });
       
-      // Wait for CMS to load then initialize
-      if (window.CMS) {
-        console.log('✅ CMS available immediately');
-        initializeCMS();
-      } else {
-        window.addEventListener('load', () => {
-          console.log('🔄 Window loaded, checking for CMS...');
-          if (window.CMS) {
-            initializeCMS();
-          } else {
-            console.error('❌ CMS still not available');
+      // Simple CMS initialization
+      window.addEventListener('load', function() {
+        console.log('🚀 Window loaded, initializing CMS...');
+        
+        if (window.CMS) {
+          try {
+            // Simple initialization
+            window.CMS.init({
+              config: {
+                load_config_file: true
+              }
+            });
+            console.log('✅ CMS initialization started');
+          } catch (error) {
+            console.error('❌ CMS initialization error:', error);
+            
+            // Fallback - try without explicit config
+            try {
+              window.CMS.init();
+              console.log('✅ CMS fallback initialization started');
+            } catch (fallbackError) {
+              console.error('❌ CMS fallback failed:', fallbackError);
+            }
           }
-        });
-      }
-      
-      function initializeCMS() {
-        try {
-          console.log('🎬 Starting CMS initialization...');
-          // Let CMS automatically find and load config.yml
-          window.CMS.init();
-          console.log('✅ CMS.init() called successfully');
-        } catch (error) {
-          console.error('❌ CMS initialization failed:', error);
+        } else {
+          console.error('❌ CMS not available');
         }
-      }
+      });
     </script>
   </body>
 </html>
