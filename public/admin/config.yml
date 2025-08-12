@@ -17,16 +17,19 @@ publish_mode: editorial_workflow
 
 collections:
 
-  - name: "submission"
+  - name: "submissions"
     label: "User Submissions"
     folder: "src/content/submissions"
     create: true
     slug: "{{slug}}"
+    preview_path: "article/{{slug}}"
+    sortable_fields: ["draft", "commit_date", "pubDate", "title"]
+    sort: "draft:desc, commit_date:desc"
     extension: "md"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Description", name: "description", widget: "text" }
 
       # Category: dropdown (required)
@@ -69,11 +72,14 @@ collections:
     folder: "src/content/article"
     create: true
     slug: "{{slug}}"
+    preview_path: "article/{{slug}}"
+    sortable_fields: ["draft", "commit_date", "pubDate", "title"]
+    sort: "draft:desc, commit_date:desc"
     extension: "md"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Description", name: "description", widget: "text" }
 
       # Category: dropdown (required)

@@ -14,16 +14,19 @@ public_folder: "/images/uploads"
 
 collections:
 
-  - name: "submission"
+  - name: "submissions"
     label: "User Submissions"
     folder: "src/content/submissions"
     create: true
     slug: "{{slug}}"
+    preview_path: "article/{{slug}}"
+    sortable_fields: ["draft", "commit_date", "pubDate", "title"]
+    sort: "draft:desc, commit_date:desc"
     extension: "md"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Description", name: "description", widget: "text" }
 
       # Category: dropdown (required)
@@ -66,11 +69,14 @@ collections:
     folder: "src/content/article"
     create: true
     slug: "{{slug}}"
+    preview_path: "article/{{slug}}"
+    sortable_fields: ["draft", "commit_date", "pubDate", "title"]
+    sort: "draft:desc, commit_date:desc"
     extension: "md"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Description", name: "description", widget: "text" }
 
       # Category: dropdown (required)
@@ -107,6 +113,3 @@ collections:
 
       - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-
-      
-
