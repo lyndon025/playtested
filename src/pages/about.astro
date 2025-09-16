@@ -201,19 +201,18 @@ const siteTitle = SiteOptions.siteTitle || "PlayTested";
   <Footer />
 
   <!-- JSON‑LD (use set:html so it’s valid JSON to Google) -->
-  <script
-    type="application/ld+json"
-    set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": siteTitle,
-      "url": "https://playtested.net",
-      "description": "Patient-gamer reviews with clear verdicts, scoring, and AI tools for recommendations and comparisons.",
-      "inLanguage": "en",
-      "publisher": {
-        "@type": "Organization",
-        "name": siteTitle
-      }
-    })}
-  />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "PlayTested",
+  "url": "https://playtested.net",
+  "description": "Patient-gamer reviews with clear verdicts, scoring, and AI tools for recommendations and comparisons.",
+  "inLanguage": "en",
+  "publisher": {
+    "@type": "Organization",
+    "name": "PlayTested"
+  }
+}
+</script>
 </BlogLayout>
