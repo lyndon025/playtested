@@ -15,6 +15,15 @@ featured: false
 thumb: /images/uploads/shadowofwar04.avif
 author: lyndonguitar
 game: "Middle-earth: Shadow of War"
+gallery:
+  - /images/uploads/shadowofwar01.avif
+  - /images/uploads/shadowofwar02.avif
+  - /images/uploads/shadowofwar03.avif
+  - /images/uploads/shadowofwar04.avif
+  - /images/uploads/shadowofwar05.avif
+  - /images/uploads/shadowofwar06.avif
+  - /images/uploads/shadowofwar07.avif
+  - /images/uploads/shadowofwar08.avif
 score: 8.5
 ---
 
