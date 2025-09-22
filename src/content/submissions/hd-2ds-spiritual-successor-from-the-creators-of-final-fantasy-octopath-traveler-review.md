@@ -27,7 +27,7 @@ This was the first HD-2D game Square Enix developed along with Acquire. This is 
 
 You start the game by picking the character of your choosing which is a nice touch and a huge upgrade to the JRPG class system based on your class preference. What I liked about the game itself is that it allows you to have interactions with NPCs that allows you to purchase items that are normally missing through the shops and armorer, inquire to gain valuable information and to be more receptive with certain actions in the field, challenge to a battle to gain item drops that are not normally present through other means of acquiring and guide the NPC which allows the said NPC to be summoned during battles.
 
-This game has a lot of flexibility in terms of exploring the world since you can go to different regions to your hearts content. You can choose to continue the next chapter of the character's tale or choose to explore the rest of the world. Everything else is up to you.
+This game has a lot of flexibility in terms of exploring the world since you can go to different regions to your heart's content. You can choose to continue the next chapter of the character's tale or choose to explore the rest of the world. Everything else is up to you.
 
 Soundtrack is great and there is so much to love for the background music.
 
