@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import SiteOptions from "../../../site.config.mjs";
 import BlogLayout from "../../../layouts/BlogLayout.astro";
 import Header from "../../../components/Header.astro";
@@ -10,36 +10,44 @@ import Pagination from "../../../components/Pagination.astro";
 // Posts-per-page constant
 const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 
+// Define a union type for collections
+type CombinedCollectionEntry = CollectionEntry<"article"> | CollectionEntry<"submissions">;
+
+// Required for dynamic route generation
 export async function getStaticPaths() {
-  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
-  const allPosts = await getCollection("article");
-  const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+  const articles = await getCollection("article");
+  const submissions = await getCollection("submissions");
+  const allContent: CombinedCollectionEntry[] = [...articles, ...submissions];
+  const totalPages = Math.ceil(allContent.length / POSTS_PER_PAGE);
   return Array.from({ length: totalPages }, (_, i) => ({
     params: { page: String(i + 1) },
   }));
 }
 
-// 2) Extract and validate `page`
+// Extract and validate `page`
 const { page } = Astro.params;
 const currentPage = Number(page);
 
-// 3) Fetch & sort newest → oldest
-const allPosts = await getCollection("article");
+// Fetch & sort newest → oldest
+const articles = await getCollection("article");
+const submissions = await getCollection("submissions");
+const allPosts: CombinedCollectionEntry[] = [...articles, ...submissions];
+
 const sortedPosts = allPosts.sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 
-// 4) Calculate pagination slice
+// Calculate pagination slice
 const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE);
 const start = (currentPage - 1) * POSTS_PER_PAGE;
 const paginated = sortedPosts.slice(start, start + POSTS_PER_PAGE);
 
-// 5) Bounds check
+// Bounds check
 if (currentPage < 1 || currentPage > totalPages) {
   throw Astro.error(404, "Page not found");
 }
 
-// 6) Build pageData for Pagination component
+// Build pageData for Pagination component
 const pageData = {
   data: paginated,
   url: {
@@ -62,7 +70,7 @@ const pageData = {
     All Posts (Page {currentPage} of {totalPages})
   </h1>
 
-<ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
+  <ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
     {paginated.map((post) => <PostCard post={post} />)}
   </ul>
 

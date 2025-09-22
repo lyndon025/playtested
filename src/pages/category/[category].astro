@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import SiteOptions from "../../site.config.mjs";
 import BlogLayout from "../../layouts/BlogLayout.astro";
 import Header from "../../components/Header.astro";
@@ -8,31 +8,26 @@ import PostCard from "../../components/PostCard.astro";
 import Pagination from "../../components/Pagination.astro";
 
 const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
+type CombinedCollectionEntry = CollectionEntry<"article"> | CollectionEntry<"submissions">;
 
 export async function getStaticPaths() {
-  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
-  const allPosts = await getCollection("article");
-  const allCategories = Array.from(
-    new Set(
-      allPosts
-        .map(p =>
-          p.data.category?.toLowerCase().replace(/\s+/g, "-")
-        )
-        .filter(Boolean)
-    )
-  );
+  const articles = await getCollection("article");
+  const submissions = await getCollection("submissions");
+  const allContent: CombinedCollectionEntry[] = [...articles, ...submissions];
+  const allCategories = Array.from(new Set(
+    allContent.map(p => p.data.category?.toLowerCase().replace(/\s+/g, "-")).filter(Boolean)
+  ));
   return allCategories.map(category => ({ params: { category } }));
 }
 
 const { category } = Astro.params;
+const articles = await getCollection("article");
+const submissions = await getCollection("submissions");
+const allContent: CombinedCollectionEntry[] = [...articles, ...submissions];
 
-const allPosts = await getCollection("article");
-const postsInCat = allPosts
-  .filter(
-    p =>
-      p.data.category
-        ?.toLowerCase()
-        .replace(/\s+/g, "-") === category
+const postsInCat = allContent
+  .filter(p =>
+    p.data.category?.toLowerCase().replace(/\s+/g, "-") === category
   )
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
@@ -62,9 +57,7 @@ const isGrid = ["review", "reviews"].includes(category);
   </h1>
 
   {isGrid ? (
-    // Use a div grid instead of ul/li
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
-
       {paginated.map(post => (
         <PostCard post={post} />
       ))}

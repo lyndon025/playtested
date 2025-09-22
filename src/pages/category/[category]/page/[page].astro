@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import SiteOptions from "../../../../site.config.mjs";
 import BlogLayout from "../../../../layouts/BlogLayout.astro";
 import Header from "../../../../components/Header.astro";
@@ -8,14 +8,15 @@ import PostCard from "../../../../components/PostCard.astro";
 import Pagination from "../../../../components/Pagination.astro";
 
 const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
+type CombinedCollectionEntry = CollectionEntry<"article"> | CollectionEntry<"submissions">;
 
 // 1) Generate dynamic paths for category pages 2…N
 export async function getStaticPaths() {
-  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
-  const allPosts = await getCollection("article");
+  const articles = await getCollection("article");
+  const submissions = await getCollection("submissions");
+  const allContent: CombinedCollectionEntry[] = [...articles, ...submissions];
   const categories = new Map<string, any[]>();
-
-  for (const post of allPosts) {
+  for (const post of allContent) {
     const slug = post.data.category?.toLowerCase().replace(/\s+/g, "-");
     if (!slug) continue;
     if (!categories.has(slug)) categories.set(slug, []);
@@ -29,7 +30,6 @@ export async function getStaticPaths() {
       paths.push({ params: { category: slug, page: i.toString() } });
     }
   }
-
   return paths;
 }
 
@@ -37,8 +37,11 @@ export async function getStaticPaths() {
 const { category, page } = Astro.params;
 const currentPage = Number(page);
 
-const allPosts = await getCollection("article");
-const posts = allPosts
+const articles = await getCollection("article");
+const submissions = await getCollection("submissions");
+const allContent: CombinedCollectionEntry[] = [...articles, ...submissions];
+
+const posts = allContent
   .filter(
     (post) =>
       post.data.category?.toLowerCase().replace(/\s+/g, "-") === category
@@ -73,6 +76,11 @@ const pageData = {
 
 // 6) Decide grid vs list mode based on category slug
 const isGrid = ["review", "reviews"].includes(category);
+
+if (currentPage < 1 || currentPage > totalPages) {
+  throw Astro.error(404, "Page not found");
+}
+
 ---
 
 <BlogLayout
@@ -91,13 +99,15 @@ const isGrid = ["review", "reviews"].includes(category);
   </h1>
 
   {
-    isGrid ? (
+    isGrid ?
+    (
       <ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
         {paginated.map((post) => (
           <PostCard post={post} />
         ))}
       </ul>
-    ) : (
+    ) :
+    (
       <ul class="space-y-4">
         {paginated.map((post) => (
           <li>
