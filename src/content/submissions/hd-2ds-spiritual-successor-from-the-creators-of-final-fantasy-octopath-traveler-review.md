@@ -29,4 +29,8 @@ You start the game by picking the character of your choosing which is a nice tou
 
 This game has a lot of flexibility in terms of exploring the world since you can go to different regions to your hearts content. You can choose to continue the next chapter of the character's tale or choose to explore the rest of the world. Everything else is up to you.
 
-For completionists, you will need to play the game at a slower pace that requires you to analyse all enemies without missing its entries no matter what. Which means, if there is a boss mechanic that changes weaknesses, you must exactly all of its weakness variations.
+Soundtrack is great and there is so much to love for the background music.
+
+For completionists, you will need to play the game at a slower pace that requires you to analyse non-one time encounters enemies without missing its entries. Once you recruited travelers, the danger level will increase. Good thing that one-time encounters such as bosses for each chapter are not required. It may be possible to miss enemies and not exploit its weaknesses if you are playing blindly.
+
+The difficulty curve of this game makes the game feel like a drag if you are still not familiar with the abilities of the classes of your travelers which can make the battle not just lengthier, but the lack of familiarity of the travelers' ability itself can punish you at times at a later chapter. Utilising support skills can change the tide of the battle as well as purchasing Job Points to learn new abilities for the travelers to use for its related subclass. Not to mention, punishing drop rates just to get certain items can make the game feel like a gacha game. Getting more experience points just to align with the danger level on later chapters can also make your playthrough a bit longer if you're not really focusing on maintaining traveler levels.
