@@ -24,7 +24,7 @@ gallery:
   - /images/uploads/olberic_octopath.avif
   - /images/uploads/ophilia_octopath.avif
   - /images/uploads/alfyn_octopath.avif
-score: 6.9
+score: 7
 ---
 This was the first HD-2D game Square Enix developed along with Acquire. This is a good spiritual successor of Bravely Default but this game can be a huge time sink due to eight characters having different stories. Characters you have recruited during the course of your playthrough will scale accordingly depending on the number of travelers you have recruited after. 
 
