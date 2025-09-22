@@ -3,7 +3,10 @@ title: HD-2D's Spiritual Successor from the creators of Final Fantasy | Octopath
   Traveler Review
 pubDate: 2025-09-21T13:26:00.000+08:00
 draft: true
-description: Description
+description: Octopath Traveler is a game that allows you to explore the world of
+  Orsterra featuring the eight travelers - each with their own stories to tell.
+  Its soundtrack and its gameplay is a spiritual successor of the likes of Final
+  Fantasy, developed and published by Square Enix and Acquire.
 category: review
 tags:
   - PC
