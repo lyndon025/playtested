@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import BlogLayout from "../layouts/BlogLayout.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -7,24 +7,27 @@ import PostCard from "../components/PostCard.astro";
 import FeaturedCard from "../components/FeaturedCard.astro";
 import SiteOptions from "../site.config.mjs";
 
-// fetch & sort posts
-const allPosts = await getCollection("article");
+// Fetch both collections
+const allArticles = await getCollection("article");
+const allSubmissions = await getCollection("submissions");
+
+// Combine them into a single array
+type CombinedCollectionEntry = CollectionEntry<"article"> | CollectionEntry<"submission">;
+const allPosts: CombinedCollectionEntry[] = [...allArticles, ...allSubmissions];
+
+// Sort all combined posts by publication date
 const sortedPosts = allPosts.sort(
-  (a, b) =>
-    new Date(b.data.pubDate).valueOf() -
-    new Date(a.data.pubDate).valueOf()
+  (a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
 );
 
-// featuredPosts up to N
-const featuredPosts = allPosts
+// Filter featured posts from the combined array
+const featuredPosts = sortedPosts
   .filter((post) => post.data.featured)
   .slice(0, SiteOptions.numberOfFeaturedPostsOnHomePage || 12);
 
-// latest posts for below
-const latestPosts = sortedPosts.slice(
-  0,
-  SiteOptions.numberOfLatestPostsOnHomePage || 6
-);
+// Slice the latest posts from the combined, sorted array
+const latestPosts = sortedPosts.slice(0, SiteOptions.numberOfLatestPostsOnHomePage || 6);
+
 const showCategory = SiteOptions.showCategoryOnPosts || false;
 
 // carousel settings
@@ -49,7 +52,6 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
 
   <Header />
 
-
   {SiteOptions.showFeaturrdPostsOnHomePage && featuredPosts.length > 0 && (
     <section class="lg:pt-6 pb-8">
       <h2 class="mt-0 mb-2 text-2xl font-semibold text-center">
@@ -57,7 +59,6 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
       </h2>
 
       <div class="relative">
-        <!-- Prev / Next -->
         <button
           id="carousel-prev"
           class="absolute left-0 top-2/7 -translate-y-1/2 z-20 p-4 bg-white dark:bg-slate-700 rounded-full shadow-lg text-2xl disabled:opacity-50 cursor-pointer"
@@ -67,14 +68,13 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
           class="absolute right-0 top-2/7 -translate-y-1/2 z-20 p-4 bg-white dark:bg-slate-700 rounded-full shadow-lg text-2xl disabled:opacity-50 cursor-pointer"
         >❯</button>
 
-        <!-- Track -->
         <div id="carousel-viewport" class="overflow-hidden">
           <div
             id="carousel-track"
             class="flex transition-transform duration-300 ease-in-out items-stretch"
           >
             {featuredPosts.map((post) => (
-<div class="carousel-item w-full sm:w-1/2 lg:w-1/3 flex-shrink-0 px-2 overflow-hidden h-auto">
+              <div class="carousel-item w-full sm:w-1/2 lg:w-1/3 flex-shrink-0 px-2 overflow-hidden h-auto">
                 <div class="h-full flex flex-col">
                   <FeaturedCard post={post} />
                 </div>
@@ -83,12 +83,9 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
           </div>
         </div>
 
-        <!-- Indicators: 1 dummy start, N pages, 1 dummy end -->
         <div id="carousel-indicators" class="flex justify-center mt-4 space-x-2">
-          <!-- DUMMY START -->
           <div class="w-6 h-2 rounded bg-gray-400 dark:bg-gray-700"></div>
 
-          <!-- REAL PAGE BUTTONS -->
           {Array.from({ length: pages }, (_, p) => (
             <button
               class="indicator w-6 h-2 rounded bg-gray-300 dark:bg-gray-600 cursor-pointer"
@@ -96,21 +93,19 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
             />
           ))}
 
-          <!-- DUMMY END -->
           <div class="w-6 h-2 rounded bg-gray-400 dark:bg-gray-700"></div>
         </div>
       </div>
     </section>
   )}
 
-  <!-- Latest Posts… -->
   <section class="py-1">
     {SiteOptions.labels.latestPosts && (
       <h2 class="text-2xl font-semibold mb-5 text-center">
         {SiteOptions.labels.latestPosts}
       </h2>
     )}
-<ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
+    <ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
       {latestPosts.map((post) => (
         <PostCard post={post} showCategory={showCategory} />
       ))}
@@ -143,11 +138,11 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
 </BlogLayout>
 
 <script type="module">
+  // ... (the existing JavaScript code for the carousel)
   const track = document.getElementById("carousel-track");
   const prevBtn = document.getElementById("carousel-prev");
   const nextBtn = document.getElementById("carousel-next");
   const indicators = Array.from(document.querySelectorAll(".indicator"));
-
   function getVisibleCount() {
     const w = window.innerWidth;
     if (w < 640) return 1;
@@ -185,19 +180,15 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
   prevBtn.addEventListener("click", () => {
     if (idx > 0) { idx--; slide(); }
   });
-
   nextBtn.addEventListener("click", () => {
     if (idx < maxIdx) { idx++; slide(); }
   });
-
   indicators.forEach((btn) => {
     btn.addEventListener("click", () => {
       idx = parseInt(btn.dataset.page, 10);
       slide();
     });
   });
-
   window.addEventListener("load", slide);
   window.addEventListener("resize", slide);
 </script>
-
