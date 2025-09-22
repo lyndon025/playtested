@@ -12,6 +12,7 @@ type CombinedCollectionEntry = CollectionEntry<"article"> | CollectionEntry<"sub
 
 // 1) Generate dynamic paths for category pages 2…N
 export async function getStaticPaths() {
+  const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
   const articles = await getCollection("article");
   const submissions = await getCollection("submissions");
   const allContent: CombinedCollectionEntry[] = [...articles, ...submissions];
