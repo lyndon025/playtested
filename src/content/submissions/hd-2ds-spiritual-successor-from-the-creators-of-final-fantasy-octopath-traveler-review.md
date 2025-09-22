@@ -12,7 +12,7 @@ tags:
   - PC
   - Console
 featured: false
-thumb: /images/uploads/octopath.avif
+thumb: /images/uploads/20250914180214_1.avif
 author: mcytg
 game: Octopath Traveler
 gallery:
