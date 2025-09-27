@@ -46,14 +46,13 @@ However, despite putting the game down, its cozy atmosphere and unique vibe reso
 * 🏷️ The game is fundamentally mislabeled; it's more of a cozy adventure, not a deep RPG or demanding survival experience.
 * 🧱 The gliding controls can occasionally work against the player, leading to small, frustrating moments of movement friction.
 
-
 - - -
 
 ![](/images/uploads/haven04.avif)
 
-The feeling of being stranded in another world, yet carrying your own cozy environment with you (a ship full of life, set in beautiful landscapes, and equipped with impressive gliding technology) all grew in my imagination. I always imagined returning to it someday after putting it down years ago, keeping it listed in my spreadsheet of "to play eventually" Well, that day finally came a few weeks ago when I installed it on my Steam Deck.
+The feeling of being stranded in another world, yet carrying your own cozy environment with you (a ship full of life and personality), set in beautiful landscapes, and equipped with impressive gliding technology, all grew in my imagination. I always imagined returning to it someday after putting it down years ago, keeping it listed in my spreadsheet of "to play eventually" Well, that day finally came a few weeks ago when I installed it on my Steam Deck.
 
-I would argue that Haven is far more of a cozier, calming adventure and romantic couple story than it is the RPG survival game it is often described as, perhaps by the developers themselves in an attempt to reach a wider audience. The core of the gameplay is navigating a planet full of islets connected by "flow bridges," an energy phenomenon that also powers your impressive gliders, allowing you to seamlessly travel the beautiful landscape, fight corrupted enemies, purify the land, and find resources for crafting and cooking. 
+I would argue that Haven is far more of a cozier, calming adventure and romantic couple story than it is the RPG survival game it is often described as, perhaps by even the developers themselves in an attempt to reach a wider audience. The core of the gameplay is navigating a planet full of islets connected by "flow bridges," an energy phenomenon that also powers your impressive gliders, allowing you to seamlessly travel the beautiful landscape, fight corrupted enemies, purify the land, and find resources for crafting and cooking. 
 
 The gliding is the main traversal method and boy it is fun to zip across the land, giving movement a satisfying rhythm that syncs perfectly with the soundtrack. This traversal method is designed for both solo and coop. In **solo play**, you control both characters simultaneously, they follow each other around. In coop play, one player glides while the other (still following the gliding player) can collect resources and activate boosts. My only **gripe** is that the gliding can sometimes work against the player, but those experiences are few and far between.
 
