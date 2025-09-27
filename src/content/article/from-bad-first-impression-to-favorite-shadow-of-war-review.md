@@ -26,10 +26,34 @@ gallery:
   - /images/uploads/shadowofwar08.avif
 score: 8.5
 ---
-
-
-
 I was a huge fan of the first game, *Shadow of Mordor*. So when *Shadow of War* was announced, promising a bigger scale of the same formula - a third-person action-adventure RPG that felt like a hybrid of the **Batman Arkham** and **Assassin's Creed** series - I was immediately excited. What could possibly go wrong?
+
+
+
+## Pros
+
+
+* ⚔️ The Nemesis, Follower, and Fortress systems all deliver a highly addictive, dynamic cycle of personalized conquest and betrayal. A much expanded system from the first game.
+
+* 📜 The story takes a bold, compelling "What If" approach to *Lord of the Rings* lore, which ultimately works brilliantly as a fresh take.
+
+* 💥 The combat system remains a satisfying free-flow experience, allowing you to fluidly chain attacks, counters, and diverse abilities.
+
+* 💍 The addictive gear system constantly rewards you for completing specific challenges to unlock each item's legendary power.
+
+* 🗺️ Side quests are so well-designed and integrated that their storytelling matches the quality of the main campaign.
+
+* 📱 The graphics still hold up exceptionally well, and the game is a fantastic fit for the Steam Deck, running great on the go.
+
+## Cons
+
+* 🐌 The first few hours can be slow, and could act as a significant barrier, as the game takes too long to ramp up and hook the player.
+
+* 🔗 The larger scale and multiple maps results in a less tight experience where the different regions can feel disjointed and not connected to each other especially with regards to the Nemesis system.
+
+
+
+---
 
 Well, as it turned out, the launch was botched by the inclusion of a pay-to-win system and excessive, grindy elements. I was so put off that I totally lost all the hype and ignore the game on release. Being the patient gamer that I am, I was able to finally try the game in 2021, the microtransactions were gone, but something about the early hours still didn't click for me. i didnt get hooked in enough to play past the the first area. Maybe it was because the cool abilities from the end of the first game were gone because the main character got nerfed in the story (understandably), or maybe the massive scale felt overwhelming. Whatever the reason, the game just didn't hook me. I dropped it, refunded it, and for years, I was content to believe I'd never play it again.
 
