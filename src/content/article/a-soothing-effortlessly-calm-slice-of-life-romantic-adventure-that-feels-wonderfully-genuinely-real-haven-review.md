@@ -26,7 +26,7 @@ gallery:
   - /images/uploads/haven05.avif
   - /images/uploads/haven13.avif
   - /images/uploads/haven07.avif
-score: 8.9
+score: 9
 ---
 I first started Haven years ago on Game Pass with my partner, but frankly, it didn't click for us, especially as a co-op or 'couple game.' It’s supposedly a very light sci-fi RPG about two lovers, Yu and Kay, who have fled to an alien but beautiful world to escape an oppressive society and are fighting to keep their relationship alive. 
 
@@ -48,23 +48,17 @@ However, despite putting the game down, its cozy atmosphere and unique vibe reso
 
 - - -
 
-![](/images/uploads/haven04.avif)
-
 The feeling of being stranded in another world, yet carrying your own cozy environment with you (a ship full of life and personality), set in beautiful landscapes, and equipped with impressive gliding technology, all grew in my imagination. I always imagined returning to it someday after putting it down years ago, keeping it listed in my spreadsheet of "to play eventually" Well, that day finally came a few weeks ago when I installed it on my Steam Deck.
 
 I would argue that Haven is far more of a cozier, calming adventure and romantic couple story than it is the RPG survival game it is often described as, perhaps by even the developers themselves in an attempt to reach a wider audience. The core of the gameplay is navigating a planet full of islets connected by "flow bridges," an energy phenomenon that also powers your impressive gliders, allowing you to seamlessly travel the beautiful landscape, fight corrupted enemies, purify the land, and find resources for crafting and cooking. 
 
 The gliding is the main traversal method and boy it is fun to zip across the land, giving movement a satisfying rhythm that syncs perfectly with the soundtrack. This traversal method is designed for both solo and coop. In **solo play**, you control both characters simultaneously, they follow each other around. In coop play, one player glides while the other (still following the gliding player) can collect resources and activate boosts. My only **gripe** is that the gliding can sometimes work against the player, but those experiences are few and far between.
 
-![](/images/uploads/haven13.avif)
-
 ### Intimacy, Worldbuilding, and the Slice-of-Life beauty
 
 The game’s narrative strength lies in its subtle and unique worldbuilding. The lore uses sci-fi and Orwellian elements, mixed with post-apocalyptic and survival themes, but without the darkness, grittiness, or extreme hardships. This unique tone is supported by the narrative structure: the game inserts you directly into the middle of Yu and Kay’s exile, without needing to explain every single thing at the get-go. When some exposition does arrive, it feels earned, and you truly appreciate the storytelling and the lore. The result is an experience that is deeply immersive, almost like you’re sitting by a campfire with the characters, living alongside them in that universe.
 
 This immersive atmosphere is built upon the perfect chemistry between the two leads. Yu and Kay talk and interact like a *real* couple. They sound like a real couple. Not every conversation has to be plot-heavy; some are just happy, playful banter, some involve just looking at the sky gazing at the stars, and some are just glazing at how delicious the food is. It truly feels genuine, achieving a slice-of-life quality, but set in their unique sci-fi exile, not our regular world. That genuine feel is very rarely seen in games involving romantic couples. The game's narrative is very immersive, focusing on the realistic chemistry of the couple through mundane yet intimate dialogue, a feat only made possible by the high-quality, convincing performances from both voice actors.
-
-![](/images/uploads/haven02.avif)
 
 ### Combat: Simple, Yet Fits The Game nicely
 
@@ -76,8 +70,6 @@ You’ll have to learn to command both characters simultaneously for solo play, 
 
 Your characters gain strength over the course of the game by building their relationship meter. You level up this bond by nearly everything you do together, from cooking and sleeping to talking, or fighting enemies.
 
-![](/images/uploads/haven09.avif)
-
 ### Stylish With A Banger Soundtrack
 
 The overall aesthetic is stunning and cohesive, favoring a beautiful mix of anime and watercolor-pastel art style for the alien landscapes, creatures, and characters. This visual care extends to every detail, including the loading screens and menus, which are filled with gorgeous, personalized snapshots of Yu and Kay's relationship. Instead of generic tips, these pieces of art constantly provide intimate flavor and personality, the developers didn't even need to add these loading screen touches, but they understood that such detail is essential to reinforcing the game's central theme of enduring love. Simple things but it added so much to the personality of the game.
@@ -85,8 +77,6 @@ The overall aesthetic is stunning and cohesive, favoring a beautiful mix of anim
 Also, the amazing banger electro-like soundtrack helped seal the deal for me.  It elevates the gameplay into an relaxing but rhythmic experience that defines the literal flow of exploration. This energetic score is perfectly balanced by softer, intimate pieces in dialogue and romantic moments, effectively amplifying the contrast between external adventure and the cozy domestic life of the couple in their ship.
 
 And I won’t forget about describing the opening sequence, which was nothing short of **stunning** and acts as an immediate emotional investment hook to rapidly tell the story of Yu and Kay's established, passionate love in beautiful colors and animation.
-
-![](/images/uploads/haven12.avif)
 
 ### The Conclusion
 
