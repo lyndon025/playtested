@@ -1,5 +1,5 @@
 ---
-title: A soothing slice-of-life romantic adventure that is wonderfully genuine |
+title: A soothing slice-of-life romantic adventure that's wonderfully genuine |
   Haven Review
 pubDate: 2025-09-28T07:05:00.000+08:00
 draft: false
