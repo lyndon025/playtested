@@ -18,9 +18,9 @@ thumb: /images/uploads/haven04.avif
 author: lyndonguitar
 game: Haven
 gallery:
-  - /images/uploads/haven04.avif
-  - /images/uploads/haven00.avif
   - /images/uploads/haven01.avif
+  - /images/uploads/haven00.avif
+  - /images/uploads/haven04.avif
   - /images/uploads/haven02.avif
   - /images/uploads/haven03.avif
   - /images/uploads/haven05.avif
