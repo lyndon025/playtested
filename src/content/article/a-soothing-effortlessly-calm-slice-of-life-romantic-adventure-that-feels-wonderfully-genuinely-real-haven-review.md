@@ -35,14 +35,14 @@ However, despite putting the game down, its cozy atmosphere and unique vibe reso
 
 ### Cons
 
-* 🏷️ The game is fundamentally mislabeled; it's more of a cozy adventure, not a deep RPG or demanding survival experience.
 * 🧱 The gliding controls can occasionally work against the player, leading to small, frustrating moments of movement friction.
+* 🎮Coop gameplay feels forced/underbaked, its much better to play this as a solo player.
 
 - - -
 
 The feeling of being stranded in another world, yet carrying your own cozy environment with you (a ship full of life and personality), set in beautiful landscapes, and equipped with impressive gliding technology, all grew in my imagination. I always imagined returning to it someday after putting it down years ago, keeping it listed in my spreadsheet of "to play eventually" Well, that day finally came a few weeks ago when I installed it on my Steam Deck, and in my opinion it works better as a solo experience. 
 
-The game is marketed as coop, but in my opinion the game works better as as solo player experience (perhaps with your partner just watching you play) because the coop gameplay elements feel undercooked or forced.
+The game is marketed as coop, but in my opinion the game works better as as solo player experience (perhaps with your partner just watching you play) because the coop gameplay elements feel underbaked or forced.
 
 I would argue that Haven is far more of a cozier, calming adventure and romantic couple story than it is the RPG survival game it is often described as, perhaps by even the developers themselves in an attempt to reach a wider audience. The core of the gameplay is navigating a planet full of islets connected by "flow bridges," an energy phenomenon that also powers your impressive gliders, allowing you to seamlessly travel the beautiful landscape, fight corrupted enemies, purify the land, and find resources for crafting and cooking. 
 
