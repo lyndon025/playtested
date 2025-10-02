@@ -26,7 +26,7 @@ However, despite putting the game down, its cozy atmosphere and unique vibe reso
 
 ### Pros
 
-* ❤️ The relationship feels genuinely real, setting a new lowkey standard for a romantic, slice-of-life story in a game.
+* ❤️ The relationship of the two main characters feels genuinely real, setting a new lowkey standard for a romantic, slice-of-life story in a game.
 * 🏡 Masterful, unique cozy vibe that compels you to explore everything and live alongside the characters.
 * 🎧 Amazing soundtrack that perfectly syncs with the gameplay.
 * 📖 Subtle, unique worldbuilding is highly effective, creating an immersive sci-fi exile without heavy exposition.
@@ -50,7 +50,7 @@ The gliding is the main traversal method and boy it is fun to zip across the lan
 
 ### Intimacy, Worldbuilding, and the Slice-of-Life beauty
 
-The game’s narrative strength lies in its subtle and unique worldbuilding. The lore uses sci-fi and Orwellian elements, mixed with post-apocalyptic and survival themes, but without the darkness, grittiness, or extreme hardships. This unique tone is supported by the narrative structure: the game inserts you directly into the middle of Yu and Kay’s exile, without needing to explain every single thing at the get-go. When some exposition does arrive, it feels earned, and you truly appreciate the storytelling and the lore. The result is an experience that is deeply immersive, almost like you’re sitting by a campfire with the characters, living alongside them in that universe. I just love the premise of being stranded in a beautiful paradise with a cozy ship full of life with a partner, that i actually want that to happen to me.
+The game’s narrative strength lies in its subtle and unique worldbuilding. The lore uses sci-fi and Orwellian elements, mixed with post-apocalyptic and survival themes, but without the darkness, grittiness, or extreme hardships. This unique tone is supported by the narrative structure: the game inserts you directly into the middle of Yu and Kay’s adventure, without needing to explain every single thing at the get-go. When some exposition does arrive, it feels earned, and you truly appreciate the storytelling and the lore. The result is an experience that is deeply immersive, almost like you’re sitting by a campfire with the characters, living alongside them in that universe. I just love the premise of being stranded in a beautiful paradise with a cozy ship full of life with a partner, that i actually want that to happen to me.
 
 This immersive atmosphere is built upon the perfect chemistry between the two leads. Yu and Kay talk and interact like a *real* couple. They sound like a real couple. Not every conversation has to be plot-heavy; some are just happy, playful banter, some involve just looking at the sky gazing at the stars, and some are just glazing at how delicious the food is. It truly feels genuine, achieving a slice-of-life quality, but set in their unique sci-fi exile, not our regular world. That genuine feel is very rarely seen in games involving romantic couples. The game's narrative is very immersive, focusing on the realistic chemistry of the couple through mundane yet intimate dialogue, a feat only made possible by the high-quality, convincing performances from both voice actors.
 
@@ -76,4 +76,4 @@ And I won’t forget about describing the opening sequence, which was nothing sh
 
 The soothing, cozy aspect of the game completely changed my habits: I'm never much of a completionist, but this game made me go out and explore every nook and cranny of the world, purifying everything, finding every ingredient to cook, eating all the dishes, and experiencing all the dialogue it has to offer.
 
-Haven is overall a very calming, soothing, cozy experience disguised as an RPG. It’s an adventure game with a heavy focus on a genuine, realistic, romantic story set in a unique sci-fi world. The 10-15 hour experience is definitely one of the best short experiences I’ve had in a while, and I think it’s a type of game that will stick with me for years to come. My only hope is that we get an eventual sequel.
+Haven is overall a very calming, soothing, cozy experience wrongfully disguised as an RPG. It’s actually an adventure game with a heavy focus on a genuine, realistic, romantic story set in a unique sci-fi world. The 10-15 hour experience is definitely one of the best short experiences I’ve had in a while, and I think it’s a type of game that will stick with me for years to come. My only hope is that we get an eventual sequel.
