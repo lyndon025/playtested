@@ -1,6 +1,6 @@
 ---
-title: A must-play narratively driven RPG and technical showcase | Cyberpunk
-  2077 Ultimate Edition Review
+title: "A must-play narratively driven RPG and technical showcase | Cyberpunk
+  2077: Ultimate Edition Review"
 pubDate: 2025-10-08T14:45:00.000+08:00
 draft: true
 description: The stars finally lined up, and I was able to play Cyberpunk 2077
@@ -45,7 +45,7 @@ The stars finally lined up, and I was able to play Cyberpunk 2077 almost five ye
 * 🚗 Driving in first person is practically unplayable, making third-person a necessity. 
 
 ### A Consistently 'Preem' Experience All Around
-Ultimate Edition includes Phantom Liberty, which is an expansion that adds a sizeable middle chapter to the story. Right from the start, I have to say Phantom Liberty’s content is much better and more refined than the main quest, but the main game still stands strong on its own.
+Cyberpunk 2077: Ultimate Edition includes Phantom Liberty, which is an expansion that adds a sizeable middle chapter to the story. Right from the start, I have to say Phantom Liberty’s content is much better and more refined than the main quest, but the main game still stands strong on its own.
 
 Jumping in, the first thing that stands out is just how consistently premium 'preem' the storytelling feels across the board. The story is crafted at a level you rarely see, the kind of writing and world-building usually reserved for the very best books, movies, or games out there. Night City is truly out of this world. There is so much depth, atmosphere, and detail in every mission and interaction, every single quest, side mission, and even random gig feels like it had real care and attention.
 
