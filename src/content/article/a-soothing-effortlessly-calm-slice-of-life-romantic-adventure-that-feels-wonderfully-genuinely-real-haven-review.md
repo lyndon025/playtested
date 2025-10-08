@@ -17,7 +17,13 @@ featured: false
 thumb: /images/uploads/haven01.avif
 author: lyndonguitar
 game: Haven
-gallery: []
+gallery:
+  - /images/uploads/haven00.avif
+  - /images/uploads/haven02.avif
+  - /images/uploads/haven03.avif
+  - /images/uploads/haven04.avif
+  - /images/uploads/haven07.avif
+  - /images/uploads/haven11.avif
 score: 9.5
 ---
 I first started Haven years ago on Game Pass with my partner, but frankly, it didn't click for us, especially as a co-op or 'couple game.' It’s supposedly a very light sci-fi RPG about two lovers, Yu and Kay, who have fled to an alien but beautiful world to escape an oppressive society and are fighting to keep their relationship alive. 
