@@ -12,7 +12,7 @@ description: Ghost of Yotei, the newest installment in the acclaimed feudal
   it up as a truly modern open-world experience.
 category: review
 tags:
-  - PC
+  - Console
 featured: true
 thumb: /images/uploads/goy00.avif
 author: lyndonguitar
