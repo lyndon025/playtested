@@ -49,7 +49,7 @@ The brilliance lies in how the game seamlessly weaves together contrasting world
 
 ## **Constant Gameplay Innovation From Start To Finish**
 
-The sheer flow of original ideas in *Split Fiction* is why this game is so essential. It forces you and your partner to constantly invent new ways to interact across the dimensional divide. You’ll be convinced the developers have exhausted their pool of concepts, only for **them to go and impress you again on the very next level.** This relentless creativity continues right up to the credits; the game **never runs out of fresh concepts.**
+The sheer flow of original ideas in *Split Fiction* is why this game is so essential. It forces you and your partner to constantly invent new ways to interact across the dimensional divide. You’ll be convinced that this is it, this is the peak of the game, the devs must have probably ran out of the ideas, only for **them to go and impress you again on the very next level.** This relentless creativity continues right up to the credits; the game **never runs out of fresh concepts.**
 
 The mechanical puzzles are stunningly diverse. In one section, Zoe transforms into a Groot-like being to manipulate deadly flowers and force them to recede, while Mio shapeshifts into an amphibian creature to drag them both across piranha-infested waters. Later, Mio and Zoe find themselves on opposite sides of a room blocked by color-coded force fields, requiring them to shoot grenades at boxes on a conveyor belt and time their blasts perfectly to break through barriers. In another puzzle, Mio uses her ape transformation to push an ice cube while Zoe lifts tiles on the grid in her tree form, creating barriers that guide the cube to its destination.
 
