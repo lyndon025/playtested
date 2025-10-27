@@ -1,6 +1,0 @@
-# Handle old URLs without trailing slashes (if using "always")
-/blog/post/* /post/:splat/ 301
-/article/* /article/:splat/ 301
-
-# Collapse double slashes
-//*/ /:splat/ 301
