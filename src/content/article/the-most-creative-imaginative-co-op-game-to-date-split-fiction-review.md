@@ -1,6 +1,6 @@
 ---
 title: The Most Creative, Imaginative, Co-op Game To Date | Split Fiction Review
-pubDate: 2025-10-27T11:34:00.000+08:00
+pubDate: 2025-10-14T11:34:00.000+08:00
 draft: true
 description: Split Fiction is an exclusively two-player experience defined by
   its literal split screen. One player navigates a high-fantasy setting of
