@@ -65,7 +65,7 @@ The tone is another major asset. The experience is **full of fun and comedy, lig
 
 Considering the main selling point is coop, and that coop play is probably with someone who’s not a gamer, the entire game is **very accessible to casual players.** Platforming segments are forgiving, and even the aiming mechanics are simplified with slight assists and magnetized jump ledges. This ensures that players of all skill levels can remain engaged and, crucially, that neither partner feels like they are the anchor slowing the team down.
 
-However, this ease of use is a double-edged sword for the seasoned gamer. The game might come across as a little too easy for veteran players, and there is currently no way to up the challenge, at least for a specific player. There should be "reverse accessibility" settings for veterans, allowing them to turn off magnetism, aim assist, platforming assists, and other helpful features. Hazelight has perfected the ability to make players feel clever, but they have yet to master the art of making veterans feel truly tested.
+However, this ease of use is a double-edged sword for the seasoned gamer. The game might come across as a little too easy for veteran players, and there is currently no way to up the challenge, at least for a specific player. There should be "reverse accessibility" settings for veterans, allowing them to turn off magnetism, aim assist, platforming assists, and other helpful features for them only. Hazelight has perfected the ability to make players feel clever, but they have yet to master the art of making veterans feel truly tested.
 
 ## **A Beautiful Traditional Game**
 
