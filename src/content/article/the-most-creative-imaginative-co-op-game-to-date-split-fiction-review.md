@@ -59,7 +59,7 @@ The imaginative scale of these interactions is breathtaking and never runs out u
 
 This exceptional cooperative focus solidifies *Split Fiction*'s reputation as **the best co-op, split-screen, or couple’s game available, probably on par and even surpassing Hazelight’s own *It Takes Two* in some aspects**. It is impossible to succeed without genuine communication and trust, making it a perfect choice for couples or friends who want a deeply shared, problem-solving experience.
 
-The tone is another major asset. The experience is **full of fun and comedy, lighthearted but with a touch of seriousness** that grounds the plot when it needs to. The banter between the protagonists – one reserved and pragmatic, and one cheerfuland optimistic – is genuinely funny and good dynamic. The world is a joy to inhabit, and the design frequently encourages players to spend a moment messing around before tackling the next big objective.
+The tone is another major asset. The experience is **full of fun and comedy, lighthearted but with a touch of seriousness** that grounds the plot when it needs to. The banter between the protagonists – one reserved and pragmatic, and one cheerful and optimistic – is genuinely funny and good dynamic. The world is a joy to inhabit, and the design frequently encourages players to spend a moment messing around before tackling the next big objective.
 
 ## **A Very Accessible Game**
 
