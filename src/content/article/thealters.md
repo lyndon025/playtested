@@ -12,7 +12,7 @@ gallery:
   - /images/reviews/2025-07-16-the-alters-4.avif
   - /images/reviews/2025-07-16-the-alters-5.avif
 pubDate: 2025-07-16
-score: 9.0
+score: 8.8
 tags:
   - strategy
   - survival

@@ -14,19 +14,19 @@ tags:
   - PC
   - Console
 featured: true
-thumb: /images/uploads/00.avif
+thumb: /images/uploads/splitfiction00.avif
 author: lyndonguitar
 game: Split Fiction
 gallery:
-  - /images/uploads/01.avif
-  - /images/uploads/01.avif
-  - /images/uploads/03.avif
-  - /images/uploads/04.avif
-  - /images/uploads/05.avif
-  - /images/uploads/06.avif
-  - /images/uploads/07.avif
-  - /images/uploads/08.avif
-score: 9.5
+  - /images/uploads/splitfiction01.avif
+  - /images/uploads/splitfiction01.avif
+  - /images/uploads/splitfiction03.avif
+  - /images/uploads/splitfiction04.avif
+  - /images/uploads/splitfiction05.avif
+  - /images/uploads/splitfiction06.avif
+  - /images/uploads/splitfiction07.avif
+  - /images/uploads/splitfiction08.avif
+score: 9.4
 ---
 
 When Hazelight, the studio behind co-op classics like *A Way Out* and *It Takes Two (a GOTY winner, by the way)*, releases a new game, people pay attention. Their latest title, *Split Fiction*, had a lot to live up to when it was revealed at last year’s The Game Awards. Fortunately, the game absolutely delivers: it's an incredible achievement in game design and sets a new bar for couch co-op. However, while the gameplay is brilliant and constantly surprising, the story holding it all together is disappointingly simple.

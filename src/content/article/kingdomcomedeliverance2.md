@@ -11,7 +11,7 @@ gallery:
   - /images/reviews/2025-06-27-kcd2-4.avif
   - /images/reviews/2025-06-27-kcd2-5.avif
 pubDate: 2025-06-27
-score: 9.5
+score: 9.3
 tags:
   - rpg
   - action

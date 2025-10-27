@@ -11,7 +11,7 @@ gallery:
   - /images/reviews/2025-07-09-death-stranding-2-4.avif
   - /images/reviews/2025-07-09-death-stranding-2-5.avif
 pubDate: 2025-07-09
-score: 9.5
+score: 9.3
 tags:
   - adventure
   - exploration

@@ -11,7 +11,7 @@ gallery:
   - /images/reviews/2025-03-30-ac-shadows-4.avif
   - /images/reviews/2025-03-30-ac-shadows-5.avif
 pubDate: 2025-03-30
-score: 8.5
+score: 8.6
 tags:
   - action
   - stealth

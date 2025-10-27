@@ -24,7 +24,7 @@ gallery:
   - /images/uploads/shadowofwar06.avif
   - /images/uploads/shadowofwar07.avif
   - /images/uploads/shadowofwar08.avif
-score: 8.5
+score: 8.4
 ---
 I was a huge fan of the first game, *Shadow of Mordor*. So when *Shadow of War* was announced, promising a bigger scale of the same formula - a third-person action-adventure RPG that felt like a hybrid of the **Batman Arkham** and **Assassin's Creed** series - I was immediately excited. What could possibly go wrong?
 

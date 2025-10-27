@@ -11,7 +11,7 @@ gallery:
   - /images/reviews/ff7-rebirth-4.avif
   - /images/reviews/ff7-rebirth-5.avif
 pubDate: 2024-03-14
-score: 8.0
+score: 8.5
 tags:
   - rpg
   - action

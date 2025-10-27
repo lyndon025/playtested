@@ -11,7 +11,7 @@ gallery:
   - /images/reviews/2025-06-06-clair-obscur-4.avif
   - /images/reviews/2025-06-06-clair-obscur-5.avif
 pubDate: 2025-06-06
-score: 9.0
+score: 9.2
 tags:
   - rpg
   - strategy

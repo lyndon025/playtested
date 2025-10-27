@@ -11,7 +11,7 @@ gallery:
   - /images/reviews/2025-04-02-metaphor-refantazio-4.avif
   - /images/reviews/2025-04-02-metaphor-refantazio-5.avif
 pubDate: 2025-04-02
-score: 9.0
+score: 9.3
 tags:
   - rpg
   - turn-based
