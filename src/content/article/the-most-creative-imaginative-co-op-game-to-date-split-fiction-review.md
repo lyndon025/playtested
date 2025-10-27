@@ -28,9 +28,7 @@ gallery:
   - /images/uploads/splitfiction08.avif
 score: 9.4
 ---
-
 When Hazelight, the studio behind co-op classics like *A Way Out* and *It Takes Two (a GOTY winner, by the way)*, releases a new game, people pay attention. Their latest title, *Split Fiction*, had a lot to live up to when it was revealed at last year’s The Game Awards. Fortunately, the game absolutely delivers: it's an incredible achievement in game design and sets a new bar for couch co-op. However, while the gameplay is brilliant and constantly surprising, the story holding it all together is disappointingly simple.
-
 
 **Pros**
 
@@ -46,11 +44,12 @@ When Hazelight, the studio behind co-op classics like *A Way Out* and *It Takes 
 * 📖 The overarching story is basic, forgettable, and lacks the emotional depth of previous titles.
 * ⚠️ The high level of accessibility leaves seasoned gamers wanting a difficulty toggle or challenge options.
 
-*Split Fiction* is an exclusively two-player experience defined by its literal split screen. One player navigates a high-fantasy setting of elves, dragons, and ancient ruins. The other exists in a neon-drenched, chrome-plated sci-fi world full of robots and laser grids. The brilliance lies in how these two separate realities constantly overlap, making it arguably **one of the most creative level and game mechanic designs for a co-op game, or any video game, ever.**
+*Split Fiction* is an exclusively two-player experience defined by its literal split screen. You cannot play this game in single player mode or with just one screen. It s always split-screen coop for the entirety of the experience. 
+The brilliance lies in how the game seamlessly weaves together contrasting worlds of sci-fi and fantasy, switching between Mio's cyberpunk sci-fi worlds and Zoe's magical fantasy realms as the story progresses. This dynamic split-screen design introduces dozens of unique gameplay mechanics every level, constantly reinventing itself with new abilities, powers, and challenges that require precise communication and coordination between both players. It has arguably **one of the most creative level and game mechanic designs for a co-op game, or any video game, ever.**
 
 ## **Constant Gameplay Innovation From Start To Finish**
 
-The sheer flow of original ideas in *Split Fiction* is why this game is so essential. It forces you and your partner to constantly invent new ways to interact across the dimensional divide. You’ll be convinced the developers have exhausted their pool of concepts, only for **them to go and impress you again on the very next level.** This relentless creativity continues right up to the credits; the game **never runs out of fresh concepts.**
+The sheer flow of original ideas in *Split Fiction* is why this game is so essential. It forces you and your partner to constantly invent new ways to interact across the dimensional divide. You’ll be convinced that this is it, this is the peak of the game, the devs must have probably ran out of the ideas, only for **them to go and impress you again on the very next level.** This relentless creativity continues right up to the credits; the game **never runs out of fresh concepts.**
 
 The mechanical puzzles are stunningly diverse. In one section, Zoe transforms into a Groot-like being to manipulate deadly flowers and force them to recede, while Mio shapeshifts into an amphibian creature to drag them both across piranha-infested waters. Later, Mio and Zoe find themselves on opposite sides of a room blocked by color-coded force fields, requiring them to shoot grenades at boxes on a conveyor belt and time their blasts perfectly to break through barriers. In another puzzle, Mio uses her ape transformation to push an ice cube while Zoe lifts tiles on the grid in her tree form, creating barriers that guide the cube to its destination.
 
@@ -60,13 +59,13 @@ The imaginative scale of these interactions is breathtaking and never runs out u
 
 This exceptional cooperative focus solidifies *Split Fiction*'s reputation as **the best co-op, split-screen, or couple’s game available, probably on par and even surpassing Hazelight’s own *It Takes Two* in some aspects**. It is impossible to succeed without genuine communication and trust, making it a perfect choice for couples or friends who want a deeply shared, problem-solving experience.
 
-The tone is another major asset. The experience is **full of fun and comedy, lighthearted but with a touch of seriousness** that grounds the plot when it needs to. The banter between the protagonists – one reserved and pragmatic, and one cheerfuland optimistic – is genuinely funny and good dynamic. The world is a joy to inhabit, and the design frequently encourages players to spend a moment messing around before tackling the next big objective.
+The tone is another major asset. The experience is **full of fun and comedy, lighthearted but with a touch of seriousness** that grounds the plot when it needs to. The banter between the protagonists – one reserved and pragmatic, and one cheerful and optimistic – is genuinely funny and a good dynamic. The world is a joy to inhabit, and the design frequently encourages players to spend a moment messing around before tackling the next big objective.
 
 ## **A Very Accessible Game**
 
-Considering the main selling point is coop, and that coop is probably with someone who’s not a gamer, the entire game is **very accessible to casual players.** Platforming segments are forgiving, and even the aiming mechanics are simplified with slight assists and magnetized jump ledges. This ensures that players of all skill levels can remain engaged and, crucially, that neither partner feels like they are the anchor slowing the team down.
+Considering the main selling point is coop, and that coop play is probably with someone who’s not a gamer, the entire game is **very accessible to casual players.** Platforming segments are forgiving, and even the aiming mechanics are simplified with slight assists and magnetized jump ledges. This ensures that players of all skill levels can remain engaged and, crucially, that neither partner feels like they are the anchor slowing the team down.
 
-However, this ease of use is a double-edged sword for the seasoned gamer. The game might come across as a little too easy for veteran players, and there is currently no way to up the challenge, at least for a specific player. There should be "reverse accessibility" settings for veterans, allowing them to turn off magnetism, aim assist, platforming assists, and other helpful features. Hazelight has perfected the ability to make players feel clever, but they have yet to master the art of making veterans feel truly tested.
+However, this ease of use is a double-edged sword for the seasoned gamer. The game might come across as a little too easy for veteran players, and there is currently no way to up the challenge, at least for a specific player. There should be "reverse accessibility" settings for veterans, allowing them to turn off magnetism, aim assist, platforming assists, and other helpful features for them only. Hazelight has perfected the ability to make players feel clever, but they have yet to master the art of making veterans feel truly tested.
 
 ## **A Beautiful Traditional Game**
 
