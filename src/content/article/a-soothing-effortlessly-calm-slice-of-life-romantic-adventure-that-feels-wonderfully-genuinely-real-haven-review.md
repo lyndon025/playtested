@@ -17,16 +17,22 @@ featured: false
 thumb: /images/uploads/haven01.avif
 author: lyndonguitar
 game: Haven
-gallery: []
-score: 9
+gallery:
+  - /images/uploads/haven00.avif
+  - /images/uploads/haven02.avif
+  - /images/uploads/haven03.avif
+  - /images/uploads/haven04.avif
+  - /images/uploads/haven07.avif
+  - /images/uploads/haven11.avif
+score: 9.5
 ---
 I first started Haven years ago on Game Pass with my partner, but frankly, it didn't click for us, especially as a co-op or 'couple game.' It’s supposedly a very light sci-fi RPG about two lovers, Yu and Kay, who have fled to an alien but beautiful world to escape an oppressive society and are fighting to keep their relationship alive. 
 
-However, despite putting the game down, its cozy atmosphere and unique vibe resonated with me and somehow got ingrained in my mind for years. 
+However, despite putting the game down, its cozy atmosphere and unique vibe resonated with me and somehow got ingrained in my mind for years.  
 
 ### Pros
 
-* ❤️ The relationship feels genuinely real, setting a new lowkey standard for a romantic, slice-of-life story in a game.
+* ❤️ The relationship of the two main characters feels genuinely real, setting a new lowkey standard for a romantic, slice-of-life story in a game.
 * 🏡 Masterful, unique cozy vibe that compels you to explore everything and live alongside the characters.
 * 🎧 Amazing soundtrack that perfectly syncs with the gameplay.
 * 📖 Subtle, unique worldbuilding is highly effective, creating an immersive sci-fi exile without heavy exposition.
@@ -35,12 +41,14 @@ However, despite putting the game down, its cozy atmosphere and unique vibe reso
 
 ### Cons
 
-* 🏷️ The game is fundamentally mislabeled; it's more of a cozy adventure, not a deep RPG or demanding survival experience.
 * 🧱 The gliding controls can occasionally work against the player, leading to small, frustrating moments of movement friction.
+* 🎮Coop gameplay feels forced/underbaked, its much better to play this as a solo player.
 
 - - -
 
-The feeling of being stranded in another world, yet carrying your own cozy environment with you (a ship full of life and personality), set in beautiful landscapes, and equipped with impressive gliding technology, all grew in my imagination. I always imagined returning to it someday after putting it down years ago, keeping it listed in my spreadsheet of "to play eventually" Well, that day finally came a few weeks ago when I installed it on my Steam Deck.
+The feeling of being stranded in another world, yet carrying your own cozy environment with you (a ship full of life and personality), set in beautiful landscapes, and equipped with impressive gliding technology, all grew in my imagination. I always imagined returning to it someday after putting it down years ago, keeping it listed in my spreadsheet of "to play eventually" Well, that day finally came a few weeks ago when I installed it on my Steam Deck, and in my opinion it works better as a solo experience. 
+
+The game is marketed as coop, but in my opinion the game works better as as solo player experience (perhaps with your partner just watching you play) because the coop gameplay elements feel underbaked or forced.
 
 I would argue that Haven is far more of a cozier, calming adventure and romantic couple story than it is the RPG survival game it is often described as, perhaps by even the developers themselves in an attempt to reach a wider audience. The core of the gameplay is navigating a planet full of islets connected by "flow bridges," an energy phenomenon that also powers your impressive gliders, allowing you to seamlessly travel the beautiful landscape, fight corrupted enemies, purify the land, and find resources for crafting and cooking. 
 
@@ -48,7 +56,7 @@ The gliding is the main traversal method and boy it is fun to zip across the lan
 
 ### Intimacy, Worldbuilding, and the Slice-of-Life beauty
 
-The game’s narrative strength lies in its subtle and unique worldbuilding. The lore uses sci-fi and Orwellian elements, mixed with post-apocalyptic and survival themes, but without the darkness, grittiness, or extreme hardships. This unique tone is supported by the narrative structure: the game inserts you directly into the middle of Yu and Kay’s exile, without needing to explain every single thing at the get-go. When some exposition does arrive, it feels earned, and you truly appreciate the storytelling and the lore. The result is an experience that is deeply immersive, almost like you’re sitting by a campfire with the characters, living alongside them in that universe.
+The game’s narrative strength lies in its subtle and unique worldbuilding. The lore uses sci-fi and Orwellian elements, mixed with post-apocalyptic and survival themes, but without the darkness, grittiness, or extreme hardships. This unique tone is supported by the narrative structure: the game inserts you directly into the middle of Yu and Kay’s adventure, without needing to explain every single thing at the get-go. When some exposition does arrive, it feels earned, and you truly appreciate the storytelling and the lore. The result is an experience that is deeply immersive, almost like you’re sitting by a campfire with the characters, living alongside them in that universe. I just love the premise of being stranded in a beautiful paradise with a cozy ship full of life with a partner, that i actually want that to happen to me.
 
 This immersive atmosphere is built upon the perfect chemistry between the two leads. Yu and Kay talk and interact like a *real* couple. They sound like a real couple. Not every conversation has to be plot-heavy; some are just happy, playful banter, some involve just looking at the sky gazing at the stars, and some are just glazing at how delicious the food is. It truly feels genuine, achieving a slice-of-life quality, but set in their unique sci-fi exile, not our regular world. That genuine feel is very rarely seen in games involving romantic couples. The game's narrative is very immersive, focusing on the realistic chemistry of the couple through mundane yet intimate dialogue, a feat only made possible by the high-quality, convincing performances from both voice actors.
 
@@ -74,4 +82,4 @@ And I won’t forget about describing the opening sequence, which was nothing sh
 
 The soothing, cozy aspect of the game completely changed my habits: I'm never much of a completionist, but this game made me go out and explore every nook and cranny of the world, purifying everything, finding every ingredient to cook, eating all the dishes, and experiencing all the dialogue it has to offer.
 
-Haven is overall a very calming, soothing, cozy experience disguised as an RPG. It’s an adventure game with a heavy focus on a genuine, realistic, romantic story set in a unique sci-fi world. The 10-15 hour experience is definitely one of the best short experiences I’ve had in a while, and I think it’s a type of game that will stick with me for years to come. My only hope is that we get an eventual sequel.
+Haven is overall a very calming, soothing, cozy experience wrongfully disguised as an RPG. It’s actually an adventure game with a heavy focus on a genuine, realistic, romantic story set in a unique sci-fi world. The 10-15 hour experience is definitely one of the best short experiences I’ve had in a while, and I think it’s a type of game that will stick with me for years to come. My only hope is that we get an eventual sequel.
