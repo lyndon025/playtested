@@ -28,9 +28,7 @@ gallery:
   - /images/uploads/splitfiction08.avif
 score: 9.4
 ---
-
 When Hazelight, the studio behind co-op classics like *A Way Out* and *It Takes Two (a GOTY winner, by the way)*, releases a new game, people pay attention. Their latest title, *Split Fiction*, had a lot to live up to when it was revealed at last year’s The Game Awards. Fortunately, the game absolutely delivers: it's an incredible achievement in game design and sets a new bar for couch co-op. However, while the gameplay is brilliant and constantly surprising, the story holding it all together is disappointingly simple.
-
 
 **Pros**
 
@@ -46,7 +44,8 @@ When Hazelight, the studio behind co-op classics like *A Way Out* and *It Takes 
 * 📖 The overarching story is basic, forgettable, and lacks the emotional depth of previous titles.
 * ⚠️ The high level of accessibility leaves seasoned gamers wanting a difficulty toggle or challenge options.
 
-*Split Fiction* is an exclusively two-player experience defined by its literal split screen. One player navigates a high-fantasy setting of elves, dragons, and ancient ruins. The other exists in a neon-drenched, chrome-plated sci-fi world full of robots and laser grids. The brilliance lies in how these two separate realities constantly overlap, making it arguably **one of the most creative level and game mechanic designs for a co-op game, or any video game, ever.**
+*Split Fiction* is an exclusively two-player experience defined by its literal split screen. You cannot play this game in single player mode or with just one screen. It s always split-screen coop for the entirety of the experience. 
+The brilliance lies in how the game seamlessly weaves together contrasting worlds of sci-fi and fantasy, switching between Mio's cyberpunk sci-fi worlds and Zoe's magical fantasy realms as the story progresses. This dynamic split-screen design introduces dozens of unique gameplay mechanics every level, constantly reinventing itself with new abilities, powers, and challenges that require precise communication and coordination between both players. It has arguably **one of the most creative level and game mechanic designs for a co-op game, or any video game, ever.**
 
 ## **Constant Gameplay Innovation From Start To Finish**
 
