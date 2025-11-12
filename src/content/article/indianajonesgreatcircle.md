@@ -1,17 +1,12 @@
 ---
-author: lyndonguitar
-category: Review
-description: Indiana Jones and the Great Circle surprises with its effective first-person perspective, engaging puzzles, and a combat style that perfectly captures Indy’s character, despite some rudimentary gameplay elements.
-featured: false
-gallery:
-  - /images/reviews/2024-12-24-indiana-jones-great-circle-0.avif
-  - /images/reviews/2024-12-24-indiana-jones-great-circle-1.avif
-  - /images/reviews/2024-12-24-indiana-jones-great-circle-2.avif
-  - /images/reviews/2024-12-24-indiana-jones-great-circle-3.avif
-  - /images/reviews/2024-12-24-indiana-jones-great-circle-4.avif
-  - /images/reviews/2024-12-24-indiana-jones-great-circle-5.avif
+title: Just Like The Movies, Might Even Be Better | Indiana Jones and the Great
+  Circle Review
 pubDate: 2024-12-24
-score: 9.0
+draft: true
+description: Indiana Jones and the Great Circle surprises with its effective
+  first-person perspective, engaging puzzles, and a combat style that perfectly
+  captures Indy’s character, despite some rudimentary gameplay elements.
+category: Review
 tags:
   - action
   - adventure
@@ -19,9 +14,18 @@ tags:
   - playstation
   - xbox
   - console
+featured: false
 thumb: /images/reviews/2024-12-24-indiana-jones-great-circle-0.avif
-title: Just Like The Movies, Might Even Be Better | Indiana Jones and the Great Circle Review
+author: lyndonguitar
 game: Indiana Jones and the Great Circle
+gallery:
+  - /images/reviews/2024-12-24-indiana-jones-great-circle-0.avif
+  - /images/reviews/2024-12-24-indiana-jones-great-circle-1.avif
+  - /images/reviews/2024-12-24-indiana-jones-great-circle-2.avif
+  - /images/reviews/2024-12-24-indiana-jones-great-circle-3.avif
+  - /images/reviews/2024-12-24-indiana-jones-great-circle-4.avif
+  - /images/reviews/2024-12-24-indiana-jones-great-circle-5.avif
+score: 9
 ---
 
 **Indiana Jones and the Great Circle** initially raised some skepticism for me because of its first-person perspective, I really thought I wont like it because of the first person view, because i played Uncharted and Tomb Raider and I wanted those kind of games. I thought I knew better. However, I was proven wrong, as the first-person viewpoint here works remarkably well, creating a more immersive and personal experience that brings you closer to Indy’s world. 
@@ -46,10 +50,11 @@ game: Indiana Jones and the Great Circle
     alt="Indiana Jones and the Great Circle"
     class="w-full md:w-2/5 rounded shadow"
      />
+</div>
 
 I would like to repeat again, that the first person view absolutely works! Not only your in tune and more immersed as Indy, you also get upclose and personal with the puzzles and locations, which can now be much more cramped and smaller because of the view. It allows you to lean in and inspect ancient mechanisms, decipher cryptic markings up close, and feel a genuine sense of tension as you peer into a dark, unknown passage. The puzzles are a major highlight; they strike an excellent balance between being challenging enough to make you feel clever and intuitive enough to avoid unfair frustration. This isn’t just watching a hero solve a mystery; you are the hero, you are Indiana Jones, and the feeling of discovery is consistently rewarding.
 
-     </div>
+     
 Combat is simple but effective. It effectively captures the clumsy, scrappy feel of Indiana Jones. This isn't the slick, high-octane combat of a superspy; it's the desperate brawl of a professor who's in over his head. Punches feel weighty, the iconic bullwhip is both a tool and a weapon, and scarce ammo forces you to be resourceful rather than relying on brute force. This grounded approach is a refreshing change of pace that feels authentic to the character.
 
 The stealth mechanics however, being a major part of the gameplay, are more rudimentary. You can sneak past enemies or set up simple ambushes, but these segments feel basic and underdeveloped compared to the rest of the game. They are passable and serve their purpose, but lack the depth to be a true highlight.
