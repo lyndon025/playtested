@@ -1,8 +1,21 @@
 ---
-author: lyndonguitar
+title: "Turn-Based Greatness | Clair Obscur: Expedition 33 Review"
+pubDate: 2025-06-06
+draft: true
+description: "Clair Obscur: Expedition 33 reinvents turn-based RPGs with a
+  unique blend of story, lore, and a mix of turn-based and real-time combat,
+  backed by strong voice acting and soundtrack."
 category: Review
-description: "Clair Obscur: Expedition 33 reinvents turn-based RPGs with a unique blend of story, lore, and a mix of turn-based and real-time combat, backed by strong voice acting and soundtrack."
+tags:
+  - rpg
+  - strategy
+  - pc
+  - indie
+  - console
 featured: true
+thumb: /images/reviews/2025-06-06-clair-obscur-0.avif
+author: lyndonguitar
+game: "Clair Obscur: Expedition 33"
 gallery:
   - /images/reviews/2025-06-06-clair-obscur-0.avif
   - /images/reviews/2025-06-06-clair-obscur-1.avif
@@ -10,17 +23,7 @@ gallery:
   - /images/reviews/2025-06-06-clair-obscur-3.avif
   - /images/reviews/2025-06-06-clair-obscur-4.avif
   - /images/reviews/2025-06-06-clair-obscur-5.avif
-pubDate: 2025-06-06
-score: 9.2
-tags:
-  - rpg
-  - strategy
-  - pc
-  - indie
-  - console
-thumb: /images/reviews/2025-06-06-clair-obscur-0.avif
-title: "Turn-Based Greatness | Clair Obscur: Expedition 33 Review"
-game: "Clair Obscur: Expedition 33"
+score: 9.4
 ---
 
 **Clair Obscur: Expedition 33** takes the turn-based RPG genre to new heights by blending traditional tactical combat with real-time elements and an engrossing narrative. It stands out with its ambitious story, strong voice acting, and captivating soundtrack.
