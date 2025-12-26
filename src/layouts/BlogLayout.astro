@@ -10,6 +10,27 @@ export interface Props {
 const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } = Astro.props
 ---
 
+const schema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "PlayTested",
+      "url": "https://playtested.net",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://playtested.net/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "PlayTested",
+      "url": "https://playtested.net"
+    }
+  ]
+})
+
 <!doctype html>
 <html lang="en" class="h-full">
   <head>
@@ -26,6 +47,7 @@ const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } 
     <meta name="twitter:description" content={description} />
     <link rel="icon" type="image/png" href="/playtested.png" />
     <title>{title}</title>
+    
 
 <link rel="alternate" type="application/rss+xml" title="PlayTested RSS" href={`${Astro.url.origin}/rss.xml`} />
 
@@ -54,6 +76,7 @@ const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } 
 
         gtag("config", gTag);
       </script>
+      <script type="application/ld+json" set:html={schema}></script>
     )}
   </head>
 
