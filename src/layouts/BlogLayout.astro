@@ -8,7 +8,7 @@ export interface Props {
 }
 
 const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } = Astro.props
----
+
 
 const schema = JSON.stringify({
   "@context": "https://schema.org",
@@ -30,7 +30,7 @@ const schema = JSON.stringify({
     }
   ]
 })
-
+---
 <!doctype html>
 <html lang="en" class="h-full">
   <head>
