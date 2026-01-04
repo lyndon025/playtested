@@ -26,7 +26,6 @@ gallery:
   - /images/uploads/dispatch06.avif
 score: 9
 ---
-
 How is it possible that a short game like **Dispatch** is this jam-packed with absolutely cool, hilarious, and outright epic moments? A lot of “short” narrative games feel like extended demos or proof-of-concept experiments. **Dispatch** feels like a short but fully realized eight-episode season that just happens to be interactive.
 
 🎬 Pros
@@ -39,11 +38,11 @@ How is it possible that a short game like **Dispatch** is this jam-packed with a
 
 💔 Cons
 
-* Big-picture story stays mostly the same no matter what you pick, some choices feel more like flavor than full-on branching paths.
+* The overall 'big-picture' story stays mostly the same no matter what you pick, some choices feel more like flavor than full-on branching paths.
 
 ## **A Short Game That Hits Way Too Hard**
 
-From Episode 1 all the way to Episode 8, the game just does not miss. The jokes land. The timing is sharp. The action is so fun to watch that you genuinely forget you’re "playing a game" and not just binging a wild TV series. Then it reminds you that yes, you actually have some control here - just enough for your decisions and the “dispatch” side of things to matter without bogging you down in complicated gameplay mechanics. **Dispatch** hits that sweet spot where gameplay and narrative don’t compete; they feed into each other. Instead of taking you out of the narrative when the gameplay happens and vice versa.
+From Episode 1 all the way to Episode 8,  Dispatch just does not miss. The jokes land. The timing is sharp. The action is so fun to watch that you genuinely forget you’re "playing a game" and not just binging a wild TV series. Then it reminds you that yes, you actually have some control here (sometimes even forgetting that I need to pick up the controller) - all just enough for your decisions and the “Dispatch” side of things to matter without bogging you down in complicated gameplay mechanics. **Dispatch** hits that sweet spot where gameplay and narrative don’t compete; they feed into each other. Instead of taking you out of the narrative when the gameplay happens and vice versa.
 
 To be honest, **Dispatch** is barely a video game in a traditional sense, It often feels more like a highly interactive TV series that borders on being a game. Yet, if its stellar execution earned it a Game of the Year nomination, I wouldn't complain, because it delivers a great gaming experience nonetheless.
 
@@ -91,4 +90,4 @@ Even without a second playthrough yet, Dispatch has that rare quality where you 
 
 For a short, episode-based game, Dispatch manages to feel surprisingly full. The pacing is tight, the writing is sharp, the performances are on point, and the choices, while not universe-shattering, still feel impactful enough in the moment. It’s the kind of game that respects your time but still gives you plenty to chew on.
 
-If you want something that plays like an interactive TV season - with great jokes, strong characters, and just enough agency to make you sweat your choices - Dispatch is absolutely binge-worthy your time. I only clocked in at about 8 or so hours for a single playthrough, so its quite playable in a couple of sittings.
+If you want something that plays like an interactive TV season - with great jokes, strong characters, and just enough agency to make you sweat your choices - Dispatch is absolutely binge-worthy your time. I only clocked in at about 8 or so hours for a single playthrough, so its quite playable in a couple of sittings if not one.
