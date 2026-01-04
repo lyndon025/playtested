@@ -1,6 +1,6 @@
 ---
 title: Short, Stacked, and Absolutely Stellar | Dispatch Review
-pubDate: 2025-12-06T21:43:00.000+08:00
+pubDate: 2026-01-05T01:59:00.000+08:00
 draft: true
 description: How is it possible that a short game like Dispatch is this
   jam-packed with absolutely cool, hilarious, and outright epic moments? A lot
