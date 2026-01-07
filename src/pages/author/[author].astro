@@ -7,18 +7,29 @@ import PostCard from "../../components/PostCard.astro"
 import SiteOptions from "../../site.config.mjs"
 
 export async function getStaticPaths() {
-  const allPosts = await getCollection("article")
-  const allAuthors = [...new Set(allPosts.map((post) => post.data.author))]
+  // 1. Fetch both collections
+  const articles = await getCollection("article");
+  const submissions = await getCollection("submissions");
+
+  // 2. Merge them into a single array
+  const allPosts = [...articles, ...submissions];
+
+  // 3. Get unique authors from the COMBINED list
+  const allAuthors = [...new Set(allPosts.map((post) => post.data.author))];
 
   return allAuthors.map((author) => ({
     params: {
+      // Create the slug (e.g., "lyndon-guitar")
       author: author.toLowerCase().replace(/\s+/g, "-"),
     },
     props: {
       author,
-      posts: allPosts.filter((post) => post.data.author === author).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+      // Filter the COMBINED list to find all posts by this author
+      posts: allPosts
+        .filter((post) => post.data.author === author)
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
     },
-  }))
+  }));
 }
 
 type Props = {
