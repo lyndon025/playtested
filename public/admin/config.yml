@@ -27,8 +27,8 @@ collections:
     sort: "draft:desc, commit_date:desc"
     extension: "md"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "pubDate", widget: "datetime" }
+      - { label: "Title", name: "title", widget: "string", hint: "Review Title | Game Name Review (e.g. Best Game Ever | Half-Life Review)"  }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", hint: "You can backdate this to older dates (When you wrote the review or played the game)"  }
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Description", name: "description", widget: "text", hint: "Write a short one paragraph summary or copy paste the first paragraph of your review" }
 
@@ -63,9 +63,9 @@ collections:
         widget: "list"
         required: false
         field: { label: "Image", name: "image", widget: "image" }
-
-      - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+        hint: "You can add images one a time only" 
+      - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false, hint: "From 0 to 10 with 0.1 increments (e.g. 7.3 is okay)"  }
+      - { label: "Body", name: "body", widget: "markdown", hint: "Put your actual full review here"  }
 
   - name: "article"
     label: "Lyndon Articles"
@@ -77,8 +77,8 @@ collections:
     sort: "draft:desc, commit_date:desc"
     extension: "md"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "pubDate", widget: "datetime" }
+      - { label: "Title", name: "title", widget: "string", hint: "Review Title | Game Name Review (e.g. Best Game Ever | Half-Life Review)" }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", hint: "You can backdate this to older dates (When you wrote the review or played the game)"  }
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Description", name: "description", widget: "text", hint: "Write a short one paragraph summary or copy paste the first paragraph of your review"  }
 
@@ -113,6 +113,6 @@ collections:
         widget: "list"
         required: false
         field: { label: "Image", name: "image", widget: "image" }
-
-      - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+        hint: "You can add images one a time only" 
+      - { label: "Score", name: "score", widget: "number", value_type: "float", min: 0, max: 10, step: 0.1, required: false, hint: "From 0 to 10 with 0.1 increments (e.g. 7.3 is okay)"  }
+      - { label: "Body", name: "body", widget: "markdown", hint: "Put your actual full review here"  }
