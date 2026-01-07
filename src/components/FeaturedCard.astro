@@ -9,7 +9,7 @@ export interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, thumb, score } = post.data;
+const { title, description, thumb, score, author } = post.data;
 const roundedScore = typeof score === 'number' ? Math.round(score) : null;
 ---
 <article
@@ -48,14 +48,26 @@ const roundedScore = typeof score === 'number' ? Math.round(score) : null;
     {description}
   </p>
 
-  {
-    SiteOptions.showReadMoreLinkOnFeaturedPosts && (
-      <a
-        href={`/article/${post.slug}`}
-        class="text-black dark:text-white underline text-sm mt-auto self-start"
+  <div class="mt-auto flex items-center justify-between w-full">
+    {
+      SiteOptions.showReadMoreLinkOnFeaturedPosts && (
+        <a
+          href={`/article/${post.slug}`}
+          class="text-black dark:text-white underline text-sm hover:text-blue-600 dark:hover:text-blue-400"
+        >
+          {SiteOptions.labels.readMore}
+        </a>
+      )
+    }
+
+    <div class="text-xs font-medium text-gray-500 dark:text-gray-400">
+      <span class="mr-1">By</span>
+      <a 
+        href={`/author/${author.toLowerCase().replace(/\s+/g, '-')}`} 
+        class="hover:underline hover:text-blue-600 dark:hover:text-blue-400"
       >
-        {SiteOptions.labels.readMore}
+        {author}
       </a>
-    )
-  }
+    </div>
+  </div>
 </article>

@@ -74,8 +74,20 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
         </p>
       )
     }
-    <span class="text-xs text-gray-700 dark:text-gray-500 mt-2">
-      {formattedDate}
-    </span>
+   <div class="text-xs text-gray-700 dark:text-gray-500 mt-2 flex items-center flex-wrap gap-1">
+      <time datetime={post.data.pubDate.toISOString()}>
+        {formattedDate}
+      </time>
+      
+      <span class="text-gray-400 mx-1">•</span>
+      
+      <span>By</span>
+      <a 
+        href={`/author/${author.toLowerCase().replace(/\s+/g, '-')}`} 
+        class="font-medium hover:underline hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+      >
+        {author}
+      </a>
+    </div>
   </div>
 </li>
