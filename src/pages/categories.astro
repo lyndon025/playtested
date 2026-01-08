@@ -37,7 +37,7 @@ const categoryCounts = allCategories.map((category) => ({
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
       {
         categoryCounts.map(({ name, count }) => (
-          <a href={`/category/${name.toLowerCase().replace(/\s+/g, "-")}`} class="bg-gray-50 dark:bg-slate-800 rounded-lg p-6 hover:bg-gray-100 dark:hover:bg-slate-700 transition-colors border border-gray-200 dark:border-gray-700 group">
+          <a href={`/category/${name.toLowerCase().replace(/\s+/g, "-")}/`} class="bg-gray-50 dark:bg-slate-800 rounded-lg p-6 hover:bg-gray-100 dark:hover:bg-slate-700 transition-colors border border-gray-200 dark:border-gray-700 group">
             <div class="flex items-center justify-between mb-2">
               <h3 class="text-xl font-semibold text-gray-900 dark:text-slate-100 group-hover:text-gray-700 dark:group-hover:text-slate-200 transition-colors">{name}</h3>
               <span class="text-sm text-gray-500 dark:text-gray-400 bg-gray-200 dark:bg-slate-600 px-3 py-1 rounded-full font-medium">{count}</span>

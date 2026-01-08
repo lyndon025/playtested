@@ -46,9 +46,9 @@ const visiblePages = Array.from({ length: page.lastPage }, (_, i) => i + 1).filt
     // Conditional for page 1 URL
     const url = num === 1
       ? (basePath === '/blog'
-          ? `${basePath}/page/1`     // blog: go to dynamic page 1
-          : `${basePath}`)           // tags/categories: go to landing
-      : `${basePath}/page/${num}`; // pages 2+
+          ? `${basePath}/page/1/`     // blog: go to dynamic page 1
+          : `${basePath}/`)           // tags/categories: go to landing
+      : `${basePath}/page/${num}/`; // pages 2+
 
     return (
       <div class="flex items-center">
