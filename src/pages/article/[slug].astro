@@ -117,7 +117,7 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
     )}
     <div class="flex flex-col gap-1 mb-6 border-b pb-4 border-gray-200 dark:border-gray-700">
   <div class="text-xl font-bold text-gray-800 dark:text-gray-100">
-    By <a href={`/author/${author.toLowerCase().replace(/\s+/g, '-')}`} class="hover:text-blue-600 hover:underline decoration-4 decoration-blue-500 underline-offset-4 transition-colors">
+    By <a href={`/author/${author.toLowerCase().replace(/\s+/g, '-')}/`} class="hover:text-blue-600 hover:underline decoration-4 decoration-blue-500 underline-offset-4 transition-colors">
       {author}
     </a>
   </div>

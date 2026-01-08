@@ -10,7 +10,7 @@ const buildSearchIndex = async () => {
   // Fetch both the 'article' and 'submissions' collections
   const articles = await getCollection("article");
   const submissions = await getCollection("submissions");
-  
+
   // Combine the content from both collections
   const allPosts = [...articles, ...submissions];
 
@@ -21,7 +21,7 @@ const buildSearchIndex = async () => {
     description: post.data.description ?? "",
     tags: post.data.tags?.join(", ") ?? "",
     body: post.body.slice(0, 1000),
-    url: `/article/${post.slug}`, // Note: This URL structure might need adjusting if submissions have a different base path.
+    url: `/article/${post.slug}/`, // Note: This URL structure might need adjusting if submissions have a different base path.
     pubDate: post.data.pubDate,
   }));
 

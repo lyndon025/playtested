@@ -113,7 +113,7 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
     {sortedPosts.length > latestPosts.length && (
       <div class="text-center mt-8">
         <a
-          href="/blog/page/1"
+          href="/blog/page/1/"
           class="inline-flex items-center px-6 py-3 text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-md transition-colors"
         >
           {SiteOptions.labels.viewAllPosts}
@@ -137,58 +137,73 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
   </section>
 </BlogLayout>
 
-<script type="module">
-  // ... (the existing JavaScript code for the carousel)
-  const track = document.getElementById("carousel-track");
-  const prevBtn = document.getElementById("carousel-prev");
-  const nextBtn = document.getElementById("carousel-next");
-  const indicators = Array.from(document.querySelectorAll(".indicator"));
-  function getVisibleCount() {
-    const w = window.innerWidth;
-    if (w < 640) return 1;
-    if (w < 768) return 2;
-    return 3;
-  }
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const track = document.getElementById("carousel-track");
+    if (!track) return; // Exit if carousel is not on this page
 
-  let visible = getVisibleCount();
-  let idx = 0;
-  let maxIdx = indicators.length - 1;
+    const prevBtn = document.getElementById("carousel-prev");
+    const nextBtn = document.getElementById("carousel-next");
+    const indicators = Array.from(document.querySelectorAll(".indicator"));
 
-  function updateButtons() {
-    prevBtn.disabled = idx <= 0;
-    nextBtn.disabled = idx >= maxIdx;
-  }
+    function getVisibleCount() {
+      const w = window.innerWidth;
+      if (w < 640) return 1;
+      if (w < 768) return 2;
+      return 3;
+    }
 
-  function updateIndicators() {
-    indicators.forEach((btn, j) => {
-      const active = j === idx;
-      btn.classList.toggle("bg-gray-800", active);
-      btn.classList.toggle("dark:bg-gray-200", active);
-      btn.classList.toggle("bg-gray-300", !active);
-      btn.classList.toggle("dark:bg-gray-600", !active);
+    let visible = getVisibleCount();
+    let idx = 0;
+    let maxIdx = Math.max(0, indicators.length - 1);
+
+    function updateButtons() {
+      if (prevBtn) prevBtn.disabled = idx <= 0;
+      if (nextBtn) nextBtn.disabled = idx >= maxIdx;
+    }
+
+    function updateIndicators() {
+      indicators.forEach((btn, j) => {
+        const active = j === idx;
+        btn.classList.toggle("bg-gray-800", active);
+        btn.classList.toggle("dark:bg-gray-200", active);
+        btn.classList.toggle("bg-gray-300", !active);
+        btn.classList.toggle("dark:bg-gray-600", !active);
+      });
+    }
+
+    function slide() {
+      if (!track) return;
+      visible = getVisibleCount();
+      // Recalculate maxIdx as indicators might have changed or initialized purely based on logic
+      // But here indicators length is static per page load
+      track.style.transform = `translateX(-${(idx * 100) / visible}%)`;
+      updateButtons();
+      updateIndicators();
+    }
+
+    if (prevBtn) {
+        prevBtn.addEventListener("click", () => {
+        if (idx > 0) { idx--; slide(); }
+        });
+    }
+
+    if (nextBtn) {
+        nextBtn.addEventListener("click", () => {
+        if (idx < maxIdx) { idx++; slide(); }
+        });
+    }
+
+    indicators.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        idx = parseInt(btn.dataset.page, 10);
+        slide();
+      });
     });
-  }
 
-  function slide() {
-    visible = getVisibleCount();
-    maxIdx = indicators.length - 1;
-    track.style.transform = `translateX(-${(idx * 100) / visible}%)`;
-    updateButtons();
-    updateIndicators();
-  }
-
-  prevBtn.addEventListener("click", () => {
-    if (idx > 0) { idx--; slide(); }
+    window.addEventListener("resize", slide);
+    
+    // Initial setup
+    slide();
   });
-  nextBtn.addEventListener("click", () => {
-    if (idx < maxIdx) { idx++; slide(); }
-  });
-  indicators.forEach((btn) => {
-    btn.addEventListener("click", () => {
-      idx = parseInt(btn.dataset.page, 10);
-      slide();
-    });
-  });
-  window.addEventListener("load", slide);
-  window.addEventListener("resize", slide);
 </script>

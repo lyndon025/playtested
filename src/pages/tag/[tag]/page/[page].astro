@@ -59,9 +59,9 @@ const start = (currentPage - 1) * POSTS_PER_PAGE;
 const paginated = posts.slice(start, start + POSTS_PER_PAGE);
 
 // 4) Prev/Next URLs
-const base = `/tag/${tag}`;
-const prevHref = currentPage <= 2 ? base : `${base}/page/${currentPage - 1}`;
-const nextHref = currentPage < totalPages ? `${base}/page/${currentPage + 1}` : undefined;
+const base = `/tag/${tag}/`;
+const prevHref = currentPage <= 2 ? base : `${base}page/${currentPage - 1}/`;
+const nextHref = currentPage < totalPages ? `${base}page/${currentPage + 1}/` : undefined;
 const showPrev = currentPage > 1;
 const showNext = currentPage < totalPages;
 
@@ -69,7 +69,7 @@ const showNext = currentPage < totalPages;
 const pageData = {
   data: paginated,
   url: {
-    current: `${base}/page/${currentPage}`,
+    current: `${base}page/${currentPage}/`,
     prev: showPrev ? prevHref : undefined,
     next: showNext ? nextHref : undefined,
   },

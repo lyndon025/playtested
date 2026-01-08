@@ -11,7 +11,7 @@ export async function GET() {
     description: post.data.description ?? "",
     tags: post.data.tags?.join(", ") ?? "",
     body: post.body,
-    url: `/${post.collection}/${post.slug}`,
+    url: `/${post.collection}/${post.slug}/`,
     pubDate: post.data.pubDate,
   }));
 
