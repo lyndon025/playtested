@@ -25,7 +25,6 @@ const { showTitle = true } = Astro.props;
     <button
       id="hamburger"
       class="absolute left-4 p-2 sm:static sm:mr-4 lg:hidden"
-      onclick="toggleMobileMenu()"
       aria-label="Open menu"
     >
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-800 dark:text-gray-100" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -79,30 +78,30 @@ class="absolute top-[20px] w-[280px] lg:w-full flex flex-col lg:flex-row lg:item
     >
       <div class="flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4">
         <a href="/" class="btn-tag">Home</a>
-        <a href="/category/review" class="btn-tag">Reviews</a>
-        <a href="/category/tech" class="btn-tag">Tech</a>
-        <a href="/category/write-up" class="btn-tag">Write-ups</a>
+        <a href="/category/review/" class="btn-tag">Reviews</a>
+        <a href="/category/tech/" class="btn-tag">Tech</a>
+        <a href="/category/write-up/" class="btn-tag">Write-ups</a>
 
         <div class="relative">
-          <button id="platformToggle" class="btn-tag w-full lg:w-auto text-left" onclick="toggleDropdown()">
+          <button id="platformToggle" class="btn-tag w-full lg:w-auto text-left">
             Platforms ▾
           </button>
           <div
             id="platformDropdown"
             class="absolute left-0 top-full mt-2 w-full bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-600 rounded-md shadow-lg z-20 transform scale-y-0 opacity-0 origin-top transition-all duration-200 pointer-events-none"
           >
-            <a href="/tag/pc" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">PC</a>
-            <a href="/tag/console" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Console</a>
-            <a href="/tag/mobile" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Mobile</a>
+            <a href="/tag/pc/" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">PC</a>
+            <a href="/tag/console/" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Console</a>
+            <a href="/tag/mobile/" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-slate-700">Mobile</a>
           </div>
         </div>
 
-        <a href="/ai/recommend" class="btn-tag">AI Recommend</a>
-        <a href="/ai/compare" class="btn-tag">AI Compare</a>
+        <a href="/ai/recommend/" class="btn-tag">AI Recommend</a>
+        <a href="/ai/compare/" class="btn-tag">AI Compare</a>
       </div>
 
       <div class="flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-3 ml-auto w-full lg:w-auto">
-        <a href="/about" class="btn-tag w-full lg:w-auto">About The Site</a>
+        <a href="/about/" class="btn-tag w-full lg:w-auto">About The Site</a>
 
         <div class="relative w-full lg:w-[300px]">
           <input
@@ -137,7 +136,7 @@ class="absolute top-[20px] w-[280px] lg:w-full flex flex-col lg:flex-row lg:item
         document.documentElement.classList.toggle("dark", t === "dark");
         document.documentElement.setAttribute("data-theme", t);
         if (persist) localStorage.setItem("theme", t);
-        setGiscusTheme(t === "dark" ? "dark_dimmed" : "light");   // ← add this
+        setGiscusTheme(t === "dark" ? "dark_dimmed" : "light");
 
         syncIcon();
         syncAria();
@@ -163,19 +162,101 @@ class="absolute top-[20px] w-[280px] lg:w-full flex flex-col lg:flex-row lg:item
       return { get, set, toggle, syncIcon, syncAria };
     })();
 
-    // Wire up button
-    document.getElementById("theme-toggle")?.addEventListener("click", () => Theme.toggle());
+    function setupTheme() {
+        // Re-apply theme from storage to ensure persistence across transitions
+        const stored = localStorage.getItem("theme");
+        const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        const current = stored || (systemPrefersDark ? "dark" : "light");
+        
+        // Use the internal set method but maybe don't need to re-write storage every time, 
+        // but 'set' does minimal work so it's fine.
+        Theme.set(current, false); // false = don't overwrite storage, just sync DOM
 
-    // Keep icon in sync on load and on viewport changes
-    document.addEventListener("DOMContentLoaded", () => {
-      Theme.syncIcon();
-      Theme.syncAria();
-      setTimeout(() => setGiscusTheme(Theme.get() === "dark" ? "dark_dimmed" : "light"), 0);
+        Theme.syncIcon();
+        Theme.syncAria();
+        // Delay to ensure frame exists
+        setTimeout(() => setGiscusTheme(current === "dark" ? "dark_dimmed" : "light"), 0);
+        
+        // Wire up button
+        const btn = document.getElementById("theme-toggle");
+        // Remove old listener to prevent duplicates if navigating
+        const newBtn = btn?.cloneNode(true);
+        if(btn && newBtn) {
+            btn.parentNode.replaceChild(newBtn, btn);
+            newBtn.addEventListener("click", () => Theme.toggle());
+        }
+    }
 
+    function setupMobileMenu() {
+        const nav = document.getElementById("nav-links");
+        const hamburger = document.getElementById("hamburger");
+        
+        if (hamburger && nav) {
+            // Clean up old listeners not needed as we replace or it's a fresh page
+            hamburger.onclick = () => {
+                nav.classList.toggle("hidden");
+            };
+        }
+    }
+
+    function setupDropdown() {
+        const dropdown = document.getElementById("platformDropdown");
+        const toggleBtn = document.getElementById("platformToggle");
+        
+        if (toggleBtn && dropdown) {
+            toggleBtn.onclick = (e) => {
+                e.stopPropagation(); // Prevent closing immediately
+                dropdown.classList.toggle("scale-y-100");
+                dropdown.classList.toggle("opacity-100");
+                dropdown.classList.toggle("scale-y-0");
+                dropdown.classList.toggle("opacity-0");
+                dropdown.classList.toggle("pointer-events-none");
+            };
+            
+            // Close on click outside
+            document.addEventListener("click", (e) => {
+                if (!toggleBtn.contains(e.target) && !dropdown.contains(e.target)) {
+                    dropdown.classList.remove("scale-y-100", "opacity-100");
+                    dropdown.classList.add("scale-y-0", "opacity-0", "pointer-events-none");
+                }
+            });
+        }
+    }
+
+    function setupSearch() {
+        const searchInput = document.getElementById("global-search-input");
+        const searchBtn = document.getElementById("global-search-btn");
+
+        if (searchInput) {
+             searchInput.addEventListener("keydown", (e) => {
+                if (e.key === "Enter") {
+                    e.preventDefault();
+                    const q = encodeURIComponent(searchInput.value.trim());
+                    if (q) window.location.href = `/search/?q=${q}`;
+                }
+            });
+        }
+        
+        if (searchBtn && searchInput) {
+            searchBtn.addEventListener("click", () => {
+                const q = encodeURIComponent(searchInput.value.trim());
+                if (q) window.location.href = `/search/?q=${q}`;
+            });
+        }
+    }
+
+    // Run on every page load (including View Transitions)
+    document.addEventListener("astro:page-load", () => {
+        setupTheme();
+        setupMobileMenu();
+        setupDropdown();
+        setupSearch();
     });
+
+    // Also need to handle resize for theme icon sync
     window.addEventListener("resize", Theme.syncIcon);
 
-    // React to OS theme changes when user has not explicitly chosen
+    // React to OS theme changes
     try {
       const mq = window.matchMedia("(prefers-color-scheme: dark)");
       mq.addEventListener?.("change", e => {
@@ -183,42 +264,6 @@ class="absolute top-[20px] w-[280px] lg:w-full flex flex-col lg:flex-row lg:item
         if (!stored) Theme.set(e.matches ? "dark" : "light", false);
       });
     } catch {}
-
-    // Mobile menu and dropdown
-    const nav = document.getElementById("nav-links");
-    const dropdown = document.getElementById("platformDropdown");
-    const searchInput = document.getElementById("global-search-input");
-    const searchBtn = document.getElementById("global-search-btn");
-
-    function toggleMobileMenu() { nav?.classList.toggle("hidden") }
-    function toggleDropdown() {
-      dropdown.classList.toggle("scale-y-100");
-      dropdown.classList.toggle("opacity-100");
-      dropdown.classList.toggle("scale-y-0");
-      dropdown.classList.toggle("opacity-0");
-      dropdown.classList.toggle("pointer-events-none");
-    }
-    window.toggleMobileMenu = toggleMobileMenu;
-    window.toggleDropdown = toggleDropdown;
-
-    document.addEventListener("click", (e) => {
-      if (!document.getElementById("platformToggle")?.contains(e.target) && !dropdown?.contains(e.target)) {
-        dropdown.classList.remove("scale-y-100", "opacity-100");
-        dropdown.classList.add("scale-y-0", "opacity-0", "pointer-events-none");
-      }
-    });
-
-    searchInput?.addEventListener("keydown", (e) => {
-      if (e.key === "Enter") {
-        e.preventDefault();
-        const q = encodeURIComponent(searchInput.value.trim());
-        if (q) window.location.href = `/search?q=${q}`;
-      }
-    });
-    searchBtn?.addEventListener("click", () => {
-      const q = encodeURIComponent(searchInput.value.trim());
-      if (q) window.location.href = `/search?q=${q}`;
-    });
   </script>
 
 

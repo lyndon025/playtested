@@ -1,4 +1,6 @@
-export const onRequestPost: PagesFunction = async ({ request, env }) => {
+import type { PagesFunction } from "@cloudflare/workers-types";
+
+export const onRequestPost: PagesFunction = async ({ request, env }: { request: Request; env: { OPENROUTER_API_KEY: string } }) => {
   const body = await request.json().catch(() => ({}));
   const gameNames = Array.isArray(body?.gameNames) ? body.gameNames : [];
 
@@ -15,9 +17,7 @@ export const onRequestPost: PagesFunction = async ({ request, env }) => {
 Compare them naturally but systematically. Focus on:
 - Gameplay and mechanics
 - Story and characters
-- Overall vibe and setting
-
-Mention if any are sequels or part of a series. Use full sentences. No markdown or bullet points. Line line spaces to separate paragraphs`;
+- Overall vibe and setting`;
 
   const aiResponse = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",

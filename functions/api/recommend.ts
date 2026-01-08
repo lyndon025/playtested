@@ -13,9 +13,8 @@ export const onRequestPost: PagesFunction = async ({ request, env }) => {
 
   const prompt = `The user enjoys these games: ${gameNames.join(", ")}.
 
-Recommend 3 modern games they might love. Respond ONLY with a plain comma-separated list like:
-Game Title A, Game Title B, Game Title C
-Do not include any explanations.`;
+Recommend exactly 3 modern games they might love. Respond STRICTLY with ONLY a plain comma-separated list of titles like: Game Title A, Game Title B, Game Title C
+No explanations, no numbers, no periods, no extra text whatsoever. Just the titles separated by commas.`;
 
   const aiRes = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
@@ -24,21 +23,38 @@ Do not include any explanations.`;
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "gpt-4",
+      model: "google/gemini-2.5-flash-lite",
       messages: [
-        { role: "system", content: "You are a game recommendation expert. Only respond with game titles." },
+        { role: "system", content: "You are a game recommendation expert. Respond EXACTLY as instructed, with only the comma-separated game titles. No other output." },
         { role: "user", content: prompt },
       ],
-      max_tokens: 200,
+      max_tokens: 512,
     }),
   });
 
+  if (!aiRes.ok) {
+    return new Response(JSON.stringify({ error: "AI recommendation failed." }), {
+      status: 500, headers: { "Content-Type": "application/json" }
+    });
+  }
+
   const aiJson = await aiRes.json();
   const titleLine = aiJson.choices?.[0]?.message?.content?.trim() ?? "";
-  const titles = titleLine.split(",").map((t: string) => t.trim()).filter(Boolean).slice(0, 3);
+  const titles = titleLine
+    .split(",")
+    .map((t: string) => t.trim().replace(/^\d+\.?\s*/, "").replace(/[.!?]$/, ""))
+    .filter(Boolean)
+    .slice(0, 3);
+
+  if (titles.length < 3) {
+    return new Response(JSON.stringify({ error: "Unable to generate sufficient recommendations.", rawResponse: titleLine }), {
+      status: 500, headers: { "Content-Type": "application/json" }
+    });
+  }
 
   async function fetchGame(title: string) {
     const r = await fetch(`https://api.rawg.io/api/games?key=${RAWG_API_KEY}&search=${encodeURIComponent(title)}`);
+    if (!r.ok) return { title, name: title, released: "Unknown", image: null, slug: null, url: null };
     const j = await r.json();
     const g = j.results?.[0];
     return {
@@ -72,6 +88,13 @@ Now explain in 3 paragraphs — one per game — why the user would enjoy each t
       max_tokens: 1024,
     }),
   });
+
+  if (!explainRes.ok) {
+    return new Response(JSON.stringify({ error: "AI explanation failed.", recommended: enriched }), {
+      status: 500, headers: { "Content-Type": "application/json" }
+    });
+  }
+
   const explainJson = await explainRes.json();
   const explanation = explainJson.choices?.[0]?.message?.content?.trim() ?? "";
 

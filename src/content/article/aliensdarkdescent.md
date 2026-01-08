@@ -11,7 +11,7 @@ gallery:
   - /images/reviews/2024-12-27-aliens-dark-descent-4.avif
   - /images/reviews/2024-12-27-aliens-dark-descent-5.avif
 pubDate: 2024-12-27
-score: 8.5
+score: 8.3
 tags:
   - strategy
   - tactical

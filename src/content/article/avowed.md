@@ -11,7 +11,7 @@ gallery:
   - /images/reviews/2025-03-11-avowed-4.avif
   - /images/reviews/2025-03-11-avowed-5.avif
 pubDate: 2025-03-11
-score: 7.0
+score: 7.4
 tags:
   - rpg
   - action

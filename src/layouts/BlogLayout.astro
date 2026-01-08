@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css"
 import SiteOptions from "../site.config.mjs"
+import { ClientRouter } from "astro:transitions";
 
 export interface Props {
   title: string
@@ -8,34 +9,66 @@ export interface Props {
 }
 
 const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } = Astro.props
----
 
+
+const schema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "PlayTested",
+      "url": "https://playtested.net",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://playtested.net/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "PlayTested",
+      "url": "https://playtested.net"
+    }
+  ]
+})
+---
 <!doctype html>
 <html lang="en" class="h-full">
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={Astro.url} />
     <meta property="og:site_name" content={SiteOptions.siteTitle} />
-    <meta name="twitter:card" content="summary" />
+    
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+    
     <link rel="icon" type="image/png" href="/playtested.png" />
     <title>{title}</title>
+    
+    <ClientRouter />
 
-<link rel="alternate" type="application/rss+xml" title="PlayTested RSS" href={`${Astro.url.origin}/rss.xml`} />
+    <link rel="alternate" type="application/rss+xml" title="PlayTested RSS" href={`${Astro.url.origin}/rss.xml`} />
 
     <script is:inline>
       // Theme initialization - prevents FOUC
-      ;(() => {
-        const theme = localStorage.getItem("theme") ?? (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")
+      const getTheme = () => localStorage.getItem("theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      
+      const setTheme = (theme) => {
+        document.documentElement.classList.toggle("dark", theme === "dark");
+        document.documentElement.setAttribute("data-theme", theme);
+      };
 
-        document.documentElement.classList.toggle("dark", theme === "dark")
-      })()
+      setTheme(getTheme());
+
+      document.addEventListener("astro:after-swap", () => setTheme(getTheme()));
     </script>
     {SiteOptions.gTag && (
       <script
@@ -54,22 +87,15 @@ const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } 
 
         gtag("config", gTag);
       </script>
+      <script type="application/ld+json" set:html={schema}></script>
     )}
   </head>
 
   <body class="bg-gray-200 text-gray-900 dark:bg-slate-900 dark:text-slate-200 transition-colors duration-300 min-h-full">
-    <!-- <div class="w-full bg-black h-3"></div> -->
-
-    <main class={`max-w-[1500px] mx-auto px-4`}>
+    <main class="max-w-[1500px] mx-auto px-4 sm:px-6 lg:px-8">
       <slot />
     </main>
 
     <script is:inline src="/scripts/theme-toggle.js"></script>
   </body>
 </html>
-
-<style>
-  @view-transition {
-    navigation: auto;
-  }
-</style>

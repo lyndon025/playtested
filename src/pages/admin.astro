@@ -1,8 +1,11 @@
 ---
-const configUrl = import.meta.env.DEV 
-  ? "/admin/config.local.yml" 
-  : (import.meta.env.CF_PAGES_BRANCH === 'exp' ? "/admin/config.exp.yml" : "/admin/config.yml");
+const configUrl = import.meta.env.DEV
+  ? "/admin/config.local.yml"
+  : import.meta.env.CF_PAGES_BRANCH === "exp"
+    ? "/admin/config.exp.yml"
+    : "/admin/config.yml";
 ---
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -13,6 +16,31 @@ const configUrl = import.meta.env.DEV
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
+
+    <script>
+      const RETRY_KEY = "decap-open-authoring-retried";
+      const PHRASES = [
+        /Your GitHub user account does not have access to this repo./i, // transient before fork
+        /Not Found/i, // optional: private-repo variant
+      ];
+
+      if (!sessionStorage.getItem(RETRY_KEY)) {
+        const obs = new MutationObserver((_, observer) => {
+          const text = document.body.innerText || "";
+          if (PHRASES.some((rx) => rx.test(text))) {
+            sessionStorage.setItem(RETRY_KEY, "1");
+            setTimeout(() => location.reload(), 4000);
+            observer.disconnect();
+          }
+        });
+        obs.observe(document.body, {
+          subtree: true,
+          childList: true,
+          characterData: true,
+        });
+      }
+    </script>
+
     <script src="/admin/index.js" type="module"></script>
   </body>
 </html>

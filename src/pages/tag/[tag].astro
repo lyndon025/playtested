@@ -1,21 +1,26 @@
 ---
-import { getCollection } from "astro:content";
-import BlogLayout  from "../../layouts/BlogLayout.astro";
-import Header      from "../../components/Header.astro";
-import Footer      from "../../components/Footer.astro";
-import PostCard    from "../../components/PostCard.astro";
-import Pagination  from "../../components/Pagination.astro";
+import { getCollection, type CollectionEntry } from "astro:content";
+import BlogLayout from "../../layouts/BlogLayout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import PostCard from "../../components/PostCard.astro";
+import Pagination from "../../components/Pagination.astro";
 import SiteOptions from "../../site.config.mjs";
 
 const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
 
-// ✅ Required for dynamic route generation
+// Define a union type for collections
+type CombinedCollectionEntry = CollectionEntry<"article"> | CollectionEntry<"submissions">;
+
+// Required for dynamic route generation
 export async function getStaticPaths() {
   const POSTS_PER_PAGE = SiteOptions.postsPerPage ?? 10;
-  const allPosts = await getCollection("article");
-  const tagSet = new Set<string>();
+  const articles = await getCollection("article");
+  const submissions = await getCollection("submissions");
+  const allContent: CombinedCollectionEntry[] = [...articles, ...submissions];
 
-  for (const post of allPosts) {
+  const tagSet = new Set<string>();
+  for (const post of allContent) {
     for (const tag of post.data.tags ?? []) {
       // normalize here:
       const slug = tag.toLowerCase().replace(/\s+/g, "-");
@@ -28,25 +33,24 @@ export async function getStaticPaths() {
   }));
 }
 
-// ✅ Runtime logic
+// Runtime logic
 const { tag } = Astro.params as { tag: string };
-const allPosts = await getCollection("article");
+const articles = await getCollection("article");
+const submissions = await getCollection("submissions");
+const allContent: CombinedCollectionEntry[] = [...articles, ...submissions];
 
 // filter using the *same* normalization
-const posts = allPosts
+const posts = allContent
   .filter((post) =>
     post.data.tags?.some(
       (t) => t.toLowerCase().replace(/\s+/g, "-") === tag
     )
   )
-  .sort(
-    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-  );
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 // pagination
 const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
-const paginated  = posts.slice(0, POSTS_PER_PAGE);
-
+const paginated = posts.slice(0, POSTS_PER_PAGE);
 const pageData = {
   data: paginated,
   url: {
@@ -67,7 +71,7 @@ const pageData = {
   <h1 class="text-3xl font-bold mb-8 text-center capitalize">
     Tag: {tag.replace(/-/g, " ")}
   </h1>
-<ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
+  <ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
     {paginated.map((post) => (
       <PostCard post={post} />
     ))}
