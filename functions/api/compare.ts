@@ -12,23 +12,18 @@ export const onRequestPost: PagesFunction = async ({ request, env }: { request: 
 
   const OPENROUTER_API_KEY = env.OPENROUTER_API_KEY;
 
-  const prompt = `You're a game AI tool helping a player decide between: ${gameNames.join(", ")}.
-
-Compare them naturally but systematically. Focus on:
-- Gameplay and mechanics
-- Story and characters
-- Overall vibe and setting`;
+  const prompt = `Compare these games briefly in 1-2 paragraphs: ${gameNames.join(", ")}. Focus on key differences in gameplay, story, and vibe. Be concise.`;
 
   const aiResponse = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
     headers: { Authorization: `Bearer ${OPENROUTER_API_KEY}`, "Content-Type": "application/json" },
     body: JSON.stringify({
-      model: "google/gemini-2.5-flash-lite",
+      model: "google/gemma-3-27b-it:free",
       messages: [
-        { role: "system", content: "You are a trusted gaming expert giving friendly analysis." },
+        { role: "system", content: "You are a concise gaming expert. Give brief, helpful comparisons in 1-2 paragraphs max." },
         { role: "user", content: prompt },
       ],
-      max_tokens: 1024,
+      max_tokens: 400,
     }),
   });
 

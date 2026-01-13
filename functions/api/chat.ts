@@ -101,8 +101,9 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
                 "X-Title": "Storyteller Blog",
             },
             body: JSON.stringify({
-                model: "google/gemini-2.0-flash-lite-preview-02-05:free",
+                model: "google/gemma-3-27b-it:free", // Free tier model
                 messages: finalMessages,
+                max_tokens: 1024, // Limit response to avoid credit issues
                 stream: true,
             }),
         });
