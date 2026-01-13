@@ -2,6 +2,7 @@
 import "../styles/global.css"
 import SiteOptions from "../site.config.mjs"
 import { ClientRouter } from "astro:transitions";
+import ChatWidget from "../components/ChatWidget.astro";
 
 export interface Props {
   title: string
@@ -97,5 +98,6 @@ const schema = JSON.stringify({
     </main>
 
     <script is:inline src="/scripts/theme-toggle.js"></script>
+    <ChatWidget />
   </body>
 </html>

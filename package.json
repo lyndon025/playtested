@@ -4,8 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev --host",
-    "build:search": "astro run scripts/build-search-index.mjs",
-    "build": "npm run build:search && astro build",
+    "build:search": "node scripts/build-search-index.mjs",
+    "build:rag": "node scripts/build-rag-index.mjs",
+    "build": "npm run build:search && npm run build:rag && astro build",
     "preview": "astro preview",
     "dev:cf": "npm run build && wrangler pages dev dist --local",
     "dev:functions": "wrangler pages dev --local --proxy 4321",
