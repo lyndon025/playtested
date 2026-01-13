@@ -13,36 +13,40 @@ const imgsJSON = JSON.stringify(images);
   <div
     id={id}
     data-current="0"
-    class="w-full max-w-[900px] mx-auto"
+    class="w-full max-w-[900px] mx-auto group relative"
   >
     <!-- Main Image with fixed aspect ratio -->
-    <div class="relative rounded-lg w-full">
+    <!-- Main Image with fixed aspect ratio -->
+    <div class="relative rounded-lg w-full group">
       <img
         src={images[0]}
         alt=""
-        class="main-image w-full h-auto max-h-[900px] object-contain rounded-lg opacity-0 transition-opacity duration-500 ease-in-out"
+        class="main-image w-full h-auto max-h-[900px] object-contain rounded-lg opacity-0 transition-opacity duration-500 ease-in-out cursor-zoom-in"
         onload="this.classList.add('opacity-100')"
       />
+      
+      <!-- Navigation Arrows (Centered on Image) -->
+      <button id={`${id}-prev`} class="absolute top-1/2 left-2 -translate-y-1/2 p-2 bg-black/40 hover:bg-black/60 text-white rounded-full transition-colors backdrop-blur-sm shadow-sm opacity-100 z-20" aria-label="Previous image">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+      </button>
+      <button id={`${id}-next`} class="absolute top-1/2 right-2 -translate-y-1/2 p-2 bg-black/40 hover:bg-black/60 text-white rounded-full transition-colors backdrop-blur-sm shadow-sm opacity-100 z-20" aria-label="Next image">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </button>
     </div>
 
     <!-- Thumbnails -->
-    <div class="flex flex-wrap justify-center gap-2 mt-2">
+    <div class="flex flex-nowrap overflow-x-auto md:flex-wrap justify-start md:justify-center gap-1 md:gap-2 mt-1 md:mt-2 pb-2 md:pb-0 scrollbar-hide">
       {images.map((src, i) => (
         <img
-          key={i}
           src={src}
           alt=""
           data-index={i}
-          onclick={`(() => {
-            const c = document.getElementById('${id}');
-            const m = c.querySelector('.main-image');
-            m.classList.remove('opacity-100');
-            m.classList.add('opacity-0');
-            m.onload = () => m.classList.add('opacity-100');
-            c.dataset.current = ${i};
-            m.src = '${images[i]}';
-          })()`}
-          class="thumbnail w-24 h-24 object-cover rounded cursor-pointer opacity-50 border border-transparent hover:opacity-75 transition-opacity duration-200"
+          data-carousel-id={id}
+          class="thumbnail w-16 h-16 md:w-24 md:h-24 shrink-0 object-cover rounded cursor-pointer opacity-50 border border-transparent hover:opacity-75 transition-opacity duration-200"
         />
       ))}
     </div>
@@ -58,43 +62,142 @@ const imgsJSON = JSON.stringify(images);
     <div
       id={`${id}-lightbox`}
       class="fixed inset-0 z-[100] flex items-center justify-center bg-black/90 backdrop-blur-sm hidden transition-opacity duration-300 opacity-0 cursor-zoom-out"
-      onclick={`(() => {
-        const lb = document.getElementById('${id}-lightbox');
-        lb.classList.remove('opacity-100');
-        lb.classList.add('opacity-0');
-        setTimeout(() => lb.classList.add('hidden'), 300);
-      })()`}
     >
+      <!-- Lightbox Prev Button -->
+      <button id={`${id}-lb-prev`} class="absolute left-4 top-1/2 -translate-y-1/2 p-3 bg-white/10 hover:bg-white/20 text-white rounded-full transition-colors backdrop-blur-sm z-[110] cursor-pointer">
+         <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+         </svg>
+      </button>
+      
       <img
         id={`${id}-lightbox-img`}
         src=""
         alt=""
         class="max-w-[95vw] max-h-[95vh] object-contain shadow-2xl rounded-lg"
       />
+      
+      <!-- Lightbox Next Button -->
+      <button id={`${id}-lb-next`} class="absolute right-4 top-1/2 -translate-y-1/2 p-3 bg-white/10 hover:bg-white/20 text-white rounded-full transition-colors backdrop-blur-sm z-[110] cursor-pointer">
+         <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+         </svg>
+      </button>
     </div>
 
-    <script define:vars={{ id }}>
-      // Attach click listener to main-image for lightbox
-      // We use a script here to keep the inline onclick cleaner or just use simple logic
-      const carousel = document.getElementById(id);
-      if (carousel) {
-        const mainImg = carousel.querySelector('.main-image');
-        const lightbox = document.getElementById(`${id}-lightbox`);
-        const lightboxImg = document.getElementById(`${id}-lightbox-img`);
+    <script define:vars={{ id, imgsJSON }}>
+      function initCarousel() {
+        const carousel = document.getElementById(id);
+        if (carousel) {
+          const mainImg = carousel.querySelector('.main-image');
+          const lightbox = document.getElementById(`${id}-lightbox`);
+          const lightboxImg = document.getElementById(`${id}-lightbox-img`);
+          const prevBtn = document.getElementById(`${id}-prev`);
+          const nextBtn = document.getElementById(`${id}-next`);
+          
+          // Lightbox buttons
+          const lbPrev = document.getElementById(`${id}-lb-prev`);
+          const lbNext = document.getElementById(`${id}-lb-next`);
+          
+          const thumbnails = carousel.querySelectorAll('.thumbnail');
+          
+          let currentIndex = 0;
+          const images = JSON.parse(imgsJSON);
 
-        if (mainImg && lightbox && lightboxImg) {
-          mainImg.style.cursor = 'zoom-in';
-          mainImg.addEventListener('click', () => {
-             lightboxImg.src = mainImg.src;
-             lightbox.classList.remove('hidden');
-             // Small delay to allow display:block to apply before opacity transition
-             requestAnimationFrame(() => {
-                lightbox.classList.remove('opacity-0');
-                lightbox.classList.add('opacity-100');
-             });
-          });
+          const updateImage = (index) => {
+             // Fade out
+             mainImg.classList.remove('opacity-100');
+             mainImg.classList.add('opacity-0');
+             
+             // Wait for fade out, then swap
+             setTimeout(() => {
+                 currentIndex = index;
+                 mainImg.src = images[index];
+                 // Update Lightbox image locally if it's open
+                 if (lightbox && !lightbox.classList.contains('hidden')) {
+                    lightboxImg.src = images[index];
+                 }
+
+                 carousel.dataset.current = index;
+                 
+                 // Update active thumbnail style
+                 thumbnails.forEach((t, i) => {
+                     if (i === index) {
+                         t.classList.remove('opacity-50', 'border-transparent');
+                         t.classList.add('opacity-100', 'border-white', 'ring-2', 'ring-blue-500');
+                     } else {
+                         t.classList.add('opacity-50', 'border-transparent');
+                         t.classList.remove('opacity-100', 'border-white', 'ring-2', 'ring-blue-500');
+                     }
+                 });
+             }, 300); // match duration-300? Actually duration-500 in css
+             
+             // Fade In (on load)
+             mainImg.onload = () => {
+                 mainImg.classList.remove('opacity-0');
+                 mainImg.classList.add('opacity-100');
+             }
+          };
+          
+          // Initial highlight
+          updateImage(0);
+
+          if (mainImg && lightbox && lightboxImg) {
+            // Lightbox logic
+            const openLightbox = () => {
+               lightboxImg.src = mainImg.src;
+               lightbox.classList.remove('hidden');
+               requestAnimationFrame(() => {
+                  lightbox.classList.remove('opacity-0');
+                  lightbox.classList.add('opacity-100');
+               });
+            };
+            
+            mainImg.onclick = openLightbox;
+            
+            lightbox.onclick = (e) => {
+                if (e.target === lightbox || e.target === lightboxImg) {
+                    lightbox.classList.remove('opacity-100');
+                    lightbox.classList.add('opacity-0');
+                    setTimeout(() => lightbox.classList.add('hidden'), 300); 
+                }
+            };
+            
+            const goPrev = (e) => {
+                e.stopPropagation();
+                let newIndex = currentIndex - 1;
+                if(newIndex < 0) newIndex = images.length - 1;
+                updateImage(newIndex);
+            };
+            
+            const goNext = (e) => {
+                e.stopPropagation();
+                let newIndex = currentIndex + 1;
+                if(newIndex >= images.length) newIndex = 0;
+                updateImage(newIndex);
+            };
+            
+            // Main Arrows
+            if(prevBtn) prevBtn.onclick = goPrev;
+            if(nextBtn) nextBtn.onclick = goNext;
+            
+            // Lightbox Arrows
+            if(lbPrev) lbPrev.onclick = goPrev;
+            if(lbNext) lbNext.onclick = goNext;
+            
+            // Thumbnails
+            thumbnails.forEach((thumb, i) => {
+                thumb.onclick = () => updateImage(i);
+            })
+          }
         }
       }
+      
+      // Run immediately
+      initCarousel();
+      
+      // Run on navigation
+      document.addEventListener('astro:page-load', initCarousel);
     </script>
   </div>
 )}
