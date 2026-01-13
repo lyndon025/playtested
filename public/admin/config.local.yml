@@ -1,4 +1,4 @@
-local_backend: true
+local_backend: false
 logo_url: "/images/logo01.avif"
 
 # still required by Decap, not used in local mode
