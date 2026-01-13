@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
+    "@cloudflare/workers-types": "^4.20260113.0",
     "wrangler": "^4.28.1"
   },
   "engines": {

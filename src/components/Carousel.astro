@@ -53,5 +53,48 @@ const imgsJSON = JSON.stringify(images);
         {caption}
       </div>
     )}
+
+    <!-- Lightbox Modal -->
+    <div
+      id={`${id}-lightbox`}
+      class="fixed inset-0 z-[100] flex items-center justify-center bg-black/90 backdrop-blur-sm hidden transition-opacity duration-300 opacity-0 cursor-zoom-out"
+      onclick={`(() => {
+        const lb = document.getElementById('${id}-lightbox');
+        lb.classList.remove('opacity-100');
+        lb.classList.add('opacity-0');
+        setTimeout(() => lb.classList.add('hidden'), 300);
+      })()`}
+    >
+      <img
+        id={`${id}-lightbox-img`}
+        src=""
+        alt=""
+        class="max-w-[95vw] max-h-[95vh] object-contain shadow-2xl rounded-lg"
+      />
+    </div>
+
+    <script define:vars={{ id }}>
+      // Attach click listener to main-image for lightbox
+      // We use a script here to keep the inline onclick cleaner or just use simple logic
+      const carousel = document.getElementById(id);
+      if (carousel) {
+        const mainImg = carousel.querySelector('.main-image');
+        const lightbox = document.getElementById(`${id}-lightbox`);
+        const lightboxImg = document.getElementById(`${id}-lightbox-img`);
+
+        if (mainImg && lightbox && lightboxImg) {
+          mainImg.style.cursor = 'zoom-in';
+          mainImg.addEventListener('click', () => {
+             lightboxImg.src = mainImg.src;
+             lightbox.classList.remove('hidden');
+             // Small delay to allow display:block to apply before opacity transition
+             requestAnimationFrame(() => {
+                lightbox.classList.remove('opacity-0');
+                lightbox.classList.add('opacity-100');
+             });
+          });
+        }
+      }
+    </script>
   </div>
 )}
