@@ -122,10 +122,10 @@
         const messagesContainer = document.getElementById("chat-messages");
 
         let isOpen = false;
-        // Persist chat history across pages
+        // Persist chat history in sessionStorage (clears when tab closes)
+        const storedHistory = sessionStorage.getItem("chatHistory");
         const chatHistory: Array<{ role: string; content: string }> =
-            (window as any).__chatHistory || [];
-        (window as any).__chatHistory = chatHistory;
+            storedHistory ? JSON.parse(storedHistory) : [];
 
         // Toggle Window
         toggleBtn?.addEventListener("click", () => {
@@ -194,6 +194,7 @@
             appendMessage("user", text);
             chatInput.value = "";
             chatHistory.push({ role: "user", content: text });
+            sessionStorage.setItem("chatHistory", JSON.stringify(chatHistory));
 
             // Add Loading State
             const loadingDiv = document.createElement("div");
@@ -270,6 +271,10 @@
                     role: "assistant",
                     content: assistantMessage,
                 });
+                sessionStorage.setItem(
+                    "chatHistory",
+                    JSON.stringify(chatHistory),
+                );
             } catch (err) {
                 loadingDiv.remove();
                 appendMessage(

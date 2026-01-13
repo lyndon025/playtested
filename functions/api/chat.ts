@@ -74,20 +74,24 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
 
         // 4. Build Context
         if (topDocs.length > 0) {
-            contextText = "Here is some relevant context from the website articles:\n\n" +
-                topDocs.map(d => `Title: ${d.title}\nURL: ${d.url}\nContent excerpt: ${d.body.substring(0, 1500)}...`).join("\n\n---\n\n");
+            contextText = "Here are relevant articles from PlayTested.net:\n\n" +
+                topDocs.map(d => `Title: ${d.title}\nFull Link: https://playtested.net${d.url}\nExcerpt: ${d.body.substring(0, 800)}...`).join("\n\n---\n\n");
         }
 
         // 5. Construct Prompt & Call AI
         const systemPrompt: Message = {
             role: "system",
-            content: `You are a helpful assistant for the 'PlayTested.net' tech and gaming review site. 
-        Use the following retrieved context to answer the user's question. 
-        If the answer is in the context, cite the article title. 
-        If not, answer generally but mention you couldn't find specific info in the blog.
-        
-        CONTEXT:
-        ${contextText}`
+            content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
+
+INSTRUCTIONS:
+- Give brief, friendly answers (2-3 sentences max per point)
+- When referencing articles, give a SHORT intro (no spoilers, no summary) and include the FULL clickable link
+- Format links as markdown: [Article Title](https://playtested.net/article/slug/)
+- Do NOT list pros/cons. Just briefly introduce what the article covers
+- If no relevant articles found, answer generally and suggest browsing the site
+
+CONTEXT FROM ARTICLES:
+${contextText}`
         };
 
         const finalMessages = [systemPrompt, ...messages];
@@ -98,7 +102,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
                 "Authorization": `Bearer ${env.OPENROUTER_API_KEY}`,
                 "Content-Type": "application/json",
                 "HTTP-Referer": url.origin,
-                "X-Title": "Storyteller Blog",
+                "X-Title": "PlayTested.Net",
             },
             body: JSON.stringify({
                 model: "google/gemma-3-27b-it:free", // Free tier model
