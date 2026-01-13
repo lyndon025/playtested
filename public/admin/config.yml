@@ -21,7 +21,7 @@ collections:
     label: "User Submissions"
     folder: "src/content/submissions"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.game}}"
     preview_path: "article/{{slug}}"
     sortable_fields: ["draft", "commit_date", "pubDate", "title"]
     sort: "draft:desc, commit_date:desc"
@@ -71,7 +71,7 @@ collections:
     label: "Lyndon Articles"
     folder: "src/content/article"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.game}}"
     preview_path: "article/{{slug}}"
     sortable_fields: ["draft", "commit_date", "pubDate", "title"]
     sort: "draft:desc, commit_date:desc"

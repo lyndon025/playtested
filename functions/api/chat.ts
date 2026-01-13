@@ -107,10 +107,19 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             }),
         });
 
+        if (!response.ok) {
+            const errorText = await response.text();
+            console.error("OpenRouter API Error:", response.status, errorText);
+            return new Response(JSON.stringify({ error: `OpenRouter error: ${response.status}`, details: errorText }), {
+                status: response.status,
+                headers: { "Content-Type": "application/json" }
+            });
+        }
+
         return response;
 
     } catch (err) {
-        console.error(err);
-        return new Response(JSON.stringify({ error: "Internal Server Error" }), { status: 500 });
+        console.error("Chat Error:", err);
+        return new Response(JSON.stringify({ error: "Internal Server Error", details: String(err) }), { status: 500 });
     }
 };

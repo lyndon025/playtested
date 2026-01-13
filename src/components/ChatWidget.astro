@@ -109,57 +109,64 @@
 <script>
     import { marked } from "marked";
 
-    const toggleBtn = document.getElementById("chat-toggle");
-    const chatWindow = document.getElementById("chat-window");
-    const iconChat = document.getElementById("icon-chat");
-    const iconClose = document.getElementById("icon-close");
-    const chatForm = document.getElementById("chat-form");
-    const chatInput = document.getElementById("chat-input");
-    const messagesContainer = document.getElementById("chat-messages");
+    // Re-initialize on every page load (works with View Transitions)
+    document.addEventListener("astro:page-load", () => {
+        const toggleBtn = document.getElementById("chat-toggle");
+        const chatWindow = document.getElementById("chat-window");
+        const iconChat = document.getElementById("icon-chat");
+        const iconClose = document.getElementById("icon-close");
+        const chatForm = document.getElementById("chat-form");
+        const chatInput = document.getElementById(
+            "chat-input",
+        ) as HTMLInputElement;
+        const messagesContainer = document.getElementById("chat-messages");
 
-    let isOpen = false;
-    let chatHistory = [];
+        let isOpen = false;
+        // Persist chat history across pages
+        const chatHistory: Array<{ role: string; content: string }> =
+            (window as any).__chatHistory || [];
+        (window as any).__chatHistory = chatHistory;
 
-    // Toggle Window
-    toggleBtn?.addEventListener("click", () => {
-        isOpen = !isOpen;
-        if (isOpen) {
-            chatWindow?.classList.remove("hidden", "pointer-events-none");
-            requestAnimationFrame(() => {
-                chatWindow?.classList.remove("scale-90", "opacity-0");
-                chatWindow?.classList.add(
+        // Toggle Window
+        toggleBtn?.addEventListener("click", () => {
+            isOpen = !isOpen;
+            if (isOpen) {
+                chatWindow?.classList.remove("hidden", "pointer-events-none");
+                requestAnimationFrame(() => {
+                    chatWindow?.classList.remove("scale-90", "opacity-0");
+                    chatWindow?.classList.add(
+                        "scale-100",
+                        "opacity-100",
+                        "pointer-events-auto",
+                    );
+                });
+                iconChat?.classList.add("hidden");
+                iconClose?.classList.remove("hidden");
+                chatInput?.focus();
+            } else {
+                chatWindow?.classList.remove(
                     "scale-100",
                     "opacity-100",
                     "pointer-events-auto",
                 );
-            });
-            iconChat?.classList.add("hidden");
-            iconClose?.classList.remove("hidden");
-            chatInput?.focus();
-        } else {
-            chatWindow?.classList.remove(
-                "scale-100",
-                "opacity-100",
-                "pointer-events-auto",
-            );
-            chatWindow?.classList.add(
-                "scale-90",
-                "opacity-0",
-                "pointer-events-none",
-            );
-            setTimeout(() => chatWindow?.classList.add("hidden"), 300);
-            iconChat?.classList.remove("hidden");
-            iconClose?.classList.add("hidden");
-        }
-    });
+                chatWindow?.classList.add(
+                    "scale-90",
+                    "opacity-0",
+                    "pointer-events-none",
+                );
+                setTimeout(() => chatWindow?.classList.add("hidden"), 300);
+                iconChat?.classList.remove("hidden");
+                iconClose?.classList.add("hidden");
+            }
+        });
 
-    // Append Message Helper
-    const appendMessage = (role, text) => {
-        const isUser = role === "user";
-        const div = document.createElement("div");
-        div.className = `flex gap-2 ${isUser ? "flex-row-reverse" : ""}`;
+        // Append Message Helper
+        const appendMessage = (role, text) => {
+            const isUser = role === "user";
+            const div = document.createElement("div");
+            div.className = `flex gap-2 ${isUser ? "flex-row-reverse" : ""}`;
 
-        div.innerHTML = `
+            div.innerHTML = `
       <div class="w-8 h-8 rounded-full ${isUser ? "bg-gray-300 dark:bg-slate-600" : "bg-blue-100 dark:bg-blue-900"} flex items-center justify-center shrink-0">
         ${isUser ? "👤" : "🤖"}
       </div>
@@ -168,102 +175,109 @@
       </div>
     `;
 
-        messagesContainer?.appendChild(div);
-        messagesContainer?.scrollTo({
-            top: messagesContainer.scrollHeight,
-            behavior: "smooth",
-        });
-        return div;
-    };
+            messagesContainer?.appendChild(div);
+            messagesContainer?.scrollTo({
+                top: messagesContainer.scrollHeight,
+                behavior: "smooth",
+            });
+            return div;
+        };
 
-    // Submit Handler
-    chatForm?.addEventListener("submit", async (e) => {
-        e.preventDefault();
-        if (!chatInput) return;
-        const text = chatInput.value.trim();
-        if (!text) return;
+        // Submit Handler
+        chatForm?.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            if (!chatInput) return;
+            const text = chatInput.value.trim();
+            if (!text) return;
 
-        // Add User Message
-        appendMessage("user", text);
-        chatInput.value = "";
-        chatHistory.push({ role: "user", content: text });
+            // Add User Message
+            appendMessage("user", text);
+            chatInput.value = "";
+            chatHistory.push({ role: "user", content: text });
 
-        // Add Loading State
-        const loadingDiv = document.createElement("div");
-        loadingDiv.className = "flex gap-2";
-        loadingDiv.innerHTML = `
+            // Add Loading State
+            const loadingDiv = document.createElement("div");
+            loadingDiv.className = "flex gap-2";
+            loadingDiv.innerHTML = `
        <div class="w-8 h-8 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center shrink-0">🤖</div>
        <div class="bg-white dark:bg-slate-800 p-3 rounded-lg rounded-tl-none shadow-sm border border-gray-100 dark:border-slate-700 text-sm text-gray-500">
          <span class="animate-pulse">Thinking...</span>
        </div>
     `;
-        messagesContainer?.appendChild(loadingDiv);
-        messagesContainer?.scrollTo({
-            top: messagesContainer.scrollHeight,
-            behavior: "smooth",
-        });
-
-        try {
-            const res = await fetch("/api/chat", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ messages: chatHistory }),
+            messagesContainer?.appendChild(loadingDiv);
+            messagesContainer?.scrollTo({
+                top: messagesContainer.scrollHeight,
+                behavior: "smooth",
             });
 
-            loadingDiv.remove();
+            try {
+                const res = await fetch("/api/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ messages: chatHistory }),
+                });
 
-            if (!res.ok) throw new Error("Failed to fetch response");
+                loadingDiv.remove();
 
-            // Simple stream handling (or just plain text if easier for MVP)
-            // For now, let's assume specific partial handling isn't strictly needed for MVP
-            // but we'll try to read the stream essentially.
+                if (!res.ok) throw new Error("Failed to fetch response");
 
-            const reader = res.body?.getReader();
-            const decoder = new TextDecoder();
-            let assistantMessage = "";
-            let responseDiv = appendMessage("assistant", "");
-            const contentDiv = responseDiv.querySelector(".prose");
+                // Simple stream handling (or just plain text if easier for MVP)
+                // For now, let's assume specific partial handling isn't strictly needed for MVP
+                // but we'll try to read the stream essentially.
 
-            while (true) {
-                const { done, value } = (await reader?.read()) || {};
-                if (done) break;
-                const chunk = decoder.decode(value);
-                // OpenRouter/OpenAI stream format handling usually involves parsing "data: ..."
-                // But if we just output the raw text for now (assuming our backend relays it raw or we parse it there?
-                // Our backend relays it. OpenRouter returns SSE. We need to parse SSE.
-                // For simplicity in this "Beta", let's just wait for full response or do rudimentary parsing.
+                const reader = res.body?.getReader();
+                const decoder = new TextDecoder();
+                let assistantMessage = "";
+                let responseDiv = appendMessage("assistant", "");
+                const contentDiv = responseDiv.querySelector(".prose");
 
-                const lines = chunk.split("\n");
-                for (const line of lines) {
-                    if (line.startsWith("data: ") && line !== "data: [DONE]") {
-                        try {
-                            const data = JSON.parse(line.slice(6));
-                            const content =
-                                data.choices[0]?.delta?.content || "";
-                            if (content) {
-                                assistantMessage += content;
-                                if (contentDiv)
-                                    contentDiv.innerHTML =
-                                        marked.parse(assistantMessage);
-                                messagesContainer?.scrollTo({
-                                    top: messagesContainer.scrollHeight,
-                                    behavior: "smooth",
-                                });
+                while (true) {
+                    const { done, value } = (await reader?.read()) || {};
+                    if (done) break;
+                    const chunk = decoder.decode(value);
+                    // OpenRouter/OpenAI stream format handling usually involves parsing "data: ..."
+                    // But if we just output the raw text for now (assuming our backend relays it raw or we parse it there?
+                    // Our backend relays it. OpenRouter returns SSE. We need to parse SSE.
+                    // For simplicity in this "Beta", let's just wait for full response or do rudimentary parsing.
+
+                    const lines = chunk.split("\n");
+                    for (const line of lines) {
+                        if (
+                            line.startsWith("data: ") &&
+                            line !== "data: [DONE]"
+                        ) {
+                            try {
+                                const data = JSON.parse(line.slice(6));
+                                const content =
+                                    data.choices[0]?.delta?.content || "";
+                                if (content) {
+                                    assistantMessage += content;
+                                    if (contentDiv)
+                                        contentDiv.innerHTML =
+                                            marked.parse(assistantMessage);
+                                    messagesContainer?.scrollTo({
+                                        top: messagesContainer.scrollHeight,
+                                        behavior: "smooth",
+                                    });
+                                }
+                            } catch (e) {
+                                // ignore parse errors on partial chunks
                             }
-                        } catch (e) {
-                            // ignore parse errors on partial chunks
                         }
                     }
                 }
+                chatHistory.push({
+                    role: "assistant",
+                    content: assistantMessage,
+                });
+            } catch (err) {
+                loadingDiv.remove();
+                appendMessage(
+                    "assistant",
+                    "Sorry, I encountered an error. Please try again.",
+                );
+                console.error(err);
             }
-            chatHistory.push({ role: "assistant", content: assistantMessage });
-        } catch (err) {
-            loadingDiv.remove();
-            appendMessage(
-                "assistant",
-                "Sorry, I encountered an error. Please try again.",
-            );
-            console.error(err);
-        }
-    });
+        });
+    }); // Close astro:page-load listener
 </script>

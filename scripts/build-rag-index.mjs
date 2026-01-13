@@ -2,6 +2,7 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import crypto from "node:crypto";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CONTENT_DIR = path.resolve(__dirname, "../src/content");
@@ -54,8 +55,11 @@ const buildRagIndex = () => {
             const { data, body } = parseFrontmatter(content);
             const slug = path.basename(filePath, path.extname(filePath));
 
+            // Generate a short, unique ID using MD5 hash (32 chars, well under 64 bytes)
+            const shortId = crypto.createHash('md5').update(slug).digest('hex');
+
             allPosts.push({
-                id: slug,
+                id: shortId,
                 title: data.title || slug,
                 description: data.description || "",
                 tags: Array.isArray(data.tags) ? data.tags.join(", ") : (data.tags || ""),
