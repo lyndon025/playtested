@@ -35,6 +35,58 @@ function parseFrontmatter(fileContent) {
     return { data, body };
 }
 
+// Clean body content: remove image references, HTML, and frontmatter residue
+function cleanBodyContent(body) {
+    return body
+        // Remove any lines that look like frontmatter (key: value)
+        .replace(/^[a-z]+:\s*.+$/gim, '')
+        // Remove lines that are just dashes or bullet points with no meaningful content
+        .replace(/^\s*-\s*$/gm, '')
+        // Remove lines that start with dashes followed by tags/categories
+        .replace(/^\s*-\s*[a-z0-9-]+\s*$/gim, '')
+        // Remove markdown images: ![alt](path)
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+        // Remove HTML img tags
+        .replace(/<img[^>]*>/gi, '')
+        // Remove picture elements
+        .replace(/<picture[^>]*>[\s\S]*?<\/picture>/gi, '')
+        // Remove div elements with class attributes (often wrappers for images)
+        .replace(/<div[^>]*class="[^"]*"[^>]*>[\s\S]*?<\/div>/gi, '')
+        // Remove avif/image path references (full paths and fragments)
+        .replace(/\/images\/[^\s"'<>)]+\.(avif|png|jpg|jpeg|gif|webp)/gi, '')
+        // Remove standalone image filenames like "review-0.avif" or "first-impre-0.avif"
+        .replace(/[a-z0-9-]+-\d+\.avif/gi, '')
+        .replace(/[a-z0-9_-]+\.(avif|png|jpg|jpeg|gif|webp)/gi, '')
+        // Remove thumb: and gallery: lines and their content
+        .replace(/thumb:\s*[^\n]+/gi, '')
+        .replace(/gallery:\s*[^\n]+/gi, '')
+        // Remove pubDate lines that leaked into body
+        .replace(/pubDate:\s*[^\n]+/gi, '')
+        // Remove tags lines that leaked into body  
+        .replace(/tags:\s*[^\n]+/gi, '')
+        // Remove empty HTML tags
+        .replace(/<[^>]+>\s*<\/[^>]+>/g, '')
+        // Remove br tags
+        .replace(/<br\s*\/?>/gi, ' ')
+        // Remove span tags but keep content
+        .replace(/<span[^>]*>([^<]*)<\/span>/gi, '$1')
+        // Clean up multiple newlines
+        .replace(/\n{3,}/g, '\n\n')
+        // Clean up lines that are just whitespace and dashes
+        .replace(/^\s*[-\s]+\s*$/gm, '')
+        // Clean up extra spaces
+        .replace(/\s{3,}/g, ' ')
+        .trim();
+}
+
+// Generate clean slug from game name
+function generateCleanSlug(gameName) {
+    return gameName
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '')  // Remove all non-alphanumeric
+        .substring(0, 50);  // Limit length
+}
+
 // Recursively get all markdown files
 function getFilesRecursive(dir) {
     if (!fs.existsSync(dir)) return [];
@@ -58,6 +110,7 @@ const buildRagIndex = () => {
     let allPosts = [];
     const authorsSet = new Set();
     const categoryCounts = {};
+    const seenSlugs = new Set();
 
     // 1. Process Content Collections (RECURSIVELY)
     collections.forEach(col => {
@@ -67,7 +120,28 @@ const buildRagIndex = () => {
         files.forEach(filePath => {
             const content = fs.readFileSync(filePath, "utf-8");
             const { data, body } = parseFrontmatter(content);
-            const slug = path.basename(filePath, path.extname(filePath));
+            const filename = path.basename(filePath, path.extname(filePath));
+
+            // Determine the best slug to use:
+            // Priority: game field (cleaned) > explicit slug in frontmatter > filename
+            let finalSlug;
+            if (data.game) {
+                finalSlug = generateCleanSlug(data.game);
+            } else if (data.slug && !data.slug.startsWith('2022-') && !data.slug.startsWith('2023-')) {
+                // Use frontmatter slug only if it's not a long date-based one
+                finalSlug = data.slug;
+            } else {
+                finalSlug = filename;
+            }
+
+            // Handle duplicate slugs by appending a suffix
+            let uniqueSlug = finalSlug;
+            let counter = 1;
+            while (seenSlugs.has(uniqueSlug)) {
+                uniqueSlug = `${finalSlug}-${counter}`;
+                counter++;
+            }
+            seenSlugs.add(uniqueSlug);
 
             // Track authors
             if (data.author) {
@@ -78,18 +152,21 @@ const buildRagIndex = () => {
             const category = (data.category || "uncategorized").toLowerCase();
             categoryCounts[category] = (categoryCounts[category] || 0) + 1;
 
-            // Generate a short, unique ID using MD5 hash
-            const shortId = crypto.createHash('md5').update(slug + filePath).digest('hex');
+            // Clean the body content
+            const cleanedBody = cleanBodyContent(body);
+
+            // Generate a short, unique ID
+            const shortId = crypto.createHash('md5').update(uniqueSlug + filePath).digest('hex');
 
             allPosts.push({
                 id: shortId,
-                title: data.title || slug,
+                title: data.title || filename,
                 description: data.description || "",
                 tags: Array.isArray(data.tags) ? data.tags.join(", ") : (data.tags || ""),
                 author: data.author || "lyndonguitar",
                 category: category,
-                body: body,
-                url: `/article/${slug}/`,
+                body: cleanedBody,
+                url: `/article/${uniqueSlug}/`,
                 pubDate: data.pubDate || new Date().toISOString()
             });
         });
@@ -105,21 +182,6 @@ const buildRagIndex = () => {
     const categoryStats = Object.entries(categoryCounts)
         .map(([cat, count]) => `- ${cat}: ${count} articles`)
         .join("\n");
-
-    // 4. Read About page for site context
-    let aboutText = "";
-    try {
-        const aboutPath = path.resolve(__dirname, "../src/pages/about.astro");
-        const aboutContent = fs.readFileSync(aboutPath, "utf-8");
-        // Naive HTML strip: remove tags
-        aboutText = aboutContent.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
-        // Truncate to keep it reasonable
-        if (aboutText.length > 2000) {
-            aboutText = aboutText.substring(0, 2000) + "...";
-        }
-    } catch (e) {
-        console.warn("Could not read about.astro for RAG index:", e);
-    }
 
     const totalArticles = allPosts.length;
 
