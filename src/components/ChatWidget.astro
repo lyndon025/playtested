@@ -232,25 +232,62 @@
 
                 if (!res.ok) throw new Error("Failed to fetch response");
 
-                // Simple stream handling (or just plain text if easier for MVP)
-                // For now, let's assume specific partial handling isn't strictly needed for MVP
-                // but we'll try to read the stream essentially.
-
+                // Simple stream handling with reference map support
                 const reader = res.body?.getReader();
                 const decoder = new TextDecoder();
                 let assistantMessage = "";
+                let fullResponse = "";
+                let referenceMap: Record<string, string> = {};
+                let refsParsed = false;
                 let responseDiv = appendMessage("assistant", "");
                 const contentDiv = responseDiv.querySelector(".prose");
+
+                // Helper to convert [1], [2] etc to clickable links
+                const convertRefsToLinks = (text: string): string => {
+                    let result = text;
+                    for (const [ref, url] of Object.entries(referenceMap)) {
+                        // Replace [1] with [1](url) for markdown link
+                        const escapedRef = ref.replace(/[[\]]/g, "\\$&");
+                        const regex = new RegExp(escapedRef, "g");
+                        result = result.replace(regex, `[${ref}](${url})`);
+                    }
+                    return result;
+                };
 
                 while (true) {
                     const { done, value } = (await reader?.read()) || {};
                     if (done) break;
                     const chunk = decoder.decode(value);
-                    // OpenRouter/OpenAI stream format handling usually involves parsing "data: ..."
-                    // But if we just output the raw text for now (assuming our backend relays it raw or we parse it there?
-                    // Our backend relays it. OpenRouter returns SSE. We need to parse SSE.
-                    // For simplicity in this "Beta", let's just wait for full response or do rudimentary parsing.
+                    fullResponse += chunk;
 
+                    // Parse out the reference map prefix if not yet done
+                    if (
+                        !refsParsed &&
+                        fullResponse.includes("<!--REFS:") &&
+                        fullResponse.includes(":REFS-->")
+                    ) {
+                        const refsMatch = fullResponse.match(
+                            /<!--REFS:(.*?):REFS-->/,
+                        );
+                        if (refsMatch) {
+                            try {
+                                referenceMap = JSON.parse(refsMatch[1]);
+                            } catch (e) {
+                                console.error(
+                                    "Failed to parse reference map:",
+                                    e,
+                                );
+                            }
+                            // Remove the refs prefix from the response
+                            fullResponse = fullResponse.replace(
+                                /<!--REFS:.*?:REFS-->\n?/,
+                                "",
+                            );
+                            refsParsed = true;
+                        }
+                    }
+
+                    // Process SSE data lines
                     const lines = chunk.split("\n");
                     for (const line of lines) {
                         if (
@@ -263,9 +300,15 @@
                                     data.choices[0]?.delta?.content || "";
                                 if (content) {
                                     assistantMessage += content;
-                                    if (contentDiv)
+                                    if (contentDiv) {
+                                        // Convert refs to links before rendering
+                                        const withLinks =
+                                            convertRefsToLinks(
+                                                assistantMessage,
+                                            );
                                         contentDiv.innerHTML =
-                                            marked.parse(assistantMessage);
+                                            marked.parse(withLinks);
+                                    }
                                     messagesContainer?.scrollTo({
                                         top: messagesContainer.scrollHeight,
                                         behavior: "smooth",
@@ -277,9 +320,16 @@
                         }
                     }
                 }
+
+                // Final conversion with links
+                const finalMessage = convertRefsToLinks(assistantMessage);
+                if (contentDiv) {
+                    contentDiv.innerHTML = marked.parse(finalMessage);
+                }
+
                 chatHistory.push({
                     role: "assistant",
-                    content: assistantMessage,
+                    content: finalMessage,
                 });
                 sessionStorage.setItem(
                     "chatHistory",

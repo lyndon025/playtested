@@ -83,41 +83,34 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             topDocs.unshift(siteInfo); // Add Site Info at the start
         }
 
-        // Build context with numbered references to prevent URL corruption
+        // Build reference map (server-side, never sent to AI to type)
+        const referenceMap: Record<string, string> = {};
         let articleList = "";
-        let referenceList = "";
         if (topDocs.length > 0) {
             topDocs.forEach((d, i) => {
                 const refNum = i + 1;
+                referenceMap[`[${refNum}]`] = `https://playtested.net${d.url}`;
                 articleList += `[${refNum}] "${d.title}" by ${d.author || 'lyndonguitar'}\nExcerpt: ${d.body.substring(0, 600)}...\n\n`;
-                referenceList += `[${refNum}] https://playtested.net${d.url}\n`;
             });
-            contextText = `ARTICLES:\n${articleList}\nREFERENCE LINKS (use these exact URLs):\n${referenceList}`;
+            contextText = `ARTICLES:\n${articleList}`;
         }
 
-        // 5. Construct Prompt & Call AI
+        // 5. Construct Prompt & Call AI - tell it to NEVER type URLs
         const systemPrompt: Message = {
             role: "system",
             content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
 
-HOW TO RESPOND:
-- When mentioning an article, bold the title and add its reference number: **Article Title** [1]
-- At the END of your response, add a "Links:" section with the actual URLs for any references you used
-- Format: Links:\n[1] URL\n[2] URL
-- Only include links you actually referenced in your answer
-
-EXAMPLE RESPONSE:
-We have a review of that game! Check out **Chained Echoes - First Impressions** [1] by lyndonguitar. It covers the combat system and worldbuilding.
-
-Links:
-[1] https://playtested.net/article/chainedechoes/
+HOW TO CITE ARTICLES:
+- When mentioning an article, use: **Article Title** [ref number]
+- Example: Check out **Chained Echoes Review** [1] by lyndonguitar
+- NEVER type any URLs - the system will automatically convert [1], [2], etc into clickable links
+- Do NOT include a "Links:" section - the system handles this automatically
 
 INSTRUCTIONS:
 - Answer ONLY based on the provided "ARTICLES" context. Do not make up info.
 - If the user asks about the site owner, authors, or article counts, check the context for "About PlayTested" or "Statistics".
 - Give brief, friendly answers (2-3 sentences max per point).
 - If no relevant articles found, answer generally and suggest browsing the site.
-- ALWAYS include the Links section at the end if you referenced any articles.
 
 ${contextText}`
         };
@@ -133,8 +126,7 @@ ${contextText}`
                 "X-Title": "PlayTested.Net",
             },
             body: JSON.stringify({
-                model: "google/gemma-3-27b-it:free", // Free Gemma model with numbered refs
-
+                model: "google/gemma-3-27b-it:free", // Free Gemma model
                 messages: finalMessages,
                 max_tokens: 2048,
                 stream: true,
@@ -150,7 +142,38 @@ ${contextText}`
             });
         }
 
-        return response;
+        // Prefix the response with reference map JSON for client to parse
+        const refMapJson = JSON.stringify(referenceMap);
+        const prefix = `<!--REFS:${refMapJson}:REFS-->\n`;
+        const prefixBytes = new TextEncoder().encode(prefix);
+
+        // Create a new stream that prepends our reference data
+        const originalStream = response.body;
+        const newStream = new ReadableStream({
+            async start(controller) {
+                // First, send the prefix
+                controller.enqueue(prefixBytes);
+
+                // Then, pipe through the original response
+                const reader = originalStream?.getReader();
+                if (reader) {
+                    while (true) {
+                        const { done, value } = await reader.read();
+                        if (done) break;
+                        controller.enqueue(value);
+                    }
+                }
+                controller.close();
+            }
+        });
+
+        return new Response(newStream, {
+            headers: {
+                "Content-Type": "text/event-stream",
+                "Cache-Control": "no-cache",
+                "Connection": "keep-alive",
+            }
+        });
 
     } catch (err) {
         console.error("Chat Error:", err);
