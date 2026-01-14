@@ -31,7 +31,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
 
         // 1. Fetch Full Content Index (needed for body text)
         const url = new URL(request.url);
-        const indexUrl = `${url.origin}/rag-index.json`;
+        const indexUrl = `${url.origin}/rag-index.json?t=${Date.now()}`;
         const indexRes = await fetch(indexUrl);
         let fullIndex: RagDoc[] = [];
         if (indexRes.ok) {

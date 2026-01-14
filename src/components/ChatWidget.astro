@@ -254,13 +254,20 @@
                     return result;
                 };
 
+                // Buffer for incomplete chunks
+                let buffer = "";
+
                 while (true) {
                     const { done, value } = (await reader?.read()) || {};
-                    if (done) break;
-                    const chunk = decoder.decode(value);
-                    fullResponse += chunk;
 
-                    // Parse out the reference map prefix if not yet done
+                    // Append new chunk to fullResponse (for refs) and buffer (for lines)
+                    if (value) {
+                        const chunk = decoder.decode(value, { stream: true });
+                        fullResponse += chunk;
+                        buffer += chunk;
+                    }
+
+                    // Check for Ref Map
                     if (
                         !refsParsed &&
                         fullResponse.includes("<!--REFS:") &&
@@ -278,36 +285,42 @@
                                     e,
                                 );
                             }
-                            // Remove the refs prefix from the response
-                            fullResponse = fullResponse.replace(
-                                /<!--REFS:.*?:REFS-->\n?/,
-                                "",
-                            );
                             refsParsed = true;
                         }
                     }
 
-                    // Process SSE data lines
-                    const lines = chunk.split("\n");
+                    // Process lines from buffer
+                    // If done is true, we process the WHOLE buffer (even if no newline at end)
+                    // If not done, we process only up to the last newline
+                    let lines: string[] = [];
+                    if (done) {
+                        if (buffer.trim()) lines = buffer.split("\n");
+                    } else {
+                        const parts = buffer.split("\n");
+                        // Keep the last part in the buffer
+                        buffer = parts.pop() || "";
+                        lines = parts;
+                    }
+
                     for (const line of lines) {
+                        const trimmedLine = line.trim();
                         if (
-                            line.startsWith("data: ") &&
-                            line !== "data: [DONE]"
+                            trimmedLine.startsWith("data: ") &&
+                            trimmedLine !== "data: [DONE]"
                         ) {
                             try {
-                                const data = JSON.parse(line.slice(6));
+                                const data = JSON.parse(trimmedLine.slice(6));
                                 const content =
                                     data.choices[0]?.delta?.content || "";
                                 if (content) {
                                     assistantMessage += content;
                                     if (contentDiv) {
-                                        // Convert refs to links before rendering
                                         const withLinks =
                                             convertRefsToLinks(
                                                 assistantMessage,
                                             );
                                         contentDiv.innerHTML =
-                                            marked.parse(withLinks);
+                                            await marked.parse(withLinks);
                                     }
                                     messagesContainer?.scrollTo({
                                         top: messagesContainer.scrollHeight,
@@ -315,16 +328,18 @@
                                     });
                                 }
                             } catch (e) {
-                                // ignore parse errors on partial chunks
+                                // ignore
                             }
                         }
                     }
+
+                    if (done) break;
                 }
 
                 // Final conversion with links
                 const finalMessage = convertRefsToLinks(assistantMessage);
                 if (contentDiv) {
-                    contentDiv.innerHTML = marked.parse(finalMessage);
+                    contentDiv.innerHTML = await marked.parse(finalMessage);
                 }
 
                 chatHistory.push({
