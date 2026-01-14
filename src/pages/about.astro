@@ -35,11 +35,18 @@ const siteTitle = SiteOptions.siteTitle || "PlayTested";
       <div class="mt-6 flex flex-wrap gap-3 text-sm">
         <a
           href="/category/review/"
-          class="px-3 py-1 rounded bg-blue-600 text-white">Read Reviews</a
+          class="px-3 py-1 rounded bg-blue-600 text-white hover:bg-blue-700 transition-colors"
+          >Read Reviews</a
         >
+        <button
+          id="about-chat-btn"
+          class="px-3 py-1 rounded bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 transition-colors"
+        >
+          AI Chatbot
+        </button>
         <a
           href="/ai/recommend/"
-          class="px-3 py-1 rounded bg-slate-200 dark:bg-slate-700"
+          class="px-3 py-1 rounded bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 transition-colors"
           >AI Recommend</a
         >
         <a
@@ -331,5 +338,20 @@ const siteTitle = SiteOptions.siteTitle || "PlayTested";
         "name": "PlayTested"
       }
     }
+  </script>
+  <script>
+    document.addEventListener("astro:page-load", () => {
+      const btn = document.getElementById("about-chat-btn");
+      if (btn) {
+        btn.onclick = (e) => {
+          e.preventDefault();
+          document.dispatchEvent(
+            new CustomEvent("playtested:chat-toggle", {
+              detail: { mode: "center" },
+            }),
+          );
+        };
+      }
+    });
   </script>
 </BlogLayout>
