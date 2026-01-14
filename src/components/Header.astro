@@ -143,6 +143,12 @@ const { showTitle = true } = Astro.props;
           </div>
         </div>
 
+        <button
+          id="nav-chat-btn"
+          class="btn-tag w-full lg:w-auto text-left lg:text-center"
+          >AI Chatbot</button
+        >
+
         <a href="/ai/recommend/" class="btn-tag">AI Recommend</a>
         <a href="/ai/compare/" class="btn-tag">AI Compare</a>
       </div>
@@ -341,12 +347,41 @@ const { showTitle = true } = Astro.props;
       }
     }
 
+    function setupNavChat() {
+      const btn = document.getElementById("nav-chat-btn");
+      if (btn) {
+        btn.onclick = (e) => {
+          e.preventDefault();
+          // Direct call to avoid event detail loss
+          if (window["_playtestedToggleChat"]) {
+            window["_playtestedToggleChat"]("center");
+          }
+
+          // Also close mobile menu if open
+          const nav = document.getElementById("nav-links");
+          if (nav && !nav.classList.contains("opacity-0")) {
+            nav.classList.remove(
+              "opacity-100",
+              "translate-y-0",
+              "pointer-events-auto",
+            );
+            nav.classList.add(
+              "opacity-0",
+              "-translate-y-4",
+              "pointer-events-none",
+            );
+          }
+        };
+      }
+    }
+
     // Run on every page load (including View Transitions)
     document.addEventListener("astro:page-load", () => {
       setupTheme();
       setupMobileMenu();
       setupDropdown();
       setupSearch();
+      setupNavChat();
     });
 
     // Also need to handle resize for theme icon sync
