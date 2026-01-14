@@ -76,7 +76,12 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             topDocs = scoredDocs.filter(d => d.score > 0).sort((a, b) => b.score - a.score).slice(0, 3).map(d => d.doc);
         }
 
-        // 4. Build Context
+        // 4. Build Context - ALWAYS include Site Info for author/stats queries
+        const siteInfo = fullIndex.find(d => d.id === "site-meta-info");
+        if (siteInfo && !topDocs.some(d => d.id === "site-meta-info")) {
+            topDocs.unshift(siteInfo); // Add Site Info at the start
+        }
+
         if (topDocs.length > 0) {
             contextText = "Here are relevant articles from PlayTested.net:\n\n" +
                 topDocs.map(d => `Title: ${d.title}\nFull Link: https://playtested.net${d.url}\nExcerpt: ${d.body.substring(0, 800)}...`).join("\n\n---\n\n");
@@ -110,7 +115,7 @@ ${contextText}`
                 "X-Title": "PlayTested.Net",
             },
             body: JSON.stringify({
-                model: "deepseek/deepseek-r1-0528:free", // DeepSeek R1 (0528 Update)
+                model: "meta-llama/llama-3.3-70b-instruct:free", // Stable, fast free model
 
                 messages: finalMessages,
                 max_tokens: 2048,
