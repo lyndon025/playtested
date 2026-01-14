@@ -27,7 +27,7 @@ PlayTested is a modern, static‑site game review platform built with [Astro](ht
 * **Styling**: Tailwind CSS
 * **AI**: Cloudflare Workers AI + OpenRouter API
 * **Vector DB**: Cloudflare Vectorize
-* **CMS**: Sveltia CMS (formerly DecapCMS)
+* **CMS**: DecapCMS
 * **Game Data**: RAWG API
 * **Hosting**: Cloudflare Pages
 
