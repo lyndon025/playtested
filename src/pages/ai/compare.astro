@@ -13,8 +13,10 @@ import GameSelector from "../../components/GameSelector.astro";
     <div
       class="bg-gradient-to-br mt-10 from-purple-50 to-pink-50 dark:from-slate-800 dark:to-slate-900 rounded-2xl p-8 border border-purple-100 dark:border-slate-700 shadow-lg"
     >
-      <div class="flex items-center space-x-3 mb-6">
-        <div class="bg-purple-500 rounded-full p-3">
+      <div
+        class="flex flex-col sm:flex-row items-center sm:items-start space-y-4 sm:space-y-0 sm:space-x-4 mb-6 text-center sm:text-left"
+      >
+        <div class="bg-purple-500 rounded-full p-3 shrink-0">
           <svg
             class="w-6 h-6 text-white"
             fill="none"
@@ -30,36 +32,40 @@ import GameSelector from "../../components/GameSelector.astro";
           </svg>
         </div>
         <div>
-          <h2 class="text-3xl font-bold text-gray-900 dark:text-gray-100">
+          <h2
+            class="text-2xl sm:text-3xl font-bold text-gray-900 dark:text-gray-100"
+          >
             AI Game Comparison
           </h2>
-          <p class="text-gray-600 dark:text-gray-300 mt-1">
+          <p class="text-gray-600 dark:text-gray-300 mt-1 text-sm sm:text-base">
             Can't decide between different games? Let AI help you choose
           </p>
         </div>
       </div>
 
-      <div
-        class="bg-white dark:bg-slate-800 rounded-xl p-6 border border-purple-200 dark:border-slate-600"
-      >
-        <div class="mb-4">
-          <h3
-            class="text-lg font-semibold mb-2 text-gray-800 dark:text-gray-200"
-          >
-            Quick Comparison:
-          </h3>
-          <ul class="text-sm text-gray-600 dark:text-gray-400 space-y-1">
-            <li>
-              ⚡ <strong>Brief Analysis:</strong> Get a concise 1-2 paragraph comparison
-            </li>
-            <li>
-              🎮 <strong>Key Differences:</strong> Gameplay, story, and vibe at a
-              glance
-            </li>
-            <li>
-              💡 <strong>Quick Decision:</strong> Helps you choose faster
-            </li>
-          </ul>
+      <div class="mb-4 space-y-4">
+        <div
+          class="bg-white/50 dark:bg-slate-800/50 rounded-xl p-4 sm:p-6 backdrop-blur-sm border border-purple-100 dark:border-slate-700"
+        >
+          <div class="mb-4">
+            <h3
+              class="text-lg font-semibold mb-2 text-gray-800 dark:text-gray-200"
+            >
+              Quick Comparison:
+            </h3>
+            <ul class="text-sm text-gray-600 dark:text-gray-400 space-y-1">
+              <li>
+                ⚡ <strong>Brief Analysis:</strong> Get a concise 1-2 paragraph comparison
+              </li>
+              <li>
+                🎮 <strong>Key Differences:</strong> Gameplay, story, and vibe at
+                a glance
+              </li>
+              <li>
+                💡 <strong>Quick Decision:</strong> Helps you choose faster
+              </li>
+            </ul>
+          </div>
         </div>
 
         <GameSelector
@@ -86,7 +92,7 @@ import GameSelector from "../../components/GameSelector.astro";
         insights.
       </p>
       <div
-        class="mt-6 flex justify-center space-x-8 text-sm text-gray-500 dark:text-gray-400"
+        class="mt-6 flex flex-wrap justify-center gap-4 text-sm text-gray-500 dark:text-gray-400"
       >
         <div class="flex items-center space-x-2">
           <span class="w-2 h-2 bg-green-500 rounded-full"></span>
