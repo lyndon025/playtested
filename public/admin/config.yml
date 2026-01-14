@@ -13,7 +13,10 @@ site_url: https://www.playtested.net
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
-publish_mode: editorial_workflow      
+publish_mode: editorial_workflow
+
+editor:
+  preview: false      
 
 collections:
 
