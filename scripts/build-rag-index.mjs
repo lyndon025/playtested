@@ -123,7 +123,8 @@ const buildRagIndex = () => {
             const filename = path.basename(filePath, path.extname(filePath));
 
             // Use filename as slug (this matches the actual site routing)
-            const slug = filename;
+            // Fix: Normalize double dashes to single dash to match Astro/website routing
+            const slug = filename.replace(/-+/g, '-');
 
             // Track authors
             if (data.author) {
