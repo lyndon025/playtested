@@ -122,26 +122,8 @@ const buildRagIndex = () => {
             const { data, body } = parseFrontmatter(content);
             const filename = path.basename(filePath, path.extname(filePath));
 
-            // Determine the best slug to use:
-            // Priority: game field (cleaned) > explicit slug in frontmatter > filename
-            let finalSlug;
-            if (data.game) {
-                finalSlug = generateCleanSlug(data.game);
-            } else if (data.slug && !data.slug.startsWith('2022-') && !data.slug.startsWith('2023-')) {
-                // Use frontmatter slug only if it's not a long date-based one
-                finalSlug = data.slug;
-            } else {
-                finalSlug = filename;
-            }
-
-            // Handle duplicate slugs by appending a suffix
-            let uniqueSlug = finalSlug;
-            let counter = 1;
-            while (seenSlugs.has(uniqueSlug)) {
-                uniqueSlug = `${finalSlug}-${counter}`;
-                counter++;
-            }
-            seenSlugs.add(uniqueSlug);
+            // Use filename as slug (this matches the actual site routing)
+            const slug = filename;
 
             // Track authors
             if (data.author) {
@@ -156,7 +138,7 @@ const buildRagIndex = () => {
             const cleanedBody = cleanBodyContent(body);
 
             // Generate a short, unique ID
-            const shortId = crypto.createHash('md5').update(uniqueSlug + filePath).digest('hex');
+            const shortId = crypto.createHash('md5').update(slug + filePath).digest('hex');
 
             allPosts.push({
                 id: shortId,
@@ -166,7 +148,7 @@ const buildRagIndex = () => {
                 author: data.author || "lyndonguitar",
                 category: category,
                 body: cleanedBody,
-                url: `/article/${uniqueSlug}/`,
+                url: `/article/${slug}/`,
                 pubDate: data.pubDate || new Date().toISOString()
             });
         });

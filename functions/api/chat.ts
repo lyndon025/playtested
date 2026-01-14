@@ -120,7 +120,7 @@ ${contextText}`
                 "X-Title": "PlayTested.Net",
             },
             body: JSON.stringify({
-                model: "meta-llama/llama-3.3-70b-instruct:free", // Stable, fast free model
+                model: "google/gemma-3-27b-it:free", // Gemma - stable and accurate
 
                 messages: finalMessages,
                 max_tokens: 2048,
