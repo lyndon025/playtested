@@ -283,24 +283,15 @@
 
         toggleBtn?.addEventListener("click", () => toggleChat()); // FAB click -> toggle default
 
-        // Event from Navbar
-        document.addEventListener("playtested:chat-toggle", ((
-            e: CustomEvent,
-        ) => {
-            const mode = e.detail?.mode || "widget";
-            toggleChat(mode);
-        }) as EventListener);
+        // Expose toggle globally for the singleton listener
+        (window as any)._playtestedToggleChat = toggleChat;
 
         // Helper: Format Refs [1] -> [1](url)
         const formatRefs = (text: string, refMap: Record<string, string>) => {
-            let result = text;
-            for (const [ref, url] of Object.entries(refMap)) {
-                // Escape brackets for regex
-                const escaped = ref.replace(/\[/g, "\\[").replace(/\]/g, "\\]");
-                const regex = new RegExp(escaped, "g");
-                result = result.replace(regex, `[${ref}](${url})`);
-            }
-            return result;
+            return text.replace(/\[(\d+)\]/g, (match, id) => {
+                const url = refMap[id];
+                return url ? `[${id}](${url})` : match;
+            });
         };
 
         // Helper: Append Message to UI
@@ -506,4 +497,21 @@
             }
         });
     });
+
+    // Singleton Global Listener (runs once per session)
+    if (
+        typeof window !== "undefined" &&
+        !(window as any)._chatListenerInstalled
+    ) {
+        document.addEventListener("playtested:chat-toggle", ((
+            e: CustomEvent,
+        ) => {
+            const mode = e.detail?.mode || "widget";
+            const toggleFn = (window as any)._playtestedToggleChat;
+            if (typeof toggleFn === "function") {
+                toggleFn(mode);
+            }
+        }) as EventListener);
+        (window as any)._chatListenerInstalled = true;
+    }
 </script>

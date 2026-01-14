@@ -352,11 +352,10 @@ const { showTitle = true } = Astro.props;
       if (btn) {
         btn.onclick = (e) => {
           e.preventDefault();
-          document.dispatchEvent(
-            new CustomEvent("playtested:chat-toggle", {
-              detail: { mode: "center" },
-            }),
-          );
+          // Direct call to avoid event detail loss
+          if (window["_playtestedToggleChat"]) {
+            window["_playtestedToggleChat"]("center");
+          }
 
           // Also close mobile menu if open
           const nav = document.getElementById("nav-links");

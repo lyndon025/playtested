@@ -345,11 +345,8 @@ const siteTitle = SiteOptions.siteTitle || "PlayTested";
       if (btn) {
         btn.onclick = (e) => {
           e.preventDefault();
-          document.dispatchEvent(
-            new CustomEvent("playtested:chat-toggle", {
-              detail: { mode: "center" },
-            }),
-          );
+          if ((window as any)._playtestedToggleChat)
+            (window as any)._playtestedToggleChat("center");
         };
       }
     });
