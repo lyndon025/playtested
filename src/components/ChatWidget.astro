@@ -207,15 +207,18 @@
         // Helper: Toggle Window
         const toggleChat = (forceMode?: "widget" | "center") => {
             // Determine new state
-            if (forceMode && forceMode !== displayMode) {
-                // If forceMode is 'center', we ALWAYS open.
+            if (forceMode) {
+                // If forceMode is provided, we ALWAYS open in that mode.
                 displayMode = forceMode;
-                isOpen = true; // Navbar button always opens
+                isOpen = true;
             } else {
                 // Regular toggle (FAB click)
-                // If we are closed, open in Widget mode (default for FAB)
-                if (!isOpen) displayMode = "widget";
-                isOpen = !isOpen;
+                if (isOpen) {
+                    isOpen = false;
+                } else {
+                    displayMode = "widget";
+                    isOpen = true;
+                }
             }
 
             // Save UI State
