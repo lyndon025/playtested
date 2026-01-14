@@ -10,7 +10,7 @@ const DAILY_LIMIT = 150; // Cap to ensure free tier safety
 
 export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     try {
-        const { slug, text, hash } = await request.json() as { slug: string; text: string; hash: string };
+        const { slug, text, hash, author } = await request.json() as { slug: string; text: string; hash: string; author?: string };
 
         if (!slug || !text || !hash) {
             return new Response(JSON.stringify({ error: "Missing required fields: slug, text, hash" }), {
@@ -20,6 +20,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
         }
 
         const cacheKey = `summary-${slug}-${hash}`;
+        const authorName = author || 'lyndonguitar';
 
         // 1. Try to fetch from KV (Cache is free/cheap to read)
         try {
@@ -50,10 +51,10 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
 
         // 3. Generate Summary using OpenRouter
         const messages = [
-            { role: "system", content: "You are a helpful assistant that summarizes game reviews." },
+            { role: "system", content: "You are a helpful assistant that summarizes game reviews. Provide concise, objective summaries without mentioning the author's name." },
             {
                 role: "user",
-                content: `Please provide a concise summary (max 3 sentences) of the following game review (written by Lyndon). Capture the main sentiment and key pros/cons.\n\nReview Content:\n${text.substring(0, 6000)}`
+                content: `Please provide a concise summary (max 3 sentences) of the following game review. Capture the main sentiment and key pros/cons. Do NOT mention the author's name in your summary.\n\nReview Content:\n${text.substring(0, 6000)}`
             },
         ];
 

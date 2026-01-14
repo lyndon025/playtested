@@ -16,6 +16,7 @@ interface RagDoc {
     body: string;
     url: string;
     tags: string;
+    author?: string;
 }
 
 export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) => {
@@ -30,7 +31,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
 
         // 1. Fetch Full Content Index (needed for body text)
         const url = new URL(request.url);
-        const indexUrl = `${url.origin}/rag-index.json`;
+        const indexUrl = `${url.origin}/rag-index.json?t=${Date.now()}`;
         const indexRes = await fetch(indexUrl);
         let fullIndex: RagDoc[] = [];
         if (indexRes.ok) {
@@ -82,25 +83,35 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             topDocs.unshift(siteInfo); // Add Site Info at the start
         }
 
+        // Build reference map (server-side, never sent to AI to type)
+        const referenceMap: Record<string, string> = {};
+        let articleList = "";
         if (topDocs.length > 0) {
-            contextText = "Here are relevant articles from PlayTested.net:\n\n" +
-                topDocs.map(d => `Title: ${d.title}\nFull Link: https://playtested.net${d.url}\nExcerpt: ${d.body.substring(0, 800)}...`).join("\n\n---\n\n");
+            topDocs.forEach((d, i) => {
+                const refNum = i + 1;
+                referenceMap[`[${refNum}]`] = `https://playtested.net${d.url}`;
+                articleList += `[${refNum}] "${d.title}" by ${d.author || 'lyndonguitar'}\nExcerpt: ${d.body.substring(0, 600)}...\n\n`;
+            });
+            contextText = `ARTICLES:\n${articleList}`;
         }
 
-        // 5. Construct Prompt & Call AI
+        // 5. Construct Prompt & Call AI - tell it to NEVER type URLs
         const systemPrompt: Message = {
             role: "system",
             content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
-            
+
+HOW TO CITE ARTICLES:
+- When mentioning an article, use: **Article Title** [ref number]
+- Example: Check out **Chained Echoes Review** [1] by lyndonguitar
+- NEVER type any URLs - the system will automatically convert [1], [2], etc into clickable links
+- Do NOT include a "Links:" section - the system handles this automatically
+
 INSTRUCTIONS:
-- Answer ONLY based on the provided "CONTEXT FROM ARTICLES". Do not make up info.
+- Answer ONLY based on the provided "ARTICLES" context. Do not make up info.
 - If the user asks about the site owner, authors, or article counts, check the context for "About PlayTested" or "Statistics".
 - Give brief, friendly answers (2-3 sentences max per point).
-- When referencing articles, give a SHORT intro and include the FULL clickable link.
-- Format links as markdown: [Article Title](https://playtested.net/article/slug/)
 - If no relevant articles found, answer generally and suggest browsing the site.
 
-CONTEXT FROM ARTICLES:
 ${contextText}`
         };
 
@@ -115,10 +126,10 @@ ${contextText}`
                 "X-Title": "PlayTested.Net",
             },
             body: JSON.stringify({
-                model: "meta-llama/llama-3.3-70b-instruct:free", // Stable, fast free model
-
+                model: "google/gemini-2.5-flash-lite", // Gemini 2.5 Flash Lite
                 messages: finalMessages,
                 max_tokens: 2048,
+                temperature: 0.3, // Low temp for accuracy
                 stream: true,
             }),
         });
@@ -132,7 +143,38 @@ ${contextText}`
             });
         }
 
-        return response;
+        // Prefix the response with reference map JSON for client to parse
+        const refMapJson = JSON.stringify(referenceMap);
+        const prefix = `<!--REFS:${refMapJson}:REFS-->\n`;
+        const prefixBytes = new TextEncoder().encode(prefix);
+
+        // Create a new stream that prepends our reference data
+        const originalStream = response.body;
+        const newStream = new ReadableStream({
+            async start(controller) {
+                // First, send the prefix
+                controller.enqueue(prefixBytes);
+
+                // Then, pipe through the original response
+                const reader = originalStream?.getReader();
+                if (reader) {
+                    while (true) {
+                        const { done, value } = await reader.read();
+                        if (done) break;
+                        controller.enqueue(value);
+                    }
+                }
+                controller.close();
+            }
+        });
+
+        return new Response(newStream, {
+            headers: {
+                "Content-Type": "text/event-stream",
+                "Cache-Control": "no-cache",
+                "Connection": "keep-alive",
+            }
+        });
 
     } catch (err) {
         console.error("Chat Error:", err);

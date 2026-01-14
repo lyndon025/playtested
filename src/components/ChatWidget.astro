@@ -122,24 +122,26 @@
         const messagesContainer = document.getElementById("chat-messages");
 
         let isOpen = false;
-        // Persist chat history in sessionStorage (clears when tab closes)
+
+        // Load history
         const storedHistory = sessionStorage.getItem("chatHistory");
         const chatHistory: Array<{ role: string; content: string }> =
             storedHistory ? JSON.parse(storedHistory) : [];
 
-        // Toggle Window
-        toggleBtn?.addEventListener("click", () => {
+        // Helper: Toggle Window
+        const toggleChat = () => {
             isOpen = !isOpen;
             if (isOpen) {
                 chatWindow?.classList.remove("hidden", "pointer-events-none");
-                requestAnimationFrame(() => {
+                // Small delay for transition
+                setTimeout(() => {
                     chatWindow?.classList.remove("scale-90", "opacity-0");
                     chatWindow?.classList.add(
                         "scale-100",
                         "opacity-100",
                         "pointer-events-auto",
                     );
-                });
+                }, 10);
                 iconChat?.classList.add("hidden");
                 iconClose?.classList.remove("hidden");
                 chatInput?.focus();
@@ -158,141 +160,223 @@
                 iconChat?.classList.remove("hidden");
                 iconClose?.classList.add("hidden");
             }
-        });
+        };
 
-        // Append Message Helper
-        const appendMessage = (role, text) => {
-            const isUser = role === "user";
-            const div = document.createElement("div");
-            div.className = `flex gap-2 ${isUser ? "flex-row-reverse" : ""}`;
+        toggleBtn?.addEventListener("click", toggleChat);
 
-            div.innerHTML = `
-      <div class="w-8 h-8 rounded-full ${isUser ? "bg-gray-300 dark:bg-slate-600" : "bg-blue-100 dark:bg-blue-900"} flex items-center justify-center shrink-0">
-        ${isUser ? "👤" : "🤖"}
-      </div>
-      <div class="${isUser ? "bg-blue-600 text-white" : "bg-white dark:bg-slate-800 border border-gray-100 dark:border-slate-700"} p-3 rounded-lg ${isUser ? "rounded-tr-none" : "rounded-tl-none"} shadow-sm text-sm max-w-[80%] prose dark:prose-invert prose-sm">
-        ${isUser ? text : marked.parse(text)}
-      </div>
-    `;
+        // Helper: Format Refs [1] -> [1](url)
+        const formatRefs = (text: string, refMap: Record<string, string>) => {
+            let result = text;
+            for (const [ref, url] of Object.entries(refMap)) {
+                // Escape brackets for regex
+                const escaped = ref.replace(/\[/g, "\\[").replace(/\]/g, "\\]");
+                const regex = new RegExp(escaped, "g");
+                result = result.replace(regex, `[${ref}](${url})`);
+            }
+            return result;
+        };
 
-            messagesContainer?.appendChild(div);
+        // Helper: Append Message to UI
+        const appendMessage = (
+            role: "user" | "assistant",
+            text: string,
+            refMap = {},
+        ) => {
+            const msgDiv = document.createElement("div");
+            msgDiv.className =
+                "flex gap-2 " + (role === "user" ? "flex-row-reverse" : "");
+
+            // Icon
+            const icon = document.createElement("div");
+            icon.className = `w-8 h-8 rounded-full flex items-center justify-center shrink-0 ${
+                role === "user"
+                    ? "bg-blue-600 text-white"
+                    : "bg-blue-100 dark:bg-blue-900"
+            }`;
+            icon.innerText = role === "user" ? "👤" : "🤖";
+
+            // Content
+            const contentBubble = document.createElement("div");
+            contentBubble.className = `p-3 rounded-lg shadow-sm border text-sm max-w-[80%] prose dark:prose-invert prose-sm ${
+                role === "user"
+                    ? "bg-blue-600 text-white rounded-tr-none border-blue-600"
+                    : "bg-white dark:bg-slate-800 rounded-tl-none border-gray-100 dark:border-slate-700"
+            }`;
+
+            // Append to DOM immediately to preserve order
+            msgDiv.appendChild(icon);
+            msgDiv.appendChild(contentBubble);
+            messagesContainer?.appendChild(msgDiv);
             messagesContainer?.scrollTo({
                 top: messagesContainer.scrollHeight,
                 behavior: "smooth",
             });
-            return div;
+
+            // Render content asynchronously
+            (async () => {
+                if (role === "assistant" && !text) {
+                    contentBubble.innerHTML = `<span class="animate-pulse">...</span>`;
+                } else {
+                    const formattedText = formatRefs(text, refMap);
+                    const html = await marked.parse(formattedText);
+                    contentBubble.innerHTML = html;
+                }
+            })();
+
+            return { msgDiv, contentBubble };
         };
 
-        // Track ongoing request to prevent race conditions
-        let currentController: AbortController | null = null;
+        // Render History
+        chatHistory.forEach((msg) =>
+            appendMessage(msg.role as "user" | "assistant", msg.content),
+        );
 
         // Submit Handler
         chatForm?.addEventListener("submit", async (e) => {
             e.preventDefault();
-            if (!chatInput) return;
-            const text = chatInput.value.trim();
-            if (!text) return;
+            const message = chatInput.value.trim();
+            if (!message) return;
 
-            // Cancel any pending request
-            if (currentController) {
-                currentController.abort();
-            }
-            currentController = new AbortController();
-
-            // Add User Message
-            appendMessage("user", text);
+            // Clear input
             chatInput.value = "";
-            chatHistory.push({ role: "user", content: text });
+            chatInput.disabled = true;
+
+            // 1. Show User Message
+            appendMessage("user", message);
+            chatHistory.push({ role: "user", content: message });
             sessionStorage.setItem("chatHistory", JSON.stringify(chatHistory));
 
-            // Add Loading State
-            const loadingDiv = document.createElement("div");
-            loadingDiv.className = "flex gap-2";
-            loadingDiv.innerHTML = `
-       <div class="w-8 h-8 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center shrink-0">🤖</div>
-       <div class="bg-white dark:bg-slate-800 p-3 rounded-lg rounded-tl-none shadow-sm border border-gray-100 dark:border-slate-700 text-sm text-gray-500">
-         <span class="animate-pulse">Thinking...</span>
-       </div>
-    `;
-            messagesContainer?.appendChild(loadingDiv);
-            messagesContainer?.scrollTo({
-                top: messagesContainer.scrollHeight,
-                behavior: "smooth",
-            });
+            // 2. Prepare Assistant Bubble
+            const { contentBubble } = appendMessage("assistant", "");
 
             try {
+                // 3. Make Request
                 const res = await fetch("/api/chat", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ messages: chatHistory }),
-                    signal: currentController?.signal,
                 });
 
-                loadingDiv.remove();
+                if (!res.ok) {
+                    throw new Error(`Server error: ${res.status}`);
+                }
 
-                if (!res.ok) throw new Error("Failed to fetch response");
+                if (!res.body) throw new Error("No response body");
 
-                // Simple stream handling (or just plain text if easier for MVP)
-                // For now, let's assume specific partial handling isn't strictly needed for MVP
-                // but we'll try to read the stream essentially.
-
-                const reader = res.body?.getReader();
+                // 4. Stream Reader Logic
+                const reader = res.body.getReader();
                 const decoder = new TextDecoder();
-                let assistantMessage = "";
-                let responseDiv = appendMessage("assistant", "");
-                const contentDiv = responseDiv.querySelector(".prose");
+
+                let buffer = "";
+                let accumulatedText = "";
+                let referencesMap: Record<string, string> = {};
+                let refsParsed = false;
 
                 while (true) {
-                    const { done, value } = (await reader?.read()) || {};
-                    if (done) break;
-                    const chunk = decoder.decode(value);
-                    // OpenRouter/OpenAI stream format handling usually involves parsing "data: ..."
-                    // But if we just output the raw text for now (assuming our backend relays it raw or we parse it there?
-                    // Our backend relays it. OpenRouter returns SSE. We need to parse SSE.
-                    // For simplicity in this "Beta", let's just wait for full response or do rudimentary parsing.
+                    const { done, value } = await reader.read();
 
-                    const lines = chunk.split("\n");
-                    for (const line of lines) {
-                        if (
-                            line.startsWith("data: ") &&
-                            line !== "data: [DONE]"
-                        ) {
+                    if (value) {
+                        const chunk = decoder.decode(value, { stream: true });
+                        buffer += chunk;
+                    }
+
+                    // STEP A: Check for References Block (Start of stream)
+                    if (!refsParsed) {
+                        const startTag = "<!--REFS:";
+                        const endTag = ":REFS-->";
+                        const startIndex = buffer.indexOf(startTag);
+                        const endIndex = buffer.indexOf(endTag);
+
+                        if (startIndex !== -1 && endIndex !== -1) {
+                            // Extract JSON part
+                            const jsonStr = buffer.substring(
+                                startIndex + startTag.length,
+                                endIndex,
+                            );
                             try {
-                                const data = JSON.parse(line.slice(6));
-                                const content =
-                                    data.choices[0]?.delta?.content || "";
-                                if (content) {
-                                    assistantMessage += content;
-                                    if (contentDiv)
-                                        contentDiv.innerHTML =
-                                            marked.parse(assistantMessage);
+                                referencesMap = JSON.parse(jsonStr);
+                            } catch (err) {
+                                console.error("Failed to parse refs:", err);
+                            }
+                            // Remove the entire block including newline if present
+                            // We construct "remaining" buffer starting after the endTag
+                            let remaining = buffer.substring(
+                                endIndex + endTag.length,
+                            );
+                            if (remaining.startsWith("\n"))
+                                remaining = remaining.substring(1);
+
+                            buffer = remaining;
+                            refsParsed = true;
+                        } else if (
+                            buffer.length > 2000 &&
+                            !buffer.includes(startTag)
+                        ) {
+                            // Safety: If buffer gets huge and no start tag, assume no refs sent (or using legacy model)
+                            refsParsed = true;
+                        }
+                    }
+
+                    // STEP B: Process SSE Lines only if we have passed key checks or if data is waiting
+                    // We only process if we have parsed refs OR if we are sure there are no refs
+                    if (refsParsed) {
+                        const lines = buffer.split("\n");
+                        // Save the last partial line back to buffer, UNLESS we are done
+                        if (!done) {
+                            buffer = lines.pop() || "";
+                        } else {
+                            buffer = ""; // Done, so process everything
+                        }
+
+                        for (const line of lines) {
+                            const trim = line.trim();
+                            if (
+                                trim.startsWith("data: ") &&
+                                trim !== "data: [DONE]"
+                            ) {
+                                try {
+                                    const json = JSON.parse(trim.substring(6)); // skip "data: "
+                                    const content =
+                                        json.choices?.[0]?.delta?.content || "";
+                                    accumulatedText += content;
+
+                                    // Render Update
+                                    const linkedText = formatRefs(
+                                        accumulatedText,
+                                        referencesMap,
+                                    );
+                                    contentBubble.innerHTML =
+                                        await marked.parse(linkedText);
                                     messagesContainer?.scrollTo({
                                         top: messagesContainer.scrollHeight,
                                         behavior: "smooth",
                                     });
+                                } catch (e) {
+                                    // console.warn("JSON parse error for SSE line", e);
                                 }
-                            } catch (e) {
-                                // ignore parse errors on partial chunks
                             }
                         }
                     }
+
+                    if (done) break;
                 }
+
+                // finalize
                 chatHistory.push({
                     role: "assistant",
-                    content: assistantMessage,
+                    content: accumulatedText,
                 });
                 sessionStorage.setItem(
                     "chatHistory",
                     JSON.stringify(chatHistory),
                 );
             } catch (err) {
-                loadingDiv.remove();
-                appendMessage(
-                    "assistant",
-                    "Sorry, I encountered an error. Please try again.",
-                );
                 console.error(err);
+                contentBubble.innerHTML = `<span class="text-red-500">Error: ${(err as Error).message}. Please try again.</span>`;
+            } finally {
+                chatInput.disabled = false;
+                chatInput.focus();
             }
         });
-    }); // Close astro:page-load listener
+    });
 </script>
