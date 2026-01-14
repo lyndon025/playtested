@@ -126,9 +126,10 @@ ${contextText}`
                 "X-Title": "PlayTested.Net",
             },
             body: JSON.stringify({
-                model: "google/gemma-3-27b-it:free", // Free Gemma model
+                model: "google/gemini-2.5-flash-lite", // Gemini 2.5 Flash Lite
                 messages: finalMessages,
                 max_tokens: 2048,
+                temperature: 0.3, // Low temp for accuracy
                 stream: true,
             }),
         });
