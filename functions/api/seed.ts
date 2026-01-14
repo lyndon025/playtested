@@ -39,13 +39,16 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
         // 2. Process in Batches
         for (let i = 0; i < docs.length; i += batchSize) {
             const batch = docs.slice(i, i + batchSize);
-            // Sanitize text: remove special chars, limit length to 512 to avoid API limits
+            // Sanitize text: remove special chars, limit length to 512 to avoid API limits (except Site Info)
             const texts = batch.map(d => {
+                const isSiteInfo = d.id === "site-meta-info";
+                const maxLength = isSiteInfo ? 2000 : 512;
+
                 const cleanText = `Title: ${d.title}\n${d.body}`
                     .replace(/[^\w\s.,!?-]/g, ' ') // Remove special chars
                     .replace(/\s+/g, ' ')          // Normalize whitespace
                     .trim()
-                    .substring(0, 512);           // Limit length
+                    .substring(0, maxLength);      // Limit length
                 return cleanText || "No content";
             });
 
