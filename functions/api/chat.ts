@@ -83,29 +83,42 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             topDocs.unshift(siteInfo); // Add Site Info at the start
         }
 
+        // Build context with numbered references to prevent URL corruption
+        let articleList = "";
+        let referenceList = "";
         if (topDocs.length > 0) {
-            contextText = "Here are relevant articles from PlayTested.net:\n\n" +
-                topDocs.map(d => `Title: ${d.title}\nAuthor: ${d.author || 'lyndonguitar'}\nFull Link: https://playtested.net${d.url}\nExcerpt: ${d.body.substring(0, 800)}...`).join("\n\n---\n\n");
+            topDocs.forEach((d, i) => {
+                const refNum = i + 1;
+                articleList += `[${refNum}] "${d.title}" by ${d.author || 'lyndonguitar'}\nExcerpt: ${d.body.substring(0, 600)}...\n\n`;
+                referenceList += `[${refNum}] https://playtested.net${d.url}\n`;
+            });
+            contextText = `ARTICLES:\n${articleList}\nREFERENCE LINKS (use these exact URLs):\n${referenceList}`;
         }
 
         // 5. Construct Prompt & Call AI
         const systemPrompt: Message = {
             role: "system",
             content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
-            
-CRITICAL URL RULES:
-- NEVER shorten, abbreviate, or modify URLs. Copy them EXACTLY as provided.
-- The domain is ALWAYS "playtested.net" - never "play.net", "tested.net", "ofed.net", or any variation.
-- Format links as markdown: [Article Title](EXACT_URL_FROM_CONTEXT)
+
+HOW TO RESPOND:
+- When mentioning an article, bold the title and add its reference number: **Article Title** [1]
+- At the END of your response, add a "Links:" section with the actual URLs for any references you used
+- Format: Links:\n[1] URL\n[2] URL
+- Only include links you actually referenced in your answer
+
+EXAMPLE RESPONSE:
+We have a review of that game! Check out **Chained Echoes - First Impressions** [1] by lyndonguitar. It covers the combat system and worldbuilding.
+
+Links:
+[1] https://playtested.net/article/chainedechoes/
 
 INSTRUCTIONS:
-- Answer ONLY based on the provided "CONTEXT FROM ARTICLES". Do not make up info.
+- Answer ONLY based on the provided "ARTICLES" context. Do not make up info.
 - If the user asks about the site owner, authors, or article counts, check the context for "About PlayTested" or "Statistics".
 - Give brief, friendly answers (2-3 sentences max per point).
-- When referencing articles, copy the "Full Link" from context EXACTLY as written.
 - If no relevant articles found, answer generally and suggest browsing the site.
+- ALWAYS include the Links section at the end if you referenced any articles.
 
-CONTEXT FROM ARTICLES:
 ${contextText}`
         };
 
@@ -120,7 +133,7 @@ ${contextText}`
                 "X-Title": "PlayTested.Net",
             },
             body: JSON.stringify({
-                model: "google/gemma-3-27b-it:free", // Gemma - stable and accurate
+                model: "google/gemma-3-27b-it:free", // Free Gemma model with numbered refs
 
                 messages: finalMessages,
                 max_tokens: 2048,
