@@ -140,16 +140,23 @@ const buildRagIndex = () => {
             // Generate a short, unique ID
             const shortId = crypto.createHash('md5').update(slug + filePath).digest('hex');
 
+            // User requested to use 'game' frontmatter for the title if available
+            const finalTitle = data.game || data.title || filename;
+
+            // Ensure the original blog post title is searchable by adding it to the body
+            const searchableBody = `Title: ${data.title || ''}\n${cleanedBody}`;
+
             allPosts.push({
                 id: shortId,
-                title: data.title || filename,
+                title: finalTitle,
                 description: data.description || "",
                 tags: Array.isArray(data.tags) ? data.tags.join(", ") : (data.tags || ""),
                 author: data.author || "lyndonguitar",
                 category: category,
-                body: cleanedBody,
+                body: searchableBody,
                 url: `/article/${slug}/`,
-                pubDate: data.pubDate || new Date().toISOString()
+                pubDate: data.pubDate || new Date().toISOString(),
+                game: data.game || ""
             });
         });
     });
