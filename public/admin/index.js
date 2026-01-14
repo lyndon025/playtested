@@ -219,6 +219,4 @@ if (window.CMS) {
 
   CMS.registerPreviewTemplate("article", ArticlePreview);
   CMS.registerPreviewTemplate("submissions", ArticlePreview);
-
-  CMS.init();
 }
