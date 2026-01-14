@@ -46,6 +46,7 @@ const buildRagIndex = () => {
     const collections = ["article", "submissions"];
     let allPosts = [];
 
+    // 1. Process Content Collections
     collections.forEach(col => {
         const colDir = path.join(CONTENT_DIR, col);
         const files = getFiles(colDir);
@@ -55,7 +56,7 @@ const buildRagIndex = () => {
             const { data, body } = parseFrontmatter(content);
             const slug = path.basename(filePath, path.extname(filePath));
 
-            // Generate a short, unique ID using MD5 hash (32 chars, well under 64 bytes)
+            // Generate a short, unique ID using MD5 hash
             const shortId = crypto.createHash('md5').update(slug).digest('hex');
 
             allPosts.push({
@@ -70,8 +71,46 @@ const buildRagIndex = () => {
         });
     });
 
+    // 2. Add "Site Info" & "About Us" Document
+    // Read about.astro to serve as the ground truth for "About the Site"
+    let aboutText = "";
+    try {
+        const aboutPath = path.resolve(__dirname, "../src/pages/about.astro");
+        const aboutContent = fs.readFileSync(aboutPath, "utf-8");
+        // Naive HTML strip: remove tags
+        aboutText = aboutContent.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+    } catch (e) {
+        console.warn("Could not read about.astro for RAG index:", e);
+    }
+
+    const totalArticles = allPosts.length;
+    const authorInfo = "Main Author: Lyndon (lyndonguitar). He is the creator of PlayTested.net.";
+
+    // Create a special document for Site Meta
+    const siteMetaDoc = {
+        id: "site-meta-info",
+        title: "About PlayTested - Site Info & Stats",
+        description: "Information about the website, authors, and statistics.",
+        tags: "about, meta, authors, stats, lyndon, count",
+        body: `
+### About PlayTested
+${aboutText}
+
+### Authors
+${authorInfo}
+
+### Statistics
+- Total Articles: ${totalArticles} reviews and posts.
+- Platform: Built with Astro, Tailwind, and Cloudflare.
+        `.trim(),
+        url: "/about/",
+        pubDate: new Date().toISOString()
+    };
+
+    allPosts.push(siteMetaDoc);
+
     fs.writeFileSync(OUTPUT_PATH, JSON.stringify(allPosts, null, 2));
-    console.log(`✅ rag-index.json built with ${allPosts.length} entries (Full Text).`);
+    console.log(`✅ rag-index.json built with ${allPosts.length} entries (Including Site Meta).`);
 };
 
 buildRagIndex();

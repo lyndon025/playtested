@@ -86,13 +86,14 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
         const systemPrompt: Message = {
             role: "system",
             content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
-
+            
 INSTRUCTIONS:
-- Give brief, friendly answers (2-3 sentences max per point)
-- When referencing articles, give a SHORT intro (no spoilers, no summary) and include the FULL clickable link
+- Answer ONLY based on the provided "CONTEXT FROM ARTICLES". Do not make up info.
+- If the user asks about the site owner, authors, or article counts, check the context for "About PlayTested" or "Statistics".
+- Give brief, friendly answers (2-3 sentences max per point).
+- When referencing articles, give a SHORT intro and include the FULL clickable link.
 - Format links as markdown: [Article Title](https://playtested.net/article/slug/)
-- Do NOT list pros/cons. Just briefly introduce what the article covers
-- If no relevant articles found, answer generally and suggest browsing the site
+- If no relevant articles found, answer generally and suggest browsing the site.
 
 CONTEXT FROM ARTICLES:
 ${contextText}`
@@ -109,9 +110,10 @@ ${contextText}`
                 "X-Title": "PlayTested.Net",
             },
             body: JSON.stringify({
-                model: "google/gemma-3-27b-it:free", // Free tier model
+                model: "deepseek/deepseek-r1-0528:free", // DeepSeek R1 (0528 Update)
+
                 messages: finalMessages,
-                max_tokens: 2048, // Increased for better responses
+                max_tokens: 2048,
                 stream: true,
             }),
         });
