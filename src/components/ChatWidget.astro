@@ -2,6 +2,14 @@
     id="chat-widget"
     class="fixed bottom-6 right-6 z-50 flex flex-col items-end"
 >
+    <!-- Backdrop for Center Mode -->
+    <div
+        id="chat-backdrop"
+        class="fixed inset-0 bg-black/50 z-40 hidden transition-opacity duration-300 opacity-0"
+        onclick="document.getElementById('chat-toggle').click();"
+    >
+    </div>
+
     <!-- Chat Window -->
     <div
         id="chat-window"
@@ -13,6 +21,7 @@
         >
             <h3 class="font-bold">Chat with AI</h3>
             <span class="text-xs bg-blue-500 px-2 py-1 rounded">Beta</span>
+            <!-- Close button for Center Mode (Optional, generic close works via toggle) -->
         </div>
 
         <!-- Messages Area -->
@@ -113,6 +122,7 @@
     document.addEventListener("astro:page-load", () => {
         const toggleBtn = document.getElementById("chat-toggle");
         const chatWindow = document.getElementById("chat-window");
+        const backdrop = document.getElementById("chat-backdrop");
         const iconChat = document.getElementById("icon-chat");
         const iconClose = document.getElementById("icon-close");
         const chatForm = document.getElementById("chat-form");
@@ -122,18 +132,119 @@
         const messagesContainer = document.getElementById("chat-messages");
 
         let isOpen = false;
+        let displayMode: "widget" | "center" = "widget";
+
+        const WIDGET_CLASSES = [
+            "mb-4",
+            "w-80",
+            "sm:w-96",
+            "origin-bottom-right",
+            "h-[500px]",
+            "mr-0",
+        ];
+        const CENTER_CLASSES = [
+            "fixed",
+            "top-1/2",
+            "left-1/2",
+            "-translate-x-1/2",
+            "-translate-y-1/2",
+            "w-[90vw]",
+            "max-w-2xl",
+            "h-[70vh]",
+            "origin-center",
+            "shadow-2xl",
+            "z-[100]",
+            "m-0",
+        ];
+
+        // Load UI State
+        const storedUIState = sessionStorage.getItem("chatUIState");
+        if (storedUIState) {
+            try {
+                const ui = JSON.parse(storedUIState);
+                isOpen = ui.isOpen;
+                displayMode = ui.mode;
+            } catch (e) {}
+        }
 
         // Load history
         const storedHistory = sessionStorage.getItem("chatHistory");
         const chatHistory: Array<{ role: string; content: string }> =
             storedHistory ? JSON.parse(storedHistory) : [];
 
+        // Apply Initial UI State immediately
+        if (displayMode === "center") {
+            chatWindow?.classList.remove(...WIDGET_CLASSES);
+            chatWindow?.classList.add(...CENTER_CLASSES);
+        } else {
+            // Default classes are for widget, strictly ensure no center classes
+            chatWindow?.classList.remove(...CENTER_CLASSES);
+            chatWindow?.classList.add(...WIDGET_CLASSES);
+        }
+
+        if (isOpen) {
+            chatWindow?.classList.remove(
+                "hidden",
+                "pointer-events-none",
+                "scale-90",
+                "opacity-0",
+            );
+            chatWindow?.classList.add(
+                "scale-100",
+                "opacity-100",
+                "pointer-events-auto",
+            );
+            // Handle Backdrop
+            if (displayMode === "center") {
+                backdrop?.classList.remove("hidden", "opacity-0");
+            }
+            iconChat?.classList.add("hidden");
+            iconClose?.classList.remove("hidden");
+        }
+
         // Helper: Toggle Window
-        const toggleChat = () => {
-            isOpen = !isOpen;
+        const toggleChat = (forceMode?: "widget" | "center") => {
+            // Determine new state
+            if (forceMode && forceMode !== displayMode) {
+                // If forceMode is 'center', we ALWAYS open.
+                displayMode = forceMode;
+                isOpen = true; // Navbar button always opens
+            } else {
+                // Regular toggle (FAB click)
+                // If we are closed, open in Widget mode (default for FAB)
+                if (!isOpen) displayMode = "widget";
+                isOpen = !isOpen;
+            }
+
+            // Save UI State
+            sessionStorage.setItem(
+                "chatUIState",
+                JSON.stringify({ isOpen, mode: displayMode }),
+            );
+
+            // Apply Classes based on Mode
+            if (displayMode === "center") {
+                chatWindow?.classList.remove(...WIDGET_CLASSES);
+                chatWindow?.classList.add(...CENTER_CLASSES);
+            } else {
+                chatWindow?.classList.remove(...CENTER_CLASSES);
+                chatWindow?.classList.add(...WIDGET_CLASSES);
+            }
+
             if (isOpen) {
                 chatWindow?.classList.remove("hidden", "pointer-events-none");
-                // Small delay for transition
+
+                // Show Backdrop if center
+                if (displayMode === "center") {
+                    backdrop?.classList.remove("hidden");
+                    requestAnimationFrame(() =>
+                        backdrop?.classList.remove("opacity-0"),
+                    );
+                } else {
+                    backdrop?.classList.add("opacity-0");
+                    setTimeout(() => backdrop?.classList.add("hidden"), 300);
+                }
+
                 setTimeout(() => {
                     chatWindow?.classList.remove("scale-90", "opacity-0");
                     chatWindow?.classList.add(
@@ -156,13 +267,29 @@
                     "opacity-0",
                     "pointer-events-none",
                 );
-                setTimeout(() => chatWindow?.classList.add("hidden"), 300);
+
+                // Hide backdrop
+                backdrop?.classList.add("opacity-0");
+
+                setTimeout(() => {
+                    chatWindow?.classList.add("hidden");
+                    backdrop?.classList.add("hidden");
+                }, 300);
+
                 iconChat?.classList.remove("hidden");
                 iconClose?.classList.add("hidden");
             }
         };
 
-        toggleBtn?.addEventListener("click", toggleChat);
+        toggleBtn?.addEventListener("click", () => toggleChat()); // FAB click -> toggle default
+
+        // Event from Navbar
+        document.addEventListener("playtested:chat-toggle", ((
+            e: CustomEvent,
+        ) => {
+            const mode = e.detail?.mode || "widget";
+            toggleChat(mode);
+        }) as EventListener);
 
         // Helper: Format Refs [1] -> [1](url)
         const formatRefs = (text: string, refMap: Record<string, string>) => {
