@@ -177,7 +177,7 @@
         };
 
         // Helper: Append Message to UI
-        const appendMessage = async (
+        const appendMessage = (
             role: "user" | "assistant",
             text: string,
             refMap = {},
@@ -203,16 +203,7 @@
                     : "bg-white dark:bg-slate-800 rounded-tl-none border-gray-100 dark:border-slate-700"
             }`;
 
-            if (role === "assistant" && !text) {
-                // Loading spinner for empty assistant message initially
-                contentBubble.innerHTML = `<span class="animate-pulse">...</span>`;
-            } else {
-                // Format links if provided
-                const formattedText = formatRefs(text, refMap);
-                const html = await marked.parse(formattedText);
-                contentBubble.innerHTML = html;
-            }
-
+            // Append to DOM immediately to preserve order
             msgDiv.appendChild(icon);
             msgDiv.appendChild(contentBubble);
             messagesContainer?.appendChild(msgDiv);
@@ -220,6 +211,17 @@
                 top: messagesContainer.scrollHeight,
                 behavior: "smooth",
             });
+
+            // Render content asynchronously
+            (async () => {
+                if (role === "assistant" && !text) {
+                    contentBubble.innerHTML = `<span class="animate-pulse">...</span>`;
+                } else {
+                    const formattedText = formatRefs(text, refMap);
+                    const html = await marked.parse(formattedText);
+                    contentBubble.innerHTML = html;
+                }
+            })();
 
             return { msgDiv, contentBubble };
         };
@@ -245,7 +247,7 @@
             sessionStorage.setItem("chatHistory", JSON.stringify(chatHistory));
 
             // 2. Prepare Assistant Bubble
-            const { contentBubble } = await appendMessage("assistant", "");
+            const { contentBubble } = appendMessage("assistant", "");
 
             try {
                 // 3. Make Request
