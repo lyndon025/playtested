@@ -14,14 +14,20 @@ PlayTested is a modern, static‑site game review platform built with [Astro](ht
 * **Content-packed homepage**: Complete with a featured post carousel and latest posts card.
 * **Image Galleries**: Embed a gallery in each review.
 * **Dark Mode**: Toggle between light and dark themes seamlessly.
+* **AI Summary**: Instant TL;DR summaries for every review.
+* **AI Chatbot**: Ask questions about specific reviews via the RAG-powered assistant.
 * **AI Recommender & Comparator**: Use the `/api/recommend` and `/api/compare` endpoints to get LLM‑powered insights based on selected games.
+* **RAG Framework**: Context-aware AI answers using Cloudflare Vectorize.
+* **Hybrid Search**: Fast keyword search via Minisearch combined with semantic understanding via Vector Search.
 * **RAWG Integration**: Search and fetch cover art and release data from the RAWG API.
 * **Responsive Design**: Mobile‑friendly layout powered by Tailwind CSS.
 
 ## 📦 Tech Stack
 * **Framework**: Astro (Static Site Generator)
 * **Styling**: Tailwind CSS
-* **AI**: Google Gemini or OpenAI via OpenRouter API
+* **AI**: Cloudflare Workers AI + OpenRouter API
+* **Vector DB**: Cloudflare Vectorize
+* **CMS**: Sveltia CMS (formerly DecapCMS)
 * **Game Data**: RAWG API
 * **Hosting**: Cloudflare Pages
 
