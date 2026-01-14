@@ -16,6 +16,7 @@ interface RagDoc {
     body: string;
     url: string;
     tags: string;
+    author?: string;
 }
 
 export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) => {
@@ -84,7 +85,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
 
         if (topDocs.length > 0) {
             contextText = "Here are relevant articles from PlayTested.net:\n\n" +
-                topDocs.map(d => `Title: ${d.title}\nFull Link: https://playtested.net${d.url}\nExcerpt: ${d.body.substring(0, 800)}...`).join("\n\n---\n\n");
+                topDocs.map(d => `Title: ${d.title}\nAuthor: ${d.author || 'lyndonguitar'}\nFull Link: https://playtested.net${d.url}\nExcerpt: ${d.body.substring(0, 800)}...`).join("\n\n---\n\n");
         }
 
         // 5. Construct Prompt & Call AI
@@ -92,12 +93,16 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             role: "system",
             content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
             
+CRITICAL URL RULES:
+- NEVER shorten, abbreviate, or modify URLs. Copy them EXACTLY as provided.
+- The domain is ALWAYS "playtested.net" - never "play.net", "tested.net", "ofed.net", or any variation.
+- Format links as markdown: [Article Title](EXACT_URL_FROM_CONTEXT)
+
 INSTRUCTIONS:
 - Answer ONLY based on the provided "CONTEXT FROM ARTICLES". Do not make up info.
 - If the user asks about the site owner, authors, or article counts, check the context for "About PlayTested" or "Statistics".
 - Give brief, friendly answers (2-3 sentences max per point).
-- When referencing articles, give a SHORT intro and include the FULL clickable link.
-- Format links as markdown: [Article Title](https://playtested.net/article/slug/)
+- When referencing articles, copy the "Full Link" from context EXACTLY as written.
 - If no relevant articles found, answer generally and suggest browsing the site.
 
 CONTEXT FROM ARTICLES:
