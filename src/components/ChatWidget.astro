@@ -183,12 +183,21 @@
             return div;
         };
 
+        // Track ongoing request to prevent race conditions
+        let currentController: AbortController | null = null;
+
         // Submit Handler
         chatForm?.addEventListener("submit", async (e) => {
             e.preventDefault();
             if (!chatInput) return;
             const text = chatInput.value.trim();
             if (!text) return;
+
+            // Cancel any pending request
+            if (currentController) {
+                currentController.abort();
+            }
+            currentController = new AbortController();
 
             // Add User Message
             appendMessage("user", text);
@@ -216,6 +225,7 @@
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ messages: chatHistory }),
+                    signal: currentController?.signal,
                 });
 
                 loadingDiv.remove();

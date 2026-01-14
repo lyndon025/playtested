@@ -40,7 +40,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
         // 2. VECTOR SEARCH (Try Vectorize first)
         let topDocs: RagDoc[] = [];
 
-        if (env.AI && env.VECTOR_DB) {
+        if (env.AI && env.VECTOR_DB && typeof env.VECTOR_DB.query === 'function') {
             try {
                 // Generate Query Vector
                 const model = "@cf/baai/bge-base-en-v1.5";
@@ -56,8 +56,12 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
 
                 console.log(`Vector Search found: ${foundIds.join(', ')}`);
             } catch (e) {
-                console.error("Vector search failed, falling back to keywords:", e);
+                // Silent fallback to keywords - this is expected in local dev
+                console.log("Using keyword search (vector unavailable)");
             }
+        } else {
+            // Local mode - use keyword search directly
+            console.log("Local mode: using keyword search");
         }
 
         // 3. Fallback: KEYWORD SEARCH (if Vector failed or returned nothing)
@@ -107,7 +111,7 @@ ${contextText}`
             body: JSON.stringify({
                 model: "google/gemma-3-27b-it:free", // Free tier model
                 messages: finalMessages,
-                max_tokens: 1024, // Limit response to avoid credit issues
+                max_tokens: 2048, // Increased for better responses
                 stream: true,
             }),
         });

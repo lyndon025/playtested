@@ -20,6 +20,17 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
         if (!indexRes.ok) return new Response("Failed to load rag-index.json", { status: 500 });
 
         const docs: RagDoc[] = await indexRes.json();
+
+        // Check if we're in local dev (Vectorize not available)
+        if (!env.VECTOR_DB || typeof env.VECTOR_DB.upsert !== 'function') {
+            return new Response(JSON.stringify({
+                success: true,
+                message: `[LOCAL MODE] Simulated seed of ${docs.length} documents. In local dev, the chat uses keyword search instead of vectors.`,
+                mode: "local-simulation",
+                docCount: docs.length
+            }), { headers: { "Content-Type": "application/json" } });
+        }
+
         const model = "@cf/baai/bge-base-en-v1.5";
 
         let upsertCount = 0;
@@ -28,7 +39,15 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
         // 2. Process in Batches
         for (let i = 0; i < docs.length; i += batchSize) {
             const batch = docs.slice(i, i + batchSize);
-            const texts = batch.map(d => `Title: ${d.title}\n${d.body.substring(0, 800)}`);
+            // Sanitize text: remove special chars, limit length to 512 to avoid API limits
+            const texts = batch.map(d => {
+                const cleanText = `Title: ${d.title}\n${d.body}`
+                    .replace(/[^\w\s.,!?-]/g, ' ') // Remove special chars
+                    .replace(/\s+/g, ' ')          // Normalize whitespace
+                    .trim()
+                    .substring(0, 512);           // Limit length
+                return cleanText || "No content";
+            });
 
             // Generate Embeddings
             const { data: embeddings } = await env.AI.run(model, { text: texts });
