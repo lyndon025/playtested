@@ -51,127 +51,132 @@ const { maxSelection, buttonText, id } = Astro.props;
 </div>
 
 <script define:vars={{ maxSelection, buttonText, id }}>
-  const inputEl = document.getElementById(`game-search-input-${id}`);
-  const statusEl = document.getElementById(`search-status-${id}`);
-  const resultsEl = document.getElementById(`search-results-${id}`);
-  const selectedEl = document.getElementById(`selected-games-${id}`);
-  const countEl = document.getElementById(`count-${id}`);
-  const submitBtn = document.getElementById(`submit-btn-${id}`);
-  const aiResponseEl = document.getElementById(`ai-response-${id}`);
+  // Re-run on every page load for View Transitions compatibility
+  document.addEventListener("astro:page-load", () => {
+    const inputEl = document.getElementById(`game-search-input-${id}`);
+    const statusEl = document.getElementById(`search-status-${id}`);
+    const resultsEl = document.getElementById(`search-results-${id}`);
+    const selectedEl = document.getElementById(`selected-games-${id}`);
+    const countEl = document.getElementById(`count-${id}`);
+    const submitBtn = document.getElementById(`submit-btn-${id}`);
+    const aiResponseEl = document.getElementById(`ai-response-${id}`);
 
-  if (
-    !inputEl ||
-    !statusEl ||
-    !resultsEl ||
-    !selectedEl ||
-    !countEl ||
-    !submitBtn ||
-    !aiResponseEl
-  ) {
-    console.error("Missing elements for GameSelector");
-    return;
-  }
-
-  let selected = [];
-  let searchTimeout;
-
-  async function searchGames(query) {
-    if (!query || query.length < 2) {
-      statusEl.textContent = "";
-      resultsEl.innerHTML = "";
+    if (
+      !inputEl ||
+      !statusEl ||
+      !resultsEl ||
+      !selectedEl ||
+      !countEl ||
+      !submitBtn ||
+      !aiResponseEl
+    ) {
+      // Elements not on this page, skip
       return;
     }
 
-    statusEl.textContent = "Searching...";
-    resultsEl.innerHTML = `<li class="p-2 italic text-gray-500 dark:text-gray-400">Loading...</li>`;
+    let selected = [];
+    let searchTimeout;
 
-    try {
-      const res = await fetch(
-        `/api/rawg-search?query=${encodeURIComponent(query)}`
-      );
-      const data = await res.json();
-      resultsEl.innerHTML = "";
-      if (data.error) {
-        statusEl.textContent = `Error: ${data.error}`;
+    async function searchGames(query) {
+      if (!query || query.length < 2) {
+        statusEl.textContent = "";
+        resultsEl.innerHTML = "";
         return;
       }
-      if (!data.results.length) {
-        statusEl.textContent = "No games found";
-        return;
-      }
-      statusEl.textContent = `Found ${data.results.length} games`;
-      data.results.forEach((game) => {
-        const li = document.createElement("li");
-        li.className =
-          "flex items-center p-3 border border-gray-200 dark:border-slate-700 rounded cursor-pointer hover:bg-gray-100 dark:hover:bg-slate-700";
-        const thumb = game.background_image || "";
-        const year = game.released
-          ? new Date(game.released).getFullYear()
-          : "Unknown";
-        li.innerHTML = `
+
+      statusEl.textContent = "Searching...";
+      resultsEl.innerHTML = `<li class="p-2 italic text-gray-500 dark:text-gray-400">Loading...</li>`;
+
+      try {
+        const res = await fetch(
+          `/api/rawg-search?query=${encodeURIComponent(query)}`,
+        );
+        const data = await res.json();
+        resultsEl.innerHTML = "";
+        if (data.error) {
+          statusEl.textContent = `Error: ${data.error}`;
+          return;
+        }
+        if (!data.results.length) {
+          statusEl.textContent = "No games found";
+          return;
+        }
+        statusEl.textContent = `Found ${data.results.length} games`;
+        data.results.forEach((game) => {
+          const li = document.createElement("li");
+          li.className =
+            "flex items-center p-3 border border-gray-200 dark:border-slate-700 rounded cursor-pointer hover:bg-gray-100 dark:hover:bg-slate-700";
+          const thumb = game.background_image || "";
+          const year = game.released
+            ? new Date(game.released).getFullYear()
+            : "Unknown";
+          li.innerHTML = `
           <img src="${thumb}" alt="${game.name}" class="w-12 h-12 object-cover rounded mr-3" />
           <div>
             <div class="font-medium text-gray-900 dark:text-gray-100">${game.name}</div>
             <div class="text-sm text-gray-500 dark:text-gray-400">${year}</div>
           </div>
         `;
-        li.addEventListener("click", () => addGame(game));
-        resultsEl.appendChild(li);
-      });
-    } catch (e) {
-      statusEl.textContent = "Network error";
-      console.error(e);
+          li.addEventListener("click", () => addGame(game));
+          resultsEl.appendChild(li);
+        });
+      } catch (e) {
+        statusEl.textContent = "Network error";
+        console.error(e);
+      }
     }
-  }
 
-  function addGame(game) {
-    inputEl.value = "";
-    resultsEl.innerHTML = "";
-    statusEl.textContent = "";
-    inputEl.focus();
-    if (
-      selected.find((g) => g.id === game.id) ||
-      selected.length >= maxSelection
-    )
-      return;
-    selected.push({ id: game.id, name: game.name });
-    updateSelectionUI();
-  }
+    function addGame(game) {
+      inputEl.value = "";
+      resultsEl.innerHTML = "";
+      statusEl.textContent = "";
+      inputEl.focus();
+      if (
+        selected.find((g) => g.id === game.id) ||
+        selected.length >= maxSelection
+      )
+        return;
+      selected.push({ id: game.id, name: game.name });
+      updateSelectionUI();
+    }
 
-  function removeGame(idx) {
-    selected.splice(idx, 1);
-    updateSelectionUI();
-  }
+    function removeGame(idx) {
+      selected.splice(idx, 1);
+      updateSelectionUI();
+    }
 
-  function updateSelectionUI() {
-    selectedEl.innerHTML = "";
-    selected.forEach((g, i) => {
-      const li = document.createElement("li");
-      li.className =
-        "flex justify-between p-2 bg-blue-50 dark:bg-slate-700 rounded";
-      li.innerHTML = `<span>${g.name}</span><button class="text-red-500 dark:text-red-400">Remove</button>`;
-      li.querySelector("button").addEventListener("click", () => removeGame(i));
-      selectedEl.appendChild(li);
-    });
-    countEl.textContent = selected.length;
-    submitBtn.disabled = selected.length < 2 || selected.length > maxSelection;
-    aiResponseEl.innerHTML = "";
-  }
+    function updateSelectionUI() {
+      selectedEl.innerHTML = "";
+      selected.forEach((g, i) => {
+        const li = document.createElement("li");
+        li.className =
+          "flex justify-between p-2 bg-blue-50 dark:bg-slate-700 rounded";
+        li.innerHTML = `<span>${g.name}</span><button class="text-red-500 dark:text-red-400">Remove</button>`;
+        li.querySelector("button").addEventListener("click", () =>
+          removeGame(i),
+        );
+        selectedEl.appendChild(li);
+      });
+      countEl.textContent = selected.length;
+      submitBtn.disabled =
+        selected.length < 2 || selected.length > maxSelection;
+      aiResponseEl.innerHTML = "";
+    }
 
-  async function handleSubmit() {
-    submitBtn.disabled = true;
-    submitBtn.textContent = "🤖 Thinking...";
-    aiResponseEl.innerHTML = `
+    async function handleSubmit() {
+      submitBtn.disabled = true;
+      submitBtn.textContent = "🤖 Thinking...";
+      aiResponseEl.innerHTML = `
       <div class="p-4 bg-gray-50 dark:bg-slate-700 rounded border-l-4 border-blue-400 text-gray-800 dark:text-gray-200">
         Loading AI response...
       </div>
     `;
 
-    const endpoint = id === "comparator" ? "/api/compare" : "/api/recommend";
-    const gameNames = selected.map((g) => g.name);
+      const endpoint = id === "comparator" ? "/api/compare" : "/api/recommend";
+      const gameNames = selected.map((g) => g.name);
 
-    if (!navigator.onLine) {
-      aiResponseEl.innerHTML = `
+      if (!navigator.onLine) {
+        aiResponseEl.innerHTML = `
         <div class="p-4 bg-yellow-50 dark:bg-yellow-900 rounded border-l-4 border-yellow-400 text-yellow-800 dark:text-yellow-200">
           You’re offline — showing mock response.
         </div>
@@ -181,24 +186,24 @@ const { maxSelection, buttonText, id } = Astro.props;
 (Offline mock mode active)
         </div>
       `;
-      submitBtn.textContent = buttonText;
-      return;
-    }
+        submitBtn.textContent = buttonText;
+        return;
+      }
 
-    try {
-      const res = await fetch(endpoint, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ gameNames }),
-      });
-      const json = await res.json();
-      if (json.error) throw new Error(json.error);
+      try {
+        const res = await fetch(endpoint, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ gameNames }),
+        });
+        const json = await res.json();
+        if (json.error) throw new Error(json.error);
 
-      // Show recommendation result
-      if (json.recommended && json.explanation) {
-        const recBlocks = json.recommended
-          .map(
-            (g, i) => `
+        // Show recommendation result
+        if (json.recommended && json.explanation) {
+          const recBlocks = json.recommended
+            .map(
+              (g, i) => `
           <div class="flex items-start gap-4 mb-4">
             <img src="${g.image}" alt="${g.name}" class="w-16 h-16 rounded object-cover border dark:border-slate-600">
             <div>
@@ -208,54 +213,62 @@ const { maxSelection, buttonText, id } = Astro.props;
 </div>              <a href="${g.url}" target="_blank" class="text-sm text-blue-500 dark:text-blue-400 underline">More info</a>
             </div>
           </div>
-        `
+        `,
+            )
+            .join("");
+
+          aiResponseEl.innerHTML = `<div class="mt-6 ai-response bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed">${recBlocks}</div>`;
+          return;
+        }
+
+        // Otherwise show compare response
+        const cleanText = json.result
+          .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>") // convert **bold** to <strong>
+          .replace(/\*(.*?)\*/g, "<em>$1</em>") // convert *italic* to <em>
+          .replace(
+            /^## (.*)/gm,
+            "<h3 class='font-bold text-lg mt-4 mb-2'>$1</h3>",
+          ) // convert headings
+          .replace(/^### (.*)/gm, "<h4 class='font-bold mt-3 mb-1'>$1</h4>") // convert h3
+          .split("\n\n")
+          .map((p) =>
+            p.trim() ? `<p class="mb-4">${p.replace(/\n/g, "<br>")}</p>` : "",
           )
           .join("");
 
-        aiResponseEl.innerHTML = `<div class="mt-6 ai-response bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed">${recBlocks}</div>`;
-        return;
-      }
-
-      // Otherwise show compare response
-      const cleanText = json.result
-        .replace(/\*\*(.*?)\*\*/g, "$1") // remove bold markdown
-        .replace(/\*(.*?)\*/g, "<strong>$1</strong>") // convert *italic* to <strong>
-        .replace(/^## .*/gm, "") // strip any headings
-        .replace(/\n{2,}/g, "\n\n") // normalize spacing
-        .trim();
-
-      aiResponseEl.innerHTML = `
+        aiResponseEl.innerHTML = `
   <div class="mt-6 ai-response">
     <div class="bg-slate-100 dark:bg-slate-800 border dark:border-slate-700 p-6 rounded text-sm text-gray-900 dark:text-gray-100 leading-relaxed">
       ${cleanText}
     </div>
   </div>
 `;
-    } catch (e) {
-      aiResponseEl.innerHTML = `
+      } catch (e) {
+        aiResponseEl.innerHTML = `
         <div class="p-4 bg-red-50 dark:bg-red-900 rounded border-l-4 border-red-400 text-red-800 dark:text-red-200">
           ${e.message}
         </div>
       `;
-    } finally {
-      submitBtn.textContent = buttonText;
-      submitBtn.disabled =
-        selected.length < 2 || selected.length > maxSelection;
+      } finally {
+        submitBtn.textContent = buttonText;
+        submitBtn.disabled =
+          selected.length < 2 || selected.length > maxSelection;
+      }
     }
-  }
 
-  inputEl.addEventListener("input", () => {
-    clearTimeout(searchTimeout);
-    searchTimeout = setTimeout(() => searchGames(inputEl.value.trim()), 300);
-  });
+    inputEl.addEventListener("input", () => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => searchGames(inputEl.value.trim()), 300);
+    });
 
-  inputEl.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") {
-      e.preventDefault();
-      searchGames(inputEl.value.trim());
-    }
-  });
+    inputEl.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        searchGames(inputEl.value.trim());
+      }
+    });
 
-  submitBtn.addEventListener("click", handleSubmit);
-  updateSelectionUI();
+    submitBtn.addEventListener("click", handleSubmit);
+    updateSelectionUI();
+  }); // Close astro:page-load listener
 </script>

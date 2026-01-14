@@ -1,0 +1,298 @@
+<div
+    id="chat-widget"
+    class="fixed bottom-6 right-6 z-50 flex flex-col items-end"
+>
+    <!-- Chat Window -->
+    <div
+        id="chat-window"
+        class="hidden mb-4 w-80 sm:w-96 bg-white dark:bg-slate-800 rounded-lg shadow-xl border border-gray-200 dark:border-slate-700 overflow-hidden transition-all duration-300 transform scale-90 opacity-0 origin-bottom-right flex flex-col h-[500px] pointer-events-none"
+    >
+        <!-- Header -->
+        <div
+            class="bg-blue-600 p-4 text-white flex justify-between items-center shrink-0"
+        >
+            <h3 class="font-bold">Chat with AI</h3>
+            <span class="text-xs bg-blue-500 px-2 py-1 rounded">Beta</span>
+        </div>
+
+        <!-- Messages Area -->
+        <div
+            id="chat-messages"
+            class="flex-1 p-4 overflow-y-auto space-y-4 bg-gray-50 dark:bg-slate-900 scroll-smooth"
+        >
+            <!-- Welcome Message -->
+            <div class="flex gap-2">
+                <div
+                    class="w-8 h-8 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center shrink-0"
+                >
+                    🤖
+                </div>
+                <div
+                    class="bg-white dark:bg-slate-800 p-3 rounded-lg rounded-tl-none shadow-sm border border-gray-100 dark:border-slate-700 text-sm max-w-[80%]"
+                >
+                    Hi! I'm the PlayTested.net AI. Ask me anything about the
+                    articles on this site!
+                </div>
+            </div>
+        </div>
+
+        <!-- Input Area -->
+        <div
+            class="p-4 bg-white dark:bg-slate-800 border-t border-gray-200 dark:border-slate-700 shrink-0"
+        >
+            <form id="chat-form" class="flex gap-2">
+                <input
+                    type="text"
+                    id="chat-input"
+                    placeholder="Ask a question..."
+                    class="flex-1 px-3 py-2 bg-gray-100 dark:bg-slate-900 border border-gray-300 dark:border-slate-700 rounded-md text-sm focus:outline-none focus:border-blue-500 text-gray-900 dark:text-gray-100"
+                    autocomplete="off"
+                />
+                <button
+                    type="submit"
+                    class="bg-blue-600 hover:bg-blue-700 text-white px-3 py-2 rounded-md transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        class="h-5 w-5"
+                        viewBox="0 0 20 20"
+                        fill="currentColor"
+                    >
+                        <path
+                            d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z"
+                        ></path>
+                    </svg>
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Toggle Button -->
+    <button
+        id="chat-toggle"
+        class="bg-blue-600 hover:bg-blue-700 text-white w-14 h-14 rounded-full shadow-lg flex items-center justify-center transition-transform hover:scale-105 active:scale-95"
+    >
+        <!-- Chat Icon -->
+        <svg
+            id="icon-chat"
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-8 w-8"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+        >
+            <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+            ></path>
+        </svg>
+        <!-- Close Icon -->
+        <svg
+            id="icon-close"
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-8 w-8 hidden"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+        >
+            <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+    </button>
+</div>
+
+<script>
+    import { marked } from "marked";
+
+    // Re-initialize on every page load (works with View Transitions)
+    document.addEventListener("astro:page-load", () => {
+        const toggleBtn = document.getElementById("chat-toggle");
+        const chatWindow = document.getElementById("chat-window");
+        const iconChat = document.getElementById("icon-chat");
+        const iconClose = document.getElementById("icon-close");
+        const chatForm = document.getElementById("chat-form");
+        const chatInput = document.getElementById(
+            "chat-input",
+        ) as HTMLInputElement;
+        const messagesContainer = document.getElementById("chat-messages");
+
+        let isOpen = false;
+        // Persist chat history in sessionStorage (clears when tab closes)
+        const storedHistory = sessionStorage.getItem("chatHistory");
+        const chatHistory: Array<{ role: string; content: string }> =
+            storedHistory ? JSON.parse(storedHistory) : [];
+
+        // Toggle Window
+        toggleBtn?.addEventListener("click", () => {
+            isOpen = !isOpen;
+            if (isOpen) {
+                chatWindow?.classList.remove("hidden", "pointer-events-none");
+                requestAnimationFrame(() => {
+                    chatWindow?.classList.remove("scale-90", "opacity-0");
+                    chatWindow?.classList.add(
+                        "scale-100",
+                        "opacity-100",
+                        "pointer-events-auto",
+                    );
+                });
+                iconChat?.classList.add("hidden");
+                iconClose?.classList.remove("hidden");
+                chatInput?.focus();
+            } else {
+                chatWindow?.classList.remove(
+                    "scale-100",
+                    "opacity-100",
+                    "pointer-events-auto",
+                );
+                chatWindow?.classList.add(
+                    "scale-90",
+                    "opacity-0",
+                    "pointer-events-none",
+                );
+                setTimeout(() => chatWindow?.classList.add("hidden"), 300);
+                iconChat?.classList.remove("hidden");
+                iconClose?.classList.add("hidden");
+            }
+        });
+
+        // Append Message Helper
+        const appendMessage = (role, text) => {
+            const isUser = role === "user";
+            const div = document.createElement("div");
+            div.className = `flex gap-2 ${isUser ? "flex-row-reverse" : ""}`;
+
+            div.innerHTML = `
+      <div class="w-8 h-8 rounded-full ${isUser ? "bg-gray-300 dark:bg-slate-600" : "bg-blue-100 dark:bg-blue-900"} flex items-center justify-center shrink-0">
+        ${isUser ? "👤" : "🤖"}
+      </div>
+      <div class="${isUser ? "bg-blue-600 text-white" : "bg-white dark:bg-slate-800 border border-gray-100 dark:border-slate-700"} p-3 rounded-lg ${isUser ? "rounded-tr-none" : "rounded-tl-none"} shadow-sm text-sm max-w-[80%] prose dark:prose-invert prose-sm">
+        ${isUser ? text : marked.parse(text)}
+      </div>
+    `;
+
+            messagesContainer?.appendChild(div);
+            messagesContainer?.scrollTo({
+                top: messagesContainer.scrollHeight,
+                behavior: "smooth",
+            });
+            return div;
+        };
+
+        // Track ongoing request to prevent race conditions
+        let currentController: AbortController | null = null;
+
+        // Submit Handler
+        chatForm?.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            if (!chatInput) return;
+            const text = chatInput.value.trim();
+            if (!text) return;
+
+            // Cancel any pending request
+            if (currentController) {
+                currentController.abort();
+            }
+            currentController = new AbortController();
+
+            // Add User Message
+            appendMessage("user", text);
+            chatInput.value = "";
+            chatHistory.push({ role: "user", content: text });
+            sessionStorage.setItem("chatHistory", JSON.stringify(chatHistory));
+
+            // Add Loading State
+            const loadingDiv = document.createElement("div");
+            loadingDiv.className = "flex gap-2";
+            loadingDiv.innerHTML = `
+       <div class="w-8 h-8 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center shrink-0">🤖</div>
+       <div class="bg-white dark:bg-slate-800 p-3 rounded-lg rounded-tl-none shadow-sm border border-gray-100 dark:border-slate-700 text-sm text-gray-500">
+         <span class="animate-pulse">Thinking...</span>
+       </div>
+    `;
+            messagesContainer?.appendChild(loadingDiv);
+            messagesContainer?.scrollTo({
+                top: messagesContainer.scrollHeight,
+                behavior: "smooth",
+            });
+
+            try {
+                const res = await fetch("/api/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ messages: chatHistory }),
+                    signal: currentController?.signal,
+                });
+
+                loadingDiv.remove();
+
+                if (!res.ok) throw new Error("Failed to fetch response");
+
+                // Simple stream handling (or just plain text if easier for MVP)
+                // For now, let's assume specific partial handling isn't strictly needed for MVP
+                // but we'll try to read the stream essentially.
+
+                const reader = res.body?.getReader();
+                const decoder = new TextDecoder();
+                let assistantMessage = "";
+                let responseDiv = appendMessage("assistant", "");
+                const contentDiv = responseDiv.querySelector(".prose");
+
+                while (true) {
+                    const { done, value } = (await reader?.read()) || {};
+                    if (done) break;
+                    const chunk = decoder.decode(value);
+                    // OpenRouter/OpenAI stream format handling usually involves parsing "data: ..."
+                    // But if we just output the raw text for now (assuming our backend relays it raw or we parse it there?
+                    // Our backend relays it. OpenRouter returns SSE. We need to parse SSE.
+                    // For simplicity in this "Beta", let's just wait for full response or do rudimentary parsing.
+
+                    const lines = chunk.split("\n");
+                    for (const line of lines) {
+                        if (
+                            line.startsWith("data: ") &&
+                            line !== "data: [DONE]"
+                        ) {
+                            try {
+                                const data = JSON.parse(line.slice(6));
+                                const content =
+                                    data.choices[0]?.delta?.content || "";
+                                if (content) {
+                                    assistantMessage += content;
+                                    if (contentDiv)
+                                        contentDiv.innerHTML =
+                                            marked.parse(assistantMessage);
+                                    messagesContainer?.scrollTo({
+                                        top: messagesContainer.scrollHeight,
+                                        behavior: "smooth",
+                                    });
+                                }
+                            } catch (e) {
+                                // ignore parse errors on partial chunks
+                            }
+                        }
+                    }
+                }
+                chatHistory.push({
+                    role: "assistant",
+                    content: assistantMessage,
+                });
+                sessionStorage.setItem(
+                    "chatHistory",
+                    JSON.stringify(chatHistory),
+                );
+            } catch (err) {
+                loadingDiv.remove();
+                appendMessage(
+                    "assistant",
+                    "Sorry, I encountered an error. Please try again.",
+                );
+                console.error(err);
+            }
+        });
+    }); // Close astro:page-load listener
+</script>
