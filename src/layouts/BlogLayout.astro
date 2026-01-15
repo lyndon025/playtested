@@ -41,18 +41,18 @@ const schema = JSON.stringify({
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
 
-    <meta property="og:title" content={title} />
+    <meta property="og:title" content={title === SiteOptions.siteTitle ? title : `${title} | ${SiteOptions.siteTitle}`} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={Astro.url} />
     <meta property="og:site_name" content={SiteOptions.siteTitle} />
     
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
+    <meta name="twitter:title" content={title === SiteOptions.siteTitle ? title : `${title} | ${SiteOptions.siteTitle}`} />
     <meta name="twitter:description" content={description} />
     
     <link rel="icon" type="image/png" href="/playtested.png" />
-    <title>{title}</title>
+    <title>{title === SiteOptions.siteTitle ? title : `${title} | ${SiteOptions.siteTitle}`}</title>
     
     <ClientRouter />
 

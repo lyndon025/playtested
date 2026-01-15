@@ -294,8 +294,12 @@
         // Helper: Format Refs [1] -> [1](url)
         const formatRefs = (text: string, refMap: Record<string, string>) => {
             return text.replace(/\[(\d+)\]/g, (match, id) => {
-                const url = refMap[id];
-                return url ? `[${id}](${url})` : match;
+                const val = refMap[match] || refMap[id] || refMap[`[${id}]`];
+                if (!val) return match;
+
+                const [url, title] = val.split("::");
+                const label = title ? title : "Link to Review";
+                return `[${label}](${url})`;
             });
         };
 
