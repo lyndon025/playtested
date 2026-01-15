@@ -89,7 +89,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
         if (topDocs.length > 0) {
             topDocs.forEach((d, i) => {
                 const refNum = i + 1;
-                referenceMap[`[${refNum}]`] = `https://playtested.net${d.url}`;
+                referenceMap[`[${refNum}]`] = `https://playtested.net${d.url}::${d.title}`;
                 articleList += `[${refNum}] "${d.title}" by ${d.author || 'lyndonguitar'}\nExcerpt: ${d.body.substring(0, 600)}...\n\n`;
             });
             contextText = `ARTICLES:\n${articleList}`;
