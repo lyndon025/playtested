@@ -294,7 +294,7 @@
         // Helper: Format Refs [1] -> [1](url)
         const formatRefs = (text: string, refMap: Record<string, string>) => {
             return text.replace(/\[(\d+)\]/g, (match, id) => {
-                const url = refMap[id];
+                const url = refMap[match] || refMap[id] || refMap[`[${id}]`];
                 return url ? `[${id}](${url})` : match;
             });
         };
