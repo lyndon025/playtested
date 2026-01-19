@@ -18,11 +18,6 @@ author: lyndonguitar
 game: Arc Raiders
 gallery:
   - /images/uploads/arc01.avif
-  - /images/uploads/arc02.avif
-  - /images/uploads/arc03.avif
-  - /images/uploads/arc04.avif
-  - /images/uploads/arc05.avif
-  - /images/uploads/arc06.avif
 score: 8.8
 ---
 **Arc Raiders** is a third-person extraction shooter that drops players into a sci-fi post-apocalyptic world dominated by ruthless ‘Arc” machines. Unlike the grueling marathons of its contemporaries, it offers a refined, high-stakes experience that respects your time, blending intense PvPvE combat with a satisfying loot-and-extract loop that feels fair for solos and squads alike.
