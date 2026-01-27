@@ -61,20 +61,6 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
 
   <Header />
 
-  <section class="mt-8 mb-4 text-center sr-only md:not-sr-only">
-    <h2 class="text-xl md:text-2xl font-bold text-gray-800 dark:text-slate-100">
-      Objective Video Game Reviews & Honest Tech Analysis
-    </h2>
-    <p
-      class="mt-2 text-gray-600 dark:text-gray-400 max-w-3xl mx-auto text-sm md:text-base"
-    >
-      Welcome to <strong>PlayTested</strong>, your source for no-nonsense game
-      reviews, deep-dive tech write-ups, and AI-powered insights. We cut through
-      the noise to bring you honest perspectives on the latest releases across
-      PC, Console, and Mobile.
-    </p>
-  </section>
-
   {
     SiteOptions.showFeaturrdPostsOnHomePage && featuredPosts.length > 0 && (
       <section class="lg:pt-6 pb-8">
