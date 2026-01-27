@@ -7,14 +7,14 @@ description: Better late than never! 2025 has been an absolute whirlwind for the
   mud-caked battlefields of medieval Bohemia, this year has proven that whether
   it's a massive AAA sequel or a tight, experimental indie, the bar for
   "immersion" has been set higher than ever before.
-category: write-up
+category: review
 tags:
   - PC
   - Console
 featured: true
 thumb: /images/uploads/2025-award.avif
 author: lyndonguitar
-game: Best Game
+game: ""
 ---
 Better late than never! 2025 has been an absolute whirlwind for the industry. From the quiet, snowy peaks of the Yotei mountains to the chaotic, mud-caked battlefields of medieval Bohemia, this year has proven that whether it's a massive AAA sequel or a tight, experimental indie, the bar for "immersion" has been set higher than ever before.
 
