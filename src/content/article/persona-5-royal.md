@@ -1,5 +1,5 @@
 ---
-title: "Persona 5 Royal Review: The King of JRPGs (9.5/10)"
+title: "The King of JRPGs  Persona 5 Royal Review: "
 pubDate: 2026-01-27T13:55:00.000+08:00
 draft: true
 description: Persona 5 Royal is the definitive edition of Atlus's award-winning
