@@ -7,7 +7,7 @@ description: Better late than never! 2025 has been an absolute whirlwind for the
   mud-caked battlefields of medieval Bohemia, this year has proven that whether
   it's a massive AAA sequel or a tight, experimental indie, the bar for
   "immersion" has been set higher than ever before.
-category: review
+category: write-up
 tags:
   - PC
   - Console
