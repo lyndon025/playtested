@@ -11,6 +11,11 @@ export interface Props {
 
 const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } = Astro.props
 
+const isHome = Astro.url.pathname === "/";
+const pageTitle = isHome 
+  ? SiteOptions.siteHomeTitle 
+  : (title === SiteOptions.siteTitle ? title : `${title} | ${SiteOptions.siteTitle}`);
+
 
 const schema = JSON.stringify({
   "@context": "https://schema.org",
@@ -41,18 +46,18 @@ const schema = JSON.stringify({
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
 
-    <meta property="og:title" content={title === SiteOptions.siteTitle ? title : `${title} | ${SiteOptions.siteTitle}`} />
+    <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={Astro.url} />
     <meta property="og:site_name" content={SiteOptions.siteTitle} />
     
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title === SiteOptions.siteTitle ? title : `${title} | ${SiteOptions.siteTitle}`} />
+    <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={description} />
     
     <link rel="icon" type="image/png" href="/playtested.png" />
-    <title>{title === SiteOptions.siteTitle ? title : `${title} | ${SiteOptions.siteTitle}`}</title>
+    <title>{pageTitle}</title>
     
     <ClientRouter />
 
@@ -98,6 +103,9 @@ const schema = JSON.stringify({
     </main>
 
     <script is:inline src="/scripts/theme-toggle.js"></script>
+    <template id="ai-chat-greeting">
+        Hi! I'm the PlayTested.net AI. Ask me anything about the articles on this site!
+    </template>
     <ChatWidget />
   </body>
 </html>

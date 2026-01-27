@@ -1,6 +1,7 @@
 <div
     id="chat-widget"
     class="fixed bottom-6 right-6 z-50 flex flex-col items-end"
+    aria-hidden="true"
 >
     <!-- Backdrop for Center Mode -->
     <div
@@ -37,10 +38,10 @@
                     🤖
                 </div>
                 <div
+                    id="welcome-message-container"
                     class="bg-white dark:bg-slate-800 p-3 rounded-lg rounded-tl-none shadow-sm border border-gray-100 dark:border-slate-700 text-sm max-w-[80%]"
                 >
-                    Hi! I'm the PlayTested.net AI. Ask me anything about the
-                    articles on this site!
+                    <!-- Injected via JS to prevent SEO indexing -->
                 </div>
             </div>
         </div>
@@ -130,6 +131,17 @@
             "chat-input",
         ) as HTMLInputElement;
         const messagesContainer = document.getElementById("chat-messages");
+        const greetingTemplate = document.getElementById(
+            "ai-chat-greeting",
+        ) as HTMLTemplateElement;
+        const welcomeContainer = document.getElementById(
+            "welcome-message-container",
+        );
+
+        if (welcomeContainer && greetingTemplate) {
+            welcomeContainer.textContent =
+                greetingTemplate.content.textContent?.trim() || "";
+        }
 
         let isOpen = false;
         let displayMode: "widget" | "center" = "widget";

@@ -12,12 +12,15 @@ const allArticles = await getCollection("article");
 const allSubmissions = await getCollection("submissions");
 
 // Combine them into a single array
-type CombinedCollectionEntry = CollectionEntry<"article"> | CollectionEntry<"submission">;
+type CombinedCollectionEntry =
+  | CollectionEntry<"article">
+  | CollectionEntry<"submission">;
 const allPosts: CombinedCollectionEntry[] = [...allArticles, ...allSubmissions];
 
 // Sort all combined posts by publication date
 const sortedPosts = allPosts.sort(
-  (a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
+  (a, b) =>
+    new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
 );
 
 // Filter featured posts from the combined array
@@ -26,7 +29,10 @@ const featuredPosts = sortedPosts
   .slice(0, SiteOptions.numberOfFeaturedPostsOnHomePage || 12);
 
 // Slice the latest posts from the combined, sorted array
-const latestPosts = sortedPosts.slice(0, SiteOptions.numberOfLatestPostsOnHomePage || 6);
+const latestPosts = sortedPosts.slice(
+  0,
+  SiteOptions.numberOfLatestPostsOnHomePage || 6,
+);
 
 const showCategory = SiteOptions.showCategoryOnPosts || false;
 
@@ -36,103 +42,135 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
 ---
 
 <BlogLayout title={SiteOptions.siteTitle}>
- <Fragment slot="head">
-    <script type="application/ld+json" set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "url": Astro.url.origin,
-      "name": "PlayTested",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": `${Astro.url.origin}/search?q={search_term_string}`,
-        "query-input": "required name=search_term_string"
-      }
-    })} />
+  <Fragment slot="head">
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        url: Astro.url.origin,
+        name: "PlayTested",
+        potentialAction: {
+          "@type": "SearchAction",
+          target: `${Astro.url.origin}/search?q={search_term_string}`,
+          "query-input": "required name=search_term_string",
+        },
+      })}
+    />
   </Fragment>
 
   <Header />
 
-  {SiteOptions.showFeaturrdPostsOnHomePage && featuredPosts.length > 0 && (
-    <section class="lg:pt-6 pb-8">
-      <h2 class="mt-0 mb-2 text-2xl font-semibold text-center">
-        Featured Posts
-      </h2>
+  <section class="mt-8 mb-4 text-center sr-only md:not-sr-only">
+    <h2 class="text-xl md:text-2xl font-bold text-gray-800 dark:text-slate-100">
+      Objective Video Game Reviews & Honest Tech Analysis
+    </h2>
+    <p
+      class="mt-2 text-gray-600 dark:text-gray-400 max-w-3xl mx-auto text-sm md:text-base"
+    >
+      Welcome to <strong>PlayTested</strong>, your source for no-nonsense game
+      reviews, deep-dive tech write-ups, and AI-powered insights. We cut through
+      the noise to bring you honest perspectives on the latest releases across
+      PC, Console, and Mobile.
+    </p>
+  </section>
 
-      <div class="relative">
-        <button
-          id="carousel-prev"
-          class="absolute left-0 top-2/7 -translate-y-1/2 z-20 p-4 bg-white dark:bg-slate-700 rounded-full shadow-lg text-2xl disabled:opacity-50 cursor-pointer"
-        >❮</button>
-        <button
-          id="carousel-next"
-          class="absolute right-0 top-2/7 -translate-y-1/2 z-20 p-4 bg-white dark:bg-slate-700 rounded-full shadow-lg text-2xl disabled:opacity-50 cursor-pointer"
-        >❯</button>
+  {
+    SiteOptions.showFeaturrdPostsOnHomePage && featuredPosts.length > 0 && (
+      <section class="lg:pt-6 pb-8">
+        <h2 class="mt-0 mb-2 text-2xl font-semibold text-center">
+          Featured Posts
+        </h2>
 
-        <div id="carousel-viewport" class="overflow-hidden">
-          <div
-            id="carousel-track"
-            class="flex transition-transform duration-300 ease-in-out items-stretch"
+        <div class="relative">
+          <button
+            id="carousel-prev"
+            class="absolute left-0 top-2/7 -translate-y-1/2 z-20 p-4 bg-white dark:bg-slate-700 rounded-full shadow-lg text-2xl disabled:opacity-50 cursor-pointer"
           >
-            {featuredPosts.map((post) => (
-              <div class="carousel-item w-full sm:w-1/2 lg:w-1/3 flex-shrink-0 px-2 overflow-hidden h-auto">
-                <div class="h-full flex flex-col">
-                  <FeaturedCard post={post} />
+            ❮
+          </button>
+          <button
+            id="carousel-next"
+            class="absolute right-0 top-2/7 -translate-y-1/2 z-20 p-4 bg-white dark:bg-slate-700 rounded-full shadow-lg text-2xl disabled:opacity-50 cursor-pointer"
+          >
+            ❯
+          </button>
+
+          <div id="carousel-viewport" class="overflow-hidden">
+            <div
+              id="carousel-track"
+              class="flex transition-transform duration-300 ease-in-out items-stretch"
+            >
+              {featuredPosts.map((post) => (
+                <div class="carousel-item w-full sm:w-1/2 lg:w-1/3 flex-shrink-0 px-2 overflow-hidden h-auto">
+                  <div class="h-full flex flex-col">
+                    <FeaturedCard post={post} />
+                  </div>
                 </div>
-              </div>
+              ))}
+            </div>
+          </div>
+
+          <div
+            id="carousel-indicators"
+            class="flex justify-center mt-4 space-x-2"
+          >
+            <div class="w-6 h-2 rounded bg-gray-400 dark:bg-gray-700" />
+
+            {Array.from({ length: pages }, (_, p) => (
+              <button
+                class="indicator w-6 h-2 rounded bg-gray-300 dark:bg-gray-600 cursor-pointer"
+                data-page={p}
+              />
             ))}
+
+            <div class="w-6 h-2 rounded bg-gray-400 dark:bg-gray-700" />
           </div>
         </div>
-
-        <div id="carousel-indicators" class="flex justify-center mt-4 space-x-2">
-          <div class="w-6 h-2 rounded bg-gray-400 dark:bg-gray-700"></div>
-
-          {Array.from({ length: pages }, (_, p) => (
-            <button
-              class="indicator w-6 h-2 rounded bg-gray-300 dark:bg-gray-600 cursor-pointer"
-              data-page={p}
-            />
-          ))}
-
-          <div class="w-6 h-2 rounded bg-gray-400 dark:bg-gray-700"></div>
-        </div>
-      </div>
-    </section>
-  )}
+      </section>
+    )
+  }
 
   <section class="py-1">
-    {SiteOptions.labels.latestPosts && (
-      <h2 class="text-2xl font-semibold mb-5 text-center">
-        {SiteOptions.labels.latestPosts}
-      </h2>
-    )}
+    {
+      SiteOptions.labels.latestPosts && (
+        <h2 class="text-2xl font-semibold mb-5 text-center">
+          {SiteOptions.labels.latestPosts}
+        </h2>
+      )
+    }
     <ul class="grid grid-cols-1 lg:grid-cols-2 gap-x-6 gap-y-6">
-      {latestPosts.map((post) => (
-        <PostCard post={post} showCategory={showCategory} />
-      ))}
+      {
+        latestPosts.map((post) => (
+          <PostCard post={post} showCategory={showCategory} />
+        ))
+      }
     </ul>
-    {sortedPosts.length > latestPosts.length && (
-      <div class="text-center mt-8">
-        <a
-          href="/blog/page/1/"
-          class="inline-flex items-center px-6 py-3 text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-md transition-colors"
-        >
-          {SiteOptions.labels.viewAllPosts}
-          <svg
-            class="ml-2 w-4 h-4"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
+    {
+      sortedPosts.length > latestPosts.length && (
+        <div class="text-center mt-8">
+          <a
+            href="/blog/page/1/"
+            class="inline-flex items-center px-6 py-3 text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-md transition-colors"
           >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M9 5l7 7-7 7"
-            />
-          </svg>
-        </a>
-      </div>
-    )}
+            {SiteOptions.labels.viewAllPosts}
+            <svg
+              class="ml-2 w-4 h-4"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              />
+            </svg>
+          </a>
+        </div>
+      )
+    }
     <Footer />
   </section>
 </BlogLayout>
@@ -183,15 +221,21 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
     }
 
     if (prevBtn) {
-        prevBtn.addEventListener("click", () => {
-        if (idx > 0) { idx--; slide(); }
-        });
+      prevBtn.addEventListener("click", () => {
+        if (idx > 0) {
+          idx--;
+          slide();
+        }
+      });
     }
 
     if (nextBtn) {
-        nextBtn.addEventListener("click", () => {
-        if (idx < maxIdx) { idx++; slide(); }
-        });
+      nextBtn.addEventListener("click", () => {
+        if (idx < maxIdx) {
+          idx++;
+          slide();
+        }
+      });
     }
 
     indicators.forEach((btn) => {
@@ -202,7 +246,7 @@ const pages = Math.max(featuredPosts.length - visible + 1, 1);
     });
 
     window.addEventListener("resize", slide);
-    
+
     // Initial setup
     slide();
   });
