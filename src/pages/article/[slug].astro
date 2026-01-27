@@ -76,15 +76,46 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
       type="application/ld+json"
       set:html={JSON.stringify({
         "@context": "https://schema.org",
-        "@type": "Article",
-        headline: title,
-        description: description,
-        image: thumb || large ? [thumb || large] : undefined,
-        datePublished: dateObj.toISOString(),
-        dateModified: dateObj.toISOString(),
-        author: [{ "@type": "Person", name: author }],
-        mainEntityOfPage: { "@type": "WebPage", "@id": Astro.url.href },
-        publisher: { "@type": "Organization", name: "PlayTested" },
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": `${Astro.url.href}#article`,
+            headline: title,
+            description: description,
+            image: thumb || large ? [thumb || large] : undefined,
+            datePublished: dateObj.toISOString(),
+            dateModified: dateObj.toISOString(),
+            author: [{ "@type": "Person", name: author }],
+            mainEntityOfPage: { "@type": "WebPage", "@id": Astro.url.href },
+            publisher: {
+              "@type": "Organization",
+              name: "PlayTested",
+              url: Astro.url.origin,
+            },
+          },
+          ...(typeof score !== "undefined" && score !== null
+            ? [
+                {
+                  "@type": "Review",
+                  headline: title,
+                  description: description,
+                  itemReviewed: {
+                    "@type": "Game",
+                    name: titleLines[0],
+                  },
+                  reviewRating: {
+                    "@type": "Rating",
+                    ratingValue: score,
+                    bestRating: "10",
+                    worstRating: "0",
+                  },
+                  author: { "@type": "Person", name: author },
+                  publisher: { "@type": "Organization", name: "PlayTested" },
+                  datePublished: dateObj.toISOString(),
+                },
+              ]
+            : []),
+        ],
       })}
     />
   </Fragment>

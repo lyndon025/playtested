@@ -1,6 +1,7 @@
 export default {
     siteTitle: "PlayTested", // Main site title displayed in header
-    siteSubTitle: "PlayTested is a no-nonsense gaming review platform and tech blog. Objective, honest reviews that cut through the noise. Powered by AI.", // Subtitle shown under main title
+    siteHomeTitle: "PlayTested | Video Game Reviews & Tech Insights", // Optimized title for homepage search results
+    siteSubTitle: "Video Game Reviews, Tech Blog, and AI-powered insights for PC, Console, and Mobile. No-nonsense game reviews that cut through the noise.", // Subtitle shown under main title
     copyright: "© 2025 PlayTested. All Rights Reserved.", // Footer copyright text
     showAuthorsOnHomePage: false, // Display author info on homepage
     showFeaturrdPostsOnHomePage: true, // Show featured posts section on homepage
