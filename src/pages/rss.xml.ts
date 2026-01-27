@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 export const GET = async ({ site }) => {
   const posts = await getCollection('article');
   const items = posts
-    .sort((a,b) => +b.data.pubDate - +a.data.pubDate)
+    .sort((a, b) => +b.data.pubDate - +a.data.pubDate)
     .map((p) => ({
       link: `/article/${p.slug}`,
       title: p.data.title,
@@ -14,7 +14,7 @@ export const GET = async ({ site }) => {
 
   return rss({
     title: 'PlayTested',
-    description: 'PlayTested is a no-nonsense gaming review platform and tech blog. Objective, honest reviews that cut through the noise. Powered by AI.',
+    description: 'Video Game Reviews, Tech Blog, and AI-powered insights for PC, Console, and Mobile. No-nonsense game reviews that cut through the noise.',
     site: site?.toString() ?? 'https://playtested.net',
     items
   });
