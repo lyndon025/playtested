@@ -217,39 +217,6 @@ if (window.CMS) {
     }
   });
 
-  const ConditionalStringControl = window.createClass({
-    handleChange: function (e) {
-      this.props.onChange(e.target.value);
-    },
-
-    render: function () {
-      const { value, forID, classNameWrapper } = this.props;
-      return window.h('input', {
-        type: 'text',
-        id: forID,
-        className: classNameWrapper,
-        value: value || '',
-        onChange: this.handleChange,
-      });
-    },
-
-    isValid: function () {
-      const { entry, value } = this.props;
-      const category = entry.getIn(['data', 'category']);
-
-      if (category === 'review' && (!value || value.trim() === '')) {
-        return {
-          error: {
-            message: 'Game title is required for review category.',
-          },
-        };
-      }
-      return true;
-    }
-  });
-
-  CMS.registerWidget('conditional-string', ConditionalStringControl);
-
   CMS.registerPreviewTemplate("article", ArticlePreview);
   CMS.registerPreviewTemplate("submissions", ArticlePreview);
 }
