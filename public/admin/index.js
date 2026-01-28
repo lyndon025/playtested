@@ -219,6 +219,7 @@ if (window.CMS) {
 
   CMS.registerPreviewTemplate("article", ArticlePreview);
   CMS.registerPreviewTemplate("submissions", ArticlePreview);
+  CMS.registerPreviewTemplate("submission", ArticlePreview);
 
   CMS.registerEditorComponent({
     id: "image_text_side",
@@ -229,7 +230,7 @@ if (window.CMS) {
       { name: "alignment", label: "Image Alignment", widget: "select", options: ["Left", "Right"], default: "Right" },
       { name: "content", label: "Content", widget: "markdown" },
     ],
-    pattern: /^<div class="flex flex-col (md:flex-row|md:flex-row-reverse) items-center gap-6 mb-12 pb-6 border-b border-slate-700">\s*<img\s+src=["']?([^"'\s>]+)["']?\s+alt=["']?([^"']*)["']?\s+class="w-full md:w-2\/5 rounded shadow"\s*\/>\s*(?:<div>)?([\s\S]*?)(?:<\/div>)?\s*<\/div>$/,
+    pattern: /^<div class="flex flex-col (md:flex-row|md:flex-row-reverse) items-center gap-6 mb-12 pb-6 border-b border-slate-700">\s*<img\s+src=["']?([^"'\s>]+)["']?\s+alt=["']?([^"']*)["']?\s+class="w-full md:w-2\/5 rounded shadow"\s*\/>\s*(?:<div>)?\s*([\s\S]*?)\s*(?:<\/div>)?\s*<\/div>/m,
     fromBlock: function (match) {
       return {
         alignment: match[1] === "md:flex-row" ? "Left" : "Right",
@@ -242,9 +243,9 @@ if (window.CMS) {
       const direction = obj.alignment === "Left" ? "md:flex-row" : "md:flex-row-reverse";
       return `<div class="flex flex-col ${direction} items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="${obj.image}" alt="${obj.alt}" class="w-full md:w-2/5 rounded shadow" />
-  <div>
-    ${obj.content}
-  </div>
+
+${obj.content}
+
 </div>`;
     },
     toPreview: function (obj) {
@@ -257,7 +258,7 @@ if (window.CMS) {
           flexDirection: flexDirection,
           alignItems: 'center',
           gap: '1.5rem',
-          marginBottom: '3rem',
+          marginBottom: '2rem',
           paddingBottom: '1.5rem',
           borderBottom: '1px solid #334155'
         }
@@ -268,14 +269,14 @@ if (window.CMS) {
           style: {
             width: '40%',
             borderRadius: '0.25rem',
-            boxShadow: '0 1px 3px 0 rgba(0, 0, 0, 0.1)'
+            boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)'
           }
         }),
         window.h('div', {
           style: {
             flex: 1,
-            marginLeft: alignment === "Left" ? "1.5rem" : "0",
-            marginRight: alignment === "Right" ? "1.5rem" : "0"
+            whiteSpace: 'pre-wrap',
+            color: 'inherit'
           }
         }, obj.content || "Content...")
       ]);

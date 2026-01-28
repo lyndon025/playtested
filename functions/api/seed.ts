@@ -14,6 +14,7 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
     try {
         const url = new URL(request.url);
         const indexUrl = `${url.origin}/rag-index.json`;
+        const offset = parseInt(url.searchParams.get("offset") || "0", 10);
 
         // 1. Load Data
         const indexRes = await fetch(indexUrl);
@@ -34,10 +35,18 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
         const model = "@cf/baai/bge-base-en-v1.5";
 
         let upsertCount = 0;
-        const batchSize = 5;
+        const batchSize = 50; // Increased to 50 to reduce subrequests
+        const MAX_BATCHES_PER_RUN = 20; // Safety limit to keep under 50 subrequests
+        let batchesRun = 0;
+        let nextOffset: number | null = null;
 
         // 2. Process in Batches
-        for (let i = 0; i < docs.length; i += batchSize) {
+        for (let i = offset; i < docs.length; i += batchSize) {
+            if (batchesRun >= MAX_BATCHES_PER_RUN) {
+                nextOffset = i;
+                break;
+            }
+
             const batch = docs.slice(i, i + batchSize);
             // Sanitize text: remove special chars, limit length to 512 to avoid API limits (except Site Info)
             const texts = batch.map(d => {
@@ -65,12 +74,25 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
             // Upsert
             await env.VECTOR_DB.upsert(vectors);
             upsertCount += vectors.length;
+            batchesRun++;
+        }
+
+        if (nextOffset !== null) {
+            return new Response(JSON.stringify({
+                success: true,
+                partial: true,
+                message: `Seeded ${upsertCount} documents (Partial). Reached safety limit. Continue at offset ${nextOffset}.`,
+                seededCount: upsertCount,
+                nextOffset: nextOffset,
+                nextUrl: `${url.pathname}?offset=${nextOffset}`
+            }), { status: 206, headers: { "Content-Type": "application/json" } });
         }
 
         return new Response(JSON.stringify({
             success: true,
-            message: `Successfully seeded ${upsertCount} documents into Vectorize (Local)`,
-            index: "playbook-local"
+            message: `Successfully seeded ${upsertCount} documents into Vectorize`,
+            index: "playbook-cloud",
+            totalProcessed: upsertCount + offset
         }), { headers: { "Content-Type": "application/json" } });
 
     } catch (err) {
