@@ -130,7 +130,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
         // 4. Build Context - ALWAYS include Site Info for author/stats queries
         const siteInfo = fullIndex.find(d => d.id === "site-meta-info");
         if (siteInfo && !topDocs.some(d => d.id === "site-meta-info")) {
-            topDocs.unshift(siteInfo); // Add Site Info at the start
+            topDocs.push(siteInfo); // Add Site Info at the END to keep game indices starting at [1]
         }
 
         // Build reference map (server-side, never sent to AI to type)
@@ -153,9 +153,11 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
 HOW TO CITE ARTICLES:
 - CITATION RULE: [ref number] literally BECOMES the clickable title in the chat.
 - NEVER write the game title text yourself when citing.
+- REPLACE the game title with the bracketed number.
 - BAD: "I recommend "Elden Ring" [1]" (Renders as: "I recommend "Elden Ring" Elden Ring") -> DUPLICATE!
 - GOOD: "I recommend [1]" (Renders as: "I recommend Elden Ring") -> PERFECT!
 - Treat [1], [2], etc. as the proper noun for the game in your sentence.
+- DOUBLE CHECK that [1] corresponds to the game you mean.
 
 INSTRUCTIONS:
 - Answer ONLY based on the provided "ARTICLES" context. Do not make up info.
