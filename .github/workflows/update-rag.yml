@@ -1,0 +1,23 @@
+name: Update RAG Vector Index
+
+on:
+  push:
+    branches:
+      - main
+      - master
+      - dev
+    paths:
+      - 'src/content/article/**' # Only run when articles change
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-vectors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Deployment (5 minutes)
+        run: sleep 300
+        
+      - name: Trigger Vector Seed
+        run: |
+          echo "Triggering vector database update..."
+          curl -X GET https://playtested.net/api/seed

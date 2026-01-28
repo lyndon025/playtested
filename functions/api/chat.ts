@@ -17,6 +17,8 @@ interface RagDoc {
     url: string;
     tags: string;
     author?: string;
+    rating?: string | number;
+    pubDate?: string;
 }
 
 export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) => {
@@ -49,7 +51,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
                 const queryVector = embeddings[0];
 
                 // Query Vector DB
-                const vectorResults = await env.VECTOR_DB.query(queryVector, { topK: 3, returnMetadata: true });
+                const vectorResults = await env.VECTOR_DB.query(queryVector, { topK: 5, returnMetadata: true });
 
                 // Map IDs back to full content
                 const foundIds = vectorResults.matches.map(m => m.id);
@@ -65,7 +67,55 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             console.log("Local mode: using keyword search");
         }
 
-        // 3. Fallback: KEYWORD SEARCH (if Vector failed or returned nothing)
+        // 2.5 SMART HEURISTIC SEARCH (Top/Best/Year queries)
+        // Vector search is bad at "top 10 games of 2024", so we manually filter the full index if needed.
+        const lowerMsg = lastMessage.toLowerCase();
+        if (lowerMsg.includes("top") || lowerMsg.includes("best") || lowerMsg.includes("rated") || lowerMsg.includes("review")) {
+
+            // Extract Year if present (2020-2029)
+            const yearMatch = lowerMsg.match(/\b(202\d)\b/);
+            const explicitYear = yearMatch ? yearMatch[1] : null;
+
+            // Check if user wants "top" or "best"
+            const isRankingQuery = lowerMsg.includes("top") || lowerMsg.includes("best") || lowerMsg.includes("highest");
+
+            if (isRankingQuery || explicitYear) {
+                let sortedDocs = fullIndex.filter(d => {
+                    // Mmust be a review (have a rating)
+                    if (!d.rating || d.rating === "N/A") return false;
+
+                    // Filter by year if requested
+                    if (explicitYear) {
+                        return d.pubDate && d.pubDate.includes(explicitYear);
+                    }
+                    return true;
+                });
+
+                // Sort by Rating (Descending)
+                sortedDocs.sort((a, b) => {
+                    const scoreA = parseFloat(String(a.rating));
+                    const scoreB = parseFloat(String(b.rating));
+                    return scoreB - scoreA;
+                });
+
+                // If asking for a specific number (e.g. "top 10"), try to get that many
+                const countMatch = lowerMsg.match(/\btop\s?(\d+)/);
+                const limit = countMatch ? Math.min(parseInt(countMatch[1]), 10) : 5;
+
+                const topRatedDocs = sortedDocs.slice(0, limit);
+
+                // Merge with existing vector results (deduplicate)
+                const existingIds = new Set(topDocs.map(d => d.id));
+                topRatedDocs.forEach(d => {
+                    if (!existingIds.has(d.id)) {
+                        topDocs.push(d);
+                        existingIds.add(d.id);
+                    }
+                });
+            }
+        }
+
+        // 3. Fallback: KEYWORD SEARCH (only if we still have absolutely nothing)
         if (topDocs.length === 0 && fullIndex.length > 0) {
             const keywords = lastMessage.toLowerCase().replace(/[^\w\s]/g, '').split(/\s+/).filter(w => w.length > 3);
             const scoredDocs = fullIndex.map(doc => {
@@ -80,7 +130,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
         // 4. Build Context - ALWAYS include Site Info for author/stats queries
         const siteInfo = fullIndex.find(d => d.id === "site-meta-info");
         if (siteInfo && !topDocs.some(d => d.id === "site-meta-info")) {
-            topDocs.unshift(siteInfo); // Add Site Info at the start
+            topDocs.push(siteInfo); // Add Site Info at the END to keep game indices starting at [1]
         }
 
         // Build reference map (server-side, never sent to AI to type)
@@ -90,7 +140,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             topDocs.forEach((d, i) => {
                 const refNum = i + 1;
                 referenceMap[`[${refNum}]`] = `https://playtested.net${d.url}::${d.title}`;
-                articleList += `[${refNum}] "${d.title}" by ${d.author || 'lyndonguitar'}\nExcerpt: ${d.body.substring(0, 600)}...\n\n`;
+                articleList += `[${refNum}] "${d.title}" by ${d.author || 'lyndonguitar'}\nDate: ${d.pubDate || 'N/A'} | Rating: ${d.rating || 'N/A'}\nExcerpt: ${d.body.substring(0, 600)}...\n\n`;
             });
             contextText = `ARTICLES:\n${articleList}`;
         }
@@ -101,10 +151,13 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
 
 HOW TO CITE ARTICLES:
-- When mentioning an article, use: **Article Title** [ref number]
-- Example: Check out **Chained Echoes Review** [1] by lyndonguitar
-- NEVER type any URLs - the system will automatically convert [1], [2], etc into clickable links
-- Do NOT include a "Links:" section - the system handles this automatically
+- CITATION RULE: [ref number] literally BECOMES the clickable title in the chat.
+- NEVER write the game title text yourself when citing.
+- REPLACE the game title with the bracketed number.
+- BAD: "I recommend "Elden Ring" [1]" (Renders as: "I recommend "Elden Ring" Elden Ring") -> DUPLICATE!
+- GOOD: "I recommend [1]" (Renders as: "I recommend Elden Ring") -> PERFECT!
+- Treat [1], [2], etc. as the proper noun for the game in your sentence.
+- DOUBLE CHECK that [1] corresponds to the game you mean.
 
 INSTRUCTIONS:
 - Answer ONLY based on the provided "ARTICLES" context. Do not make up info.
@@ -120,7 +173,7 @@ ${contextText}`
         const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
             method: "POST",
             headers: {
-                "Authorization": `Bearer ${env.OPENROUTER_API_KEY}`,
+                "Authorization": `Bearer ${env.OPENROUTER_API_KEY} `,
                 "Content-Type": "application/json",
                 "HTTP-Referer": url.origin,
                 "X-Title": "PlayTested.Net",
@@ -137,7 +190,7 @@ ${contextText}`
         if (!response.ok) {
             const errorText = await response.text();
             console.error("OpenRouter API Error:", response.status, errorText);
-            return new Response(JSON.stringify({ error: `OpenRouter error: ${response.status}`, details: errorText }), {
+            return new Response(JSON.stringify({ error: `OpenRouter error: ${response.status} `, details: errorText }), {
                 status: response.status,
                 headers: { "Content-Type": "application/json" }
             });
