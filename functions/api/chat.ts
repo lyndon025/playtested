@@ -17,6 +17,8 @@ interface RagDoc {
     url: string;
     tags: string;
     author?: string;
+    rating?: string | number;
+    pubDate?: string;
 }
 
 export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) => {
@@ -90,7 +92,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             topDocs.forEach((d, i) => {
                 const refNum = i + 1;
                 referenceMap[`[${refNum}]`] = `https://playtested.net${d.url}::${d.title}`;
-                articleList += `[${refNum}] "${d.title}" by ${d.author || 'lyndonguitar'}\nExcerpt: ${d.body.substring(0, 600)}...\n\n`;
+                articleList += `[${refNum}] "${d.title}" by ${d.author || 'lyndonguitar'}\nDate: ${d.pubDate || 'N/A'} | Rating: ${d.rating || 'N/A'}\nExcerpt: ${d.body.substring(0, 600)}...\n\n`;
             });
             contextText = `ARTICLES:\n${articleList}`;
         }

@@ -157,7 +157,8 @@ const buildRagIndex = () => {
                 body: searchableBody,
                 url: `/article/${slug}/`,
                 pubDate: data.pubDate || new Date().toISOString(),
-                game: data.game || ""
+                game: data.game || "",
+                rating: data.score || "N/A"
             });
         });
     });
