@@ -196,7 +196,7 @@ ${contextText}`
 
         // Prefix the response with reference map JSON for client to parse
         const refMapJson = JSON.stringify(referenceMap);
-        const prefix = `< !--REFS:${refMapJson}: REFS-- >\n`;
+        const prefix = `<!--REFS:${refMapJson}:REFS-->\n`;
         const prefixBytes = new TextEncoder().encode(prefix);
 
         // Create a new stream that prepends our reference data
