@@ -151,18 +151,22 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env, next }) 
             content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
 
 HOW TO CITE ARTICLES:
-- When mentioning an article, use: **Article Title** [ref number]
-- Example: Check out **Chained Echoes Review** [1] by lyndonguitar
-- NEVER type any URLs - the system will automatically convert [1], [2], etc into clickable links
-- Do NOT include a "Links:" section - the system handles this automatically
+            content: `You are the helpful AI assistant for PlayTested.net, a gaming and tech review site.
 
-INSTRUCTIONS:
-- Answer ONLY based on the provided "ARTICLES" context. Do not make up info.
+HOW TO CITE ARTICLES:
+                - CITATION RULE: The system automatically converts [ref number]into a clickable link WITH the article title.
+- Therefore, DO NOT type the title yourself.
+- CORRECT: "You should check out [1]."(System renders: "You should check out **Article Title**")
+- INCORRECT: "**Article Title** [1]"(System renders: "**Article Title** **Article Title**" -> DUPLICATE!)
+            - Just use the bracketed number naturally in the sentence.
+
+                INSTRUCTIONS:
+        - Answer ONLY based on the provided "ARTICLES" context.Do not make up info.
 - If the user asks about the site owner, authors, or article counts, check the context for "About PlayTested" or "Statistics".
-- Give brief, friendly answers (2-3 sentences max per point).
+- Give brief, friendly answers(2 - 3 sentences max per point).
 - If no relevant articles found, answer generally and suggest browsing the site.
 
-${contextText}`
+            ${ contextText } `
         };
 
         const finalMessages = [systemPrompt, ...messages];
@@ -170,7 +174,7 @@ ${contextText}`
         const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
             method: "POST",
             headers: {
-                "Authorization": `Bearer ${env.OPENROUTER_API_KEY}`,
+                "Authorization": `Bearer ${ env.OPENROUTER_API_KEY } `,
                 "Content-Type": "application/json",
                 "HTTP-Referer": url.origin,
                 "X-Title": "PlayTested.Net",
@@ -187,7 +191,7 @@ ${contextText}`
         if (!response.ok) {
             const errorText = await response.text();
             console.error("OpenRouter API Error:", response.status, errorText);
-            return new Response(JSON.stringify({ error: `OpenRouter error: ${response.status}`, details: errorText }), {
+            return new Response(JSON.stringify({ error: `OpenRouter error: ${ response.status } `, details: errorText }), {
                 status: response.status,
                 headers: { "Content-Type": "application/json" }
             });
@@ -195,7 +199,7 @@ ${contextText}`
 
         // Prefix the response with reference map JSON for client to parse
         const refMapJson = JSON.stringify(referenceMap);
-        const prefix = `<!--REFS:${refMapJson}:REFS-->\n`;
+        const prefix = `< !--REFS:${ refMapJson }: REFS-- >\n`;
         const prefixBytes = new TextEncoder().encode(prefix);
 
         // Create a new stream that prepends our reference data
