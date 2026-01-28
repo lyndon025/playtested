@@ -219,4 +219,66 @@ if (window.CMS) {
 
   CMS.registerPreviewTemplate("article", ArticlePreview);
   CMS.registerPreviewTemplate("submissions", ArticlePreview);
+
+  CMS.registerEditorComponent({
+    id: "image_text_side",
+    label: "Image & Text Side-by-Side",
+    fields: [
+      { name: "image", label: "Image", widget: "image" },
+      { name: "alt", label: "Alt Text", widget: "string" },
+      { name: "alignment", label: "Image Alignment", widget: "select", options: ["Left", "Right"], default: "Right" },
+      { name: "content", label: "Content", widget: "markdown" },
+    ],
+    pattern: /^<div class="flex flex-col (md:flex-row|md:flex-row-reverse) items-center gap-6 mb-12 pb-6 border-b border-slate-700">\s*<img\s+src=["']?([^"'\s>]+)["']?\s+alt=["']?([^"']*)["']?\s+class="w-full md:w-2\/5 rounded shadow"\s*\/>\s*(?:<div>)?([\s\S]*?)(?:<\/div>)?\s*<\/div>$/,
+    fromBlock: function (match) {
+      return {
+        alignment: match[1] === "md:flex-row" ? "Left" : "Right",
+        image: match[2],
+        alt: match[3],
+        content: match[4].trim()
+      };
+    },
+    toBlock: function (obj) {
+      const direction = obj.alignment === "Left" ? "md:flex-row" : "md:flex-row-reverse";
+      return `<div class="flex flex-col ${direction} items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+  <img src="${obj.image}" alt="${obj.alt}" class="w-full md:w-2/5 rounded shadow" />
+  <div>
+    ${obj.content}
+  </div>
+</div>`;
+    },
+    toPreview: function (obj) {
+      const alignment = obj.alignment || "Right";
+      const flexDirection = alignment === "Left" ? "row" : "row-reverse";
+
+      return window.h('div', {
+        style: {
+          display: 'flex',
+          flexDirection: flexDirection,
+          alignItems: 'center',
+          gap: '1.5rem',
+          marginBottom: '3rem',
+          paddingBottom: '1.5rem',
+          borderBottom: '1px solid #334155'
+        }
+      }, [
+        window.h('img', {
+          src: obj.image,
+          alt: obj.alt,
+          style: {
+            width: '40%',
+            borderRadius: '0.25rem',
+            boxShadow: '0 1px 3px 0 rgba(0, 0, 0, 0.1)'
+          }
+        }),
+        window.h('div', {
+          style: {
+            flex: 1,
+            marginLeft: alignment === "Left" ? "1.5rem" : "0",
+            marginRight: alignment === "Right" ? "1.5rem" : "0"
+          }
+        }, obj.content || "Content...")
+      ]);
+    }
+  });
 }
