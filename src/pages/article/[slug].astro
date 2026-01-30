@@ -6,6 +6,7 @@ import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
 import FeaturedCard from "../../components/FeaturedCard.astro";
 import Carousel from "../../components/Carousel.astro";
+import SocialShare from "../../components/SocialShare.astro";
 import SiteOptions from "../../site.config.mjs";
 
 // Define a union type for collections
@@ -183,143 +184,170 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
         }
       </div>
     </div>
+  </article>
+
+  <div class="flex flex-wrap items-center justify-between gap-y-2 mb-6">
     {
-      tags?.length > 0 && (
-        <div class="mt-2 text-xs sm:text-sm">
+      tags?.length > 0 ? (
+        <div class="flex flex-wrap items-center gap-1 text-xs sm:text-sm">
           <span class="font-medium text-gray-500 dark:text-gray-400 mr-1">
             Tags:
           </span>
           {tags.map((tag) => (
             <a
               href={`/tag/${tag.toLowerCase().replace(/\s+/g, "-")}`}
-              class="inline-block mt-1 bg-gray-100 text-gray-600 dark:bg-slate-700 dark:text-slate-300 px-1.5 py-0.5 sm:px-4 sm:py-1 rounded hover:bg-gray-200 dark:hover:bg-slate-600 ml-1 no-underline hover:underline text-[10px] sm:text-xs"
+              class="inline-block bg-gray-100 text-gray-600 dark:bg-slate-700 dark:text-slate-300 px-1.5 py-0.5 sm:px-4 sm:py-1 rounded hover:bg-gray-200 dark:hover:bg-slate-600 no-underline hover:underline text-[10px] sm:text-xs transition-colors"
             >
               {tag}
             </a>
           ))}
         </div>
-      )
-    }
-    {
-      large && (
-        <div class="mb-8 clear-both">
-          <img
-            src={large}
-            alt={title}
-            class="w-full h-auto rounded-lg shadow-md"
-            loading="eager"
-          />
-        </div>
+      ) : (
+        <div />
       )
     }
 
-    <div
-      class="pt-2 prose prose-h2:text-2xl prose-lg max-w-none text-gray-700 dark:prose-strong:text-slate-100 dark:text-gray-300 prose-headings:text-gray-900 dark:prose-headings:text-slate-100 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-code:text-slate-700 dark:prose-code:text-slate-100 prose-pre:bg-gray-100 dark:prose-pre:bg-slate-800 prose-blockquote:border-gray-300 dark:prose-blockquote:border-gray-600 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-400 prose-h3:text-[1.2em]"
-    >
-      {/* AI Summary Section moved inside prose for alignment */}
-      <button
-        id="ai-summary-btn"
-        class="mb-6 mt-4 py-2 px-4 bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700 text-white font-medium rounded-lg shadow-md hover:shadow-lg transition-all flex items-center gap-2 text-sm no-underline"
-        data-slug={post.slug}
-        data-author={author}
-        data-hash={createHash("sha256")
-          .update(post.body || "")
-          .digest("hex")
-          .substring(0, 16)}
-      >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-4 w-4"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M13 10V3L4 14h7v7l9-11h-7z"></path>
-        </svg>
-        See AI Summary of Review
-      </button>
-
-      <div
-        id="ai-summary-container"
-        class="mb-6 mt-4 p-4 bg-blue-50 dark:bg-slate-800/50 rounded-lg border border-blue-100 dark:border-slate-700 hidden flow-root"
-      >
-        <h3
-          class="font-bold text-blue-800 dark:text-blue-300 mb-2 flex items-center gap-2 mt-0"
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            class="h-5 w-5"
-            viewBox="0 0 20 20"
-            fill="currentColor"
-          >
-            <path
-              fill-rule="evenodd"
-              d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-              clip-rule="evenodd"></path>
-          </svg>
-          AI Summary
-        </h3>
-        <div
-          id="ai-summary-text"
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mt-3"
-        >
-        </div>
-      </div>
-
-      {
-        Array.isArray(gallery) && gallery.length > 0 && (
-          <div class="w-full lg:float-right lg:max-w-[420px] lg:ml-8 mb-6 lg:mb-4">
-            <Carousel images={gallery} />
-          </div>
-        )
-      }
-
-      <Content />
-      <section id="comments" class="mt-12">
-        <script
-          src="https://giscus.app/client.js"
-          data-repo="lyndon025/playtested"
-          data-repo-id="R_kgDOPaOyuA"
-          data-category="comments"
-          data-category-id="DIC_kwDOPaOyuM4CuBy3"
-          data-mapping="pathname"
-          data-strict="0"
-          data-reactions-enabled="1"
-          data-emit-metadata="0"
-          data-input-position="bottom"
-          data-theme="preferred_color_scheme"
-          data-lang="en"
-          data-loading="lazy"
-          crossorigin="anonymous"
-          async></script>
-      </section>
-    </div>
-  </article>
-
+    <SocialShare
+      title={title}
+      description={description}
+      thumb={thumb || large}
+      score={score}
+      author={author}
+    />
+  </div>
   {
-    SiteOptions.showSimilarPosts && featuredPosts.length > 0 && (
-      <>
-        <hr class="border-t border-gray-200 dark:border-gray-700 my-12" />
-        <section>
-          <h2 class="text-2xl font-semibold mb-8 text-center text-gray-800 dark:text-slate-200">
-            {SiteOptions.labels.youMightAlsoLike}
-          </h2>
-          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
-            {featuredPosts.map((p) => (
-              <FeaturedCard post={p} />
-            ))}
-          </div>
-        </section>
-      </>
+    large && (
+      <div class="mb-8 clear-both">
+        <img
+          src={large}
+          alt={title}
+          class="w-full h-auto rounded-lg shadow-md"
+          loading="eager"
+        />
+      </div>
     )
   }
 
-  <Footer />
+  <div
+    class="pt-2 prose prose-h2:text-2xl prose-lg max-w-none text-gray-700 dark:prose-strong:text-slate-100 dark:text-gray-300 prose-headings:text-gray-900 dark:prose-headings:text-slate-100 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-code:text-slate-700 dark:prose-code:text-slate-100 prose-pre:bg-gray-100 dark:prose-pre:bg-slate-800 prose-blockquote:border-gray-300 dark:prose-blockquote:border-gray-600 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-400 prose-h3:text-[1.2em]"
+  >
+    {/* AI Summary Section moved inside prose for alignment */}
+    <button
+      id="ai-summary-btn"
+      class="mb-6 mt-4 py-2 px-4 bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700 text-white font-medium rounded-lg shadow-md hover:shadow-lg transition-all flex items-center gap-2 text-sm no-underline"
+      data-slug={post.slug}
+      data-author={author}
+      data-hash={createHash("sha256")
+        .update(post.body || "")
+        .digest("hex")
+        .substring(0, 16)}
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-4 w-4"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+      </svg>
+      See AI Summary of Review
+    </button>
+
+    <div
+      id="ai-summary-container"
+      class="mb-6 mt-4 p-4 bg-blue-50 dark:bg-slate-800/50 rounded-lg border border-blue-100 dark:border-slate-700 hidden flow-root"
+    >
+      <h3
+        class="font-bold text-blue-800 dark:text-blue-300 mb-2 flex items-center gap-2 mt-0"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-5 w-5"
+          viewBox="0 0 20 20"
+          fill="currentColor"
+        >
+          <path
+            fill-rule="evenodd"
+            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+            clip-rule="evenodd"></path>
+        </svg>
+        AI Summary
+      </h3>
+      <div
+        id="ai-summary-text"
+        class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mt-3"
+      >
+      </div>
+    </div>
+
+    {
+      Array.isArray(gallery) && gallery.length > 0 && (
+        <div class="w-full lg:float-right lg:max-w-[420px] lg:ml-8 mb-6 lg:mb-4">
+          <Carousel images={gallery} />
+        </div>
+      )
+    }
+
+    <Content />
+
+    <div class="mt-8 mb-4">
+      <h3 class="text-xl font-bold mb-4 text-gray-800 dark:text-gray-100">
+        Share this review
+      </h3>
+      <SocialShare
+        title={title}
+        description={description}
+        thumb={thumb || large}
+        score={score}
+        author={author}
+      />
+    </div>
+
+    <section id="comments" class="mt-12">
+      <script
+        src="https://giscus.app/client.js"
+        data-repo="lyndon025/playtested"
+        data-repo-id="R_kgDOPaOyuA"
+        data-category="comments"
+        data-category-id="DIC_kwDOPaOyuM4CuBy3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async></script>
+    </section>
+  </div>
 </BlogLayout>
+
+{
+  SiteOptions.showSimilarPosts && featuredPosts.length > 0 && (
+    <>
+      <hr class="border-t border-gray-200 dark:border-gray-700 my-12" />
+      <section>
+        <h2 class="text-2xl font-semibold mb-8 text-center text-gray-800 dark:text-slate-200">
+          {SiteOptions.labels.youMightAlsoLike}
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+          {featuredPosts.map((p) => (
+            <FeaturedCard post={p} />
+          ))}
+        </div>
+      </section>
+    </>
+  )
+}
+
+<Footer />
 
 <script define:vars={{ rawBody: post.body || "" }}>
   function initAiSummary() {

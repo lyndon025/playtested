@@ -1,0 +1,232 @@
+---
+import ReviewCard from "./ReviewCard.astro";
+
+interface Props {
+    title: string;
+    description?: string;
+    thumb?: string;
+    url?: URL;
+    score?: number | string;
+    author?: string;
+    type?: "article" | "home";
+    variant?: "default" | "small";
+}
+
+const {
+    title,
+    description,
+    thumb,
+    url = Astro.url,
+    score,
+    author,
+    type = "article",
+    variant = "default",
+} = Astro.props;
+
+// Generate a unique ID for the card to allow multiple instances
+const cardId = `card-${Math.random().toString(36).substr(2, 9)}`;
+
+const encodedUrl = encodeURIComponent(url.href);
+const encodedTitle = encodeURIComponent(title);
+
+const shareLinks = [
+    {
+        name: "Facebook",
+        icon: "M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z",
+        href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+        color: "hover:bg-blue-600",
+    },
+    {
+        name: "Twitter",
+        icon: "M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z",
+        href: `https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`,
+        color: "hover:bg-sky-500",
+    },
+    {
+        name: "WhatsApp",
+        icon: "M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.008-.57-.008-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z",
+        href: `https://wa.me/?text=${encodedTitle}%20${encodedUrl}`,
+        color: "hover:bg-green-500",
+    },
+    {
+        name: "Messenger",
+        icon: "M12 2C6.48 2 2 6.03 2 11c0 2.87 1.56 5.47 3.99 7.15l-1 3.85 4.31-1.34c.89.24 1.82.34 2.7.34 5.52 0 10-4.03 10-9s-4.48-9-10-9zm1.7 11l-2.5-2.7-4.9 2.7 5.4-5.7 2.5 2.7 4.9-2.7-5.4 5.7z",
+        href: `fb-messenger://share/?link=${encodedUrl}`,
+        mobileOnly: true,
+        color: "hover:bg-purple-500",
+    },
+    {
+        name: "Telegram",
+        icon: "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.48-1.02-2.38-1.64-1.04-.72-.37-1.12.23-1.74.15-.16 2.81-2.57 2.86-2.79.01-.05-.01-.33-.35-.23-.42.12-6.52 4.16-6.84 4.01-.76-.36-1.51-.55-2.28-.57-.84-.03-2.1.41-2.19.41.9-.38 3.51-1.47 7.02-2.79 3.32-1.24 4.02-1.46 4.47-1.46.2 0 .44.04.59.16.13.1.17.24.18.39 0 .04 0 .09.01.14z",
+        href: `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`,
+        color: "hover:bg-blue-400",
+    },
+];
+---
+
+<div
+    class={`social-share-container ${variant === "small" ? "inline-block" : "flex flex-wrap gap-2"}`}
+>
+    {
+        variant === "default" && (
+            <>
+                {shareLinks.map((link) => (
+                    <a
+                        href={link.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class={`inline-flex items-center justify-center w-8 h-8 md:w-10 md:h-10 rounded-full bg-gray-100 dark:bg-slate-700 text-gray-600 dark:text-gray-300 transition-colors ${link.color} hover:text-white`}
+                        title={`Share on ${link.name}`}
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="24"
+                            height="24"
+                            viewBox="0 0 24 24"
+                            fill="currentColor"
+                            class="w-4 h-4 md:w-5 md:h-5 pointer-events-none"
+                            set:html={`<path d="${link.icon}"/>`}
+                        />
+                    </a>
+                ))}
+
+                <button
+                    class="copy-link-btn inline-flex items-center justify-center w-8 h-8 md:w-10 md:h-10 rounded-full bg-gray-100 dark:bg-slate-700 text-gray-600 dark:text-gray-300 transition-colors hover:bg-gray-500 hover:text-white"
+                    title="Copy Link"
+                    data-url={url}
+                >
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        class="w-4 h-4 md:w-5 md:h-5"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                    >
+                        <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="2"
+                            d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"
+                        />
+                    </svg>
+                </button>
+            </>
+        )
+    }
+
+    <button
+        class={`save-card-btn inline-flex items-center justify-center rounded-full bg-gray-100 dark:bg-slate-700 text-gray-600 dark:text-gray-300 transition-colors hover:bg-indigo-500 hover:text-white ${variant === "small" ? "w-8 h-8 md:w-10 md:h-10" : "w-8 h-8 md:w-10 md:h-10"}`}
+        title="Save Card Image"
+        data-target={cardId}
+    >
+        <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="w-4 h-4 md:w-5 md:h-5"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+        >
+            <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
+            ></path>
+        </svg>
+    </button>
+</div>
+
+<div class="sr-only">
+    <ReviewCard
+        id={cardId}
+        title={title}
+        description={description}
+        thumb={thumb}
+        score={score}
+        url={url}
+        type={type}
+    />
+</div>
+
+<script>
+    import * as htmlToImage from "html-to-image";
+
+    // Script runs once per page, we need to wire up all buttons present
+    // If use "astro:page-load" we re-run logic
+
+    function initSocialShare() {
+        // Copy Link Logic
+        const copyBtns = document.querySelectorAll(".copy-link-btn");
+        copyBtns.forEach((btn) => {
+            // avoid double binding? replace or check?
+            if ((btn as any)._bound) return;
+            (btn as any)._bound = true;
+
+            btn.addEventListener("click", async () => {
+                const url = (btn as HTMLElement).dataset.url;
+                if (url) {
+                    try {
+                        await navigator.clipboard.writeText(url);
+                        const originalHtml = btn.innerHTML;
+                        btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>`;
+                        setTimeout(() => (btn.innerHTML = originalHtml), 2000);
+                    } catch (e) {
+                        console.error("Failed to copy", e);
+                    }
+                }
+            });
+        });
+
+        // Save Card Logic
+        const saveBtns = document.querySelectorAll(".save-card-btn");
+        saveBtns.forEach((btn) => {
+            if ((btn as any)._bound) return;
+            (btn as any)._bound = true;
+
+            btn.addEventListener("click", async () => {
+                const targetId = (btn as HTMLElement).dataset.target;
+                if (!targetId) return;
+
+                const card = document.getElementById(targetId);
+                if (!card) return;
+
+                const originalBtnHtml = btn.innerHTML;
+                btn.innerHTML = `<svg class="animate-spin h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>`;
+
+                try {
+                    // Make visible for capture by overriding opacity
+                    card.style.opacity = "1";
+                    // Keep z-index low to avoid flashing over content
+                    card.style.zIndex = "-50";
+
+                    // Wait a moment for any paints/font rendering
+                    await new Promise((r) => setTimeout(r, 100));
+
+                    const dataUrl = await htmlToImage.toPng(card, {
+                        quality: 0.95,
+                        pixelRatio: 2,
+                        backgroundColor: "#0f172a",
+                    });
+
+                    // Reset
+                    card.style.opacity = "0";
+
+                    const link = document.createElement("a");
+                    link.download = `playtested-card-${Date.now()}.png`;
+                    link.href = dataUrl;
+                    link.click();
+                } catch (error) {
+                    console.error("oops, something went wrong!", error);
+                    alert("Failed to generate card image.");
+                } finally {
+                    if (card) card.style.opacity = "0";
+                    btn.innerHTML = originalBtnHtml;
+                }
+            });
+        });
+    }
+
+    // init on load
+    initSocialShare();
+    document.addEventListener("astro:page-load", initSocialShare);
+</script>
