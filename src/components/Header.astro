@@ -1,6 +1,7 @@
 ---
 import SiteOptions from "../site.config.mjs";
 import { Image } from "astro:assets";
+import SocialShare from "./SocialShare.astro";
 export interface Props {
   showTitle?: boolean;
 }
@@ -77,29 +78,43 @@ const { showTitle = true } = Astro.props;
       </a>
     </div>
 
-    <!-- Single theme button that repositions by breakpoint -->
-    <button
-      id="theme-toggle"
-      aria-label="Toggle theme"
-      class="absolute right-4 p-2 sm:static sm:ml-auto rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors"
+    <!-- Theme Toggle & Share -->
+    <div
+      class="absolute right-4 top-2 sm:static sm:ml-auto flex items-center gap-2"
     >
-      <!-- One SVG. We swap the <path> d attribute -->
-      <svg
-        id="theme-icon"
-        xmlns="http://www.w3.org/2000/svg"
-        fill="none"
-        viewBox="0 0 24 24"
-        stroke-width="1.5"
-        stroke="currentColor"
-        class="w-5 h-5"
+      {
+        Astro.url.pathname === "/" && (
+          <SocialShare
+            title={SiteOptions.siteTitle}
+            description={SiteOptions.siteSubTitle}
+            variant="small"
+            type="home"
+          />
+        )
+      }
+      <button
+        id="theme-toggle"
+        aria-label="Toggle theme"
+        class="p-2 rounded-md text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-slate-700 hover:bg-gray-200 dark:hover:bg-slate-600 transition-colors"
       >
-        <path
-          id="theme-path"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          d=""></path>
-      </svg>
-    </button>
+        <!-- One SVG. We swap the <path> d attribute -->
+        <svg
+          id="theme-icon"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          stroke="currentColor"
+          class="w-5 h-5"
+        >
+          <path
+            id="theme-path"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d=""></path>
+        </svg>
+      </button>
+    </div>
   </div>
 
   <!-- Nav -->

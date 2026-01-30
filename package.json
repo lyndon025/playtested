@@ -18,8 +18,10 @@
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.8",
     "astro": "^5.12.8",
+    "html-to-image": "^1.11.13",
     "marked": "^16.1.2",
     "minisearch": "^7.1.2",
+    "qrcode": "^1.5.4",
     "tailwindcss": "^4.1.8",
     "typescript": "^5.9.2"
   },
