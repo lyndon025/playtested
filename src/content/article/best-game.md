@@ -167,7 +167,7 @@ How do you improve on perfection? Supergiant found a way. By shifting the focus 
   </div>
 </div>
 
-<img src="/images/uploads/2025-06-06-clair-obscur-1.avif" alt="undefined" style="max-height: 400px;" class="mx-auto block rounded shadow" />
+<img src="/images/uploads/2025-06-06-clair-obscur-1.avif" alt="undefined" style="max-height: 50px;" class="mx-auto block rounded shadow" />
 
 # 1. Clair Obscur: Expedition 33
 
