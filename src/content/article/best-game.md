@@ -21,11 +21,7 @@ Better late than never! 2025 has been an absolute banger for the industry. From 
 We’ve seen sequels that somehow perfected already "perfect" formulas and new IPs that caught us completely off guard. It wasn't just about better graphics or larger worlds; it was about games that respected our time, challenged our emotions, and refined the very genres they inhabit. Here are my Top 10 Games of 2025, ranked and reviewed. As well as special mentions of non-2025 games that I've played in 2025 anyway.
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/arc01.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/arc01.avif" alt="" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## **10. Arc Raiders**
@@ -41,11 +37,7 @@ A masterclass in restraint within the extraction shooter genre. It strips away t
 </div>
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/2025-07-16-the-alters-4.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/2025-07-16-the-alters-4.avif" alt="" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## **9. The Alters**
@@ -61,11 +53,7 @@ My absolute "surprise game" of the year. It’s rare to find a game that feeds y
 </div>
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/dispatch04.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/dispatch04.avif" alt="" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## **8. Dispatch**
@@ -81,11 +69,7 @@ In an era of 100-hour epics, *Dispatch* is a breath of fresh air—a tight, epis
 </div>
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/2025-07-31-doom-dark-ages-0.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/2025-07-31-doom-dark-ages-0.avif" alt="" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## 7. Doom: Dark Ages
@@ -101,11 +85,7 @@ Fast, refined, and unapologetically brutal. It manages to bridge the gap between
 </div>
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/goy06.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/goy06.avif" alt="" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## 6. Ghost of Yotei
@@ -121,11 +101,7 @@ A masterclass in open-world pacing. It’s a game that respects the player's tim
 </div>
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/2025-07-09-death-stranding-2-1.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/2025-07-09-death-stranding-2-1.avif" alt="" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## 
@@ -142,11 +118,7 @@ Kojima doubles down on the "journey over destination" philosophy, resulting in a
 </div>
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/2025-06-27-kcd2-1.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/2025-06-27-kcd2-1.avif" alt="" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## 4. Kingdom Come: Deliverance II
@@ -162,11 +134,7 @@ The sheer ambition here is staggering. It’s not just an RPG; it’s a living, 
 </div>
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/splitfiction01.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/splitfiction01.avif" alt="" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## 3. Split Fiction
@@ -182,11 +150,7 @@ The gold standard for co-op gaming. It’s a constant barrage of creativity that
 </div>
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-<<<<<<< HEAD
   <img src="/images/uploads/hadesii04.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-=======
-  <img src="/images/uploads/hadesii04.avif" alt="u" class="w-full md:w-2/5 rounded shadow" />
->>>>>>> 0bd361fbc808268f521df5a6a27324a7761a23f6
   <div class="flex-1 w-full">
 
 ## 2. Hades II
