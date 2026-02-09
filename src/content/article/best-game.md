@@ -173,7 +173,7 @@ How do you improve on perfection? Supergiant found a way. By shifting the focus 
   <img src="/images/uploads/2025-06-06-clair-obscur-1.avif" alt="undefined" class="mx-auto block rounded shadow" style="max-height: 200px;" />
 </div>
 
-## 1. Clair Obscur: Expedition 33
+## **1. Clair Obscur: Expedition 33**
 
 **Rating: 9.4/10**
 This is the one. A bold, creative, and emotionally resonant experience that excels in every single category—from the music to the strategic combat.
