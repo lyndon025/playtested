@@ -1,0 +1,102 @@
+---
+import BlogLayout from "../layouts/BlogLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import SiteOptions from "../site.config.mjs";
+
+const siteTitle = SiteOptions.siteTitle || "PlayTested";
+const siteUrl = "https://playtested.net";
+---
+
+<BlogLayout
+    title={`Privacy Policy | ${siteTitle}`}
+    description={`Privacy Policy for ${siteTitle}. Learn how we handle your data and our use of third-party advertising.`}
+>
+    <Header />
+
+    <main
+        class="mt-10 mb-16 prose dark:prose-invert max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 bg-white dark:bg-slate-800 p-8 rounded-2xl border border-gray-200 dark:border-slate-700"
+    >
+        <h1>Privacy Policy</h1>
+        <p class="text-sm text-gray-500">Last Updated: February 9, 2026</p>
+
+        <p>
+            At <strong>{siteTitle}</strong> (accessible from <a href={siteUrl}
+                >{siteUrl}</a
+            >), one of our main priorities is the privacy of our visitors. This
+            Privacy Policy document contains types of information that is
+            collected and recorded by {siteTitle} and how we use it.
+        </p>
+
+        <h2>1. Log Files</h2>
+        <p>
+            {siteTitle} follows a standard procedure of using log files. These files
+            log visitors when they visit websites. Most hosting companies do this
+            as part of hosting services' analytics. The information collected by
+            log files include internet protocol (IP) addresses, browser type, Internet
+            Service Provider (ISP), date and time stamp, referring/exit pages, and
+            possibly the number of clicks.
+        </p>
+
+        <h2>2. Cookies and Web Beacons</h2>
+        <p>
+            Like any other website, {siteTitle} uses 'cookies'. These cookies are
+            used to store information including visitors' preferences, and the pages
+            on the website that the visitor accessed or visited. The information
+            is used to optimize the users' experience by customizing our web page
+            content based on visitors' browser type and/or other information.
+        </p>
+
+        <h2>3. Google DoubleClick DART Cookie</h2>
+        <p>
+            Google is one of a third-party vendor on our site. It also uses
+            cookies, known as DART cookies, to serve ads to our site visitors
+            based upon their visit to our site and other sites on the internet.
+            However, visitors may choose to decline the use of DART cookies by
+            visiting the Google ad and content network Privacy Policy at the
+            following URL – <a
+                href="https://policies.google.com/technologies/ads"
+                >https://policies.google.com/technologies/ads</a>
+        </p>
+
+        <h2>4. Our Advertising Partners</h2>
+        <p>
+            Some of advertisers on our site may use cookies and web beacons. Our
+            advertising partners include:
+        </p>
+        <ul>
+            <li><strong>Google AdSense</strong></li>
+        </ul>
+
+        <h2>5. Third Party Privacy Policies</h2>
+        <p>
+            {siteTitle}'s Privacy Policy does not apply to other advertisers or
+            websites. Thus, we are advising you to consult the respective
+            Privacy Policies of these third-party ad servers for more detailed
+            information. It may include their practices and instructions about
+            how to opt-out of certain options.
+        </p>
+
+        <h2>6. Children's Information</h2>
+        <p>
+            Another part of our priority is adding protection for children while
+            using the internet. We encourage parents and guardians to observe,
+            participate in, and/or monitor and guide their online activity.
+        </p>
+        <p>
+            {siteTitle} does not knowingly collect any Personal Identifiable Information
+            from children under the age of 13. If you think that your child provided
+            this kind of information on our website, we strongly encourage you to
+            contact us immediately and we will do our best efforts to promptly remove
+            such information from our records.
+        </p>
+
+        <h2>7. Consent</h2>
+        <p>
+            By using our website, you hereby consent to our Privacy Policy and
+            agree to its Terms and Conditions.
+        </p>
+    </main>
+
+    <Footer />
+</BlogLayout>

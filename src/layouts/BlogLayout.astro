@@ -3,7 +3,6 @@ import "../styles/global.css"
 import SiteOptions from "../site.config.mjs"
 import { ClientRouter } from "astro:transitions";
 import ChatWidget from "../components/ChatWidget.astro";
-import AdUnit from "../components/AdUnit.astro";
 
 export interface Props {
   title: string
@@ -104,7 +103,6 @@ const schema = JSON.stringify({
   <body class="bg-gray-200 text-gray-900 dark:bg-slate-900 dark:text-slate-200 transition-colors duration-300 min-h-full">
     <main class="max-w-[1500px] mx-auto px-4 sm:px-6 lg:px-8">
       <slot />
-      <AdUnit type="footer" class="mt-12" />
     </main>
 
     <script is:inline src="/scripts/theme-toggle.js"></script>
