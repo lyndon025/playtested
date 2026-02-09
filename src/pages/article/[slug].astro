@@ -7,6 +7,7 @@ import Footer from "../../components/Footer.astro";
 import FeaturedCard from "../../components/FeaturedCard.astro";
 import Carousel from "../../components/Carousel.astro";
 import SocialShare from "../../components/SocialShare.astro";
+import AdUnit from "../../components/AdUnit.astro";
 import SiteOptions from "../../site.config.mjs";
 
 // Define a union type for collections
@@ -429,4 +430,58 @@ const formattedDate = new Intl.DateTimeFormat("en-US", {
 
   // Run on Client Router navigation
   document.addEventListener("astro:page-load", initAiSummary);
+</script>
+
+<script is:inline define:vars={{ ads: SiteOptions.ads }}>
+  function injectAds() {
+    if (!ads.adSense.enabled && !ads.carbonAds.enabled) return;
+
+    const articleBody = document.querySelector(".prose");
+    if (!articleBody) return;
+
+    // Remove existing ad containers to avoid duplicates on navigation
+    articleBody
+      .querySelectorAll(".in-article-ad-wrapper")
+      .forEach((el) => el.remove());
+
+    const paragraphs = Array.from(articleBody.children).filter(
+      (el) => el.tagName === "P",
+    );
+
+    // Inject after 3rd paragraph or in the middle
+    if (paragraphs.length >= 4) {
+      const targetIndex = Math.floor(paragraphs.length / 2);
+      const targetP = paragraphs[targetIndex];
+
+      const adWrapper = document.createElement("div");
+      adWrapper.className = "in-article-ad-wrapper my-8";
+
+      // We create a placeholder that the AdUnit logic can use or just inject script here
+      // For simplicity and to avoid complex Astro/Client-Side mixing, we'll use a hidden template or specialized injection
+      if (ads.adSense.enabled) {
+        adWrapper.innerHTML = `
+          <ins class="adsbygoogle"
+               style="display:block; text-align:center;"
+               data-ad-layout="in-article"
+               data-ad-format="fluid"
+               data-ad-client="${ads.adSense.clientId}"
+               data-ad-slot="${ads.adSense.articleUnitId}"></ins>
+        `;
+        targetP.insertAdjacentElement("afterend", adWrapper);
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      } else if (ads.carbonAds.enabled) {
+        // Carbon doesn't like being injected multiple times easily, but we can try
+        const script = document.createElement("script");
+        script.async = true;
+        script.type = "text/javascript";
+        script.src = `//cdn.carbonads.com/carbon.js?serve=${ads.carbonAds.serve}&placement=${ads.carbonAds.placement}`;
+        script.id = "_carbonads_js";
+        adWrapper.appendChild(script);
+        targetP.insertAdjacentElement("afterend", adWrapper);
+      }
+    }
+  }
+
+  document.addEventListener("astro:page-load", injectAds);
+  injectAds();
 </script>

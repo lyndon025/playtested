@@ -41,6 +41,21 @@ export default {
     numberOfBlogPostsPerPage: 10, // Number of posts per paginated blog
     numberOfFeaturedPostsOnHomePage: 12,
 
-    gTag: "G-V5QHDKBFP" // Google Analytics tracking ID
+    gTag: "G-V5QHDKBFP", // Google Analytics tracking ID
+
+    // Ad Configuration
+    ads: {
+        adSense: {
+            enabled: import.meta.env.PUBLIC_ADSENSE_ENABLED === "true",
+            clientId: import.meta.env.PUBLIC_ADSENSE_CLIENT_ID,
+            articleUnitId: import.meta.env.PUBLIC_ADSENSE_ARTICLE_UNIT_ID,
+            footerUnitId: import.meta.env.PUBLIC_ADSENSE_FOOTER_UNIT_ID,
+        },
+        carbonAds: {
+            enabled: false,
+            serve: "XXXXXXX", // Carbon Ads 'serve' ID
+            placement: "XXXXXXXX", // Carbon Ads 'placement' ID
+        }
+    }
 }
 
