@@ -10,7 +10,19 @@ if (window.CMS) {
     p { margin: .5rem 0; }
     img, video, iframe { max-width: 100%; height: auto; display: block; }
     /* Markdown area */
-    .markdown-preview img { max-width: 100%; height: auto; border-radius: 12px; }
+    .markdown-preview img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      max-height: 600px;
+      margin: 1.5rem auto;
+      display: block;
+      object-fit: contain;
+    }
+    /* Sized images should override the default max-height */
+    .markdown-preview img[style*="max-height"] {
+      max-height: none !important;
+    }
     /* Mimic sticky title block */
     .title-block { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; text-align: left; }
     .title-block h1 { font-size: 1.5rem; font-weight: bold; }
@@ -230,22 +242,24 @@ if (window.CMS) {
       { name: "alignment", label: "Image Alignment", widget: "select", options: ["Left", "Right"], default: "Right" },
       { name: "content", label: "Content", widget: "markdown" },
     ],
-    pattern: /^<div class="flex flex-col (md:flex-row|md:flex-row-reverse) items-center gap-6 mb-12 pb-6 border-b border-slate-700">\s*<img\s+src=["']?([^"'\s>]+)["']?\s+alt=["']?([^"']*)["']?\s+class="w-full md:w-2\/5 rounded shadow"\s*\/>\s*(?:<div>)?\s*([\s\S]*?)\s*(?:<\/div>)?\s*<\/div>/m,
+    pattern: /^<div class="flex flex-col (md:flex-row|md:flex-row-reverse) items-center gap-6 mb-12 pb-6 border-b border-slate-700">\s*<img\s+src=["']?([^"'\s>]+)["']?\s+alt=["']?([^"']*)["']?\s+class="w-full md:w-2\/5 rounded shadow"\s*(?:style=["']?max-height:\s*(\d+)px;?["']?\s*)?\/>\s*(?:<div[^>]*>)?\s*([\s\S]*?)\s*(?:<\/div>)?\s*<\/div>/m,
     fromBlock: function (match) {
       return {
         alignment: match[1] === "md:flex-row" ? "Left" : "Right",
         image: match[2],
         alt: match[3],
-        content: match[4].trim()
+        content: match[5].trim()
       };
     },
     toBlock: function (obj) {
       const direction = obj.alignment === "Left" ? "md:flex-row" : "md:flex-row-reverse";
       return `<div class="flex flex-col ${direction} items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="${obj.image}" alt="${obj.alt}" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ${obj.content}
 
+  </div>
 </div>`;
     },
     toPreview: function (obj) {
@@ -269,7 +283,8 @@ ${obj.content}
           style: {
             width: '40%',
             borderRadius: '0.25rem',
-            boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)'
+            boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
+            objectFit: 'contain'
           }
         }),
         window.h('div', {
@@ -280,6 +295,44 @@ ${obj.content}
           }
         }, obj.content || "Content...")
       ]);
+    }
+  });
+
+  CMS.registerEditorComponent({
+    id: "image_sized",
+    label: "Image (with Sizing)",
+    fields: [
+      { name: "image", label: "Image", widget: "image" },
+      { name: "alt", label: "Alt Text", widget: "string" },
+      { name: "height", label: "Max Height (px)", widget: "number", default: 600 },
+    ],
+    pattern: /^<div class="image-sized-wrapper" style="--img-height:(\d+)px;">\s*<img\s+src=["']?([^"'\s>]+)["']?\s+alt=["']?([^"']*)["']?\s+class="mx-auto block rounded shadow"\s*style=["']?max-height:\s*(\d+)px;?["']?\s*\/>\s*<\/div>/m,
+    fromBlock: function (match) {
+      return {
+        height: parseInt(match[1] || match[4] || "600", 10),
+        image: match[2],
+        alt: match[3]
+      };
+    },
+    toBlock: function (obj) {
+      const height = obj.height || 600;
+      return `<div class="image-sized-wrapper" style="--img-height:${height}px;">
+  <img src="${obj.image}" alt="${obj.alt}" class="mx-auto block rounded shadow" style="max-height: ${height}px;" />
+</div>`;
+    },
+    toPreview: function (obj) {
+      return window.h('img', {
+        src: obj.image,
+        alt: obj.alt,
+        style: {
+          maxHeight: `${obj.height || 600}px`,
+          display: 'block',
+          margin: '1rem auto',
+          borderRadius: '0.5rem',
+          boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
+          objectFit: 'contain'
+        }
+      });
     }
   });
 }

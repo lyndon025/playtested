@@ -22,6 +22,7 @@ We’ve seen sequels that somehow perfected already "perfect" formulas and new I
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/arc01.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ## **10. Arc Raiders**
 
@@ -32,12 +33,14 @@ A masterclass in restraint within the extraction shooter genre. It strips away t
 
 [Read The Review](https://www.playtested.net/article/arc-raiders/)
 
+  </div>
 </div>
 
 
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/2025-07-16-the-alters-4.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ## **9. The Alters**
 
@@ -48,12 +51,14 @@ My absolute "surprise game" of the year. It’s rare to find a game that feeds y
 
 [Read The Review](https://www.playtested.net/article/thealters/)
 
+  </div>
 </div>
 
 
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/dispatch04.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ## **8. Dispatch**
 
@@ -64,10 +69,12 @@ In an era of 100-hour epics, *Dispatch* is a breath of fresh air—a tight, epis
 
 [Read The Review](https://www.playtested.net/article/dispatch/)
 
+  </div>
 </div>
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/2025-07-31-doom-dark-ages-0.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ## 7. Doom: Dark Ages
 
@@ -78,10 +85,12 @@ Fast, refined, and unapologetically brutal. It manages to bridge the gap between
 
 [Read The Review](https://www.playtested.net/article/doomdarkages/)
 
+  </div>
 </div>
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/goy06.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ## 6. Ghost of Yotei
 
@@ -92,10 +101,12 @@ A masterclass in open-world pacing. It’s a game that respects the player's tim
 
 [Read The Review](https://www.playtested.net/article/ghostofyotei/)
 
+  </div>
 </div>
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/2025-07-09-death-stranding-2-1.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ## 
 5. Death Stranding 2
@@ -105,17 +116,14 @@ Kojima doubles down on the "journey over destination" philosophy, resulting in a
 
 > “A bold artistic achievement that pushes the boundaries of what games can be... a game experience that is a true masterpiece and one of the most essential titles of the year.”
 
-[Read The Review](https://www.playtested.net/article/deathstranding2/)[
+[Read The Review](https://www.playtested.net/article/deathstranding2/)
 
-](https://www.playtested.net/article/deathstranding2/)
-
+  </div>
 </div>
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/2025-06-27-kcd2-1.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-
-
-
+  <div class="flex-1 w-full">
 
 ## 4. Kingdom Come: Deliverance II
 
@@ -126,10 +134,12 @@ The sheer ambition here is staggering. It’s not just an RPG; it’s a living, 
 
 [Read The Review](https://www.playtested.net/article/kingdomcomedeliverance2/)
 
+  </div>
 </div>
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/splitfiction01.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ## 3. Split Fiction
 
@@ -140,10 +150,12 @@ The gold standard for co-op gaming. It’s a constant barrage of creativity that
 
 [Read The Review](https://www.playtested.net/article/splitfiction/)
 
+  </div>
 </div>
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/hadesii04.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 ## 2. Hades II
 
@@ -154,6 +166,7 @@ How do you improve on perfection? Supergiant found a way. By shifting the focus 
 
 [Read The Review](https://www.playtested.net/article/hades2/)
 
+  </div>
 </div>
 
 ### 
