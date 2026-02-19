@@ -20,6 +20,9 @@ const isAdsterra =
     (provider === "adsterra" || (!provider && ads.adsterra.enabled)) &&
     ads.adsterra.enabled;
 
+const isAdsterraNative = isAdsterra && ads.adsterra.nativeBannerEnabled;
+const isAdsterraFooter = isAdsterra && ads.adsterra.footerBannerEnabled;
+
 // Minimum heights to prevent CLS
 const minHeights = {
     "in-article": "min-h-[280px]",
@@ -63,11 +66,11 @@ const minHeights = {
         <div
             class={`ad-container adsterra-container my-8 mx-auto text-center overflow-hidden ${minHeights[type]} ${className}`}
         >
-            {type === "in-article" && (
+            {type === "in-article" && isAdsterraNative && (
                 <div id={`container-${ads.adsterra.nativeBannerId}`}></div>
-                <script is:inline type="text/javascript" src={`//pl28747193.effectivegatecpm.com/${ads.adsterra.nativeBannerId}/invoke.js`}></script>
+                <script is:inline type="text/javascript" src={`https://pl28747193.effectivegatecpm.com/${ads.adsterra.nativeBannerId}/invoke.js`}></script>
             )}
-            {type === "footer" && (
+            {type === "footer" && isAdsterraFooter && (
                 <script is:inline type="text/javascript" define:vars={{ id: ads.adsterra.footerBannerId }}>
                     atOptions = {
                         'key' : id,
@@ -77,7 +80,7 @@ const minHeights = {
                         'params' : {}
                     };
                 </script>
-                <script is:inline type="text/javascript" src={`//www.highperformanceformat.com/${ads.adsterra.footerBannerId}/invoke.js`}></script>
+                <script is:inline type="text/javascript" src={`https://www.highperformanceformat.com/${ads.adsterra.footerBannerId}/invoke.js`}></script>
             )}
         </div>
     )
