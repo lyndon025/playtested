@@ -53,6 +53,10 @@ export default {
         },
         adsterra: {
             enabled: import.meta.env.PUBLIC_ADSTERRA_ENABLED === "true",
+            nativeBannerEnabled: true,
+            footerBannerEnabled: true,
+            socialBarEnabled: false,
+            popunderEnabled: false,
             nativeBannerId: import.meta.env.PUBLIC_ADSTERRA_NATIVE_ID, // Your Adsterra Native Banner ID
             footerBannerId: import.meta.env.PUBLIC_ADSTERRA_FOOTER_ID, // Your Adsterra Standard Banner ID
             socialBarId: import.meta.env.PUBLIC_ADSTERRA_SOCIAL_ID, // Your Adsterra Social Bar ID
