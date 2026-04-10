@@ -45,7 +45,7 @@ Following its success on PC, **Tiny Bookshop** officially launches on Xbox Serie
 
 #### The Life of an on-the-go Mobile Bookseller
 
-<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/06.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
@@ -71,10 +71,7 @@ Beyond sales, you manage the physical layout of your shop. Decorations and furni
   </div>
 </div>
 
-#### 
-A Believable Recommendation System
-
-
+#### A Believable Recommendation System
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/09.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
@@ -87,7 +84,7 @@ The "suggestion mechanic" is easily one of the most well-made parts of the game.
 
 ### The Struggle with the Slow Pacing
 
-<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/03.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
@@ -102,7 +99,7 @@ The pacing is indeed very slow, maybe to a fault sometimes. Some parts of the ga
 
 Even though the game revolves around the simple cycle of selling items and earning gold, as previously mentioned there are "quests" and tasks that provide a necessary sense of progression, most of which were done creatively. It’s also a nice touch that the game expands the gameplay later on and opens up a bit more, introducing new mechanics that refresh the pacing just as things are starting to feel a bit too familiar.
 
-<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/07.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
@@ -113,9 +110,7 @@ Finally, there’s the setting of Bookstonbury. While the town is charming, you 
   </div>
 </div>
 
-#### 
-Conclusion:
-
+#### Conclusion:
 
 <div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/04.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
