@@ -27,7 +27,7 @@ gallery:
   - /images/uploads/10.avif
 score: 7.7
 ---
-Tiny Bookshop is a cozy management sim that puts you behind the wheel of a mobile bookstore. Set in the picturesque town of Bookstonbury, the game tasks you with stocking shelves, decorating your trailer, and becoming the community's go-to literary expert. It is a title designed for the "cozy gaming" crowd, focusing on the simple, meditative rhythm of matching the right book to the right reader.
+**Tiny Bookshop** is a cozy management sim that puts you behind the wheel of a mobile bookstore. Set in the picturesque town of Bookstonbury, the game tasks you with stocking shelves, decorating your trailer, and becoming the community's go-to literary expert. It is a title designed for the "cozy gaming" crowd, focusing on the simple, meditative rhythm of matching the right book to the right reader.
 
 ### Pros
 
@@ -43,11 +43,13 @@ Tiny Bookshop is a cozy management sim that puts you behind the wheel of a mobil
 
 Following its success on PC, **Tiny Bookshop** officially launches on Xbox Series X|S, Xbox One, and PlayStation 5 today! The game is also available Day One on Xbox Game Pass and PC Game Pass starting **April 10.** After watching my partner play this game for hours and occasionally playing it myself, I finally had the chance to play the game for myself recently.
 
-### The Life of an on-the-go Mobile Bookseller
-
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/06.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
+
+#### 
+The Life of an on-the-go Mobile Bookseller
+
 
 At its heart, **Tiny Bookshop** has very a simple cycle: you buy used books, you sell them on your mobile bookstore, and you earn gold. It’s a very chill loop that lacks any real "thrill" or intense challenge, but that’s clearly by design. One of the best touches is how the economy is handled - which is chill as well , the currency is simplified to just a handful of coins instead of a full-blown dollar system. It’s simplified enough to keep you focused on the inventory rather than the math.
 
@@ -71,11 +73,13 @@ Beyond sales, you manage the physical layout of your shop. Decorations and furni
   </div>
 </div>
 
-### A Believable Recommendation System
-
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/09.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
+
+### 
+A Believable Recommendation System
+
 
 The "suggestion mechanic" is easily one of the most well-made parts of the game. Customers describe their specific tastes and preferences, and you have to recommend a book that fits. The books are tagged correctly as far as genre and descriptions are concerned, and the system feels incredibly believable. There weren't any moments where a book that fit perfectly in my understand, was rejected by a customer—the logic is on point and reliable, which makes the role-playing aspect feel satisfying. That isn't to say I don’t make mistakes; I certainly do. It usually happens when the shelves lack that perfect match and I decide to risk a 'loose' recommendation. Sometimes that gamble pays off, but other times, the customer just ends up disappointed.
 
@@ -97,11 +101,11 @@ The pacing is indeed very slow, maybe to a fault sometimes. Some parts of the ga
 
 ### Progression and the "Bookstonbury" Life
 
+Even though the game revolves around the simple cycle of selling items and earning gold, as previously mentioned there are "quests" and tasks that provide a necessary sense of progression, most of which were done creatively. It’s also a nice touch that the game expands the gameplay later on and opens up a bit more, introducing new mechanics that refresh the pacing just as things are starting to feel a bit too familiar.
+
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/07.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
-
-Even though the game revolves around the simple cycle of selling items and earning gold, as previously mentioned there are "quests" and tasks that provide a necessary sense of progression, most of which were done creatively. It’s also a nice touch that the game expands the gameplay later on and opens up a bit more, introducing new mechanics that refresh the pacing just as things are starting to feel a bit too familiar.
 
 On the mechanical side, the 'effects' of decorations and items are a bit of a letdown. They feel too arbitrary and aren't straightforward at all. You find yourself constantly having to browse them with the "magnifying glass mode" just to understand what benefits they are actually providing to your shop. Or you could just straight up ignore them and just use items and decorations based on your vibe, which fits more in line with what game is about.
 
