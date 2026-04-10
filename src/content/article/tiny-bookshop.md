@@ -43,7 +43,7 @@ score: 7.7
 
 Following its success on PC, **Tiny Bookshop** officially launches on Xbox Series X|S, Xbox One, and PlayStation 5 today! The game is also available Day One on Xbox Game Pass and PC Game Pass starting **April 10.** After watching my partner play this game for hours and occasionally playing it myself, I finally had the chance to play the game for myself recently.
 
-<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/06.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
@@ -71,13 +71,15 @@ Beyond sales, you manage the physical layout of your shop. Decorations and furni
   </div>
 </div>
 
-#### 
-A Believable Recommendation System
 
 
 <div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/09.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
+
+#### 
+A Believable Recommendation System
+
 
 The "suggestion mechanic" is easily one of the most well-made parts of the game. Customers describe their specific tastes and preferences, and you have to recommend a book that fits. The books are tagged correctly as far as genre and descriptions are concerned, and the system feels incredibly believable. There weren't any moments where a book that fit perfectly in my understand, was rejected by a customer—the logic is on point and reliable, which makes the role-playing aspect feel satisfying. That isn't to say I don’t make mistakes; I certainly do. It usually happens when the shelves lack that perfect match and I decide to risk a 'loose' recommendation. Sometimes that gamble pays off, but other times, the customer just ends up disappointed.
 
@@ -86,7 +88,7 @@ The "suggestion mechanic" is easily one of the most well-made parts of the game.
 
 ### The Struggle with the Slow Pacing
 
-<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/03.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
@@ -112,7 +114,7 @@ Finally, there’s the setting of Bookstonbury. While the town is charming, you 
   </div>
 </div>
 
-<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/04.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
