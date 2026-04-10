@@ -45,7 +45,7 @@ Following its success on PC, **Tiny Bookshop** officially launches on Xbox Serie
 
 #### The Life of an on-the-go Mobile Bookseller
 
-<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/06.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
