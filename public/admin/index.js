@@ -243,7 +243,7 @@ if (window.CMS) {
       { name: "content", label: "Content", widget: "markdown" },
     ],
     // Made anchor-less and more flexible with classes/attributes
-    pattern: /<div class="flex flex-col (md:flex-row|md:flex-row-reverse)[^>]*>[\s\S]*?<img[\s\S]*?src=["']?([^"'\s>]+)["']?[\s\S]*?alt=["']?([^"']*)["']?[\s\S]*?\/>\s*(?:<div[^>]*>)?\s*([\s\S]*?)\s*(?:<\/div>)?\s*<\/div>/m,
+    pattern: /<div class="flex flex-col (md:flex-row-reverse|md:flex-row)[^>]*>[\s\S]*?<img[\s\S]*?src=["']?([^"'\s>]+)["']?[\s\S]*?alt=["']?([^"']*)["']?[\s\S]*?\/>\s*(?:<div[^>]*>)?\s*([\s\S]*?)\s*(?:<\/div>)?\s*<\/div>/m,
     fromBlock: function (match) {
       return {
         alignment: match[1] === "md:flex-row" ? "Left" : "Right",
