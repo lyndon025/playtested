@@ -25,7 +25,7 @@ gallery:
   - /images/uploads/07.avif
   - /images/uploads/09.avif
   - /images/uploads/10.avif
-score: 7.5
+score: 7.7
 ---
 Tiny Bookshop is a cozy management sim that puts you behind the wheel of a mobile bookstore. Set in the picturesque town of Bookstonbury, the game tasks you with stocking shelves, decorating your trailer, and becoming the community's go-to literary expert. It is a title designed for the "cozy gaming" crowd, focusing on the simple, meditative rhythm of matching the right book to the right reader.
 
