@@ -43,7 +43,7 @@ score: 7.7
 
 Following its success on PC, **Tiny Bookshop** officially launches on Xbox Series X|S, Xbox One, and PlayStation 5 today! The game is also available Day One on Xbox Game Pass and PC Game Pass starting **April 10.** After watching my partner play this game for hours and occasionally playing it myself, I finally had the chance to play the game for myself recently.
 
-<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/06.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
