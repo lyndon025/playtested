@@ -45,17 +45,13 @@ Following its success on PC, **Tiny Bookshop** officially launches on Xbox Serie
 
 ### The Life of an on-the-go Mobile Bookseller
 
-<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
   <img src="/images/uploads/06.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
 At its heart, **Tiny Bookshop** has very a simple cycle: you buy used books, you sell them on your mobile bookstore, and you earn gold. It’s a very chill loop that lacks any real "thrill" or intense challenge, but that’s clearly by design. One of the best touches is how the economy is handled - which is chill as well , the currency is simplified to just a handful of coins instead of a full-blown dollar system. It’s simplified enough to keep you focused on the inventory rather than the math.
 
 You begin each day by managing your inventory—sourcing books from various suppliers and then choosing which genres of books you place on your limited bookshelf space. Once your shop is open, gameplay shifts to a passive management style punctuated by direct customer interactions.
-
-<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-  <img src="/images/uploads/05.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
-  <div class="flex-1 w-full">
 
 What makes the experience pop (aside from the cozy, lo-fi visuals) is seeing all these references to real-life books from all over, because the game contains mostly real-life books for you to buy and sell about, and that actual readers, or even non-readers like me would instantly recognize. I have never read a full book, especially story ones, but I do know my own share of literatures, probably due to the fact that most of them gets adapted anyways to other forms of media. Books such as *Dune*, *The Lord of the Rings*, or even Manga like *Attack on Titan*.
 
@@ -64,21 +60,23 @@ Being able to stock and sell everything from *The Hobbit* to classic manga like 
   </div>
 </div>
 
-  </div>
-</div>
+<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+  <img src="/images/uploads/05.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
 
 The most "gamey" aspect is the emergent recommendation system, when it pops up. Instead of simple point-and-click sales, customers provide descriptive prompts about their mood, interests, or specific genres they’re craving. You must then manually browse your stocked inventory to find a match. The game probably uses a robust tagging system where every book is categorized by genre, tone, and subject matter (or multiple ones at that). Success depends on your ability to interpret customer needs and cross-reference them with your current stock. If you do meet their needs, you are giving a boost to your sales chances.
 
 Beyond sales, you manage the physical layout of your shop. Decorations and furniture aren't just cosmetic; they carry mechanical weights that influence shop stats. As you progress, you tasks, events, and characters that act as the primary driver for unlocking new locations, items, and expanding your trailer's capabilities.
 
+  </div>
+</div>
+
 
 
 ### A Believable Recommendation System
 
-
-
-<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
-  <img src="/images/uploads/10.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+<div class="flex flex-col md:flex-row items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+  <img src="/images/uploads/09.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
   <div class="flex-1 w-full">
 
 
@@ -89,9 +87,16 @@ The "suggestion mechanic" is easily one of the most well-made parts of the game.
 
 ### The Struggle with the Slow Pacing
 
+<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+  <img src="/images/uploads/03.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
+
 However, **Tiny Bookshop** can get quite monotonous because it doesn't allow for "power play." For instance, you can’t skip dialogues quickly, and there is a slight few-second delay when you are entering a conversation to recommend a book. These small animations and delay quirks prevent you from jumping to the next action you want to take immediately, especially if you've already seen these a lot of times already, and these small pet peeves really start to add up over time.
 
 The pacing is indeed very slow, maybe to a fault sometimes. Some parts of the gameplay feel like they should be fast-forwarded after you've experienced them a couple of times already, the game doesn't give you that option. You have to sit through each day at the intended speed. It’s clearly a game designed for a slow pace, but for anyone who wants to progress faster, the lack of a fast-forward toggle is a noticeable omission.
+
+  </div>
+</div>
 
 ### Progression and the "Bookstonbury" Life
 
@@ -108,8 +113,14 @@ Finally, there’s the setting of Bookstonbury. While the town is charming, you 
   </div>
 </div>
 
-![](/images/uploads/09.avif)
 
-### Conclusion
 
-Tiny Bookshop is a solid, cozy experience for those who want a low-stakes and slow-paced management sim. I’d imagine it’s even more rewarding for book lovers, thanks to the hundreds of real-life titles on its roster. While the slow pacing and minor interface delays might frustrate those looking for a faster experience, the smart recommendation system and real-world references make it a charming world to get lost in.
+<div class="flex flex-col md:flex-row-reverse items-center gap-6 mb-12 pb-6 border-b border-slate-700">
+  <img src="/images/uploads/04.avif" alt="undefined" class="w-full md:w-2/5 rounded shadow" />
+  <div class="flex-1 w-full">
+
+
+**Tiny Bookshop** is a solid, cozy experience for those who want a low-stakes and slow-paced management sim. I’d imagine it’s even more rewarding for book lovers, thanks to the hundreds of real-life titles on its roster. While the slow pacing and minor interface delays might frustrate those looking for a faster experience, the smart recommendation system and real-world references make it a charming world to get lost in.
+
+  </div>
+</div>
